@@ -50,3 +50,73 @@ See `docs/08_production/specialist_prompt_phase2b.md` for the full Phase 2B exec
 5. `docs/04_systems/tutorial_and_onboarding_flow.md`
 6. `docs/08_production/save_state_and_profile_flow.md`
 7. `docs/08_production/iap_catalog_v1.md`
+
+---
+
+## Phase 2B Start — Cleanup + Loamwake Content Sheet — 2026-04-19
+
+### What happened this session
+Targeted Phase 2A consistency cleanup applied. First Phase 2B content file created.
+
+**Cleanup changes applied (surgical, no Phase 2A rewrites):**
+
+1. `docs/04_systems/core_loop_mvp_spec.md`
+   - Corrected second Fixture cap increase from `0→2` to `1→2` in 3 locations (MVP Slice Summary table, First 60 Minutes beat, Systems In Scope list)
+
+2. `docs/04_systems/data_schema_v1.md`
+   - Renamed `quest_chain_ids` → `duty_chain_ids` on the `confidant` definition table
+   - Fixed hat passive constant from `all_unlocked_hats_stack` → `all_unlocked_hats_stack_tiny_passives`
+   - Added `confidant_state` player-state section (11 fields including trust_level, active_duty_chain_ids)
+   - Added `duty_progress` player-state section (11 fields including objective_progress, repeat_window_id)
+   - Added Warden/War Fixture ID prefix note to Unlock Conditions section
+   - Updated gate expression example from `bond_level` → `trust_level` (consistent with new confidant_state)
+
+3. `docs/06_content/content_table_templates.md`
+   - Warden prefix in ID Naming Conventions table: `war_` → `wdn_`; example `war_lw_001_mudgrip` → `wdn_lw_001_mudgrip`
+   - Zone example row: `war_lw_001_mudgrip` → `wdn_lw_001_mudgrip`
+   - Warden example row: `war_lw_001_mudgrip` → `wdn_lw_001_mudgrip`
+   - Hat example row unlock condition: `warden_clears.war_lw_001_mudgrip` → `warden_clears.wdn_lw_001_mudgrip`
+   - `wfx_` War Fixture IDs unchanged
+
+4. `docs/08_production/specialist_prompt_phase2b.md`
+   - Warden ID example: `war_lw_001_mudgrip` → `wdn_lw_001_mudgrip`
+   - Added Warden ID prefix rule to Canon Lock section
+   - Added "Do not use war_ for Warden IDs" and "Do not change wfx_ War Fixture IDs" to What NOT to Do
+
+**Files verified (no changes needed):**
+- `docs/07_ui/unlock_flow_and_ui_map.md` — cap sequence already compatible with 0→1→2; no `war_lw_` IDs present
+
+**New file created:**
+- `docs/06_content/loamwake_mvp_content_sheet.md` — Phase 2B content root
+  - 8 canonical Loamwake material names (locked; resolves provisional note in core_loop_mvp_spec.md)
+  - 3 launch zones (zone_lw_001–003) with drops and encounter table links
+  - 3 encounter pool tables (enc_table_lw_001/002/003) with 14 total spawn entries
+  - First Warden: `wdn_lw_001_mudgrip` (The Mudgrip) with first-clear and repeat rewards
+  - 4 Buried Clues; `clue_lw_002_terminal_routing_cache` grants `fman_001_terminal_routing`
+  - First Forgotten Manual: `fman_001_terminal_routing` — fully specified (permanent, consumed:false, separate from Elder Books)
+  - Rootrail station `rtr_station_lw_001_loamwake_terminal` + repair step `rtr_step_001`
+  - 5 personal Fixture definitions (fix_001–005, covering Farming/Pure Attack/Strain)
+  - 5 Fixture recipes (fix_rec_001–005) using only locked material IDs
+  - 6 Wanderers, 4 Runaways, 4 Wild Ones (all zone-referenced)
+  - Story Duty chain (4 Duties: dty_lw_001–004); cap increases embedded in dty_lw_001 and dty_lw_002 rewards
+  - 3 daily Duties
+  - 4 Burrow Posts
+
+**Tracking updated:**
+- `feature_list.json` — `content-001` appended with passes:true
+- `claude-progress.md` — this entry
+
+### Known remaining debt (unchanged)
+- `canon-002` — master_glossary.md still not updated
+- `prod-001` — implementation_planning_pack.md still false
+- `doc-001` — full doc audit still false
+
+### What Phase 2B should do next
+**Second file: `docs/06_content/first_confidant_chain.md`**
+
+Depends on Loamwake content sheet. Must define:
+- `cnf_001_placeholder_greta` with 3+ Duties; one Duty must hook to `dty_lw_003_greta_rail_lead`
+- `cnf_002_placeholder_mossvane` with 2+ Duties
+- Bond level scale (1–5)
+- `placeholder_flag: true` on all rows
+- All Duty rewards reference material IDs locked in `loamwake_mvp_content_sheet.md`

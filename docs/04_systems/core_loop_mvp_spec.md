@@ -25,7 +25,7 @@ All other Strata, full Rootrail networks, War Armory, Memory Shift, full Deepeni
 |-------|-----------|
 | The Burrow (home base) | In scope — basic functionality |
 | Loamwake (first Stratum) | In scope — full zone chain to first Warden clear |
-| Fixtures (personal) | In scope — 0→2 cap, crafting recipes 1–5 |
+| Fixtures (personal) | In scope — cap path 0→1→2, crafting recipes 1–5 |
 | Hats | In scope — first hat unlock as Loamwake milestone reward |
 | Rootrail | Stubbed visible — station visible, step 1 interactable |
 | Confidants | In scope — 2 placeholder Confidants with partial chains |
@@ -88,7 +88,7 @@ The MVP must validate these three pillars:
 | 30–35 min | Second Fixture recipe available (Loamwake Canister, Pure Attack). Player crafts if materials allow. | Fixtures |
 | 35–40 min | Burrow Post: second Burrowfolk unit (placeholder Rootnip) available for deployment | Burrowfolk |
 | 40–45 min | Burrow level increase prompt — unlocks second deployment slot | Burrow |
-| 45–50 min | Fixture cap increases 0→2 after completing Mudpipe Hollow Duty chain | Fixtures |
+| 45–50 min | Fixture cap increases 1→2 after completing Mudpipe Hollow Duty chain | Fixtures |
 | 50–55 min | **Rootrail reveal:** Edge of zone_lw_002 shows the old station ruins. Greta comments on it. | Rootrail |
 | 55–60 min | Player can visit the Rootrail station. See repair step 1. See Rootrail Parts requirement and Forgotten Manual gate. Not yet completable (Forgotten Manual not yet found). | Rootrail |
 
@@ -210,7 +210,7 @@ The hat unlock does NOT show a full hat collection screen (scope limited). Just 
 
 - The Burrow (basic room, Burrowfolk work, Burrow Posts)
 - Loamwake (all launch zones, Duties, Warden, Buried Clues)
-- Personal Fixtures (cap 0→2, recipes 1–5, equip/unequip)
+- Personal Fixtures (cap path 0→1→2, recipes 1–5, equip/unequip)
 - Hats (first hat unlock + display)
 - Rootrail Station (visible, step 1 start gated, not completable in session 1)
 - Confidants (2 placeholder Confidants, partial Duty chains)

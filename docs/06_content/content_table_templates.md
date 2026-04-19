@@ -38,7 +38,7 @@ This file defines the required and optional columns for every major content type
 | Content Type | Prefix | Example |
 |-------------|--------|---------|
 | Zone | `zone_` | `zone_lw_001_rootvine_shelf` |
-| Warden | `war_` | `war_lw_001_mudgrip` |
+| Warden | `wdn_` | `wdn_lw_001_mudgrip` |
 | Buried Clue | `clue_` | `clue_lw_001_rail_spike` |
 | Wanderer | `wnd_` | `wnd_001_grumbling_trader` |
 | Runaway | `run_` | `run_001_lost_burrowpup` |
@@ -120,7 +120,7 @@ Zones are explorable areas within a Stratum.
 ```
 zone_id, display_name, strata_id, zone_order, unlock_condition, mushcap_cost, encounter_table_id, resource_drops, warden_id, mvp_status
 zone_lw_001_rootvine_shelf, Rootvine Shelf, loamwake, 1, always, 2, enc_table_lw_001, tangled_root_twine:4-8, null, launch
-zone_lw_002_mudpipe_hollow, Mudpipe Hollow, loamwake, 2, strata_progress.loamwake.clears >= 1, 3, enc_table_lw_002, crumbled_ore_chunk:3-6, war_lw_001_mudgrip, launch
+zone_lw_002_mudpipe_hollow, Mudpipe Hollow, loamwake, 2, strata_progress.loamwake.clears >= 1, 3, enc_table_lw_002, crumbled_ore_chunk:3-6, wdn_lw_001_mudgrip, launch
 ```
 
 ---
@@ -156,7 +156,7 @@ Wardens are boss encounters gating Strata zone progression.
 
 **Example row:**
 ```
-war_lw_001_mudgrip, The Mudgrip, loamwake, zone_lw_002_mudpipe_hollow, strata_progress.loamwake.zones_unlocked contains zone_lw_002_mudpipe_hollow, 3, force, 2, {mooncaps:300 strain_seeds:15 fixture_material.crumbled_ore_chunk:8}, {mooncaps:50}, launch
+wdn_lw_001_mudgrip, The Mudgrip, loamwake, zone_lw_002_mudpipe_hollow, strata_progress.loamwake.zones_unlocked contains zone_lw_002_mudpipe_hollow, 3, force, 2, {mooncaps:300 strain_seeds:15 fixture_material.crumbled_ore_chunk:8}, {mooncaps:50}, launch
 ```
 
 ---
@@ -423,7 +423,7 @@ fix_003_pale_glow_lens, Pale Glow Lens, personal, strain, uncommon, account.fixt
 ```
 hat_id, display_name, hat_tier, identity_theme, social_status_tag, unlock_condition, acquisition_source, visible_asset_key, display_rule, permanent_passive_type, permanent_passive_value, passive_stack_rule, counts_against_fixture_cap, mvp_status
 hat_001_loamwake_dirt_cap, Loamwake Dirt Cap, 1, explorer, Loamwake Scout, strata_progress.loamwake.clears >= 1, duty_reward, hat_loamwake_dirt_cap_v1, one_visible_hat_at_a_time, mushcap_gather_rate, 0.01, all_unlocked_hats_stack_tiny_passives, false, launch
-hat_002_glow_rim, Glow Rim Hat, 2, collector, Glowchaser, strata_progress.loamwake.warden_clears.war_lw_001_mudgrip >= 3, warden_drop, hat_glow_rim_v1, one_visible_hat_at_a_time, echo_shard_drop_rate, 0.01, all_unlocked_hats_stack_tiny_passives, false, launch
+hat_002_glow_rim, Glow Rim Hat, 2, collector, Glowchaser, strata_progress.loamwake.warden_clears.wdn_lw_001_mudgrip >= 3, warden_drop, hat_glow_rim_v1, one_visible_hat_at_a_time, echo_shard_drop_rate, 0.01, all_unlocked_hats_stack_tiny_passives, false, launch
 ```
 
 ---

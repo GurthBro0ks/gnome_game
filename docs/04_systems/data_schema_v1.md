@@ -328,7 +328,7 @@ acquired_at: timestamp
 | `visible_asset_key` | string | Art asset reference |
 | `permanent_passive_type` | string | Bonus category |
 | `permanent_passive_value` | float | Bonus amount |
-| `passive_stack_rule` | const: `all_unlocked_hats_stack` | Always this value |
+| `passive_stack_rule` | const: `all_unlocked_hats_stack_tiny_passives` | Always this value |
 | `counts_against_fixture_cap` | const: `false` | Always false |
 | `related_event` | string \| null | |
 | `mvp_status` | enum: `launch`, `stub`, `future` | |
@@ -492,7 +492,7 @@ Per-account per-manual discovery record.
 | `display_name` | string | |
 | `backstory_hook` | string | One-line narrative hook |
 | `bond_stat_focus` | string | Which Heritage Stats they develop |
-| `quest_chain_ids` | list[string] | Duty chain IDs for this Confidant |
+| `duty_chain_ids` | list[string] | Duty chain IDs for this Confidant |
 | `unlock_condition` | string | Gate expression |
 | `mvp_status` | enum | Note: MVP allows placeholder content |
 | `placeholder_flag` | bool | `true` = temp content pending friend-questionnaire replacement |
@@ -511,6 +511,24 @@ Per-account per-manual discovery record.
 | `unlock_condition` | string | |
 | `mvp_status` | enum | |
 | `placeholder_flag` | bool | `true` = temp content |
+
+### `confidant_state` (player state)
+
+Per-account per-Confidant relationship and progress record.
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `account_id` | string | FK → account |
+| `confidant_id` | string | FK → confidant definition |
+| `unlocked` | bool | Has this Confidant been introduced |
+| `unlocked_at` | timestamp \| null | |
+| `trust_level` | int | Current bond level (1–5 scale; 0 = not yet bonded) |
+| `trust_points` | int | Points accumulated toward next trust level |
+| `active_duty_chain_ids` | list[string] | Duty chain IDs currently in progress |
+| `completed_duty_ids` | list[string] | All individual Duty IDs completed with this Confidant |
+| `calling_unlocked` | bool | Whether this Confidant's special ability is active |
+| `last_interaction_at` | timestamp \| null | Last Duty completed or dialogue triggered |
+| `meta` | object | Expansion fields |
 
 ---
 
@@ -532,6 +550,24 @@ Duties are the primary quest/task system (do not call these "quests" in-game).
 | `repeatable` | bool | Can this Duty be done more than once |
 | `repeat_cadence` | string \| null | e.g., `daily`, `weekly` |
 | `mvp_status` | enum | |
+
+### `duty_progress` (player state)
+
+Per-account per-Duty tracking record.
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `account_id` | string | FK → account |
+| `duty_id` | string | FK → duty definition |
+| `duty_chain_id` | string \| null | FK → parent chain, if applicable |
+| `state` | enum: `available`, `active`, `completed`, `expired`, `locked` | |
+| `objective_progress` | map[string → int] | Objective key → current count |
+| `started_at` | timestamp \| null | When duty was accepted |
+| `completed_at` | timestamp \| null | When objective was fulfilled |
+| `reward_claimed` | bool | Whether reward packet has been collected |
+| `repeat_window_id` | string \| null | e.g., `daily_2026-04-19` for daily cadence tracking |
+| `chain_next_dty_id` | string \| null | Next Duty in chain, copied from definition for fast lookup |
+| `meta` | object | Expansion fields |
 
 ### `post_state`
 
@@ -609,11 +645,14 @@ Unlock conditions are stored as human-readable strings evaluated by a gate resol
 "account.fixture_cap >= 3"
 "rootrail_state.completed_steps contains rtr_step_003"
 "wallet.mooncaps >= 500"
-"confidant_state.cnf_001.bond_level >= 2"
+"confidant_state.cnf_001.trust_level >= 2"
 "event_state.lucky_draw_week_001.ladder_tier_reached >= 5"
+"strata_progress.loamwake.warden_clears.wdn_lw_001_mudgrip >= 1"
 ```
 
 The gate resolver must support: `>=`, `<=`, `==`, `contains`, `and`, `or`, `not`.
+
+> **ID Prefix Note:** Warden IDs use the `wdn_` prefix (e.g., `wdn_lw_001_mudgrip`) and are stored in `strata_progress.<strata_id>.warden_clears`. War Fixture IDs use the `wfx_` prefix (e.g., `wfx_001_clique_ram_brace`) and are stored in `war_armory_loadout`. These prefixes must not be confused — `wdn_` is for Wardens; `wfx_` is for War Fixtures; `war_` is reserved for War Armory schema fields only.
 
 ---
 

@@ -179,6 +179,33 @@
       "added": "2026-04-19",
       "completed": null,
       "note": "NOT done in Phase 2A Salvage pass — requires a controlled glossary update pass; see phase2a_salvage_report.md Glossary Mismatch Note"
+    },
+    {
+      "id": "content-001",
+      "project": "gnome_game",
+      "description": "Loamwake MVP content sheet created: launch zones, material naming lock, first Warden (wdn_lw_001_mudgrip), Buried Clues, first Forgotten Manual (fman_001_terminal_routing), first 5 Fixture recipes, encounter pools, Duty chain, Burrow Posts",
+      "priority": "critical",
+      "passes": true,
+      "risk": "low",
+      "plan": [
+        "Define 8 canonical Loamwake material names",
+        "Define 3 launch zones with drops and encounter table links",
+        "Define 3 encounter pool tables (enc_table_lw_001/002/003)",
+        "Define first Warden wdn_lw_001_mudgrip with rewards",
+        "Define 4 Buried Clues including clue_lw_002 granting fman_001",
+        "Define first Forgotten Manual fman_001_terminal_routing fully",
+        "Define Rootrail station rtr_station_lw_001 and rtr_step_001",
+        "Define 5 personal Fixture definitions (fix_001–005)",
+        "Define 5 Fixture recipes (fix_rec_001–005)",
+        "Define 6 Wanderers, 4 Runaways, 4 Wild Ones",
+        "Define story Duty chain (4 Duties) + 3 daily Duties",
+        "Define 4 Burrow Posts",
+        "Lock all material names; resolve provisional note in core_loop_mvp_spec.md"
+      ],
+      "qa_verified": false,
+      "added": "2026-04-19",
+      "completed": "2026-04-19",
+      "phase2b_file": "docs/06_content/loamwake_mvp_content_sheet.md"
     }
   ]
 }

@@ -51,6 +51,7 @@ These rules are non-negotiable. They come from the Phase 2A canon lock and must 
 - Bronze Shovels stays Bronze Shovels.
 - Temporary placeholder Confidant/Burrowfolk content is ALLOWED for MVP.
 - Final friend-questionnaire Confidant content comes later — do not write it yet.
+- Warden IDs use the `wdn_` prefix (e.g., `wdn_lw_001_mudgrip`). War Fixture IDs use the `wfx_` prefix. Do not use `war_` for Warden IDs.
 
 **Forbidden:**
 - Do not use: Clothes, Cloth Assembly, Fit, Ascender, Ascender Parts
@@ -73,7 +74,7 @@ Tackle files in this order. Do not skip ahead — each file is a prerequisite fo
 **What it must contain:**
 - All launch zones (zone_lw_001 through zone_lw_00N) with zone IDs, names, Mushcap costs, resource drops
 - All Loamwake Fixture material names (lock the names used in core_loop_mvp_spec.md as provisional)
-- First Warden definition (The Mudgrip / war_lw_001_mudgrip) with stats and rewards
+- First Warden definition (The Mudgrip / wdn_lw_001_mudgrip) with stats and rewards
 - All Buried Clue definitions for Loamwake, including the one containing fman_001_terminal_routing
 - First Rootrail Forgotten Manual definition (fman_001_terminal_routing) with full columns
 - First 5 Fixture recipes with locked material names
@@ -291,4 +292,6 @@ The following items are flagged as UNRESOLVED in Phase 2A docs and should be loc
 - Do not write Strata 2–5 content
 - Do not design Great Dispute or Memory Shift gameplay
 - Do not write final friend-questionnaire Confidant content
+- Do not use `war_` prefixes for Warden IDs — Warden IDs must use `wdn_`
+- Do not change `wfx_` War Fixture IDs
 - Do not mark feature flags `true` without verifying the file passes its acceptance criteria
