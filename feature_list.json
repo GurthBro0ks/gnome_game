@@ -1,0 +1,168 @@
+{
+  "_meta": {
+    "project": "gnome_game",
+    "scope": "game-design-repo",
+    "last_updated": "2026-04-19",
+    "rules": "NEVER remove or edit existing features. Only update 'passes' after verification. Add new features at the end. The 'risk' field guides Prompt P planning depth."
+  },
+  "features": [
+    {
+      "id": "scaffold-001",
+      "project": "gnome_game",
+      "description": "Repo scaffold complete: folder structure, all existing design docs placed, harness files created, pushed to GitHub",
+      "priority": "critical",
+      "passes": false,
+      "risk": "low",
+      "plan": [
+        "Run setup_gnome_game.sh",
+        "Verify all docs placed in correct folders",
+        "Verify git remote set to GurthBro0ks/gnome_game",
+        "Verify push succeeds"
+      ],
+      "qa_verified": false,
+      "added": "2026-04-19",
+      "completed": null
+    },
+    {
+      "id": "doc-001",
+      "project": "gnome_game",
+      "description": "All 17 existing design docs verified present and readable in canonical locations",
+      "priority": "critical",
+      "passes": false,
+      "risk": "low",
+      "plan": [
+        "Check docs/01_core/master_glossary.md exists and has content",
+        "Check docs/02_world/phase1_content_bible.md exists",
+        "Check docs/02_world/deepening_arc.md exists",
+        "Check docs/03_factions/ has all 3 faction docs",
+        "Check docs/04_systems/ has economy docs",
+        "Check docs/05_liveops/ has 5 liveops docs",
+        "Check docs/06_content/ has 3 content docs",
+        "Verify no empty placeholder files remain for existing docs"
+      ],
+      "qa_verified": false,
+      "added": "2026-04-19",
+      "completed": null
+    },
+    {
+      "id": "prod-001",
+      "project": "gnome_game",
+      "description": "Implementation planning pack created: system architecture map, launch scope, currency map, home-screen module map, region plan, event math, risk list, build order",
+      "priority": "critical",
+      "passes": false,
+      "risk": "medium",
+      "plan": [
+        "Create docs/08_production/implementation_planning_pack.md",
+        "Include system architecture map",
+        "Include launch scope vs later scope table",
+        "Include currency/sink/faucet map",
+        "Include home-screen module map",
+        "Include region progression plan",
+        "Include event math targets",
+        "Include risk list",
+        "Include recommended build order",
+        "Mark all unresolved items clearly"
+      ],
+      "qa_verified": false,
+      "added": "2026-04-19",
+      "completed": null
+    },
+    {
+      "id": "prod-002",
+      "project": "gnome_game",
+      "description": "Data schema v1 created: all major game entities, relationships, persistent player state",
+      "priority": "high",
+      "passes": false,
+      "risk": "medium",
+      "plan": [
+        "Create docs/04_systems/data_schema_v1.md",
+        "Define account, burrow_state, strata_progress, strain_progress entities",
+        "Define confidant, burrowfolk, treasure, clothes entities",
+        "Define event_state, deepening_state, crack_state",
+        "Define post_state, encounter_state",
+        "Document owned vs equipped vs unlocked distinctions",
+        "Document scaling approach for live-service additions"
+      ],
+      "qa_verified": false,
+      "added": "2026-04-19",
+      "completed": null
+    },
+    {
+      "id": "prod-003",
+      "project": "gnome_game",
+      "description": "Core loop MVP spec created: first 10 minutes, first 60 minutes, first daily return, proof of fun criteria",
+      "priority": "high",
+      "passes": false,
+      "risk": "medium",
+      "plan": [
+        "Create docs/04_systems/core_loop_mvp_spec.md",
+        "Define MVP slice: Burrow + Loamwake only",
+        "Define first-session flow",
+        "Define first-day flow",
+        "Define first meaningful decision",
+        "Define proof of fun criteria",
+        "List exact features in scope vs deliberately out of scope"
+      ],
+      "qa_verified": false,
+      "added": "2026-04-19",
+      "completed": null
+    },
+    {
+      "id": "prod-004",
+      "project": "gnome_game",
+      "description": "Unlock flow and UI map created: minute-1 visible modules, day-1/2/3 unlock order, red-dot logic",
+      "priority": "high",
+      "passes": false,
+      "risk": "low",
+      "plan": [
+        "Create docs/07_ui/unlock_flow_and_ui_map.md",
+        "Define minute-1 visible modules",
+        "Define day-1 unlock order",
+        "Define Loamwake-clear unlocks",
+        "Define when Clique, Crack, Vault, Ascender, Strain Hall appear",
+        "Establish red-dot / notification rules"
+      ],
+      "qa_verified": false,
+      "added": "2026-04-19",
+      "completed": null
+    },
+    {
+      "id": "prod-005",
+      "project": "gnome_game",
+      "description": "Content table templates created: CSV column specs for all major content types",
+      "priority": "medium",
+      "passes": false,
+      "risk": "low",
+      "plan": [
+        "Create docs/06_content/content_table_templates.md",
+        "Define CSV columns for Wanderers, Runaways, Wild Ones",
+        "Define CSV columns for Confidants, Burrowfolk, Treasures, Clothes",
+        "Define CSV columns for Wardens, Duties, Burrow Posts",
+        "Define CSV columns for event ladders, Festival Ledger tracks",
+        "Create sample data/ CSV files with headers"
+      ],
+      "qa_verified": false,
+      "added": "2026-04-19",
+      "completed": null
+    },
+    {
+      "id": "prod-006",
+      "project": "gnome_game",
+      "description": "Backend architecture options documented: stack candidates, pros/cons, recommended path",
+      "priority": "medium",
+      "passes": false,
+      "risk": "medium",
+      "plan": [
+        "Create docs/08_production/backend_architecture.md",
+        "Evaluate Firebase, PlayFab, Unity Gaming Services, hybrid",
+        "Document anti-cheat considerations",
+        "Document content delivery / remote config options",
+        "Select preferred stack with reasons",
+        "Identify prototype path and migration risks"
+      ],
+      "qa_verified": false,
+      "added": "2026-04-19",
+      "completed": null
+    }
+  ]
+}
