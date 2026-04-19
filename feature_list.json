@@ -11,7 +11,7 @@
       "project": "gnome_game",
       "description": "Repo scaffold complete: folder structure, all existing design docs placed, harness files created, pushed to GitHub",
       "priority": "critical",
-      "passes": false,
+      "passes": true,
       "risk": "low",
       "plan": [
         "Run setup_gnome_game.sh",
