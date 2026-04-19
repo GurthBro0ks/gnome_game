@@ -1,1 +1,19 @@
-# Economy Model v1
+currency,base_value,inflation_rate,region,status
+Aurum,1.00,0.02,Northland,active
+Silver,0.85,0.015,Southmarsh,active
+Iron,0.40,0.03,Mountainhold,active
+Copper,0.15,0.025,Eastveil,active
+Gold,2.50,0.01,Sundale,active
+Platinum,5.00,0.005,Westridge,active
+Lead,0.10,0.04,Lowmarsh,inactive
+Tin,0.20,0.035,Highpass,active
+Zinc,0.25,0.03,Newhold,active
+Nickel,0.30,0.028,Stonebrook,active
+Cobalt,0.60,0.022,Bluepeak,active
+Mithril,3.00,0.008,Starfall,active
+Orichalcum,4.00,0.006,Dawnspire,active
+Adamantium,6.00,0.004,Obsidian,active
+Quartz,0.50,0.02,Sunstone,active
+Opal,1.20,0.018,Wavecrest,active
+Jade,1.80,0.012,Greenhollow,active
+Amber,0.90,0.022,Windmere,active
