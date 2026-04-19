@@ -1,0 +1,48 @@
+{
+  "pageid": 560,
+  "ns": 0,
+  "title": "Lawrence Trophy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lawrence_Trophy",
+  "touched": "2024-09-06T14:46:12Z",
+  "length": 918,
+  "lastrevid": 16476,
+  "revision": {
+    "revid": 16476,
+    "parentid": 11493,
+    "timestamp": "2023-11-07T09:23:55Z",
+    "sha1": "976d8c511f5d3b746d657843b24666f85241484b",
+    "size": 918
+  },
+  "categories": [
+    "ATK Boost",
+    "FAME Relics",
+    "Gene Simulation Boost",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics",
+    "Value Pack Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Lawrence Trophy",
+        "rank": "Green",
+        "affct": "FAME",
+        "source": "Gene Sim Value Pack ($4.99)",
+        "description": "Annually, Lawrence Trophy goes to the most outstanding male and female athletes in the world. It is one of the most influential prizes in sports. It is also the only global sports award ceremony, the pinnacle of glory for athletes!",
+        "fame": "28",
+        "art": "16",
+        "fth": "15",
+        "civ": "15",
+        "tech": "16",
+        "ss1": "Gene Simulation Power Checks -3%<br>Per 30 Gene Simulation LVLs, Snail ATK +2<br>Gene Simulation LVLs: 900/900",
+        "ss2": "Gene Simulation Power Checks -6%<br>Per 30 Gene Simulation LVLs, Snail ATK +4<br>Gene Simulation LVLs: 900/900",
+        "ss3": "Gene Simulation Power Checks -9%<br>Per 30 Gene Simulation LVLs, Snail ATK +6<br>Gene Simulation LVLs: 900/900"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lawrence_Trophy.wiki",
+  "markdown_path": "markdown/Lawrence_Trophy.md"
+}

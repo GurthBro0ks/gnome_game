@@ -1,0 +1,33 @@
+{
+  "pageid": 8541,
+  "ns": 0,
+  "title": "Oracle of Delphi+Book of Enoch",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Oracle_of_Delphi%2BBook_of_Enoch",
+  "touched": "2025-06-16T20:52:43Z",
+  "length": 172,
+  "lastrevid": 34437,
+  "revision": {
+    "revid": 34437,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:22:28Z",
+    "sha1": "e6d32a702433a8e8c05a4f09ecf202c4c649f33f",
+    "size": 172
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "620",
+        "relics": "Oracle of Delphi,Book of Enoch",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Dismantle 1 Blue Brand: Gain 1 more fragment by 10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Oracle_of_Delphi_Book_of_Enoch.wiki",
+  "markdown_path": "markdown/Oracle_of_Delphi_Book_of_Enoch.md"
+}

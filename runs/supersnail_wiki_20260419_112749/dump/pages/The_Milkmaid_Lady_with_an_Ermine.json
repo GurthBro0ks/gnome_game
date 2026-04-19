@@ -1,0 +1,33 @@
+{
+  "pageid": 4972,
+  "ns": 0,
+  "title": "The Milkmaid+Lady with an Ermine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Milkmaid%2BLady_with_an_Ermine",
+  "touched": "2025-06-20T00:05:16Z",
+  "length": 139,
+  "lastrevid": 35867,
+  "revision": {
+    "revid": 35867,
+    "parentid": 18581,
+    "timestamp": "2025-06-20T00:05:16Z",
+    "sha1": "f4acd1005e22d48be27104304a6e370e744f31f5",
+    "size": 139
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "390",
+        "relics": "The Milkmaid,Lady with an Ermine",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail RUSH +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Milkmaid_Lady_with_an_Ermine.wiki",
+  "markdown_path": "markdown/The_Milkmaid_Lady_with_an_Ermine.md"
+}

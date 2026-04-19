@@ -1,0 +1,33 @@
+{
+  "pageid": 9287,
+  "ns": 0,
+  "title": "Otzi+Soldier Island Dolls+Essay on Manners+Grimm's Fairy Tales+Konjaku Hyakki Shui+Night on Bald Mountain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Otzi%2BSoldier_Island_Dolls%2BEssay_on_Manners%2BGrimm%27s_Fairy_Tales%2BKonjaku_Hyakki_Shui%2BNight_on_Bald_Mountain",
+  "touched": "2025-06-20T00:19:08Z",
+  "length": 225,
+  "lastrevid": 36164,
+  "revision": {
+    "revid": 36164,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:19:08Z",
+    "sha1": "0362a541affc763de821887bba3d97d38d294cd3",
+    "size": 225
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "711",
+        "relics": "Otzi,Soldier Island Dolls,Essay on Manners,Grimm's Fairy Tales,Konjaku Hyakki Shui,Night on Bald Mountain",
+        "rank": "purple",
+        "amount": "6",
+        "category": "self",
+        "description": "All minion skins RUSH +100%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Otzi_Soldier_Island_Dolls_Essay_on_Manners_Grimm_s_Fairy_Tales_Konjaku_Hyakki_Shui_Night_on_Bald_Mountain.wiki",
+  "markdown_path": "markdown/Otzi_Soldier_Island_Dolls_Essay_on_Manners_Grimm_s_Fairy_Tales_Konjaku_Hyakki_Shui_Night_on_Bald_Mountain.md"
+}

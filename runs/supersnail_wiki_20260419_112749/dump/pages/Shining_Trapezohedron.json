@@ -1,0 +1,52 @@
+{
+  "pageid": 10944,
+  "ns": 0,
+  "title": "Shining Trapezohedron",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Shining_Trapezohedron",
+  "touched": "2025-08-11T11:06:41Z",
+  "length": 1456,
+  "lastrevid": 38916,
+  "revision": {
+    "revid": 38916,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:06:41Z",
+    "sha1": "e673476a3faa020126fe44e1ec45aa1cf2f7b66c",
+    "size": 1456
+  },
+  "categories": [
+    "FAITH Relics",
+    "Pages with broken file links",
+    "Purple FAITH Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Shining Trapezohedron",
+        "class_id": "22564",
+        "rank": "AAA",
+        "affct": "FAITH",
+        "birthday": "11-28",
+        "description": "On Nov 28, 1934 AD, an overly curious man discovered the Shining Trapezohedron.<br>This peculiar-looking tool was made to seal an evil existence. Although it looks like a colorfully odd egg-shaped object at first glance, its numerous irregular planes on the surface prove that it is not an ordinary craft. It is said that when it is placed in the darkness, some indescribable existence will be released, but the authenticity of this information has yet to be confirmed by anyone…",
+        "fame": "42",
+        "art": "51",
+        "fth": "71",
+        "civ": "36",
+        "tech": "43",
+        "ss1": "All Tribal Protolith output +6%<br>Per Godhood LVL, Snail ATK +15<br>Godhood LVL: 10/10",
+        "ss2": "All Tribal Protolith output +8%<br>Per Godhood LVL, Snail ATK +20<br>Godhood LVL: 10/10",
+        "ss3": "All Tribal Protolith output +10%<br>Per Godhood LVL, Snail ATK +25<br>Godhood LVL: 10/10",
+        "ss4": "All Tribal Protolith output +14%<br>Per Godhood LVL, Snail ATK +35<br>Godhood LVL: 10/10",
+        "ss5": "All Tribal Protolith output +18%<br>Per Godhood LVL, Snail ATK +45<br>Godhood LVL: 10/10",
+        "ss7": "All Tribal Protolith output +18%<br>Per Godhood LVL, Snail ATK +45<br>Godhood LVL: 10/10<br>All Tribal Protolith output +14% (Awakened)",
+        "skill1": "[[File:Forestsanctum skill II.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +15%",
+        "skill2": "[[File:Forestsanctum skill II.png|50px]]Place in Forest Sanctum: This Relic's FTH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Shining_Trapezohedron.wiki",
+  "markdown_path": "markdown/Shining_Trapezohedron.md"
+}

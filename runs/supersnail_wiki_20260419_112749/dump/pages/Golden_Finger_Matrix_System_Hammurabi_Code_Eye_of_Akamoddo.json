@@ -1,0 +1,33 @@
+{
+  "pageid": 11070,
+  "ns": 0,
+  "title": "Golden Finger+Matrix System+Hammurabi Code+Eye of Akamoddo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Finger%2BMatrix_System%2BHammurabi_Code%2BEye_of_Akamoddo",
+  "touched": "2025-08-11T11:11:14Z",
+  "length": 207,
+  "lastrevid": 39107,
+  "revision": {
+    "revid": 39107,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:11:14Z",
+    "sha1": "be9389629f90ac1f0d5634fade5f5d6efa55e27f",
+    "size": 207
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "263",
+        "relics": "Golden Finger,Matrix System,Hammurabi Code,Eye of Akamoddo",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per Realm conquered, Snail DEF +90;Realms Conquered: 8/8"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Finger_Matrix_System_Hammurabi_Code_Eye_of_Akamoddo.wiki",
+  "markdown_path": "markdown/Golden_Finger_Matrix_System_Hammurabi_Code_Eye_of_Akamoddo.md"
+}

@@ -1,0 +1,59 @@
+{
+  "pageid": 1747,
+  "ns": 0,
+  "title": "Crystal Piano",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Crystal_Piano",
+  "touched": "2024-11-04T01:11:06Z",
+  "length": 1620,
+  "lastrevid": 28740,
+  "revision": {
+    "revid": 28740,
+    "parentid": 21769,
+    "timestamp": "2024-08-12T17:07:53Z",
+    "sha1": "b584407bfd14d1229e10f1cb1fe6cf03e18637ed",
+    "size": 1620
+  },
+  "categories": [
+    "ATK Boost",
+    "CIV Relics",
+    "Enhanced by Relic Points",
+    "Indigent Nobleman Relics",
+    "Minion DEF Boost",
+    "Murika Exploration Boost",
+    "Murika Museum Boost",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics",
+    "Stan Boost",
+    "Tadpole Pond Output Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Crystal Piano",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "05-03",
+        "source": "* Fragment Crafting (1.5%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)\n* [[Indigent Nobleman]] (210k {{RewardIconWithText|B-Tad}})",
+        "description": "On May 3, 2008, Heintzman created this simple and luxurious crystal piano.\n\nThe piano was played for the first time on that day. A few months later, a famous musician used it to play a song at the opening ceremony of the Olympic Games before almost 10 billion viewers. This piano has smooth lines and bears a natural and pleasant tone. Like a snow fairy, it dances gracefully in the sound of music. \n\n[Auction Price]\n\nSelling price: 3.22 million dollars",
+        "fame": "47",
+        "art": "41",
+        "fth": "45",
+        "civ": "71",
+        "tech": "39",
+        "ss1": "Tadpole Pond Max Cap +6%<br>Tadpole Pond B-tad Output +6%",
+        "ss2": "Tadpole Pond Max Cap +8%<br>Tadpole Pond B-tad Output +8%",
+        "ss3": "Tadpole Pond Max Cap +10%<br>Tadpole Pond B-tad Output +10%",
+        "ss4": "Tadpole Pond Max Cap +14%<br>Tadpole Pond B-tad Output +14%",
+        "ss5": "Tadpole Pond Max Cap +18%<br>Tadpole Pond B-tad Output +18%",
+        "ss7": "Tadpole Pond Max Cap +18%<br>Tadpole Pond B-tad Output +18%<br>Tadpole Pond B-tad Output +14% (Awakened)",
+        "skill1": "[[File:Murika skill II.png|50px]] Place in Murikan Museum: This Relic's CIV +10",
+        "skill2": "[[File:Murika skill II.png|50px]] Place in Murikan Museum: In Murika, Snail HP +300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Crystal_Piano.wiki",
+  "markdown_path": "markdown/Crystal_Piano.md"
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 6340,
+  "ns": 0,
+  "title": "Ra's Solar Barque+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ra%27s_Solar_Barque%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 248,
+  "lastrevid": 25772,
+  "revision": {
+    "revid": 25772,
+    "parentid": 0,
+    "timestamp": "2024-04-28T22:44:02Z",
+    "sha1": "1f72c21f32532347907c29493507944fcb71084d",
+    "size": 248
+  },
+  "categories": [
+    "Dragon Minion HARD Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Ra's Solar Barque,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 60 T7+ Dragon Minions in battle: Troop HARD Stats +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ra_s_Solar_Barque_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Ra_s_Solar_Barque_Mysterious_Relic.md"
+}

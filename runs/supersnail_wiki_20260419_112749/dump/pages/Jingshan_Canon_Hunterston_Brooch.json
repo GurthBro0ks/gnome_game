@@ -1,0 +1,35 @@
+{
+  "pageid": 7952,
+  "ns": 0,
+  "title": "Jingshan Canon+Hunterston Brooch",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jingshan_Canon%2BHunterston_Brooch",
+  "touched": "2025-02-22T17:22:28Z",
+  "length": 200,
+  "lastrevid": 33403,
+  "revision": {
+    "revid": 33403,
+    "parentid": 0,
+    "timestamp": "2025-02-21T20:07:13Z",
+    "sha1": "c1ea2318932645af2557634fde8c21c0a1651f71",
+    "size": 200
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Jingshan Canon,Hunterston Brooch",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jingshan_Canon_Hunterston_Brooch.wiki",
+  "markdown_path": "markdown/Jingshan_Canon_Hunterston_Brooch.md"
+}

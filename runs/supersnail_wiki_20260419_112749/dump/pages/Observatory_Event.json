@@ -1,0 +1,24 @@
+{
+  "pageid": 3429,
+  "ns": 0,
+  "title": "Observatory Event",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Observatory_Event",
+  "touched": "2025-04-07T07:08:06Z",
+  "length": 3948,
+  "lastrevid": 30809,
+  "revision": {
+    "revid": 30809,
+    "parentid": 30615,
+    "timestamp": "2024-10-28T19:12:04Z",
+    "sha1": "21debc2130ffcc3288d168cc9fea7292383ad6de",
+    "size": 3948
+  },
+  "categories": [
+    "Altar",
+    "Events"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Observatory_Event.wiki",
+  "markdown_path": "markdown/Observatory_Event.md"
+}

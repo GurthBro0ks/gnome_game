@@ -1,0 +1,24 @@
+{
+  "pageid": 9705,
+  "ns": 0,
+  "title": "Perseus",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Perseus",
+  "touched": "2025-06-20T16:08:36Z",
+  "length": 324,
+  "lastrevid": 36701,
+  "revision": {
+    "revid": 36701,
+    "parentid": 0,
+    "timestamp": "2025-06-20T16:08:36Z",
+    "sha1": "ed19b02b12d3c5352f427ee5b5b64796fd3287bc",
+    "size": 324
+  },
+  "categories": [
+    "Clones",
+    "Orange Clones"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Perseus.wiki",
+  "markdown_path": "markdown/Perseus.md"
+}

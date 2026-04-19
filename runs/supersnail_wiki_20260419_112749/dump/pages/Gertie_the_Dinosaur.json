@@ -1,0 +1,50 @@
+{
+  "pageid": 4570,
+  "ns": 0,
+  "title": "Gertie the Dinosaur",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gertie_the_Dinosaur",
+  "touched": "2025-06-16T23:14:06Z",
+  "length": 1195,
+  "lastrevid": 35036,
+  "revision": {
+    "revid": 35036,
+    "parentid": 26292,
+    "timestamp": "2025-06-16T23:14:06Z",
+    "sha1": "bec979d3908eef000324b4c9a3d42c56e31f8d19",
+    "size": 1195
+  },
+  "categories": [
+    "Blue FAME Relics",
+    "Blue Relics",
+    "FAME Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gertie the Dinosaur",
+        "class_id": "22015",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "05-07",
+        "source": "Lottery Machine No.2 (0.26%), Wishing (0.14%)",
+        "description": "On May 7, 1913 AD, McCay designed the image of Gertie, the dinosaur.<br>Gertie the Dinosaur is a pioneering work of animation by McCay, the pioneer of the animation industry. The creation of the animated character, Gertie the Dinosaur, marked a turning point in the animation industry. Before its creation, animation was mainly used as a special effect in movies or the experimental work of elite artists. The creation of Gertie the Dinosaur not only directly influenced all the cartoonists and anima …",
+        "fame": "45",
+        "art": "27",
+        "fth": "20",
+        "civ": "28",
+        "tech": "34",
+        "ss1": "Per 10 Dragon Minions in battle:<br>> Troop ATK +1",
+        "ss2": "Per 10 Dragon Minions in battle:<br>> Troop ATK +2",
+        "ss3": "Per 10 Dragon Minions in battle:<br>> Troop ATK +3",
+        "ss4": "Per 10 Dragon Minions in battle:<br>> Troop ATK +5",
+        "ss7": "Per 10 Dragon Minions in battle:<br>> Troop ATK +5<br>Per 10 Dragon Minions in battle:<br>> Troop ATK +5 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: This Relic's FAME +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gertie_the_Dinosaur.wiki",
+  "markdown_path": "markdown/Gertie_the_Dinosaur.md"
+}

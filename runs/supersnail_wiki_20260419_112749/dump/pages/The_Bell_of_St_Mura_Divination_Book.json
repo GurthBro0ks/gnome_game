@@ -1,0 +1,33 @@
+{
+  "pageid": 4912,
+  "ns": 0,
+  "title": "The Bell of St Mura+Divination Book",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Bell_of_St_Mura%2BDivination_Book",
+  "touched": "2025-06-20T00:07:42Z",
+  "length": 147,
+  "lastrevid": 35903,
+  "revision": {
+    "revid": 35903,
+    "parentid": 18339,
+    "timestamp": "2025-06-20T00:07:42Z",
+    "sha1": "d697e6a18e3ee8593d02952dfd0aba45f2d21886",
+    "size": 147
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "403",
+        "relics": "The Bell of St Mura,Divination Book",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Angel Minion HP +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Bell_of_St_Mura_Divination_Book.wiki",
+  "markdown_path": "markdown/The_Bell_of_St_Mura_Divination_Book.md"
+}

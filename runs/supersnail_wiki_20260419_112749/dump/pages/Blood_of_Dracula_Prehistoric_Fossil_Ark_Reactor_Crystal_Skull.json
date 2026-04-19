@@ -1,0 +1,34 @@
+{
+  "pageid": 3670,
+  "ns": 0,
+  "title": "Blood of Dracula+Prehistoric Fossil+Ark Reactor+Crystal Skull",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Blood_of_Dracula%2BPrehistoric_Fossil%2BArk_Reactor%2BCrystal_Skull",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 204,
+  "lastrevid": 13274,
+  "revision": {
+    "revid": 13274,
+    "parentid": 0,
+    "timestamp": "2023-09-24T16:24:26Z",
+    "sha1": "d5d8991fe26f17a49ec33e7713ecee235e088372",
+    "size": 204
+  },
+  "categories": [
+    "DNA"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Blood of Dracula,Prehistoric Fossil,Ark Reactor,Crystal Skull",
+        "rank": "purple",
+        "amount": "4",
+        "category": "dna",
+        "description": "Dragon Gene Research SPD +4.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Blood_of_Dracula_Prehistoric_Fossil_Ark_Reactor_Crystal_Skull.wiki",
+  "markdown_path": "markdown/Blood_of_Dracula_Prehistoric_Fossil_Ark_Reactor_Crystal_Skull.md"
+}

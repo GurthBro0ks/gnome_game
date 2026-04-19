@@ -1,0 +1,33 @@
+{
+  "pageid": 4595,
+  "ns": 0,
+  "title": "Bobby's Golf Club+Montgolfier Balloon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bobby%27s_Golf_Club%2BMontgolfier_Balloon",
+  "touched": "2025-06-20T00:00:03Z",
+  "length": 173,
+  "lastrevid": 35737,
+  "revision": {
+    "revid": 35737,
+    "parentid": 18394,
+    "timestamp": "2025-06-20T00:00:03Z",
+    "sha1": "a6024fdcdfb81be5824ad1676762bb7d9ac85dc6",
+    "size": 173
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "304",
+        "relics": "Bobby's Golf Club,Montgolfier Balloon",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Zombie Minions in battle: Troop DEF +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bobby_s_Golf_Club_Montgolfier_Balloon.wiki",
+  "markdown_path": "markdown/Bobby_s_Golf_Club_Montgolfier_Balloon.md"
+}

@@ -1,0 +1,36 @@
+{
+  "pageid": 7963,
+  "ns": 0,
+  "title": "Amarna Letters+WLAN+Baopuzi+Optical Fiber Communication+Attic Nights+Mike",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Amarna_Letters%2BWLAN%2BBaopuzi%2BOptical_Fiber_Communication%2BAttic_Nights%2BMike",
+  "touched": "2025-02-22T17:27:03Z",
+  "length": 339,
+  "lastrevid": 33415,
+  "revision": {
+    "revid": 33415,
+    "parentid": 0,
+    "timestamp": "2025-02-22T01:55:23Z",
+    "sha1": "51c4d3b22be0a95efedc61ee9cc9dd2b44689f86",
+    "size": 339
+  },
+  "categories": [
+    "Enhanced by CIV Relics",
+    "Primeval Power Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Amarna Letters,WLAN,Baopuzi,Optical Fiber Communication,Attic Nights,Mike",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Per 3 CIV Relics awakened, Snail Primeval Power +12; CIV Relics Awakened: 180/180"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Amarna_Letters_WLAN_Baopuzi_Optical_Fiber_Communication_Attic_Nights_Mike.wiki",
+  "markdown_path": "markdown/Amarna_Letters_WLAN_Baopuzi_Optical_Fiber_Communication_Attic_Nights_Mike.md"
+}

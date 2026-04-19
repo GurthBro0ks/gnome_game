@@ -1,0 +1,33 @@
+{
+  "pageid": 10019,
+  "ns": 0,
+  "title": "Lion-dogs Statue+Mischief Map+The Goodbye Kiss+Azoth+Rashomon+Kilby's IC",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lion-dogs_Statue%2BMischief_Map%2BThe_Goodbye_Kiss%2BAzoth%2BRashomon%2BKilby%27s_IC",
+  "touched": "2025-08-11T10:35:13Z",
+  "length": 251,
+  "lastrevid": 37555,
+  "revision": {
+    "revid": 37555,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:35:13Z",
+    "sha1": "69d2b7dcb17653cff69ffd8411b0b949ca2e6e4e",
+    "size": 251
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "449",
+        "relics": "Lion-dogs Statue,Mischief Map,The Goodbye Kiss,Azoth,Rashomon,Kilby's IC",
+        "rank": "purple",
+        "amount": "6",
+        "category": "self",
+        "description": "Per 30 Divine Order Chests opened: Snail ATK +10;Divine Order Chests Opened: 1500/1500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lion-dogs_Statue_Mischief_Map_The_Goodbye_Kiss_Azoth_Rashomon_Kilby_s_IC.wiki",
+  "markdown_path": "markdown/Lion-dogs_Statue_Mischief_Map_The_Goodbye_Kiss_Azoth_Rashomon_Kilby_s_IC.md"
+}

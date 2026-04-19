@@ -1,0 +1,33 @@
+{
+  "pageid": 4232,
+  "ns": 0,
+  "title": "Kojiki+Eight Proposals",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kojiki%2BEight_Proposals",
+  "touched": "2025-06-20T00:04:46Z",
+  "length": 182,
+  "lastrevid": 35851,
+  "revision": {
+    "revid": 35851,
+    "parentid": 18609,
+    "timestamp": "2025-06-20T00:04:46Z",
+    "sha1": "47fffea5be2431dc0c2b1daf8eed51ac4fa61c67",
+    "size": 182
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "470",
+        "relics": "Kojiki,Eight Proposals",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 30 Evo Chests opened, Snail ATK +7;Evo Chests Opened: 1500/1500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kojiki_Eight_Proposals.wiki",
+  "markdown_path": "markdown/Kojiki_Eight_Proposals.md"
+}

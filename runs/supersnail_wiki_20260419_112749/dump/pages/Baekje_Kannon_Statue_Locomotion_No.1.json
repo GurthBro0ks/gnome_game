@@ -1,0 +1,36 @@
+{
+  "pageid": 7984,
+  "ns": 0,
+  "title": "Baekje Kannon Statue+Locomotion No.1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Baekje_Kannon_Statue%2BLocomotion_No.1",
+  "touched": "2025-03-23T18:40:51Z",
+  "length": 308,
+  "lastrevid": 33437,
+  "revision": {
+    "revid": 33437,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:37:13Z",
+    "sha1": "9467022fc011884325cd8b713882a29131e5857e",
+    "size": 308
+  },
+  "categories": [
+    "Oblivion Power Boost",
+    "Pages with broken file links",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Baekje Kannon Statue,Locomotion No.1",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 50 Hellas Soul Nail of Profanity Reforged, Snail Oblivion Power +7; Hellas Soul Nail of Profanity Reforged: 3,000/3,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Baekje_Kannon_Statue_Locomotion_No.1.wiki",
+  "markdown_path": "markdown/Baekje_Kannon_Statue_Locomotion_No.1.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 3777,
+  "ns": 0,
+  "title": "Aesop's Fables+Divine Comedy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Aesop%27s_Fables%2BDivine_Comedy",
+  "touched": "2025-06-20T00:00:29Z",
+  "length": 164,
+  "lastrevid": 35750,
+  "revision": {
+    "revid": 35750,
+    "parentid": 13675,
+    "timestamp": "2025-06-20T00:00:29Z",
+    "sha1": "fcee515712a99cfce61b5475ad46cfc96b2581f4",
+    "size": 164
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "171",
+        "relics": "Aesop's Fables,Divine Comedy",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "In explorations, 2x Orange Card Drops +2.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Aesop_s_Fables_Divine_Comedy.wiki",
+  "markdown_path": "markdown/Aesop_s_Fables_Divine_Comedy.md"
+}

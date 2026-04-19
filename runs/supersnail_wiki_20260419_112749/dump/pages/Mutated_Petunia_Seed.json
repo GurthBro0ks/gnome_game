@@ -1,0 +1,47 @@
+{
+  "pageid": 11041,
+  "ns": 0,
+  "title": "Mutated Petunia Seed",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mutated_Petunia_Seed",
+  "touched": "2025-08-11T11:10:11Z",
+  "length": 920,
+  "lastrevid": 39062,
+  "revision": {
+    "revid": 39062,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:10:11Z",
+    "sha1": "655157767047126f6f43bed8a923f5c4f5aee8ef",
+    "size": 920
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mutated Petunia Seed",
+        "class_id": "20444",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This morning glory seed has mutated for an unforeseen reason. Although it is usually shriveled, dousing it with a lot of water will spur rapid growth and huge trumpet-shaped flowers that are able to devour weak creatures will grow. In that sense, it's great for home security.<br>",
+        "fame": "31",
+        "art": "17",
+        "fth": "16",
+        "civ": "13",
+        "tech": "13",
+        "ss1": "Detect enemy positions in Cattle Fight",
+        "ss2": "Detect enemy positions in Cattle Fight<br>Enable quick-map in Cattle Fight",
+        "ss3": "Detect enemy positions in Cattle Fight<br>Enable quick-map in Cattle Fight<br>Enable Quick Clear in Cattle Fight",
+        "ss4": "Detect enemy positions in Cattle Fight<br>Enable quick-map in Cattle Fight<br>Enable Quick Clear in Cattle Fight",
+        "ss7": "Detect enemy positions in Cattle Fight<br>Enable quick-map in Cattle Fight<br>Enable Quick Clear in Cattle Fight<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mutated_Petunia_Seed.wiki",
+  "markdown_path": "markdown/Mutated_Petunia_Seed.md"
+}

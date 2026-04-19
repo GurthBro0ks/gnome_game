@@ -1,0 +1,33 @@
+{
+  "pageid": 8444,
+  "ns": 0,
+  "title": "Robin Hood+Captain Singleton+Rameau's Nephew+Kurgan Stelae+Letizia Bonaparte+Mademoiselle Pogany",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Robin_Hood%2BCaptain_Singleton%2BRameau%27s_Nephew%2BKurgan_Stelae%2BLetizia_Bonaparte%2BMademoiselle_Pogany",
+  "touched": "2025-06-20T00:13:18Z",
+  "length": 206,
+  "lastrevid": 35974,
+  "revision": {
+    "revid": 35974,
+    "parentid": 34316,
+    "timestamp": "2025-06-20T00:13:18Z",
+    "sha1": "093f5ad1690643c3a41dccd728bf4bc750b70770",
+    "size": 206
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "653",
+        "relics": "Robin Hood,Captain Singleton,Rameau's Nephew,Kurgan Stelae,Letizia Bonaparte,Mademoiselle Pogany",
+        "rank": "blue",
+        "amount": "6",
+        "category": "self",
+        "description": "Snail Leadership +6"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Robin_Hood_Captain_Singleton_Rameau_s_Nephew_Kurgan_Stelae_Letizia_Bonaparte_Mademoiselle_Pogany.wiki",
+  "markdown_path": "markdown/Robin_Hood_Captain_Singleton_Rameau_s_Nephew_Kurgan_Stelae_Letizia_Bonaparte_Mademoiselle_Pogany.md"
+}

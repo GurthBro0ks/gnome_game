@@ -1,0 +1,63 @@
+{
+  "pageid": 1757,
+  "ns": 0,
+  "title": "Phoenix Feather",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Phoenix_Feather",
+  "touched": "2024-11-04T01:10:54Z",
+  "length": 1904,
+  "lastrevid": 30087,
+  "revision": {
+    "revid": 30087,
+    "parentid": 28904,
+    "timestamp": "2024-10-15T15:44:04Z",
+    "sha1": "727f3a2d45fbfb78c981faa5c8f0a092bef617e2",
+    "size": 1904
+  },
+  "categories": [
+    "ATK Boost",
+    "Catcolyte Boost",
+    "FTH Relics",
+    "Gene Simulation Compass Boost",
+    "Orange FTH Relics",
+    "Orange Relics",
+    "RUSH Boost",
+    "Reagent Crafting Boost",
+    "Realm Boost",
+    "Relics",
+    "Rewards Organs",
+    "Travel Speed Boost",
+    "Wind DMG Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Phoenix Feather",
+        "rank": "SSS",
+        "affct": "FTH",
+        "birthday": "04-22",
+        "source": "Evolution Chest (0.01%), Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wishing (0.06%)",
+        "description": "On Apr 22, 3600 BC, the Phoenix reached Nirvana, leaving only one gold feather. A phoenix is reborn every five hundred years. In this process, its feathers emit sparks until it bursts into a raging inferno. Flames engulf its body until it burns to ashes. Rising from these ashes, it's reborn, continuing an eternal cycle. But once it fails to be reborn, it will die. Unfortunately, this phoenix didn't make it, leaving behind only a single feather.",
+        "fame": "61",
+        "art": "59",
+        "fth": "108",
+        "civ": "68",
+        "tech": "66",
+        "ss1": "Snail ATK +30<BR>Snail RUSH +30<BR>In Dragon Form, Travel SPD +0.6%",
+        "ss2": "Snail ATK +40<BR>Snail RUSH +40<BR>In Dragon Form, Travel SPD +0.8%",
+        "ss3": "Snail ATK +50<BR>Snail RUSH +50<BR>In Dragon Form, Travel SPD +1%",
+        "ss4": "Snail ATK +70<BR>Snail RUSH +70<BR>In Dragon Form, Travel SPD +1.4%",
+        "ss5": "Snail ATK +90<BR>Snail RUSH +90<BR>In Dragon Form, Travel SPD +1.8%",
+        "ss6": "Snail ATK +120<BR>Snail RUSH +120<BR>In Dragon Form, Travel SPD +2.4%",
+        "ss7": "Snail ATK +120<BR>Snail RUSH +120<BR>In Dragon Form, Travel SPD +2.4%<br>Snail RUSH +100 (Awakened)",
+        "skill1": "{{Reimg|Genesim skill III|50|File:Genesim skill III.png}}Place in Gene Sim Device: Wind DMG +600",
+        "skill2": "{{Reimg|Genesim skill III|50|File:Genesim skill III.png}}Place in Gene Sim Device: Snail RUSH +120 each round",
+        "skill3": "{{Reimg|Genesim skill III|50|File:Genesim skill III.png}}Place in Gene Sim Device:Snail RUSH +600",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Phoenix_Feather.wiki",
+  "markdown_path": "markdown/Phoenix_Feather.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 10783,
+  "ns": 0,
+  "title": "Tucker Award+Sky Award+Golden Key Award+Idea Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tucker_Award%2BSky_Award%2BGolden_Key_Award%2BIdea_Award",
+  "touched": "2025-08-11T11:01:29Z",
+  "length": 191,
+  "lastrevid": 38687,
+  "revision": {
+    "revid": 38687,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:01:29Z",
+    "sha1": "bbc6c6f1c20f9f0147f23ea025030964fd496e0f",
+    "size": 191
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "771",
+        "relics": "Tucker Award,Sky Award,Golden Key Award,Idea Award",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Home Decor Inc, Series C Decor Coin Dividend +9%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tucker_Award_Sky_Award_Golden_Key_Award_Idea_Award.wiki",
+  "markdown_path": "markdown/Tucker_Award_Sky_Award_Golden_Key_Award_Idea_Award.md"
+}

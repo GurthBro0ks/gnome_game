@@ -1,0 +1,47 @@
+{
+  "pageid": 11142,
+  "ns": 0,
+  "title": "Goldfish Nobori",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Goldfish_Nobori",
+  "touched": "2025-08-11T11:14:00Z",
+  "length": 928,
+  "lastrevid": 39230,
+  "revision": {
+    "revid": 39230,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:14:00Z",
+    "sha1": "fd8cab5fbfc74e032bd3090c8e0427218a44612a",
+    "size": 928
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Goldfish Nobori",
+        "class_id": "20643",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This war banner is modeled after the appearance of goldfish. While its makers intended it to display their might, in reality, enemies are often more bewildered by its adorable design than intimidated by its supposed power.",
+        "fame": "18",
+        "art": "27",
+        "fth": "15",
+        "civ": "14",
+        "tech": "16",
+        "ss1": "Against Goldfishes,<br>Troop DMG toward heroes +1%<br>Against Goldfishes,<br>Troop DMG toward heroes +1%",
+        "ss2": "Against Goldfishes,<br>Troop DMG toward heroes +2%<br>Against Goldfishes,<br>Troop DMG toward heroes +2%",
+        "ss3": "Against Goldfishes,<br>Troop DMG toward heroes +3%<br>Against Goldfishes,<br>Troop DMG toward heroes +3%",
+        "ss4": "Against Goldfishes,<br>Troop DMG toward heroes +3%<br>Against Goldfishes,<br>Troop DMG toward heroes +3%",
+        "ss7": "Against Goldfishes,<br>Troop DMG toward heroes +3%<br>Against Goldfishes,<br>Troop DMG toward heroes +3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Goldfish_Nobori.wiki",
+  "markdown_path": "markdown/Goldfish_Nobori.md"
+}

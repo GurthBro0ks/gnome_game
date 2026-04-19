@@ -1,0 +1,33 @@
+{
+  "pageid": 4185,
+  "ns": 0,
+  "title": "Trajan's Column+Beowulf",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Trajan%27s_Column%2BBeowulf",
+  "touched": "2025-06-20T00:03:22Z",
+  "length": 203,
+  "lastrevid": 35817,
+  "revision": {
+    "revid": 35817,
+    "parentid": 15685,
+    "timestamp": "2025-06-20T00:03:22Z",
+    "sha1": "cad8d5a969a1d52f35503ca478f6a33929e6f369",
+    "size": 203
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "472",
+        "relics": "Trajan's Column,Beowulf",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "When refining, there exists a +7% chance for Green Building Materials to turn into Blue"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Trajan_s_Column_Beowulf.wiki",
+  "markdown_path": "markdown/Trajan_s_Column_Beowulf.md"
+}

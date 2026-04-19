@@ -1,0 +1,59 @@
+{
+  "pageid": 1296,
+  "ns": 0,
+  "title": "Hermes' Coin",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hermes%27_Coin",
+  "touched": "2024-09-06T10:00:43Z",
+  "length": 1978,
+  "lastrevid": 24601,
+  "revision": {
+    "revid": 24601,
+    "parentid": 22318,
+    "timestamp": "2024-03-29T16:31:23Z",
+    "sha1": "46fd9b3597f2d0fa79250b9625b135fcecfbaade",
+    "size": 1978
+  },
+  "categories": [
+    "Altar Descent Relics",
+    "DEF Boost",
+    "Enhanced by FTH Relics",
+    "Exploration Reagent Drop Boost",
+    "FTH Relics",
+    "HP Boost",
+    "Purple FTH Relics",
+    "Purple Relics",
+    "Quarry Output Boost",
+    "RUSH Boost",
+    "Relics",
+    "Sanctum Warrior Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Hermes' Coin",
+        "rank": "AA",
+        "affct": "FTH",
+        "birthday": "11-22",
+        "source": "Fragment Crafting (3.8%), Lottery Machine (0.08%), Wishing (0.35%), Expert Scrolls (0.95%)<br>[[Altar#Gods_of_the_Pantheon|God of Faith]] Descent",
+        "description": "On Nov 22, 6000 BC, Hermes tearfully bought his own statue with this gold coin. \n\nIn order to test his status among the people, Hermes brought this gold coin to the statue maker. He took out the gold coin and asked for the price of the statues of Zeus and Hera. He was happy with what he heard. He thought this price would be higher since he is the God of Trade. So, he pointed to his statue and asked for the price, but the statue maker said it was an unfinished product. Hermes was deeply hurt by w …",
+        "fame": "35",
+        "art": "38",
+        "fth": "67",
+        "civ": "42",
+        "tech": "46",
+        "ss1": "Per 3 FTH Relics gained, Snail HP +80<br>Per 3 FTH Relics gained, Snail RUSH +8<br>FTH Relics: 60/60",
+        "ss2": "Per 3 FTH Relics gained, Snail HP +120<br>Per 3 FTH Relics gained, Snail RUSH +12<br>FTH Relics: 60/60",
+        "ss3": "Per 3 FTH Relics gained, Snail HP +160<br>Per 3 FTH Relics gained, Snail RUSH +16<br>FTH Relics: 60/60",
+        "ss4": "Per 3 FTH Relics gained, Snail HP +240<br>Per 3 FTH Relics gained, Snail RUSH +24<br>FTH Relics: 60/60",
+        "ss5": "Per 3 FTH Relics gained, Snail HP +320<br>Per 3 FTH Relics gained, Snail RUSH +32<br>FTH Relics: 60/60",
+        "ss7": "Per 3 FTH Relics gained, Snail HP +320<br>Per 3 FTH Relics gained, Snail RUSH +32<br>FTH Relics: 60/60<br>Snail RUSH +70 (Awakened)",
+        "skill1": "[[File:Quarry skill II.png|50px]] Place in Quarry: Stone Output +15%",
+        "skill2": "[[File:Quarry skill II.png|50px]] Place in Quarry: Quarry Max Cap +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hermes_Coin.wiki",
+  "markdown_path": "markdown/Hermes_Coin.md"
+}

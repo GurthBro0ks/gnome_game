@@ -1,0 +1,33 @@
+{
+  "pageid": 7850,
+  "ns": 0,
+  "title": "Capricorn+Pisces",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Capricorn%2BPisces",
+  "touched": "2025-08-11T11:02:30Z",
+  "length": 131,
+  "lastrevid": 38730,
+  "revision": {
+    "revid": 38730,
+    "parentid": 32788,
+    "timestamp": "2025-08-11T11:02:30Z",
+    "sha1": "1df301a40ca6a81286c64ed5a724a7b56a0c4c4d",
+    "size": 131
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "290",
+        "relics": "Capricorn,Pisces",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Troop All ELMT RES +2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Capricorn_Pisces.wiki",
+  "markdown_path": "markdown/Capricorn_Pisces.md"
+}

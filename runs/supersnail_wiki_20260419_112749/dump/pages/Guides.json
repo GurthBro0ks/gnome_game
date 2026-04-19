@@ -1,0 +1,23 @@
+{
+  "pageid": 7693,
+  "ns": 0,
+  "title": "Guides",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Guides",
+  "touched": "2024-12-23T13:05:53Z",
+  "length": 173,
+  "lastrevid": 32417,
+  "revision": {
+    "revid": 32417,
+    "parentid": 32356,
+    "timestamp": "2024-12-23T13:05:53Z",
+    "sha1": "04d8856b8eda867de112abe27ed1c4c30ecb2679",
+    "size": 173
+  },
+  "categories": [
+    "Guides"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Guides.wiki",
+  "markdown_path": "markdown/Guides.md"
+}

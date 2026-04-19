@@ -1,0 +1,33 @@
+{
+  "pageid": 9297,
+  "ns": 0,
+  "title": "Wheatstone Bridge+Siemens DC Generator",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wheatstone_Bridge%2BSiemens_DC_Generator",
+  "touched": "2025-06-20T00:19:50Z",
+  "length": 180,
+  "lastrevid": 36192,
+  "revision": {
+    "revid": 36192,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:19:50Z",
+    "sha1": "49c5ea47b05b313802a4a3119d1d0fed44e1e4cf",
+    "size": 180
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "657",
+        "relics": "Wheatstone Bridge,Siemens DC Generator",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Godhood LVL, Snail ATK +36;Godhood LVL: 10/10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wheatstone_Bridge_Siemens_DC_Generator.wiki",
+  "markdown_path": "markdown/Wheatstone_Bridge_Siemens_DC_Generator.md"
+}

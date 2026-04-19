@@ -1,0 +1,47 @@
+{
+  "pageid": 11218,
+  "ns": 0,
+  "title": "West Lake Fish Vinegar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/West_Lake_Fish_Vinegar",
+  "touched": "2025-08-11T11:16:46Z",
+  "length": 889,
+  "lastrevid": 39351,
+  "revision": {
+    "revid": 39351,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:16:46Z",
+    "sha1": "46c17cf1c716a9b1f9162534bb82d00f40fd09c5",
+    "size": 889
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "West Lake Fish Vinegar",
+        "class_id": "20551",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "A renowned dish from Cathay, known for its stark contrast in flavor and appearance, has left countless tourists questioning their life choices. Amidst the layers of doubt, no one knows where to find the most authentic West Lake Vinegar Fish.",
+        "fame": "19",
+        "art": "16",
+        "fth": "13",
+        "civ": "30",
+        "tech": "12",
+        "ss1": "Snail HP +100<br>Per type of food collected, Snail DEF +1<br>Types of Food Collected: 60/60",
+        "ss2": "Snail HP +200<br>Per type of food collected, Snail DEF +2<br>Types of Food Collected: 60/60",
+        "ss3": "Snail HP +300<br>Per type of food collected, Snail DEF +3<br>Types of Food Collected: 60/60",
+        "ss4": "Snail HP +300<br>Per type of food collected, Snail DEF +3<br>Types of Food Collected: 60/60",
+        "ss7": "Snail HP +300<br>Per type of food collected, Snail DEF +3<br>Types of Food Collected: 60/60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/West_Lake_Fish_Vinegar.wiki",
+  "markdown_path": "markdown/West_Lake_Fish_Vinegar.md"
+}

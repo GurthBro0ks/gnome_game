@@ -1,0 +1,34 @@
+{
+  "pageid": 3627,
+  "ns": 0,
+  "title": "Hannibal's Cup+Rosetta Stone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hannibal%27s_Cup%2BRosetta_Stone",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 173,
+  "lastrevid": 13209,
+  "revision": {
+    "revid": 13209,
+    "parentid": 0,
+    "timestamp": "2023-09-22T16:22:40Z",
+    "sha1": "6a63950bde0466f4cfc68ed1209b49d5837feb76",
+    "size": 173
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Hannibal's Cup,Rosetta Stone",
+        "rank": "purple",
+        "amount": "2",
+        "category": "home",
+        "description": "Tadpole Pond B-tad Output +12%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hannibal_s_Cup_Rosetta_Stone.wiki",
+  "markdown_path": "markdown/Hannibal_s_Cup_Rosetta_Stone.md"
+}

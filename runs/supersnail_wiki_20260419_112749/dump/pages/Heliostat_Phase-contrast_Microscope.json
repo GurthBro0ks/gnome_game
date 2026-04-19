@@ -1,0 +1,33 @@
+{
+  "pageid": 8500,
+  "ns": 0,
+  "title": "Heliostat+Phase-contrast Microscope",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Heliostat%2BPhase-contrast_Microscope",
+  "touched": "2025-06-20T00:13:39Z",
+  "length": 139,
+  "lastrevid": 35991,
+  "revision": {
+    "revid": 35991,
+    "parentid": 34384,
+    "timestamp": "2025-06-20T00:13:39Z",
+    "sha1": "2490877e64c928eb0c1a704f5d41ed1a18d402a2",
+    "size": 139
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "603",
+        "relics": "Heliostat,Phase-contrast Microscope",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Heliostat_Phase-contrast_Microscope.wiki",
+  "markdown_path": "markdown/Heliostat_Phase-contrast_Microscope.md"
+}

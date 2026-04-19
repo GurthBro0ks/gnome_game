@@ -1,0 +1,52 @@
+{
+  "pageid": 6350,
+  "ns": 0,
+  "title": "The Red and Black",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Red_and_Black",
+  "touched": "2025-08-11T11:06:57Z",
+  "length": 1996,
+  "lastrevid": 38928,
+  "revision": {
+    "revid": 38928,
+    "parentid": 32622,
+    "timestamp": "2025-08-11T11:06:57Z",
+    "sha1": "e1dd5070385cac691e8e95806c71288d971c0124",
+    "size": 1996
+  },
+  "categories": [
+    "CIV Relics",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Red and Black",
+        "class_id": "22888",
+        "rank": "SSS",
+        "affct": "CIV",
+        "description": "The novel tells the story of the protagonist Julien, who grows from an apprentice to a rural Priest into an important figure in the upper echelons of Parisian society. The work uses the emotional entanglements between Julien, Mrs. Renal, the mayor's wife, and the high society lady Mathilde as a thread to deeply depict the social structural changes and the rise of the emerging middle class after the French Revolution. The novel explores the conflict between personal ideals and social reality and  …",
+        "fame": "76",
+        "art": "69",
+        "fth": "60",
+        "civ": "109",
+        "tech": "48",
+        "ss1": "All Minion ATK +0.6%<br>Per 50 Minions healed, Snail DEF +6<br>Per 50 Minions healed, Snail RUSH +6<br>Minions healed: 2000/2000",
+        "ss2": "All Minion ATK +0.8%<br>Per 50 Minions healed, Snail DEF +8<br>Per 50 Minions healed, Snail RUSH +8<br>Minions healed: 2000/2000",
+        "ss3": "All Minion ATK +1%<br>Per 50 Minions healed, Snail DEF +10<br>Per 50 Minions healed, Snail RUSH +10<br>Minions healed: 2000/2000",
+        "ss4": "All Minion ATK +1.4%<br>Per 50 Minions healed, Snail DEF +14<br>Per 50 Minions healed, Snail RUSH +14<br>Minions healed: 2000/2000",
+        "ss5": "All Minion ATK +1.8%<br>Per 50 Minions healed, Snail DEF +18<br>Per 50 Minions healed, Snail RUSH +18<br>Minions healed: 2000/2000",
+        "ss6": "All Minion ATK +2.4%<br>Per 50 Minions healed, Snail DEF +24<br>Per 50 Minions healed, Snail RUSH +24<br>Minions healed: 2000/2000",
+        "ss7": "All Minion ATK +2.4%<br>Per 50 Minions healed, Snail DEF +24<br>Per 50 Minions healed, Snail RUSH +24<br>Minions healed: 2000/2000<br>Snail DEF +100 (Awakened)",
+        "skill1": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Water DMG +300",
+        "skill2": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail CIV +600",
+        "skill3": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Red_and_Black.wiki",
+  "markdown_path": "markdown/The_Red_and_Black.md"
+}

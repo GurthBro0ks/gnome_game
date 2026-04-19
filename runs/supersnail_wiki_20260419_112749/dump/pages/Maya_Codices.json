@@ -1,0 +1,57 @@
+{
+  "pageid": 555,
+  "ns": 0,
+  "title": "Maya Codices",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Maya_Codices",
+  "touched": "2024-09-06T09:57:07Z",
+  "length": 1608,
+  "lastrevid": 27623,
+  "revision": {
+    "revid": 27623,
+    "parentid": 18159,
+    "timestamp": "2024-06-01T02:50:14Z",
+    "sha1": "5af0662011d544c7823d7db660512a6bd1bbc28c",
+    "size": 1608
+  },
+  "categories": [
+    "Bharata Exploration Boost",
+    "Bharata Museum Boost",
+    "CIV Relics",
+    "Enhanced by Purple Relics",
+    "Exploration B-tad Drop Boost",
+    "HP Boost",
+    "Offering Reward Boost",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Maya Codices",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "06-14",
+        "source": "Fragment Crafting (1.5%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)",
+        "description": "On Jun 14, 1562, by Bishop Landa's order, most of the Maya Codices were destroyed.\n\nMaya Codices convey the culture and faith of the Maya. Engraved on paper made of the banyan tree bark, they record the Maya astronomy, calendar, and legends. Some codices even have a history of more than 800 years. They are typically named after the city where they were last preserved. Under Landa Bishop's order, many important information about the Maya civilization was erased.",
+        "fame": "40",
+        "art": "37",
+        "fth": "43",
+        "civ": "74",
+        "tech": "49",
+        "ss1": "Stone rewards from offering +1.2%<br>Wood rewards from offering +1.2%",
+        "ss2": "Stone rewards from offering +1.6%<br>Wood rewards from offering +1.6%",
+        "ss3": "Stone rewards from offering +2%<br>Wood rewards from offering +2%",
+        "ss4": "Stone rewards from offering +2.8%<br>Wood rewards from offering +2.8%",
+        "ss5": "Stone rewards from offering +3.6%<br>Wood rewards from offering +3.6%",
+        "ss7": "Stone rewards from offering +3.6%<br>Wood rewards from offering +3.6%<br>Stone rewards from offering +2.8% (Awakened)",
+        "skill1": "[[File:Bharata skill II.png|50px]] Place in Bharata Museum: In Bharata, INTEL gained +7.5%",
+        "skill2": "[[File:Bharata skill II.png|50px]] Place in Bharata Museum: In Bharata, 2x Green Reagent Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Maya_Codices.wiki",
+  "markdown_path": "markdown/Maya_Codices.md"
+}

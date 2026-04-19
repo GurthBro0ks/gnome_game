@@ -1,0 +1,33 @@
+{
+  "pageid": 4717,
+  "ns": 0,
+  "title": "Sulawesi Cloth+Silver Stag Vessel",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sulawesi_Cloth%2BSilver_Stag_Vessel",
+  "touched": "2025-06-19T23:54:28Z",
+  "length": 213,
+  "lastrevid": 35679,
+  "revision": {
+    "revid": 35679,
+    "parentid": 18537,
+    "timestamp": "2025-06-19T23:54:28Z",
+    "sha1": "b88f9105b6672ea6882a88b323726b0aa64c11ca",
+    "size": 213
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "314",
+        "relics": "Sulawesi Cloth,Silver Stag Vessel",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 30 Divine Neutral Chests opened: Snail DEF +5;Divine Neutral Chests Opened: 1500/1500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sulawesi_Cloth_Silver_Stag_Vessel.wiki",
+  "markdown_path": "markdown/Sulawesi_Cloth_Silver_Stag_Vessel.md"
+}

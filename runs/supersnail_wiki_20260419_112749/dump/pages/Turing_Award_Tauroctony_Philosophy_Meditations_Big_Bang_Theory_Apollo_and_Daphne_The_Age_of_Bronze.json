@@ -1,0 +1,36 @@
+{
+  "pageid": 8387,
+  "ns": 0,
+  "title": "Turing Award+Tauroctony+Philosophy Meditations+Big Bang Theory+Apollo and Daphne+The Age of Bronze",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Turing_Award%2BTauroctony%2BPhilosophy_Meditations%2BBig_Bang_Theory%2BApollo_and_Daphne%2BThe_Age_of_Bronze",
+  "touched": "2025-04-25T04:00:06Z",
+  "length": 267,
+  "lastrevid": 34215,
+  "revision": {
+    "revid": 34215,
+    "parentid": 0,
+    "timestamp": "2025-04-25T03:35:07Z",
+    "sha1": "a428eda5f62fe04d9c3ed8ad69470e5bac7d2c7e",
+    "size": 267
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion",
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Turing Award,Tauroctony,Philosophy Meditations,Big Bang Theory,Apollo and Daphne,The Age of Bronze",
+        "rank": "orange",
+        "amount": "6",
+        "category": "minion",
+        "description": "Snail Leadership +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Turing_Award_Tauroctony_Philosophy_Meditations_Big_Bang_Theory_Apollo_and_Daphne_The_Age_of_Bronze.wiki",
+  "markdown_path": "markdown/Turing_Award_Tauroctony_Philosophy_Meditations_Big_Bang_Theory_Apollo_and_Daphne_The_Age_of_Bronze.md"
+}

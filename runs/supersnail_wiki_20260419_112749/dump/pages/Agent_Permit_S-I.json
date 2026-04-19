@@ -1,0 +1,47 @@
+{
+  "pageid": 543,
+  "ns": 0,
+  "title": "Agent Permit S-I",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Agent_Permit_S-I",
+  "touched": "2025-08-11T10:47:41Z",
+  "length": 686,
+  "lastrevid": 38085,
+  "revision": {
+    "revid": 38085,
+    "parentid": 29206,
+    "timestamp": "2025-08-11T10:47:41Z",
+    "sha1": "b7fdb5db7f0e76203b2e8684a48f4cb5ab39644d",
+    "size": 686
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Agent Permit S-I",
+        "class_id": "20332",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The holder of the card is a super agent of the Bureau of Investigation and has law enforcement powers in accordance with federal statutes. Please cooperate with their inquiries and searches, otherwise the agent has the right to use force! —Bureau of Investigation (Stamp)",
+        "fame": "18",
+        "art": "13",
+        "fth": "15",
+        "civ": "13",
+        "tech": "31",
+        "ss1": "When you defeat Super Agents, gain +10 W-tads",
+        "ss2": "When you defeat Super Agents, gain +20 W-tads",
+        "ss3": "When you defeat Super Agents, gain +30 W-tads",
+        "ss4": "When you defeat Super Agents, gain +30 W-tads",
+        "ss7": "When you defeat Super Agents, gain +30 W-tads<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Agent_Permit_S-I.wiki",
+  "markdown_path": "markdown/Agent_Permit_S-I.md"
+}

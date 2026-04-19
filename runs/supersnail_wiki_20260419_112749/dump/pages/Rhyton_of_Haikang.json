@@ -1,0 +1,50 @@
+{
+  "pageid": 10830,
+  "ns": 0,
+  "title": "Rhyton of Haikang",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rhyton_of_Haikang",
+  "touched": "2025-08-11T11:02:50Z",
+  "length": 1188,
+  "lastrevid": 38746,
+  "revision": {
+    "revid": 38746,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:02:50Z",
+    "sha1": "77a5fae93f2f3a77902b173b83fb9716d89d72a7",
+    "size": 1188
+  },
+  "categories": [
+    "CIV Relics",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Rhyton of Haikang",
+        "class_id": "21845",
+        "rank": "AAA",
+        "affct": "CIV",
+        "description": "The Rhyton of Haikang, unearthed from the Nagykanizsa treasure, features a unique design and luxurious decoration, showcasing the superb craftsmanship of the time. The body of the cup is typically adorned with animal motifs, especially the image of a bull, which is the origin of the rhyton's name. These cups not only display the Gothic artistic style but also reflect their emphasis on wealth and status, holding immeasurable importance for studying the history, art, and culture of early medieval  …",
+        "fame": "51",
+        "art": "43",
+        "fth": "42",
+        "civ": "71",
+        "tech": "36",
+        "ss1": "Snail ATK +30<br>Protomon Troop assist DMG + 240",
+        "ss2": "Snail ATK +40<br>Protomon Troop assist DMG + 320",
+        "ss3": "Snail ATK +50<br>Protomon Troop assist DMG + 400",
+        "ss4": "Snail ATK +70<br>Protomon Troop assist DMG + 560",
+        "ss5": "Snail ATK +90<br>Protomon Troop assist DMG + 720",
+        "ss7": "Snail ATK +90<br>Protomon Troop assist DMG + 720<br>Protomon Troop assist DMG + 560 (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +60",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's CIV +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Rhyton_of_Haikang.wiki",
+  "markdown_path": "markdown/Rhyton_of_Haikang.md"
+}

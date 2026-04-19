@@ -1,0 +1,46 @@
+{
+  "pageid": 11171,
+  "ns": 0,
+  "title": "7-Star Lamp",
+  "fullurl": "https://supersnail.wiki.gg/wiki/7-Star_Lamp",
+  "touched": "2025-09-30T22:32:06Z",
+  "length": 611,
+  "lastrevid": 40413,
+  "revision": {
+    "revid": 40413,
+    "parentid": 40319,
+    "timestamp": "2025-09-30T22:32:06Z",
+    "sha1": "a1afa5ea7b2f3b4ad073ce8767aa07ac92226f1b",
+    "size": 611
+  },
+  "categories": [
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Missing Info",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "7-Star Lamp",
+        "class_id": "20023",
+        "rank": "Green",
+        "affct": "FTH",
+        "description": "Throughout history, humans have explored myriad methods to extend their lifespans. In ancient Cathay, one such method was the use of the 7-Star Lamp. According to historical records, aligning seven lamps to correspond with the positions of specific constellations and keeping them lit for seven consecutive days could potentially extend one's life by an astounding twelve years.",
+        "fame": "19",
+        "art": "16",
+        "fth": "28",
+        "civ": "10",
+        "tech": "17",
+        "ss1": "Snail HP +100",
+        "ss2": "Snail HP +200",
+        "ss3": "Snail HP +300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/7-Star_Lamp.wiki",
+  "markdown_path": "markdown/7-Star_Lamp.md"
+}

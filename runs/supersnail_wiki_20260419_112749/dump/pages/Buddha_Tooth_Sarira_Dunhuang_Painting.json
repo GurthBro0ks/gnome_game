@@ -1,0 +1,35 @@
+{
+  "pageid": 3258,
+  "ns": 0,
+  "title": "Buddha Tooth Sarira+Dunhuang Painting",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Buddha_Tooth_Sarira%2BDunhuang_Painting",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 215,
+  "lastrevid": 11915,
+  "revision": {
+    "revid": 11915,
+    "parentid": 11914,
+    "timestamp": "2023-09-12T14:55:31Z",
+    "sha1": "74efaa4a952d68beda1a5a12b0b751e63305251d",
+    "size": 215
+  },
+  "categories": [
+    "Self",
+    "self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Buddha Tooth Sarira,Dunhuang Painting",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 400 Relic Points, Snail HP +30<br>Relic Points: 10,000/10,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Buddha_Tooth_Sarira_Dunhuang_Painting.wiki",
+  "markdown_path": "markdown/Buddha_Tooth_Sarira_Dunhuang_Painting.md"
+}

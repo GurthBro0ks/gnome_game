@@ -1,0 +1,35 @@
+{
+  "pageid": 8287,
+  "ns": 0,
+  "title": "Wailing Wall+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wailing_Wall%2BMysterious_Relic",
+  "touched": "2025-04-21T02:48:01Z",
+  "length": 267,
+  "lastrevid": 34069,
+  "revision": {
+    "revid": 34069,
+    "parentid": 0,
+    "timestamp": "2025-04-21T02:48:01Z",
+    "sha1": "ae7b38574fdf13a7d811448807cb9a4b81108aac",
+    "size": 267
+  },
+  "categories": [
+    "Priest-Snail Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Wailing Wall,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Mythic Protodex Stars, Priest-Snail Assistance DMG +168; Mythic Protodex Stars: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wailing_Wall_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Wailing_Wall_Mysterious_Relic.md"
+}

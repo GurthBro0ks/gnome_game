@@ -1,0 +1,33 @@
+{
+  "pageid": 9304,
+  "ns": 0,
+  "title": "The Raft of the Medusa+The Barque of Dante+Neapolitan Fisherboy+Beach at Trouville",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Raft_of_the_Medusa%2BThe_Barque_of_Dante%2BNeapolitan_Fisherboy%2BBeach_at_Trouville",
+  "touched": "2025-06-20T00:20:28Z",
+  "length": 282,
+  "lastrevid": 36212,
+  "revision": {
+    "revid": 36212,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:20:28Z",
+    "sha1": "6df608c6df39f1633999003b21390f855f592244",
+    "size": 282
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "638",
+        "relics": "The Raft of the Medusa,The Barque of Dante,Neapolitan Fisherboy,Beach at Trouville",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +56;Desert Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Raft_of_the_Medusa_The_Barque_of_Dante_Neapolitan_Fisherboy_Beach_at_Trouville.wiki",
+  "markdown_path": "markdown/The_Raft_of_the_Medusa_The_Barque_of_Dante_Neapolitan_Fisherboy_Beach_at_Trouville.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 5806,
+  "ns": 0,
+  "title": "Seven-jeweled Pagoda",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Seven-jeweled_Pagoda",
+  "touched": "2025-08-11T11:18:43Z",
+  "length": 749,
+  "lastrevid": 39434,
+  "revision": {
+    "revid": 39434,
+    "parentid": 22076,
+    "timestamp": "2025-08-11T11:18:43Z",
+    "sha1": "5029e5139f7c785377ee51e5a33b74b0a97df446",
+    "size": 749
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Seven-jeweled Pagoda",
+        "class_id": "20245",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "The treasure once belonged to Heavenly Lord Li Jing, which can detain all demons and monsters. With some infused energy, the exterior of the pagoda will light up layer by layer, and the whole pagoda will be covered in a magnificent colorful haze!",
+        "fame": "16",
+        "art": "16",
+        "fth": "26",
+        "civ": "17",
+        "tech": "15",
+        "ss1": "Per 40 Gene Sim LVLs, Snail ATK +1<br>Gene Sim LVLs: 1000/1000",
+        "ss2": "Per 40 Gene Sim LVLs, Snail ATK +2<br>Gene Sim LVLs: 1000/1000",
+        "ss3": "Per 40 Gene Sim LVLs, Snail ATK +3<br>Gene Sim LVLs: 1000/1000",
+        "ss4": "Per 40 Gene Sim LVLs, Snail ATK +3<br>Gene Sim LVLs: 1000/1000",
+        "ss7": "Per 40 Gene Sim LVLs, Snail ATK +3<br>Gene Sim LVLs: 1000/1000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Seven-jeweled_Pagoda.wiki",
+  "markdown_path": "markdown/Seven-jeweled_Pagoda.md"
+}

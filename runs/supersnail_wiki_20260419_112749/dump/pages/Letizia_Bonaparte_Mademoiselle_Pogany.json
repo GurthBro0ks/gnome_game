@@ -1,0 +1,33 @@
+{
+  "pageid": 8443,
+  "ns": 0,
+  "title": "Letizia Bonaparte+Mademoiselle Pogany",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Letizia_Bonaparte%2BMademoiselle_Pogany",
+  "touched": "2025-06-20T00:13:17Z",
+  "length": 142,
+  "lastrevid": 35973,
+  "revision": {
+    "revid": 35973,
+    "parentid": 34315,
+    "timestamp": "2025-06-20T00:13:17Z",
+    "sha1": "e1f017cea56b81a791ea68e465eb0705cd60b9fa",
+    "size": 142
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "606",
+        "relics": "Letizia Bonaparte,Mademoiselle Pogany",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail RUSH +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Letizia_Bonaparte_Mademoiselle_Pogany.wiki",
+  "markdown_path": "markdown/Letizia_Bonaparte_Mademoiselle_Pogany.md"
+}

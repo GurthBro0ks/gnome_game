@@ -1,0 +1,36 @@
+{
+  "pageid": 4064,
+  "ns": 0,
+  "title": "Bronze Shiva Statue+King's Gayageum+Sistine Madonna+Creation of Adam+Aladdin's Carpet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bronze_Shiva_Statue%2BKing%27s_Gayageum%2BSistine_Madonna%2BCreation_of_Adam%2BAladdin%27s_Carpet",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 327,
+  "lastrevid": 24907,
+  "revision": {
+    "revid": 24907,
+    "parentid": 24906,
+    "timestamp": "2024-04-06T21:45:47Z",
+    "sha1": "08e608bb8941506a0695349151f3c4539cf14688",
+    "size": 327
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Orange Relics",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Bronze Shiva Statue,King's Gayageum,Sistine Madonna,Creation of Adam,Aladdin's Carpet",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "Per 3 Orange Relics gained, Snail ATK +40<br>Orange Relics: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bronze_Shiva_Statue_King_s_Gayageum_Sistine_Madonna_Creation_of_Adam_Aladdin_s_Carpet.wiki",
+  "markdown_path": "markdown/Bronze_Shiva_Statue_King_s_Gayageum_Sistine_Madonna_Creation_of_Adam_Aladdin_s_Carpet.md"
+}

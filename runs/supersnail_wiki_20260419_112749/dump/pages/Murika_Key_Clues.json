@@ -1,0 +1,74 @@
+{
+  "pageid": 2513,
+  "ns": 0,
+  "title": "Murika Key Clues",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Murika_Key_Clues",
+  "touched": "2025-11-08T20:36:23Z",
+  "length": 12346,
+  "lastrevid": 41746,
+  "revision": {
+    "revid": 41746,
+    "parentid": 41745,
+    "timestamp": "2025-11-08T20:36:23Z",
+    "sha1": "c72dec33a736909c4861bfe981cc17feb9cf4f3c",
+    "size": 12346
+  },
+  "categories": [
+    "Locations",
+    "Murika",
+    "Realm"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Realm",
+        "3": "Colt Revolver"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "Realm",
+        "3": "Springfield Rifle"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Realm",
+        "3": "M4 Carbine"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Realm",
+        "3": "Indv. High-explosive Rifle"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Realm",
+        "3": "Indv. Power Armor"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Realm",
+        "3": "Bullet Storm"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Murika_Key_Clues.wiki",
+  "markdown_path": "markdown/Murika_Key_Clues.md"
+}

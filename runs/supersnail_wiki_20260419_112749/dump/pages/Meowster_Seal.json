@@ -1,0 +1,47 @@
+{
+  "pageid": 257,
+  "ns": 0,
+  "title": "Meowster Seal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Meowster_Seal",
+  "touched": "2025-08-11T10:54:14Z",
+  "length": 897,
+  "lastrevid": 38372,
+  "revision": {
+    "revid": 38372,
+    "parentid": 19410,
+    "timestamp": "2025-08-11T10:54:14Z",
+    "sha1": "9cb9bc8b866d56d4db97595c9f4248aec6d1116a",
+    "size": 897
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Meowster Seal",
+        "class_id": "20225",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "The Xufu Sect is the largest immortal practice group in future Yamato. It is said that Xufu traveled eastward during the Qin Dynasty and founded the sect. His disciples were mostly cats who pursued immortality. After the Demon Gods dominated the future world, the leader of the sect was killed, and the successor traveled to the modern era, taking with him this Meowster Seal.",
+        "fame": "13",
+        "art": "19",
+        "fth": "29",
+        "civ": "15",
+        "tech": "16",
+        "ss1": "Per Taoraemon 5D Tech LVL, Snail ATK +3<br>Taoraemon 5D Tech: 30/30",
+        "ss2": "Per Taoraemon 5D Tech LVL, Snail ATK +4<br>Taoraemon 5D Tech: 30/30",
+        "ss3": "Per Taoraemon 5D Tech LVL, Snail ATK +5<br>Taoraemon 5D Tech: 30/30",
+        "ss4": "Per Taoraemon 5D Tech LVL, Snail ATK +5<br>Taoraemon 5D Tech: 30/30",
+        "ss7": "Per Taoraemon 5D Tech LVL, Snail ATK +5<br>Taoraemon 5D Tech: 30/30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Meowster_Seal.wiki",
+  "markdown_path": "markdown/Meowster_Seal.md"
+}

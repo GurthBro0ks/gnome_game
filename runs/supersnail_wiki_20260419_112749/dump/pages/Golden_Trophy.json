@@ -1,0 +1,68 @@
+{
+  "pageid": 1252,
+  "ns": 0,
+  "title": "Golden Trophy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Trophy",
+  "touched": "2025-01-12T16:40:02Z",
+  "length": 2613,
+  "lastrevid": 32851,
+  "revision": {
+    "revid": 32851,
+    "parentid": 29991,
+    "timestamp": "2025-01-12T16:40:02Z",
+    "sha1": "da27af3c80d6fbdcfe722756a0b470aef4027d03",
+    "size": 2613
+  },
+  "categories": [
+    "ATK Boost",
+    "Avatar Score Boost",
+    "Bharata Exploration Boost",
+    "Bharata Museum Boost",
+    "DEF Boost",
+    "Enhanced by Avatar Score",
+    "Exploration Reagent Drop Boost",
+    "FAME Boost",
+    "FAME Relics",
+    "Hitman Boost",
+    "Murika Exploration Boost",
+    "Murika Museum Boost",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "RUSH Boost",
+    "Relics",
+    "Rewards Organs",
+    "Travel Speed Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Golden Trophy",
+        "rank": "SS",
+        "affct": "FAME",
+        "birthday": "11-30",
+        "source": "* Grandmaster Scrolls (1%), Lottery Machine (0.12%), Relic Forge (100 Relic RF), Wishing (0.11%)\n* Avatar Value Pack II ($49.99)",
+        "description": "On Nov 30, 1941, the first Golden Trophy was awarded to the best actors of the ti me. \n\nDesigned by George Stanley, this iconic gold-plated statuette of a man holding a long sword is standing on a five-ring disc is awarded to encourage the production of an performance in excellent films. Covering a variety of genres, with more than 20 different awards, it is also the world's oldest award in entertainment and is the most coveted of movie awards around the world.\n\n[Basic Info]\n\nHeight: 13.5 inches …",
+        "fame": "109",
+        "art": "61",
+        "fth": "53",
+        "civ": "72",
+        "tech": "67",
+        "ss1": "Snail ATK +30<br>Per 100 Snail Avatar Score, Snail ATK +3<br>Per 100 Snail Avatar Score, Snail DEF +3<br>Avatar Score: 2,500/2,500",
+        "ss2": "Snail ATK +40<br>Per 100 Snail Avatar Score, Snail ATK +4<br>Per 100 Snail Avatar Score, Snail DEF +4<br>Avatar Score: 2,500/2,500",
+        "ss3": "Snail ATK +50<br>Per 100 Snail Avatar Score, Snail ATK +5<br>Per 100 Snail Avatar Score, Snail DEF +5<br>Avatar Score: 2,500/2,500",
+        "ss4": "Snail ATK +70<br>Per 100 Snail Avatar Score, Snail ATK +7<br>Per 100 Snail Avatar Score, Snail DEF +7<br>Avatar Score: 2,500/2,500",
+        "ss5": "Snail ATK +90<br>Per 100 Snail Avatar Score, Snail ATK +9<br>Per 100 Snail Avatar Score, Snail DEF +9<br>Avatar Score: 2,500/2,500",
+        "ss6": "Snail ATK +120<br>Per 100 Snail Avatar Score, Snail ATK +12<br>Per 100 Snail Avatar Score, Snail DEF +12<br>Avatar Score: 2,500/2,500",
+        "ss7": "Snail ATK +120<br>Per 100 Snail Avatar Score, Snail ATK +12<br>Per 100 Snail Avatar Score, Snail DEF +12<br>Avatar Score: 2,500/2,500<br>Snail ATK +100",
+        "skill1": "[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Green Reagent Drops +15%",
+        "skill2": "[[File:Murika skill III.png|50px]]Place in Murikan Museum: This Relic's FAME +15",
+        "skill3": "[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, Snail ATK +600",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Trophy.wiki",
+  "markdown_path": "markdown/Golden_Trophy.md"
+}

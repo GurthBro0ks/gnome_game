@@ -1,0 +1,47 @@
+{
+  "pageid": 10406,
+  "ns": 0,
+  "title": "Blessing Calligraphy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Blessing_Calligraphy",
+  "touched": "2025-08-11T10:49:34Z",
+  "length": 854,
+  "lastrevid": 38170,
+  "revision": {
+    "revid": 38170,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:49:34Z",
+    "sha1": "d0337209cd0493f56d8216dfde55e9ae8868c04b",
+    "size": 854
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Blessing Calligraphy",
+        "class_id": "20097",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Of all the traditional customs of the Spring Festival, pasting \"Blessing\" on the inside and outside of the house is an indispensable one. This simple way of blessing expresses people's yearning for a happy life and wishes for a better future. In some places, there is also the custom of pasting \"Blessing\" upside down...",
+        "fame": "13",
+        "art": "13",
+        "fth": "15",
+        "civ": "34",
+        "tech": "15",
+        "ss1": "Per 20 Orange Orbs drawn, Snail HP +60<br>Orange Orbs Drawn: 300/300",
+        "ss2": "Per 20 Orange Orbs drawn, Snail HP +80<br>Orange Orbs Drawn: 300/300",
+        "ss3": "Per 20 Orange Orbs drawn, Snail HP +100<br>Orange Orbs Drawn: 300/300",
+        "ss4": "Per 20 Orange Orbs drawn, Snail HP +100<br>Orange Orbs Drawn: 300/300",
+        "ss7": "Per 20 Orange Orbs drawn, Snail HP +100<br>Orange Orbs Drawn: 300/300<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Blessing_Calligraphy.wiki",
+  "markdown_path": "markdown/Blessing_Calligraphy.md"
+}

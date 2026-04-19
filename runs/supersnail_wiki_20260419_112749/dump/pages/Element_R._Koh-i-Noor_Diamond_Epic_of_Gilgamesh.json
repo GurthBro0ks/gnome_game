@@ -1,0 +1,34 @@
+{
+  "pageid": 3795,
+  "ns": 0,
+  "title": "Element R.+Koh-i-Noor Diamond+Epic of Gilgamesh",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Element_R.%2BKoh-i-Noor_Diamond%2BEpic_of_Gilgamesh",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 203,
+  "lastrevid": 13693,
+  "revision": {
+    "revid": 13693,
+    "parentid": 0,
+    "timestamp": "2023-10-02T12:03:25Z",
+    "sha1": "e94d8111e49716e94250acb94ba4b6951db36f4c",
+    "size": 203
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Element R.,Koh-i-Noor Diamond,Epic of Gilgamesh",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per Orange+ Gear equipped, Snail RUSH +16"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Element_R._Koh-i-Noor_Diamond_Epic_of_Gilgamesh.wiki",
+  "markdown_path": "markdown/Element_R._Koh-i-Noor_Diamond_Epic_of_Gilgamesh.md"
+}

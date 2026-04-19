@@ -1,0 +1,36 @@
+{
+  "pageid": 5278,
+  "ns": 0,
+  "title": "Narmer Palette+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Narmer_Palette%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 283,
+  "lastrevid": 19274,
+  "revision": {
+    "revid": 19274,
+    "parentid": 0,
+    "timestamp": "2023-11-18T03:55:12Z",
+    "sha1": "5c4109be79bcebc008aacc4e5b09c9a02e9de683",
+    "size": 283
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Maneater Plant",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Narmer Palette,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Maneater Pistils Used, Snail ATK +7; Maneater Pistils Used: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Narmer_Palette_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Narmer_Palette_Mysterious_Relic.md"
+}

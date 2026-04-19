@@ -1,0 +1,47 @@
+{
+  "pageid": 10828,
+  "ns": 0,
+  "title": "Best Team Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Best_Team_Award",
+  "touched": "2025-08-11T11:02:46Z",
+  "length": 871,
+  "lastrevid": 38743,
+  "revision": {
+    "revid": 38743,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:02:46Z",
+    "sha1": "e5b4329cc8041162c83e618bedc243ca0e63667a",
+    "size": 871
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Best Team Award",
+        "class_id": "20945",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This seemingly resplendent trophy is a precious custom creation by the development team. Despite a few remnants of plastic hues from maintenance on its surface, the inscription on its base still represents its exceptional value: \"Presented to the world's most diligent conscientious and dedicated game development team!\" For trophy customization services please contact 1034-3503-789.",
+        "fame": "30",
+        "art": "14",
+        "fth": "13",
+        "civ": "15",
+        "tech": "18",
+        "ss1": "Mecha Minion HARD Stats +0.4%<br>In All Forms, Snail DEF +20",
+        "ss2": "Mecha Minion HARD Stats +0.8%<br>In All Forms, Snail DEF +40",
+        "ss3": "Mecha Minion HARD Stats +1.2%<br>In All Forms, Snail DEF +60",
+        "ss4": "Mecha Minion HARD Stats +1.2%<br>In All Forms, Snail DEF +60",
+        "ss7": "Mecha Minion HARD Stats +1.2%<br>In All Forms, Snail DEF +60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Best_Team_Award.wiki",
+  "markdown_path": "markdown/Best_Team_Award.md"
+}

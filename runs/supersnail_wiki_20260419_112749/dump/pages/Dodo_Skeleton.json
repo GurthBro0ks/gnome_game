@@ -1,0 +1,47 @@
+{
+  "pageid": 7905,
+  "ns": 0,
+  "title": "Dodo Skeleton",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dodo_Skeleton",
+  "touched": "2025-08-11T10:58:21Z",
+  "length": 1042,
+  "lastrevid": 38549,
+  "revision": {
+    "revid": 38549,
+    "parentid": 33323,
+    "timestamp": "2025-08-11T10:58:21Z",
+    "sha1": "8126fca684af635a0a283e78b481a412ad016af3",
+    "size": 1042
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dodo Skeleton",
+        "class_id": "20461",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This is the skeleton of a Dodo, an extinct bird species. The flightless bird lived its entire life on the ground. Their eggs and the young birds were extremely vulnerable, so when invaders came over, their extinction ensued at a staggering speed. This fully preserved skeleton becomes one of the most valuable collections.",
+        "fame": "30",
+        "art": "12",
+        "fth": "16",
+        "civ": "18",
+        "tech": "14",
+        "ss1": "Wishing Egg hatching rate +3%<br>Per 10 Wishing Eggs hatched, Snail DEF +1<br>Wishing Eggs Hatched: 400/400",
+        "ss2": "Wishing Egg hatching rate +3%<br>Per 10 Wishing Eggs hatched, Snail DEF +2<br>Wishing Eggs Hatched: 400/400",
+        "ss3": "Wishing Egg hatching rate +3%<br>Per 10 Wishing Eggs hatched, Snail DEF +3<br>Wishing Eggs Hatched: 400/400",
+        "ss4": "Wishing Egg hatching rate +3%<br>Per 10 Wishing Eggs hatched, Snail DEF +3<br>Wishing Eggs Hatched: 400/400",
+        "ss7": "Wishing Egg hatching rate +3%<br>Per 10 Wishing Eggs hatched, Snail DEF +3<br>Wishing Eggs Hatched: 400/400<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dodo_Skeleton.wiki",
+  "markdown_path": "markdown/Dodo_Skeleton.md"
+}

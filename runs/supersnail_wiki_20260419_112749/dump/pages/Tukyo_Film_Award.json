@@ -1,0 +1,47 @@
+{
+  "pageid": 902,
+  "ns": 0,
+  "title": "Tukyo Film Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tukyo_Film_Award",
+  "touched": "2025-08-11T11:16:32Z",
+  "length": 1207,
+  "lastrevid": 39340,
+  "revision": {
+    "revid": 39340,
+    "parentid": 25148,
+    "timestamp": "2025-08-11T11:16:32Z",
+    "sha1": "a32c3c02e5da7ff49c7326e3701e7acaa83ea1ca",
+    "size": 1207
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Tukyo Film Award",
+        "class_id": "20134",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Tukyo International Film Festival is the largest Film Festival in Asia. Organized by the Tukyo International Film and Culture Promotion Association, it's dedicated to promoting outstanding Asian and international films every year.",
+        "fame": "19",
+        "art": "12",
+        "fth": "19",
+        "civ": "30",
+        "tech": "10",
+        "ss1": "Event Avatar rating cap raised to SS+<br>W-tads gained from VIP Gem Card +10<br>W-tads gained from VIP Silver Card +10<br>W-tads gained from VIP Gold Card +10",
+        "ss2": "Event Avatar rating cap raised to SS+<br>W-tads gained from VIP Gem Card +20<br>W-tads gained from VIP Silver Card +20<br>W-tads gained from VIP Gold Card +20",
+        "ss3": "Event Avatar rating cap raised to SS+<br>W-tads gained from VIP Gem Card +30<br>W-tads gained from VIP Silver Card +30<br>W-tads gained from VIP Gold Card +30",
+        "ss4": "Event Avatar rating cap raised to SS+<br>W-tads gained from VIP Gem Card +30<br>W-tads gained from VIP Silver Card +30<br>W-tads gained from VIP Gold Card +30",
+        "ss7": "Event Avatar rating cap raised to SS+<br>W-tads gained from VIP Gem Card +30<br>W-tads gained from VIP Silver Card +30<br>W-tads gained from VIP Gold Card +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tukyo_Film_Award.wiki",
+  "markdown_path": "markdown/Tukyo_Film_Award.md"
+}

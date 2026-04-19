@@ -1,0 +1,33 @@
+{
+  "pageid": 9269,
+  "ns": 0,
+  "title": "Exquisite Guqin+Exquisite Pipa+Mendelssohn's Baton",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Exquisite_Guqin%2BExquisite_Pipa%2BMendelssohn%27s_Baton",
+  "touched": "2025-06-20T00:16:27Z",
+  "length": 196,
+  "lastrevid": 36106,
+  "revision": {
+    "revid": 36106,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:16:27Z",
+    "sha1": "2b06eb7fdfe6d40aaa4cb8cc4e08047381dc9f4b",
+    "size": 196
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "695",
+        "relics": "Exquisite Guqin,Exquisite Pipa,Mendelssohn's Baton",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "In Follower Recruitment, 2x Protolith Chest Drops +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Exquisite_Guqin_Exquisite_Pipa_Mendelssohn_s_Baton.wiki",
+  "markdown_path": "markdown/Exquisite_Guqin_Exquisite_Pipa_Mendelssohn_s_Baton.md"
+}

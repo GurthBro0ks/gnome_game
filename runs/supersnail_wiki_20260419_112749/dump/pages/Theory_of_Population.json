@@ -1,0 +1,52 @@
+{
+  "pageid": 5153,
+  "ns": 0,
+  "title": "Theory of Population",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Theory_of_Population",
+  "touched": "2025-06-16T23:09:07Z",
+  "length": 1711,
+  "lastrevid": 34894,
+  "revision": {
+    "revid": 34894,
+    "parentid": 24428,
+    "timestamp": "2025-06-16T23:09:07Z",
+    "sha1": "b726e2fcb595cc330159db75bfc15e06a797fc7f",
+    "size": 1711
+  },
+  "categories": [
+    "FAME Relics",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Theory of Population",
+        "class_id": "22121",
+        "rank": "AAA",
+        "affct": "FAME",
+        "birthday": "11-08",
+        "source": "Lottery Machine No.2 (0.06%), Wishing (0.02%)",
+        "description": "On Nov 8, 1789 AD, Malthus released his revolutionary population theory.<br>Malthus, a famous demographer, and economist in Britain published a theory on population growth. It made two assumptions that \"humans must rely on food\" and \"passion between men and women will be constant\". He proposed that the population will grow exponentially, but food production can only increase in an arithmetic manner. When population growth exceeds the food supply, it will result in increased poverty. This theory  …",
+        "fame": "73",
+        "art": "41",
+        "fth": "33",
+        "civ": "48",
+        "tech": "48",
+        "ss1": "Zombie Minion HP +3%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +24%",
+        "ss2": "Zombie Minion HP +4%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +32%",
+        "ss3": "Zombie Minion HP +5%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +40%",
+        "ss4": "Zombie Minion HP +7%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +56%",
+        "ss5": "Zombie Minion HP +9%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +72%",
+        "ss7": "Zombie Minion HP +9%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +72%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +56% (Awakened)",
+        "skill1": "[[File:Surfclam skill II.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion HP +4.5%",
+        "skill2": "[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FAME +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Theory_of_Population.wiki",
+  "markdown_path": "markdown/Theory_of_Population.md"
+}

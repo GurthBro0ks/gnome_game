@@ -1,0 +1,47 @@
+{
+  "pageid": 2304,
+  "ns": 0,
+  "title": "Time Crystal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Time_Crystal",
+  "touched": "2025-08-11T11:19:48Z",
+  "length": 1167,
+  "lastrevid": 39480,
+  "revision": {
+    "revid": 39480,
+    "parentid": 25173,
+    "timestamp": "2025-08-11T11:19:48Z",
+    "sha1": "4a495309773bc575da044ea8b7b9dbf6727c1c82",
+    "size": 1167
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Time Crystal",
+        "class_id": "20351",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The time crystal has more than four dimensions, always retaining a non-equilibrium state within its surroundings, and has an active space-time cycle. It can break timeline symmetry and change state according to temporal movement, but will ultimately resume its original shape, circling around just like a hand on a clock. Moreover, since it's in a state similar to perpetual motion, when the crystal is at its lowest energy point, energy is conserved within so as to not violate the law of conservati …",
+        "fame": "14",
+        "art": "16",
+        "fth": "16",
+        "civ": "15",
+        "tech": "29",
+        "ss1": "Wormhole Refinement SPD +2%<br>Per 5 Wormhole Refines, Snail ATK +1<br>Wormhole Refines: 200/200",
+        "ss2": "Wormhole Refinement SPD +4%<br>Per 5 Wormhole Refines, Snail ATK +2<br>Wormhole Refines: 200/200",
+        "ss3": "Wormhole Refinement SPD +6%<br>Per 5 Wormhole Refines, Snail ATK +3<br>Wormhole Refines: 200/200",
+        "ss4": "Wormhole Refinement SPD +6%<br>Per 5 Wormhole Refines, Snail ATK +3<br>Wormhole Refines: 200/200",
+        "ss7": "Wormhole Refinement SPD +6%<br>Per 5 Wormhole Refines, Snail ATK +3<br>Wormhole Refines: 200/200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Time_Crystal.wiki",
+  "markdown_path": "markdown/Time_Crystal.md"
+}

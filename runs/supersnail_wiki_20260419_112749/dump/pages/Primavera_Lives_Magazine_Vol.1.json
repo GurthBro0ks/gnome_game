@@ -1,0 +1,35 @@
+{
+  "pageid": 8303,
+  "ns": 0,
+  "title": "Primavera+Lives Magazine Vol.1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Primavera%2BLives_Magazine_Vol.1",
+  "touched": "2025-06-16T20:54:53Z",
+  "length": 221,
+  "lastrevid": 34087,
+  "revision": {
+    "revid": 34087,
+    "parentid": 0,
+    "timestamp": "2025-04-21T03:10:54Z",
+    "sha1": "ac424d3a99804785a01831ab6c67b74f0b77239c",
+    "size": 221
+  },
+  "categories": [
+    "ATK Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Primavera,Lives Magazine Vol.1",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 catalysis, Snail ATK +7; Catalysis: 5000/5000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Primavera_Lives_Magazine_Vol.1.wiki",
+  "markdown_path": "markdown/Primavera_Lives_Magazine_Vol.1.md"
+}

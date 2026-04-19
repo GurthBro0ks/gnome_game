@@ -1,0 +1,35 @@
+{
+  "pageid": 1229,
+  "ns": 0,
+  "title": "Relics",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Relics",
+  "touched": "2025-10-21T12:20:58Z",
+  "length": 2525,
+  "lastrevid": 20773,
+  "revision": {
+    "revid": 20773,
+    "parentid": 20534,
+    "timestamp": "2023-12-11T20:51:23Z",
+    "sha1": "c6aedf8be2dce52aa0ddb7f07b5691c6845e85b5",
+    "size": 2525
+  },
+  "categories": [
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "#cargo_query:table=Relics",
+      "params": {
+        "fields": "name, affct, rank, ss3, ss7, fame, art, fth, civ, tech",
+        "where": "available=\"1\"",
+        "order by": "name",
+        "format": "template",
+        "template": "RelicTableRow",
+        "named args": "yes"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Relics.wiki",
+  "markdown_path": "markdown/Relics.md"
+}

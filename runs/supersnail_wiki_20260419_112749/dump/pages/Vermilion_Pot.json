@@ -1,0 +1,47 @@
+{
+  "pageid": 11169,
+  "ns": 0,
+  "title": "Vermilion Pot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Vermilion_Pot",
+  "touched": "2025-08-11T11:14:53Z",
+  "length": 769,
+  "lastrevid": 39269,
+  "revision": {
+    "revid": 39269,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:14:53Z",
+    "sha1": "741ddceba7cd958dec23dab82082e8cd4376a105",
+    "size": 769
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Vermilion Pot",
+        "class_id": "20923",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Vermilion was originally a divine bird who guards the world. By chance, it encountered the Master Chef and tasted his personally made dishes. It felt that a great bird's life should be accompanied by delicious food, so it transformed into a pot, allowing it to taste the freshest dishes...",
+        "fame": "30",
+        "art": "15",
+        "fth": "15",
+        "civ": "15",
+        "tech": "15",
+        "ss1": "Snail DEF +20<br>At the Culinary Shop, Daily Supply Deal +1",
+        "ss2": "Snail DEF +40<br>At the Culinary Shop, Daily Supply Deal +2",
+        "ss3": "Snail DEF +60<br>At the Culinary Shop, Daily Supply Deal +3",
+        "ss4": "Snail DEF +60<br>At the Culinary Shop, Daily Supply Deal +3",
+        "ss7": "Snail DEF +60<br>At the Culinary Shop, Daily Supply Deal +3<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Vermilion_Pot.wiki",
+  "markdown_path": "markdown/Vermilion_Pot.md"
+}

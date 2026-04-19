@@ -1,0 +1,67 @@
+{
+  "pageid": 170,
+  "ns": 0,
+  "title": "Tetromino",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tetromino",
+  "touched": "2024-10-29T21:45:52Z",
+  "length": 2617,
+  "lastrevid": 31010,
+  "revision": {
+    "revid": 31010,
+    "parentid": 30143,
+    "timestamp": "2024-10-29T21:45:52Z",
+    "sha1": "6b04f4273063ca081d156d73633b4d3021dad4d1",
+    "size": 2617
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Lottery Draws",
+    "FAME Boost",
+    "FAME Relics",
+    "HP Boost",
+    "INTEL Boost",
+    "Keyboard Warrior Boost",
+    "Lottery Machine Boost",
+    "Lumber Camp Output Boost",
+    "Lumber Camp Skill",
+    "Minigame Boost",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Quarry Skill",
+    "Relics",
+    "Rewards Minigame",
+    "Tadpole Pond Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Tetromino",
+        "rank": "S",
+        "affct": "FAME",
+        "birthday": "10-28",
+        "source": "FAME Master Scrolls (31.5%), Fragment Crafting (20.7%), Lottery Machine (0.81%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), Wishing (0.75%)",
+        "description": "On Oct 28, 1984, Alexey Pajitnov invented a famous puzzle game using tetrominoes.\n\nIn 1953, Mathematician Solomon W. Golomb created the word \"tetromino,\" a geometric shape composed of four squares connected orthogonally. It has been used in many video games, the most renowned one was developed by a Russian programmer to test the capabilities of computers at the time. According to research, playing that game can help reduce cravings for junk food and smoking.",
+        "fame": "97",
+        "art": "61",
+        "fth": "57",
+        "civ": "68",
+        "tech": "49",
+        "ss1": "Snail HP +100<br>Per Minigame installed, Snail HP +10<br>Per Minigame installed, Snail ATK +1<br>Minigames Installed: 20/20",
+        "ss2": "Snail HP +200<br>Per Minigame installed, Snail HP +20<br>Per Minigame installed, Snail ATK +2<br>Minigames Installed: 20/20",
+        "ss3": "Snail HP +300<br>Per Minigame installed, Snail HP +30<br>Per Minigame installed, Snail ATK +3<br>Minigames Installed: 20/20",
+        "ss4": "Snail HP +500<br>Per Minigame installed, Snail HP +50<br>Per Minigame installed, Snail ATK +5<br>Minigames Installed: 20/20",
+        "ss5": "Snail HP +700<br>Per Minigame installed, Snail HP +70<br>Per Minigame installed, Snail ATK +7<br>Minigames Installed: 20/20",
+        "ss6": "Snail HP +1,000<br>Per Minigame installed, Snail HP +100<br>Per Minigame installed, Snail ATK +10<br>Minigames Installed: 20/20",
+        "ss7": "Snail HP +1,000<br>Per Minigame installed, Snail HP +100<br>Per Minigame installed, Snail ATK +10<br>Minigames Installed: 20/20<br>Snail HP +1,000 (Awakened)",
+        "skill1": "[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Wood Output +30%",
+        "skill2": "[[File:Quarry skill III.png|50px]]Place in Quarry: This Relic's FAME +15",
+        "skill3": "[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: This Relic's FAME +15",
+        "mirage": "{{Mirage|name=Fun of Clearing|reward=[[Minigames|Explosive Cube Minigame]]\n|3name=Red Polycube|3rec=113k|3atk=2706|3def=1659|3hp=8867|3weak=2284\n|6name=Blue Polycube|6rec=618k|6atk=16327|6def=10739|6hp=104375|6weak=6838\n|Arec=2.58M|Aatk=45556|Adef=29963|Ahp=699428|Aweak=12417\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tetromino.wiki",
+  "markdown_path": "markdown/Tetromino.md"
+}

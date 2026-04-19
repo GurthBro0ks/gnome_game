@@ -1,0 +1,33 @@
+{
+  "pageid": 3747,
+  "ns": 0,
+  "title": "Periodic Table Scripts+Guevara's Portrait",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Periodic_Table_Scripts%2BGuevara%27s_Portrait",
+  "touched": "2025-07-02T09:44:17Z",
+  "length": 148,
+  "lastrevid": 37114,
+  "revision": {
+    "revid": 37114,
+    "parentid": 13645,
+    "timestamp": "2025-07-02T09:44:17Z",
+    "sha1": "e32b6f02459d4372a0ad9718d70c25e4508448e0",
+    "size": 148
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "228",
+        "relics": "Periodic Table Scripts,Guevara's Portrait",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail RUSH +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Periodic_Table_Scripts_Guevara_s_Portrait.wiki",
+  "markdown_path": "markdown/Periodic_Table_Scripts_Guevara_s_Portrait.md"
+}

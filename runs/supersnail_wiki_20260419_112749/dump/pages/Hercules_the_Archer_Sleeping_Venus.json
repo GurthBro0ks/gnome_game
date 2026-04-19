@@ -1,0 +1,33 @@
+{
+  "pageid": 9311,
+  "ns": 0,
+  "title": "Hercules the Archer+Sleeping Venus",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hercules_the_Archer%2BSleeping_Venus",
+  "touched": "2025-06-20T00:21:02Z",
+  "length": 179,
+  "lastrevid": 36227,
+  "revision": {
+    "revid": 36227,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:21:02Z",
+    "sha1": "a9aecd8f4c81d63718e1308da26bed2d20fd3bb9",
+    "size": 179
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "660",
+        "relics": "Hercules the Archer,Sleeping Venus",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 catalysis, Snail DEF +6;Catalysis: 5000/5000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hercules_the_Archer_Sleeping_Venus.wiki",
+  "markdown_path": "markdown/Hercules_the_Archer_Sleeping_Venus.md"
+}

@@ -1,0 +1,50 @@
+{
+  "pageid": 10810,
+  "ns": 0,
+  "title": "VIP Silver Card",
+  "fullurl": "https://supersnail.wiki.gg/wiki/VIP_Silver_Card",
+  "touched": "2025-08-11T11:02:18Z",
+  "length": 1252,
+  "lastrevid": 38722,
+  "revision": {
+    "revid": 38722,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:02:18Z",
+    "sha1": "17682137b5accfbd742d8a485a1f62df63862fbe",
+    "size": 1252
+  },
+  "categories": [
+    "FAITH Relics",
+    "Purple FAITH Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "VIP Silver Card",
+        "class_id": "21740",
+        "rank": "AA",
+        "affct": "FAITH",
+        "description": "The Elite Pass of the Snailverse! This card grants you permanent presidential suite privileges, allowing you to unwind in luxury hotels, soak up the sun by rooftop pools, and embrace the ultimate life of leisure—sheer bliss!",
+        "fame": "39",
+        "art": "51",
+        "fth": "67",
+        "civ": "29",
+        "tech": "42",
+        "ss1": "During exploration, DMG to Apostles +5%<br>Per VIP Card activated, Snail DEF +20<br>VIP cards activated: 2/2",
+        "ss2": "During exploration, DMG to Apostles +5%<br>Per VIP Card activated, Snail DEF +40<br>VIP cards activated: 2/2",
+        "ss3": "During exploration, DMG to Apostles +5%<br>Per VIP Card activated, Snail DEF +60<br>VIP cards activated: 2/2",
+        "ss4": "During exploration, DMG to Apostles +5%<br>Per VIP Card activated, Snail DEF +100<br>VIP cards activated: 2/2",
+        "ss5": "During exploration, DMG to Apostles +5%<br>Per VIP Card activated, Snail DEF +140<br>VIP cards activated: 2/2",
+        "ss7": "During exploration, DMG to Apostles +5%<br>Per VIP Card activated, Snail DEF +140<br>VIP cards activated: 2/2<br>Snail DEF +80 (Awakened)",
+        "skill1": "[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: This Relic's FTH +10",
+        "skill2": "[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: CRIT DMG +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/VIP_Silver_Card.wiki",
+  "markdown_path": "markdown/VIP_Silver_Card.md"
+}

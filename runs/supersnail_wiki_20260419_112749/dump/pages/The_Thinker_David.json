@@ -1,0 +1,34 @@
+{
+  "pageid": 3756,
+  "ns": 0,
+  "title": "The Thinker+David",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Thinker%2BDavid",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 159,
+  "lastrevid": 13654,
+  "revision": {
+    "revid": 13654,
+    "parentid": 0,
+    "timestamp": "2023-10-02T08:22:46Z",
+    "sha1": "d9a26ba89b8c86559010ab360911fc94f91935bd",
+    "size": 159
+  },
+  "categories": [
+    "DNA"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Thinker,David",
+        "rank": "orange",
+        "amount": "2",
+        "category": "dna",
+        "description": "Angel Gene Research SPD +4.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Thinker_David.wiki",
+  "markdown_path": "markdown/The_Thinker_David.md"
+}

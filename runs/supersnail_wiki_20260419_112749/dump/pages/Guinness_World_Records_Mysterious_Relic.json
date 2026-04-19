@@ -1,0 +1,35 @@
+{
+  "pageid": 8294,
+  "ns": 0,
+  "title": "Guinness World Records+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Guinness_World_Records%2BMysterious_Relic",
+  "touched": "2025-04-21T02:58:19Z",
+  "length": 230,
+  "lastrevid": 34077,
+  "revision": {
+    "revid": 34077,
+    "parentid": 34076,
+    "timestamp": "2025-04-21T02:58:19Z",
+    "sha1": "8b36ec1bd48c942d70dd6303cc2a284c83b557b9",
+    "size": 230
+  },
+  "categories": [
+    "Home",
+    "Spore Voucher Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Guinness World Records,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "home",
+        "description": "Per catalysis, gain +1 Spore Voucher by +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Guinness_World_Records_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Guinness_World_Records_Mysterious_Relic.md"
+}

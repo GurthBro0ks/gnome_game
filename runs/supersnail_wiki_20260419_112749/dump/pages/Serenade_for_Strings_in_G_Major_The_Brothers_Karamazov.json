@@ -1,0 +1,33 @@
+{
+  "pageid": 9826,
+  "ns": 0,
+  "title": "Serenade for Strings in G Major+The Brothers Karamazov",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Serenade_for_Strings_in_G_Major%2BThe_Brothers_Karamazov",
+  "touched": "2025-07-02T09:48:45Z",
+  "length": 200,
+  "lastrevid": 37177,
+  "revision": {
+    "revid": 37177,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:48:45Z",
+    "sha1": "3e0d6cc8340137a36336a312b903abdcedfa1804",
+    "size": 200
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "894",
+        "relics": "Serenade for Strings in G Major,The Brothers Karamazov",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 catalysis, Snail RUSH +7;Catalysis: 5000/5000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Serenade_for_Strings_in_G_Major_The_Brothers_Karamazov.wiki",
+  "markdown_path": "markdown/Serenade_for_Strings_in_G_Major_The_Brothers_Karamazov.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 455,
+  "ns": 0,
+  "title": "Temporary Agent Permit",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Temporary_Agent_Permit",
+  "touched": "2025-08-11T10:53:50Z",
+  "length": 783,
+  "lastrevid": 38356,
+  "revision": {
+    "revid": 38356,
+    "parentid": 32236,
+    "timestamp": "2025-08-11T10:53:50Z",
+    "sha1": "482f4a29e6aa80ff11dd3fec0c0251e9305a931f",
+    "size": 783
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Temporary Agent Permit",
+        "class_id": "20333",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The holder is a temporary agent for the Bureau of Investigation with law enforcement powers granted by federal laws. Please cooperate, or the agent has the right to use force! —Bureau of Investigation (With hand-sketched stamp)",
+        "fame": "16",
+        "art": "16",
+        "fth": "16",
+        "civ": "16",
+        "tech": "26",
+        "ss1": "Per Agent Permit acquired, Snail ATK +1<br>Agent Permits Acquired: 50/50",
+        "ss2": "Per Agent Permit acquired, Snail ATK +2<br>Agent Permits Acquired: 50/50",
+        "ss3": "Per Agent Permit acquired, Snail ATK +3<br>Agent Permits Acquired: 50/50",
+        "ss4": "Per Agent Permit acquired, Snail ATK +3<br>Agent Permits Acquired: 50/50",
+        "ss7": "Per Agent Permit acquired, Snail ATK +3<br>Agent Permits Acquired: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Temporary_Agent_Permit.wiki",
+  "markdown_path": "markdown/Temporary_Agent_Permit.md"
+}

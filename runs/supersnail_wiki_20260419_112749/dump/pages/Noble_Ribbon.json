@@ -1,0 +1,47 @@
+{
+  "pageid": 1215,
+  "ns": 0,
+  "title": "Noble Ribbon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Noble_Ribbon",
+  "touched": "2025-08-11T11:09:32Z",
+  "length": 756,
+  "lastrevid": 39037,
+  "revision": {
+    "revid": 39037,
+    "parentid": 28724,
+    "timestamp": "2025-08-11T11:09:32Z",
+    "sha1": "e3f3aff783f7df7804959bc7b38ecacbbbce4f5b",
+    "size": 756
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Noble Ribbon",
+        "class_id": "20017",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This ribbon once belonged to a nobleman whose ancestor made war efforts and was awarded the title of Count by the House of Habsburg. The silk ribbon is embroidered with the family coat of arms to remind future generations to cherish the honor.",
+        "fame": "12",
+        "art": "27",
+        "fth": "22",
+        "civ": "14",
+        "tech": "15",
+        "ss1": "Per 1k Tadpole Points, Snail HP +10<br>Tadpole Points: 20000/20000",
+        "ss2": "Per 1k Tadpole Points, Snail HP +20<br>Tadpole Points: 20000/20000",
+        "ss3": "Per 1k Tadpole Points, Snail HP +30<br>Tadpole Points: 20000/20000",
+        "ss4": "Per 1k Tadpole Points, Snail HP +30<br>Tadpole Points: 20000/20000",
+        "ss7": "Per 1k Tadpole Points, Snail HP +30<br>Tadpole Points: 20000/20000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Noble_Ribbon.wiki",
+  "markdown_path": "markdown/Noble_Ribbon.md"
+}

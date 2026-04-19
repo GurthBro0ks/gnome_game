@@ -1,0 +1,33 @@
+{
+  "pageid": 8543,
+  "ns": 0,
+  "title": "Pearl in the Palm+Lu Ban Lock",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pearl_in_the_Palm%2BLu_Ban_Lock",
+  "touched": "2025-06-16T20:57:09Z",
+  "length": 163,
+  "lastrevid": 34439,
+  "revision": {
+    "revid": 34439,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:22:31Z",
+    "sha1": "563cd9a4c8e004a5de5881b8f0d83ec85a26ebea",
+    "size": 163
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "630",
+        "relics": "Pearl in the Palm,Lu Ban Lock",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "In Follower Recruitment, 2x Amber Drops +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pearl_in_the_Palm_Lu_Ban_Lock.wiki",
+  "markdown_path": "markdown/Pearl_in_the_Palm_Lu_Ban_Lock.md"
+}

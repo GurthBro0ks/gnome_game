@@ -1,0 +1,50 @@
+{
+  "pageid": 8744,
+  "ns": 0,
+  "title": "Jami' al-tawarikh",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jami%27_al-tawarikh",
+  "touched": "2025-06-16T20:59:27Z",
+  "length": 1111,
+  "lastrevid": 34717,
+  "revision": {
+    "revid": 34717,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:57:32Z",
+    "sha1": "8c1061b5918302f8bf6a500c3440cf0896ad20fb",
+    "size": 1111
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Jami' al-tawarikh",
+        "class_id": "22471",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "04-24",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Apr 24, 1332 AD, after ten years, Jami' al-tawarikh was finally completed.<br>It is a comprehensive history work supervised and compiled by Rashid of the Ilkhanate, under the command of Ilkhan Hulagu and Hulagu's son Abaqa. It took ten years to complete. The book is divided into three parts: Mongolian history, world history, and world geography, but only the first two parts have survived to this day. The content covers the history of various countries in the medieval world, especially Mongoli …",
+        "fame": "32",
+        "art": "31",
+        "fth": "22",
+        "civ": "48",
+        "tech": "21",
+        "ss1": "Domain Cabin Output +1%",
+        "ss2": "Domain Cabin Output +2%",
+        "ss3": "Domain Cabin Output +3%",
+        "ss4": "Domain Cabin Output +5%",
+        "ss7": "Domain Cabin Output +5%<br>Domain Cabin Output +5% (Awakened)",
+        "skill1": "[[File:Surfclam skill I.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Water DMG +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jami_al-tawarikh.wiki",
+  "markdown_path": "markdown/Jami_al-tawarikh.md"
+}

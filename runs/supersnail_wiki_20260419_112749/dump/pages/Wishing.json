@@ -1,0 +1,35 @@
+{
+  "pageid": 8948,
+  "ns": 0,
+  "title": "Wishing",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wishing",
+  "touched": "2025-06-17T10:19:00Z",
+  "length": 2549,
+  "lastrevid": 35205,
+  "revision": {
+    "revid": 35205,
+    "parentid": 0,
+    "timestamp": "2025-06-17T10:19:00Z",
+    "sha1": "983908d02175922e7b4672a1c52119e35a15cef9",
+    "size": 2549
+  },
+  "categories": [
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "#cargo_query:table=Relics",
+      "params": {
+        "fields": "name, source, affct, rank, ss3, ss7, fame, art, fth, civ, tech",
+        "where": "source LIKE '%Wishing%'",
+        "order by": "name",
+        "format": "template",
+        "template": "RelicSourceTableRow",
+        "named args": "yes"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wishing.wiki",
+  "markdown_path": "markdown/Wishing.md"
+}

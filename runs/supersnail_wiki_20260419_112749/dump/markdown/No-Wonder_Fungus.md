@@ -1,0 +1,15 @@
+|image=.png
+|description=An extremely ordinary fungus that is of average size and shape. There is nothing mysterious about it.
+|affct=FAME
+|hard=RUSH
+|source=Divine Neutral Chest (0.1%)
+|color=orange
+|earth=10
+|water=10
+|fire=12
+|wind=10
+|form=Zombie
+|element=Fire
+|realm=Hellas
+|orangehard=ATK
+}}

@@ -1,0 +1,53 @@
+{
+  "pageid": 8797,
+  "ns": 0,
+  "title": "Sleeping Venus",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sleeping_Venus",
+  "touched": "2025-06-16T20:59:24Z",
+  "length": 1741,
+  "lastrevid": 34777,
+  "revision": {
+    "revid": 34777,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:59:24Z",
+    "sha1": "f436b7f93034932445fe898e6d7dbae2bb4a6cd4",
+    "size": 1741
+  },
+  "categories": [
+    "ART Relics",
+    "Pages with broken file links",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Sleeping Venus",
+        "class_id": "22535",
+        "rank": "AAA",
+        "affct": "ART",
+        "birthday": "04-18",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Apr 18, 1510 AD, Giorgione left this painting and passed away with his lover.<br>The Sleeping Venus, created by Italian painter Giorgione, with the background completed by the painter's disciple Titian. The goddess of beauty in this painting was inspired by a lady whom Giorgione fell in love with at first sight at a party. They quickly fell in love, and the painter used her as a model to begin the creation of this painting. Unfortunately, the woman fell victim to a plague and passed away with …",
+        "fame": "31",
+        "art": "73",
+        "fth": "43",
+        "civ": "52",
+        "tech": "44",
+        "ss1": "Minion Sim Chests drop 2x Sim Tokens by +1.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +12",
+        "ss2": "Minion Sim Chests drop 2x Sim Tokens by +2%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +16",
+        "ss3": "Minion Sim Chests drop 2x Sim Tokens by +2.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +20",
+        "ss4": "Minion Sim Chests drop 2x Sim Tokens by +3.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28",
+        "ss5": "Minion Sim Chests drop 2x Sim Tokens by +4.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +36",
+        "ss7": "Minion Sim Chests drop 2x Sim Tokens by +4.5%<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +36<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28 (Awakened)",
+        "skill1": "[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, Troop Fire DMG +15",
+        "skill2": "[[File:Mantis skill II.png|50px]]Place in the Mantis Biozilla: In Species War, Troop CRIT +4.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sleeping_Venus.wiki",
+  "markdown_path": "markdown/Sleeping_Venus.md"
+}

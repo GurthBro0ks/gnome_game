@@ -1,0 +1,33 @@
+{
+  "pageid": 4584,
+  "ns": 0,
+  "title": "Hamilton's Washer+Diesel Engine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hamilton%27s_Washer%2BDiesel_Engine",
+  "touched": "2025-06-20T00:07:39Z",
+  "length": 167,
+  "lastrevid": 35902,
+  "revision": {
+    "revid": 35902,
+    "parentid": 18380,
+    "timestamp": "2025-06-20T00:07:39Z",
+    "sha1": "7238d2c182713c3e6fb2b966a2081d6b4abef400",
+    "size": 167
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "299",
+        "relics": "Hamilton's Washer,Diesel Engine",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Mecha Minions in battle: Troop RUSH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hamilton_s_Washer_Diesel_Engine.wiki",
+  "markdown_path": "markdown/Hamilton_s_Washer_Diesel_Engine.md"
+}

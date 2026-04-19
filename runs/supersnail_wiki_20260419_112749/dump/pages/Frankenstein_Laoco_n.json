@@ -1,0 +1,33 @@
+{
+  "pageid": 8321,
+  "ns": 0,
+  "title": "Frankenstein+Laocoön",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Frankenstein%2BLaoco%C3%B6n",
+  "touched": "2025-06-20T00:22:21Z",
+  "length": 221,
+  "lastrevid": 36235,
+  "revision": {
+    "revid": 36235,
+    "parentid": 34126,
+    "timestamp": "2025-06-20T00:22:21Z",
+    "sha1": "bbef64de12b8cd2ef29fa9fcd3c2b44c4228d4f5",
+    "size": 221
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "738",
+        "relics": "Frankenstein,Laocoön",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2,000 Frost Sanctum Rating Pts, Priest-Troop Assistance DMG +56;Frost Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Frankenstein_Laoco_n.wiki",
+  "markdown_path": "markdown/Frankenstein_Laoco_n.md"
+}

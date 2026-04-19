@@ -1,0 +1,47 @@
+{
+  "pageid": 10527,
+  "ns": 0,
+  "title": "Centipede Potion",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Centipede_Potion",
+  "touched": "2025-08-11T10:53:43Z",
+  "length": 771,
+  "lastrevid": 38351,
+  "revision": {
+    "revid": 38351,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:53:43Z",
+    "sha1": "0b64efb903f7942444d1963c7d59cb519a5de394",
+    "size": 771
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Centipede Potion",
+        "class_id": "20104",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The thousand-year centipede, with its formidable exterior and lethal poison, has become the subject of rumors about an elixir that grants immortality. As a result, numerous bounty hunters with varying levels of skill and immense courage have embarked on a perilous journey to find it.",
+        "fame": "15",
+        "art": "15",
+        "fth": "18",
+        "civ": "30",
+        "tech": "12",
+        "ss1": "Per Organ implanted, Snail ATK +1<br>Organs Implanted: 40/40",
+        "ss2": "Per Organ implanted, Snail ATK +2<br>Organs Implanted: 40/40",
+        "ss3": "Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40",
+        "ss4": "Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40",
+        "ss7": "Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Centipede_Potion.wiki",
+  "markdown_path": "markdown/Centipede_Potion.md"
+}

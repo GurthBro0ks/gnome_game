@@ -1,0 +1,55 @@
+{
+  "pageid": 585,
+  "ns": 0,
+  "title": "Chronometer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Chronometer",
+  "touched": "2024-09-06T09:57:37Z",
+  "length": 1202,
+  "lastrevid": 21822,
+  "revision": {
+    "revid": 21822,
+    "parentid": 16579,
+    "timestamp": "2024-01-12T03:36:34Z",
+    "sha1": "5a858f389ea7f989f27042d92d1c7a83fe13ad9d",
+    "size": 1202
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Britland Exploration Boost",
+    "Britland Museum Boost",
+    "Quarry Boost",
+    "RUSH Boost",
+    "Relics",
+    "TECH Relics",
+    "Time Machine Boost",
+    "Wood Golem Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Chronometer",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "07-02",
+        "source": "Lottery Machine (0.03%), Wishing (1.1%), Tool Chest (2%)",
+        "description": "On Jul 2, 1519, the world's first chronometer that measures longitude at sea was put to use.\n\nWith the chronometer, Magellan finally corrected the wrong nautical chart and realized his dream of traveling the world. Although the Age of Exploration had lasted for nearly 300 years, navigators never solved the problems with measuring the sea's longitude and many ships were lost at sea. Magellan adopted Harrison's watchmaking technology and drew a more accurate nautical chart.",
+        "fame": "29",
+        "art": "31",
+        "fth": "27",
+        "civ": "22",
+        "tech": "45",
+        "ss1": "Quarry Output +2%",
+        "ss2": "Quarry Output +4%",
+        "ss3": "Quarry Output +6%",
+        "ss4": "Quarry Output +10%",
+        "ss7": "Quarry Output +10%<br>Quarry Output +10% (Awakened)",
+        "skill1": "[[File:Britland skill I.png|50px]]Place in Britland Museum: In Britland, Snail DEF +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Chronometer.wiki",
+  "markdown_path": "markdown/Chronometer.md"
+}

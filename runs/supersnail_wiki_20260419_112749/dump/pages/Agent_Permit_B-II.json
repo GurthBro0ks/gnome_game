@@ -1,0 +1,47 @@
+{
+  "pageid": 1877,
+  "ns": 0,
+  "title": "Agent Permit B-II",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Agent_Permit_B-II",
+  "touched": "2025-08-11T10:57:46Z",
+  "length": 691,
+  "lastrevid": 38524,
+  "revision": {
+    "revid": 38524,
+    "parentid": 11777,
+    "timestamp": "2025-08-11T10:57:46Z",
+    "sha1": "41416abc4ced9b0fe740ca9852e204170c912955",
+    "size": 691
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Agent Permit B-II",
+        "class_id": "20321",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The holder of the card is a mid-level agent of the Bureau of Investigation and has law enforcement powers in accordance with federal statutes. Please cooperate with their inquiries and searches, otherwise the agent has the right to use force! —Bureau of Investigation (Stamp)",
+        "fame": "16",
+        "art": "18",
+        "fth": "14",
+        "civ": "13",
+        "tech": "29",
+        "ss1": "When you defeat Junior Agents, gain +3 W-tads",
+        "ss2": "When you defeat Junior Agents, gain +6 W-tads",
+        "ss3": "When you defeat Junior Agents, gain +9 W-tads",
+        "ss4": "When you defeat Junior Agents, gain +9 W-tads",
+        "ss7": "When you defeat Junior Agents, gain +9 W-tads<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Agent_Permit_B-II.wiki",
+  "markdown_path": "markdown/Agent_Permit_B-II.md"
+}

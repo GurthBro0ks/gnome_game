@@ -1,0 +1,47 @@
+{
+  "pageid": 10511,
+  "ns": 0,
+  "title": "Collection@20755 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20755_1",
+  "touched": "2025-08-11T10:53:09Z",
+  "length": 559,
+  "lastrevid": 38327,
+  "revision": {
+    "revid": 38327,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:53:09Z",
+    "sha1": "b9e9d8e23065ad4d93957c6ba2790e99af225d9d",
+    "size": 559
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20755_1",
+        "class_id": "20755",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "collection@20755_2",
+        "fame": "15",
+        "art": "14",
+        "fth": "33",
+        "civ": "17",
+        "tech": "11",
+        "ss1": "Snail DEF +10<br>Per Incense used, Snail HP +10<br>Incense Used: 40/40",
+        "ss2": "Snail DEF +20<br>Per Incense used, Snail HP +20<br>Incense Used: 40/40",
+        "ss3": "Snail DEF +30<br>Per Incense used, Snail HP +30<br>Incense Used: 40/40",
+        "ss4": "Snail DEF +30<br>Per Incense used, Snail HP +30<br>Incense Used: 40/40",
+        "ss7": "Snail DEF +30<br>Per Incense used, Snail HP +30<br>Incense Used: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20755_1.wiki",
+  "markdown_path": "markdown/Collection_20755_1.md"
+}

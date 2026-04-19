@@ -1,0 +1,47 @@
+{
+  "pageid": 7141,
+  "ns": 0,
+  "title": "Curvature Drive Engine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Curvature_Drive_Engine",
+  "touched": "2025-08-11T10:56:05Z",
+  "length": 726,
+  "lastrevid": 38452,
+  "revision": {
+    "revid": 38452,
+    "parentid": 30215,
+    "timestamp": "2025-08-11T10:56:05Z",
+    "sha1": "d16e749e38ae23ae15d784ddda0cbcc3fa821c66",
+    "size": 726
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Curvature Drive Engine",
+        "class_id": "20366",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The universe is not flat, it has curvature. By transforming time and space, the space in front of the spaceship can be shrunk and expanded in the back, allowing the spaceship to break the speed of light and travel between galaxies in the universe!",
+        "fame": "13",
+        "art": "14",
+        "fth": "17",
+        "civ": "17",
+        "tech": "29",
+        "ss1": "Wormhole Refinement SPD +0.6%<br>Wormhole refine time -1m",
+        "ss2": "Wormhole Refinement SPD +1.2%<br>Wormhole refine time -2m",
+        "ss3": "Wormhole Refinement SPD +1.8%<br>Wormhole refine time -3m",
+        "ss4": "Wormhole Refinement SPD +1.8%<br>Wormhole refine time -3m",
+        "ss7": "Wormhole Refinement SPD +1.8%<br>Wormhole refine time -3m<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Curvature_Drive_Engine.wiki",
+  "markdown_path": "markdown/Curvature_Drive_Engine.md"
+}

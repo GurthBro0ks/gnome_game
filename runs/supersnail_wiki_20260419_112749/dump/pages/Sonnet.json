@@ -1,0 +1,53 @@
+{
+  "pageid": 1900,
+  "ns": 0,
+  "title": "Sonnet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sonnet",
+  "touched": "2024-09-06T09:57:32Z",
+  "length": 1395,
+  "lastrevid": 19148,
+  "revision": {
+    "revid": 19148,
+    "parentid": 17240,
+    "timestamp": "2023-11-16T22:31:34Z",
+    "sha1": "4b1622f8596dfbef77eafba3e4f4cf90d6e6d4de",
+    "size": 1395
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "DEF Boost",
+    "Exploration INTEL Boost",
+    "Gene Simulation Compass Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Sonnet",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "09-18",
+        "source": "Lottery Machine (0.03%), Wishing (0.82%)",
+        "description": "On Sep 18, 1820, Shelley wrote the well-recognized best collection of English poems. \n\nThe King had to release the patriots to commemorate the Spanish uprising. Shelly wrote this 14-line poem in response to this event. Neat and rhythmic, this poem expressed the beauty of love. It is well-loved among the literati, including Shakespeare. Humanism, including the pursuit of freedom, equality, and charity, is a viral value among the aristocrats.\n\n[Classic Quotes]\n\nThe more we study, the more we disco …",
+        "fame": "22",
+        "art": "27",
+        "fth": "30",
+        "civ": "44",
+        "tech": "31",
+        "ss1": "In explorations, +0.4% chance to gain 2x INTEL",
+        "ss2": "In explorations, +0.8% chance to gain 2x INTEL",
+        "ss3": "In explorations, +1.2% chance to gain 2x INTEL",
+        "ss4": "In explorations, +2% chance to gain 2x INTEL",
+        "ss7": "In explorations, +2% chance to gain 2x INTEL<br>In explorations, +2% chance to gain 2x INTEL (Awakened)",
+        "skill1": "[[File:Genesim skill I.png|50px]] Place in Gene Sim Device: Snail HP +200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sonnet.wiki",
+  "markdown_path": "markdown/Sonnet.md"
+}

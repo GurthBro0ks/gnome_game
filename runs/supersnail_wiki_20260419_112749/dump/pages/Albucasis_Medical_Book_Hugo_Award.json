@@ -1,0 +1,33 @@
+{
+  "pageid": 8903,
+  "ns": 0,
+  "title": "Albucasis Medical Book+Hugo Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Albucasis_Medical_Book%2BHugo_Award",
+  "touched": "2025-06-20T00:00:40Z",
+  "length": 177,
+  "lastrevid": 35758,
+  "revision": {
+    "revid": 35758,
+    "parentid": 34947,
+    "timestamp": "2025-06-20T00:00:40Z",
+    "sha1": "2b3c6cea9664c98052c054d3d0be626cbfa85b42",
+    "size": 177
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "480",
+        "relics": "Albucasis Medical Book,Hugo Award",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per AR2-T4 owned, Snail DEF +7;AR2-T4s Owned: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Albucasis_Medical_Book_Hugo_Award.wiki",
+  "markdown_path": "markdown/Albucasis_Medical_Book_Hugo_Award.md"
+}

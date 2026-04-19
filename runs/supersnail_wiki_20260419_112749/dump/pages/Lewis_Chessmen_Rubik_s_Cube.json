@@ -1,0 +1,34 @@
+{
+  "pageid": 3305,
+  "ns": 0,
+  "title": "Lewis Chessmen+Rubik's Cube",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lewis_Chessmen%2BRubik%27s_Cube",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 188,
+  "lastrevid": 12043,
+  "revision": {
+    "revid": 12043,
+    "parentid": 12041,
+    "timestamp": "2023-09-13T07:59:25Z",
+    "sha1": "12f1a8c40820208b318908ba3592661d70e9c3c9",
+    "size": 188
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Lewis Chessmen,Rubik's Cube",
+        "rank": "blue",
+        "amount": "2",
+        "category": "other",
+        "description": "Upon traveling through an area: Gain +10 INTEL"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lewis_Chessmen_Rubik_s_Cube.wiki",
+  "markdown_path": "markdown/Lewis_Chessmen_Rubik_s_Cube.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 8460,
+  "ns": 0,
+  "title": "Basic Chemistry+Lives Magazine Vol.1+Fabergé Egg+Antigone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Basic_Chemistry%2BLives_Magazine_Vol.1%2BFaberg%C3%A9_Egg%2BAntigone",
+  "touched": "2025-06-20T00:13:45Z",
+  "length": 193,
+  "lastrevid": 35997,
+  "revision": {
+    "revid": 35997,
+    "parentid": 34336,
+    "timestamp": "2025-06-20T00:13:45Z",
+    "sha1": "2d8fde3887e878ba57cae22218808a5f0cfa51c2",
+    "size": 193
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "748",
+        "relics": "Basic Chemistry,Lives Magazine Vol.1,Fabergé Egg,Antigone",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Merge 1 Purple Stardust: Gain 1 more by 9%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Basic_Chemistry_Lives_Magazine_Vol.1_Faberg_Egg_Antigone.wiki",
+  "markdown_path": "markdown/Basic_Chemistry_Lives_Magazine_Vol.1_Faberg_Egg_Antigone.md"
+}

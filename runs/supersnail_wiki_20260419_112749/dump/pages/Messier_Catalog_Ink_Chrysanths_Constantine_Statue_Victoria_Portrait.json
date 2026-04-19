@@ -1,0 +1,35 @@
+{
+  "pageid": 5257,
+  "ns": 0,
+  "title": "Messier Catalog+Ink Chrysanths+Constantine Statue+Victoria Portrait",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Messier_Catalog%2BInk_Chrysanths%2BConstantine_Statue%2BVictoria_Portrait",
+  "touched": "2024-12-26T12:02:06Z",
+  "length": 236,
+  "lastrevid": 31577,
+  "revision": {
+    "revid": 31577,
+    "parentid": 31576,
+    "timestamp": "2024-11-09T04:42:38Z",
+    "sha1": "584b3e350771de4d3f97d549f450fd7505281059",
+    "size": 236
+  },
+  "categories": [
+    "Minion",
+    "Minion DEF Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Messier Catalog,Ink Chrysanths,Constantine Statue,Victoria Portrait",
+        "rank": "orange",
+        "amount": "4",
+        "category": "minion",
+        "description": "All Minion DEF +1.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Messier_Catalog_Ink_Chrysanths_Constantine_Statue_Victoria_Portrait.wiki",
+  "markdown_path": "markdown/Messier_Catalog_Ink_Chrysanths_Constantine_Statue_Victoria_Portrait.md"
+}

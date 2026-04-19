@@ -1,0 +1,33 @@
+{
+  "pageid": 4369,
+  "ns": 0,
+  "title": "Runes+Theogony",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Runes%2BTheogony",
+  "touched": "2025-06-20T00:00:57Z",
+  "length": 148,
+  "lastrevid": 35768,
+  "revision": {
+    "revid": 35768,
+    "parentid": 16073,
+    "timestamp": "2025-06-20T00:00:57Z",
+    "sha1": "4bae4d0487fc2b1f871f749ad6366b5abb6b48b9",
+    "size": 148
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "398",
+        "relics": "Runes,Theogony",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Refining gives +1 Wormhole Refiner by +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Runes_Theogony.wiki",
+  "markdown_path": "markdown/Runes_Theogony.md"
+}

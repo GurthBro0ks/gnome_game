@@ -1,0 +1,33 @@
+{
+  "pageid": 10946,
+  "ns": 0,
+  "title": "Chicago Pile-1+Treatise on the Great+Apollo Program+Chemical Bond Theory",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Chicago_Pile-1%2BTreatise_on_the_Great%2BApollo_Program%2BChemical_Bond_Theory",
+  "touched": "2025-08-11T11:06:44Z",
+  "length": 218,
+  "lastrevid": 38918,
+  "revision": {
+    "revid": 38918,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:06:44Z",
+    "sha1": "a10e7c665a0132c3a4a4f99b12cad6496dbd323b",
+    "size": 218
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "764",
+        "relics": "Chicago Pile-1,Treatise on the Great,Apollo Program,Chemical Bond Theory",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 100 catalysis, Snail RUSH +9;Catalysis: 5000/5000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Chicago_Pile-1_Treatise_on_the_Great_Apollo_Program_Chemical_Bond_Theory.wiki",
+  "markdown_path": "markdown/Chicago_Pile-1_Treatise_on_the_Great_Apollo_Program_Chemical_Bond_Theory.md"
+}

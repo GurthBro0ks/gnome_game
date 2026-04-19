@@ -1,0 +1,33 @@
+{
+  "pageid": 3732,
+  "ns": 0,
+  "title": "Blood of Cain+Hera's Peacock Fan",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Blood_of_Cain%2BHera%27s_Peacock_Fan",
+  "touched": "2025-08-11T10:43:34Z",
+  "length": 175,
+  "lastrevid": 37907,
+  "revision": {
+    "revid": 37907,
+    "parentid": 13630,
+    "timestamp": "2025-08-11T10:43:34Z",
+    "sha1": "92493b747a07ff8d7620096cc9128c172398438d",
+    "size": 175
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "204",
+        "relics": "Blood of Cain,Hera's Peacock Fan",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Quarry LVLs, Snail DEF +28;Quarry LVL: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Blood_of_Cain_Hera_s_Peacock_Fan.wiki",
+  "markdown_path": "markdown/Blood_of_Cain_Hera_s_Peacock_Fan.md"
+}

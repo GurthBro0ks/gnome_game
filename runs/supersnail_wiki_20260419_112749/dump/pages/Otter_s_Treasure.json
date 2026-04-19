@@ -1,0 +1,47 @@
+{
+  "pageid": 10583,
+  "ns": 0,
+  "title": "Otter's Treasure",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Otter%27s_Treasure",
+  "touched": "2025-08-11T10:55:30Z",
+  "length": 927,
+  "lastrevid": 38428,
+  "revision": {
+    "revid": 38428,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:55:30Z",
+    "sha1": "5cd7fd68f533f8ee3d842d231ffbcc9df1f7b518",
+    "size": 927
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Otter's Treasure",
+        "class_id": "20629",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This exquisitely designed shell is a treasure cherished for many years by a sea otter. During this time, it continuously processed the shell with materials it collected, eventually crafting it into the stunning masterpiece it is today, resembling a work of art!",
+        "fame": "15",
+        "art": "31",
+        "fth": "18",
+        "civ": "15",
+        "tech": "16",
+        "ss1": "Snail DEF +10<br>Per Sea Area conquered, Snail ATK +5<br>Areas of Mysterious Sea Conquered: 6/6",
+        "ss2": "Snail DEF +20<br>Per Sea Area conquered, Snail ATK +10<br>Areas of Mysterious Sea Conquered: 6/6",
+        "ss3": "Snail DEF +30<br>Per Sea Area conquered, Snail ATK +15<br>Areas of Mysterious Sea Conquered: 6/6",
+        "ss4": "Snail DEF +30<br>Per Sea Area conquered, Snail ATK +15<br>Areas of Mysterious Sea Conquered: 6/6",
+        "ss7": "Snail DEF +30<br>Per Sea Area conquered, Snail ATK +15<br>Areas of Mysterious Sea Conquered: 6/6<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Otter_s_Treasure.wiki",
+  "markdown_path": "markdown/Otter_s_Treasure.md"
+}

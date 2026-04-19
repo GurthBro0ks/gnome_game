@@ -1,0 +1,35 @@
+{
+  "pageid": 4308,
+  "ns": 0,
+  "title": "Cancer+Leo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cancer%2BLeo",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 159,
+  "lastrevid": 18546,
+  "revision": {
+    "revid": 18546,
+    "parentid": 18503,
+    "timestamp": "2023-11-14T01:09:08Z",
+    "sha1": "a2ccb17c83a8605b392869e16609c79e4f67de66",
+    "size": 159
+  },
+  "categories": [
+    "HP Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Cancer,Leo",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HP +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cancer_Leo.wiki",
+  "markdown_path": "markdown/Cancer_Leo.md"
+}

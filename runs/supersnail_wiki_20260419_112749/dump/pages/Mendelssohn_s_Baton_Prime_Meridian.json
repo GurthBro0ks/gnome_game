@@ -1,0 +1,33 @@
+{
+  "pageid": 9268,
+  "ns": 0,
+  "title": "Mendelssohn's Baton+Prime Meridian",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mendelssohn%27s_Baton%2BPrime_Meridian",
+  "touched": "2025-06-20T00:16:26Z",
+  "length": 238,
+  "lastrevid": 36105,
+  "revision": {
+    "revid": 36105,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:16:26Z",
+    "sha1": "6d84c701220f56e790bc4eccbb60486a86f4ba44",
+    "size": 238
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "693",
+        "relics": "Mendelssohn's Baton,Prime Meridian",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +48;Prairie Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mendelssohn_s_Baton_Prime_Meridian.wiki",
+  "markdown_path": "markdown/Mendelssohn_s_Baton_Prime_Meridian.md"
+}

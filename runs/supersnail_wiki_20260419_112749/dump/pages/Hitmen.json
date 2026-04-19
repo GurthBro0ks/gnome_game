@@ -1,0 +1,73 @@
+{
+  "pageid": 60,
+  "ns": 0,
+  "title": "Hitmen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hitmen",
+  "touched": "2025-11-18T13:30:00Z",
+  "length": 17812,
+  "lastrevid": 41774,
+  "revision": {
+    "revid": 41774,
+    "parentid": 41772,
+    "timestamp": "2025-11-18T13:30:00Z",
+    "sha1": "16a8489db2d34b39dc2856b0f851d8a430ebe8ff",
+    "size": 17812
+  },
+  "categories": [
+    "Hitmen",
+    "Home Base"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "green",
+        "2": "Instrument",
+        "3": "Strength Sword"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "blue",
+        "2": "Instrument",
+        "3": "Sakabato Blade"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "purple",
+        "2": "Armor",
+        "3": "Ring of Stupor"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Instrument",
+        "3": "Strength Sword"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "Instrument",
+        "3": "Sakabato Blade"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Armor",
+        "3": "Ring of Stupor"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hitmen.wiki",
+  "markdown_path": "markdown/Hitmen.md"
+}

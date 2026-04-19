@@ -1,0 +1,50 @@
+{
+  "pageid": 2317,
+  "ns": 0,
+  "title": "Yamato INTEL",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Yamato_INTEL",
+  "touched": "2025-10-14T15:19:25Z",
+  "length": 10834,
+  "lastrevid": 41309,
+  "revision": {
+    "revid": 41309,
+    "parentid": 41308,
+    "timestamp": "2025-10-14T15:19:25Z",
+    "sha1": "75efd56767c51c966e92f9f3bebb50b14c978d74",
+    "size": 10834
+  },
+  "categories": [
+    "Locations",
+    "Realm",
+    "Yamato"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Realm",
+        "3": "Genji Gloves"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Realm",
+        "3": "Genji Helmet"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Realm",
+        "3": "Genji Shield"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Yamato_INTEL.wiki",
+  "markdown_path": "markdown/Yamato_INTEL.md"
+}

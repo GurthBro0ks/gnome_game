@@ -1,0 +1,47 @@
+{
+  "pageid": 5238,
+  "ns": 0,
+  "title": "Electromagno Repeller",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Electromagno_Repeller",
+  "touched": "2025-08-11T11:00:15Z",
+  "length": 623,
+  "lastrevid": 38632,
+  "revision": {
+    "revid": 38632,
+    "parentid": 22524,
+    "timestamp": "2025-08-11T11:00:15Z",
+    "sha1": "f8c1ed786ddbb1e464a62a00212105a18afe97c8",
+    "size": 623
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Electromagno Repeller",
+        "class_id": "20354",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Powered primarily by solar energy, this suppressor can store up to three times the electricity required for it to operate at full power. It can generate a strong electromagnetic field to paralyze all electronic devices in range. Its powerful output and recharge-free function have been widely praised by users!",
+        "fame": "16",
+        "art": "18",
+        "fth": "13",
+        "civ": "14",
+        "tech": "29",
+        "ss1": "Against Racky, DMG +300%",
+        "ss2": "Against Racky, DMG +400%",
+        "ss3": "Against Racky, DMG +500%",
+        "ss4": "Against Racky, DMG +500%",
+        "ss7": "Against Racky, DMG +500%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Electromagno_Repeller.wiki",
+  "markdown_path": "markdown/Electromagno_Repeller.md"
+}

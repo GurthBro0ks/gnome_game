@@ -1,0 +1,47 @@
+{
+  "pageid": 10742,
+  "ns": 0,
+  "title": "Zombie Incubator",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Zombie_Incubator",
+  "touched": "2025-08-11T11:00:12Z",
+  "length": 775,
+  "lastrevid": 38630,
+  "revision": {
+    "revid": 38630,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:00:12Z",
+    "sha1": "6f17a4c2c3166f747f6bee8735e8f59c1c6d1f0c",
+    "size": 775
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Zombie Incubator",
+        "class_id": "20385",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "A device left behind by the Forerunners and the product of the study of immortality. Even knowing that the device could turn them into vicious monsters, the greedy forerunners kept it, hoping that it could solve the problem of zombification one day and fulfill their lifelong dream!",
+        "fame": "13",
+        "art": "14",
+        "fth": "17",
+        "civ": "15",
+        "tech": "31",
+        "ss1": "Zombie Minion HARD Stats +0.4%<br>In All Forms, Snail ATK +20",
+        "ss2": "Zombie Minion HARD Stats +0.8%<br>In All Forms, Snail ATK +40",
+        "ss3": "Zombie Minion HARD Stats +1.2%<br>In All Forms, Snail ATK +60",
+        "ss4": "Zombie Minion HARD Stats +1.2%<br>In All Forms, Snail ATK +60",
+        "ss7": "Zombie Minion HARD Stats +1.2%<br>In All Forms, Snail ATK +60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Zombie_Incubator.wiki",
+  "markdown_path": "markdown/Zombie_Incubator.md"
+}

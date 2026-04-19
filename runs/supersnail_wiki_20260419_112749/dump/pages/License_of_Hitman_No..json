@@ -1,0 +1,47 @@
+{
+  "pageid": 11108,
+  "ns": 0,
+  "title": "License of Hitman No.∞",
+  "fullurl": "https://supersnail.wiki.gg/wiki/License_of_Hitman_No.%E2%88%9E",
+  "touched": "2025-08-11T11:12:42Z",
+  "length": 1281,
+  "lastrevid": 39172,
+  "revision": {
+    "revid": 39172,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:12:42Z",
+    "sha1": "52e89bd00d6dc5c2ec3736b3d10010ac7a35f815",
+    "size": 1281
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "License of Hitman No.∞",
+        "class_id": "20990",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "A lifetime of corporate wage-slaving conditioned him to punch in at 9 AM sharp for eternal snail-hunting.",
+        "fame": "30",
+        "art": "15",
+        "fth": "15",
+        "civ": "15",
+        "tech": "15",
+        "ss1": "Per 9 Hitmen intercepted, Snail HP +33<br>Per 9 Hitmen intercepted, Snail ATK +3<br>Per 9 Hitmen intercepted, Snail DEF +3<br>Per 9 Hitmen intercepted, Snail RUSH +3<br>Hitmen Intercepted: 999/999",
+        "ss2": "Per 9 Hitmen intercepted, Snail HP +66<br>Per 9 Hitmen intercepted, Snail ATK +6<br>Per 9 Hitmen intercepted, Snail DEF +6<br>Per 9 Hitmen intercepted, Snail RUSH +6<br>Hitmen Intercepted: 999/999",
+        "ss3": "Per 9 Hitmen intercepted, Snail HP +99<br>Per 9 Hitmen intercepted, Snail ATK +9<br>Per 9 Hitmen intercepted, Snail DEF +9<br>Per 9 Hitmen intercepted, Snail RUSH +9<br>Hitmen Intercepted: 999/999",
+        "ss4": "Per 9 Hitmen intercepted, Snail HP +99<br>Per 9 Hitmen intercepted, Snail ATK +9<br>Per 9 Hitmen intercepted, Snail DEF +9<br>Per 9 Hitmen intercepted, Snail RUSH +9<br>Hitmen Intercepted: 999/999",
+        "ss7": "Per 9 Hitmen intercepted, Snail HP +99<br>Per 9 Hitmen intercepted, Snail ATK +9<br>Per 9 Hitmen intercepted, Snail DEF +9<br>Per 9 Hitmen intercepted, Snail RUSH +9<br>Hitmen Intercepted: 999/999<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/License_of_Hitman_No..wiki",
+  "markdown_path": "markdown/License_of_Hitman_No..md"
+}

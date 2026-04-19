@@ -1,0 +1,33 @@
+{
+  "pageid": 9285,
+  "ns": 0,
+  "title": "Bejer Earphones+Ottens Cassette Tape",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bejer_Earphones%2BOttens_Cassette_Tape",
+  "touched": "2025-06-20T00:18:57Z",
+  "length": 140,
+  "lastrevid": 36156,
+  "revision": {
+    "revid": 36156,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:18:57Z",
+    "sha1": "57c44af71f6c18e24ff7df9ee1c5d1a3361ddb18",
+    "size": 140
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "600",
+        "relics": "Bejer Earphones,Ottens Cassette Tape",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HP +500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bejer_Earphones_Ottens_Cassette_Tape.wiki",
+  "markdown_path": "markdown/Bejer_Earphones_Ottens_Cassette_Tape.md"
+}

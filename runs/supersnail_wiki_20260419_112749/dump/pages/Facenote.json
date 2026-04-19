@@ -1,0 +1,47 @@
+{
+  "pageid": 238,
+  "ns": 0,
+  "title": "Facenote",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Facenote",
+  "touched": "2025-08-11T11:17:18Z",
+  "length": 1017,
+  "lastrevid": 39373,
+  "revision": {
+    "revid": 39373,
+    "parentid": 14432,
+    "timestamp": "2025-08-11T11:17:18Z",
+    "sha1": "0c06e36e4ba884cb62612d08efb59c56aa599b4c",
+    "size": 1017
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Facenote",
+        "class_id": "20346",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "This notebook contains all of Zuckie's entrepreneurial thoughts and all the user information he has collected over the years. On the cover is a Facenote logo. As Zuckie's enterprise continues to blow up, more and more people have begun to covet this notebook. There are even rumors swirling that as long as you get this notebook, you can strike it rich and become a billionaire like Zuckie...",
+        "fame": "13",
+        "art": "17",
+        "fth": "16",
+        "civ": "18",
+        "tech": "26",
+        "ss1": "One less ad required for Daily Tasks<br>Per 10 Mecha Minions in battle:<br>> Troop HP +10",
+        "ss2": "One less ad required for Daily Tasks<br>Per 10 Mecha Minions in battle:<br>> Troop HP +20",
+        "ss3": "One less ad required for Daily Tasks<br>Per 10 Mecha Minions in battle:<br>> Troop HP +30",
+        "ss4": "One less ad required for Daily Tasks<br>Per 10 Mecha Minions in battle:<br>> Troop HP +30",
+        "ss7": "One less ad required for Daily Tasks<br>Per 10 Mecha Minions in battle:<br>> Troop HP +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Facenote.wiki",
+  "markdown_path": "markdown/Facenote.md"
+}

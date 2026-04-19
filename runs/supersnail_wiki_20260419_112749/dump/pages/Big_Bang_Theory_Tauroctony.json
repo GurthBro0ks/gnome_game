@@ -1,0 +1,33 @@
+{
+  "pageid": 9762,
+  "ns": 0,
+  "title": "Big Bang Theory+Tauroctony",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Big_Bang_Theory%2BTauroctony",
+  "touched": "2025-07-02T09:38:47Z",
+  "length": 195,
+  "lastrevid": 37015,
+  "revision": {
+    "revid": 37015,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:38:47Z",
+    "sha1": "b1e6e9f901471af48799d630ffb22f4300c8ba39",
+    "size": 195
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "756",
+        "relics": "Big Bang Theory,Tauroctony",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Orange Brand Cases opened, Snail ATK +7;Orange Brand Cases Opened: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Big_Bang_Theory_Tauroctony.wiki",
+  "markdown_path": "markdown/Big_Bang_Theory_Tauroctony.md"
+}

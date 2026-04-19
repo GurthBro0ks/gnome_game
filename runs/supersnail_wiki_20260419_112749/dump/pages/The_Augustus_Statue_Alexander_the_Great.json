@@ -1,0 +1,33 @@
+{
+  "pageid": 3946,
+  "ns": 0,
+  "title": "The Augustus Statue+Alexander the Great",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Augustus_Statue%2BAlexander_the_Great",
+  "touched": "2025-08-11T10:38:20Z",
+  "length": 171,
+  "lastrevid": 37689,
+  "revision": {
+    "revid": 37689,
+    "parentid": 18405,
+    "timestamp": "2025-08-11T10:38:20Z",
+    "sha1": "8d5ec63b5428ac54072e2e6fd66a25b5274863f2",
+    "size": 171
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "293",
+        "relics": "The Augustus Statue,Alexander the Great",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop ATK +63"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Augustus_Statue_Alexander_the_Great.wiki",
+  "markdown_path": "markdown/The_Augustus_Statue_Alexander_the_Great.md"
+}

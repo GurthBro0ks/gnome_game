@@ -1,0 +1,36 @@
+{
+  "pageid": 3820,
+  "ns": 0,
+  "title": "ANS Synthesizer+The Argo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/ANS_Synthesizer%2BThe_Argo",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 273,
+  "lastrevid": 18804,
+  "revision": {
+    "revid": 18804,
+    "parentid": 13742,
+    "timestamp": "2023-11-16T03:27:20Z",
+    "sha1": "09ef7ddbf3d695299708ddd8d848e86c5a963fa8",
+    "size": 273
+  },
+  "categories": [
+    "DEF Boost",
+    "Enhanced by Museum Promos",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "ANS Synthesizer,The Argo",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Orange Museum Promos, Snail DEF +35<br>Orange Museum Promos: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/ANS_Synthesizer_The_Argo.wiki",
+  "markdown_path": "markdown/ANS_Synthesizer_The_Argo.md"
+}

@@ -1,0 +1,28 @@
+{
+  "pageid": 2995,
+  "ns": 0,
+  "title": "Snowman",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Snowman",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 344,
+  "lastrevid": 22501,
+  "revision": {
+    "revid": 22501,
+    "parentid": 22499,
+    "timestamp": "2024-02-22T22:59:58Z",
+    "sha1": "252df0af402c524adb766fc47caddbd09be281d2",
+    "size": 344
+  },
+  "categories": [
+    "ART Shells",
+    "DEF Boost",
+    "Demon Form",
+    "Fire DMG Boost",
+    "Koreyo",
+    "Shells"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Snowman.wiki",
+  "markdown_path": "markdown/Snowman.md"
+}

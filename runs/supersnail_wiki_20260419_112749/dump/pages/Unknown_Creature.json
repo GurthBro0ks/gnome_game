@@ -1,0 +1,23 @@
+{
+  "pageid": 570,
+  "ns": 0,
+  "title": "Unknown Creature",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Unknown_Creature",
+  "touched": "2025-10-05T12:37:04Z",
+  "length": 2982,
+  "lastrevid": 40824,
+  "revision": {
+    "revid": 40824,
+    "parentid": 40561,
+    "timestamp": "2025-10-05T12:37:04Z",
+    "sha1": "92e7ff8fce61cd4d28375f1a678545da0b7e18d9",
+    "size": 2982
+  },
+  "categories": [
+    "Home Base"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Unknown_Creature.wiki",
+  "markdown_path": "markdown/Unknown_Creature.md"
+}

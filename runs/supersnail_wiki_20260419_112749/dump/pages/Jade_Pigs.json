@@ -1,0 +1,47 @@
+{
+  "pageid": 9976,
+  "ns": 0,
+  "title": "Jade Pigs",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jade_Pigs",
+  "touched": "2025-08-11T10:33:38Z",
+  "length": 782,
+  "lastrevid": 37480,
+  "revision": {
+    "revid": 37480,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:33:38Z",
+    "sha1": "6c588162925d006d686f6a5a4a8736f2e8919f5e",
+    "size": 782
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Jade Pigs",
+        "class_id": "20151",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This pair of exquisite jade pigs was unearthed in the Han tomb of Shanmenkou village in Xi'an. Their postures are lifelike, perfectly mimicking pigs running wildly. The two pigs look similar in style but present different dynamics, showing an extremely high level of technique.",
+        "fame": "19",
+        "art": "31",
+        "fth": "14",
+        "civ": "13",
+        "tech": "13",
+        "ss1": "Per Unknown Creature needs met, Snail RUSH +2<br>Needs Met: 15/15",
+        "ss2": "Per Unknown Creature needs met, Snail RUSH +4<br>Needs Met: 15/15",
+        "ss3": "Per Unknown Creature needs met, Snail RUSH +6<br>Needs Met: 15/15",
+        "ss4": "Per Unknown Creature needs met, Snail RUSH +6<br>Needs Met: 15/15",
+        "ss7": "Per Unknown Creature needs met, Snail RUSH +6<br>Needs Met: 15/15<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jade_Pigs.wiki",
+  "markdown_path": "markdown/Jade_Pigs.md"
+}

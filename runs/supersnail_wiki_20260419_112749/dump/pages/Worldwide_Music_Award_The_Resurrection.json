@@ -1,0 +1,33 @@
+{
+  "pageid": 10766,
+  "ns": 0,
+  "title": "Worldwide Music Award+The Resurrection",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Worldwide_Music_Award%2BThe_Resurrection",
+  "touched": "2025-08-11T11:16:59Z",
+  "length": 208,
+  "lastrevid": 38667,
+  "revision": {
+    "revid": 38667,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:01:04Z",
+    "sha1": "12abd22367096202169bfc48602253bf09179bac",
+    "size": 208
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "782",
+        "relics": "Worldwide Music Award,The Resurrection",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Protolith Chests opened, Snail ATK +7;Opened Protolith Chests: 500/500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Worldwide_Music_Award_The_Resurrection.wiki",
+  "markdown_path": "markdown/Worldwide_Music_Award_The_Resurrection.md"
+}

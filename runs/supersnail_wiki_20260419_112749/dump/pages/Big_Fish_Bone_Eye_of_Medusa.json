@@ -1,0 +1,33 @@
+{
+  "pageid": 3296,
+  "ns": 0,
+  "title": "Big Fish Bone+Eye of Medusa",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Big_Fish_Bone%2BEye_of_Medusa",
+  "touched": "2025-08-11T10:37:03Z",
+  "length": 143,
+  "lastrevid": 37636,
+  "revision": {
+    "revid": 37636,
+    "parentid": 12031,
+    "timestamp": "2025-08-11T10:37:03Z",
+    "sha1": "32627db69f6e64e3afeab9943c7de64b1085dc9f",
+    "size": 143
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "3",
+        "relics": "Big Fish Bone,Eye of Medusa",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Mecha Gene Research SPD +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Big_Fish_Bone_Eye_of_Medusa.wiki",
+  "markdown_path": "markdown/Big_Fish_Bone_Eye_of_Medusa.md"
+}

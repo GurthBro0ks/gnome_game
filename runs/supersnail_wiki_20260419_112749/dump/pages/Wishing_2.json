@@ -1,0 +1,33 @@
+{
+  "pageid": 8950,
+  "ns": 0,
+  "title": "Wishing 2",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wishing_2",
+  "touched": "2025-06-17T10:28:57Z",
+  "length": 2590,
+  "lastrevid": 35207,
+  "revision": {
+    "revid": 35207,
+    "parentid": 0,
+    "timestamp": "2025-06-17T10:28:57Z",
+    "sha1": "77ca52c41c65658b2d795d95bda9e0ff5a9f27cc",
+    "size": 2590
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "#cargo_query:table=Relics",
+      "params": {
+        "fields": "name, source, affct, rank, ss3, ss7, fame, art, fth, civ, tech",
+        "where": "source LIKE '%Wishing%' AND source LIKE '%Lottery Machine No.2%'",
+        "order by": "name",
+        "format": "template",
+        "template": "RelicSourceTableRow",
+        "named args": "yes"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wishing_2.wiki",
+  "markdown_path": "markdown/Wishing_2.md"
+}

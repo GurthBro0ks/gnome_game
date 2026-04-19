@@ -1,0 +1,33 @@
+{
+  "pageid": 4589,
+  "ns": 0,
+  "title": "Broken Queen Statue+Woman in Blue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Broken_Queen_Statue%2BWoman_in_Blue",
+  "touched": "2025-06-20T00:04:21Z",
+  "length": 169,
+  "lastrevid": 35838,
+  "revision": {
+    "revid": 35838,
+    "parentid": 18397,
+    "timestamp": "2025-06-20T00:04:21Z",
+    "sha1": "6dfda143b248866d97d3e3bbcb17155dffc09d85",
+    "size": 169
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "316",
+        "relics": "Broken Queen Statue,Woman in Blue",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Zombie Minions in battle: Troop HP +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Broken_Queen_Statue_Woman_in_Blue.wiki",
+  "markdown_path": "markdown/Broken_Queen_Statue_Woman_in_Blue.md"
+}

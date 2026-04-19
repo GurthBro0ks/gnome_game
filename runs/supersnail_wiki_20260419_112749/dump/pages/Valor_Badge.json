@@ -1,0 +1,47 @@
+{
+  "pageid": 10684,
+  "ns": 0,
+  "title": "Valor Badge",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Valor_Badge",
+  "touched": "2025-08-11T10:58:30Z",
+  "length": 1058,
+  "lastrevid": 38556,
+  "revision": {
+    "revid": 38556,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:58:30Z",
+    "sha1": "5c6a46b62c451d2a38533b7a8d9a59233718dc69",
+    "size": 1058
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Valor Badge",
+        "class_id": "20651",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "The Apostles have seized the Twelve Temples of Hellas. In response, Earth's Will has mobilized the Hellas Expeditionary Force. All warriors are granted Badge of Valor. May these emblems inspire you to purge the Apostles...and restore light to Hellas!\n—[Seal of Earth's Will]",
+        "fame": "15",
+        "art": "29",
+        "fth": "18",
+        "civ": "14",
+        "tech": "14",
+        "ss1": "Per Hellas Apostle defeated, Snail HP +3<br>Per Hellas Apostle defeated, Snail ATK +3<br>Hellas Apostles defeated:10/10",
+        "ss2": "Per Hellas Apostle defeated, Snail HP +6<br>Per Hellas Apostle defeated, Snail ATK +6<br>Hellas Apostles defeated:10/10",
+        "ss3": "Per Hellas Apostle defeated, Snail HP +9<br>Per Hellas Apostle defeated, Snail ATK +9<br>Hellas Apostles defeated:10/10",
+        "ss4": "Per Hellas Apostle defeated, Snail HP +9<br>Per Hellas Apostle defeated, Snail ATK +9<br>Hellas Apostles defeated:10/10",
+        "ss7": "Per Hellas Apostle defeated, Snail HP +9<br>Per Hellas Apostle defeated, Snail ATK +9<br>Hellas Apostles defeated:10/10 <br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Valor_Badge.wiki",
+  "markdown_path": "markdown/Valor_Badge.md"
+}

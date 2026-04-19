@@ -41,7 +41,7 @@ All entity names use `snake_case`. All IDs are strings. Timestamps are ISO 8601 
 | `forgotten_manual` | `rootrail_codex_entry` |
 | `treasure` (definition) | `treasure_embed_state` |
 | `confidant` (definition) | `confidant_state` (per-account) |
-| `burrowfolk_unit` (definition) | `burrowfolk_deployment` |
+| `burrowfolk_unit` (definition) | `burrow_state` (`active_burrowfolk_slots`, `burrow_work_queue`) |
 | `duty` (definition) | `duty_progress` |
 | `encounter` (definition) | `encounter_state` |
 | `event` (definition) | `event_state` |
@@ -129,6 +129,8 @@ completes_at: timestamp
 output_resource: string
 output_qty: int
 ```
+
+> **MVP NOTE:** Burrowfolk deployment state is tracked inside `burrow_state` via `active_burrowfolk_slots` (count of active slots) and `burrow_work_queue` (per-unit work items). There is no separate `burrowfolk_deployment` document in the MVP schema. If a future Burrowfolk system expansion requires per-unit deployment history or training levels, a dedicated `burrowfolk_deployment` document should be added at that time with fields: `account_id`, `burrowfolk_id`, `unlocked`, `deployed`, `active_task_id`, `started_at`, `completes_at`, `output_resource`, `output_qty`, `last_collected_at`, `training_level`, `state`, and `meta`.
 
 ---
 

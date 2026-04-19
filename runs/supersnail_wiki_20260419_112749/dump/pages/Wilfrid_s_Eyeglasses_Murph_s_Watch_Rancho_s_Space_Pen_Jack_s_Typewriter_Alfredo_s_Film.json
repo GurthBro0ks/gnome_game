@@ -1,0 +1,33 @@
+{
+  "pageid": 9281,
+  "ns": 0,
+  "title": "Wilfrid's Eyeglasses+Murph's Watch+Rancho's Space Pen+Jack's Typewriter+Alfredo's Film",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wilfrid%27s_Eyeglasses%2BMurph%27s_Watch%2BRancho%27s_Space_Pen%2BJack%27s_Typewriter%2BAlfredo%27s_Film",
+  "touched": "2025-06-20T00:18:37Z",
+  "length": 191,
+  "lastrevid": 36142,
+  "revision": {
+    "revid": 36142,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:18:37Z",
+    "sha1": "5b46b0354c42bea742691b8dbb5b32667a2bc356",
+    "size": 191
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "650",
+        "relics": "Wilfrid's Eyeglasses,Murph's Watch,Rancho's Space Pen,Jack's Typewriter,Alfredo's Film",
+        "rank": "blue",
+        "amount": "5",
+        "category": "self",
+        "description": "Snail RUSH +80"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wilfrid_s_Eyeglasses_Murph_s_Watch_Rancho_s_Space_Pen_Jack_s_Typewriter_Alfredo_s_Film.wiki",
+  "markdown_path": "markdown/Wilfrid_s_Eyeglasses_Murph_s_Watch_Rancho_s_Space_Pen_Jack_s_Typewriter_Alfredo_s_Film.md"
+}

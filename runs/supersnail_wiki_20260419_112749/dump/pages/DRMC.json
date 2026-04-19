@@ -1,0 +1,55 @@
+{
+  "pageid": 146,
+  "ns": 0,
+  "title": "DRMC",
+  "fullurl": "https://supersnail.wiki.gg/wiki/DRMC",
+  "touched": "2024-09-06T09:59:08Z",
+  "length": 2036,
+  "lastrevid": 22455,
+  "revision": {
+    "revid": 22455,
+    "parentid": 13308,
+    "timestamp": "2024-02-21T03:18:28Z",
+    "sha1": "8acd9440747ec626ec84ec51befeef7aa66a3e4a",
+    "size": 2036
+  },
+  "categories": [
+    "DEF Boost",
+    "Enhanced by Lottery Draws",
+    "FAME Relics",
+    "Gene Simulation Compass Boost",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "DRMC",
+        "rank": "AAA",
+        "affct": "FAME",
+        "birthday": "07-12",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)",
+        "description": "On Jul 12, 1789, the most important declaration of France was issued for the first time.\n\nThis declaration was issued during the French Revolution. More than a month ago, angry citizens of Paris picked up weapons, swarmed the Bastille, and destroyed it. Driven by people's will, France established a constituent assembly and issued a Declaration of Human Rights. It stated the principles of the Separation of Powers, equality before the law, and the sancrosanctity of private properties. \n\n[Famous Qu …",
+        "fame": "74",
+        "art": "46",
+        "fth": "38",
+        "civ": "48",
+        "tech": "37",
+        "ss1": "Per 10k Relic Points, Snail DEF +5<br>Per 10k Relic Points, Snail RUSH +5<br>Relic Points: 180,000/180,000",
+        "ss2": "Per 10k Relic Points, Snail DEF +5<br>Per 10k Relic Points, Snail RUSH +5<br>Relic Points: 240,000/240,000",
+        "ss3": "Per 10k Relic Points, Snail DEF +5<br>Per 10k Relic Points, Snail RUSH +5<br>Relic Points: 300,000/300,000",
+        "ss4": "Per 10k Relic Points, Snail DEF +5<br>Per 10k Relic Points, Snail RUSH +5<br>Relic Points: 420,000/420,000",
+        "ss5": "Per 10k Relic Points, Snail DEF +5<br>Per 10k Relic Points, Snail RUSH +5<br>Relic Points: 540,000/540,000",
+        "ss7": "Per 10k Relic Points, Snail DEF +5<br>Per 10k Relic Points, Snail RUSH +5<br>Relic Points: 540,000/540,000<br>Snail RUSH +70",
+        "skill1": "[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: Fire DMG +60",
+        "skill2": "[[File:Genesim skill II.png|50px]]Place in Gene Sim Device: This Relics FAME +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/DRMC.wiki",
+  "markdown_path": "markdown/DRMC.md"
+}

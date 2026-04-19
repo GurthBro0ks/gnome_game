@@ -1,0 +1,34 @@
+{
+  "pageid": 3264,
+  "ns": 0,
+  "title": "Bach Concerto+Gaunery's Violin",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bach_Concerto%2BGaunery%27s_Violin",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 209,
+  "lastrevid": 11921,
+  "revision": {
+    "revid": 11921,
+    "parentid": 0,
+    "timestamp": "2023-09-12T15:26:11Z",
+    "sha1": "c3dbe2acd6cb2b179701dfcfd3335b4039e122c3",
+    "size": 209
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Bach Concerto,Guanery's Violin",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 20 Blue Beads drawn, Snail ATK +10<br>Blue Beads Dawn: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bach_Concerto_Gaunery_s_Violin.wiki",
+  "markdown_path": "markdown/Bach_Concerto_Gaunery_s_Violin.md"
+}

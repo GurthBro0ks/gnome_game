@@ -1,0 +1,33 @@
+{
+  "pageid": 8463,
+  "ns": 0,
+  "title": "Family Reunion+Elijah",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Family_Reunion%2BElijah",
+  "touched": "2025-06-20T00:13:50Z",
+  "length": 164,
+  "lastrevid": 36002,
+  "revision": {
+    "revid": 36002,
+    "parentid": 34340,
+    "timestamp": "2025-06-20T00:13:50Z",
+    "sha1": "53235cacbeb26d0066205f48b231a63d1df48a77",
+    "size": 164
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "593",
+        "relics": "Family Reunion,Elijah",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Zombie Minions in battle: Troop HARD Stats +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Family_Reunion_Elijah.wiki",
+  "markdown_path": "markdown/Family_Reunion_Elijah.md"
+}

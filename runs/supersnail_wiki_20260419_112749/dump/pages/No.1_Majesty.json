@@ -1,0 +1,55 @@
+{
+  "pageid": 692,
+  "ns": 0,
+  "title": "No.1 Majesty",
+  "fullurl": "https://supersnail.wiki.gg/wiki/No.1_Majesty",
+  "touched": "2024-09-06T09:56:26Z",
+  "length": 1580,
+  "lastrevid": 17975,
+  "revision": {
+    "revid": 17975,
+    "parentid": 17377,
+    "timestamp": "2023-11-12T21:21:46Z",
+    "sha1": "6e385f2350ca9e323697939626c3d46188123850",
+    "size": 1580
+  },
+  "categories": [
+    "Bharata Exploration Boost",
+    "Bharata Museum Boost",
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Boost",
+    "CIV Relics",
+    "DEF Boost",
+    "Enhanced by Tadpole Points",
+    "Fungus Farm Output Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "No.1 Majesty",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "11-12",
+        "source": "Lottery Machine (0.03%), Wishing (0.82%)",
+        "description": "On Nov 12, 2006, Clive Christian produced this world's most expensive perfume. \n\nIt took Christian 6 months to make 10 bottles of No.1 Majesty, each selling at 140,000 GBP. This is the best smelling perfume in the world, made by extracting 170 kinds of flower buds. It has the largest perfume bottle (500 ml) with a mouth made of gold, and a body embellished with a 5-carat diamonds. This perfume bottle alone costs as high as 110,000 GBP, not to mention the perfume itself.\n\n[Smell]\n\nTop notes: Lime …",
+        "fame": "26",
+        "art": "21",
+        "fth": "31",
+        "civ": "47",
+        "tech": "29",
+        "ss1": "Per 1k Tadpole Points, Snail DEF +1<br>Tadpole Points: 20,000/20,000",
+        "ss2": "Per 1k Tadpole Points, Snail DEF +2<br>Tadpole Points: 20,000/20,000",
+        "ss3": "Per 1k Tadpole Points, Snail DEF +3<br>Tadpole Points: 20,000/20,000",
+        "ss4": "Per 1k Tadpole Points, Snail DEF +5<br>Tadpole Points: 20,000/20,000",
+        "ss7": "Per 1k Tadpole Points, Snail DEF +5<br>Tadpole Points: 20,000/20,000<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Bharata skill I.png|50px]] Place in Bharata Museum: In Bharata, CIV Checks -5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/No.1_Majesty.wiki",
+  "markdown_path": "markdown/No.1_Majesty.md"
+}

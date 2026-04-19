@@ -1,0 +1,54 @@
+{
+  "pageid": 9,
+  "ns": 0,
+  "title": "Im's Arrow",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Im%27s_Arrow",
+  "touched": "2026-02-07T09:58:28Z",
+  "length": 1253,
+  "lastrevid": 41826,
+  "revision": {
+    "revid": 41826,
+    "parentid": 17010,
+    "timestamp": "2026-02-07T09:58:28Z",
+    "sha1": "405ef18f52863e3da7d44d02aeecc2268e659918",
+    "size": 1253
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Dragon Minion ATK Boost",
+    "Koryeo Exploration Boost",
+    "Koryeo Museum Boost",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Im's Arrow",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "03-26",
+        "source": "Lottery Machine (0.07%), Wishing (2.1%), Novice Scrolls (1%)",
+        "description": "On Mar 26, 2008, the visually-impaired Im hit a bullseye.\n\nIm was almost blind but not his arrow. Im won multiple Olympic medals with this magical arrow and his superb shooting skills. Even though he couldn't see, he never misses his shot.\n\n[Personal Achievements]\n\nChampion of the 28th Athens Summer Olympics. Champion of the 42nd Leipzig Archery Championships. Champion of the 48th Neo-York World Archery Championships. Champion of the 14th Pusan Asian Games.",
+        "fame": "27",
+        "art": "31",
+        "fth": "19",
+        "civ": "44",
+        "tech": "33",
+        "ss1": "Per Purple+ Gear equipped, Snail ATK +3",
+        "ss2": "Per Purple+ Gear equipped, Snail ATK +4",
+        "ss3": "Per Purple+ Gear equipped, Snail ATK +5",
+        "ss4": "Per Purple+ Gear equipped, Snail ATK +7",
+        "ss7": "Per Purple+ Gear equipped, Snail ATK +7<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Koryeo skill I.png|50px]] Place in Koryeo Museum: In Koryeo, Snail HP +200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Im_s_Arrow.wiki",
+  "markdown_path": "markdown/Im_s_Arrow.md"
+}

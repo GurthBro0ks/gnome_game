@@ -1,0 +1,33 @@
+{
+  "pageid": 8538,
+  "ns": 0,
+  "title": "Benin Plaque+Marsoulas Conch Horn",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Benin_Plaque%2BMarsoulas_Conch_Horn",
+  "touched": "2025-06-20T00:14:58Z",
+  "length": 181,
+  "lastrevid": 36047,
+  "revision": {
+    "revid": 36047,
+    "parentid": 34433,
+    "timestamp": "2025-06-20T00:14:58Z",
+    "sha1": "edae9b56b8cbed58dbe5ca77eb41e350c96f91ec",
+    "size": 181
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "583",
+        "relics": "Benin Plaque,Marsoulas Conch Horn",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 3 basic fusions, Snail RUSH +5;Basic Fusions: 150/150"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Benin_Plaque_Marsoulas_Conch_Horn.wiki",
+  "markdown_path": "markdown/Benin_Plaque_Marsoulas_Conch_Horn.md"
+}

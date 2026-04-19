@@ -1,0 +1,35 @@
+{
+  "pageid": 7957,
+  "ns": 0,
+  "title": "Arthurian Legend+Prometheus Bound",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Arthurian_Legend%2BPrometheus_Bound",
+  "touched": "2025-02-22T17:24:45Z",
+  "length": 224,
+  "lastrevid": 33408,
+  "revision": {
+    "revid": 33408,
+    "parentid": 0,
+    "timestamp": "2025-02-21T20:12:34Z",
+    "sha1": "92044341db0230af43f80c1a3282d1a55d12bc8c",
+    "size": 224
+  },
+  "categories": [
+    "Minion",
+    "Minion DEF Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Arthurian Legend,Prometheus Bound",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 60 T8+ Minions deployed, Troop DEF +84"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Arthurian_Legend_Prometheus_Bound.wiki",
+  "markdown_path": "markdown/Arthurian_Legend_Prometheus_Bound.md"
+}

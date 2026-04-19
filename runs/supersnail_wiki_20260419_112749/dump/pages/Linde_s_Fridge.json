@@ -1,0 +1,49 @@
+{
+  "pageid": 1012,
+  "ns": 0,
+  "title": "Linde's Fridge",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Linde%27s_Fridge",
+  "touched": "2025-08-11T10:41:50Z",
+  "length": 1357,
+  "lastrevid": 37833,
+  "revision": {
+    "revid": 37833,
+    "parentid": 26300,
+    "timestamp": "2025-08-11T10:41:50Z",
+    "sha1": "e2c9042535b8fbb85748582382b5776845d631ff",
+    "size": 1357
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Linde's Fridge",
+        "class_id": "20808",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "05-07",
+        "description": "On May 7, 1873 AD, Linde, a German, invented the first freezer with ammonia as the refrigerant.<br>Linde used a heat engine to create a cooling system by compressing and evaporating ammonia. It was first used in the Sedumar brewery in Wiesbaden for food preservation.\n[History of Refrigerator]\nFaraday made ice by using a chemical method 50 years ago. Freezer with pressure pump was invented 20 years ago. Electric refrigerators were invented in the early 20th century.",
+        "fame": "29",
+        "art": "30",
+        "fth": "30",
+        "civ": "20",
+        "tech": "45",
+        "ss1": "Per 5 Mecha Gene LVLs, Snail DEF +2<br>Per 5 Mecha Gene LVLs, Snail RUSH +2<br>Mecha Gene LVLs Researched: 150/150",
+        "ss2": "Per 5 Mecha Gene LVLs, Snail DEF +4<br>Per 5 Mecha Gene LVLs, Snail RUSH +4<br>Mecha Gene LVLs Researched: 150/150",
+        "ss3": "Per 5 Mecha Gene LVLs, Snail DEF +6<br>Per 5 Mecha Gene LVLs, Snail RUSH +6<br>Mecha Gene LVLs Researched: 150/150",
+        "ss4": "Per 5 Mecha Gene LVLs, Snail DEF +10<br>Per 5 Mecha Gene LVLs, Snail RUSH +10<br>Mecha Gene LVLs Researched: 150/150",
+        "ss7": "Per 5 Mecha Gene LVLs, Snail DEF +10<br>Per 5 Mecha Gene LVLs, Snail RUSH +10<br>Mecha Gene LVLs Researched: 150/150<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Arena skill I.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail RUSH +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Linde_s_Fridge.wiki",
+  "markdown_path": "markdown/Linde_s_Fridge.md"
+}

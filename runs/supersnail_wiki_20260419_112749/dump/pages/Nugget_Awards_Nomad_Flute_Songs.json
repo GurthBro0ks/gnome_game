@@ -1,0 +1,35 @@
+{
+  "pageid": 4794,
+  "ns": 0,
+  "title": "Nugget Awards+Nomad Flute Songs",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nugget_Awards%2BNomad_Flute_Songs",
+  "touched": "2024-12-02T03:00:51Z",
+  "length": 182,
+  "lastrevid": 22088,
+  "revision": {
+    "revid": 22088,
+    "parentid": 22085,
+    "timestamp": "2024-02-02T03:46:26Z",
+    "sha1": "38016db984d7a818d3990ce26c90c2679498fc4f",
+    "size": 182
+  },
+  "categories": [
+    "ATK Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Nugget Awards,Nomad Flute Songs",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nugget_Awards_Nomad_Flute_Songs.wiki",
+  "markdown_path": "markdown/Nugget_Awards_Nomad_Flute_Songs.md"
+}

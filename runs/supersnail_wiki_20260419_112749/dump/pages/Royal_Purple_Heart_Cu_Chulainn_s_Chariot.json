@@ -1,0 +1,33 @@
+{
+  "pageid": 8536,
+  "ns": 0,
+  "title": "Royal Purple Heart+Cu Chulainn's Chariot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Royal_Purple_Heart%2BCu_Chulainn%27s_Chariot",
+  "touched": "2025-06-20T00:14:55Z",
+  "length": 244,
+  "lastrevid": 36044,
+  "revision": {
+    "revid": 36044,
+    "parentid": 34431,
+    "timestamp": "2025-06-20T00:14:55Z",
+    "sha1": "188647f5d97b3751b7f6e58937ff3d0191d0e2bd",
+    "size": 244
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "688",
+        "relics": "Royal Purple Heart,Cu Chulainn's Chariot",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +48;Prairie Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Royal_Purple_Heart_Cu_Chulainn_s_Chariot.wiki",
+  "markdown_path": "markdown/Royal_Purple_Heart_Cu_Chulainn_s_Chariot.md"
+}

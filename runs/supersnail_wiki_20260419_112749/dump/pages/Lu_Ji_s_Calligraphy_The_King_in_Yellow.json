@@ -1,0 +1,35 @@
+{
+  "pageid": 6533,
+  "ns": 0,
+  "title": "Lu Ji's Calligraphy+The King in Yellow",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lu_Ji%27s_Calligraphy%2BThe_King_in_Yellow",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 200,
+  "lastrevid": 26774,
+  "revision": {
+    "revid": 26774,
+    "parentid": 0,
+    "timestamp": "2024-05-13T13:50:15Z",
+    "sha1": "6baa2f3cc64da9e29b2bd8cc3adf78460fe54855",
+    "size": 200
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Lu Ji's Calligraphy,The King in Yellow",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lu_Ji_s_Calligraphy_The_King_in_Yellow.wiki",
+  "markdown_path": "markdown/Lu_Ji_s_Calligraphy_The_King_in_Yellow.md"
+}

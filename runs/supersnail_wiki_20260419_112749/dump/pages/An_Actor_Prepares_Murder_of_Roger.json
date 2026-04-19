@@ -1,0 +1,33 @@
+{
+  "pageid": 9272,
+  "ns": 0,
+  "title": "An Actor Prepares+Murder of Roger",
+  "fullurl": "https://supersnail.wiki.gg/wiki/An_Actor_Prepares%2BMurder_of_Roger",
+  "touched": "2025-06-20T00:16:37Z",
+  "length": 182,
+  "lastrevid": 36113,
+  "revision": {
+    "revid": 36113,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:16:37Z",
+    "sha1": "7746d86c9f0a5c247fcc1e5e235377859ac1d2ab",
+    "size": 182
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "731",
+        "relics": "An Actor Prepares,Murder of Roger",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 T7+ Mutant Minions in battle:Troop HARD Stats +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/An_Actor_Prepares_Murder_of_Roger.wiki",
+  "markdown_path": "markdown/An_Actor_Prepares_Murder_of_Roger.md"
+}

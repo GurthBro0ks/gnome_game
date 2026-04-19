@@ -1,0 +1,47 @@
+{
+  "pageid": 10919,
+  "ns": 0,
+  "title": "Permaice",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Permaice",
+  "touched": "2025-08-11T11:05:38Z",
+  "length": 837,
+  "lastrevid": 38866,
+  "revision": {
+    "revid": 38866,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:05:38Z",
+    "sha1": "27425cc71a8e92db25c44dfe508ff9a33f4b3c66",
+    "size": 837
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Permaice",
+        "class_id": "20822",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "This ice block, made by unknown means, is said to never melt. It can be played with during boring times to recall the beautiful moments of winter, or used to cool down during hot and unbearable weather!",
+        "fame": "13",
+        "art": "16",
+        "fth": "17",
+        "civ": "14",
+        "tech": "30",
+        "ss1": "Snail HP +100<br>Per 5 Mecha Gene LVLs, Snail DEF +1<br>Mecha Gene LVLs Researched: 150/150",
+        "ss2": "Snail HP +200<br>Per 5 Mecha Gene LVLs, Snail DEF +2<br>Mecha Gene LVLs Researched: 150/150",
+        "ss3": "Snail HP +300<br>Per 5 Mecha Gene LVLs, Snail DEF +3<br>Mecha Gene LVLs Researched: 150/150",
+        "ss4": "Snail HP +300<br>Per 5 Mecha Gene LVLs, Snail DEF +3<br>Mecha Gene LVLs Researched: 150/150",
+        "ss7": "Snail HP +300<br>Per 5 Mecha Gene LVLs, Snail DEF +3<br>Mecha Gene LVLs Researched: 150/150<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Permaice.wiki",
+  "markdown_path": "markdown/Permaice.md"
+}

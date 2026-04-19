@@ -1,0 +1,47 @@
+{
+  "pageid": 3696,
+  "ns": 0,
+  "title": "Limited Edition Vinyl Record",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Limited_Edition_Vinyl_Record",
+  "touched": "2025-08-11T11:04:57Z",
+  "length": 904,
+  "lastrevid": 38835,
+  "revision": {
+    "revid": 38835,
+    "parentid": 30847,
+    "timestamp": "2025-08-11T11:04:57Z",
+    "sha1": "d6b7b951cd1648e71b0a94a591f6e69a01b5da67",
+    "size": 904
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Limited Edition Vinyl Record",
+        "class_id": "20627",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "During the band's practice sessions, the manager secretly recorded those still youthful but vibrant voices and gifted them to the band members as a keepsake, a memory of these unforgettable times!",
+        "fame": "14",
+        "art": "31",
+        "fth": "19",
+        "civ": "17",
+        "tech": "14",
+        "ss1": "Free Gene Speedup (Demon) +6m<br>Per 50k Relic Points, Snail RUSH +3<br>Relic Points: 1500000/1500000",
+        "ss2": "Free Gene Speedup (Demon) +12m<br>Per 50k Relic Points, Snail RUSH +4<br>Relic Points: 1500000/1500000",
+        "ss3": "Free Gene Speedup (Demon) +18m<br>Per 50k Relic Points, Snail RUSH +5<br>Relic Points: 1500000/1500000",
+        "ss4": "Free Gene Speedup (Demon) +18m<br>Per 50k Relic Points, Snail RUSH +5<br>Relic Points: 1500000/1500000",
+        "ss7": "Free Gene Speedup (Demon) +18m<br>Per 50k Relic Points, Snail RUSH +5<br>Relic Points: 1500000/1500000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Limited_Edition_Vinyl_Record.wiki",
+  "markdown_path": "markdown/Limited_Edition_Vinyl_Record.md"
+}

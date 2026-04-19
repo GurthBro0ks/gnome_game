@@ -1,0 +1,35 @@
+{
+  "pageid": 7559,
+  "ns": 0,
+  "title": "Mysterious Relic+Golden Chan-hee",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mysterious_Relic%2BGolden_Chan-hee",
+  "touched": "2024-12-02T03:00:54Z",
+  "length": 197,
+  "lastrevid": 31619,
+  "revision": {
+    "revid": 31619,
+    "parentid": 0,
+    "timestamp": "2024-11-09T20:48:26Z",
+    "sha1": "eac6405d567080a9d98f26faee45ead8d414a08c",
+    "size": 197
+  },
+  "categories": [
+    "HARD Stat Boosts",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Mysterious Relic,Golden Chan-hee",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HARD Stats +2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mysterious_Relic_Golden_Chan-hee.wiki",
+  "markdown_path": "markdown/Mysterious_Relic_Golden_Chan-hee.md"
+}

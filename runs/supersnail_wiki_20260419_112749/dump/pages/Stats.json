@@ -1,0 +1,23 @@
+{
+  "pageid": 717,
+  "ns": 0,
+  "title": "Stats",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Stats",
+  "touched": "2025-09-28T10:58:22Z",
+  "length": 5401,
+  "lastrevid": 40261,
+  "revision": {
+    "revid": 40261,
+    "parentid": 32234,
+    "timestamp": "2025-09-28T10:58:22Z",
+    "sha1": "779ee1d626ead32478d8e1a126f09654f6baa523",
+    "size": 5401
+  },
+  "categories": [
+    "Guides"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Stats.wiki",
+  "markdown_path": "markdown/Stats.md"
+}

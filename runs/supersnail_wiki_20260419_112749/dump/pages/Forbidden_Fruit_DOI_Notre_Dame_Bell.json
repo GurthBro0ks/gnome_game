@@ -1,0 +1,34 @@
+{
+  "pageid": 3791,
+  "ns": 0,
+  "title": "Forbidden Fruit+DOI+Notre Dame Bell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Forbidden_Fruit%2BDOI%2BNotre_Dame_Bell",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 217,
+  "lastrevid": 13689,
+  "revision": {
+    "revid": 13689,
+    "parentid": 0,
+    "timestamp": "2023-10-02T10:25:26Z",
+    "sha1": "3354ba5c80b3cff8d895e0e4f29d36abd9811d19",
+    "size": 217
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Forbidden Fruit,DOI,Notre Dame Bell",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per Organ transplanted, snail DEF +16<br>Organs Transplanted: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Forbidden_Fruit_DOI_Notre_Dame_Bell.wiki",
+  "markdown_path": "markdown/Forbidden_Fruit_DOI_Notre_Dame_Bell.md"
+}

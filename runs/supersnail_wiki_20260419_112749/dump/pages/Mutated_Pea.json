@@ -1,0 +1,48 @@
+{
+  "pageid": 3430,
+  "ns": 0,
+  "title": "Mutated Pea",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mutated_Pea",
+  "touched": "2025-11-17T15:51:43Z",
+  "length": 830,
+  "lastrevid": 41768,
+  "revision": {
+    "revid": 41768,
+    "parentid": 39282,
+    "timestamp": "2025-11-17T15:51:43Z",
+    "sha1": "e59b595758bc70f66dd51904e618b0cf4d2e8986",
+    "size": 830
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mutated Pea",
+        "class_id": "20411",
+        "rank": "Green",
+        "affct": "FAME",
+        "source": "Pearrior fight from [[Altar#Relics and Gear|Dragon Wish \"Give me something to eat\"]].",
+        "description": "This pea was enchanted by the Divine Dragon. Under special conditions, it could adapt to a combat form. Even if it's defeated, it would just dehydrate and shrivel up. Water it regularly and a miracle might happen someday!",
+        "fame": "27",
+        "art": "17",
+        "fth": "13",
+        "civ": "15",
+        "tech": "18",
+        "ss1": "Per 5 Wonder Fungi eaten, Snail ATK +1<br>Wonder Fungi used: 200/200",
+        "ss2": "Per 5 Wonder Fungi eaten, Snail ATK +2<br>Wonder Fungi used: 200/200",
+        "ss3": "Per 5 Wonder Fungi eaten, Snail ATK +3<br>Wonder Fungi used: 200/200",
+        "ss4": "Per 5 Wonder Fungi eaten, Snail ATK +3<br>Wonder Fungi used: 200/200",
+        "ss7": "Per 5 Wonder Fungi eaten, Snail ATK +3<br>Wonder Fungi used: 200/200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mutated_Pea.wiki",
+  "markdown_path": "markdown/Mutated_Pea.md"
+}

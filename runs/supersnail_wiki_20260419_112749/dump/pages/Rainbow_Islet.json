@@ -1,0 +1,24 @@
+{
+  "pageid": 9210,
+  "ns": 0,
+  "title": "Rainbow Islet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rainbow_Islet",
+  "touched": "2025-06-21T12:36:12Z",
+  "length": 510,
+  "lastrevid": 36900,
+  "revision": {
+    "revid": 36900,
+    "parentid": 35576,
+    "timestamp": "2025-06-21T12:36:12Z",
+    "sha1": "b0f3c28cd93e4fcac5f3749a57a66a9be028c316",
+    "size": 510
+  },
+  "categories": [
+    "Red Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Rainbow_Islet.wiki",
+  "markdown_path": "markdown/Rainbow_Islet.md"
+}

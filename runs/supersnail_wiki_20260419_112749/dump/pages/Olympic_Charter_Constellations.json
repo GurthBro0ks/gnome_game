@@ -1,0 +1,33 @@
+{
+  "pageid": 8937,
+  "ns": 0,
+  "title": "Olympic Charter+Constellations",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Olympic_Charter%2BConstellations",
+  "touched": "2025-06-16T23:16:13Z",
+  "length": 146,
+  "lastrevid": 35098,
+  "revision": {
+    "revid": 35098,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:16:13Z",
+    "sha1": "04addcf40bf46053e1d52f8ecd7723708591771c",
+    "size": 146
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "488",
+        "relics": "Olympic Charter,Constellations",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Quantum Amp Max Cap +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Olympic_Charter_Constellations.wiki",
+  "markdown_path": "markdown/Olympic_Charter_Constellations.md"
+}

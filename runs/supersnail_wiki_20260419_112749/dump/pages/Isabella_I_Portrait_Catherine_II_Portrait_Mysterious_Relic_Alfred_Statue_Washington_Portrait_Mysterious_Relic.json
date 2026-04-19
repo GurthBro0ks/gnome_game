@@ -1,0 +1,36 @@
+{
+  "pageid": 7542,
+  "ns": 0,
+  "title": "Isabella I Portrait+Catherine II Portrait+Mysterious Relic+Alfred Statue+Washington Portrait+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Isabella_I_Portrait%2BCatherine_II_Portrait%2BMysterious_Relic%2BAlfred_Statue%2BWashington_Portrait%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:54Z",
+  "length": 317,
+  "lastrevid": 31591,
+  "revision": {
+    "revid": 31591,
+    "parentid": 0,
+    "timestamp": "2024-11-09T19:55:27Z",
+    "sha1": "b54b2d9925d1096f7fe56b3d9d1800249b4f389d",
+    "size": 317
+  },
+  "categories": [
+    "Minion",
+    "Minion RUSH Boost",
+    "Minion Skin Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Isabella I Portrait,Catherine II Portrait,Mysterious Relic,Alfred Statue,Washington Portrait,Mysterious Relic",
+        "rank": "orange",
+        "amount": "6",
+        "category": "minion",
+        "description": "All minion skins RUSH +120%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Isabella_I_Portrait_Catherine_II_Portrait_Mysterious_Relic_Alfred_Statue_Washington_Portrait_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Isabella_I_Portrait_Catherine_II_Portrait_Mysterious_Relic_Alfred_Statue_Washington_Portrait_Mysterious_Relic.md"
+}

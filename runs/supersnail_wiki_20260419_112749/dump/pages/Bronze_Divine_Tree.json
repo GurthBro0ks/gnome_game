@@ -1,0 +1,40 @@
+{
+  "pageid": 127,
+  "ns": 0,
+  "title": "Bronze Divine Tree",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bronze_Divine_Tree",
+  "touched": "2024-09-06T09:58:04Z",
+  "length": 498,
+  "lastrevid": 22775,
+  "revision": {
+    "revid": 22775,
+    "parentid": 20615,
+    "timestamp": "2024-03-01T16:07:52Z",
+    "sha1": "56adf5d6c750c112e983afa576d16661dbbb7770",
+    "size": 498
+  },
+  "categories": [
+    "FTH Relics",
+    "Orange FTH Relics",
+    "Orange Relics",
+    "Relics",
+    "Unavailable Content"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bronze Divine Tree",
+        "available": "0",
+        "rank": "SSS",
+        "affct": "FTH",
+        "birthday": "07-14",
+        "source": "Unknown",
+        "mirage": "{{Mirage|name=[Mirage Name]|reward=[Final Reward]\n|3name=|3rec=|3atk=|3def=|3hp=|3weak=\n|4name=|4rec=|4atk=|4def=|4hp=|4weak=\n|5name=|5rec=|5atk=|5def=|5hp=|5weak=\n|6name=|6rec=|6atk=|6def=|6hp=|6weak=\n|Arec=|Aatk=|Adef=|Ahp=|Aweak=\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bronze_Divine_Tree.wiki",
+  "markdown_path": "markdown/Bronze_Divine_Tree.md"
+}

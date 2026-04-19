@@ -1,0 +1,51 @@
+{
+  "pageid": 8787,
+  "ns": 0,
+  "title": "Marine Chronometer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Marine_Chronometer",
+  "touched": "2025-06-20T00:23:40Z",
+  "length": 1409,
+  "lastrevid": 36273,
+  "revision": {
+    "revid": 36273,
+    "parentid": 34766,
+    "timestamp": "2025-06-20T00:23:40Z",
+    "sha1": "ee0578586e8ae6a2c35d984782b9f8ce10b71bc8",
+    "size": 1409
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Pages with broken file links",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Marine Chronometer",
+        "class_id": "22504",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "05-21",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On May 21, 1585 AD, German goldsmith Hans presented the Marine Chronometer to Rudolf II.<br>The Marine Chronometer is an alarm clock shaped like a ship. When it appeared at Rudolf's court banquet, all the other treasures lost their color, and only it walked on the long table. The cannons on both sides of the ship emitted cannon sounds and smoke, and even the small soldiers on the deck moved. This exquisite craftsmanship and ingenious design represented Europe's mechanical development level at th …",
+        "fame": "27",
+        "art": "22",
+        "fth": "34",
+        "civ": "24",
+        "tech": "47",
+        "ss1": "Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +24<br>Mythic Protodex Stars: 100/100",
+        "ss2": "Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +48<br>Mythic Protodex Stars: 100/100",
+        "ss3": "Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +72<br>Mythic Protodex Stars: 100/100",
+        "ss4": "Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +120<br>Mythic Protodex Stars: 100/100",
+        "ss7": "Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +120<br>Mythic Protodex Stars: 100/100<br>Protomon Troop assist DMG + 400 (Awakened)",
+        "skill1": "[[File:Luckyegg skill I.png|50px]]Place in Lucky Egg: This Relic's TECH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Marine_Chronometer.wiki",
+  "markdown_path": "markdown/Marine_Chronometer.md"
+}

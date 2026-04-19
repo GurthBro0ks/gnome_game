@@ -1,0 +1,51 @@
+{
+  "pageid": 5206,
+  "ns": 0,
+  "title": "The Goodbye Kiss",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Goodbye_Kiss",
+  "touched": "2025-08-11T10:51:13Z",
+  "length": 1193,
+  "lastrevid": 38243,
+  "revision": {
+    "revid": 38243,
+    "parentid": 23964,
+    "timestamp": "2025-08-11T10:51:13Z",
+    "sha1": "8e163ad5390d01d281d98e70281e00a02f1ad3ae",
+    "size": 1193
+  },
+  "categories": [
+    "ART Relics",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Goodbye Kiss",
+        "class_id": "22146",
+        "rank": "AAA",
+        "affct": "ART",
+        "birthday": "07-18",
+        "description": "On Jul 18, 1935 AD, a photographer took the photo The Goodbye Kiss.<br>The Goodbye Kiss is a military-themed photo taken during World War II. At the time, soldiers were separated from their families to join the battlefield. The photo shows a soldier on the verge of departure, leaning out the window at the train station to kiss his loved one goodbye.",
+        "fame": "29",
+        "art": "75",
+        "fth": "47",
+        "civ": "49",
+        "tech": "43",
+        "ss1": "Snail DEF +30<br>Fungus Farm: +3%chance to produce<br>Wonder Fungi",
+        "ss2": "Snail DEF +40<br>Fungus Farm: +4%chance to produce<br>Wonder Fungi",
+        "ss3": "Snail DEF +50<br>Fungus Farm: +5%chance to produce<br>Wonder Fungi",
+        "ss4": "Snail DEF +70<br>Fungus Farm: +7%chance to produce<br>Wonder Fungi",
+        "ss5": "Snail DEF +90<br>Fungus Farm: +9%chance to produce<br>Wonder Fungi",
+        "ss7": "Snail DEF +90<br>Fungus Farm: +9%chance to produce<br>Wonder Fungi<br>Fungus Farm: +7%chance to produce<br>Wonder Fungi (Awakened)",
+        "skill1": "[[File:Murika skill II.png|50px]]Place in Murikan Museum: This Relic's ART +10",
+        "skill2": "[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x White Card Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Goodbye_Kiss.wiki",
+  "markdown_path": "markdown/The_Goodbye_Kiss.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4721,
+  "ns": 0,
+  "title": "St. Benedict Medal+Wheel of Taranis",
+  "fullurl": "https://supersnail.wiki.gg/wiki/St._Benedict_Medal%2BWheel_of_Taranis",
+  "touched": "2025-06-19T23:54:31Z",
+  "length": 139,
+  "lastrevid": 35680,
+  "revision": {
+    "revid": 35680,
+    "parentid": 18624,
+    "timestamp": "2025-06-19T23:54:31Z",
+    "sha1": "cad4a53d2c18654362b841f5cb01e3eb024d016b",
+    "size": 139
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "327",
+        "relics": "St. Benedict Medal,Wheel of Taranis",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/St._Benedict_Medal_Wheel_of_Taranis.wiki",
+  "markdown_path": "markdown/St._Benedict_Medal_Wheel_of_Taranis.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 10109,
+  "ns": 0,
+  "title": "Collection@20744 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20744_1",
+  "touched": "2025-08-11T10:38:49Z",
+  "length": 539,
+  "lastrevid": 37708,
+  "revision": {
+    "revid": 37708,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:38:49Z",
+    "sha1": "411ec608fcb857d6afbac513a0f43f461577404e",
+    "size": 539
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20744_1",
+        "class_id": "20744",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "collection@20744_2",
+        "fame": "14",
+        "art": "15",
+        "fth": "30",
+        "civ": "16",
+        "tech": "15",
+        "ss1": "Per 20 Chores completed, Snail ATK +3<br>Chores Completed: 300/300",
+        "ss2": "Per 20 Chores completed, Snail ATK +6<br>Chores Completed: 300/300",
+        "ss3": "Per 20 Chores completed, Snail ATK +9<br>Chores Completed: 300/300",
+        "ss4": "Per 20 Chores completed, Snail ATK +9<br>Chores Completed: 300/300",
+        "ss7": "Per 20 Chores completed, Snail ATK +9<br>Chores Completed: 300/300<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20744_1.wiki",
+  "markdown_path": "markdown/Collection_20744_1.md"
+}

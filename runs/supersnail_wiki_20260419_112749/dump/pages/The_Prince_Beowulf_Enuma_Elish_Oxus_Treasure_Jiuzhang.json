@@ -1,0 +1,35 @@
+{
+  "pageid": 4178,
+  "ns": 0,
+  "title": "The Prince+Beowulf+Enuma Elish+Oxus Treasure+Jiuzhang",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Prince%2BBeowulf%2BEnuma_Elish%2BOxus_Treasure%2BJiuzhang",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 220,
+  "lastrevid": 18406,
+  "revision": {
+    "revid": 18406,
+    "parentid": 15978,
+    "timestamp": "2023-11-13T21:38:21Z",
+    "sha1": "c63635b212ee3dd1f3f7035b1d0ba22ff47806e1",
+    "size": 220
+  },
+  "categories": [
+    "Minion",
+    "Minion ATK Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Prince,Beowulf,Enuma Elish,Oxus Treasure,Jiuzhang",
+        "rank": "orange",
+        "amount": "5",
+        "category": "minion",
+        "description": "All Minion ATK +2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Prince_Beowulf_Enuma_Elish_Oxus_Treasure_Jiuzhang.wiki",
+  "markdown_path": "markdown/The_Prince_Beowulf_Enuma_Elish_Oxus_Treasure_Jiuzhang.md"
+}

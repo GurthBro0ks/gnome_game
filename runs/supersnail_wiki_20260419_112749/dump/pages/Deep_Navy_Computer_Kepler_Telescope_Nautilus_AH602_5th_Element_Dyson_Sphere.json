@@ -1,0 +1,35 @@
+{
+  "pageid": 3823,
+  "ns": 0,
+  "title": "Deep Navy Computer+Kepler Telescope+Nautilus+AH602+5th Element+Dyson Sphere",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Deep_Navy_Computer%2BKepler_Telescope%2BNautilus%2BAH602%2B5th_Element%2BDyson_Sphere",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 275,
+  "lastrevid": 22421,
+  "revision": {
+    "revid": 22421,
+    "parentid": 13745,
+    "timestamp": "2024-02-21T02:52:58Z",
+    "sha1": "0c1cc25452d2785880cac93b311ed8d5e0ba21ac",
+    "size": 275
+  },
+  "categories": [
+    "Lottery Bead Color Change",
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Deep Navy Computer,Kepler Telescope,Nautilus,AH602,5th Element,Dyson Sphere",
+        "rank": "orange",
+        "amount": "6",
+        "category": "other",
+        "description": "Lottery Purple Beads turn to Orange by +2.4%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Deep_Navy_Computer_Kepler_Telescope_Nautilus_AH602_5th_Element_Dyson_Sphere.wiki",
+  "markdown_path": "markdown/Deep_Navy_Computer_Kepler_Telescope_Nautilus_AH602_5th_Element_Dyson_Sphere.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 8497,
+  "ns": 0,
+  "title": "Salmon of Knowledge+Calydonian Boar Skin",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Salmon_of_Knowledge%2BCalydonian_Boar_Skin",
+  "touched": "2025-06-20T00:13:34Z",
+  "length": 146,
+  "lastrevid": 35987,
+  "revision": {
+    "revid": 35987,
+    "parentid": 34381,
+    "timestamp": "2025-06-20T00:13:34Z",
+    "sha1": "ac09da5dbc21760ffa6ce733bebbb53d2d00c54f",
+    "size": 146
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "677",
+        "relics": "Salmon of Knowledge,Calydonian Boar Skin",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Salmon_of_Knowledge_Calydonian_Boar_Skin.wiki",
+  "markdown_path": "markdown/Salmon_of_Knowledge_Calydonian_Boar_Skin.md"
+}

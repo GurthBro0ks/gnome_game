@@ -1,0 +1,34 @@
+{
+  "pageid": 4887,
+  "ns": 0,
+  "title": "Ruby Laser+San Plate",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ruby_Laser%2BSan_Plate",
+  "touched": "2024-12-02T03:00:51Z",
+  "length": 193,
+  "lastrevid": 17509,
+  "revision": {
+    "revid": 17509,
+    "parentid": 0,
+    "timestamp": "2023-11-11T14:19:02Z",
+    "sha1": "672ea7823c88d2c8f53ccf6d6234afab2b892e1f",
+    "size": 193
+  },
+  "categories": [
+    "Wormhole Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Ruby Laser,San Plate",
+        "rank": "purple",
+        "amount": "2",
+        "category": "Wormhole Boost",
+        "description": "Refine +1 White Printing Supply by +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ruby_Laser_San_Plate.wiki",
+  "markdown_path": "markdown/Ruby_Laser_San_Plate.md"
+}

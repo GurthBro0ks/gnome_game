@@ -1,0 +1,35 @@
+{
+  "pageid": 3643,
+  "ns": 0,
+  "title": "Moonlight Sonata+Crystal Piano",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Moonlight_Sonata%2BCrystal_Piano",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 218,
+  "lastrevid": 18411,
+  "revision": {
+    "revid": 18411,
+    "parentid": 17754,
+    "timestamp": "2023-11-13T21:39:43Z",
+    "sha1": "4e89aa7ab0afd5830496182407a6446c6f9e20fe",
+    "size": 218
+  },
+  "categories": [
+    "Minion",
+    "Minion DEF Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Moonlight Sonata,Crystal Piano",
+        "rank": "purple",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 30 Minions in battle: Troop DEF +24"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Moonlight_Sonata_Crystal_Piano.wiki",
+  "markdown_path": "markdown/Moonlight_Sonata_Crystal_Piano.md"
+}

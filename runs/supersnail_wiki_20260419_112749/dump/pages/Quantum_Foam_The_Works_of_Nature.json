@@ -1,0 +1,33 @@
+{
+  "pageid": 5275,
+  "ns": 0,
+  "title": "Quantum Foam+The Works of Nature",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Quantum_Foam%2BThe_Works_of_Nature",
+  "touched": "2025-06-20T00:10:23Z",
+  "length": 188,
+  "lastrevid": 35941,
+  "revision": {
+    "revid": 35941,
+    "parentid": 19269,
+    "timestamp": "2025-06-20T00:10:23Z",
+    "sha1": "caa8aa3479be69546a6a58ef2c062ef0a9f4dde7",
+    "size": 188
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "521",
+        "relics": "Quantum Foam,The Works of Nature",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Ma'at Tablet LVL, Snail ATK +7;Ma'at Tablet Upgraded: 30/30"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Quantum_Foam_The_Works_of_Nature.wiki",
+  "markdown_path": "markdown/Quantum_Foam_The_Works_of_Nature.md"
+}

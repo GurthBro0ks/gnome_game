@@ -1,0 +1,33 @@
+{
+  "pageid": 4845,
+  "ns": 0,
+  "title": "Wegener's Map+Silver Candlestick+Portrait of Innocent X",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wegener%27s_Map%2BSilver_Candlestick%2BPortrait_of_Innocent_X",
+  "touched": "2025-06-19T23:54:36Z",
+  "length": 181,
+  "lastrevid": 35684,
+  "revision": {
+    "revid": 35684,
+    "parentid": 17450,
+    "timestamp": "2025-06-19T23:54:36Z",
+    "sha1": "93e2c37967672f54069f1d766f7a8dc3ffe0ed48",
+    "size": 181
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "431",
+        "relics": "Wegener's Map,Silver Candlestick,Portrait of Innocent X",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Refine +1 Green Gaia Material +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wegener_s_Map_Silver_Candlestick_Portrait_of_Innocent_X.wiki",
+  "markdown_path": "markdown/Wegener_s_Map_Silver_Candlestick_Portrait_of_Innocent_X.md"
+}

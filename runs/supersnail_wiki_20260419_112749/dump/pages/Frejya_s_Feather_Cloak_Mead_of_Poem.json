@@ -1,0 +1,33 @@
+{
+  "pageid": 9323,
+  "ns": 0,
+  "title": "Frejya's Feather Cloak+Mead of Poem",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Frejya%27s_Feather_Cloak%2BMead_of_Poem",
+  "touched": "2025-06-20T00:23:45Z",
+  "length": 237,
+  "lastrevid": 36275,
+  "revision": {
+    "revid": 36275,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:23:45Z",
+    "sha1": "cc6945af8de41679f5388aee8e407ecbda6f1959",
+    "size": 237
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "689",
+        "relics": "Frejya's Feather Cloak,Mead of Poem",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +48;Forest Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Frejya_s_Feather_Cloak_Mead_of_Poem.wiki",
+  "markdown_path": "markdown/Frejya_s_Feather_Cloak_Mead_of_Poem.md"
+}

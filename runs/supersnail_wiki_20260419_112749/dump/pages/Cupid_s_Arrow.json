@@ -1,0 +1,47 @@
+{
+  "pageid": 5440,
+  "ns": 0,
+  "title": "Cupid's Arrow",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cupid%27s_Arrow",
+  "touched": "2025-08-11T11:02:53Z",
+  "length": 801,
+  "lastrevid": 38748,
+  "revision": {
+    "revid": 38748,
+    "parentid": 22523,
+    "timestamp": "2025-08-11T11:02:53Z",
+    "sha1": "dc517d6b01655941ee5e63ef963abefbff42493c",
+    "size": 801
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Cupid's Arrow",
+        "class_id": "20434",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "There are two types of Cupid's arrow: gold and lead. If you're shot by the gold arrow, you're destined for a sweet romance, but if you're shot by the lead arrow, it dooms you to lovesickness. However, one too much mischief caused the angry gods to confiscate the lead arrow, so now only this gold arrow is left.",
+        "fame": "30",
+        "art": "15",
+        "fth": "15",
+        "civ": "18",
+        "tech": "12",
+        "ss1": "Per 6 Cute Costume Stars, Snail DEF +1<br>Cute Stars: 192/192",
+        "ss2": "Per 6 Cute Costume Stars, Snail DEF +2<br>Cute Stars: 192/192",
+        "ss3": "Per 6 Cute Costume Stars, Snail DEF +3<br>Cute Stars: 192/192",
+        "ss4": "Per 6 Cute Costume Stars, Snail DEF +3<br>Cute Stars: 192/192",
+        "ss7": "Per 6 Cute Costume Stars, Snail DEF +3<br>Cute Stars: 192/192<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cupid_s_Arrow.wiki",
+  "markdown_path": "markdown/Cupid_s_Arrow.md"
+}

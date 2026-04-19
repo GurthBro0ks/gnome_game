@@ -1,0 +1,57 @@
+{
+  "pageid": 1372,
+  "ns": 0,
+  "title": "Musketeer Mask",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Musketeer_Mask",
+  "touched": "2024-09-06T09:58:48Z",
+  "length": 1433,
+  "lastrevid": 22291,
+  "revision": {
+    "revid": 22291,
+    "parentid": 17375,
+    "timestamp": "2024-02-17T15:45:48Z",
+    "sha1": "b3cf7dd86b7a5e37915220f137ff70fd4a502821",
+    "size": 1433
+  },
+  "categories": [
+    "ATK Boost",
+    "Angel Minion ATK Boost",
+    "Bharata Exploration Boost",
+    "Bharata Museum Boost",
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "DEF Boost",
+    "Frost Drake Boost",
+    "Gear Boost",
+    "Relics",
+    "Wonder Fungus Output"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Musketeer Mask",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "07-24",
+        "source": "Lottery Machine (0.36%), Wishing (10.3%), Novice Scroll (5%)",
+        "description": "On Jul 24, AD 1628, d'Artagnan the musketeer put on this mask and started with a bang. \n\nd'Artagnan was a foreign aristocrat who joined the musketeers of King Louis XIII after coming to Paris. He often wore a mask and formed a strong friendship with three other musketeers. Prime Minister Richelieu wanted to frame the Queen when he found that she was his enemy. d'Artagnan volunteered to go to England with his three friends. Despite facing many difficulties, he finally retrieved the pendant, saved …",
+        "fame": "22",
+        "art": "29",
+        "fth": "29",
+        "civ": "47",
+        "tech": "27",
+        "ss1": "Per Blue+ Gear equipped, Snail DEF +2",
+        "ss2": "Per Blue+ Gear equipped, Snail DEF +4",
+        "ss3": "Per Blue+ Gear equipped, Snail DEF +6",
+        "ss4": "Per Blue+ Gear equipped, Snail DEF +10",
+        "ss7": "Per Blue+ Gear equipped, Snail DEF +10<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Bharata skill I.png|50px]] Place in Bharata Museum: In Bharata, Snail ATK +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Musketeer_Mask.wiki",
+  "markdown_path": "markdown/Musketeer_Mask.md"
+}

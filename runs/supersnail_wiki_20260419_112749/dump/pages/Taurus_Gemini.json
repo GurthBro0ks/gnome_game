@@ -1,0 +1,33 @@
+{
+  "pageid": 4307,
+  "ns": 0,
+  "title": "Taurus+Gemini",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Taurus%2BGemini",
+  "touched": "2025-08-11T11:14:34Z",
+  "length": 169,
+  "lastrevid": 39254,
+  "revision": {
+    "revid": 39254,
+    "parentid": 15983,
+    "timestamp": "2025-08-11T11:14:34Z",
+    "sha1": "a0e6dc9c96731bc4b388fe965ab90c50d6517e98",
+    "size": 169
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "280",
+        "relics": "Taurus,Gemini",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Supreme Relic gained, Snail RUSH +100;Supreme Relics: 20/20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Taurus_Gemini.wiki",
+  "markdown_path": "markdown/Taurus_Gemini.md"
+}

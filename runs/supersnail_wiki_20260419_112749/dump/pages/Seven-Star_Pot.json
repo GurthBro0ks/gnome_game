@@ -1,0 +1,47 @@
+{
+  "pageid": 10354,
+  "ns": 0,
+  "title": "Seven-Star Pot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Seven-Star_Pot",
+  "touched": "2025-08-11T10:47:48Z",
+  "length": 714,
+  "lastrevid": 38090,
+  "revision": {
+    "revid": 38090,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:47:48Z",
+    "sha1": "7bddbfcc5d509d364b68fe54022e9e6f214f651b",
+    "size": 714
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Seven-Star Pot",
+        "class_id": "20173",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "Those who possessed the Seven-Star Pot were either extremely fortunate children of destiny, using the pot to make exquisite cuisine, or those cursed by the heavens, using the pot to make poison. Anyone without these extreme destinies became ingredients in the Pot.",
+        "fame": "15",
+        "art": "30",
+        "fth": "15",
+        "civ": "13",
+        "tech": "17",
+        "ss1": "Snail ATK +20<br>Unicorn Express Supply Order Cap +10",
+        "ss2": "Snail ATK +40<br>Unicorn Express Supply Order Cap +20",
+        "ss3": "Snail ATK +60<br>Unicorn Express Supply Order Cap +30",
+        "ss4": "Snail ATK +60<br>Unicorn Express Supply Order Cap +30",
+        "ss7": "Snail ATK +60<br>Unicorn Express Supply Order Cap +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Seven-Star_Pot.wiki",
+  "markdown_path": "markdown/Seven-Star_Pot.md"
+}

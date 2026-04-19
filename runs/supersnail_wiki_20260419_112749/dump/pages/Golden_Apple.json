@@ -1,0 +1,47 @@
+{
+  "pageid": 5441,
+  "ns": 0,
+  "title": "Golden Apple",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Apple",
+  "touched": "2025-08-11T11:06:13Z",
+  "length": 756,
+  "lastrevid": 38894,
+  "revision": {
+    "revid": 38894,
+    "parentid": 22526,
+    "timestamp": "2025-08-11T11:06:13Z",
+    "sha1": "330505e896ea79fdc5c2c01a3dccf45b8ed456db",
+    "size": 756
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Golden Apple",
+        "class_id": "20435",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "All heroes covet this famous relic everywhere. Hercules went to great lengths to win this golden apple, Atalanta got married because of it, and Paris became the culprit in the Battle of Troy just to find it by killing himself and burying Troy's future in the process.",
+        "fame": "30",
+        "art": "15",
+        "fth": "15",
+        "civ": "18",
+        "tech": "12",
+        "ss1": "Per 6 Posh Costume Stars, Snail HP +10<br>Posh Stars: 192/192",
+        "ss2": "Per 6 Posh Costume Stars, Snail HP +20<br>Posh Stars: 192/192",
+        "ss3": "Per 6 Posh Costume Stars, Snail HP +30<br>Posh Stars: 192/192",
+        "ss4": "Per 6 Posh Costume Stars, Snail HP +30<br>Posh Stars: 192/192",
+        "ss7": "Per 6 Posh Costume Stars, Snail HP +30<br>Posh Stars: 192/192<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Apple.wiki",
+  "markdown_path": "markdown/Golden_Apple.md"
+}

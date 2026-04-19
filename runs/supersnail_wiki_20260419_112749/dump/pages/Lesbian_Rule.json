@@ -1,0 +1,47 @@
+{
+  "pageid": 11243,
+  "ns": 0,
+  "title": "Lesbian Rule",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lesbian_Rule",
+  "touched": "2025-08-11T11:17:53Z",
+  "length": 1123,
+  "lastrevid": 39397,
+  "revision": {
+    "revid": 39397,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:17:53Z",
+    "sha1": "eeddd53c6605b27f3cdbbcddbd05eaef87cdb9a9",
+    "size": 1123
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Lesbian Rule",
+        "class_id": "20837",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The lead ruler used by ancient Greek stonemasons was originally supported by a soft lead from the island of Lesbos, which could be bent into curved shapes to fit the outline, facilitating the measurement or replication of irregular curves. Aristotle also used the Lesbian ruler as a metaphor to extrapolate his views on fairness and the importance of flexible, elastic standards.",
+        "fame": "17",
+        "art": "13",
+        "fth": "12",
+        "civ": "15",
+        "tech": "32",
+        "ss1": "1% chance to get Fine Stone +30 when reshaping Floating Stone<br>Per 5 Carving, Snail ATK +1<br>Carving: 100/100",
+        "ss2": "2% chance to get Fine Stone +30 when reshaping Floating Stone<br>Per 5 Carving, Snail ATK +2<br>Carving: 100/100",
+        "ss3": "3% chance to get Fine Stone +30 when reshaping Floating Stone<br>Per 5 Carving, Snail ATK +3<br>Carving: 100/100",
+        "ss4": "3% chance to get Fine Stone +30 when reshaping Floating Stone<br>Per 5 Carving, Snail ATK +3<br>Carving: 100/100",
+        "ss7": "3% chance to get Fine Stone +30 when reshaping Floating Stone<br>Per 5 Carving, Snail ATK +3<br>Carving: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lesbian_Rule.wiki",
+  "markdown_path": "markdown/Lesbian_Rule.md"
+}

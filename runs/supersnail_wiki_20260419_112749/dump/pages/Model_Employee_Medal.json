@@ -1,0 +1,47 @@
+{
+  "pageid": 11124,
+  "ns": 0,
+  "title": "Model Employee Medal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Model_Employee_Medal",
+  "touched": "2025-08-11T11:13:20Z",
+  "length": 737,
+  "lastrevid": 39200,
+  "revision": {
+    "revid": 39200,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:13:20Z",
+    "sha1": "3f8616a39cb29dae6e8a0af68a93c1619addb9b0",
+    "size": 737
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Model Employee Medal",
+        "class_id": "20453",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The medal is given to the most outstanding employee. It is not only the accreditation for the employee's competence but also the approval of their work attitude. The honor winner is a role model for the whole staff.",
+        "fame": "31",
+        "art": "17",
+        "fth": "10",
+        "civ": "17",
+        "tech": "13",
+        "ss1": "Per 20 Chores completed, Snail ATK +2<br>Chores Completed: 300/300",
+        "ss2": "Per 20 Chores completed, Snail ATK +4<br>Chores Completed: 300/300",
+        "ss3": "Per 20 Chores completed, Snail ATK +6<br>Chores Completed: 300/300",
+        "ss4": "Per 20 Chores completed, Snail ATK +6<br>Chores Completed: 300/300",
+        "ss7": "Per 20 Chores completed, Snail ATK +6<br>Chores Completed: 300/300<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Model_Employee_Medal.wiki",
+  "markdown_path": "markdown/Model_Employee_Medal.md"
+}

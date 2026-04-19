@@ -1,0 +1,35 @@
+{
+  "pageid": 7973,
+  "ns": 0,
+  "title": "Griffin Bracelet+Compound V+Nessus Abducting Deianira+Records of the Grand Historian",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Griffin_Bracelet%2BCompound_V%2BNessus_Abducting_Deianira%2BRecords_of_the_Grand_Historian",
+  "touched": "2025-03-23T18:43:29Z",
+  "length": 292,
+  "lastrevid": 33787,
+  "revision": {
+    "revid": 33787,
+    "parentid": 33786,
+    "timestamp": "2025-03-23T18:43:29Z",
+    "sha1": "87cc08f443950f397c5228bddf27cb395bb71ab2",
+    "size": 292
+  },
+  "categories": [
+    "Primeval Power Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Griffin Bracelet,Compound V,Nessus Abducting Deianira,Records of the Grand Historian",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per Red +5 or above Gear equipped, Snail Primeval Power +36"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Griffin_Bracelet_Compound_V_Nessus_Abducting_Deianira_Records_of_the_Grand_Historian.wiki",
+  "markdown_path": "markdown/Griffin_Bracelet_Compound_V_Nessus_Abducting_Deianira_Records_of_the_Grand_Historian.md"
+}

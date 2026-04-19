@@ -1,0 +1,35 @@
+{
+  "pageid": 6617,
+  "ns": 0,
+  "title": "Arnolfini Portrait+Poetics-Aristotle+Feather of Justice+Infin. Improb. Eng.+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Arnolfini_Portrait%2BPoetics-Aristotle%2BFeather_of_Justice%2BInfin._Improb._Eng.%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:54Z",
+  "length": 317,
+  "lastrevid": 27065,
+  "revision": {
+    "revid": 27065,
+    "parentid": 0,
+    "timestamp": "2024-05-19T22:24:18Z",
+    "sha1": "07592e43e7cdea0ec21e4604900b0f9167b24cab",
+    "size": 317
+  },
+  "categories": [
+    "ATK Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Arnolfini Portrait,Poetics-Aristotle,Feather of Justice,Infin. Improb. Eng.,Mysterious Relic,Mysterious Relic",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Per 5 CIV Relics Awakened, Snail ATK +36; CIV Relics Awakened: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Arnolfini_Portrait_Poetics-Aristotle_Feather_of_Justice_Infin._Improb._Eng._Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Arnolfini_Portrait_Poetics-Aristotle_Feather_of_Justice_Infin._Improb._Eng._Mysterious_Relic_Mysterious_Relic.md"
+}

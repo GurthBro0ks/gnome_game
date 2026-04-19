@@ -1,0 +1,35 @@
+{
+  "pageid": 7991,
+  "ns": 0,
+  "title": "Nicomachean Ethics+Kepler's Laws",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nicomachean_Ethics%2BKepler%27s_Laws",
+  "touched": "2025-03-23T18:32:13Z",
+  "length": 264,
+  "lastrevid": 33444,
+  "revision": {
+    "revid": 33444,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:48:41Z",
+    "sha1": "987720d8b18216e0fff538ccfd178f772d441b89",
+    "size": 264
+  },
+  "categories": [
+    "Murky Power Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Nicomachean Ethics,Kepler's Laws",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1k Species War Tech Pts, Snail Murky Power +7; Species War Tech Pts: 60,000/60,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nicomachean_Ethics_Kepler_s_Laws.wiki",
+  "markdown_path": "markdown/Nicomachean_Ethics_Kepler_s_Laws.md"
+}

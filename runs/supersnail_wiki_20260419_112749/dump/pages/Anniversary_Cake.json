@@ -1,0 +1,47 @@
+{
+  "pageid": 7378,
+  "ns": 0,
+  "title": "Anniversary Cake",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Anniversary_Cake",
+  "touched": "2025-08-11T10:59:25Z",
+  "length": 765,
+  "lastrevid": 38597,
+  "revision": {
+    "revid": 38597,
+    "parentid": 30919,
+    "timestamp": "2025-08-11T10:59:25Z",
+    "sha1": "ac4298a69ba351772cbf81b01259682e44e98d99",
+    "size": 765
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Anniversary Cake",
+        "class_id": "20462",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The monkeys have prepared this big cake for Super Snail Anniversary. As we look back at the year we had, we had glory, and we met difficulties, but all the snails have stuck together. This cake conveys our gratitude and best wishes to every snail, meanwhile, it is to encourage the monkeys to move forward and create better content!",
+        "fame": "31",
+        "art": "14",
+        "fth": "16",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Per 5 Sign-Ins, Snail HP +20<br>Sign-Ins: 100/100",
+        "ss2": "Per 5 Sign-Ins, Snail HP +40<br>Sign-Ins: 100/100",
+        "ss3": "Per 5 Sign-Ins, Snail HP +60<br>Sign-Ins: 100/100",
+        "ss4": "Per 5 Sign-Ins, Snail HP +60<br>Sign-Ins: 100/100",
+        "ss7": "Per 5 Sign-Ins, Snail HP +60<br>Sign-Ins: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Anniversary_Cake.wiki",
+  "markdown_path": "markdown/Anniversary_Cake.md"
+}

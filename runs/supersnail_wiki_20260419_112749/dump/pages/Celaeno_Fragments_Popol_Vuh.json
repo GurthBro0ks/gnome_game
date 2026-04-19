@@ -1,0 +1,33 @@
+{
+  "pageid": 4979,
+  "ns": 0,
+  "title": "Celaeno Fragments+Popol Vuh",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Celaeno_Fragments%2BPopol_Vuh",
+  "touched": "2025-06-19T23:56:43Z",
+  "length": 133,
+  "lastrevid": 35702,
+  "revision": {
+    "revid": 35702,
+    "parentid": 18596,
+    "timestamp": "2025-06-19T23:56:43Z",
+    "sha1": "9d6eca1ae69cd58bbd5a7c430ba73a2b98e06933",
+    "size": 133
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "402",
+        "relics": "Celaeno Fragments,Popol Vuh",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Celaeno_Fragments_Popol_Vuh.wiki",
+  "markdown_path": "markdown/Celaeno_Fragments_Popol_Vuh.md"
+}

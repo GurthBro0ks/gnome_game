@@ -1,0 +1,47 @@
+{
+  "pageid": 1640,
+  "ns": 0,
+  "title": "Intel. Director's ID",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Intel._Director%27s_ID",
+  "touched": "2025-08-11T10:43:03Z",
+  "length": 654,
+  "lastrevid": 37885,
+  "revision": {
+    "revid": 37885,
+    "parentid": 17415,
+    "timestamp": "2025-08-11T10:43:03Z",
+    "sha1": "445b62bf6fe8571123a60326e64fbaafdf07ee87",
+    "size": 654
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Intel. Director's ID",
+        "class_id": "20433",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "License #ZS0002. With this ID card, you may enter and leave any covert Murikan institutions freely, and view all confidential files. You have the power to mobilize all personnel but Racky in the Murikan Domain. Warning: This ID card cannot be lent or loaned. Return at once when you leave the position.",
+        "fame": "28",
+        "art": "14",
+        "fth": "16",
+        "civ": "18",
+        "tech": "14",
+        "ss1": "In Murikan Domain, Snail ATK +10",
+        "ss2": "In Murikan Domain, Snail ATK +20",
+        "ss3": "In Murikan Domain, Snail ATK +30",
+        "ss4": "In Murikan Domain, Snail ATK +30",
+        "ss7": "In Murikan Domain, Snail ATK +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Intel._Director_s_ID.wiki",
+  "markdown_path": "markdown/Intel._Director_s_ID.md"
+}

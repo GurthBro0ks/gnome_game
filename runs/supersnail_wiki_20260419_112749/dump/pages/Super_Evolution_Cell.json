@@ -1,0 +1,47 @@
+{
+  "pageid": 5495,
+  "ns": 0,
+  "title": "Super Evolution Cell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Super_Evolution_Cell",
+  "touched": "2025-08-11T10:38:34Z",
+  "length": 1619,
+  "lastrevid": 37698,
+  "revision": {
+    "revid": 37698,
+    "parentid": 22130,
+    "timestamp": "2025-08-11T10:38:34Z",
+    "sha1": "afcec8b05d0fc55c209be1bc660bfa837df05f67",
+    "size": 1619
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Super Evolution Cell",
+        "class_id": "20139",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This supercell came from Hitman No.51. It used to be a mob from Gene Simulation, but after being defeated by the snail over and over again, it had a change of heart and started thinking about fundamental questions about the universe. Eventually, it contacted the Demon Gods, became a Hitman, and was then made into a Relic.",
+        "fame": "16",
+        "art": "30",
+        "fth": "17",
+        "civ": "14",
+        "tech": "13",
+        "ss1": "In explorations, Zombie Cells gained +0.5%<br>In explorations, Demon Cells gained +0.5%<br>In explorations, Angel Cells gained +0.5%<br>In explorations, Mutant Cells gained +0.5%<br>In explorations, Mecha Cells gained +0.5%",
+        "ss2": "In explorations, Zombie Cells gained +1%<br>In explorations, Demon Cells gained +1%<br>In explorations, Angel Cells gained +1%<br>In explorations, Mutant Cells gained +1%<br>In explorations, Mecha Cells gained +1%",
+        "ss3": "In explorations, Zombie Cells gained +1.5%<br>In explorations, Demon Cells gained +1.5%<br>In explorations, Angel Cells gained +1.5%<br>In explorations, Mutant Cells gained +1.5%<br>In explorations, Mecha Cells gained +1.5%",
+        "ss4": "In explorations, Zombie Cells gained +1.5%<br>In explorations, Demon Cells gained +1.5%<br>In explorations, Angel Cells gained +1.5%<br>In explorations, Mutant Cells gained +1.5%<br>In explorations, Mecha Cells gained +1.5%",
+        "ss7": "In explorations, Zombie Cells gained +1.5%<br>In explorations, Demon Cells gained +1.5%<br>In explorations, Angel Cells gained +1.5%<br>In explorations, Mutant Cells gained +1.5%<br>In explorations, Mecha Cells gained +1.5%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Super_Evolution_Cell.wiki",
+  "markdown_path": "markdown/Super_Evolution_Cell.md"
+}

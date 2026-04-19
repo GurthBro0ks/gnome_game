@@ -1,0 +1,33 @@
+{
+  "pageid": 9324,
+  "ns": 0,
+  "title": "Testament of Flamel+The Book of Raziel",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Testament_of_Flamel%2BThe_Book_of_Raziel",
+  "touched": "2025-06-20T00:24:06Z",
+  "length": 182,
+  "lastrevid": 36284,
+  "revision": {
+    "revid": 36284,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:24:06Z",
+    "sha1": "cc05b13b9b69e5151055d8bef51f5af28257a028",
+    "size": 182
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "621",
+        "relics": "Testament of Flamel,The Book of Raziel",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Dismantle 1 Purple Brand: Gain 1 more fragment by 10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Testament_of_Flamel_The_Book_of_Raziel.wiki",
+  "markdown_path": "markdown/Testament_of_Flamel_The_Book_of_Raziel.md"
+}

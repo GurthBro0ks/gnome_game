@@ -1,0 +1,37 @@
+{
+  "pageid": 7972,
+  "ns": 0,
+  "title": "Locomotion No.1+History of the Peloponnesian War+Hanuman Statue+Hoysala Dynasty Dancer Statue+Orestes",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Locomotion_No.1%2BHistory_of_the_Peloponnesian_War%2BHanuman_Statue%2BHoysala_Dynasty_Dancer_Statue%2BOrestes",
+  "touched": "2025-03-23T18:40:41Z",
+  "length": 330,
+  "lastrevid": 33424,
+  "revision": {
+    "revid": 33424,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:14:57Z",
+    "sha1": "6d79a2a0f9bf97d0a95024959d3c1ead02a22cce",
+    "size": 330
+  },
+  "categories": [
+    "Dragon Minion HARD Boost",
+    "Minion",
+    "Minion Skin Boost",
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Locomotion No.1,History of the Peloponnesian War,Hanuman Statue,Hoysala Dynasty Dancer Statue,Orestes",
+        "rank": "orange",
+        "amount": "5",
+        "category": "minion",
+        "description": "All Dragon Minion Skins, HARD Stats +100%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Locomotion_No.1_History_of_the_Peloponnesian_War_Hanuman_Statue_Hoysala_Dynasty_Dancer_Statue_Orestes.wiki",
+  "markdown_path": "markdown/Locomotion_No.1_History_of_the_Peloponnesian_War_Hanuman_Statue_Hoysala_Dynasty_Dancer_Statue_Orestes.md"
+}

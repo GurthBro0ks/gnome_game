@@ -1,0 +1,33 @@
+{
+  "pageid": 3800,
+  "ns": 0,
+  "title": "Napoleonic Code+Encyclopedia+Divine Comedy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Napoleonic_Code%2BEncyclopedia%2BDivine_Comedy",
+  "touched": "2025-07-02T09:42:05Z",
+  "length": 181,
+  "lastrevid": 37033,
+  "revision": {
+    "revid": 37033,
+    "parentid": 18425,
+    "timestamp": "2025-07-02T09:42:05Z",
+    "sha1": "9786d7629edee3a3414b5e4fb54ebfd3f3799df0",
+    "size": 181
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "245",
+        "relics": "Napoleonic Code,Encyclopedia,Divine Comedy",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop HARD Stats +24"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Napoleonic_Code_Encyclopedia_Divine_Comedy.wiki",
+  "markdown_path": "markdown/Napoleonic_Code_Encyclopedia_Divine_Comedy.md"
+}

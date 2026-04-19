@@ -1,0 +1,53 @@
+{
+  "pageid": 8568,
+  "ns": 0,
+  "title": "Kunyu Wanguo Quantu",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kunyu_Wanguo_Quantu",
+  "touched": "2025-06-20T00:16:04Z",
+  "length": 1781,
+  "lastrevid": 36091,
+  "revision": {
+    "revid": 36091,
+    "parentid": 34513,
+    "timestamp": "2025-06-20T00:16:04Z",
+    "sha1": "8e4c8d52cbb473ea4ae32718ec5e76f8aa0641d2",
+    "size": 1781
+  },
+  "categories": [
+    "CIV Relics",
+    "Pages with broken file links",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Kunyu Wanguo Quantu",
+        "class_id": "22579",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "01-18",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Jan 18, 1602 AD, the Italian missionary Matteo Ricci, together with Li Zhizao, completed the Kunyu Wanguo Quantu.<br>When Matteo Ricci drew the Kunyu Wanguo Quantu, he used the Western world as a model but changed the pattern of placing Europe in the center of the map and placed East Asia in the center of the world, creating a Chinese pattern for drawing maps. Not only are European place names all marked with Chinese characters on the map, but also the names of the various provinces of China  …",
+        "fame": "47",
+        "art": "54",
+        "fth": "37",
+        "civ": "75",
+        "tech": "30",
+        "ss1": "Snail RUSH +30<br>Per Recruitment Incident completed, Priest-Troop Assistance DMG +24<br>Completed Recruitment Incidents: 50/50",
+        "ss2": "Snail RUSH +40<br>Per Recruitment Incident completed, Priest-Troop Assistance DMG +32<br>Completed Recruitment Incidents: 50/50",
+        "ss3": "Snail RUSH +50<br>Per Recruitment Incident completed, Priest-Troop Assistance DMG +40<br>Completed Recruitment Incidents: 50/50",
+        "ss4": "Snail RUSH +70<br>Per Recruitment Incident completed, Priest-Troop Assistance DMG +56<br>Completed Recruitment Incidents: 50/50",
+        "ss5": "Snail RUSH +90<br>Per Recruitment Incident completed, Priest-Troop Assistance DMG +72<br>Completed Recruitment Incidents: 50/50",
+        "ss7": "Snail RUSH +90<br>Per Recruitment Incident completed, Priest-Troop Assistance DMG +72<br>Completed Recruitment Incidents: 50/50<br>Snail RUSH +70 (Awakened)",
+        "skill1": "[[File:Forestsanctum skill II.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Cap +15%",
+        "skill2": "[[File:Forestsanctum skill II.png|50px]]Place in Forest Sanctum: This Relic's CIV +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kunyu_Wanguo_Quantu.wiki",
+  "markdown_path": "markdown/Kunyu_Wanguo_Quantu.md"
+}

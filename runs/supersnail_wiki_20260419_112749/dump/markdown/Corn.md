@@ -1,0 +1,15 @@
+|image=.png
+|description=Corn is a big shot's favorite food, Dr. David cultivated the enhanced corns to pay his respects, hoping that one day corns will be planted all over the world!
+|affct=CIV
+|hard=ATK
+|source=Maneater Value Pack
+|color=green
+|earth=1
+|water=2
+|fire=3
+|wind=0
+|form=Dragon
+|element=Fire
+|realm=Rift
+|orangehard=ATK
+}}

@@ -1,0 +1,24 @@
+{
+  "pageid": 5954,
+  "ns": 0,
+  "title": "Super Treasure Map",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Super_Treasure_Map",
+  "touched": "2024-03-03T00:05:55Z",
+  "length": 814,
+  "lastrevid": 22814,
+  "revision": {
+    "revid": 22814,
+    "parentid": 22813,
+    "timestamp": "2024-03-03T00:05:55Z",
+    "sha1": "5752254d6bc9013454b1f0b28dd4ac3774cea968",
+    "size": 814
+  },
+  "categories": [
+    "Pages with failing Cargo queries",
+    "Treasure Map"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Super_Treasure_Map.wiki",
+  "markdown_path": "markdown/Super_Treasure_Map.md"
+}

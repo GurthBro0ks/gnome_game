@@ -1,0 +1,33 @@
+{
+  "pageid": 9943,
+  "ns": 0,
+  "title": "Nishijin Fabric+Cintamani",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nishijin_Fabric%2BCintamani",
+  "touched": "2025-08-11T10:32:40Z",
+  "length": 138,
+  "lastrevid": 37437,
+  "revision": {
+    "revid": 37437,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:32:40Z",
+    "sha1": "65b70aa38fd03a047271036023d98ed16cf5ba9c",
+    "size": 138
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "396",
+        "relics": "Nishijin Fabric,Cintamani",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Angel Minion DEF +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nishijin_Fabric_Cintamani.wiki",
+  "markdown_path": "markdown/Nishijin_Fabric_Cintamani.md"
+}

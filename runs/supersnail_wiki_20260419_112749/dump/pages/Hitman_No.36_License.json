@@ -1,0 +1,47 @@
+{
+  "pageid": 2739,
+  "ns": 0,
+  "title": "Hitman No.36 License",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hitman_No.36_License",
+  "touched": "2025-08-11T11:08:34Z",
+  "length": 1046,
+  "lastrevid": 38995,
+  "revision": {
+    "revid": 38995,
+    "parentid": 13420,
+    "timestamp": "2025-08-11T11:08:34Z",
+    "sha1": "13e49510fba98dee53ab31b6ad278b68a4bde998",
+    "size": 1046
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Hitman No.36 License",
+        "class_id": "20424",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This institution trains killers under the Demon Gods. It adopts sophisticated management concepts and offers customized and exclusive license for each killer. From name, blood type, to disliked food, one can find all kinds of details on the license. This turns the idea of killers having an official job into actual reality.",
+        "fame": "30",
+        "art": "15",
+        "fth": "15",
+        "civ": "18",
+        "tech": "12",
+        "ss1": "Defeated Daily Hitmen drop +10 W-tads<br>Per Hitman intercepted, Snail ATK +2<br>Hitmen Intercepted: 40/40",
+        "ss2": "Defeated Daily Hitmen drop +15 W-tads<br>Per Hitman intercepted, Snail ATK +4<br>Hitmen Intercepted: 40/40",
+        "ss3": "Defeated Daily Hitmen drop +20 W-tads<br>Per Hitman intercepted, Snail ATK +6<br>Hitmen Intercepted: 40/40",
+        "ss4": "Defeated Daily Hitmen drop +20 W-tads<br>Per Hitman intercepted, Snail ATK +6<br>Hitmen Intercepted: 40/40",
+        "ss7": "Defeated Daily Hitmen drop +20 W-tads<br>Per Hitman intercepted, Snail ATK +6<br>Hitmen Intercepted: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hitman_No.36_License.wiki",
+  "markdown_path": "markdown/Hitman_No.36_License.md"
+}

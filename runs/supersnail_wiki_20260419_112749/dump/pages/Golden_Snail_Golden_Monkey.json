@@ -1,0 +1,35 @@
+{
+  "pageid": 4183,
+  "ns": 0,
+  "title": "Golden Snail+Golden Monkey",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Snail%2BGolden_Monkey",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 205,
+  "lastrevid": 28646,
+  "revision": {
+    "revid": 28646,
+    "parentid": 28645,
+    "timestamp": "2024-08-03T12:34:03Z",
+    "sha1": "17cf9f9646d3614e95a592b4e543c6ad429e5728",
+    "size": 205
+  },
+  "categories": [
+    "Minion",
+    "Minion Element DMG Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Golden Snail,Golden Monkey",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Troop All ELMT DMG +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Snail_Golden_Monkey.wiki",
+  "markdown_path": "markdown/Golden_Snail_Golden_Monkey.md"
+}

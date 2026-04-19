@@ -1,0 +1,33 @@
+{
+  "pageid": 9286,
+  "ns": 0,
+  "title": "Grimm's Fairy Tales+Essay on Manners",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Grimm%27s_Fairy_Tales%2BEssay_on_Manners",
+  "touched": "2025-06-20T00:19:07Z",
+  "length": 142,
+  "lastrevid": 36163,
+  "revision": {
+    "revid": 36163,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:19:07Z",
+    "sha1": "9de2b1cfed0bedd5b275ae5f93c654a96a3869a3",
+    "size": 142
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "680",
+        "relics": "Grimm's Fairy Tales,Essay on Manners",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HP +600"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Grimm_s_Fairy_Tales_Essay_on_Manners.wiki",
+  "markdown_path": "markdown/Grimm_s_Fairy_Tales_Essay_on_Manners.md"
+}

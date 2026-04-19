@@ -1,0 +1,48 @@
+{
+  "pageid": 618,
+  "ns": 0,
+  "title": "Pritsker Medal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pritsker_Medal",
+  "touched": "2024-10-29T19:10:15Z",
+  "length": 798,
+  "lastrevid": 30961,
+  "revision": {
+    "revid": 30961,
+    "parentid": 16552,
+    "timestamp": "2024-10-29T19:10:15Z",
+    "sha1": "39ac84c126da1f904c582db6ae2d3a835c8881f1",
+    "size": 798
+  },
+  "categories": [
+    "ATK Boost",
+    "Building Upgrade Cost Reduction",
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics",
+    "Value Pack Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Pritsker Medal",
+        "rank": "Green",
+        "affct": "FAME",
+        "source": "Home Value Pack I ($0.99)",
+        "description": "Pritsker Medal is known as the Nobel Prize for architecture. About 500 architects are nominated every year, but only one winner is awarded for its outstanding talent, imagination, and responsibility.",
+        "fame": "27",
+        "art": "17",
+        "fth": "13",
+        "civ": "15",
+        "tech": "18",
+        "ss1": "Relic Stars needed to upgrade Buildings -5%<br>Per 5 Fungus Farm LVLs, Snail ATK +6<br>Fungus Farm LVL: 50/50",
+        "ss2": "Relic Stars needed to upgrade Buildings -10%<br>Per 5 Fungus Farm LVLs, Snail ATK +12<br>Fungus Farm LVL: 50/50",
+        "ss3": "Relic Stars needed to upgrade Buildings -15%<br>Per 5 Fungus Farm LVLs, Snail ATK +18<br>Fungus Farm LVL: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pritsker_Medal.wiki",
+  "markdown_path": "markdown/Pritsker_Medal.md"
+}

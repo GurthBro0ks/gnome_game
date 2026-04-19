@@ -1,0 +1,55 @@
+{
+  "pageid": 1408,
+  "ns": 0,
+  "title": "Euclid's Elements",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Euclid%27s_Elements",
+  "touched": "2025-01-07T11:14:51Z",
+  "length": 1615,
+  "lastrevid": 28705,
+  "revision": {
+    "revid": 28705,
+    "parentid": 28704,
+    "timestamp": "2024-08-12T16:37:08Z",
+    "sha1": "e91c3cc4a98277a63cb486cdfba7e71a3cb2574e",
+    "size": 1615
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "HP Boost",
+    "Hellas Exploration Boost",
+    "Hellas Museum Boost",
+    "Indigent Nobleman Relics",
+    "Mecha Cell Drop Boost",
+    "Relics",
+    "TECH Relics",
+    "Zombie Minion ATK Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Euclid's Elements",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "11-06",
+        "source": "* Hellenic Treasure Map (20%), Lottery Machine (0.03%), Wishing (1.1%)\n* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})",
+        "description": "On Nov 6, 300 BC, Euclid completed the most famous work in the history of mathematics. \n\nThe 13 books of \"Euclid's Elements\" contain 5 hypotheses, 5 postulates, 25 definitions, and 48 propositions. It is a record of mathematical knowledge gathered during the ancient Greek era. It listed certain general facts according to definitions and axioms and used them to study the properties of various geometric shapes logically. It formed a solid logical system to prove propositions and obtain theorems an …",
+        "fame": "24",
+        "art": "27",
+        "fth": "29",
+        "civ": "29",
+        "tech": "45",
+        "ss1": "When exploring, Mecha Cells gained +1%",
+        "ss2": "When exploring, Mecha Cells gained +2%",
+        "ss3": "When exploring, Mecha Cells gained +3%",
+        "ss4": "When exploring, Mecha Cells gained +5%",
+        "ss7": "When exploring, Mecha Cells gained +5%<br>When exploring, Mecha Cells gained +5% (Awakened)",
+        "skill1": "{{Skills|hellas|hp|200}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Euclid_s_Elements.wiki",
+  "markdown_path": "markdown/Euclid_s_Elements.md"
+}

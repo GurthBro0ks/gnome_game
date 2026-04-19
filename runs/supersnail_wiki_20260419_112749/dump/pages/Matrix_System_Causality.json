@@ -1,0 +1,33 @@
+{
+  "pageid": 3754,
+  "ns": 0,
+  "title": "Matrix System+Causality",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Matrix_System%2BCausality",
+  "touched": "2025-08-11T11:11:15Z",
+  "length": 162,
+  "lastrevid": 39108,
+  "revision": {
+    "revid": 39108,
+    "parentid": 13652,
+    "timestamp": "2025-08-11T11:11:15Z",
+    "sha1": "7fc3b960387dee8e3dd7786660550c7bb7e68c85",
+    "size": 162
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "214",
+        "relics": "Matrix System,Causality",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Fungus Farm: +14%chance to produceWonder Fungi"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Matrix_System_Causality.wiki",
+  "markdown_path": "markdown/Matrix_System_Causality.md"
+}

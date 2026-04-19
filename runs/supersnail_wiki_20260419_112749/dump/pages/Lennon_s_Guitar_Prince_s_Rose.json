@@ -1,0 +1,34 @@
+{
+  "pageid": 3624,
+  "ns": 0,
+  "title": "Lennon's Guitar+Prince's Rose",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lennon%27s_Guitar%2BPrince%27s_Rose",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 202,
+  "lastrevid": 13206,
+  "revision": {
+    "revid": 13206,
+    "parentid": 0,
+    "timestamp": "2023-09-22T16:15:53Z",
+    "sha1": "b1f5839e7c03a0cd37949c9adfdff27cd538e467",
+    "size": 202
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Lennon's Guitar,Prince's Rose",
+        "rank": "purple",
+        "amount": "2",
+        "category": "home",
+        "description": "The Time Machine has a +12% chance to generate Time Chests"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lennon_s_Guitar_Prince_s_Rose.wiki",
+  "markdown_path": "markdown/Lennon_s_Guitar_Prince_s_Rose.md"
+}

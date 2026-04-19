@@ -1,0 +1,47 @@
+{
+  "pageid": 5934,
+  "ns": 0,
+  "title": "Rubber Suit",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rubber_Suit",
+  "touched": "2025-08-11T10:58:05Z",
+  "length": 543,
+  "lastrevid": 38537,
+  "revision": {
+    "revid": 38537,
+    "parentid": 32230,
+    "timestamp": "2025-08-11T10:58:05Z",
+    "sha1": "dce7b9daac7b85b1678088b265aafaa7a428f06a",
+    "size": 543
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Rubber Suit",
+        "class_id": "20356",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "An outfit made of special rubber, very light and stretchy. The tight-fitting design enables the wearer to move like water during battle, and the isolated nature of rubber enables them to walk into an electric field and safely out.",
+        "fame": "15",
+        "art": "16",
+        "fth": "14",
+        "civ": "14",
+        "tech": "31",
+        "ss1": "Against Thundos, DMG +300%",
+        "ss2": "Against Thundos, DMG +400%",
+        "ss3": "Against Thundos, DMG +500%",
+        "ss4": "Against Thundos, DMG +500%",
+        "ss7": "Against Thundos, DMG +500%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Rubber_Suit.wiki",
+  "markdown_path": "markdown/Rubber_Suit.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 3787,
+  "ns": 0,
+  "title": "Soul Stone+Scale of Anubis+On War",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Soul_Stone%2BScale_of_Anubis%2BOn_War",
+  "touched": "2025-08-11T10:49:39Z",
+  "length": 185,
+  "lastrevid": 38174,
+  "revision": {
+    "revid": 38174,
+    "parentid": 13685,
+    "timestamp": "2025-08-11T10:49:39Z",
+    "sha1": "a6a1bfb5768b10797f572eb1ffcac4cb8a0385dd",
+    "size": 185
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "242",
+        "relics": "Soul Stone,Scale of Anubis,On War",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 1k DNA Strength, Snail ATK +5;DNA Strength: 48000/48000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Soul_Stone_Scale_of_Anubis_On_War.wiki",
+  "markdown_path": "markdown/Soul_Stone_Scale_of_Anubis_On_War.md"
+}

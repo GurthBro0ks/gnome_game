@@ -1,0 +1,33 @@
+{
+  "pageid": 9322,
+  "ns": 0,
+  "title": "Bayesian Network+Pythagoras Tree",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bayesian_Network%2BPythagoras_Tree",
+  "touched": "2025-06-20T00:23:43Z",
+  "length": 138,
+  "lastrevid": 36274,
+  "revision": {
+    "revid": 36274,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:23:43Z",
+    "sha1": "b0d3155a2a1424f86b901cdf33fbf7fe7798d71a",
+    "size": 138
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "678",
+        "relics": "Bayesian Network,Pythagoras Tree",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bayesian_Network_Pythagoras_Tree.wiki",
+  "markdown_path": "markdown/Bayesian_Network_Pythagoras_Tree.md"
+}

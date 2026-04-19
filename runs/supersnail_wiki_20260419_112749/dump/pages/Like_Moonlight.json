@@ -1,0 +1,47 @@
+{
+  "pageid": 10557,
+  "ns": 0,
+  "title": "Like Moonlight",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Like_Moonlight",
+  "touched": "2025-08-11T10:54:43Z",
+  "length": 769,
+  "lastrevid": 38393,
+  "revision": {
+    "revid": 38393,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:54:43Z",
+    "sha1": "48672c88a2bf572d46bc995b89cba80d32874026",
+    "size": 769
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Like Moonlight",
+        "class_id": "20830",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Natural cycle law #2: Spring is around the corner, but before that, keep yourself warm when the weather is still cold.",
+        "fame": "15",
+        "art": "13",
+        "fth": "14",
+        "civ": "17",
+        "tech": "30",
+        "ss1": "Snail Leadership +2<br>Per 10 Lucky Star gained, Snail HP +10<br>Lucky Star Gained: 2400/2400",
+        "ss2": "Snail Leadership +4<br>Per 10 Lucky Star gained, Snail HP +20<br>Lucky Star Gained: 2400/2400",
+        "ss3": "Snail Leadership +6<br>Per 10 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 2400/2400",
+        "ss4": "Snail Leadership +6<br>Per 10 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 2400/2400",
+        "ss7": "Snail Leadership +6<br>Per 10 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 2400/2400<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Like_Moonlight.wiki",
+  "markdown_path": "markdown/Like_Moonlight.md"
+}

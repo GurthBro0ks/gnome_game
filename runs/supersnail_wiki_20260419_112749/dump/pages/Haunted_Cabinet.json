@@ -1,0 +1,47 @@
+{
+  "pageid": 784,
+  "ns": 0,
+  "title": "Haunted Cabinet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Haunted_Cabinet",
+  "touched": "2025-08-11T10:57:35Z",
+  "length": 640,
+  "lastrevid": 38516,
+  "revision": {
+    "revid": 38516,
+    "parentid": 17160,
+    "timestamp": "2025-08-11T10:57:35Z",
+    "sha1": "38a632bcf6eae4bd03dc33774c61ab6c4f5f2b68",
+    "size": 640
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Haunted Cabinet",
+        "class_id": "20026",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "It is said that an evil spirit is sealed in this wine cabinet. After it's out of wine, the spirit will cast a curse on the cabinet owner: They will keep having the same nightmare about an evil witch! Research shows, however, that it's just hallucinations caused by overconsumption of alcohol.",
+        "fame": "17",
+        "art": "15",
+        "fth": "29",
+        "civ": "12",
+        "tech": "17",
+        "ss1": "Food rewards from offering +0.4%",
+        "ss2": "Food rewards from offering +0.8%",
+        "ss3": "Food rewards from offering +1.2%",
+        "ss4": "Food rewards from offering +1.2%",
+        "ss7": "Food rewards from offering +1.2%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Haunted_Cabinet.wiki",
+  "markdown_path": "markdown/Haunted_Cabinet.md"
+}

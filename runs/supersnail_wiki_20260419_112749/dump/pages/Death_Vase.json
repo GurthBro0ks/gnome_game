@@ -1,0 +1,47 @@
+{
+  "pageid": 877,
+  "ns": 0,
+  "title": "Death Vase",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Death_Vase",
+  "touched": "2025-08-11T11:03:36Z",
+  "length": 595,
+  "lastrevid": 38778,
+  "revision": {
+    "revid": 38778,
+    "parentid": 26238,
+    "timestamp": "2025-08-11T11:03:36Z",
+    "sha1": "4648162bccae5d7fd2cb03f84c4955fa79a6a970",
+    "size": 595
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Death Vase",
+        "class_id": "20016",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This is an Italian silver vase made in the 15th century. After being buried for centuries, it was dug up and sent to an auction, and then mysterious deaths followed. Anyone who took possession of the vase perished within a few months!",
+        "fame": "16",
+        "art": "28",
+        "fth": "15",
+        "civ": "19",
+        "tech": "12",
+        "ss1": "Demon Gene Research B-tad Cost -0.6%",
+        "ss2": "Demon Gene Research B-tad Cost -1.2%",
+        "ss3": "Demon Gene Research B-tad Cost -1.8%",
+        "ss4": "Demon Gene Research B-tad Cost -1.8%",
+        "ss7": "Demon Gene Research B-tad Cost -1.8%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Death_Vase.wiki",
+  "markdown_path": "markdown/Death_Vase.md"
+}

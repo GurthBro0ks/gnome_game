@@ -1,0 +1,47 @@
+{
+  "pageid": 6987,
+  "ns": 0,
+  "title": "OEA",
+  "fullurl": "https://supersnail.wiki.gg/wiki/OEA",
+  "touched": "2025-08-11T10:40:24Z",
+  "length": 801,
+  "lastrevid": 37772,
+  "revision": {
+    "revid": 37772,
+    "parentid": 32507,
+    "timestamp": "2025-08-11T10:40:24Z",
+    "sha1": "53f482f2efa4587e4ce7436ffab38b4e607229e9",
+    "size": 801
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "OEA",
+        "class_id": "20369",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "A basic chemical analysis instrument. Equipped with a micro-processor for condition control and data processing, it's capable of quantitative analysis of common elements in organic solid like carbon, protium, and nitrogen. Both the chemical and food industries make extensive use of it.",
+        "fame": "16",
+        "art": "15",
+        "fth": "16",
+        "civ": "14",
+        "tech": "29",
+        "ss1": "Per 10 TECH Pistils Used, Snail ATK +3<br>TECH Pistils Used: 400/400",
+        "ss2": "Per 10 TECH Pistils Used, Snail ATK +4<br>TECH Pistils Used: 400/400",
+        "ss3": "Per 10 TECH Pistils Used, Snail ATK +5<br>TECH Pistils Used: 400/400",
+        "ss4": "Per 10 TECH Pistils Used, Snail ATK +5<br>TECH Pistils Used: 400/400",
+        "ss7": "Per 10 TECH Pistils Used, Snail ATK +5<br>TECH Pistils Used: 400/400<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/OEA.wiki",
+  "markdown_path": "markdown/OEA.md"
+}

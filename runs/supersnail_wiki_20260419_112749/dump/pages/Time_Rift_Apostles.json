@@ -1,0 +1,34 @@
+{
+  "pageid": 6157,
+  "ns": 0,
+  "title": "Time Rift Apostles",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Time_Rift_Apostles",
+  "touched": "2026-02-22T15:45:37Z",
+  "length": 52023,
+  "lastrevid": 41844,
+  "revision": {
+    "revid": 41844,
+    "parentid": 41843,
+    "timestamp": "2026-02-22T15:45:37Z",
+    "sha1": "0876ae46371b4dd06b9d237879271d46cce28c60",
+    "size": 52023
+  },
+  "categories": [
+    "Missing Info",
+    "Pages with broken file links",
+    "Time Rift"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Realm",
+        "3": "Millennium Ring"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Time_Rift_Apostles.wiki",
+  "markdown_path": "markdown/Time_Rift_Apostles.md"
+}

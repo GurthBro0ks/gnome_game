@@ -1,0 +1,33 @@
+{
+  "pageid": 6221,
+  "ns": 0,
+  "title": "Cyrus Cylinder+Aeneid",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cyrus_Cylinder%2BAeneid",
+  "touched": "2025-06-20T00:05:01Z",
+  "length": 180,
+  "lastrevid": 35859,
+  "revision": {
+    "revid": 35859,
+    "parentid": 32321,
+    "timestamp": "2025-06-20T00:05:01Z",
+    "sha1": "71ec230c0e3c9f56b629ccf2729fea322679a694",
+    "size": 180
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "509",
+        "relics": "Cyrus Cylinder,Aeneid",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Rocket Tech LVLs, Snail RUSH +28;Rocket Tech Upgraded: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cyrus_Cylinder_Aeneid.wiki",
+  "markdown_path": "markdown/Cyrus_Cylinder_Aeneid.md"
+}

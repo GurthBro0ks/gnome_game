@@ -1,0 +1,34 @@
+{
+  "pageid": 3712,
+  "ns": 0,
+  "title": "Morse's Telegraph+Pt-Cont Transistor",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Morse%27s_Telegraph%2BPt-Cont_Transistor",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 218,
+  "lastrevid": 13609,
+  "revision": {
+    "revid": 13609,
+    "parentid": 13607,
+    "timestamp": "2023-10-01T08:12:14Z",
+    "sha1": "32d4a23b4c3e193238ff4d565d216cdec385a4f0",
+    "size": 218
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Morse's Telegraph,Pt-Cont Transistor",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Organ transplanted, Snail HP +140<br>Organs Transplanted: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Morse_s_Telegraph_Pt-Cont_Transistor.wiki",
+  "markdown_path": "markdown/Morse_s_Telegraph_Pt-Cont_Transistor.md"
+}

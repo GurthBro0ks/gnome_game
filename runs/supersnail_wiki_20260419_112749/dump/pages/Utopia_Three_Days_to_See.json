@@ -1,0 +1,33 @@
+{
+  "pageid": 8807,
+  "ns": 0,
+  "title": "Utopia+Three Days to See",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Utopia%2BThree_Days_to_See",
+  "touched": "2025-08-11T11:07:41Z",
+  "length": 187,
+  "lastrevid": 36280,
+  "revision": {
+    "revid": 36280,
+    "parentid": 34788,
+    "timestamp": "2025-06-20T00:24:00Z",
+    "sha1": "e91cfb64f9064768b991bad4d5e9dd9b6cbc0b5a",
+    "size": 187
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "784",
+        "relics": "Utopia,Three Days to See",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Tribal Chief defeated, Snail RUSH +7;Tribal Chiefs Defeated: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Utopia_Three_Days_to_See.wiki",
+  "markdown_path": "markdown/Utopia_Three_Days_to_See.md"
+}

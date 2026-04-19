@@ -1,0 +1,74 @@
+{
+  "pageid": 2003,
+  "ns": 0,
+  "title": "Incense",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Incense",
+  "touched": "2025-10-20T20:46:46Z",
+  "length": 14002,
+  "lastrevid": 40960,
+  "revision": {
+    "revid": 40960,
+    "parentid": 40944,
+    "timestamp": "2025-10-09T11:27:02Z",
+    "sha1": "20ea668e10c7decac0327186afafa997d1244125",
+    "size": 14002
+  },
+  "categories": [
+    "Guides",
+    "Home Base",
+    "Pages using Tabber parser tag"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "blue",
+        "2": "Instrument",
+        "3": "Nun-chuck"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "blue",
+        "2": "Armor",
+        "3": "Death Shroud"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "green",
+        "2": "Armor",
+        "3": "Sailor Suit"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "Instrument",
+        "3": "Pulse Rifle"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Instrument",
+        "3": "Anti-Strength Saber"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "War",
+        "3": "Military Helmet"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Incense.wiki",
+  "markdown_path": "markdown/Incense.md"
+}

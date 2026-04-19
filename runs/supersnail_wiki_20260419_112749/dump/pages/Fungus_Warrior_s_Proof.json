@@ -1,0 +1,47 @@
+{
+  "pageid": 10384,
+  "ns": 0,
+  "title": "Fungus Warrior's Proof",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fungus_Warrior%27s_Proof",
+  "touched": "2025-08-11T10:48:56Z",
+  "length": 860,
+  "lastrevid": 38141,
+  "revision": {
+    "revid": 38141,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:48:56Z",
+    "sha1": "f11ddfb931634e6918134192a90c57ad9b4cd16c",
+    "size": 860
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Fungus Warrior's Proof",
+        "class_id": "20271",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "A talent will be activated for the warriors who have this certificate: When you eat orange Fungi, the cap on additional Leadership Stats will be canceled! To hell with the 500-Orange-Fungi limit!",
+        "fame": "14",
+        "art": "15",
+        "fth": "30",
+        "civ": "13",
+        "tech": "18",
+        "ss1": "May the Fungi be with you!<br>Per 10 FTH-Fungi eaten, Snail ATK +1<br>FTH-Fungi Eaten: 500/500",
+        "ss2": "May the Fungi be with you!<br>Per 10 FTH-Fungi eaten, Snail ATK +2<br>FTH-Fungi Eaten: 500/500",
+        "ss3": "May the Fungi be with you!<br>Per 10 FTH-Fungi eaten, Snail ATK +3<br>FTH-Fungi Eaten: 500/500",
+        "ss4": "May the Fungi be with you!<br>Per 10 FTH-Fungi eaten, Snail ATK +3<br>FTH-Fungi Eaten: 500/500",
+        "ss7": "May the Fungi be with you!<br>Per 10 FTH-Fungi eaten, Snail ATK +3<br>FTH-Fungi Eaten: 500/500<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fungus_Warrior_s_Proof.wiki",
+  "markdown_path": "markdown/Fungus_Warrior_s_Proof.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 11059,
+  "ns": 0,
+  "title": "Kilby's IC+Helmholtz Coil",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kilby%27s_IC%2BHelmholtz_Coil",
+  "touched": "2025-08-11T11:10:53Z",
+  "length": 152,
+  "lastrevid": 39091,
+  "revision": {
+    "revid": 39091,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:10:53Z",
+    "sha1": "93ab59d4b13c538e3932a924572b2efdc20d189d",
+    "size": 152
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "425",
+        "relics": "Kilby's IC,Helmholtz Coil",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Refine +1 White Rebel Material +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kilby_s_IC_Helmholtz_Coil.wiki",
+  "markdown_path": "markdown/Kilby_s_IC_Helmholtz_Coil.md"
+}

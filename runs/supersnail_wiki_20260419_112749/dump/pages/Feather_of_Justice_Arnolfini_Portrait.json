@@ -1,0 +1,33 @@
+{
+  "pageid": 6551,
+  "ns": 0,
+  "title": "Feather of Justice+Arnolfini Portrait",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Feather_of_Justice%2BArnolfini_Portrait",
+  "touched": "2025-07-02T09:42:54Z",
+  "length": 149,
+  "lastrevid": 37066,
+  "revision": {
+    "revid": 37066,
+    "parentid": 27060,
+    "timestamp": "2025-07-02T09:42:54Z",
+    "sha1": "541f58b9edd2600ee4dbfa47f4fbfa2af6ae7152",
+    "size": 149
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "872",
+        "relics": "Feather of Justice,Arnolfini Portrait",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Feather_of_Justice_Arnolfini_Portrait.wiki",
+  "markdown_path": "markdown/Feather_of_Justice_Arnolfini_Portrait.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 8610,
+  "ns": 0,
+  "title": "Four-goat Square Zun+Qin Bronze Chariot+Remains of Sipán Lord+Murder of Roger+Akashic Records+Nuada's Silver Arm",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Four-goat_Square_Zun%2BQin_Bronze_Chariot%2BRemains_of_Sip%C3%A1n_Lord%2BMurder_of_Roger%2BAkashic_Records%2BNuada%27s_Silver_Arm",
+  "touched": "2025-06-20T00:18:25Z",
+  "length": 283,
+  "lastrevid": 36132,
+  "revision": {
+    "revid": 36132,
+    "parentid": 34563,
+    "timestamp": "2025-06-20T00:18:25Z",
+    "sha1": "882250125c0c549afaa66351160de561e4c5c209",
+    "size": 283
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "751",
+        "relics": "Four-goat Square Zun,Qin Bronze Chariot,Remains of Sipán Lord,Murder of Roger,Akashic Records,Nuada's Silver Arm",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Per Orange Brand Cases opened, Snail ATK +12;Orange Brand Cases Opened: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Four-goat_Square_Zun_Qin_Bronze_Chariot_Remains_of_Sip_n_Lord_Murder_of_Roger_Akashic_Records_Nuada_s_Silver_Arm.wiki",
+  "markdown_path": "markdown/Four-goat_Square_Zun_Qin_Bronze_Chariot_Remains_of_Sip_n_Lord_Murder_of_Roger_Akashic_Records_Nuada_s_Silver_Arm.md"
+}

@@ -1,0 +1,34 @@
+{
+  "pageid": 3332,
+  "ns": 0,
+  "title": "Stela of Djet+Lewis Chessmen+Lumieres' Film+Kilogram Prototype",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Stela_of_Djet%2BLewis_Chessmen%2BLumieres%27_Film%2BKilogram_Prototype",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 222,
+  "lastrevid": 12070,
+  "revision": {
+    "revid": 12070,
+    "parentid": 0,
+    "timestamp": "2023-09-13T09:19:39Z",
+    "sha1": "d7af509100d3cc48696e888912f09dc9436d996e",
+    "size": 222
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Stela of Djet,Lewis Chessmen,Lumieres' Film,Kilogram Prototype",
+        "rank": "blue",
+        "amount": "4",
+        "category": "other",
+        "description": "When crafting a Blue Reagent, a +7% to get +1"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Stela_of_Djet_Lewis_Chessmen_Lumieres_Film_Kilogram_Prototype.wiki",
+  "markdown_path": "markdown/Stela_of_Djet_Lewis_Chessmen_Lumieres_Film_Kilogram_Prototype.md"
+}

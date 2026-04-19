@@ -1,0 +1,35 @@
+{
+  "pageid": 5017,
+  "ns": 0,
+  "title": "Last Self Portrait+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Last_Self_Portrait%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 245,
+  "lastrevid": 18384,
+  "revision": {
+    "revid": 18384,
+    "parentid": 17801,
+    "timestamp": "2023-11-13T21:32:30Z",
+    "sha1": "99a0218ac5493c17a9f713b69f14c1e8c0c28f6a",
+    "size": 245
+  },
+  "categories": [
+    "Minion",
+    "Mutant Minion HARD Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Last Self Portrait,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 60 Mutant Minions in battle: Troop HARD Stats +21"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Last_Self_Portrait_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Last_Self_Portrait_Mysterious_Relic.md"
+}

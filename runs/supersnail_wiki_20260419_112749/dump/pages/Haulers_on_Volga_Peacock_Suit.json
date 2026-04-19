@@ -1,0 +1,35 @@
+{
+  "pageid": 3645,
+  "ns": 0,
+  "title": "Haulers on Volga+Peacock Suit",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Haulers_on_Volga%2BPeacock_Suit",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 219,
+  "lastrevid": 18434,
+  "revision": {
+    "revid": 18434,
+    "parentid": 17760,
+    "timestamp": "2023-11-13T21:46:53Z",
+    "sha1": "3350f8422c738c547b869f31ec20a92e971dcc7d",
+    "size": 219
+  },
+  "categories": [
+    "Minion",
+    "Minion RUSH Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Haulers on Volga,Peacock Suit",
+        "rank": "purple",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 30 Minions in battle: Troop RUSH +24"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Haulers_on_Volga_Peacock_Suit.wiki",
+  "markdown_path": "markdown/Haulers_on_Volga_Peacock_Suit.md"
+}

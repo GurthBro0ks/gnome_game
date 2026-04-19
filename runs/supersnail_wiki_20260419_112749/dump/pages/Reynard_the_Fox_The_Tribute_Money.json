@@ -1,0 +1,33 @@
+{
+  "pageid": 9296,
+  "ns": 0,
+  "title": "Reynard the Fox+The Tribute Money",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Reynard_the_Fox%2BThe_Tribute_Money",
+  "touched": "2025-06-20T00:19:43Z",
+  "length": 235,
+  "lastrevid": 36187,
+  "revision": {
+    "revid": 36187,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:19:43Z",
+    "sha1": "7ebeea164d348ea567e65c7bde593d3586a8deae",
+    "size": 235
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "691",
+        "relics": "Reynard the Fox,The Tribute Money",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +48;Desert Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Reynard_the_Fox_The_Tribute_Money.wiki",
+  "markdown_path": "markdown/Reynard_the_Fox_The_Tribute_Money.md"
+}

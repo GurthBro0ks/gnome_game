@@ -1,0 +1,47 @@
+{
+  "pageid": 10276,
+  "ns": 0,
+  "title": "Black-Framed Glasses",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Black-Framed_Glasses",
+  "touched": "2025-08-11T10:45:21Z",
+  "length": 569,
+  "lastrevid": 37987,
+  "revision": {
+    "revid": 37987,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:45:21Z",
+    "sha1": "22fbc9c325acb7e673b3f3ae0a0d5772dbb66098",
+    "size": 569
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Black-Framed Glasses",
+        "class_id": "20078",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This pair of horn-rimmed worn glasses was one of How How's favorite accessories when he was a student. With this pair of glasses and his handsome looks, he was the eye candy of every girl on campus, and the glasses were also known as the Hormone Inducer! It's an absolute killer for any female snail in this game!",
+        "fame": "15",
+        "art": "17",
+        "fth": "10",
+        "civ": "29",
+        "tech": "19",
+        "ss1": "Snail ATK +20",
+        "ss2": "Snail ATK +40",
+        "ss3": "Snail ATK +60",
+        "ss4": "Snail ATK +60",
+        "ss7": "Snail ATK +60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Black-Framed_Glasses.wiki",
+  "markdown_path": "markdown/Black-Framed_Glasses.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 3893,
+  "ns": 0,
+  "title": "Order of Britland+Dinner Credit Card",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Order_of_Britland%2BDinner_Credit_Card",
+  "touched": "2025-08-11T11:03:12Z",
+  "length": 189,
+  "lastrevid": 38761,
+  "revision": {
+    "revid": 38761,
+    "parentid": 14169,
+    "timestamp": "2025-08-11T11:03:12Z",
+    "sha1": "b23a99bdd742859687c70758e11bf5a6244ab80f",
+    "size": 189
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "275",
+        "relics": "Order of Britland,Dinner Credit Card",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Supreme Points, Snail ATK +10;Supreme Points: 3000/3000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Order_of_Britland_Dinner_Credit_Card.wiki",
+  "markdown_path": "markdown/Order_of_Britland_Dinner_Credit_Card.md"
+}

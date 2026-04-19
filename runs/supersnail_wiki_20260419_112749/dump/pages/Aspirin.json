@@ -1,0 +1,47 @@
+{
+  "pageid": 1196,
+  "ns": 0,
+  "title": "Aspirin",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Aspirin",
+  "touched": "2025-08-11T10:43:26Z",
+  "length": 716,
+  "lastrevid": 37902,
+  "revision": {
+    "revid": 37902,
+    "parentid": 29318,
+    "timestamp": "2025-08-11T10:43:26Z",
+    "sha1": "df662e01b3de16dd1f42a5a31618ecbb07af24d2",
+    "size": 716
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Aspirin",
+        "class_id": "20344",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Aspirin, aka acetylsalicylic acid, is one of the three classic drugs in medical history. It has been in use for more than a hundred years, and is still the most widely used antipyretic, analgesic, anti-inflammatory med in the world!",
+        "fame": "13",
+        "art": "17",
+        "fth": "14",
+        "civ": "17",
+        "tech": "29",
+        "ss1": "Per 5 Minions Healed, Snail DEF +1<br>Minions healed: 100/100",
+        "ss2": "Per 5 Minions Healed, Snail DEF +2<br>Minions healed: 100/100",
+        "ss3": "Per 5 Minions Healed, Snail DEF +3<br>Minions healed: 100/100",
+        "ss4": "Per 5 Minions Healed, Snail DEF +3<br>Minions healed: 100/100",
+        "ss7": "Per 5 Minions Healed, Snail DEF +3<br>Minions healed: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Aspirin.wiki",
+  "markdown_path": "markdown/Aspirin.md"
+}

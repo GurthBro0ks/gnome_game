@@ -1,0 +1,33 @@
+{
+  "pageid": 9321,
+  "ns": 0,
+  "title": "Marine Chronometer+Ancient Compass",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Marine_Chronometer%2BAncient_Compass",
+  "touched": "2025-06-20T00:23:39Z",
+  "length": 138,
+  "lastrevid": 36272,
+  "revision": {
+    "revid": 36272,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:23:39Z",
+    "sha1": "c3e18af81d91a95dc56bfc717c4cac253b86b705",
+    "size": 138
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "604",
+        "relics": "Marine Chronometer,Ancient Compass",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Marine_Chronometer_Ancient_Compass.wiki",
+  "markdown_path": "markdown/Marine_Chronometer_Ancient_Compass.md"
+}

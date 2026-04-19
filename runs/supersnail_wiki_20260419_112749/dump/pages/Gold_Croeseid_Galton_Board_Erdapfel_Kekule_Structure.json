@@ -1,0 +1,33 @@
+{
+  "pageid": 8880,
+  "ns": 0,
+  "title": "Gold Croeseid+Galton Board+Erdapfel+Kekule Structure",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gold_Croeseid%2BGalton_Board%2BErdapfel%2BKekule_Structure",
+  "touched": "2025-06-16T23:09:04Z",
+  "length": 165,
+  "lastrevid": 34892,
+  "revision": {
+    "revid": 34892,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:09:04Z",
+    "sha1": "1c034b5d4198af3f524cf5f42a3d14c090462fc1",
+    "size": 165
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "437",
+        "relics": "Gold Croeseid,Galton Board,Erdapfel,Kekule Structure",
+        "rank": "purple",
+        "amount": "4",
+        "category": "self",
+        "description": "Dragon Minion HP +8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gold_Croeseid_Galton_Board_Erdapfel_Kekule_Structure.wiki",
+  "markdown_path": "markdown/Gold_Croeseid_Galton_Board_Erdapfel_Kekule_Structure.md"
+}

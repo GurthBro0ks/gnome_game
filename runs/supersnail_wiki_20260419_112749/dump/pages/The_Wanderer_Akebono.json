@@ -1,0 +1,33 @@
+{
+  "pageid": 4724,
+  "ns": 0,
+  "title": "The Wanderer+Akebono",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Wanderer%2BAkebono",
+  "touched": "2025-06-19T23:59:01Z",
+  "length": 124,
+  "lastrevid": 35715,
+  "revision": {
+    "revid": 35715,
+    "parentid": 18629,
+    "timestamp": "2025-06-19T23:59:01Z",
+    "sha1": "88cfa5a92d95d10a7335c2374882cc5139b2a35a",
+    "size": 124
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "313",
+        "relics": "The Wanderer,Akebono",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Wanderer_Akebono.wiki",
+  "markdown_path": "markdown/The_Wanderer_Akebono.md"
+}

@@ -1,0 +1,59 @@
+{
+  "pageid": 1172,
+  "ns": 0,
+  "title": "Bell's Telephone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bell%27s_Telephone",
+  "touched": "2024-09-06T09:56:24Z",
+  "length": 2023,
+  "lastrevid": 22240,
+  "revision": {
+    "revid": 22240,
+    "parentid": 18209,
+    "timestamp": "2024-02-17T15:27:11Z",
+    "sha1": "2002829e628a9c5421e3dee7f2c5f63fe7d2f125",
+    "size": 2023
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Power",
+    "Keyboard Warrior Boost",
+    "Purple Relics",
+    "Purple TECH Relics",
+    "RUSH Boost",
+    "Relics",
+    "TECH Boost",
+    "TECH Relics",
+    "Time Machine Boost",
+    "Time Machine Skill",
+    "Time Machine Upgrade Cost Reduction"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bell's Telephone",
+        "rank": "AAA",
+        "affct": "TECH",
+        "birthday": "10-03",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishes (0.14%), Relic Forge (80 Relic RF)",
+        "description": "On Oct 3, 1875, Bell invented the first telephone.\n\nIn order to make a telephone, Bell and his assistants conducted many different experiments. There was once when Bell and Watson were communicating by pressing the receiver tightly to their ears with them in two closed rooms. Suddenly, he heard a sound as weak as a mosquito buzz from the receiver, \"Mr. Watson, help!\" Watson was overjoyed and shouted loudly, \"I heard you! Loud and clear!\" He rushed out and ran to Bell's room. They hugged and cele …",
+        "fame": "52",
+        "art": "35",
+        "fth": "39",
+        "civ": "46",
+        "tech": "71",
+        "ss1": "The Time Machine has a +6% chance to generate Time Chests<br>Time Machine upgraded B-tad Cost -3%",
+        "ss2": "The Time Machine has a +8% chance to generate Time Chests<br>Time Machine upgraded B-tad Cost -4%",
+        "ss3": "The Time Machine has a +10% chance to generate Time Chests<br>Time Machine upgraded B-tad Cost -5%",
+        "ss4": "The Time Machine has a +14% chance to generate Time Chests<br>Time Machine upgraded B-tad Cost -7%",
+        "ss5": "The Time Machine has a +18% chance to generate Time Chests<br>Time Machine upgraded B-tad Cost -9%",
+        "ss7": "The Time Machine has a +18% chance to generate Time Chests<br>Time Machine upgraded B-tad Cost -9%<br>The Time Machine has a +14% chance to generate Time Chests (Awakened)",
+        "skill1": "[[File:Timemachine skill II.png|50px]] Place in Time Machine: Generate Time Chests by +15%",
+        "skill2": "[[File:Timemachine skill II.png|50px]] Place in Time Machine: This Relic's TECH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bell_s_Telephone.wiki",
+  "markdown_path": "markdown/Bell_s_Telephone.md"
+}

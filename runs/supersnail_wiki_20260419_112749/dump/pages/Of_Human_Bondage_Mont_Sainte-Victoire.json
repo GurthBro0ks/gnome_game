@@ -1,0 +1,33 @@
+{
+  "pageid": 9822,
+  "ns": 0,
+  "title": "Of Human Bondage+Mont Sainte-Victoire",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Of_Human_Bondage%2BMont_Sainte-Victoire",
+  "touched": "2025-07-02T09:50:13Z",
+  "length": 150,
+  "lastrevid": 37162,
+  "revision": {
+    "revid": 37162,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:48:18Z",
+    "sha1": "5a9d2f356eb44c694cf6232e0d8b3c17428fea9a",
+    "size": 150
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "1203",
+        "relics": "Of Human Bondage,Mont Sainte-Victoire",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Of_Human_Bondage_Mont_Sainte-Victoire.wiki",
+  "markdown_path": "markdown/Of_Human_Bondage_Mont_Sainte-Victoire.md"
+}

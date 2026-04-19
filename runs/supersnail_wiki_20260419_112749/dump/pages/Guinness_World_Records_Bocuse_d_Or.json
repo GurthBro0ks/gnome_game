@@ -1,0 +1,33 @@
+{
+  "pageid": 8473,
+  "ns": 0,
+  "title": "Guinness World Records+Bocuse d'Or",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Guinness_World_Records%2BBocuse_d%27Or",
+  "touched": "2025-08-11T10:44:18Z",
+  "length": 170,
+  "lastrevid": 36015,
+  "revision": {
+    "revid": 36015,
+    "parentid": 34352,
+    "timestamp": "2025-06-20T00:14:18Z",
+    "sha1": "497e6891a6adbb06ee035cedfd1601db6fad2f13",
+    "size": 170
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "741",
+        "relics": "Guinness World Records,Bocuse d'Or",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per catalysis, gain +1 Spore Voucher by +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Guinness_World_Records_Bocuse_d_Or.wiki",
+  "markdown_path": "markdown/Guinness_World_Records_Bocuse_d_Or.md"
+}

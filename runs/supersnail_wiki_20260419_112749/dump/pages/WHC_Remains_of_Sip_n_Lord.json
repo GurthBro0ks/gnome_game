@@ -1,0 +1,33 @@
+{
+  "pageid": 8609,
+  "ns": 0,
+  "title": "WHC+Remains of Sipán Lord",
+  "fullurl": "https://supersnail.wiki.gg/wiki/WHC%2BRemains_of_Sip%C3%A1n_Lord",
+  "touched": "2025-06-20T00:18:25Z",
+  "length": 174,
+  "lastrevid": 36131,
+  "revision": {
+    "revid": 36131,
+    "parentid": 34562,
+    "timestamp": "2025-06-20T00:18:25Z",
+    "sha1": "9c2ff0f9bd75437a97a2dfca3399ec642814b90d",
+    "size": 174
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "729",
+        "relics": "WHC,Remains of Sipán Lord",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 T7+ Mecha Minions in battle:Troop HARD Stats +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/WHC_Remains_of_Sip_n_Lord.wiki",
+  "markdown_path": "markdown/WHC_Remains_of_Sip_n_Lord.md"
+}

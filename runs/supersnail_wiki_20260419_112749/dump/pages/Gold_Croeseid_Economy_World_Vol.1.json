@@ -1,0 +1,33 @@
+{
+  "pageid": 4851,
+  "ns": 0,
+  "title": "Gold Croeseid+Economy World Vol.1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gold_Croeseid%2BEconomy_World_Vol.1",
+  "touched": "2025-06-20T00:05:22Z",
+  "length": 148,
+  "lastrevid": 35870,
+  "revision": {
+    "revid": 35870,
+    "parentid": 19534,
+    "timestamp": "2025-06-20T00:05:22Z",
+    "sha1": "b58cfcb66d923a3a5d2140df5b4982b2705f30d3",
+    "size": 148
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "377",
+        "relics": "Gold Croeseid,Economy World Vol.1",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Rebel Cabin Output +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gold_Croeseid_Economy_World_Vol.1.wiki",
+  "markdown_path": "markdown/Gold_Croeseid_Economy_World_Vol.1.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 405,
+  "ns": 0,
+  "title": "Clown Coupon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Clown_Coupon",
+  "touched": "2025-08-11T11:09:43Z",
+  "length": 771,
+  "lastrevid": 39044,
+  "revision": {
+    "revid": 39044,
+    "parentid": 14686,
+    "timestamp": "2025-08-11T11:09:43Z",
+    "sha1": "469a68ce6a7c628275d6d36618ee938d1bfe8e11",
+    "size": 771
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Clown Coupon",
+        "class_id": "20052",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The well-known fast-food chain, Clown Express, offers coupons for the brave customers who participate in new tastings. With this coupon, you can eat in Clown Express at the maximum discount for life! You can even get money for eating there in extreme cases!",
+        "fame": "30",
+        "art": "11",
+        "fth": "18",
+        "civ": "14",
+        "tech": "17",
+        "ss1": "Per 1k Tadpole Points, Snail ATK +1<br>Tadpole Points: 20000/20000",
+        "ss2": "Per 1k Tadpole Points, Snail ATK +2<br>Tadpole Points: 20000/20000",
+        "ss3": "Per 1k Tadpole Points, Snail ATK +3<br>Tadpole Points: 20000/20000",
+        "ss4": "Per 1k Tadpole Points, Snail ATK +3<br>Tadpole Points: 20000/20000",
+        "ss7": "Per 1k Tadpole Points, Snail ATK +3<br>Tadpole Points: 20000/20000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Clown_Coupon.wiki",
+  "markdown_path": "markdown/Clown_Coupon.md"
+}

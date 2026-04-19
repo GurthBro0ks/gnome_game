@@ -1,0 +1,15 @@
+|image=.png
+|description=Allegedly a secret technology from outer space, the Snail Shell can transform the owner in specific situations, but only the chosen one can use it.
+|affct=FAME
+|hard=ATK
+|source=Ultra Giant fight in the Altar
+|color=purple
+|earth=6
+|water=6
+|fire=7
+|wind=7
+|form=Zombie
+|element=Fire
+|realm=Rift
+|orangehard=ATK
+}}

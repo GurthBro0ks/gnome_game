@@ -1,0 +1,52 @@
+{
+  "pageid": 8846,
+  "ns": 0,
+  "title": "Wheatstone Bridge",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wheatstone_Bridge",
+  "touched": "2025-06-20T00:24:43Z",
+  "length": 1672,
+  "lastrevid": 36301,
+  "revision": {
+    "revid": 36301,
+    "parentid": 34833,
+    "timestamp": "2025-06-20T00:24:43Z",
+    "sha1": "5b141c9aa214a4c8c0fa3a0be119cf2ca8c3712e",
+    "size": 1672
+  },
+  "categories": [
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Wheatstone Bridge",
+        "class_id": "22588",
+        "rank": "A",
+        "affct": "TECH",
+        "birthday": "07-04",
+        "source": "Lottery Machine No.3 (0.55%)",
+        "description": "On Jul 4, 1833 AD, British inventor Samuel Christie invented the Wheatstone bridge.<br>The Wheatstone Bridge is an instrument that can accurately measure resistance. It uses a bridge circuit made up of four resistors and measures changes in electrical current to determine changes in physical quantity. It is a highly accurate method of measurement. The Wheatstone Bridge is not named after its inventor because Wheatstone was the first to use it to measure resistance, so people became accustomed to …",
+        "fame": "43",
+        "art": "30",
+        "fth": "40",
+        "civ": "35",
+        "tech": "65",
+        "ss1": "Protomon Snail assist DMG + 80<br>Per Goldfishes Calculation LVL, Snail RUSH +1<br>Goldfishes Calculation: 50/50",
+        "ss2": "Protomon Snail assist DMG + 160<br>Per Goldfishes Calculation LVL, Snail RUSH +2<br>Goldfishes Calculation: 50/50",
+        "ss3": "Protomon Snail assist DMG + 240<br>Per Goldfishes Calculation LVL, Snail RUSH +3<br>Goldfishes Calculation: 50/50",
+        "ss4": "Protomon Snail assist DMG + 400<br>Per Goldfishes Calculation LVL, Snail RUSH +5<br>Goldfishes Calculation: 50/50",
+        "ss5": "Protomon Snail assist DMG + 560<br>Per Goldfishes Calculation LVL, Snail RUSH +7<br>Goldfishes Calculation: 50/50",
+        "ss7": "Protomon Snail assist DMG + 560<br>Per Goldfishes Calculation LVL, Snail RUSH +7<br>Goldfishes Calculation: 50/50<br>Protomon Snail assist DMG + 560 (Awakened)",
+        "skill1": "[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's TECH +10",
+        "skill2": "[[File:Britland skill II.png|50px]]Place in Britland Museum: In Britland, 2x Purple Card Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wheatstone_Bridge.wiki",
+  "markdown_path": "markdown/Wheatstone_Bridge.md"
+}

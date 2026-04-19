@@ -1,0 +1,47 @@
+{
+  "pageid": 1849,
+  "ns": 0,
+  "title": "Fungus XL",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fungus_XL",
+  "touched": "2025-08-11T10:35:36Z",
+  "length": 774,
+  "lastrevid": 37573,
+  "revision": {
+    "revid": 37573,
+    "parentid": 26080,
+    "timestamp": "2025-08-11T10:35:36Z",
+    "sha1": "0ddf1a1a5441177e3a8f63ebf97fdd2f055f1f3d",
+    "size": 774
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Fungus XL",
+        "class_id": "20009",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The fungi from the Fungus Farm didn't want to be gathered. Their resentment took a human form and became a Hitman working for Demon Gods! After its defeat, its essence coalesced into this Relic. It is an upsetting fact that you took full advantage of this poor little thing.",
+        "fame": "11",
+        "art": "15",
+        "fth": "16",
+        "civ": "30",
+        "tech": "18",
+        "ss1": "Per 10 DEF-Fungi eaten, Snail ATK +1<br>DEF-Fungi Eaten: 500/500",
+        "ss2": "Per 10 DEF-Fungi eaten, Snail ATK +2<br>DEF-Fungi Eaten: 500/500",
+        "ss3": "Per 10 DEF-Fungi eaten, Snail ATK +3<br>DEF-Fungi Eaten: 500/500",
+        "ss4": "Per 10 DEF-Fungi eaten, Snail ATK +3<br>DEF-Fungi Eaten: 500/500",
+        "ss7": "Per 10 DEF-Fungi eaten, Snail ATK +3<br>DEF-Fungi Eaten: 500/500<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fungus_XL.wiki",
+  "markdown_path": "markdown/Fungus_XL.md"
+}

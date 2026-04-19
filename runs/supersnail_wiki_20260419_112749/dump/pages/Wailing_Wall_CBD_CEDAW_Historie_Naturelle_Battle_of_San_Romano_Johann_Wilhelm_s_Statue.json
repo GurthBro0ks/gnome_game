@@ -1,0 +1,33 @@
+{
+  "pageid": 8821,
+  "ns": 0,
+  "title": "Wailing Wall+CBD+CEDAW+Historie Naturelle+Battle of San Romano+Johann Wilhelm's Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wailing_Wall%2BCBD%2BCEDAW%2BHistorie_Naturelle%2BBattle_of_San_Romano%2BJohann_Wilhelm%27s_Statue",
+  "touched": "2025-08-11T11:19:12Z",
+  "length": 199,
+  "lastrevid": 34806,
+  "revision": {
+    "revid": 34806,
+    "parentid": 0,
+    "timestamp": "2025-06-16T21:00:06Z",
+    "sha1": "58d0e5b937c25cddb0ccdcf49f60a1be64953530",
+    "size": 199
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "791",
+        "relics": "Wailing Wall,CBD,CEDAW,Historie Naturelle,Battle of San Romano,Johann Wilhelm's Statue",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Snail Leadership +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wailing_Wall_CBD_CEDAW_Historie_Naturelle_Battle_of_San_Romano_Johann_Wilhelm_s_Statue.wiki",
+  "markdown_path": "markdown/Wailing_Wall_CBD_CEDAW_Historie_Naturelle_Battle_of_San_Romano_Johann_Wilhelm_s_Statue.md"
+}

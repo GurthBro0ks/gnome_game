@@ -1,0 +1,47 @@
+{
+  "pageid": 11280,
+  "ns": 0,
+  "title": "Collection@20178 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20178_1",
+  "touched": "2025-08-11T11:19:02Z",
+  "length": 427,
+  "lastrevid": 39447,
+  "revision": {
+    "revid": 39447,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:19:02Z",
+    "sha1": "b1fdf9df5cb2272e715f827234e2f233287f7593",
+    "size": 427
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20178_1",
+        "class_id": "20178",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "collection@20178_2",
+        "fame": "15",
+        "art": "30",
+        "fth": "15",
+        "civ": "17",
+        "tech": "13",
+        "ss1": "prop@69730_2<br>prop@69731_2<br>prop@69731_3",
+        "ss2": "prop@69730_2<br>prop@69731_2<br>prop@69731_3",
+        "ss3": "prop@69730_2<br>prop@69731_2<br>prop@69731_3",
+        "ss4": "prop@69730_2<br>prop@69731_2<br>prop@69731_3",
+        "ss7": "prop@69730_2<br>prop@69731_2<br>prop@69731_3<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20178_1.wiki",
+  "markdown_path": "markdown/Collection_20178_1.md"
+}

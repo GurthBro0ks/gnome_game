@@ -1,0 +1,33 @@
+{
+  "pageid": 8510,
+  "ns": 0,
+  "title": "Galle Inscription+Mummy Juanita+Shigir Sculpture+Monolith of Tlaloc",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Galle_Inscription%2BMummy_Juanita%2BShigir_Sculpture%2BMonolith_of_Tlaloc",
+  "touched": "2025-06-20T00:13:59Z",
+  "length": 216,
+  "lastrevid": 36010,
+  "revision": {
+    "revid": 36010,
+    "parentid": 34394,
+    "timestamp": "2025-06-20T00:13:59Z",
+    "sha1": "094027589a2a765538f1bb7db17d4215e9a45236",
+    "size": 216
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "702",
+        "relics": "Galle Inscription,Mummy Juanita,Shigir Sculpture,Monolith of Tlaloc",
+        "rank": "purple",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 30 T7+ Dragon Minions in battle:Troop HARD Stats +16"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Galle_Inscription_Mummy_Juanita_Shigir_Sculpture_Monolith_of_Tlaloc.wiki",
+  "markdown_path": "markdown/Galle_Inscription_Mummy_Juanita_Shigir_Sculpture_Monolith_of_Tlaloc.md"
+}

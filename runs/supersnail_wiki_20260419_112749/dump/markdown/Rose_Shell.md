@@ -1,0 +1,17 @@
+|image=.png
+|description="The bold design of flowers and Snail Shell is like Beethoven's symphony. Great works like this will stay forever."
+
+- The designer's own comments about their work
+|affct=ART
+|hard=ATK
+|source=Divine Chaos Chest (0.4%)
+|color=blue
+|earth=4
+|water=3
+|fire=3
+|wind=4
+|form=Demon
+|element=Water
+|realm=
+|orangehard=
+}}

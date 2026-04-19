@@ -1,0 +1,62 @@
+{
+  "pageid": 6626,
+  "ns": 0,
+  "title": "The Gate",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Gate",
+  "touched": "2024-12-30T05:41:26Z",
+  "length": 2321,
+  "lastrevid": 32634,
+  "revision": {
+    "revid": 32634,
+    "parentid": 27074,
+    "timestamp": "2024-12-30T05:41:26Z",
+    "sha1": "3f1bfa0b5214b430d1863196012c5b4ac5df1941",
+    "size": 2321
+  },
+  "categories": [
+    "Daily Pack Relics",
+    "HP Boost",
+    "Mecha Minion ATK Boost",
+    "Minion ATK Boost",
+    "Minion Skin Boost",
+    "Missing Info",
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Protomon Boost",
+    "Relics",
+    "Surf Clam Biozilla Skill",
+    "TECH Relics",
+    "Unavailable Content"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Gate",
+        "available": "0",
+        "rank": "SSS",
+        "affct": "TECH",
+        "source": "Daily Pack Relic #46",
+        "fame": "70",
+        "art": "51",
+        "fth": "66",
+        "civ": "67",
+        "tech": "108",
+        "ss1": "Mecha Minion ATK +3%<br>Protomons assist Snail in battle, and deal extra DMG +240<br>Per TECH Bionic Part Extracted, Snail HP +150<br>TECH Bionic Part Extracted: 10/10",
+        "ss2": "Mecha Minion ATK +4%<br>Protomons assist Snail in battle, and deal extra DMG +320<br>Per TECH Bionic Part Extracted, Snail HP +200<br>TECH Bionic Part Extracted: 10/10",
+        "ss3": "Mecha Minion ATK +5%<br>Protomons assist Snail in battle, and deal extra DMG +400<br>Per TECH Bionic Part Extracted, Snail HP +250<br>TECH Bionic Part Extracted: 10/10",
+        "ss4": "Mecha Minion ATK +7%<br>Protomons assist Snail in battle, and deal extra DMG +560<br>Per TECH Bionic Part Extracted, Snail HP +350<br>TECH Bionic Part Extracted: 10/10",
+        "ss5": "Mecha Minion ATK +9%<br>Protomons assist Snail in battle, and deal extra DMG +720<br>Per TECH Bionic Part Extracted, Snail HP +450<br>TECH Bionic Part Extracted: 10/10",
+        "ss6": "Mecha Minion ATK +12%<br>Protomons assist Snail in battle, and deal extra DMG +960<br>Per TECH Bionic Part Extracted, Snail HP +600<br>TECH Bionic Part Extracted: 10/10",
+        "ss7": "Mecha Minion ATK +12%<br>Protomons assist Snail in battle, and deal extra DMG +960<br>Per TECH Bionic Part Extracted, Snail HP +600<br>TECH Bionic Part Extracted: 10/10<br>Protomons assist Snail in battle, and deal extra DMG +800 (Awakened)",
+        "skill1": "[[File:Surfclam skill III.png|50px]] Place in Surf Clam Biozilla: In Species War, Troop Earth DMG +60",
+        "skill2": "[[File:Surfclam skill III.png|50px]] Place in Surf Clam Biozilla: In Species War, Troop DMG REDUC +6%",
+        "skill3": "[[File:Surfclam skill III.png|50px]] Place in Surf Clam Biozilla: In Species War, All Minion RUSH +9%",
+        "mirage": "{{Mirage|name=|reward=\n|3name=|3rec=|3atk=|3def=|3hp=|3weak=\n|4name=|4rec=|4atk=|4def=|4hp=|4weak=\n|5name=|5rec=|5atk=|5def=|5hp=|5weak=\n|6name=|6rec=|6atk=|6def=|6hp=|6weak=\n|Arec=|Aatk=|Adef=|Ahp=|Aweak=\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Gate.wiki",
+  "markdown_path": "markdown/The_Gate.md"
+}

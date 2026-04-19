@@ -1,0 +1,33 @@
+{
+  "pageid": 9273,
+  "ns": 0,
+  "title": "Mother Chest+Ymir's Box",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mother_Chest%2BYmir%27s_Box",
+  "touched": "2025-06-20T00:16:48Z",
+  "length": 186,
+  "lastrevid": 36118,
+  "revision": {
+    "revid": 36118,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:16:48Z",
+    "sha1": "94c057eeb050281963b0125a252dcb6b4e6857af",
+    "size": 186
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "720",
+        "relics": "Mother Chest,Ymir's Box",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Epic Protodex Stars, Snail RUSH +21;Epic Protodex Stars: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mother_Chest_Ymir_s_Box.wiki",
+  "markdown_path": "markdown/Mother_Chest_Ymir_s_Box.md"
+}

@@ -1,0 +1,50 @@
+{
+  "pageid": 4745,
+  "ns": 0,
+  "title": "Tom Sawyer Adventures",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tom_Sawyer_Adventures",
+  "touched": "2025-06-16T23:16:43Z",
+  "length": 1157,
+  "lastrevid": 35114,
+  "revision": {
+    "revid": 35114,
+    "parentid": 23861,
+    "timestamp": "2025-06-16T23:16:43Z",
+    "sha1": "1cabf23cc5b8a271f061f470c0a1b4f6fd26b169",
+    "size": 1157
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Tom Sawyer Adventures",
+        "class_id": "22064",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "05-22",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On May 22, 1876 AD, Mark Twain published the famous children's novel Tom Sawyer Adventures.<br>Tom Sawyer Adventures is a beloved children's book written by Mark Twain that follows the exciting journey of young Tommy and Huck. Twain weaves in references to his own childhood in Missouri to create a vivid and authentic setting. While playing in the cemetery, Tommy and Huck witness a murder and flee to a deserted island in fear. After much internal conflict, they summon the courage to testify again …",
+        "fame": "32",
+        "art": "27",
+        "fth": "26",
+        "civ": "45",
+        "tech": "24",
+        "ss1": "Mutant Minion RUSH +1%",
+        "ss2": "Mutant Minion RUSH +2%",
+        "ss3": "Mutant Minion RUSH +3%",
+        "ss4": "Mutant Minion RUSH +5%",
+        "ss7": "Mutant Minion RUSH +5%<br>Mutant Minion RUSH +5% (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: This Relic's CIV +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tom_Sawyer_Adventures.wiki",
+  "markdown_path": "markdown/Tom_Sawyer_Adventures.md"
+}

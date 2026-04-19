@@ -1,0 +1,23 @@
+{
+  "pageid": 371,
+  "ns": 0,
+  "title": "Domain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Domain",
+  "touched": "2025-10-20T06:45:19Z",
+  "length": 166,
+  "lastrevid": 41557,
+  "revision": {
+    "revid": 41557,
+    "parentid": 25576,
+    "timestamp": "2025-10-20T06:45:19Z",
+    "sha1": "867c7fc1e326ee200fc7e5b339091aa7b7e7e26d",
+    "size": 166
+  },
+  "categories": [
+    "Domains"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Domain.wiki",
+  "markdown_path": "markdown/Domain.md"
+}

@@ -1,0 +1,51 @@
+{
+  "pageid": 8489,
+  "ns": 0,
+  "title": "Flywheel Battery",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Flywheel_Battery",
+  "touched": "2025-06-20T00:14:39Z",
+  "length": 1300,
+  "lastrevid": 36032,
+  "revision": {
+    "revid": 36032,
+    "parentid": 34474,
+    "timestamp": "2025-06-20T00:14:39Z",
+    "sha1": "d4c975e588d0e69fb5038315ad610cd306427830",
+    "size": 1300
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Pages with broken file links",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Flywheel Battery",
+        "class_id": "22494",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "06-19",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Jun 19, 1996 AD, the concept of the flywheel battery was first proposed.<br>A flywheel battery is different from a traditional chemical battery, and it utilizes the conversion between kinetic energy and electrical energy. The flywheel battery has an electric motor that rotates the flywheel at high speed under the driving of an external power source during charging. During discharge, the motor operates in the state of a generator and outputs electrical energy to the outside under the drive of  …",
+        "fame": "28",
+        "art": "20",
+        "fth": "35",
+        "civ": "26",
+        "tech": "45",
+        "ss1": "Per 5 Mythic Protodex Stars, Snail HP +30<br>Mythic Protodex Stars: 100/100",
+        "ss2": "Per 5 Mythic Protodex Stars, Snail HP +60<br>Mythic Protodex Stars: 100/100",
+        "ss3": "Per 5 Mythic Protodex Stars, Snail HP +90<br>Mythic Protodex Stars: 100/100",
+        "ss4": "Per 5 Mythic Protodex Stars, Snail HP +150<br>Mythic Protodex Stars: 100/100",
+        "ss7": "Per 5 Mythic Protodex Stars, Snail HP +150<br>Mythic Protodex Stars: 100/100<br>Snail HP +500 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, 2x Green Reagent Drops +1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Flywheel_Battery.wiki",
+  "markdown_path": "markdown/Flywheel_Battery.md"
+}

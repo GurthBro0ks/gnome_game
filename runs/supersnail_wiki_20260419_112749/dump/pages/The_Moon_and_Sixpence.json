@@ -1,0 +1,50 @@
+{
+  "pageid": 3181,
+  "ns": 0,
+  "title": "The Moon and Sixpence",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Moon_and_Sixpence",
+  "touched": "2025-06-16T23:14:42Z",
+  "length": 1109,
+  "lastrevid": 35054,
+  "revision": {
+    "revid": 35054,
+    "parentid": 24424,
+    "timestamp": "2025-06-16T23:14:42Z",
+    "sha1": "250ad1bf7452dd44d2b67072e4807ef1da65bc45",
+    "size": 1109
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Moon and Sixpence",
+        "class_id": "22079",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "02-06",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Feb 6, 1919 AD, Maugham completed and published The Moon and Sixpence.<br>The Moon and Sixpence, a novel by British author Maugham, centers around the life of a post-impressionist painter in France named Strickland. After abandoning his family and career as a stockbroker, Strickland embarked on a journey to pursue his passion for art. He spent the remainder of his life on the island of Tahiti in the South Pacific. The title of the book, The Moon and Sixpence, represents the choice between the …",
+        "fame": "33",
+        "art": "30",
+        "fth": "24",
+        "civ": "47",
+        "tech": "20",
+        "ss1": "Dragon Minion RUSH +1%",
+        "ss2": "Dragon Minion RUSH +2%",
+        "ss3": "Dragon Minion RUSH +3%",
+        "ss4": "Dragon Minion RUSH +5%",
+        "ss7": "Dragon Minion RUSH +5%<br>Dragon Minion RUSH +5% (Awakened)",
+        "skill1": "[[File:Goldfish skill I.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Earth RES +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Moon_and_Sixpence.wiki",
+  "markdown_path": "markdown/The_Moon_and_Sixpence.md"
+}

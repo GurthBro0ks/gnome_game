@@ -1,0 +1,65 @@
+{
+  "pageid": 4004,
+  "ns": 0,
+  "title": "Creation of Adam",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Creation_of_Adam",
+  "touched": "2024-09-27T18:47:05Z",
+  "length": 3292,
+  "lastrevid": 29428,
+  "revision": {
+    "revid": 29428,
+    "parentid": 22369,
+    "timestamp": "2024-09-27T18:47:05Z",
+    "sha1": "bab6e92daaf319c4eeec519356c72c892a0440ef",
+    "size": 3292
+  },
+  "categories": [
+    "ATK Boost",
+    "Angel Cell Drop Boost",
+    "Angel Minion ATK Boost",
+    "Angel Minion RUSH Boost",
+    "CIV Boost",
+    "CIV Relics",
+    "Frost Drake Boost",
+    "Fungus Farm Output Boost",
+    "Fungus Farm Skill",
+    "Minion ATK Boost",
+    "Missing Info",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Relic Boost",
+    "Relics",
+    "Wonder Fungus Output"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Creation of Adam",
+        "rank": "SSS",
+        "affct": "CIV",
+        "birthday": "03-18",
+        "source": "Lottery Machine (0.09%), Wishing (0.08%), Grandmaster Scrolls (0.77%)<br>Lottery Event (11/3-11/9)",
+        "description": "On Mar 18, 1512 AD, Michelangelo finished the last stroke of the Creation of Adam in the Sistine Chapel.<br>The Creation of Adam is the fourth painting on the Sistine Chapel, depicting the scene when God created Adam. On the left, Adam is lying on a hillside, stretching out his left arm. His finger almost touches the finger of God on the right. Eve, not yet created, peeks under God's left arm, and looks towards Adam on Earth.<br>[Basic Info]<br>Type: Fresco. Specification: 280 cmX570 cm.<br>Coll …",
+        "fame": "70",
+        "art": "53",
+        "fth": "67",
+        "civ": "109",
+        "tech": "63",
+        "ss1": "When in Angel Form:<br>>Gain +3% Angel Cells in explorations<br>Per 60 Angel Minions in battle:<br>>Troop ATK +9<br>Per 60 Angel Minions in battle:<br>>Troop RUSH +9",
+        "ss2": "When in Angel Form:<br>>Gain +4% Angel Cells in explorations<br>Per 60 Angel Minions in battle:<br>>Troop ATK +18<br>Per 60 Angel Minions in battle:<br>>Troop RUSH +18",
+        "ss3": "When in Angel Form:<br>>Gain +5% Angel Cells in explorations<br>Per 60 Angel Minions in battle:<br>>Troop ATK +27<br>Per 60 Angel Minions in battle:<br>>Troop RUSH +27",
+        "ss4": "When in Angel Form:<br>>Gain +7% Angel Cells in explorations<br>Per 60 Angel Minions in battle:<br>>Troop ATK +45<br>Per 60 Angel Minions in battle:<br>>Troop RUSH +45",
+        "ss5": "When in Angel Form:<br>>Gain +9% Angel Cells in explorations<br>Per 60 Angel Minions in battle:<br>>Troop ATK +63<br>Per 60 Angel Minions in battle:<br>>Troop RUSH +63",
+        "ss6": "When in Angel Form:<br>>Gain +12% Angel Cells in explorations<br>Per 60 Angel Minions in battle:<br>>Troop ATK +90<br>Per 60 Angel Minions in battle:<br>>Troop RUSH +90",
+        "ss7": "When in Angel Form:<br>>Gain +12% Angel Cells in explorations<br>Per 60 Angel Minions in battle:<br>>Troop ATK +90<br>Per 60 Angel Minions in battle:<br>>Troop RUSH +90<br>Per 60 Angel Minions in battle:<br>>Troop ATK +90 (Awakened)",
+        "skill1": "[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: Max Cap +30%",
+        "skill2": "[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: Grow Wonder Fungus by +30%",
+        "skill3": "[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: This Relic's CIV +15"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Creation_of_Adam.wiki",
+  "markdown_path": "markdown/Creation_of_Adam.md"
+}

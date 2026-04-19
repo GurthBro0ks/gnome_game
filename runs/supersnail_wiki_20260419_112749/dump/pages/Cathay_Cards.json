@@ -1,0 +1,50 @@
+{
+  "pageid": 2423,
+  "ns": 0,
+  "title": "Cathay Cards",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cathay_Cards",
+  "touched": "2025-10-29T00:06:31Z",
+  "length": 5272,
+  "lastrevid": 41697,
+  "revision": {
+    "revid": 41697,
+    "parentid": 41333,
+    "timestamp": "2025-10-29T00:06:31Z",
+    "sha1": "25aa9c60386d5d17b4c38b31a7bb8cf6f3c75caf",
+    "size": 5272
+  },
+  "categories": [
+    "Cathay",
+    "Locations",
+    "Realm"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "white",
+        "2": "Realm",
+        "3": "Podao"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "white",
+        "2": "Realm",
+        "3": "Iron Helmet"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "Realm",
+        "3": "Rainbow Tassel"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cathay_Cards.wiki",
+  "markdown_path": "markdown/Cathay_Cards.md"
+}

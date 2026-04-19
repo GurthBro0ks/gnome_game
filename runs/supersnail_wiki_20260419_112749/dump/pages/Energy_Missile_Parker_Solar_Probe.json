@@ -1,0 +1,35 @@
+{
+  "pageid": 3962,
+  "ns": 0,
+  "title": "Energy Missile+Parker Solar Probe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Energy_Missile%2BParker_Solar_Probe",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 209,
+  "lastrevid": 19338,
+  "revision": {
+    "revid": 19338,
+    "parentid": 19337,
+    "timestamp": "2023-11-19T14:54:51Z",
+    "sha1": "982c910466d37ab5a328ca2b2600afb90d9ec251",
+    "size": 209
+  },
+  "categories": [
+    "Minion",
+    "Minion ATK Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Energy Missile,Parker Solar Probe",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 60 Minions in battle: Troop ATK +63"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Energy_Missile_Parker_Solar_Probe.wiki",
+  "markdown_path": "markdown/Energy_Missile_Parker_Solar_Probe.md"
+}

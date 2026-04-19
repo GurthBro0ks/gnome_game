@@ -1,0 +1,47 @@
+{
+  "pageid": 10274,
+  "ns": 0,
+  "title": "Dimensional Wanted Order S-8",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dimensional_Wanted_Order_S-8",
+  "touched": "2025-09-21T20:53:20Z",
+  "length": 1063,
+  "lastrevid": 37985,
+  "revision": {
+    "revid": 37985,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:45:19Z",
+    "sha1": "8e5603bb748d59ec580905c232a1ffc1f7112197",
+    "size": 1063
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dimensional Wanted Order S-8",
+        "class_id": "20869",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The Demon God's apostles occupy space-time gaps, Earth's will issues this wanted order to encourage travelers to go all out to eliminate the apostles! -- Earth's Will (Seal)",
+        "fame": "13",
+        "art": "14",
+        "fth": "16",
+        "civ": "17",
+        "tech": "30",
+        "ss1": "Per 2 Time II Apostles dominated, Snail ATK +1<br>Per 2 Time II Apostles dominated, Snail RUSH +1<br>Time Rift II Apostles dominated:80/80",
+        "ss2": "Per 2 Time II Apostles dominated, Snail ATK +2<br>Per 2 Time II Apostles dominated, Snail RUSH +2<br>Time Rift II Apostles dominated:80/80",
+        "ss3": "Per 2 Time II Apostles dominated, Snail ATK +3<br>Per 2 Time II Apostles dominated, Snail RUSH +3<br>Time Rift II Apostles dominated:80/80",
+        "ss4": "Per 2 Time II Apostles dominated, Snail ATK +3<br>Per 2 Time II Apostles dominated, Snail RUSH +3<br>Time Rift II Apostles dominated:80/80",
+        "ss7": "Per 2 Time II Apostles dominated, Snail ATK +3<br>Per 2 Time II Apostles dominated, Snail RUSH +3<br>Time Rift II Apostles dominated:80/80<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dimensional_Wanted_Order_S-8.wiki",
+  "markdown_path": "markdown/Dimensional_Wanted_Order_S-8.md"
+}

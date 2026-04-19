@@ -1,0 +1,33 @@
+{
+  "pageid": 4904,
+  "ns": 0,
+  "title": "Book of Shadows+Giant Book",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Book_of_Shadows%2BGiant_Book",
+  "touched": "2025-06-20T00:03:13Z",
+  "length": 140,
+  "lastrevid": 35812,
+  "revision": {
+    "revid": 35812,
+    "parentid": 18355,
+    "timestamp": "2025-06-20T00:03:13Z",
+    "sha1": "c92d4c13ab7b3194f0a1e38054ae29accc65103b",
+    "size": 140
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "399",
+        "relics": "Book of Shadows,Giant Book",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Demon Minion RUSH +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Book_of_Shadows_Giant_Book.wiki",
+  "markdown_path": "markdown/Book_of_Shadows_Giant_Book.md"
+}

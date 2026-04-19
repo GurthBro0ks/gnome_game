@@ -1,0 +1,48 @@
+{
+  "pageid": 624,
+  "ns": 0,
+  "title": "Inhibition Device",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Inhibition_Device",
+  "touched": "2025-11-30T17:20:15Z",
+  "length": 729,
+  "lastrevid": 41811,
+  "revision": {
+    "revid": 41811,
+    "parentid": 37492,
+    "timestamp": "2025-11-30T17:20:15Z",
+    "sha1": "c4555eb1a66e02848ec8dc1a2f26228eb60f3435",
+    "size": 729
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Inhibition Device",
+        "class_id": "20349",
+        "rank": "Green",
+        "affct": "TECH",
+        "source": "Clear tile 89 in [[Cathay Domain]]",
+        "description": "This suppression device is meant to prevent the central system from spiraling out of control. It can diminish electromagnetic interference, hacking, and other intrusions, in addition to reducing the central system's operational efficiency and keeping energy input within a safe range, and restraining the input energy within the safety threshold!",
+        "fame": "13",
+        "art": "17",
+        "fth": "16",
+        "civ": "18",
+        "tech": "26",
+        "ss1": "Against Dragoness Hub, DMG +300%",
+        "ss2": "Against Dragoness Hub, DMG +400%",
+        "ss3": "Against Dragoness Hub, DMG +500%",
+        "ss4": "Against Dragoness Hub, DMG +500%",
+        "ss7": "Against Dragoness Hub, DMG +500%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Inhibition_Device.wiki",
+  "markdown_path": "markdown/Inhibition_Device.md"
+}

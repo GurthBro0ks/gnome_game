@@ -1,0 +1,35 @@
+{
+  "pageid": 7953,
+  "ns": 0,
+  "title": "The Great Learning+The Queen's Necklace",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Great_Learning%2BThe_Queen%27s_Necklace",
+  "touched": "2025-02-22T17:25:54Z",
+  "length": 207,
+  "lastrevid": 33404,
+  "revision": {
+    "revid": 33404,
+    "parentid": 0,
+    "timestamp": "2025-02-21T20:07:52Z",
+    "sha1": "30a79166a6136e7c3c339c7af395a1901e3bb700",
+    "size": 207
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Great Learning,The Queen's Necklace",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Great_Learning_The_Queen_s_Necklace.wiki",
+  "markdown_path": "markdown/The_Great_Learning_The_Queen_s_Necklace.md"
+}

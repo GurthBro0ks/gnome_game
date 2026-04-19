@@ -1,0 +1,33 @@
+{
+  "pageid": 8890,
+  "ns": 0,
+  "title": "Monroe's Pencil+Charlotte's Web+The Walking Man+Atomic Spectroscopy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Monroe%27s_Pencil%2BCharlotte%27s_Web%2BThe_Walking_Man%2BAtomic_Spectroscopy",
+  "touched": "2025-06-16T23:09:41Z",
+  "length": 195,
+  "lastrevid": 34915,
+  "revision": {
+    "revid": 34915,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:09:41Z",
+    "sha1": "e88371cf1867ae66e402308c8b27fff2b7023f1d",
+    "size": 195
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "365",
+        "relics": "Monroe's Pencil,Charlotte's Web,The Walking Man,Atomic Spectroscopy",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Military Merits gives +140 Star Coins"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Monroe_s_Pencil_Charlotte_s_Web_The_Walking_Man_Atomic_Spectroscopy.wiki",
+  "markdown_path": "markdown/Monroe_s_Pencil_Charlotte_s_Web_The_Walking_Man_Atomic_Spectroscopy.md"
+}

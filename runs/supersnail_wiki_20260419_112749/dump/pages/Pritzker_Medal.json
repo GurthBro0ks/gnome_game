@@ -1,0 +1,47 @@
+{
+  "pageid": 10291,
+  "ns": 0,
+  "title": "Pritzker Medal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pritzker_Medal",
+  "touched": "2025-08-11T10:45:51Z",
+  "length": 944,
+  "lastrevid": 38008,
+  "revision": {
+    "revid": 38008,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:45:51Z",
+    "sha1": "c0b9c1a839a89d73a86442b7517c08780f67aa0d",
+    "size": 944
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Pritzker Medal",
+        "class_id": "20408",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Pritzker Medal is known as the Nobel Prize for architecture. About 500 architects are nominated every year, but only one winner is awarded for outstanding talent, imagination, and responsibility.",
+        "fame": "27",
+        "art": "17",
+        "fth": "13",
+        "civ": "15",
+        "tech": "18",
+        "ss1": "Relic Stars required to upgrade Buildings -5%<br>Per 5 Fungus Farm LVLs, Snail ATK +6<br>Fungus Farm LVL: 50/50",
+        "ss2": "Relic Stars required to upgrade Buildings -10%<br>Per 5 Fungus Farm LVLs, Snail ATK +12<br>Fungus Farm LVL: 50/50",
+        "ss3": "Relic Stars required to upgrade Buildings -15%<br>Per 5 Fungus Farm LVLs, Snail ATK +18<br>Fungus Farm LVL: 50/50",
+        "ss4": "Relic Stars required to upgrade Buildings -15%<br>Per 5 Fungus Farm LVLs, Snail ATK +18<br>Fungus Farm LVL: 50/50",
+        "ss7": "Relic Stars required to upgrade Buildings -15%<br>Per 5 Fungus Farm LVLs, Snail ATK +18<br>Fungus Farm LVL: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pritzker_Medal.wiki",
+  "markdown_path": "markdown/Pritzker_Medal.md"
+}

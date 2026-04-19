@@ -1,0 +1,58 @@
+{
+  "pageid": 24,
+  "ns": 0,
+  "title": "Hawking's Wheelchair",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hawking%27s_Wheelchair",
+  "touched": "2024-09-06T09:58:23Z",
+  "length": 1822,
+  "lastrevid": 26249,
+  "revision": {
+    "revid": 26249,
+    "parentid": 18234,
+    "timestamp": "2024-05-07T14:35:18Z",
+    "sha1": "b4fe4eb480a2ae7aa6d1f720b9c6aa7b5831938f",
+    "size": 1822
+  },
+  "categories": [
+    "Ancient Wood Boost",
+    "Angel Cell Drop Boost",
+    "FAME Boost",
+    "FAME Relics",
+    "Lumber Camp Skill",
+    "Mecha Gene Cost Reduction",
+    "Mecha Gene Speedup Boost",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Hawking's Wheelchair",
+        "rank": "AAA",
+        "affct": "FAME",
+        "birthday": "01-18",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.35%)",
+        "description": "On Jan 18, 2019, Hawking's third wheelchair was sold for 6 million dollars.\n\nAt first, Hawking's wheelchair was only used for transportation, but as his condition deteriorated, the wheelchair was updated to meet his needs. This wheelchair became the only tool of communication for Hawking. It can read his movements when he taps with his three fingers, twitches the facial muscles, or moves the eyeballs slightly. Hawking's wheelchair has undergone many upgrades and everything is sponsored by a tech …",
+        "fame": "74",
+        "art": "42",
+        "fth": "43",
+        "civ": "36",
+        "tech": "48",
+        "ss1": "Mecha Gene Research SPD +1.8%<br>Mecha Gene Research Cells consumed -1.8%",
+        "ss2": "Mecha Gene Research SPD +2.4%<br>Mecha Gene Research Cells consumed -2.4%",
+        "ss3": "Mecha Gene Research SPD +3%<br>Mecha Gene Research Cells consumed -3%",
+        "ss4": "Mecha Gene Research SPD +4.2%<br>Mecha Gene Research Cells consumed -4.2%",
+        "ss5": "Mecha Gene Research SPD +5.4%<br>Mecha Gene Research Cells consumed -5.4%",
+        "ss7": "Mecha Gene Research SPD +5.4%<br>Mecha Gene Research Cells consumed -5.4%<br>Mecha Gene Research SPD +4.2% (Awakened)",
+        "skill1": "[[File:Lumbercamp skill II.png|50px]] Place in Lumber Camp: Find Ancient Wood by +15%",
+        "skill2": "[[File:Lumbercamp skill II.png|50px]] Place in Lumber Camp: This Relic's FAME +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hawking_s_Wheelchair.wiki",
+  "markdown_path": "markdown/Hawking_s_Wheelchair.md"
+}

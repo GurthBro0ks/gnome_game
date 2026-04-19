@@ -1,0 +1,34 @@
+{
+  "pageid": 3622,
+  "ns": 0,
+  "title": "Nuclear Football+ARPAnet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nuclear_Football%2BARPAnet",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 180,
+  "lastrevid": 13204,
+  "revision": {
+    "revid": 13204,
+    "parentid": 0,
+    "timestamp": "2023-09-22T16:04:05Z",
+    "sha1": "e9f238c7785ac3be2b35844941951475a816a9cb",
+    "size": 180
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Nuclear Football,ARPAnet",
+        "rank": "purple",
+        "amount": "2",
+        "category": "home",
+        "description": "Lumber Camp produces Ancient Wood by +12%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nuclear_Football_ARPAnet.wiki",
+  "markdown_path": "markdown/Nuclear_Football_ARPAnet.md"
+}

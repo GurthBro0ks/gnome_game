@@ -1,0 +1,33 @@
+{
+  "pageid": 5263,
+  "ns": 0,
+  "title": "L'Art de la Guerre+Bronze Longhu Cup+Ludovisi Ares",
+  "fullurl": "https://supersnail.wiki.gg/wiki/L%27Art_de_la_Guerre%2BBronze_Longhu_Cup%2BLudovisi_Ares",
+  "touched": "2025-06-20T00:00:58Z",
+  "length": 207,
+  "lastrevid": 35769,
+  "revision": {
+    "revid": 35769,
+    "parentid": 32317,
+    "timestamp": "2025-06-20T00:00:58Z",
+    "sha1": "dacdf41e720d989c281968fac3105f4271828255",
+    "size": 207
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "537",
+        "relics": "L'Art de la Guerre,Bronze Longhu Cup,Ludovisi Ares",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "In the Demon God Rocket Cabin: Demon God Matrix Base Effect +64%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/L_Art_de_la_Guerre_Bronze_Longhu_Cup_Ludovisi_Ares.wiki",
+  "markdown_path": "markdown/L_Art_de_la_Guerre_Bronze_Longhu_Cup_Ludovisi_Ares.md"
+}

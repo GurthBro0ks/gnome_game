@@ -1,0 +1,55 @@
+{
+  "pageid": 2266,
+  "ns": 0,
+  "title": "Penny Black",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Penny_Black",
+  "touched": "2024-09-06T09:57:37Z",
+  "length": 1505,
+  "lastrevid": 22452,
+  "revision": {
+    "revid": 22452,
+    "parentid": 19159,
+    "timestamp": "2024-02-21T03:17:12Z",
+    "sha1": "f20ede15fe6bd17d11c17860ff0e9c3bddfe4ffb",
+    "size": 1505
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue CIV Relics",
+    "Blue Relics",
+    "Britland Exploration Boost",
+    "Britland Museum Boost",
+    "CIV Relics",
+    "Enhanced by Lottery Draws",
+    "Exploration Card Drop Boost",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Penny Black",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "07-09",
+        "source": "Lottery Machine (0.03%), Wishing (0.82%)",
+        "description": "On Jul 9, 1839, Sir Rowland Hill designed the world's first stamp. \n\nThe Penny Black features a design that was submitted to the English Parliament for postage stamps, and uses the profile of Queen Victoria when she ascended the throne as the image. It was then engraved by the Heath brothers and printed by Perkins Bacon. After the stamps were printed, other varieties such as the Penny Blue were also issues. The Penny Black has greatly developed the postage services and marked the era of modern p …",
+        "fame": "23",
+        "art": "28",
+        "fth": "28",
+        "civ": "47",
+        "tech": "28",
+        "ss1": "In explorations, 2x Blue Card Drops +0.4%",
+        "ss2": "In explorations, 2x Blue Card Drops +0.8%",
+        "ss3": "In explorations, 2x Blue Card Drops +1.2%",
+        "ss4": "In explorations, 2x Blue Card Drops +2%",
+        "ss7": "In explorations, 2x Blue Card Drops +2%<br>In explorations, 2x Blue Card Drops +2% (Awakened)",
+        "skill1": "[[File:Britland skill I.png|50px]] Place in Britland Museum: In Britland, Snail RUSH +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Penny_Black.wiki",
+  "markdown_path": "markdown/Penny_Black.md"
+}

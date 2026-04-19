@@ -1,0 +1,47 @@
+{
+  "pageid": 10219,
+  "ns": 0,
+  "title": "​Yamata Serpant Scale",
+  "fullurl": "https://supersnail.wiki.gg/wiki/%E2%80%8BYamata_Serpant_Scale",
+  "touched": "2025-08-11T10:43:21Z",
+  "length": 614,
+  "lastrevid": 37899,
+  "revision": {
+    "revid": 37899,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:43:21Z",
+    "sha1": "1cfbd3300dd51c15f14564a3173200ed0e0e8200",
+    "size": 614
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "​Yamata Serpant Scale",
+        "class_id": "20278",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "On the inverted scales under the ​Yamata Serpant, or Yamata no Orochi, you can sense a divine light from a faint sound of wind and thunder. The essence of its whole body is concentrated on the spot. Even close ones of the great serpent may fall ill if they accidentally touch the scale.",
+        "fame": "14",
+        "art": "16",
+        "fth": "29",
+        "civ": "15",
+        "tech": "16",
+        "ss1": "Orochi-chan HARD Stats +1%",
+        "ss2": "Orochi-chan HARD Stats +2%",
+        "ss3": "Orochi-chan HARD Stats +3%",
+        "ss4": "Orochi-chan HARD Stats +3%",
+        "ss7": "Orochi-chan HARD Stats +3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Yamata_Serpant_Scale.wiki",
+  "markdown_path": "markdown/Yamata_Serpant_Scale.md"
+}

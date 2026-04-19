@@ -1,0 +1,33 @@
+{
+  "pageid": 10692,
+  "ns": 0,
+  "title": "Isabella I Portrait+Washington Portrait+Alfred Statue+Catherine II Portrait+Act of Supremacy+Gravitational Lensing",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Isabella_I_Portrait%2BWashington_Portrait%2BAlfred_Statue%2BCatherine_II_Portrait%2BAct_of_Supremacy%2BGravitational_Lensing",
+  "touched": "2025-08-11T11:18:57Z",
+  "length": 234,
+  "lastrevid": 38568,
+  "revision": {
+    "revid": 38568,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:58:46Z",
+    "sha1": "0aa91bbc177f18031e6a413ee7c0a2ed23903348",
+    "size": 234
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "831",
+        "relics": "Isabella I Portrait,Washington Portrait,Alfred Statue,Catherine II Portrait,Act of Supremacy,Gravitational Lensing",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "All minion skins RUSH +120%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Isabella_I_Portrait_Washington_Portrait_Alfred_Statue_Catherine_II_Portrait_Act_of_Supremacy_Gravitational_Lensing.wiki",
+  "markdown_path": "markdown/Isabella_I_Portrait_Washington_Portrait_Alfred_Statue_Catherine_II_Portrait_Act_of_Supremacy_Gravitational_Lensing.md"
+}

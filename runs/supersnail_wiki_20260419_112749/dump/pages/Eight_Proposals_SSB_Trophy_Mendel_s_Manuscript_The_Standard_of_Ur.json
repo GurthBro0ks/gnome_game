@@ -1,0 +1,33 @@
+{
+  "pageid": 8894,
+  "ns": 0,
+  "title": "Eight Proposals+SSB Trophy+Mendel's Manuscript+The Standard of Ur",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Eight_Proposals%2BSSB_Trophy%2BMendel%27s_Manuscript%2BThe_Standard_of_Ur",
+  "touched": "2025-08-11T10:51:41Z",
+  "length": 232,
+  "lastrevid": 35735,
+  "revision": {
+    "revid": 35735,
+    "parentid": 34925,
+    "timestamp": "2025-06-19T23:59:58Z",
+    "sha1": "d2ffb21525eff20380ae923cad6fffd1170f0a94",
+    "size": 232
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "552",
+        "relics": "Eight Proposals,SSB Trophy,Mendel's Manuscript,The Standard of Ur",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 20 Research Manuals used, Snail DEF +18;Research Manuals Used: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Eight_Proposals_SSB_Trophy_Mendel_s_Manuscript_The_Standard_of_Ur.wiki",
+  "markdown_path": "markdown/Eight_Proposals_SSB_Trophy_Mendel_s_Manuscript_The_Standard_of_Ur.md"
+}

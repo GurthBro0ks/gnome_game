@@ -1,0 +1,24 @@
+{
+  "pageid": 9002,
+  "ns": 0,
+  "title": "Ariel's Tail",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ariel%27s_Tail",
+  "touched": "2025-06-22T10:52:25Z",
+  "length": 500,
+  "lastrevid": 36946,
+  "revision": {
+    "revid": 36946,
+    "parentid": 35305,
+    "timestamp": "2025-06-22T10:52:25Z",
+    "sha1": "4cc8160e089dab7e83c6c4e76898c1629c02f3e1",
+    "size": 500
+  },
+  "categories": [
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Ariel_s_Tail.wiki",
+  "markdown_path": "markdown/Ariel_s_Tail.md"
+}

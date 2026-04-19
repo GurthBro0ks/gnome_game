@@ -1,0 +1,35 @@
+{
+  "pageid": 4918,
+  "ns": 0,
+  "title": "Charles' Gold Ticket+Twin Lions Lantern+Magdeburg Hemispheres+Nomad Flute Songs",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Charles%27_Gold_Ticket%2BTwin_Lions_Lantern%2BMagdeburg_Hemispheres%2BNomad_Flute_Songs",
+  "touched": "2024-12-02T03:00:51Z",
+  "length": 256,
+  "lastrevid": 18357,
+  "revision": {
+    "revid": 18357,
+    "parentid": 17556,
+    "timestamp": "2023-11-13T21:23:02Z",
+    "sha1": "232e97f5befce8c2deea80cba1a3b16b85804288",
+    "size": 256
+  },
+  "categories": [
+    "Dragon Minion ATK Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Charles' Gold Ticket,Twin Lions Lantern,Magdeberg Hemispheres,Nomad Flute Songs",
+        "rank": "purple",
+        "amount": "4",
+        "category": "minion",
+        "description": "Dragon Minion ATK +8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Charles_Gold_Ticket_Twin_Lions_Lantern_Magdeburg_Hemispheres_Nomad_Flute_Songs.wiki",
+  "markdown_path": "markdown/Charles_Gold_Ticket_Twin_Lions_Lantern_Magdeburg_Hemispheres_Nomad_Flute_Songs.md"
+}

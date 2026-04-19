@@ -1,0 +1,33 @@
+{
+  "pageid": 4967,
+  "ns": 0,
+  "title": "View of Le Gras+Le Verrier's Scripts+Theogony",
+  "fullurl": "https://supersnail.wiki.gg/wiki/View_of_Le_Gras%2BLe_Verrier%27s_Scripts%2BTheogony",
+  "touched": "2025-06-19T23:54:38Z",
+  "length": 216,
+  "lastrevid": 35686,
+  "revision": {
+    "revid": 35686,
+    "parentid": 18540,
+    "timestamp": "2025-06-19T23:54:38Z",
+    "sha1": "619757837adab287364e36391f2b2afe1cb1e87b",
+    "size": 216
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "432",
+        "relics": "View of Le Gras,Le Verrier's Scripts,Theogony",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Per Super Memetic Chest opened: Snail DEF +7;50/50 Super Memetic Chests opened"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/View_of_Le_Gras_Le_Verrier_s_Scripts_Theogony.wiki",
+  "markdown_path": "markdown/View_of_Le_Gras_Le_Verrier_s_Scripts_Theogony.md"
+}

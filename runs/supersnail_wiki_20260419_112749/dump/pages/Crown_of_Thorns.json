@@ -1,0 +1,54 @@
+{
+  "pageid": 10981,
+  "ns": 0,
+  "title": "Crown of Thorns",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Crown_of_Thorns",
+  "touched": "2025-08-29T18:09:05Z",
+  "length": 2545,
+  "lastrevid": 39724,
+  "revision": {
+    "revid": 39724,
+    "parentid": 38965,
+    "timestamp": "2025-08-29T18:09:05Z",
+    "sha1": "8d6f5c2ba23be3deaedbc69d42a26d8d1130bbfd",
+    "size": 2545
+  },
+  "categories": [
+    "FAITH Relics",
+    "Orange FAITH Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Crown of Thorns",
+        "class_id": "22858",
+        "rank": "SSS",
+        "affct": "FAITH",
+        "description": "The Crown of Thorns witnessed Jesus's suffering and glory, it bears the faith and history of Christianity. Made from sharp thorns, it has the blood of Jesus on it. The Roman soldiers mocked and tormented Jesus with it, while the believers worshiped him with it. The Crown of Thorns holds various legends, with some claiming its ability to heal, ward off evil spirits, bless nations, and perform miracles.",
+        "fame": "66",
+        "art": "74",
+        "fth": "107",
+        "civ": "52",
+        "tech": "63",
+        "ss1": "Snail ATK +30<br>Per Tribal Chief defeated, Snail HP +30<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +24<br>Tribal Chiefs Defeated: 50/50",
+        "ss2": "Snail ATK +40<br>Per Tribal Chief defeated, Snail HP +40<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +32<br>Tribal Chiefs Defeated: 50/50",
+        "ss3": "Snail ATK +50<br>Per Tribal Chief defeated, Snail HP +50<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +40<br>Tribal Chiefs Defeated: 50/50",
+        "ss4": "Snail ATK +70<br>Per Tribal Chief defeated, Snail HP +70<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +56<br>Tribal Chiefs Defeated: 50/50",
+        "ss5": "Snail ATK +90<br>Per Tribal Chief defeated, Snail HP +90<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +72<br>Tribal Chiefs Defeated: 50/50",
+        "ss6": "Snail ATK +120<br>Per Tribal Chief defeated, Snail HP +120<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +96<br>Tribal Chiefs Defeated: 50/50",
+        "ss7": "Snail ATK +120<br>Per Tribal Chief defeated, Snail HP +120<br>Per Tribal Chief defeated, Priest-Snail Assistance DMG +96<br>Tribal Chiefs Defeated: 50/50<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +30%",
+        "skill2": "[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Cap +30%",
+        "skill3": "[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: This Relic's FTH +15",
+        "mirage": "{{Mirage|name=Legacy of the Sacred|reward={{RewardIconWithLink|Enlightenment Speedup, +28800|orange}}\n|3name=Ancient Bearer|3rec=294.84M|3atk=753422|3defense=427822|3hp=126618934|3weak=68000\n|4name=Medieval Bearer|4rec=374.94M|4atk=881927|4defense=499877|4hp=199279505|4weak=73126\n|5name=Enlightenment Bearer|5rec=492.83M|5atk=1078815|5defense=605936|5hp=369587462|5weak=80192\n|6name=Modern Bearer|6rec=651.44M|6atk=1436072|6defense=748177|6hp=601204223|6weak=88240\n|Arec=886.50M|Aatk=2166715|Adefens …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Crown_of_Thorns.wiki",
+  "markdown_path": "markdown/Crown_of_Thorns.md"
+}

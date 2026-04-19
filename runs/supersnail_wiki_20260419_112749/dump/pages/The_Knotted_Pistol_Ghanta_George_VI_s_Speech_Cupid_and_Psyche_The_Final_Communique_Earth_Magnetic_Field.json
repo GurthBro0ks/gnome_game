@@ -1,0 +1,35 @@
+{
+  "pageid": 4571,
+  "ns": 0,
+  "title": "The Knotted Pistol+Ghanta+George VI's Speech+Cupid and Psyche+The Final Communique+Earth Magnetic Field",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Knotted_Pistol%2BGhanta%2BGeorge_VI%27s_Speech%2BCupid_and_Psyche%2BThe_Final_Communique%2BEarth_Magnetic_Field",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 310,
+  "lastrevid": 18362,
+  "revision": {
+    "revid": 18362,
+    "parentid": 16702,
+    "timestamp": "2023-11-13T21:24:37Z",
+    "sha1": "01bc3175082aca850e670ab82f21a6ef1fd29f2a",
+    "size": 310
+  },
+  "categories": [
+    "Dragon Minion HARD Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Knotted Pistol,Ghanta,George VI's Speech,Cupid and Psyche,The Final Communique,Earth Magnetic Field",
+        "rank": "blue",
+        "amount": "6",
+        "category": "minion",
+        "description": "Per 10 Dragon Minions in battle: Troop HARD Stats +9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Knotted_Pistol_Ghanta_George_VI_s_Speech_Cupid_and_Psyche_The_Final_Communique_Earth_Magnetic_Field.wiki",
+  "markdown_path": "markdown/The_Knotted_Pistol_Ghanta_George_VI_s_Speech_Cupid_and_Psyche_The_Final_Communique_Earth_Magnetic_Field.md"
+}

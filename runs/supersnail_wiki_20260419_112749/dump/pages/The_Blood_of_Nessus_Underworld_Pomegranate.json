@@ -1,0 +1,33 @@
+{
+  "pageid": 6228,
+  "ns": 0,
+  "title": "The Blood of Nessus+Underworld Pomegranate",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Blood_of_Nessus%2BUnderworld_Pomegranate",
+  "touched": "2025-06-20T00:17:59Z",
+  "length": 209,
+  "lastrevid": 36124,
+  "revision": {
+    "revid": 36124,
+    "parentid": 24943,
+    "timestamp": "2025-06-20T00:17:59Z",
+    "sha1": "380b48014dc4d632791272d29d429f9c4f018eed",
+    "size": 209
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "627",
+        "relics": "The Blood of Nessus,Underworld Pomegranate",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "When you receive Orange Spores from Catalysis: Gain +1 Spore Voucher by +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Blood_of_Nessus_Underworld_Pomegranate.wiki",
+  "markdown_path": "markdown/The_Blood_of_Nessus_Underworld_Pomegranate.md"
+}

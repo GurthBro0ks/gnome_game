@@ -1,0 +1,29 @@
+{
+  "pageid": 3012,
+  "ns": 0,
+  "title": "Blood Clot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Blood_Clot",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 619,
+  "lastrevid": 22464,
+  "revision": {
+    "revid": 22464,
+    "parentid": 22463,
+    "timestamp": "2024-02-21T04:25:06Z",
+    "sha1": "f3a5edd5f3e3b76944852e1ac8595b225a546fef",
+    "size": 619
+  },
+  "categories": [
+    "ATK Boost",
+    "Bharata",
+    "FAME Shells",
+    "HP Boost",
+    "Shells",
+    "Wind DMG Boost",
+    "Zombie Form"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Blood_Clot.wiki",
+  "markdown_path": "markdown/Blood_Clot.md"
+}

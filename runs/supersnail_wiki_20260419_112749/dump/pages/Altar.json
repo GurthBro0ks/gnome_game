@@ -1,0 +1,145 @@
+{
+  "pageid": 1623,
+  "ns": 0,
+  "title": "Altar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Altar",
+  "touched": "2026-03-06T20:39:37Z",
+  "length": 25426,
+  "lastrevid": 41848,
+  "revision": {
+    "revid": 41848,
+    "parentid": 41831,
+    "timestamp": "2026-03-06T20:39:37Z",
+    "sha1": "4a7ecf2b822f215dbcd8b030de701aa71c1f3734",
+    "size": 25426
+  },
+  "categories": [
+    "Altar",
+    "Events"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Blair's Curse"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Instrument",
+        "3": "Hannibel's Scalpel"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Instrument",
+        "3": "Jack's Gloves"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "Instrument",
+        "3": "Jason's Mask"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Instrument",
+        "3": "Cayako's Charm"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Form",
+        "3": "Crimson Dragon Claw"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Instrument",
+        "3": "Cayako's Charm"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Abyss Wings"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Altar.wiki",
+  "markdown_path": "markdown/Altar.md"
+}

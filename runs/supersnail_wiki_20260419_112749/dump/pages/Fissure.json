@@ -1,0 +1,147 @@
+{
+  "pageid": 2092,
+  "ns": 0,
+  "title": "Fissure",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fissure",
+  "touched": "2025-11-29T03:55:15Z",
+  "length": 94704,
+  "lastrevid": 41798,
+  "revision": {
+    "revid": 41798,
+    "parentid": 41791,
+    "timestamp": "2025-11-29T03:55:15Z",
+    "sha1": "bba182bc19ad47a79c1c5671f4d75bf0d5fa84ff",
+    "size": 94704
+  },
+  "categories": [
+    "Fissure",
+    "Missing Info",
+    "Pages using Tabber parser tag",
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "Material",
+        "3": "Sapphire Brooch"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "Material",
+        "3": "Ruby Brooch"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Material",
+        "3": "Abyss Amulet"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Material",
+        "3": "Heaven Amulet"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Instrument",
+        "3": "Maze Key"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Material",
+        "3": "Warrior Ring"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Demon God Crystal"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fissure.wiki",
+  "markdown_path": "markdown/Fissure.md"
+}

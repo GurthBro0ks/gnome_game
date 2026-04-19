@@ -1,0 +1,35 @@
+{
+  "pageid": 4359,
+  "ns": 0,
+  "title": "The Prayer+Clytie Bust Sculpture",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Prayer%2BClytie_Bust_Sculpture",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 231,
+  "lastrevid": 18382,
+  "revision": {
+    "revid": 18382,
+    "parentid": 16732,
+    "timestamp": "2023-11-13T21:31:46Z",
+    "sha1": "0b08573f2581ba5dd7e95270a13ebb3ddf0f8204",
+    "size": 231
+  },
+  "categories": [
+    "Minion",
+    "Mutant Minion ATK Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Prayer,Clytie Bust Sculpture",
+        "rank": "blue",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 10 Mutant Minions in battle: Troop ATK +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Prayer_Clytie_Bust_Sculpture.wiki",
+  "markdown_path": "markdown/The_Prayer_Clytie_Bust_Sculpture.md"
+}

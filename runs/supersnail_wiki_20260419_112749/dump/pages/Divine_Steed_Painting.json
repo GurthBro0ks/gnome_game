@@ -1,0 +1,51 @@
+{
+  "pageid": 10191,
+  "ns": 0,
+  "title": "Divine Steed Painting",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Divine_Steed_Painting",
+  "touched": "2025-08-11T10:42:23Z",
+  "length": 1094,
+  "lastrevid": 37856,
+  "revision": {
+    "revid": 37856,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:42:23Z",
+    "sha1": "d227eb4bd4a0ba3405f5711965e41ace44da8290",
+    "size": 1094
+  },
+  "categories": [
+    "ART Relics",
+    "Pages with broken file links",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Divine Steed Painting",
+        "class_id": "21270",
+        "rank": "AAA",
+        "affct": "ART",
+        "description": "A colored silk painting from the Five Dynasties period, said to be created by Tang dynasty painter Han Gan, now housed in the Liaoning Provincial Museum, depicting the story of the monk Zhidun's love for horses, showcasing the emotional exchange between humans and horses. Its fine line drawing and use of color, with the figures, horses, trees, rocks, and water waves in the painting, are vividly rendered through line drawing and coloring. The horses in the painting are striking, with the treatmen …",
+        "fame": "36",
+        "art": "72",
+        "fth": "47",
+        "civ": "48",
+        "tech": "40",
+        "ss1": "Snail ATK +10<br>Snail DEF +10",
+        "ss2": "Snail ATK +20<br>Snail DEF +20",
+        "ss3": "Snail ATK +30<br>Snail DEF +30",
+        "ss4": "Snail ATK +50<br>Snail DEF +50",
+        "ss5": "Snail ATK +70<br>Snail DEF +70",
+        "ss7": "Snail ATK +70<br>Snail DEF +70<br>Snail HP +1000 (Awakened)",
+        "skill1": "[[File:Skill skill II.png|50px]]??? (Coming soon)",
+        "skill2": "[[File:Skill skill II.png|50px]]??? (Coming soon)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Divine_Steed_Painting.wiki",
+  "markdown_path": "markdown/Divine_Steed_Painting.md"
+}

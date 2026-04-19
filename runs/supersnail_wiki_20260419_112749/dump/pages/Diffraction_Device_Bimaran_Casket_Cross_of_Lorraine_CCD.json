@@ -1,0 +1,33 @@
+{
+  "pageid": 8926,
+  "ns": 0,
+  "title": "Diffraction Device+Bimaran Casket+Cross of Lorraine+CCD",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Diffraction_Device%2BBimaran_Casket%2BCross_of_Lorraine%2BCCD",
+  "touched": "2025-06-16T23:13:38Z",
+  "length": 192,
+  "lastrevid": 35028,
+  "revision": {
+    "revid": 35028,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:13:38Z",
+    "sha1": "a2a9a08aeb24ba013c094b2594b96b720768ed43",
+    "size": 192
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "547",
+        "relics": "Diffraction Device,Bimaran Casket,Cross of Lorraine,CCD",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Master Scrolls drop +1 Orange Reagent by +9%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Diffraction_Device_Bimaran_Casket_Cross_of_Lorraine_CCD.wiki",
+  "markdown_path": "markdown/Diffraction_Device_Bimaran_Casket_Cross_of_Lorraine_CCD.md"
+}

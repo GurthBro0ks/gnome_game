@@ -1,0 +1,34 @@
+{
+  "pageid": 3612,
+  "ns": 0,
+  "title": "Spirit of Laws+Edict of Milan",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Spirit_of_Laws%2BEdict_of_Milan",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 157,
+  "lastrevid": 13192,
+  "revision": {
+    "revid": 13192,
+    "parentid": 0,
+    "timestamp": "2023-09-22T15:13:41Z",
+    "sha1": "c5eb565326c95b99cfe20d7c5747f05baa4c24a8",
+    "size": 157
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Spirit of Laws,Edict of Milan",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Spirit_of_Laws_Edict_of_Milan.wiki",
+  "markdown_path": "markdown/Spirit_of_Laws_Edict_of_Milan.md"
+}

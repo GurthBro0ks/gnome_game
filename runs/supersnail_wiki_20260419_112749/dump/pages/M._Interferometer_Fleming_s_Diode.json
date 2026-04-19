@@ -1,0 +1,33 @@
+{
+  "pageid": 4903,
+  "ns": 0,
+  "title": "M. Interferometer+Fleming's Diode",
+  "fullurl": "https://supersnail.wiki.gg/wiki/M._Interferometer%2BFleming%27s_Diode",
+  "touched": "2025-06-20T00:05:19Z",
+  "length": 147,
+  "lastrevid": 35869,
+  "revision": {
+    "revid": 35869,
+    "parentid": 18379,
+    "timestamp": "2025-06-20T00:05:19Z",
+    "sha1": "21962595776b9c465402855eb23dd863f423d12f",
+    "size": 147
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "422",
+        "relics": "M. Interferometer,Fleming's Diode",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Mecha Minion RUSH +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/M._Interferometer_Fleming_s_Diode.wiki",
+  "markdown_path": "markdown/M._Interferometer_Fleming_s_Diode.md"
+}

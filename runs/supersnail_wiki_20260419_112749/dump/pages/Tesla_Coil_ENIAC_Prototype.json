@@ -1,0 +1,34 @@
+{
+  "pageid": 3630,
+  "ns": 0,
+  "title": "Tesla Coil+ENIAC Prototype",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tesla_Coil%2BENIAC_Prototype",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 168,
+  "lastrevid": 13212,
+  "revision": {
+    "revid": 13212,
+    "parentid": 0,
+    "timestamp": "2023-09-22T16:37:59Z",
+    "sha1": "6066d6a08b3768ce46b52f13e3ca9b6a77c4b137",
+    "size": 168
+  },
+  "categories": [
+    "DNA"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Tesla Coil,ENIAC Prototype",
+        "rank": "purple",
+        "amount": "2",
+        "category": "dna",
+        "description": "Angel Gene Research SPD +3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tesla_Coil_ENIAC_Prototype.wiki",
+  "markdown_path": "markdown/Tesla_Coil_ENIAC_Prototype.md"
+}

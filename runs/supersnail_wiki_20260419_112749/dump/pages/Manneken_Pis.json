@@ -1,0 +1,58 @@
+{
+  "pageid": 279,
+  "ns": 0,
+  "title": "Manneken Pis",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Manneken_Pis",
+  "touched": "2024-09-06T09:57:42Z",
+  "length": 1820,
+  "lastrevid": 19164,
+  "revision": {
+    "revid": 19164,
+    "parentid": 18108,
+    "timestamp": "2023-11-16T23:23:03Z",
+    "sha1": "c826158371850fac22faa454ffdbcc12ebbb632d",
+    "size": 1820
+  },
+  "categories": [
+    "ART Relics",
+    "ATK Boost",
+    "DEF Boost",
+    "Enhanced by Purple Relics",
+    "Exploration B-tad Drop Boost",
+    "Fungus Farm Output Boost",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics",
+    "Tadpole Pond Output Boost",
+    "Tadpole Pond Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Manneken Pis",
+        "rank": "AAA",
+        "affct": "ART",
+        "birthday": "12-19",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)",
+        "description": "On December 19, 1619, Duquesnoy completed the statue of Manneken Pis, a great citizen of Brussels.\n\nThe Spanish invaders wanted to blow up the city when they evacuated Brussels. A little boy managed to put out the fire with his tinkle and saved the city. This statue was built in honor of this little hero. Because the statue of the boy is naked, the number of clothes that are donated to him is even enough to fill a museum.\n\n[Destruction of Mannekin Pis]\n\nBurnt during the 17th century. French army …",
+        "fame": "49",
+        "art": "75",
+        "fth": "48",
+        "civ": "36",
+        "tech": "35",
+        "ss1": "Snail DEF +30<br>In explorations, B-tads gained +1.2%",
+        "ss2": "Snail DEF +40<br>In explorations, B-tads gained +1.6%",
+        "ss3": "Snail DEF +50<br>In explorations, B-tads gained +2%",
+        "ss4": "Snail DEF +70<br>In explorations, B-tads gained +2.8%",
+        "ss5": "Snail DEF +90<br>When exploring, B-tads gained +3.6%",
+        "ss7": "Snail DEF +90<br>When exploring, B-tads gained +3.6%<br>When exploring, B-tads gained +2.8% (Awakened)",
+        "skill1": "[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: B-tad Output +15%",
+        "skill2": "[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: Max Cap +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Manneken_Pis.wiki",
+  "markdown_path": "markdown/Manneken_Pis.md"
+}

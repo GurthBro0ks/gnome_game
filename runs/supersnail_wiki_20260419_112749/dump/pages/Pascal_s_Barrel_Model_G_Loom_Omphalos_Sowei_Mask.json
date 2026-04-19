@@ -1,0 +1,33 @@
+{
+  "pageid": 8881,
+  "ns": 0,
+  "title": "Pascal's Barrel+Model G Loom+Omphalos+Sowei Mask",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pascal%27s_Barrel%2BModel_G_Loom%2BOmphalos%2BSowei_Mask",
+  "touched": "2025-06-19T23:56:39Z",
+  "length": 184,
+  "lastrevid": 35700,
+  "revision": {
+    "revid": 35700,
+    "parentid": 34895,
+    "timestamp": "2025-06-19T23:56:39Z",
+    "sha1": "1414532c61960349d935da21b3ab529799c08413",
+    "size": 184
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "360",
+        "relics": "Pascal's Barrel,Model G Loom,Omphalos,Sowei Mask",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 10 Dragon Minions in battle: Troop DEF +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pascal_s_Barrel_Model_G_Loom_Omphalos_Sowei_Mask.wiki",
+  "markdown_path": "markdown/Pascal_s_Barrel_Model_G_Loom_Omphalos_Sowei_Mask.md"
+}

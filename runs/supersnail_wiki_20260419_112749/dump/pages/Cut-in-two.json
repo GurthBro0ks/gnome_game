@@ -1,0 +1,47 @@
+{
+  "pageid": 10170,
+  "ns": 0,
+  "title": "Cut-in-two",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cut-in-two",
+  "touched": "2025-08-11T10:41:27Z",
+  "length": 976,
+  "lastrevid": 37816,
+  "revision": {
+    "revid": 37816,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:41:27Z",
+    "sha1": "e66f4af22512b3b8d3ba234b49b9ace261952c55",
+    "size": 976
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Cut-in-two",
+        "class_id": "20963",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "As night falls, faint whispers can be heard from deep within the Valley, murmuring, \"We apologize for failing to entertain you, dear players...\" Until one day, a half-bodied figure slowly emerged—a solemn tribute to the \"strongest\" and his unfortunate fate.",
+        "fame": "28",
+        "art": "16",
+        "fth": "12",
+        "civ": "16",
+        "tech": "18",
+        "ss1": "Unlock Kaleido Valley Auto-explore<br>Per Kaleido Valley participation, Snail ATK +1<br>Participated: 40/40",
+        "ss2": "Unlock Kaleido Valley Auto-explore<br>Per Kaleido Valley participation, Snail ATK +2<br>Participated: 40/40",
+        "ss3": "Unlock Kaleido Valley Auto-explore<br>Per Kaleido Valley participation, Snail ATK +3<br>Participated: 40/40",
+        "ss4": "Unlock Kaleido Valley Auto-explore<br>Per Kaleido Valley participation, Snail ATK +3<br>Participated: 40/40",
+        "ss7": "Unlock Kaleido Valley Auto-explore<br>Per Kaleido Valley participation, Snail ATK +3<br>Participated: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cut-in-two.wiki",
+  "markdown_path": "markdown/Cut-in-two.md"
+}

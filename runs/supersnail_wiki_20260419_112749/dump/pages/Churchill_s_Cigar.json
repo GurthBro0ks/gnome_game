@@ -1,0 +1,56 @@
+{
+  "pageid": 1405,
+  "ns": 0,
+  "title": "Churchill's Cigar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Churchill%27s_Cigar",
+  "touched": "2024-09-06T09:57:37Z",
+  "length": 1343,
+  "lastrevid": 26076,
+  "revision": {
+    "revid": 26076,
+    "parentid": 20029,
+    "timestamp": "2024-05-01T08:19:40Z",
+    "sha1": "f1080586e2a91763f3a6b1e99cb6374f97bd7068",
+    "size": 1343
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue FAME Relics",
+    "Blue Relics",
+    "Britland Exploration Boost",
+    "Britland Museum Boost",
+    "Demon Minion ATK Boost",
+    "FAME Boost",
+    "FAME Relics",
+    "HP-Fungi Boost",
+    "Relics",
+    "Time Machine Output Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Churchill's Cigar",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "10-01",
+        "source": "Lottery Machine (0.07%), Novice Scrolls (1%), Wishing (3.1%)",
+        "description": "On Oct 1, 1944, Churchill kept smoking cigars, one after another.\n\nChurchill was thinking about the war while smoking. From the Italian front lines, he looked towards the enemy troops and soon many smoked cigars were scattered around the floor. As his servant said, \"The number of cigars thrown away every day is equal to a week of my salary.\"\n\n[A Record of Cigars Discarded]\n\nApril: 250. June: 275. July:100. August: 100. September: 100.",
+        "fame": "46",
+        "art": "24",
+        "fth": "28",
+        "civ": "31",
+        "tech": "25",
+        "ss1": "Per 10 HP-Fungi eaten, Snail ATK +1<br>HP-Fungi Eaten: 500/500",
+        "ss2": "Per 10 HP-Fungi eaten, Snail ATK +2<br>HP-Fungi Eaten: 500/500",
+        "ss3": "Per 10 HP-Fungi eaten, Snail ATK +3<br>HP-Fungi Eaten: 500/500",
+        "ss4": "Per 10 HP-Fungi eaten, Snail ATK +5<br>HP-Fungi Eaten: 500/500",
+        "ss7": "Per 10 HP-Fungi eaten, Snail ATK +5<br>HP-Fungi Eaten: 500/500<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Britann skill I.png|frameless|53x53px]]Place in Britland Museum: In Britland, FAME Checks -5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Churchill_s_Cigar.wiki",
+  "markdown_path": "markdown/Churchill_s_Cigar.md"
+}

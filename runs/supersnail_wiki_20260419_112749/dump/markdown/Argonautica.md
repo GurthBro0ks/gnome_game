@@ -1,0 +1,6 @@
+|3name=Orpheus|3rec=115.01M|3atk=347721|3def=205711|3hp=34400405|3weak=43136
+|4name=Theseus|4rec=131.60M|4atk=383465|4def=229042|4hp=45665775|4weak=46787
+|5name=Asclepius|5rec=153.61M|5atk=433051|5def=260010|5hp=64147141|5weak=50963
+|6name=Terramon|6rec=184.34M|6atk=499146|6def=303251|6hp=95696995|6weak=55642
+|Arec=227.43M|Aatk=590405|Adef=363871|Ahp=147913115|Aweak=60806
+}}}}

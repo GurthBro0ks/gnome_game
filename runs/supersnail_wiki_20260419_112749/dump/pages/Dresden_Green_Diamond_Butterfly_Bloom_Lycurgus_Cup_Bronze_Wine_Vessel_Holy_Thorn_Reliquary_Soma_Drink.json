@@ -1,0 +1,33 @@
+{
+  "pageid": 9255,
+  "ns": 0,
+  "title": "Dresden Green Diamond+Butterfly Bloom+Lycurgus Cup+Bronze Wine Vessel+Holy Thorn Reliquary+Soma Drink",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dresden_Green_Diamond%2BButterfly_Bloom%2BLycurgus_Cup%2BBronze_Wine_Vessel%2BHoly_Thorn_Reliquary%2BSoma_Drink",
+  "touched": "2025-06-20T00:15:47Z",
+  "length": 214,
+  "lastrevid": 36077,
+  "revision": {
+    "revid": 36077,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:15:47Z",
+    "sha1": "f43744615b77f85830434969475d937748bbdfb1",
+    "size": 214
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "709",
+        "relics": "Dresden Green Diamond,Butterfly Bloom,Lycurgus Cup,Bronze Wine Vessel,Holy Thorn Reliquary,Soma Drink",
+        "rank": "purple",
+        "amount": "6",
+        "category": "self",
+        "description": "Snail Leadership +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dresden_Green_Diamond_Butterfly_Bloom_Lycurgus_Cup_Bronze_Wine_Vessel_Holy_Thorn_Reliquary_Soma_Drink.wiki",
+  "markdown_path": "markdown/Dresden_Green_Diamond_Butterfly_Bloom_Lycurgus_Cup_Bronze_Wine_Vessel_Holy_Thorn_Reliquary_Soma_Drink.md"
+}

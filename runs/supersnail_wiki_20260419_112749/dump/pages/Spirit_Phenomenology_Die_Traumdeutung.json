@@ -1,0 +1,35 @@
+{
+  "pageid": 8301,
+  "ns": 0,
+  "title": "Spirit Phenomenology+Die Traumdeutung",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Spirit_Phenomenology%2BDie_Traumdeutung",
+  "touched": "2025-04-21T03:08:27Z",
+  "length": 229,
+  "lastrevid": 34085,
+  "revision": {
+    "revid": 34085,
+    "parentid": 0,
+    "timestamp": "2025-04-21T03:08:27Z",
+    "sha1": "585fbbeb6c4a7258004971d2a987f662312a5129",
+    "size": 229
+  },
+  "categories": [
+    "Home",
+    "Spore Color Change"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Spirit Phenomenology,Die Traumdeutung",
+        "rank": "orange",
+        "amount": "2",
+        "category": "home",
+        "description": "Catalyzed Blue Spores turn to Purple by +0.7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Spirit_Phenomenology_Die_Traumdeutung.wiki",
+  "markdown_path": "markdown/Spirit_Phenomenology_Die_Traumdeutung.md"
+}

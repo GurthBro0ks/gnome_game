@@ -1,0 +1,35 @@
+{
+  "pageid": 5045,
+  "ns": 0,
+  "title": "The Last Judgement+R'yleh Text+Louis XIV Portrait+Ulysses+Mysterious Relic+Red Algae Fossil",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Last_Judgement%2BR%27yleh_Text%2BLouis_XIV_Portrait%2BUlysses%2BMysterious_Relic%2BRed_Algae_Fossil",
+  "touched": "2025-04-25T04:00:29Z",
+  "length": 258,
+  "lastrevid": 34223,
+  "revision": {
+    "revid": 34223,
+    "parentid": 34222,
+    "timestamp": "2025-04-25T03:46:56Z",
+    "sha1": "12384b056a29f004aef777aa51a25cab3861fa38",
+    "size": 258
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Last Judgement,R'lyeh Text,Louis XIV Portrait,Ulysses,Bill of Rights,Red Algae Fossil",
+        "rank": "orange",
+        "amount": "6",
+        "category": "minion",
+        "description": "Snail Leadership +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Last_Judgement_R_yleh_Text_Louis_XIV_Portrait_Ulysses_Mysterious_Relic_Red_Algae_Fossil.wiki",
+  "markdown_path": "markdown/The_Last_Judgement_R_yleh_Text_Louis_XIV_Portrait_Ulysses_Mysterious_Relic_Red_Algae_Fossil.md"
+}

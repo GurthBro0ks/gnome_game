@@ -1,0 +1,33 @@
+{
+  "pageid": 8439,
+  "ns": 0,
+  "title": "Ring Laser Gyroscope+Hooke's Spring",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ring_Laser_Gyroscope%2BHooke%27s_Spring",
+  "touched": "2025-06-20T00:13:11Z",
+  "length": 199,
+  "lastrevid": 35968,
+  "revision": {
+    "revid": 35968,
+    "parentid": 34309,
+    "timestamp": "2025-06-20T00:13:11Z",
+    "sha1": "e2f6973a8726fb821f83d6a97439371c6635ba0f",
+    "size": 199
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "588",
+        "relics": "Ring Laser Gyroscope,Hooke's Spring",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Mythic Protodex Stars, Snail HP +150;Mythic Protodex Stars: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ring_Laser_Gyroscope_Hooke_s_Spring.wiki",
+  "markdown_path": "markdown/Ring_Laser_Gyroscope_Hooke_s_Spring.md"
+}

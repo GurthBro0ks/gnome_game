@@ -1,0 +1,50 @@
+{
+  "pageid": 4480,
+  "ns": 0,
+  "title": "Atomic Spectroscopy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Atomic_Spectroscopy",
+  "touched": "2025-06-20T00:00:22Z",
+  "length": 1447,
+  "lastrevid": 35745,
+  "revision": {
+    "revid": 35745,
+    "parentid": 34934,
+    "timestamp": "2025-06-20T00:00:22Z",
+    "sha1": "ca1ffa4d7865841b11f858a3b94aeaa6b0053beb",
+    "size": 1447
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Atomic Spectroscopy",
+        "class_id": "22094",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "06-11",
+        "source": "Lottery Machine No.2 (0.07%), Wishing (0.03%)",
+        "description": "On Jun 11, 1802 AD, Wollaston observed the Atomic Spectroscopy while conducting experiments.<br>Atomic Spectroscopy is the light spectrum composed of a series of wavelengths of light emitted or absorbed by the electron in the atom when the energy changes. Each atom has different energy levels and can transition between energy levels by emitting or absorbing photons. When the energy level transitions, the frequency of emitting and absorbing photons constitutes the emission and absorption spectra  …",
+        "fame": "28",
+        "art": "22",
+        "fth": "33",
+        "civ": "25",
+        "tech": "46",
+        "ss1": "Per 4 TECH Relics gained, Snail ATK +2<br>TECH Relics: 120/120",
+        "ss2": "Per 4 TECH Relics gained, Snail ATK +4<br>TECH Relics: 120/120",
+        "ss3": "Per 4 TECH Relics gained, Snail ATK +6<br>TECH Relics: 120/120",
+        "ss4": "Per 4 TECH Relics gained, Snail ATK +10<br>TECH Relics: 120/120",
+        "ss7": "Per 4 TECH Relics gained, Snail ATK +10<br>TECH Relics: 120/120<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: This Relic's TECH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Atomic_Spectroscopy.wiki",
+  "markdown_path": "markdown/Atomic_Spectroscopy.md"
+}

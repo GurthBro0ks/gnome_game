@@ -1,0 +1,34 @@
+{
+  "pageid": 3333,
+  "ns": 0,
+  "title": "Demoiselles d'Avignon+Buddha Tooth Sarira+Magellan's Journal+Izu Dancer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Demoiselles_d%27Avignon%2BBuddha_Tooth_Sarira%2BMagellan%27s_Journal%2BIzu_Dancer",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 219,
+  "lastrevid": 12072,
+  "revision": {
+    "revid": 12072,
+    "parentid": 0,
+    "timestamp": "2023-09-13T09:22:57Z",
+    "sha1": "3ed4427e5644fbb61bf6d3fd018e5b85edea8703",
+    "size": 219
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Demoiselles d'Avignon,Buddha Tooth Sarira,Magellan's Journal,Izu Dancer",
+        "rank": "blue",
+        "amount": "4",
+        "category": "other",
+        "description": "In any Realm, B-tads gained +2.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Demoiselles_d_Avignon_Buddha_Tooth_Sarira_Magellan_s_Journal_Izu_Dancer.wiki",
+  "markdown_path": "markdown/Demoiselles_d_Avignon_Buddha_Tooth_Sarira_Magellan_s_Journal_Izu_Dancer.md"
+}

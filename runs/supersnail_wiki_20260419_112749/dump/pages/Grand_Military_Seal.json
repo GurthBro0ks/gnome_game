@@ -1,0 +1,47 @@
+{
+  "pageid": 54,
+  "ns": 0,
+  "title": "Grand Military Seal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Grand_Military_Seal",
+  "touched": "2025-08-11T11:15:50Z",
+  "length": 618,
+  "lastrevid": 39309,
+  "revision": {
+    "revid": 39309,
+    "parentid": 14755,
+    "timestamp": "2025-08-11T11:15:50Z",
+    "sha1": "201d939f124f0846333f8f1b1b4e3640621ad688",
+    "size": 618
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Grand Military Seal",
+        "class_id": "20438",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This seal of General Oda is marked with the words, \"Military Dictatorship\", which reflected his ambition to rule the world. But just as his army broke the opposing coalition's siege for the third time and he was reveling in it, raging flames in the Honnoji Temple swallowed him and his ambition...",
+        "fame": "29",
+        "art": "11",
+        "fth": "14",
+        "civ": "17",
+        "tech": "19",
+        "ss1": "Against Bladden, DMG +300%",
+        "ss2": "Against Bladden, DMG +400%",
+        "ss3": "Against Bladden, DMG +500%",
+        "ss4": "Against Bladden, DMG +500%",
+        "ss7": "Against Bladden, DMG +500%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Grand_Military_Seal.wiki",
+  "markdown_path": "markdown/Grand_Military_Seal.md"
+}

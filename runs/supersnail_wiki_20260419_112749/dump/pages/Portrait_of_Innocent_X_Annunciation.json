@@ -1,0 +1,33 @@
+{
+  "pageid": 4873,
+  "ns": 0,
+  "title": "Portrait of Innocent X+Annunciation",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Portrait_of_Innocent_X%2BAnnunciation",
+  "touched": "2025-06-19T23:54:35Z",
+  "length": 148,
+  "lastrevid": 35683,
+  "revision": {
+    "revid": 35683,
+    "parentid": 18336,
+    "timestamp": "2025-06-19T23:54:35Z",
+    "sha1": "5797efcaa4b40302f309b17e35159f1fa4032438",
+    "size": 148
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "389",
+        "relics": "Portrait of Innocent X,Annunciation",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Angel Minion ATK +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Portrait_of_Innocent_X_Annunciation.wiki",
+  "markdown_path": "markdown/Portrait_of_Innocent_X_Annunciation.md"
+}

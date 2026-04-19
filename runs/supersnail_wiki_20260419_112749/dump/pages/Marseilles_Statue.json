@@ -1,0 +1,53 @@
+{
+  "pageid": 49,
+  "ns": 0,
+  "title": "Marseilles Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Marseilles_Statue",
+  "touched": "2025-01-07T11:14:51Z",
+  "length": 1369,
+  "lastrevid": 21476,
+  "revision": {
+    "revid": 21476,
+    "parentid": 17229,
+    "timestamp": "2023-12-22T18:23:10Z",
+    "sha1": "99279ac166bd8edfc2be30543285e8f0dfaaf0df",
+    "size": 1369
+  },
+  "categories": [
+    "ART Relics",
+    "ATK Boost",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Demon Minion HARD Boost",
+    "Hellas Exploration Boost",
+    "Hellas Museum Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Marseilles Statue",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "10-22",
+        "source": "Lottery Machine (0.03%), Wishing (1.2%), Hellas Treasure Map (20%)",
+        "description": "On Oct 22, 1826, Francois Rude carved La Marseillaise on the Arc de Triomphe in Paris. The Marseillaise soldier statue is often used as a template in art lessons. It features the young bearded soldier with a strong and intense facial expression. He raised the helmet in his right hand and turned to the left shouting to the audience. Such battle spirit and enthusiasm can easily leave a deep impression on the audience. With a vivid and energetic body expression with a neat and strong structure, it  …",
+        "fame": "21",
+        "art": "46",
+        "fth": "28",
+        "civ": "30",
+        "tech": "29",
+        "ss1": "Per 10 Demon Minions in battle: Troop HARD Stats +1",
+        "ss2": "Per 10 Demon Minions in battle: Troop HARD Stats +2",
+        "ss3": "Per 10 Demon Minions in battle: Troop HARD Stats +3",
+        "ss4": "Per 10 Demon Minions in battle: Troop HARD Stats +5",
+        "ss7": "Per 10 Demon Minions in battle: Troop HARD Stats +5<br>Per 10 Demon Minions in battle: Troop HARD Stats +3 (Awakened)",
+        "skill1": "{{Skills|hellas|def|20}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Marseilles_Statue.wiki",
+  "markdown_path": "markdown/Marseilles_Statue.md"
+}

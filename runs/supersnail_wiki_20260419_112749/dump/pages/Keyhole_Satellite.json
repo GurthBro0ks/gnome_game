@@ -1,0 +1,58 @@
+{
+  "pageid": 1490,
+  "ns": 0,
+  "title": "Keyhole Satellite",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Keyhole_Satellite",
+  "touched": "2024-09-06T09:58:50Z",
+  "length": 1763,
+  "lastrevid": 23070,
+  "revision": {
+    "revid": 23070,
+    "parentid": 18718,
+    "timestamp": "2024-03-09T02:38:47Z",
+    "sha1": "e62e3617dfe02992c7bb8e958627e0e0021da6e3",
+    "size": 1763
+  },
+  "categories": [
+    "ATK Boost",
+    "DEF Boost",
+    "DNA Boost",
+    "Enhanced by DNA Strength",
+    "Enhanced by Unispark Activations",
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "TECH Relics",
+    "Time Machine Output Boost",
+    "Time Machine Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Keyhole Satellite",
+        "rank": "AAA",
+        "affct": "TECH",
+        "birthday": "10-11",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF), Nebula Chest (1.5%)",
+        "description": "On Oct 11, 1960, the first photographic reconnaissance satellite was launched and it orbited for dozens of days.\n\nThis is a detection satellite with super night vision. It can change its trajectory, and carry out information acquisition and processing at high resolution. People found its blind spot after calculations, so if the target is hidden when the satellite goes over its head, the surveillance fails.",
+        "fame": "40",
+        "art": "50",
+        "fth": "49",
+        "civ": "33",
+        "tech": "71",
+        "ss1": "Time Machine Max Cap +3%<br>Per 3 Unispark activations, Snail ATK +6<br>Unispark Activations: 60/60",
+        "ss2": "Time Machine Max Cap +5%<br>Per 3 Unispark activations, Snail ATK +8<br>Unispark Activations: 60/60",
+        "ss3": "Time Machine Max Cap +7%<br>Per 3 Unispark activations, Snail ATK +10<br>Unispark Activations: 60/60",
+        "ss4": "Time Machine Max Cap +11%<br>Per 3 Unispark activations, Snail ATK +14<br>Unispark Activations: 60/60",
+        "ss5": "Time Machine Max Cap +15%<br>Per 3 Unispark activations, Snail ATK +18<br>Unispark Activations: 60/60",
+        "ss7": "Time Machine Max Cap +15%<br>Per 3 Unispark activations, Snail ATK +18<br>Unispark Activations: 60/60<br>Time Machine Travel Speedup Output +15%",
+        "skill1": "[[File:Timemachine skill II.png|50px]] Place in Time Machine: Travel Speedup Output +15%",
+        "skill2": "[[File:Timemachine skill II.png|50px]] Place in Time Machine: Time Machine Max Cap +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Keyhole_Satellite.wiki",
+  "markdown_path": "markdown/Keyhole_Satellite.md"
+}

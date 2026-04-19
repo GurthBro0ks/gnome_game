@@ -1,0 +1,33 @@
+{
+  "pageid": 4844,
+  "ns": 0,
+  "title": "Foucault Pendulum+Benben+M. Interferometer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Foucault_Pendulum%2BBenben%2BM._Interferometer",
+  "touched": "2025-06-19T23:59:28Z",
+  "length": 169,
+  "lastrevid": 35729,
+  "revision": {
+    "revid": 35729,
+    "parentid": 17449,
+    "timestamp": "2025-06-19T23:59:28Z",
+    "sha1": "a52ad8ba9064a3ca00eb7f06cbfd98c38f404de1",
+    "size": 169
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "434",
+        "relics": "Foucault Pendulum,Benben,M. Interferometer",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Refine +1 Green Rebel Material +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Foucault_Pendulum_Benben_M._Interferometer.wiki",
+  "markdown_path": "markdown/Foucault_Pendulum_Benben_M._Interferometer.md"
+}

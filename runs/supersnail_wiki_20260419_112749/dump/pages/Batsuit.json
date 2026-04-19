@@ -1,0 +1,29 @@
+{
+  "pageid": 3160,
+  "ns": 0,
+  "title": "Batsuit",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Batsuit",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 430,
+  "lastrevid": 12454,
+  "revision": {
+    "revid": 12454,
+    "parentid": 11684,
+    "timestamp": "2023-09-15T15:37:27Z",
+    "sha1": "273c3fba4b3c0e2928f2848cf2ba6ef20bd9ce09",
+    "size": 430
+  },
+  "categories": [
+    "ATK Boost",
+    "Fire DMG Boost",
+    "HP Boost",
+    "Hellas",
+    "Mecha Form",
+    "Shells",
+    "TECH Shells"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Batsuit.wiki",
+  "markdown_path": "markdown/Batsuit.md"
+}

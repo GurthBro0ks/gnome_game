@@ -1,0 +1,47 @@
+{
+  "pageid": 9978,
+  "ns": 0,
+  "title": "Christmas Bell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Christmas_Bell",
+  "touched": "2025-08-11T10:33:43Z",
+  "length": 676,
+  "lastrevid": 37483,
+  "revision": {
+    "revid": 37483,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:33:43Z",
+    "sha1": "087036dcba00e7970bfaba2a59cc6be16f2f3597",
+    "size": 676
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Christmas Bell",
+        "class_id": "20442",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This bell once belonged to a reindeer that served Santa Claus for many years. But after its employer disappeared, it lost its job and was left homeless. In order to make a living, it pawned almost all of its possessions, except for this bell which it kept by its side...",
+        "fame": "31",
+        "art": "15",
+        "fth": "13",
+        "civ": "18",
+        "tech": "13",
+        "ss1": "Per Sign-In, Snail ATK +1<br>Sign-Ins: 20/20",
+        "ss2": "Per Sign-In, Snail ATK +2<br>Sign-Ins: 20/20",
+        "ss3": "Per Sign-In, Snail ATK +3<br>Sign-Ins: 20/20",
+        "ss4": "Per Sign-In, Snail ATK +3<br>Sign-Ins: 20/20",
+        "ss7": "Per Sign-In, Snail ATK +3<br>Sign-Ins: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Christmas_Bell.wiki",
+  "markdown_path": "markdown/Christmas_Bell.md"
+}

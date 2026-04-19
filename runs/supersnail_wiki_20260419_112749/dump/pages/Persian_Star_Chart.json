@@ -1,0 +1,56 @@
+{
+  "pageid": 2107,
+  "ns": 0,
+  "title": "Persian Star Chart",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Persian_Star_Chart",
+  "touched": "2024-09-06T09:57:49Z",
+  "length": 1506,
+  "lastrevid": 21806,
+  "revision": {
+    "revid": 21806,
+    "parentid": 17141,
+    "timestamp": "2024-01-12T03:31:42Z",
+    "sha1": "ecad56926f5ff983c26472cc5383bd62d8b2e46e",
+    "size": 1506
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "God Descent Boost",
+    "HP Boost",
+    "Kemet Exploration Boost",
+    "Kemet Museum Boost",
+    "Minorino Boost",
+    "RUSH Boost",
+    "Relics",
+    "TECH Relics",
+    "Tadpole Pond W-Tad Output Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Persian Star Chart",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "02-05",
+        "source": "Lottery Machine (0.36%), Wishing (13.2%), Novice Scrolls (5%), Nebula Chest (2%)",
+        "description": "On Feb 5, 439 BC, ancient Persia completed this sky chart based on ancient astronomy. \n\nPersia made an astronomical chart based on the existing knowledge. This changed the Babylonian chart and astronomical almanac they had used in the past. The Persian King heeded the priest's suggestion to redraw the astronomical chart, as their knowledge of astronomy was insufficient to support the expansion of the empire's land. After the new chart was completed, the astrolabe was cast in gold and given to th …",
+        "fame": "22",
+        "art": "34",
+        "fth": "26",
+        "civ": "28",
+        "tech": "44",
+        "ss1": "Per Altar God Descent, Snail HP +20<br>Gods Descended: 30/30",
+        "ss2": "Per Altar God Descent, Snail HP +40<br>Gods Descended: 30/30",
+        "ss3": "Per Altar God Descent, Snail HP +60<br>Gods Descended: 30/30",
+        "ss4": "Per Altar God Descent, Snail HP +100<br>Gods Descended: 30/30",
+        "ss7": "Per Altar God Descent, Snail HP +100<br>Gods Descended: 30/30<br>Snail HP +500 (Awakened)",
+        "skill1": "[[File:Kemet skill I.png|50px]] Place in Kemetic Museum: In Kemet, Snail RUSH +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Persian_Star_Chart.wiki",
+  "markdown_path": "markdown/Persian_Star_Chart.md"
+}

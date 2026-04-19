@@ -1,0 +1,47 @@
+{
+  "pageid": 7054,
+  "ns": 0,
+  "title": "Lunar Soil Specimen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lunar_Soil_Specimen",
+  "touched": "2025-08-11T10:52:49Z",
+  "length": 673,
+  "lastrevid": 38313,
+  "revision": {
+    "revid": 38313,
+    "parentid": 30836,
+    "timestamp": "2025-08-11T10:52:49Z",
+    "sha1": "962233cf951dcabb1915d7d650b06e47f2d6b0e3",
+    "size": 673
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Lunar Soil Specimen",
+        "class_id": "20367",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "This seemingly insignificant piece of soil is a precious specimen collected from the moon. It contains a lot of valuable information about the moon and has extremely high scientific research value. Scientists all over the world wish to possess it.",
+        "fame": "14",
+        "art": "18",
+        "fth": "13",
+        "civ": "14",
+        "tech": "31",
+        "ss1": "Per 500 TECH, Snail DEF +1<br>TECH: 15000/15000",
+        "ss2": "Per 500 TECH, Snail DEF +2<br>TECH: 15000/15000",
+        "ss3": "Per 500 TECH, Snail DEF +3<br>TECH: 15000/15000",
+        "ss4": "Per 500 TECH, Snail DEF +3<br>TECH: 15000/15000",
+        "ss7": "Per 500 TECH, Snail DEF +3<br>TECH: 15000/15000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lunar_Soil_Specimen.wiki",
+  "markdown_path": "markdown/Lunar_Soil_Specimen.md"
+}

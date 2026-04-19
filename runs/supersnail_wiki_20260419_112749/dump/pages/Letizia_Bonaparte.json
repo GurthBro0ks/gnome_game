@@ -1,0 +1,50 @@
+{
+  "pageid": 8428,
+  "ns": 0,
+  "title": "Letizia Bonaparte",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Letizia_Bonaparte",
+  "touched": "2025-06-20T00:13:19Z",
+  "length": 1070,
+  "lastrevid": 35975,
+  "revision": {
+    "revid": 35975,
+    "parentid": 34449,
+    "timestamp": "2025-06-20T00:13:19Z",
+    "sha1": "47b59aeb5718eeabbf51d3f6d6015c70455195bc",
+    "size": 1070
+  },
+  "categories": [
+    "ART Relics",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Letizia Bonaparte",
+        "class_id": "22431",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "01-29",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Jan 29, 1804 AD, Canova began carving the statue of Letizia Bonaparte.<br>This statue is the representative work of neoclassical sculptor Antonio Canova. His superb craftsmanship gave the marble statue an extremely realistic texture. The character's clothing was presented in an extremely natural state, and the facial expressions are like real people, making it of high artistic value.",
+        "fame": "22",
+        "art": "48",
+        "fth": "29",
+        "civ": "30",
+        "tech": "25",
+        "ss1": "Per 5 Epic Protodex Stars, Snail ATK +3<br>Epic Protodex Stars: 100/100",
+        "ss2": "Per 5 Epic Protodex Stars, Snail ATK +6<br>Epic Protodex Stars: 100/100",
+        "ss3": "Per 5 Epic Protodex Stars, Snail ATK +9<br>Epic Protodex Stars: 100/100",
+        "ss4": "Per 5 Epic Protodex Stars, Snail ATK +15<br>Epic Protodex Stars: 100/100",
+        "ss7": "Per 5 Epic Protodex Stars, Snail ATK +15<br>Epic Protodex Stars: 100/100<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: This Relic's ART +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Letizia_Bonaparte.wiki",
+  "markdown_path": "markdown/Letizia_Bonaparte.md"
+}

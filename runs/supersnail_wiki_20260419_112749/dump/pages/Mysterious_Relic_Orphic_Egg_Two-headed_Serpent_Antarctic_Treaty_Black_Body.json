@@ -1,0 +1,35 @@
+{
+  "pageid": 4180,
+  "ns": 0,
+  "title": "Mysterious Relic+Orphic Egg+Two-headed Serpent+Antarctic Treaty+Black Body",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mysterious_Relic%2BOrphic_Egg%2BTwo-headed_Serpent%2BAntarctic_Treaty%2BBlack_Body",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 290,
+  "lastrevid": 19557,
+  "revision": {
+    "revid": 19557,
+    "parentid": 15679,
+    "timestamp": "2023-11-21T00:43:23Z",
+    "sha1": "2745906156bf3bbc10c141f9563d988a22bec5d2",
+    "size": 290
+  },
+  "categories": [
+    "Demon God Rocket Cabin Boost",
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Mysterious Relic,Orphic Egg,Two-headed Serpent,Antarctic Treaty,Black Body",
+        "rank": "orange",
+        "amount": "5",
+        "category": "home",
+        "description": "In the Demon God Rocket Cabin: All device base effects +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mysterious_Relic_Orphic_Egg_Two-headed_Serpent_Antarctic_Treaty_Black_Body.wiki",
+  "markdown_path": "markdown/Mysterious_Relic_Orphic_Egg_Two-headed_Serpent_Antarctic_Treaty_Black_Body.md"
+}

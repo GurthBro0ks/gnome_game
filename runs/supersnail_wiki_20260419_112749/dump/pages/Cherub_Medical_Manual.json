@@ -1,0 +1,47 @@
+{
+  "pageid": 10059,
+  "ns": 0,
+  "title": "Cherub Medical Manual",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cherub_Medical_Manual",
+  "touched": "2025-08-11T10:36:45Z",
+  "length": 790,
+  "lastrevid": 37623,
+  "revision": {
+    "revid": 37623,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:36:45Z",
+    "sha1": "845f2980cdeb9e6d1cd11bbc9a29d8a08dd7d6d2",
+    "size": 790
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Cherub Medical Manual",
+        "class_id": "20479",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Cherub Medical Manual was compiled by the Chinese Red Cross. It records the medical knowledge and nursing skills for childhood leukemia. As the first Q&A medical book specifically for childhood leukemia, it has filled the vacancy of childhood leukemia knowledge popularization!",
+        "fame": "29",
+        "art": "17",
+        "fth": "14",
+        "civ": "16",
+        "tech": "14",
+        "ss1": "Per 50 Minions healed, Snail HP +10<br>Minions healed: 2000/2000",
+        "ss2": "Per 50 Minions healed, Snail HP +20<br>Minions healed: 2000/2000",
+        "ss3": "Per 50 Minions healed, Snail HP +30<br>Minions healed: 2000/2000",
+        "ss4": "Per 50 Minions healed, Snail HP +30<br>Minions healed: 2000/2000",
+        "ss7": "Per 50 Minions healed, Snail HP +30<br>Minions healed: 2000/2000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cherub_Medical_Manual.wiki",
+  "markdown_path": "markdown/Cherub_Medical_Manual.md"
+}

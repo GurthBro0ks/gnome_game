@@ -1,0 +1,47 @@
+{
+  "pageid": 11270,
+  "ns": 0,
+  "title": "Chili Fish Head",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Chili_Fish_Head",
+  "touched": "2025-08-11T11:18:42Z",
+  "length": 574,
+  "lastrevid": 39433,
+  "revision": {
+    "revid": 39433,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:18:42Z",
+    "sha1": "679b76de0167a44cd2304701bfc79f36f22a6514",
+    "size": 574
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Chili Fish Head",
+        "class_id": "20583",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "collection@20583_2",
+        "fame": "16",
+        "art": "12",
+        "fth": "18",
+        "civ": "30",
+        "tech": "14",
+        "ss1": "Per type of food collected, Snail HP +10<br>Types of Food Collected: 60/60",
+        "ss2": "Per type of food collected, Snail HP +20<br>Types of Food Collected: 60/60",
+        "ss3": "Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60",
+        "ss4": "Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60",
+        "ss7": "Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Chili_Fish_Head.wiki",
+  "markdown_path": "markdown/Chili_Fish_Head.md"
+}

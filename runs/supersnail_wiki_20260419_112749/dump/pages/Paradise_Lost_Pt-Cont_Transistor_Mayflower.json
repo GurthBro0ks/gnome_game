@@ -1,0 +1,34 @@
+{
+  "pageid": 3784,
+  "ns": 0,
+  "title": "Paradise Lost+Pt-Cont Transistor+Mayflower",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Paradise_Lost%2BPt-Cont_Transistor%2BMayflower",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 211,
+  "lastrevid": 13682,
+  "revision": {
+    "revid": 13682,
+    "parentid": 0,
+    "timestamp": "2023-10-02T09:31:01Z",
+    "sha1": "09f2a8e32c2b555042c6db8cac923f611c1a61a4",
+    "size": 211
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Paradise Lost,Pt-Cont Transistor,Mayflower",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per Incense used, Snail HP +120<br>Incense Used: 20/20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Paradise_Lost_Pt-Cont_Transistor_Mayflower.wiki",
+  "markdown_path": "markdown/Paradise_Lost_Pt-Cont_Transistor_Mayflower.md"
+}

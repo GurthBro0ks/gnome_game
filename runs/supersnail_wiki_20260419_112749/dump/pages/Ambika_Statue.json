@@ -1,0 +1,52 @@
+{
+  "pageid": 5112,
+  "ns": 0,
+  "title": "Ambika Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ambika_Statue",
+  "touched": "2025-08-11T11:06:53Z",
+  "length": 1724,
+  "lastrevid": 38925,
+  "revision": {
+    "revid": 38925,
+    "parentid": 28759,
+    "timestamp": "2025-08-11T11:06:53Z",
+    "sha1": "239db601e77eb9cc81f1e76325608d92ea24059b",
+    "size": 1724
+  },
+  "categories": [
+    "ART Relics",
+    "Pages with broken file links",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ambika Statue",
+        "class_id": "22132",
+        "rank": "AA",
+        "affct": "ART",
+        "birthday": "04-26",
+        "description": "On Apr 26, 1034 AD, the statue of Ambika was carved by Jains.<br>This white marble statue is a statue of the goddess Ambika, carved during the Paramara Dynasty in ancient India. The sculpture Ambika stands on a stepped base in the form of a relief, with a wreath crown on her head, long hair hanging on the side, and a blessing inscribed on its back. Ambika is one of the 24 yaksha women of Jain mythology. In typical images, she has four arms, but in this statue, she only has two arms - one holding …",
+        "fame": "31",
+        "art": "69",
+        "fth": "45",
+        "civ": "48",
+        "tech": "35",
+        "ss1": "Per 50 Orange Orbs drawn, Snail ATK +2<br>Per 50 Orange Orbs drawn, Snail RUSH +2<br>Orange Orbs Drawn: 2000/2000",
+        "ss2": "Per 50 Orange Orbs drawn, Snail ATK +3<br>Per 50 Orange Orbs drawn, Snail RUSH +3<br>Orange Orbs Drawn: 2000/2000",
+        "ss3": "Per 50 Orange Orbs drawn, Snail ATK +4<br>Per 50 Orange Orbs drawn, Snail RUSH +4<br>Orange Orbs Drawn: 2000/2000",
+        "ss4": "Per 50 Orange Orbs drawn, Snail ATK +6<br>Per 50 Orange Orbs drawn, Snail RUSH +6<br>Orange Orbs Drawn: 2000/2000",
+        "ss5": "Per 50 Orange Orbs drawn, Snail ATK +8<br>Per 50 Orange Orbs drawn, Snail RUSH +8<br>Orange Orbs Drawn: 2000/2000",
+        "ss7": "Per 50 Orange Orbs drawn, Snail ATK +8<br>Per 50 Orange Orbs drawn, Snail RUSH +8<br>Orange Orbs Drawn: 2000/2000<br>Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Minion Sim skill II.png|50px]]Place in Minion Sims: In Minion Sims, Troop HP Regen +600",
+        "skill2": "[[File:Minion Sim skill II.png|50px]]Place in Minion Sims: In Minion Sims, Troop ATK +4.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ambika_Statue.wiki",
+  "markdown_path": "markdown/Ambika_Statue.md"
+}

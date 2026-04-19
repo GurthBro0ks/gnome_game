@@ -1,0 +1,47 @@
+{
+  "pageid": 10404,
+  "ns": 0,
+  "title": "Anniversary Photo Album",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Anniversary_Photo_Album",
+  "touched": "2025-08-11T10:49:32Z",
+  "length": 794,
+  "lastrevid": 38168,
+  "revision": {
+    "revid": 38168,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:49:32Z",
+    "sha1": "81c38310d62fe8afba5eb22ad7a7c0ac86424d51",
+    "size": 794
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Anniversary Photo Album",
+        "class_id": "20628",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "The album that has recorded every interesting event happened in the traveler's life over the last year. Looks plain from the outside, the memories it kept are invaluable, which makes it a unique collectible.",
+        "fame": "15",
+        "art": "31",
+        "fth": "18",
+        "civ": "15",
+        "tech": "16",
+        "ss1": "Snail HP +100<br>Per partner you have, Snail ATK +4<br>Current Partners: 15/15",
+        "ss2": "Snail HP +200<br>Per partner you have, Snail ATK +8<br>Current Partners: 15/15",
+        "ss3": "Snail HP +300<br>Per partner you have, Snail ATK +12<br>Current Partners: 15/15",
+        "ss4": "Snail HP +300<br>Per partner you have, Snail ATK +12<br>Current Partners: 15/15",
+        "ss7": "Snail HP +300<br>Per partner you have, Snail ATK +12<br>Current Partners: 15/15<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Anniversary_Photo_Album.wiki",
+  "markdown_path": "markdown/Anniversary_Photo_Album.md"
+}

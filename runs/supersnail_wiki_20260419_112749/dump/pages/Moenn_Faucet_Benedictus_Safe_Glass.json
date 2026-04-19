@@ -1,0 +1,33 @@
+{
+  "pageid": 9290,
+  "ns": 0,
+  "title": "Moenn Faucet+Benedictus Safe Glass",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Moenn_Faucet%2BBenedictus_Safe_Glass",
+  "touched": "2025-06-20T00:19:19Z",
+  "length": 176,
+  "lastrevid": 36172,
+  "revision": {
+    "revid": 36172,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:19:19Z",
+    "sha1": "10322a2c14dfc5e08b400b492ed300f55bbf4785",
+    "size": 176
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "595",
+        "relics": "Moenn Faucet,Benedictus Safe Glass",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Demon Minions in battle: Troop HARD Stats +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Moenn_Faucet_Benedictus_Safe_Glass.wiki",
+  "markdown_path": "markdown/Moenn_Faucet_Benedictus_Safe_Glass.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 11082,
+  "ns": 0,
+  "title": "Medal of War",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Medal_of_War",
+  "touched": "2025-08-11T11:11:38Z",
+  "length": 958,
+  "lastrevid": 39126,
+  "revision": {
+    "revid": 39126,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:11:38Z",
+    "sha1": "8fae6185f997c53a398101c7eb0b743ddc37a9ba",
+    "size": 958
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Medal of War",
+        "class_id": "20580",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The Demon God's apostles ravage, Earth's will awards this honor medal to commend travelers who made outstanding contributions in Murika battles, encouraging them to go all out to eliminate the apostles! -- Earth's Will (Seal)",
+        "fame": "16",
+        "art": "14",
+        "fth": "17",
+        "civ": "30",
+        "tech": "13",
+        "ss1": "Per 2 Apostles Dominated, Snail DEF +1<br>Per 2 Apostles Dominated, Snail RUSH +1<br>Apostles Dominated: 50/50",
+        "ss2": "Per 2 Apostles Dominated, Snail DEF +2<br>Per 2 Apostles Dominated, Snail RUSH +2<br>Apostles Dominated: 50/50",
+        "ss3": "Per 2 Apostles Dominated, Snail DEF +3<br>Per 2 Apostles Dominated, Snail RUSH +3<br>Apostles Dominated: 50/50",
+        "ss4": "Per 2 Apostles Dominated, Snail DEF +3<br>Per 2 Apostles Dominated, Snail RUSH +3<br>Apostles Dominated: 50/50",
+        "ss7": "Per 2 Apostles Dominated, Snail DEF +3<br>Per 2 Apostles Dominated, Snail RUSH +3<br>Apostles Dominated: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Medal_of_War.wiki",
+  "markdown_path": "markdown/Medal_of_War.md"
+}

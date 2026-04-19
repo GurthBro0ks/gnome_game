@@ -1,0 +1,33 @@
+{
+  "pageid": 9307,
+  "ns": 0,
+  "title": "Neapolitan Fisherboy+Beach at Trouville",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Neapolitan_Fisherboy%2BBeach_at_Trouville",
+  "touched": "2025-06-20T00:20:46Z",
+  "length": 183,
+  "lastrevid": 36220,
+  "revision": {
+    "revid": 36220,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:20:46Z",
+    "sha1": "5c7dd61a7519b87e0234651c6fa60b377518624c",
+    "size": 183
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "622",
+        "relics": "Neapolitan Fisherboy,Beach at Trouville",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Dismantle 1 Orange Brand: Gain 1 more fragment by 10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Neapolitan_Fisherboy_Beach_at_Trouville.wiki",
+  "markdown_path": "markdown/Neapolitan_Fisherboy_Beach_at_Trouville.md"
+}

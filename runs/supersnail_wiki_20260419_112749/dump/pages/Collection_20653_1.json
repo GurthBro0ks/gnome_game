@@ -1,0 +1,47 @@
+{
+  "pageid": 11033,
+  "ns": 0,
+  "title": "Collection@20653 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20653_1",
+  "touched": "2025-08-11T11:09:49Z",
+  "length": 542,
+  "lastrevid": 39048,
+  "revision": {
+    "revid": 39048,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:09:49Z",
+    "sha1": "a5eeeacbf5cc3e9b2e241971610e73889fbffb1d",
+    "size": 542
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20653_1",
+        "class_id": "20653",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "collection@20653_2",
+        "fame": "13",
+        "art": "31",
+        "fth": "17",
+        "civ": "14",
+        "tech": "15",
+        "ss1": "Snail Leadership +2<br>prop@58573_2<br>Lucky Star Gained: 3600/3600",
+        "ss2": "Snail Leadership +4<br>prop@58573_2<br>Lucky Star Gained: 3600/3600",
+        "ss3": "Snail Leadership +6<br>prop@58573_2<br>Lucky Star Gained: 3600/3600",
+        "ss4": "Snail Leadership +6<br>prop@58573_2<br>Lucky Star Gained: 3600/3600",
+        "ss7": "Snail Leadership +6<br>prop@58573_2<br>Lucky Star Gained: 3600/3600<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20653_1.wiki",
+  "markdown_path": "markdown/Collection_20653_1.md"
+}

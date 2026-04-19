@@ -1,0 +1,35 @@
+{
+  "pageid": 3324,
+  "ns": 0,
+  "title": "Haradric Cube+Im's Arrow+Peacock Clock",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Haradric_Cube%2BIm%27s_Arrow%2BPeacock_Clock",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 237,
+  "lastrevid": 18359,
+  "revision": {
+    "revid": 18359,
+    "parentid": 17767,
+    "timestamp": "2023-11-13T21:23:37Z",
+    "sha1": "07eadcec8547a790fcbd188f23420b7ee2a07399",
+    "size": 237
+  },
+  "categories": [
+    "Dragon Minion ATK Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Haradric Cube,Im's Arrow,Peacock Clock",
+        "rank": "blue",
+        "amount": "3",
+        "category": "minion",
+        "description": "Per 10 Dragon Minions in battle: Troop ATK +6"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Haradric_Cube_Im_s_Arrow_Peacock_Clock.wiki",
+  "markdown_path": "markdown/Haradric_Cube_Im_s_Arrow_Peacock_Clock.md"
+}

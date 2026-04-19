@@ -1,0 +1,34 @@
+{
+  "pageid": 3631,
+  "ns": 0,
+  "title": "Blood of Dracula+Death of Marat",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Blood_of_Dracula%2BDeath_of_Marat",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 173,
+  "lastrevid": 13216,
+  "revision": {
+    "revid": 13216,
+    "parentid": 0,
+    "timestamp": "2023-09-22T19:03:01Z",
+    "sha1": "c9716525f0ca5aed8d432abbf3761632b69dc956",
+    "size": 173
+  },
+  "categories": [
+    "DNA"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Blood of Dracula,Death of Marat",
+        "rank": "purple",
+        "amount": "2",
+        "category": "dna",
+        "description": "Demon Gene Research SPD +3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Blood_of_Dracula_Death_of_Marat.wiki",
+  "markdown_path": "markdown/Blood_of_Dracula_Death_of_Marat.md"
+}

@@ -1,0 +1,51 @@
+{
+  "pageid": 8732,
+  "ns": 0,
+  "title": "Venetian Mask",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Venetian_Mask",
+  "touched": "2025-06-16T20:57:11Z",
+  "length": 954,
+  "lastrevid": 34703,
+  "revision": {
+    "revid": 34703,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:57:11Z",
+    "sha1": "575d596d81ac3e13e751f37d571f1ca7a3ebb36e",
+    "size": 954
+  },
+  "categories": [
+    "ART Relics",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Venetian Mask",
+        "class_id": "22439",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "01-22",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Jan 22, 1268 AD, the Venetian masks were first documented in writing.<br>Centuries ago, Venetians already had a tradition of wearing masks. Initially, the practice was mostly limited to impoverished nobles or debtors who wore masks to evade their creditors and was thus restricted by law. However, the tradition persisted for centuries until Napoleon conquered Venice, causing the masks to vanish from sight. Almost two hundred years later, they resurfaced as a symbol of the Carnival",
+        "fame": "21",
+        "art": "46",
+        "fth": "31",
+        "civ": "30",
+        "tech": "26",
+        "ss1": "Dragon Minion ATK +1%",
+        "ss2": "Dragon Minion ATK +2%",
+        "ss3": "Dragon Minion ATK +3%",
+        "ss4": "Dragon Minion ATK +5%",
+        "ss7": "Dragon Minion ATK +5%<br>Dragon Minion ATK +5% (Awakened)",
+        "skill1": "[[File:Explorationegg skill I.png|50px]]Place in Exploration Egg: Exploration Egg hatching efficiency +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Venetian_Mask.wiki",
+  "markdown_path": "markdown/Venetian_Mask.md"
+}

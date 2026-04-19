@@ -1,0 +1,47 @@
+{
+  "pageid": 2808,
+  "ns": 0,
+  "title": "Species Purge List",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Species_Purge_List",
+  "touched": "2025-08-11T10:32:19Z",
+  "length": 937,
+  "lastrevid": 37422,
+  "revision": {
+    "revid": 37422,
+    "parentid": 32232,
+    "timestamp": "2025-08-11T10:32:19Z",
+    "sha1": "ac9ea5022b894998df52cb947e5a5481e8b71f5c",
+    "size": 937
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Species Purge List",
+        "class_id": "20441",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This list released by the cadres of the snails includes the many races that are potential threats to the clan. It also calls on the snails to unite against the outside world and be proactive in the impending species war...",
+        "fame": "31",
+        "art": "15",
+        "fth": "19",
+        "civ": "14",
+        "tech": "11",
+        "ss1": "In Species War, Troop Casualty -1%<br>Per Species War joined, Snail ATK +2<br>Species War Enlisted: 20/20",
+        "ss2": "In Species War, Troop Casualty -2%<br>Per Species War joined, Snail ATK +4<br>Species War Enlisted: 20/20",
+        "ss3": "In Species War, Troop Casualty -3%<br>Per Species War joined, Snail ATK +6<br>Species War Enlisted: 20/20",
+        "ss4": "In Species War, Troop Casualty -3%<br>Per Species War joined, Snail ATK +6<br>Species War Enlisted: 20/20",
+        "ss7": "In Species War, Troop Casualty -3%<br>Per Species War joined, Snail ATK +6<br>Species War Enlisted: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Species_Purge_List.wiki",
+  "markdown_path": "markdown/Species_Purge_List.md"
+}

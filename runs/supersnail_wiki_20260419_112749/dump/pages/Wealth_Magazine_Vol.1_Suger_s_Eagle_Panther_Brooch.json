@@ -1,0 +1,33 @@
+{
+  "pageid": 4173,
+  "ns": 0,
+  "title": "Wealth Magazine Vol.1+Suger's Eagle+Panther Brooch",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wealth_Magazine_Vol.1%2BSuger%27s_Eagle%2BPanther_Brooch",
+  "touched": "2025-06-20T00:03:19Z",
+  "length": 163,
+  "lastrevid": 35815,
+  "revision": {
+    "revid": 35815,
+    "parentid": 18367,
+    "timestamp": "2025-06-20T00:03:19Z",
+    "sha1": "ce771e2d97b7dbb3c68a057eb1b3ad0206170ff9",
+    "size": 163
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "528",
+        "relics": "Wealth Magazine Vol.1,Suger's Eagle,Panther Brooch",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Dragon Minion MAX +8"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wealth_Magazine_Vol.1_Suger_s_Eagle_Panther_Brooch.wiki",
+  "markdown_path": "markdown/Wealth_Magazine_Vol.1_Suger_s_Eagle_Panther_Brooch.md"
+}

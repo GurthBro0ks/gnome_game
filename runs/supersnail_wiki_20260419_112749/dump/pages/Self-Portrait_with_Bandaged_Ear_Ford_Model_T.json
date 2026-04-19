@@ -1,0 +1,35 @@
+{
+  "pageid": 7989,
+  "ns": 0,
+  "title": "Self-Portrait with Bandaged Ear+Ford Model T",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Self-Portrait_with_Bandaged_Ear%2BFord_Model_T",
+  "touched": "2025-02-22T17:24:44Z",
+  "length": 318,
+  "lastrevid": 33442,
+  "revision": {
+    "revid": 33442,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:45:22Z",
+    "sha1": "ab6778ddc998c483d496387fee8a2bac619c21ad",
+    "size": 318
+  },
+  "categories": [
+    "Primeval Power Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Self-Portrait with Bandaged Ear,Ford Model T",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 50 Hellas Soul Nail of Revelation Reforged, Snail Primeval Power +7; Hellas Soul Nail of Revelation Reforged: 3,000/3,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Self-Portrait_with_Bandaged_Ear_Ford_Model_T.wiki",
+  "markdown_path": "markdown/Self-Portrait_with_Bandaged_Ear_Ford_Model_T.md"
+}

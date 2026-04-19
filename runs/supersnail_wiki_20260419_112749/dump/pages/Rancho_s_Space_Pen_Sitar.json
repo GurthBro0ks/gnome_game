@@ -1,0 +1,33 @@
+{
+  "pageid": 8449,
+  "ns": 0,
+  "title": "Rancho's Space Pen+Sitar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rancho%27s_Space_Pen%2BSitar",
+  "touched": "2025-06-20T00:13:29Z",
+  "length": 161,
+  "lastrevid": 35983,
+  "revision": {
+    "revid": 35983,
+    "parentid": 34324,
+    "timestamp": "2025-06-20T00:13:29Z",
+    "sha1": "5a3414eec051cc1298d7faea28bb6f571689532e",
+    "size": 161
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "611",
+        "relics": "Rancho's Space Pen,Sitar",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "In Follower Recruitment, 2x Follower Drops +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Rancho_s_Space_Pen_Sitar.wiki",
+  "markdown_path": "markdown/Rancho_s_Space_Pen_Sitar.md"
+}

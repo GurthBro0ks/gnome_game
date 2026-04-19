@@ -1,0 +1,35 @@
+{
+  "pageid": 6613,
+  "ns": 0,
+  "title": "Aurelius on Horse+Mysterious Relic+Mysterious Relic+Mysterious Relic+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Aurelius_on_Horse%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:54Z",
+  "length": 271,
+  "lastrevid": 27049,
+  "revision": {
+    "revid": 27049,
+    "parentid": 0,
+    "timestamp": "2024-05-19T22:08:34Z",
+    "sha1": "3f18bd827d8c5873f159d72d3a63362064425fc6",
+    "size": 271
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Aurelius on Horse,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic",
+        "rank": "orange",
+        "amount": "6",
+        "category": "minion",
+        "description": "Snail Leadership +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Aurelius_on_Horse_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Aurelius_on_Horse_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic.md"
+}

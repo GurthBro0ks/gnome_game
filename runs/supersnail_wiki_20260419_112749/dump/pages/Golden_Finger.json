@@ -1,0 +1,69 @@
+{
+  "pageid": 1307,
+  "ns": 0,
+  "title": "Golden Finger",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Finger",
+  "touched": "2025-01-07T11:14:51Z",
+  "length": 2300,
+  "lastrevid": 29987,
+  "revision": {
+    "revid": 29987,
+    "parentid": 26081,
+    "timestamp": "2024-10-15T15:37:06Z",
+    "sha1": "5f9778d5143ddcf53d52fb3135e919bef166da23",
+    "size": 2300
+  },
+  "categories": [
+    "Chika Boost",
+    "DEF Boost",
+    "DEF-Fungi Boost",
+    "Exploration B-tad Drop Boost",
+    "FTH Relics",
+    "Fungus Farm Upgrade Cost Reduction",
+    "Lumber Camp Output Boost",
+    "Lumber Camp Skill",
+    "Orange FTH Relics",
+    "Orange Relics",
+    "Quarry Output Boost",
+    "Quarry Skill",
+    "Realm Boost",
+    "Relics",
+    "Rewards Crystal of Will",
+    "Tadpole Pond Upgrade Cost Reduction",
+    "Time Machine Upgrade Cost Reduction",
+    "Yamato Exploration Boost",
+    "Yamato Museum Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Golden Finger",
+        "rank": "S",
+        "affct": "FTH",
+        "birthday": "08-26",
+        "source": "* FTH Master Scrolls (31.5%), Fragment Crafting (15.1%), Lottery Machine (0.81%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), Wishing (0.53%)\n* Tap the rock in front of the garage 999 times\n* Give [[Mailbox#Peter Jr.|Peter Jr.]] 20 0-star reviews in the same conversation",
+        "description": "On Aug 26, 2020 AD, a god gamer fainted from exhaustion.\n\nAfter 999 taps, the legendary gamer overcame all odds and activated the power of the Golden Finger, launching a successful career in hacking. From then on, no game was ever a challenge. Gaming companies threatened to sue, but to no avail.",
+        "fame": "61",
+        "art": "54",
+        "fth": "100",
+        "civ": "64",
+        "tech": "53",
+        "ss1": "Tadpole Pond upgrade B-tad Cost -1%<br>Fungus Farm upgrade B-tad Cost -1%<br>Time Machine upgrade B-tad Cost -1%",
+        "ss2": "Tadpole Pond upgrade B-tad Cost -2%<br>Fungus Farm upgrade B-tad Cost -2%<br>Time Machine upgrade B-tad Cost -2%",
+        "ss3": "Tadpole Pond upgrade B-tad Cost -3%<br>Fungus Farm upgrade B-tad Cost -3%<br>Time Machine upgrade B-tad Cost -3%",
+        "ss4": "Tadpole Pond upgrade B-tad Cost -5%<br>Fungus Farm upgrade B-tad Cost -5%<br>Time Machine upgrade B-tad Cost -5%",
+        "ss5": "Tadpole Pond upgrade B-tad Cost -7%<br>Fungus Farm upgrade B-tad Cost -7%<br>Time Machine upgrade B-tad Cost -7%",
+        "ss6": "Tadpole Pond upgrade B-tad Cost -10%<br>Fungus Farm upgrade B-tad Cost -10%<br>Time Machine upgrade B-tad Cost -10%",
+        "ss7": "Tadpole Pond upgrade B-tad Cost -10%<br>Fungus Farm upgrade B-tad Cost -10%<br>Time Machine upgrade B-tad Cost -10%<br>Time Machine upgrade B-tad Cost -10% (Awakened)",
+        "skill1": "{{Skills|yamato|btad drops|15}}",
+        "skill2": "{{Skills|quarry|stone output|30}}",
+        "skill3": "{{Skills|lumbercamp|wood output|30}}",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Finger.wiki",
+  "markdown_path": "markdown/Golden_Finger.md"
+}

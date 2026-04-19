@@ -1,0 +1,47 @@
+{
+  "pageid": 10768,
+  "ns": 0,
+  "title": "Moon Palace Tour Guide",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Moon_Palace_Tour_Guide",
+  "touched": "2025-08-11T11:01:07Z",
+  "length": 785,
+  "lastrevid": 38670,
+  "revision": {
+    "revid": 38670,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:01:07Z",
+    "sha1": "30a299d8be2a30c6b93fdcf2afbb5e9bd9d2639a",
+    "size": 785
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Moon Palace Tour Guide",
+        "class_id": "20948",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "In planning the reconstruction of the Moon Palace, Chang'e prepared this tour guide manual, which provides detailed information on various scenic spots within the palace and optimal viewing times.",
+        "fame": "28",
+        "art": "15",
+        "fth": "13",
+        "civ": "16",
+        "tech": "18",
+        "ss1": "Snail HP +200<br>Per 20 CIV Wishes made, Snail ATK +1<br>Wishes Made: 1000/1000",
+        "ss2": "Snail HP +400<br>Per 20 CIV Wishes made, Snail ATK +2<br>Wishes Made: 1000/1000",
+        "ss3": "Snail HP +600<br>Per 20 CIV Wishes made, Snail ATK +3<br>Wishes Made: 1000/1000",
+        "ss4": "Snail HP +600<br>Per 20 CIV Wishes made, Snail ATK +3<br>Wishes Made: 1000/1000",
+        "ss7": "Snail HP +600<br>Per 20 CIV Wishes made, Snail ATK +3<br>Wishes Made: 1000/1000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Moon_Palace_Tour_Guide.wiki",
+  "markdown_path": "markdown/Moon_Palace_Tour_Guide.md"
+}

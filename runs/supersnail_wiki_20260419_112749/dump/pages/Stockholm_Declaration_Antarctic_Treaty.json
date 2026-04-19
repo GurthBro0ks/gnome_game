@@ -1,0 +1,33 @@
+{
+  "pageid": 4207,
+  "ns": 0,
+  "title": "Stockholm Declaration+Antarctic Treaty",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Stockholm_Declaration%2BAntarctic_Treaty",
+  "touched": "2025-06-20T00:00:17Z",
+  "length": 200,
+  "lastrevid": 35741,
+  "revision": {
+    "revid": 35741,
+    "parentid": 18535,
+    "timestamp": "2025-06-20T00:00:17Z",
+    "sha1": "0b053a1d8c302dd7717ff0ce4034781ac4b36702",
+    "size": 200
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "454",
+        "relics": "Stockholm Declaration,Antarctic Treaty",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 30 Tool Chests opened, Snail DEF +7;Tool Chests Opened: 1500/1500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Stockholm_Declaration_Antarctic_Treaty.wiki",
+  "markdown_path": "markdown/Stockholm_Declaration_Antarctic_Treaty.md"
+}

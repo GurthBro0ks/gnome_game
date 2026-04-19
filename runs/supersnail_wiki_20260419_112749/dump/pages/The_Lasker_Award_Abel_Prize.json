@@ -1,0 +1,35 @@
+{
+  "pageid": 8319,
+  "ns": 0,
+  "title": "The Lasker Award+Abel Prize",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Lasker_Award%2BAbel_Prize",
+  "touched": "2025-06-16T20:52:34Z",
+  "length": 209,
+  "lastrevid": 34108,
+  "revision": {
+    "revid": 34108,
+    "parentid": 0,
+    "timestamp": "2025-04-21T03:40:28Z",
+    "sha1": "2d6cafc7248db3b185b286b37629be25aa00c79f",
+    "size": 209
+  },
+  "categories": [
+    "Frost Sanctum Boost",
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Lasker Award,Abel Prize",
+        "rank": "orange",
+        "amount": "2",
+        "category": "home",
+        "description": "Frost Sanctum, Glorium Output +14%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Lasker_Award_Abel_Prize.wiki",
+  "markdown_path": "markdown/The_Lasker_Award_Abel_Prize.md"
+}

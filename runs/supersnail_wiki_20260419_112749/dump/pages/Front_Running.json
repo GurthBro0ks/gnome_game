@@ -1,0 +1,47 @@
+{
+  "pageid": 3106,
+  "ns": 0,
+  "title": "Front Running",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Front_Running",
+  "touched": "2025-08-11T11:18:00Z",
+  "length": 559,
+  "lastrevid": 39403,
+  "revision": {
+    "revid": 39403,
+    "parentid": 32208,
+    "timestamp": "2025-08-11T11:18:00Z",
+    "sha1": "50f9d4828a60dab7cd255cae3eabe84e15079840",
+    "size": 559
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Front Running",
+        "class_id": "20449",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "An illegal operation where fund managers use their own funds to buy stocks at low prices, then use investors' money to increase the stock's value, and finally sell their own stocks for a profit.",
+        "fame": "31",
+        "art": "12",
+        "fth": "18",
+        "civ": "16",
+        "tech": "12",
+        "ss1": "Against Hamsters, Troop Casualty -1%",
+        "ss2": "Against Hamsters, Troop Casualty -2%",
+        "ss3": "Against Hamsters, Troop Casualty -3%",
+        "ss4": "Against Hamsters, Troop Casualty -3%",
+        "ss7": "Against Hamsters, Troop Casualty -3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Front_Running.wiki",
+  "markdown_path": "markdown/Front_Running.md"
+}

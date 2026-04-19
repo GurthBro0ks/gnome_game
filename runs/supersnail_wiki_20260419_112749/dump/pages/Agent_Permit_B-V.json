@@ -1,0 +1,47 @@
+{
+  "pageid": 107,
+  "ns": 0,
+  "title": "Agent Permit B-V",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Agent_Permit_B-V",
+  "touched": "2025-08-11T10:56:55Z",
+  "length": 830,
+  "lastrevid": 38487,
+  "revision": {
+    "revid": 38487,
+    "parentid": 11780,
+    "timestamp": "2025-08-11T10:56:55Z",
+    "sha1": "d72b94ba3ccdbf35f948d628194ad1abfd374187",
+    "size": 830
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Agent Permit B-V",
+        "class_id": "20324",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The holder of the card is a mid-level agent of the Bureau of Investigation and has law enforcement powers in accordance with federal statutes. Please cooperate with their inquiries and searches, otherwise the agent has the right to use force! —Bureau of Investigation (Stamp)",
+        "fame": "12",
+        "art": "20",
+        "fth": "19",
+        "civ": "10",
+        "tech": "29",
+        "ss1": "Per Junior Agent defeated, Snail RUSH +2<br>Junior Agents Defeated: 20/20",
+        "ss2": "Per Junior Agent defeated, Snail RUSH +4<br>Junior Agents Defeated: 20/20",
+        "ss3": "Per Junior Agent defeated, Snail RUSH +6<br>Junior Agents Defeated: 20/20",
+        "ss4": "Per Junior Agent defeated, Snail RUSH +6<br>Junior Agents Defeated: 20/20",
+        "ss7": "Per Junior Agent defeated, Snail RUSH +6<br>Junior Agents Defeated: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Agent_Permit_B-V.wiki",
+  "markdown_path": "markdown/Agent_Permit_B-V.md"
+}

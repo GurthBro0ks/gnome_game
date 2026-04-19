@@ -1,0 +1,47 @@
+{
+  "pageid": 621,
+  "ns": 0,
+  "title": "Superior Fighter Medal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Superior_Fighter_Medal",
+  "touched": "2025-08-11T10:31:59Z",
+  "length": 568,
+  "lastrevid": 37408,
+  "revision": {
+    "revid": 37408,
+    "parentid": 16490,
+    "timestamp": "2025-08-11T10:31:59Z",
+    "sha1": "ab15478ed4ce7795a29c490217c7bc5cdf6f53b3",
+    "size": 568
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Superior Fighter Medal",
+        "class_id": "20937",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "A customized medal, specially made by the Traveler Association for new members who passed the Superior Fighter Evaluation to recognize their mighty power.",
+        "fame": "33",
+        "art": "19",
+        "fth": "13",
+        "civ": "12",
+        "tech": "13",
+        "ss1": "Per Sign-In, Snail ATK +3<br>Sign-Ins: 20/20",
+        "ss2": "Per Sign-In, Snail ATK +4<br>Sign-Ins: 20/20",
+        "ss3": "Per Sign-In, Snail ATK +5<br>Sign-Ins: 20/20",
+        "ss4": "Per Sign-In, Snail ATK +5<br>Sign-Ins: 20/20",
+        "ss7": "Per Sign-In, Snail ATK +5<br>Sign-Ins: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Superior_Fighter_Medal.wiki",
+  "markdown_path": "markdown/Superior_Fighter_Medal.md"
+}

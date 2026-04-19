@@ -1,0 +1,47 @@
+{
+  "pageid": 10453,
+  "ns": 0,
+  "title": "Wednesday Star",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wednesday_Star",
+  "touched": "2025-08-11T10:51:04Z",
+  "length": 604,
+  "lastrevid": 38237,
+  "revision": {
+    "revid": 38237,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:51:04Z",
+    "sha1": "32c4a8a23ed0b7c82894c45e36509abd3bde2ae9",
+    "size": 604
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Wednesday Star",
+        "class_id": "20393",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Fortune Law 4: Nothing is perfect, and you cannot have both spring flowers and autumn moon at the same time!",
+        "fame": "16",
+        "art": "14",
+        "fth": "13",
+        "civ": "16",
+        "tech": "31",
+        "ss1": "Per 10 Lucky Star, Snail RUSH +1<br>Lucky Star Gained: 800/800",
+        "ss2": "Per 10 Lucky Star, Snail RUSH +2<br>Lucky Star Gained: 800/800",
+        "ss3": "Per 10 Lucky Star, Snail RUSH +3<br>Lucky Star Gained: 800/800",
+        "ss4": "Per 10 Lucky Star, Snail RUSH +3<br>Lucky Star Gained: 800/800",
+        "ss7": "Per 10 Lucky Star, Snail RUSH +3<br>Lucky Star Gained: 800/800<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wednesday_Star.wiki",
+  "markdown_path": "markdown/Wednesday_Star.md"
+}

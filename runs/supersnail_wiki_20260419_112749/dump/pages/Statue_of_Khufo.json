@@ -1,0 +1,47 @@
+{
+  "pageid": 7732,
+  "ns": 0,
+  "title": "Statue of Khufo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Statue_of_Khufo",
+  "touched": "2025-08-11T10:43:59Z",
+  "length": 622,
+  "lastrevid": 37927,
+  "revision": {
+    "revid": 37927,
+    "parentid": 32513,
+    "timestamp": "2025-08-11T10:43:59Z",
+    "sha1": "e880e38b419dcf24e57ec6a5e9300d832516049c",
+    "size": 622
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Statue of Khufo",
+        "class_id": "20267",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "Carved from ivory, this is a statue of a pharaoh of the fourth dynasty of ancient Egypt. Only those recognized by the pharaoh are qualified to obtain and display this statue.",
+        "fame": "19",
+        "art": "13",
+        "fth": "29",
+        "civ": "14",
+        "tech": "15",
+        "ss1": "Per 5 Quarry LVLs, Snail HP +30<br>Quarry LVL: 50/50",
+        "ss2": "Per 5 Quarry LVLs, Snail HP +60<br>Quarry LVL: 50/50",
+        "ss3": "Per 5 Quarry LVLs, Snail HP +90<br>Quarry LVL: 50/50",
+        "ss4": "Per 5 Quarry LVLs, Snail HP +90<br>Quarry LVL: 50/50",
+        "ss7": "Per 5 Quarry LVLs, Snail HP +90<br>Quarry LVL: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Statue_of_Khufo.wiki",
+  "markdown_path": "markdown/Statue_of_Khufo.md"
+}

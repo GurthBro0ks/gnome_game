@@ -1,0 +1,33 @@
+{
+  "pageid": 3751,
+  "ns": 0,
+  "title": "Iliad & Odyssey+Arthur's Roundtable",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Iliad_%26_Odyssey%2BArthur%27s_Roundtable",
+  "touched": "2025-06-20T00:04:35Z",
+  "length": 166,
+  "lastrevid": 35846,
+  "revision": {
+    "revid": 35846,
+    "parentid": 13649,
+    "timestamp": "2025-06-20T00:04:35Z",
+    "sha1": "af3babe3e67ae1bb0105fb660a91131f2755011c",
+    "size": 166
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "163",
+        "relics": "Iliad & Odyssey,Arthur's Roundtable",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Quarry produces Ancient Fossil by +14%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Iliad_Odyssey_Arthur_s_Roundtable.wiki",
+  "markdown_path": "markdown/Iliad_Odyssey_Arthur_s_Roundtable.md"
+}

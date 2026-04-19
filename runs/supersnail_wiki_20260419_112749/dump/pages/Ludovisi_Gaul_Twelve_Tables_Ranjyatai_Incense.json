@@ -1,0 +1,34 @@
+{
+  "pageid": 3322,
+  "ns": 0,
+  "title": "Ludovisi Gaul+Twelve Tables+Ranjyatai Incense",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ludovisi_Gaul%2BTwelve_Tables%2BRanjyatai_Incense",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 185,
+  "lastrevid": 12059,
+  "revision": {
+    "revid": 12059,
+    "parentid": 0,
+    "timestamp": "2023-09-13T08:32:18Z",
+    "sha1": "b6a5a0bf2e1b6075eb101850b2dc17dc9ff79a76",
+    "size": 185
+  },
+  "categories": [
+    "DNA"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Ludovisi Gaul,Twelve Tables,Ranjyatai Incense",
+        "rank": "blue",
+        "amount": "3",
+        "category": "dna",
+        "description": "Demon Gene Research SPD +3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ludovisi_Gaul_Twelve_Tables_Ranjyatai_Incense.wiki",
+  "markdown_path": "markdown/Ludovisi_Gaul_Twelve_Tables_Ranjyatai_Incense.md"
+}

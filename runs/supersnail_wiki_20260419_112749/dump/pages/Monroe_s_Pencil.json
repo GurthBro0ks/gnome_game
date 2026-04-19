@@ -1,0 +1,50 @@
+{
+  "pageid": 4481,
+  "ns": 0,
+  "title": "Monroe's Pencil",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Monroe%27s_Pencil",
+  "touched": "2025-06-19T23:59:09Z",
+  "length": 1137,
+  "lastrevid": 35722,
+  "revision": {
+    "revid": 35722,
+    "parentid": 34916,
+    "timestamp": "2025-06-19T23:59:09Z",
+    "sha1": "388e6d8697a301e2b4613fda151da51b8910f060",
+    "size": 1137
+  },
+  "categories": [
+    "Blue FAME Relics",
+    "Blue Relics",
+    "FAME Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Monroe's Pencil",
+        "class_id": "22019",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "02-05",
+        "source": "Lottery Machine No.2 (0.07%), Wishing (0.03%)",
+        "description": "On Feb 5, 1812 AD, William Monroe made the first pencil in the world.<br>By inlaying a piece of graphite in the groove bar of wood, an American carpenter named William Monroe made the first wood pencil in the world. Moreover, he also invented the pencil-making machine that was able to cut the wood into slats and create a groove for the lead. This pencil-making technique lasted for more than two hundred years.",
+        "fame": "45",
+        "art": "25",
+        "fth": "22",
+        "civ": "30",
+        "tech": "32",
+        "ss1": "Per 100k Relic Points gained, Snail ATK +1<br>Relic Points: 5000000/5000000",
+        "ss2": "Per 100k Relic Points gained, Snail ATK +2<br>Relic Points: 5000000/5000000",
+        "ss3": "Per 100k Relic Points gained, Snail ATK +3<br>Relic Points: 5000000/5000000",
+        "ss4": "Per 100k Relic Points gained, Snail ATK +5<br>Relic Points: 5000000/5000000",
+        "ss7": "Per 100k Relic Points gained, Snail ATK +5<br>Relic Points: 5000000/5000000<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Monroe_s_Pencil.wiki",
+  "markdown_path": "markdown/Monroe_s_Pencil.md"
+}

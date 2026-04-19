@@ -1,0 +1,33 @@
+{
+  "pageid": 4722,
+  "ns": 0,
+  "title": "Nebra Sky Disc+Orichalcum",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nebra_Sky_Disc%2BOrichalcum",
+  "touched": "2025-06-20T00:07:51Z",
+  "length": 184,
+  "lastrevid": 35908,
+  "revision": {
+    "revid": 35908,
+    "parentid": 18617,
+    "timestamp": "2025-06-20T00:07:51Z",
+    "sha1": "d7b66e9b78055b6fe7f550dd41b668bf50e3d056",
+    "size": 184
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "325",
+        "relics": "Nebra Sky Disc,Orichalcum",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per God of Faith Descent, Snail ATK +5;God of Faith Descended: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nebra_Sky_Disc_Orichalcum.wiki",
+  "markdown_path": "markdown/Nebra_Sky_Disc_Orichalcum.md"
+}

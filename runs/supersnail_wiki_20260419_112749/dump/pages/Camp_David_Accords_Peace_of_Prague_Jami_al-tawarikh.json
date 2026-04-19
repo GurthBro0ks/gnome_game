@@ -1,0 +1,33 @@
+{
+  "pageid": 8446,
+  "ns": 0,
+  "title": "Camp David Accords+Peace of Prague+Jami' al-tawarikh",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Camp_David_Accords%2BPeace_of_Prague%2BJami%27_al-tawarikh",
+  "touched": "2025-06-20T00:13:22Z",
+  "length": 156,
+  "lastrevid": 35977,
+  "revision": {
+    "revid": 35977,
+    "parentid": 34319,
+    "timestamp": "2025-06-20T00:13:22Z",
+    "sha1": "d86ac86a0d7a46ae300a226b222053dba2b5314c",
+    "size": 156
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "637",
+        "relics": "Camp David Accords,Peace of Prague,Jami' al-tawarikh",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Snail DEF +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Camp_David_Accords_Peace_of_Prague_Jami_al-tawarikh.wiki",
+  "markdown_path": "markdown/Camp_David_Accords_Peace_of_Prague_Jami_al-tawarikh.md"
+}

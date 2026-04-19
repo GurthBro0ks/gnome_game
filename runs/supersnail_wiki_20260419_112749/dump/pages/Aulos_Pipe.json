@@ -1,0 +1,58 @@
+{
+  "pageid": 4651,
+  "ns": 0,
+  "title": "Aulos Pipe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Aulos_Pipe",
+  "touched": "2025-09-30T21:54:14Z",
+  "length": 1565,
+  "lastrevid": 40389,
+  "revision": {
+    "revid": 40389,
+    "parentid": 40388,
+    "timestamp": "2025-09-30T21:54:14Z",
+    "sha1": "cdd04708f850f015f2a85ddc66257ca135331481",
+    "size": 1565
+  },
+  "categories": [
+    "Blue FTH Relics",
+    "Blue Relics",
+    "DEF Boost",
+    "Dragon Minion HP Boost",
+    "FTH Relics",
+    "Food Consumed Reduction",
+    "Indigent Nobleman Relics",
+    "RUSH Boost",
+    "Relic Boost",
+    "Relics",
+    "Rift Exploration Boost",
+    "Rift Museum Boost",
+    "Wishing Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Aulos Pipe",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "11-26",
+        "source": "* Lottery Machine No. 2 (0.07%)\n* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})",
+        "description": "On Nov 26, 1766 BC, the ancient Greeks used the Aulos pipe to worship the god of wine, praying for a good wine harvest in the coming year.<br>The Aulos Pipe is one of the most primitive musical instruments crafted in the ancient Greek era, and it is also a symbol of Dionysus. It is a double-pipe clarinet made of reed pipes or animal bones and an important instrument in the ceremony of Dionysus worship. Studies have shown that musicians would blow the double pipes simultaneously with each hand ho …",
+        "fame": "26",
+        "art": "33",
+        "fth": "47",
+        "civ": "18",
+        "tech": "30",
+        "ss1": "Per 20 FTH Wishes made, Snail RUSH +1<br>> Wishes Made: 1000/1000",
+        "ss2": "Per 20 FTH Wishes made, Snail RUSH +2<br>> Wishes Made: 1000/1000",
+        "ss3": "Per 20 FTH Wishes made, Snail RUSH +3<br>> Wishes Made: 1000/1000",
+        "ss4": "Per 20 FTH Wishes made, Snail RUSH +5<br>> Wishes Made: 1000/1000",
+        "ss7": "Per 20 FTH Wishes made, Snail RUSH +5<br>> Wishes Made: 1000/1000<br>Snail RUSH +50 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]] Place in Rift Museum: In the Rift, food consumed -1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Aulos_Pipe.wiki",
+  "markdown_path": "markdown/Aulos_Pipe.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4971,
+  "ns": 0,
+  "title": "Boy with Apple+A Tale of Two Cities",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Boy_with_Apple%2BA_Tale_of_Two_Cities",
+  "touched": "2025-06-20T00:07:07Z",
+  "length": 142,
+  "lastrevid": 35888,
+  "revision": {
+    "revid": 35888,
+    "parentid": 18567,
+    "timestamp": "2025-06-20T00:07:07Z",
+    "sha1": "cd7c5718ad17f7198c16611ee851ae7e8214d659",
+    "size": 142
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "414",
+        "relics": "Boy with Apple,A Tale of Two Cities",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail RUSH +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Boy_with_Apple_A_Tale_of_Two_Cities.wiki",
+  "markdown_path": "markdown/Boy_with_Apple_A_Tale_of_Two_Cities.md"
+}

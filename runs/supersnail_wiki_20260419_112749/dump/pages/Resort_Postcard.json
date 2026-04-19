@@ -1,0 +1,47 @@
+{
+  "pageid": 5707,
+  "ns": 0,
+  "title": "Resort Postcard",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Resort_Postcard",
+  "touched": "2025-08-11T11:16:04Z",
+  "length": 876,
+  "lastrevid": 39319,
+  "revision": {
+    "revid": 39319,
+    "parentid": 30866,
+    "timestamp": "2025-08-11T11:16:04Z",
+    "sha1": "40d5bdbb9371ab5ba33db8efbd03fa0ec746ca62",
+    "size": 876
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Resort Postcard",
+        "class_id": "20951",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Developed by the dev team, this commemorative postcard features high-resolution photos showcasing the scenic beauty of the resort. A perfect choice for capturing moments to share with friends and family!",
+        "fame": "30",
+        "art": "18",
+        "fth": "14",
+        "civ": "16",
+        "tech": "12",
+        "ss1": "Per Realm conquered, Snail DEF +4<br>Per Realm conquered, Snail RUSH +4<br>Realms Conquered: 8/8",
+        "ss2": "Per Realm conquered, Snail DEF +8<br>Per Realm conquered, Snail RUSH +8<br>Realms Conquered: 8/8",
+        "ss3": "Per Realm conquered, Snail DEF +12<br>Per Realm conquered, Snail RUSH +12<br>Realms Conquered: 8/8",
+        "ss4": "Per Realm conquered, Snail DEF +12<br>Per Realm conquered, Snail RUSH +12<br>Realms Conquered: 8/8",
+        "ss7": "Per Realm conquered, Snail DEF +12<br>Per Realm conquered, Snail RUSH +12<br>Realms Conquered: 8/8<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Resort_Postcard.wiki",
+  "markdown_path": "markdown/Resort_Postcard.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4704,
+  "ns": 0,
+  "title": "Einthoven's ECG+Daguerreotype Camera+Lissajous Figure",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Einthoven%27s_ECG%2BDaguerreotype_Camera%2BLissajous_Figure",
+  "touched": "2025-06-19T23:54:45Z",
+  "length": 214,
+  "lastrevid": 35691,
+  "revision": {
+    "revid": 35691,
+    "parentid": 18574,
+    "timestamp": "2025-06-19T23:54:45Z",
+    "sha1": "34491c1aba7641d7199d2705f5072990d6238c07",
+    "size": 214
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "349",
+        "relics": "Einthoven's ECG,Daguerreotype Camera,Lissajous Figure",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 3 Minion Skins crafted, Snail RUSH +12;Minion Skins crafted: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Einthoven_s_ECG_Daguerreotype_Camera_Lissajous_Figure.wiki",
+  "markdown_path": "markdown/Einthoven_s_ECG_Daguerreotype_Camera_Lissajous_Figure.md"
+}

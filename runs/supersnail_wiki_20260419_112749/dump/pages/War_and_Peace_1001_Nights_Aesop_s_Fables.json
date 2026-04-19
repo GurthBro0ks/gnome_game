@@ -1,0 +1,33 @@
+{
+  "pageid": 3801,
+  "ns": 0,
+  "title": "War and Peace+1001 Nights+Aesop's Fables",
+  "fullurl": "https://supersnail.wiki.gg/wiki/War_and_Peace%2B1001_Nights%2BAesop%27s_Fables",
+  "touched": "2025-06-20T00:00:30Z",
+  "length": 166,
+  "lastrevid": 35751,
+  "revision": {
+    "revid": 35751,
+    "parentid": 13699,
+    "timestamp": "2025-06-20T00:00:30Z",
+    "sha1": "e9474a9a5e79d47ba73ef04d45fb0511a828f122",
+    "size": 166
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "233",
+        "relics": "War and Peace,1001 Nights,Aesop's Fables",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "B-tad rewards from offering +3.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/War_and_Peace_1001_Nights_Aesop_s_Fables.wiki",
+  "markdown_path": "markdown/War_and_Peace_1001_Nights_Aesop_s_Fables.md"
+}

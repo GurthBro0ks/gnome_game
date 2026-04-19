@@ -1,0 +1,47 @@
+{
+  "pageid": 10311,
+  "ns": 0,
+  "title": "One-Shot Wonder",
+  "fullurl": "https://supersnail.wiki.gg/wiki/One-Shot_Wonder",
+  "touched": "2025-08-11T10:46:31Z",
+  "length": 815,
+  "lastrevid": 38034,
+  "revision": {
+    "revid": 38034,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:46:31Z",
+    "sha1": "2c42321963e1f8af6cb769ed7dd82811c0c76a67",
+    "size": 815
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "One-Shot Wonder",
+        "class_id": "20994",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Theorized by Forerunners to anchor possibility fragments from timelines through conceptual assault. This enigmatic causality swap perturbs higher-dimensional observers, boosting soul stability.",
+        "fame": "29",
+        "art": "15",
+        "fth": "15",
+        "civ": "17",
+        "tech": "14",
+        "ss1": "Per red reward from turning the Pendulum, Snail ATK +1<br>Red reward(s) obtained: 60/60",
+        "ss2": "Per red reward from turning the Pendulum, Snail ATK +2<br>Red reward(s) obtained: 60/60",
+        "ss3": "Per red reward from turning the Pendulum, Snail ATK +3<br>Red reward(s) obtained: 60/60",
+        "ss4": "Per red reward from turning the Pendulum, Snail ATK +3<br>Red reward(s) obtained: 60/60",
+        "ss7": "Per red reward from turning the Pendulum, Snail ATK +3<br>Red reward(s) obtained: 60/60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/One-Shot_Wonder.wiki",
+  "markdown_path": "markdown/One-Shot_Wonder.md"
+}

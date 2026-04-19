@@ -1,0 +1,33 @@
+{
+  "pageid": 4314,
+  "ns": 0,
+  "title": "Nesdac Bell+Order of Britland",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nesdac_Bell%2BOrder_of_Britland",
+  "touched": "2025-08-11T10:52:05Z",
+  "length": 157,
+  "lastrevid": 38280,
+  "revision": {
+    "revid": 38280,
+    "parentid": 15990,
+    "timestamp": "2025-08-11T10:52:05Z",
+    "sha1": "b632c26b044149ae5f93627bf9c3abe20d6578a0",
+    "size": 157
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "274",
+        "relics": "Nesdac Bell,Order of Britland",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "VIP Gem Card, daily Lottery Ticket +1"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nesdac_Bell_Order_of_Britland.wiki",
+  "markdown_path": "markdown/Nesdac_Bell_Order_of_Britland.md"
+}

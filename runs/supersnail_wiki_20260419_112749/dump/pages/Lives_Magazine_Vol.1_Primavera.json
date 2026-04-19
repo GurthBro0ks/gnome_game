@@ -1,0 +1,33 @@
+{
+  "pageid": 8548,
+  "ns": 0,
+  "title": "Lives Magazine Vol.1+Primavera",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lives_Magazine_Vol.1%2BPrimavera",
+  "touched": "2025-06-20T00:15:31Z",
+  "length": 175,
+  "lastrevid": 36065,
+  "revision": {
+    "revid": 36065,
+    "parentid": 34445,
+    "timestamp": "2025-06-20T00:15:31Z",
+    "sha1": "9cbe3509887f44bae66f652d5f69672aced42702",
+    "size": 175
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "715",
+        "relics": "Lives Magazine Vol.1,Primavera",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 catalysis, Snail ATK +7;Catalysis: 5000/5000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lives_Magazine_Vol.1_Primavera.wiki",
+  "markdown_path": "markdown/Lives_Magazine_Vol.1_Primavera.md"
+}

@@ -1,0 +1,34 @@
+{
+  "pageid": 3647,
+  "ns": 0,
+  "title": "Nefertiti Bust+Jade Cup",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nefertiti_Bust%2BJade_Cup",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 181,
+  "lastrevid": 13245,
+  "revision": {
+    "revid": 13245,
+    "parentid": 0,
+    "timestamp": "2023-09-23T15:37:37Z",
+    "sha1": "93463c47ba65d9faec69adcd3fe934faa6f5aa47",
+    "size": 181
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Nefertiti Bust,Jade Cup",
+        "rank": "purple",
+        "amount": "2",
+        "category": "other",
+        "description": "When offering, 2x Neutral Chest Drops +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nefertiti_Bust_Jade_Cup.wiki",
+  "markdown_path": "markdown/Nefertiti_Bust_Jade_Cup.md"
+}

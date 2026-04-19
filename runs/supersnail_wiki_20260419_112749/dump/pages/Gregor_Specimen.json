@@ -1,0 +1,57 @@
+{
+  "pageid": 2061,
+  "ns": 0,
+  "title": "Gregor Specimen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gregor_Specimen",
+  "touched": "2024-09-06T10:00:52Z",
+  "length": 1577,
+  "lastrevid": 22300,
+  "revision": {
+    "revid": 22300,
+    "parentid": 22228,
+    "timestamp": "2024-02-17T15:49:30Z",
+    "sha1": "1e273f1a68160b702e1b98e626cff8f23d84e211",
+    "size": 1577
+  },
+  "categories": [
+    "ART Relics",
+    "Ancient Fossil Boost",
+    "Berserker Boost",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Demonic Tentacle Boost",
+    "HP Boost",
+    "Mutant Minion ATK Boost",
+    "Quarry Output Boost",
+    "Relics",
+    "Tadpole Pond Output Boost",
+    "Tadpole Pond Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gregor Specimen",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "06-11",
+        "source": "Lottery Machine (0.03%), Wishing (1.2%), Evolution Chest (2%)",
+        "description": "On Jun 11, 1912, Gregor Samsa turned into a bug and died quietly.\n\nGregor was only an office worker but one day he woke up to realize that he had turned into a bug. After a few days, he got used to thinking like an insect. He started showing arrogance towards the dung beetle, and pitied the weaker insects. A few hours later, he and the dung beetle were made into specimens at the same time.\n\n[Classic Quotes]\n\nThe crueler it is, the soberer I get. I do not fear death. It takes one life in exchange …",
+        "fame": "28",
+        "art": "48",
+        "fth": "23",
+        "civ": "22",
+        "tech": "33",
+        "ss1": "Per 200 DNA Strength, Snail HP +30<br>DNA Strength: 800/800",
+        "ss2": "Per 200 DNA Strength, Snail HP +30<br>DNA Strength: 1,600/1,600",
+        "ss3": "Per 200 DNA Strength, Snail HP +30<br>DNA Strength: 2,400/2,400",
+        "ss4": "Per 200 DNA Strength, Snail HP +30<br>DNA Strength: 4,000/4,000",
+        "ss7": "Per 200 DNA Strength, Snail HP +30<br>DNA Strength: 4,000/4,000<br>Snail HP +500 (Awakened)",
+        "skill1": "[[File:Tadpolepond skill I.png|50px]] Place in Tadpole Pond: B-tad Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gregor_Specimen.wiki",
+  "markdown_path": "markdown/Gregor_Specimen.md"
+}

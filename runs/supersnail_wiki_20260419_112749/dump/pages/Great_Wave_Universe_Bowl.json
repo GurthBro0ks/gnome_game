@@ -1,0 +1,34 @@
+{
+  "pageid": 3265,
+  "ns": 0,
+  "title": "Great Wave+Universe Bowl",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Great_Wave%2BUniverse_Bowl",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 150,
+  "lastrevid": 11922,
+  "revision": {
+    "revid": 11922,
+    "parentid": 0,
+    "timestamp": "2023-09-12T15:28:26Z",
+    "sha1": "57bacd32f2cef8055c4bdea3651327e07fdbfc15",
+    "size": 150
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Great Wave,Universe Bowl",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Great_Wave_Universe_Bowl.wiki",
+  "markdown_path": "markdown/Great_Wave_Universe_Bowl.md"
+}

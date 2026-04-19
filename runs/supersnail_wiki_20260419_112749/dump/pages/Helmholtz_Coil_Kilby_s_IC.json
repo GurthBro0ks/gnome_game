@@ -1,0 +1,34 @@
+{
+  "pageid": 5072,
+  "ns": 0,
+  "title": "Helmholtz Coil+Kilby's IC",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Helmholtz_Coil%2BKilby%27s_IC",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 203,
+  "lastrevid": 17967,
+  "revision": {
+    "revid": 17967,
+    "parentid": 0,
+    "timestamp": "2023-11-12T21:15:29Z",
+    "sha1": "3026d231b252cfd6a7d9a13822e42b4feb5a8688",
+    "size": 203
+  },
+  "categories": [
+    "Wormhole Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Helmholtz Coil,Kilby's IC",
+        "rank": "purple",
+        "amount": "2",
+        "category": "Wormhole Boost",
+        "description": "Refine +1 White Rebel Troop Material by +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Helmholtz_Coil_Kilby_s_IC.wiki",
+  "markdown_path": "markdown/Helmholtz_Coil_Kilby_s_IC.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 3321,
+  "ns": 0,
+  "title": "Commercial Code+Rubik's Cube+Tee Virus",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Commercial_Code%2BRubik%27s_Cube%2BTee_Virus",
+  "touched": "2025-08-11T10:35:50Z",
+  "length": 158,
+  "lastrevid": 37583,
+  "revision": {
+    "revid": 37583,
+    "parentid": 12058,
+    "timestamp": "2025-08-11T10:35:50Z",
+    "sha1": "4890fbbe9bb6e51013c172ac8681d0d86347da45",
+    "size": 158
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "55",
+        "relics": "Commercial Code,Rubik's Cube,Tee Virus",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Dragon Gene Research SPD +3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Commercial_Code_Rubik_s_Cube_Tee_Virus.wiki",
+  "markdown_path": "markdown/Commercial_Code_Rubik_s_Cube_Tee_Virus.md"
+}

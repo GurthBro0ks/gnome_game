@@ -1,0 +1,35 @@
+{
+  "pageid": 4294,
+  "ns": 0,
+  "title": "Receiving the Envoy+Five Oxen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Receiving_the_Envoy%2BFive_Oxen",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 217,
+  "lastrevid": 27778,
+  "revision": {
+    "revid": 27778,
+    "parentid": 27777,
+    "timestamp": "2024-06-08T13:34:38Z",
+    "sha1": "1684a207aff25f35c11a8db38d570a7baed540aa",
+    "size": 217
+  },
+  "categories": [
+    "Minion",
+    "Minion DEF Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Receiving the Envoy,Five Oxen",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 60 Minions in battle: Troop DEF +63"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Receiving_the_Envoy_Five_Oxen.wiki",
+  "markdown_path": "markdown/Receiving_the_Envoy_Five_Oxen.md"
+}

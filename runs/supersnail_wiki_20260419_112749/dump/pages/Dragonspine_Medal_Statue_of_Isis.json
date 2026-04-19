@@ -1,0 +1,33 @@
+{
+  "pageid": 5247,
+  "ns": 0,
+  "title": "Dragonspine Medal+Statue of Isis",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dragonspine_Medal%2BStatue_of_Isis",
+  "touched": "2025-06-20T00:07:03Z",
+  "length": 169,
+  "lastrevid": 35886,
+  "revision": {
+    "revid": 35886,
+    "parentid": 19418,
+    "timestamp": "2025-06-20T00:07:03Z",
+    "sha1": "0ebdcf9eb6aaa8555952fb45bfc1fe57ee52e277",
+    "size": 169
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "507",
+        "relics": "Dragonspine Medal,Statue of Isis",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop Earth DMG +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dragonspine_Medal_Statue_of_Isis.wiki",
+  "markdown_path": "markdown/Dragonspine_Medal_Statue_of_Isis.md"
+}

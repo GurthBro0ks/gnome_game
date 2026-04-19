@@ -1,0 +1,47 @@
+{
+  "pageid": 10012,
+  "ns": 0,
+  "title": "Snowman Ice Crystal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Snowman_Ice_Crystal",
+  "touched": "2025-08-11T10:34:57Z",
+  "length": 727,
+  "lastrevid": 37542,
+  "revision": {
+    "revid": 37542,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:34:57Z",
+    "sha1": "be7e862d86a25eda877e4c484b159b06f4c22861",
+    "size": 727
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Snowman Ice Crystal",
+        "class_id": "20152",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This clear blue ice crystal is actually the core of a snowman. Whenever it snows in winter, you can put the crystal out one night to gain a living snowman the next morning. But please don't forget to remove the crystal before it melts...",
+        "fame": "15",
+        "art": "31",
+        "fth": "14",
+        "civ": "13",
+        "tech": "17",
+        "ss1": "Per Organ implanted, Snail HP +10<br>Organs Implanted: 40/40",
+        "ss2": "Per Organ implanted, Snail HP +20<br>Organs Implanted: 40/40",
+        "ss3": "Per Organ implanted, Snail HP +30<br>Organs Implanted: 40/40",
+        "ss4": "Per Organ implanted, Snail HP +30<br>Organs Implanted: 40/40",
+        "ss7": "Per Organ implanted, Snail HP +30<br>Organs Implanted: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Snowman_Ice_Crystal.wiki",
+  "markdown_path": "markdown/Snowman_Ice_Crystal.md"
+}

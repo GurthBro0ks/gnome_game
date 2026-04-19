@@ -1,0 +1,33 @@
+{
+  "pageid": 11001,
+  "ns": 0,
+  "title": "Ordinary Casket+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ordinary_Casket%2BMysterious_Relic",
+  "touched": "2025-08-11T11:08:37Z",
+  "length": 144,
+  "lastrevid": 38997,
+  "revision": {
+    "revid": 38997,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:08:37Z",
+    "sha1": "9b3e3b12d3dab77c7e2e80a329125a39bd5f7303",
+    "size": 144
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "907",
+        "relics": "Ordinary Casket,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ordinary_Casket_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Ordinary_Casket_Mysterious_Relic.md"
+}

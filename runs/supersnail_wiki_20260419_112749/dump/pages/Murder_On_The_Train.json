@@ -1,0 +1,50 @@
+{
+  "pageid": 4467,
+  "ns": 0,
+  "title": "Murder On The Train",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Murder_On_The_Train",
+  "touched": "2025-06-20T00:10:31Z",
+  "length": 1083,
+  "lastrevid": 35944,
+  "revision": {
+    "revid": 35944,
+    "parentid": 35161,
+    "timestamp": "2025-06-20T00:10:31Z",
+    "sha1": "56100dd44af84936a571746207fc76955cfcd6d9",
+    "size": 1083
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Murder On The Train",
+        "class_id": "22068",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "01-01",
+        "source": "Lottery Machine No.2 (0.07%), Wishing (0.03%)",
+        "description": "On Jan 1, 1934 AD, Murder on the Train was first published.<br>Murder On The Train is a renowned detective fiction story. It involves a murder case on a train and follows a detective's investigation of twelve suspects using complex clues to find the true killer. The book introduced a new style to detective novels, significantly influencing later literary works of the same genre.",
+        "fame": "32",
+        "art": "27",
+        "fth": "26",
+        "civ": "48",
+        "tech": "21",
+        "ss1": "Per 10 Apostles dominated, Snail ATK +3<br>Apostles Dominated: 200/200",
+        "ss2": "Per 10 Apostles dominated, Snail ATK +6<br>Apostles Dominated: 200/200",
+        "ss3": "Per 10 Apostles dominated, Snail ATK +9<br>Apostles Dominated: 200/200",
+        "ss4": "Per 10 Apostles dominated, Snail ATK +15<br>Apostles Dominated: 200/200",
+        "ss7": "Per 10 Apostles dominated, Snail ATK +15<br>Apostles Dominated: 200/200<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Murder_On_The_Train.wiki",
+  "markdown_path": "markdown/Murder_On_The_Train.md"
+}

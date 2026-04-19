@@ -1,0 +1,10 @@
+|color=green
+|earth=4
+|water=1
+|fire=0
+|wind=1
+|form=Angel
+|element=Earth
+|realm=Hellas
+|orangehard=ATK
+}}

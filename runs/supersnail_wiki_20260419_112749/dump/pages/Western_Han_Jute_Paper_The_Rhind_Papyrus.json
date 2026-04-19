@@ -1,0 +1,33 @@
+{
+  "pageid": 9276,
+  "ns": 0,
+  "title": "Western Han Jute Paper+The Rhind Papyrus",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Western_Han_Jute_Paper%2BThe_Rhind_Papyrus",
+  "touched": "2025-06-20T00:18:28Z",
+  "length": 196,
+  "lastrevid": 36134,
+  "revision": {
+    "revid": 36134,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:18:28Z",
+    "sha1": "ebd7d6357f4ee9946cb9dca1b12428f90f16e08f",
+    "size": 196
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "662",
+        "relics": "Western Han Jute Paper,The Rhind Papyrus",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 advanced fusions, Snail HP +60;Advanced Fusions: 500/500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Western_Han_Jute_Paper_The_Rhind_Papyrus.wiki",
+  "markdown_path": "markdown/Western_Han_Jute_Paper_The_Rhind_Papyrus.md"
+}

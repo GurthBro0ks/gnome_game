@@ -1,0 +1,48 @@
+<tabber>
+|-|Parsia=
+1. Tier 1 (White)
+
+[WIKITABLE OMITTED]
+
+1. Tier 2 (Green)
+
+[WIKITABLE OMITTED]
+
+1. Tier 3 (Blue)
+
+[WIKITABLE OMITTED]
+
+1. Tier 4 (Purple)
+
+[WIKITABLE OMITTED]
+
+1. Tier 5 (Orange)
+
+[WIKITABLE OMITTED]
+
+|-|Sky City=
+
+1. Tier 1 (White)
+
+[WIKITABLE OMITTED]
+
+1. Tier 2 (Green)
+
+[WIKITABLE OMITTED]
+
+1. Tier 3 (Blue)
+
+[WIKITABLE OMITTED]
+
+1. Tier 4 (Purple)
+
+[WIKITABLE OMITTED]
+
+1. Tier 5 (Orange)
+
+[WIKITABLE OMITTED]
+
+</tabber>
+
+Category:Parsia
+Category:Missing Info

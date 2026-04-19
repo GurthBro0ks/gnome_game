@@ -1,0 +1,51 @@
+{
+  "pageid": 8714,
+  "ns": 0,
+  "title": "Rameau's Nephew",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rameau%27s_Nephew",
+  "touched": "2025-06-20T00:20:51Z",
+  "length": 1281,
+  "lastrevid": 36222,
+  "revision": {
+    "revid": 36222,
+    "parentid": 34683,
+    "timestamp": "2025-06-20T00:20:51Z",
+    "sha1": "5168114e8ce0e2bdb64467152dd27dee319ee1cd",
+    "size": 1281
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Rameau's Nephew",
+        "class_id": "22468",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "06-26",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Jun 26, 1805 AD, Goethe translated \"Rameau's Nephew\" into German.<br>It is a philosophical novel by French encyclopedist Denis Diderot. It was not published during Diderot's lifetime. The novel, written in dialogue form, reveals the corruption of high society through the shameless speech of Rameau's nephew and offers unique insights into moral and artistic issues. The book breaks the boundaries of traditional tragedy and comedy, creating a new genre of serious drama, which Karl Marx considere …",
+        "fame": "31",
+        "art": "32",
+        "fth": "26",
+        "civ": "45",
+        "tech": "20",
+        "ss1": "Per 100 Recruit Tokens consumed, Snail ATK +1<br>Consumed Recruit Tokens: 5000/5000",
+        "ss2": "Per 100 Recruit Tokens consumed, Snail ATK +2<br>Consumed Recruit Tokens: 5000/5000",
+        "ss3": "Per 100 Recruit Tokens consumed, Snail ATK +3<br>Consumed Recruit Tokens: 5000/5000",
+        "ss4": "Per 100 Recruit Tokens consumed, Snail ATK +5<br>Consumed Recruit Tokens: 5000/5000",
+        "ss7": "Per 100 Recruit Tokens consumed, Snail ATK +5<br>Consumed Recruit Tokens: 5000/5000<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Mantis skill I.png|50px]]Place in Mantis Biozilla: In Species War, Troop Wind DMG +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Rameau_s_Nephew.wiki",
+  "markdown_path": "markdown/Rameau_s_Nephew.md"
+}

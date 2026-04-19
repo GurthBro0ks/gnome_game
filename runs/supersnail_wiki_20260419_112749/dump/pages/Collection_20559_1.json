@@ -1,0 +1,47 @@
+{
+  "pageid": 10724,
+  "ns": 0,
+  "title": "Collection@20559 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20559_1",
+  "touched": "2025-08-11T10:59:43Z",
+  "length": 582,
+  "lastrevid": 38610,
+  "revision": {
+    "revid": 38610,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:59:43Z",
+    "sha1": "7cb51d2982c0090cdbe806268d1511c007ad3de0",
+    "size": 582
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20559_1",
+        "class_id": "20559",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "collection@20559_2",
+        "fame": "18",
+        "art": "16",
+        "fth": "12",
+        "civ": "32",
+        "tech": "12",
+        "ss1": "Snail ATK +10<br>Per 3 Incense used, Snail RUSH +1<br>Incense Used: 150/150",
+        "ss2": "Snail ATK +20<br>Per 3 Incense used, Snail RUSH +2<br>Incense Used: 150/150",
+        "ss3": "Snail ATK +30<br>Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150",
+        "ss4": "Snail ATK +30<br>Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150",
+        "ss7": "Snail ATK +30<br>Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20559_1.wiki",
+  "markdown_path": "markdown/Collection_20559_1.md"
+}

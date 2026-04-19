@@ -1,0 +1,47 @@
+{
+  "pageid": 3135,
+  "ns": 0,
+  "title": "World's Number One",
+  "fullurl": "https://supersnail.wiki.gg/wiki/World%27s_Number_One",
+  "touched": "2025-08-11T10:53:25Z",
+  "length": 596,
+  "lastrevid": 38339,
+  "revision": {
+    "revid": 38339,
+    "parentid": 32213,
+    "timestamp": "2025-08-11T10:53:25Z",
+    "sha1": "23e4ae564d4da0798810e0a0a0f5f5bb45c28e65",
+    "size": 596
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "World's Number One",
+        "class_id": "20259",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "In every autumn, the Mantises hold a martial arts competition to see who's the best fighter of the year. The last Mantis standing in the arena will be awarded with this plaque as a recognition of their extraordinary strength.",
+        "fame": "14",
+        "art": "15",
+        "fth": "31",
+        "civ": "13",
+        "tech": "17",
+        "ss1": "Against Mantises, Troop Casualty -1%",
+        "ss2": "Against Mantises, Troop Casualty -2%",
+        "ss3": "Against Mantises, Troop Casualty -3%",
+        "ss4": "Against Mantises, Troop Casualty -3%",
+        "ss7": "Against Mantises, Troop Casualty -3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/World_s_Number_One.wiki",
+  "markdown_path": "markdown/World_s_Number_One.md"
+}

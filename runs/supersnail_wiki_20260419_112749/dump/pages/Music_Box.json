@@ -1,0 +1,29 @@
+{
+  "pageid": 2924,
+  "ns": 0,
+  "title": "Music Box",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Music_Box",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 458,
+  "lastrevid": 12444,
+  "revision": {
+    "revid": 12444,
+    "parentid": 11672,
+    "timestamp": "2023-09-15T15:34:52Z",
+    "sha1": "16e0919510080d40087c6ab45dc9ce46f7a9579b",
+    "size": 458
+  },
+  "categories": [
+    "ART Shells",
+    "ATK Boost",
+    "DEF Boost",
+    "Demon Form",
+    "Murika",
+    "Shells",
+    "Water DMG Boost"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Music_Box.wiki",
+  "markdown_path": "markdown/Music_Box.md"
+}

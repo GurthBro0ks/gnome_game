@@ -1,0 +1,47 @@
+{
+  "pageid": 7853,
+  "ns": 0,
+  "title": "Clone Genetic Blueprint",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Clone_Genetic_Blueprint",
+  "touched": "2025-08-11T10:53:37Z",
+  "length": 1095,
+  "lastrevid": 38348,
+  "revision": {
+    "revid": 38348,
+    "parentid": 32796,
+    "timestamp": "2025-08-11T10:53:37Z",
+    "sha1": "5759aa7deeaaa9b39e159d7d5e5fc120a9bb7ba9",
+    "size": 1095
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Clone Genetic Blueprint",
+        "class_id": "20829",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "A blueprint from the Microcosm world, used for creating clones. By referencing the genetic data within, an exact replica of each recorded clone can be recreated, and their shortcomings can be easily deciphered.",
+        "fame": "15",
+        "art": "14",
+        "fth": "12",
+        "civ": "13",
+        "tech": "33",
+        "ss1": "Against the Red Clone: Reduce enemy HARD stats +30%<br>Per 5 Incubator Files fully restored, Snail HP +40<br>Files fully restored: 100/100",
+        "ss2": "Against the Red Clone: Reduce enemy HARD stats +60%<br>Per 5 Incubator Files fully restored, Snail HP +50<br>Files fully restored: 100/100",
+        "ss3": "Against the Red Clone: Reduce enemy HARD stats +90%<br>Per 5 Incubator Files fully restored, Snail HP +60<br>Files fully restored: 100/100",
+        "ss4": "Against the Red Clone: Reduce enemy HARD stats +90%<br>Per 5 Incubator Files fully restored, Snail HP +60<br>Files fully restored: 100/100",
+        "ss7": "Against the Red Clone: Reduce enemy HARD stats +90%<br>Per 5 Incubator Files fully restored, Snail HP +60<br>Files fully restored: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Clone_Genetic_Blueprint.wiki",
+  "markdown_path": "markdown/Clone_Genetic_Blueprint.md"
+}

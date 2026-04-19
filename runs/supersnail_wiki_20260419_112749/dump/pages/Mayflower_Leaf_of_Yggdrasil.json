@@ -1,0 +1,34 @@
+{
+  "pageid": 3780,
+  "ns": 0,
+  "title": "Mayflower+Leaf of Yggdrasil",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mayflower%2BLeaf_of_Yggdrasil",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 178,
+  "lastrevid": 13678,
+  "revision": {
+    "revid": 13678,
+    "parentid": 0,
+    "timestamp": "2023-10-02T09:03:29Z",
+    "sha1": "566824b51b50d26336e327b886ebb169530dc40d",
+    "size": 178
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Mayflower,Leaf of Yggdrasil",
+        "rank": "orange",
+        "amount": "2",
+        "category": "other",
+        "description": "In any Realm, 2x B-tad Drops +2.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mayflower_Leaf_of_Yggdrasil.wiki",
+  "markdown_path": "markdown/Mayflower_Leaf_of_Yggdrasil.md"
+}

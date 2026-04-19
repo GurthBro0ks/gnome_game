@@ -1,0 +1,52 @@
+{
+  "pageid": 1528,
+  "ns": 0,
+  "title": "Haradric Cube",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Haradric_Cube",
+  "touched": "2024-09-06T09:57:55Z",
+  "length": 1270,
+  "lastrevid": 16593,
+  "revision": {
+    "revid": 16593,
+    "parentid": 12972,
+    "timestamp": "2023-11-07T14:54:06Z",
+    "sha1": "d24c921da00538d153e6089f8e7ec388d1ceccc4",
+    "size": 1270
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue FTH Relics",
+    "Blue Relics",
+    "Dragon Minion ATK Boost",
+    "FTH Relics",
+    "Quarry Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Haradric Cube",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "03-19",
+        "source": "Lottery Machine (0.03%), Wishing (0.85%)",
+        "description": "On Mar 19, AD 5694, Haradrim the mage created this special magical weapon. \n\nThis is a space treasure that can store bulky items. Haradrim the mage couldn't carry the heavy magic materials and created this magic item that could chance the rules of gravity. He referred to the theories of Newton, Einstein, and others, and created the Kanai's Box that could store energy. But as he violated the Mage Weapons Pact, he had to make it another way and he created the Haradric Cube instead.",
+        "fame": "22",
+        "art": "32",
+        "fth": "45",
+        "civ": "31",
+        "tech": "24",
+        "ss1": "Per 3 Gears crafted, Snail ATK +2<br>Gears Crafted: 30/30",
+        "ss2": "Per 3 Gears crafted, Snail ATK +4<br>Gears Crafted: 30/30",
+        "ss3": "Per 3 Gears crafted, Snail ATK +6<br>Gears Crafted: 30/30",
+        "ss4": "Per 3 Gears crafted, Snail ATK +10<br>Gears Crafted: 30/30",
+        "ss7": "Per 3 Gears crafted, Snail ATK +10<br>Gears Crafted: 30/30<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Quarry skill I.png|50px]] Place in Quarry: This Relic's FTH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Haradric_Cube.wiki",
+  "markdown_path": "markdown/Haradric_Cube.md"
+}

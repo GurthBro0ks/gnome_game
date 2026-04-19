@@ -1,0 +1,50 @@
+{
+  "pageid": 4743,
+  "ns": 0,
+  "title": "Einthoven's ECG",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Einthoven%27s_ECG",
+  "touched": "2025-06-16T23:08:53Z",
+  "length": 1138,
+  "lastrevid": 34885,
+  "revision": {
+    "revid": 34885,
+    "parentid": 32005,
+    "timestamp": "2025-06-16T23:08:53Z",
+    "sha1": "07bf29a242cd4747b4eb97616bf23b6e4cb1c199",
+    "size": 1138
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Einthoven's ECG",
+        "class_id": "22092",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "11-12",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Nov 12, 1901 AD, the Dutch physiologist Einthoven obtained a clear and stable electrocardiogram by improving the string-type galvanometer.<br>This electrocardiogram was personally recorded by Dr. Einthoven. Known as the father of the electrocardiogram, he not only independently designed a new type of string-type galvanometer but also used this instrument to expand the electrocardiogram that originally only included two ventricular waves to include six sets of waveforms version and is still in …",
+        "fame": "32",
+        "art": "18",
+        "fth": "32",
+        "civ": "27",
+        "tech": "45",
+        "ss1": "Zombie Minion HP +1%",
+        "ss2": "Zombie Minion HP +2%",
+        "ss3": "Zombie Minion HP +3%",
+        "ss4": "Zombie Minion HP +5%",
+        "ss7": "Zombie Minion HP +5%<br>Zombie Minion HP +5% (Awakened)",
+        "skill1": "[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, All Minion DEF +1.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Einthoven_s_ECG.wiki",
+  "markdown_path": "markdown/Einthoven_s_ECG.md"
+}

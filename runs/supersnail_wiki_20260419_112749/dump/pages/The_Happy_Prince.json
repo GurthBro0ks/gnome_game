@@ -1,0 +1,50 @@
+{
+  "pageid": 2133,
+  "ns": 0,
+  "title": "The Happy Prince",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Happy_Prince",
+  "touched": "2025-06-20T00:09:55Z",
+  "length": 1685,
+  "lastrevid": 35930,
+  "revision": {
+    "revid": 35930,
+    "parentid": 35140,
+    "timestamp": "2025-06-20T00:09:55Z",
+    "sha1": "01790e9f67b42a708a1aaf2d1334bf6a54662dc1",
+    "size": 1685
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Happy Prince",
+        "class_id": "22071",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "09-24",
+        "source": "Lottery Machine No.2 (0.26%), Wishing (0.14%)",
+        "description": "On Sept 24, 1888 AD, the subjects of Sanssouci Palace erected a statue to commemorate the Happy Prince.<br>This statue was erected by the courtiers of Sanssouci in memory of their Happy Prince. He is dressed in gold leaf, his eyes are made of sapphire, and the sword in his hand is inlaid with rubies. The statue is in the city's highest place, watching over people's livelihood. After witnessing all kinds of suffering in the world, he couldn't help shedding tears, and it awoke the swallow trying t …",
+        "fame": "33",
+        "art": "26",
+        "fth": "22",
+        "civ": "46",
+        "tech": "27",
+        "ss1": "Finish All Daily Tasks 7 times, Snail HP +10<br>All Daily Tasks Completed: 364/364",
+        "ss2": "Finish All Daily Tasks 7 times, Snail HP +20<br>All Daily Tasks Completed: 364/364",
+        "ss3": "Finish All Daily Tasks 7 times, Snail HP +30<br>All Daily Tasks Completed: 364/364",
+        "ss4": "Finish All Daily Tasks 7 times, Snail HP +50<br>All Daily Tasks Completed: 364/364",
+        "ss7": "Finish All Daily Tasks 7 times, Snail HP +50<br>All Daily Tasks Completed: 364/364<br>Snail HP +500 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Happy_Prince.wiki",
+  "markdown_path": "markdown/The_Happy_Prince.md"
+}

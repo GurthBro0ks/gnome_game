@@ -1,0 +1,34 @@
+{
+  "pageid": 3730,
+  "ns": 0,
+  "title": "Golden Chariot+Travels of Marco Polo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Chariot%2BTravels_of_Marco_Polo",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 204,
+  "lastrevid": 13628,
+  "revision": {
+    "revid": 13628,
+    "parentid": 0,
+    "timestamp": "2023-10-01T09:32:20Z",
+    "sha1": "bedada55614373413d4eb8cd09793da2fbf0d0e3",
+    "size": 204
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Golden Chariot,Travels of Marco Polo",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10k Power, Snail DEF +5<br>Power: 420,000/420,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Chariot_Travels_of_Marco_Polo.wiki",
+  "markdown_path": "markdown/Golden_Chariot_Travels_of_Marco_Polo.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 10151,
+  "ns": 0,
+  "title": "EPR Paradox+Xi Ping Stele Script+Eden Scepter+Hypercube+Othello+The Literary Mind",
+  "fullurl": "https://supersnail.wiki.gg/wiki/EPR_Paradox%2BXi_Ping_Stele_Script%2BEden_Scepter%2BHypercube%2BOthello%2BThe_Literary_Mind",
+  "touched": "2025-08-11T10:42:31Z",
+  "length": 194,
+  "lastrevid": 37780,
+  "revision": {
+    "revid": 37780,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:40:35Z",
+    "sha1": "66d2461fee7a96bd84fb3c47f0712567b921f1ac",
+    "size": 194
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "878",
+        "relics": "EPR Paradox,Xi Ping Stele Script,Eden Scepter,Hypercube,Othello,The Literary Mind",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Snail Leadership +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/EPR_Paradox_Xi_Ping_Stele_Script_Eden_Scepter_Hypercube_Othello_The_Literary_Mind.wiki",
+  "markdown_path": "markdown/EPR_Paradox_Xi_Ping_Stele_Script_Eden_Scepter_Hypercube_Othello_The_Literary_Mind.md"
+}

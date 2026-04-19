@@ -1,0 +1,49 @@
+{
+  "pageid": 10342,
+  "ns": 0,
+  "title": "Tri-Lion Bronze Candlestick",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tri-Lion_Bronze_Candlestick",
+  "touched": "2025-08-15T00:42:46Z",
+  "length": 898,
+  "lastrevid": 39631,
+  "revision": {
+    "revid": 39631,
+    "parentid": 38073,
+    "timestamp": "2025-08-15T00:42:46Z",
+    "sha1": "957aaa226416064a0b25c71ef24e9ad66d53057d",
+    "size": 898
+  },
+  "categories": [
+    "ART Relics",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Tri-Lion Bronze Candlestick",
+        "class_id": "21759",
+        "rank": "Blue",
+        "affct": "ART",
+        "description": "This two-meter-tall masterpiece features three crouching lions with intricately carved muscles and flowing manes, their paws entwined with sacred flame motifs. A radiant symbol of power and light, forged in bronze with unparalleled craftsmanship.",
+        "fame": "23",
+        "art": "46",
+        "fth": "30",
+        "civ": "33",
+        "tech": "22",
+        "ss1": "Per 50k Relic Points, Snail RUSH +2<br>Relic Points: 1500000/1500000",
+        "ss2": "Per 50k Relic Points, Snail RUSH +4<br>Relic Points: 1500000/1500000",
+        "ss3": "Per 50k Relic Points, Snail RUSH +6<br>Relic Points: 1500000/1500000",
+        "ss4": "Per 50k Relic Points, Snail RUSH +10<br>Relic Points: 1500000/1500000",
+        "ss7": "Per 50k Relic Points, Snail RUSH +10<br>Relic Points: 1500000/1500000<br>Snail RUSH +50 (Awakened)",
+        "skill1": "[[File:skill@1123_1_1.png|50px]] Place in Parsian Museum: Parsia exploration, Snail ATK +4"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tri-Lion_Bronze_Candlestick.wiki",
+  "markdown_path": "markdown/Tri-Lion_Bronze_Candlestick.md"
+}

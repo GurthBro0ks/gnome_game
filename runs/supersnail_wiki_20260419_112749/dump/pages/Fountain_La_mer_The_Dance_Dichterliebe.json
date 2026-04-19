@@ -1,0 +1,33 @@
+{
+  "pageid": 8507,
+  "ns": 0,
+  "title": "Fountain+La mer+The Dance+Dichterliebe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fountain%2BLa_mer%2BThe_Dance%2BDichterliebe",
+  "touched": "2025-06-20T00:13:55Z",
+  "length": 208,
+  "lastrevid": 36006,
+  "revision": {
+    "revid": 36006,
+    "parentid": 34391,
+    "timestamp": "2025-06-20T00:13:55Z",
+    "sha1": "14fb1b21263410d7ae18abbfb79a3d9a2843e9cb",
+    "size": 208
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "703",
+        "relics": "Fountain,La mer,The Dance,Dichterliebe",
+        "rank": "purple",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 10 Protolith Chests opened, Snail DEF +8;Opened Protolith Chests: 500/500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fountain_La_mer_The_Dance_Dichterliebe.wiki",
+  "markdown_path": "markdown/Fountain_La_mer_The_Dance_Dichterliebe.md"
+}

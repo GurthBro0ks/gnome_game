@@ -1,0 +1,33 @@
+{
+  "pageid": 4911,
+  "ns": 0,
+  "title": "Arabian Bronze Hand+Xiuhtecuhtli Mask",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Arabian_Bronze_Hand%2BXiuhtecuhtli_Mask",
+  "touched": "2025-06-19T23:56:41Z",
+  "length": 150,
+  "lastrevid": 35701,
+  "revision": {
+    "revid": 35701,
+    "parentid": 18396,
+    "timestamp": "2025-06-19T23:56:41Z",
+    "sha1": "82556e4b6377d1d09674cc8f054d6dd0204f9dc0",
+    "size": 150
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "401",
+        "relics": "Arabian Bronze Hand,Xiuhtecuhtli Mask",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Zombie Minion HP +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Arabian_Bronze_Hand_Xiuhtecuhtli_Mask.wiki",
+  "markdown_path": "markdown/Arabian_Bronze_Hand_Xiuhtecuhtli_Mask.md"
+}

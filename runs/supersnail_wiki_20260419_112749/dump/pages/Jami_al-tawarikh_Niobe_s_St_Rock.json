@@ -1,0 +1,33 @@
+{
+  "pageid": 9299,
+  "ns": 0,
+  "title": "Jami' al-tawarikh+Niobe's St Rock",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jami%27_al-tawarikh%2BNiobe%27s_St_Rock",
+  "touched": "2025-06-20T00:19:54Z",
+  "length": 194,
+  "lastrevid": 36194,
+  "revision": {
+    "revid": 36194,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:19:54Z",
+    "sha1": "f46c23aa01f6775288ef64e7a48d0a1ef6f88ce0",
+    "size": 194
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "580",
+        "relics": "Jami' al-tawarikh,Niobe's St Rock",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Tribal Chief defeated, Snail RUSH +5;Tribal Chiefs Defeated: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jami_al-tawarikh_Niobe_s_St_Rock.wiki",
+  "markdown_path": "markdown/Jami_al-tawarikh_Niobe_s_St_Rock.md"
+}

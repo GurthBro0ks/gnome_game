@@ -1,0 +1,33 @@
+{
+  "pageid": 8512,
+  "ns": 0,
+  "title": "Shugart Floppy Disk+Watermen Pen+Inman Fluorescent Lamp+Open Rotor Engine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Shugart_Floppy_Disk%2BWatermen_Pen%2BInman_Fluorescent_Lamp%2BOpen_Rotor_Engine",
+  "touched": "2025-06-20T00:14:23Z",
+  "length": 194,
+  "lastrevid": 36019,
+  "revision": {
+    "revid": 36019,
+    "parentid": 34396,
+    "timestamp": "2025-06-20T00:14:23Z",
+    "sha1": "b85df5016020251aeb6da388417442485f01c97c",
+    "size": 194
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "645",
+        "relics": "Shugart Floppy Disk,Watermen Pen,Inman Fluorescent Lamp,Open Rotor Engine",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Zombie Minion HARD Stats +2.1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Shugart_Floppy_Disk_Watermen_Pen_Inman_Fluorescent_Lamp_Open_Rotor_Engine.wiki",
+  "markdown_path": "markdown/Shugart_Floppy_Disk_Watermen_Pen_Inman_Fluorescent_Lamp_Open_Rotor_Engine.md"
+}

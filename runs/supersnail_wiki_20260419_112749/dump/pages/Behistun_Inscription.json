@@ -1,0 +1,60 @@
+{
+  "pageid": 1301,
+  "ns": 0,
+  "title": "Behistun Inscription",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Behistun_Inscription",
+  "touched": "2024-09-06T09:58:24Z",
+  "length": 2324,
+  "lastrevid": 18135,
+  "revision": {
+    "revid": 18135,
+    "parentid": 17266,
+    "timestamp": "2023-11-13T04:22:03Z",
+    "sha1": "ef04cf946e0a3f077c9f36eea0a21a29041fc182",
+    "size": 2324
+  },
+  "categories": [
+    "CIV Boost",
+    "CIV Relics",
+    "DEF Boost",
+    "Enhanced by DNA Strength",
+    "Enhanced by Power",
+    "Enhanced by Zombie Gene LVL",
+    "Fungus Farm Skill",
+    "HP Boost",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relics",
+    "Wonder Fungus Output"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Behistun Inscription",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "12-06",
+        "source": "Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)",
+        "description": "On Dec 6, 552 BC, Darius the Great carved the cliffs of the Behistun village to mark his achievements.\n\nDarius I built the world's first great empire across Asia, Europe, and Africa. To praise himself, he ordered people to carve his achievements in different Babylonian dialects on the cliff. This was known as the Behistun Inscription. It also included his image of standing upright, holding the bow with his left hand, and pointing his right finger to the sky. The Ahura Mazda in the center shows h …",
+        "fame": "41",
+        "art": "46",
+        "fth": "48",
+        "civ": "71",
+        "tech": "37",
+        "ss1": "Per 5 Zombie Gene LVLs, Snail DEF +6<br>Per 5 Zombie Gene LVLs, Snail RUSH +6<br>Zombie Gene LVLs Researched: 150/150",
+        "ss2": "Per 5 Zombie Gene LVLs, Snail DEF +8<br>Per 5 Zombie Gene LVLs, Snail RUSH +8<br>Zombie Gene LVLs Researched: 150/150",
+        "ss3": "Per 5 Zombie Gene LVLs, Snail DEF +10<br>Per 5 Zombie Gene LVLs, Snail RUSH +10<br>Zombie Gene LVLs Researched: 150/150",
+        "ss4": "Per 5 Zombie Gene LVLs, Snail DEF +14<br>Per 5 Zombie Gene LVLs, Snail RUSH +14<br>Zombie Gene LVLs Researched: 150/150",
+        "ss5": "Per 5 Zombie Gene LVLs, Snail DEF +18<br>Per 5 Zombie Gene LVLs, Snail RUSH +18<br>Zombie Gene LVLs Researched: 150/150",
+        "ss7": "Per 5 Zombie Gene LVLs, Snail DEF +18<br>Per 5 Zombie Gene LVLs, Snail RUSH +18<br>Zombie Gene LVLs Researched: 150/150<br>Snail RUSH +70 (Awakened)",
+        "skill1": "[[File:Fungusfarm skill II.png|50px]] Place in Fungus Farm: Grow Wonder Fungus by +15%",
+        "skill2": "[[File:Fungusfarm skill II.png|50px]] Place in Fungus Farm: This Relic's CIV +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Behistun_Inscription.wiki",
+  "markdown_path": "markdown/Behistun_Inscription.md"
+}

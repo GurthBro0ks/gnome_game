@@ -1,0 +1,24 @@
+{
+  "pageid": 1643,
+  "ns": 0,
+  "title": "Evolution",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Evolution",
+  "touched": "2025-10-14T15:09:36Z",
+  "length": 12393,
+  "lastrevid": 41304,
+  "revision": {
+    "revid": 41304,
+    "parentid": 41134,
+    "timestamp": "2025-10-14T15:09:36Z",
+    "sha1": "dab61783d6e92d335541a5e8a93aeb565625fcb4",
+    "size": 12393
+  },
+  "categories": [
+    "Pages using Tabber parser tag",
+    "Works in Progress"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Evolution.wiki",
+  "markdown_path": "markdown/Evolution.md"
+}

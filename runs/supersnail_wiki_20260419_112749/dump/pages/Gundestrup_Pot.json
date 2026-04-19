@@ -1,0 +1,50 @@
+{
+  "pageid": 10572,
+  "ns": 0,
+  "title": "Gundestrup Pot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gundestrup_Pot",
+  "touched": "2025-08-11T10:55:12Z",
+  "length": 1717,
+  "lastrevid": 38414,
+  "revision": {
+    "revid": 38414,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:55:12Z",
+    "sha1": "8e521da70eecb1cb6939bda3e8d2b2a080df82cf",
+    "size": 1717
+  },
+  "categories": [
+    "FAITH Relics",
+    "Purple FAITH Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gundestrup Pot",
+        "class_id": "21746",
+        "rank": "AAA",
+        "affct": "FAITH",
+        "description": "Gundestep Silver Pot is a famous ceramic utensil product. Its name comes from its unique exterior design, decorated with silver like patterns and luster on the surface. The design of the silver pot began in the early 20th century, created by designer Klinger. He was influenced by Chinese and Japanese porcelain and combined it with Scandinavian minimalist aesthetics to create this classic work. The characteristic of silver pots lies in their exquisite glaze treatment and decorative silver pattern …",
+        "fame": "48",
+        "art": "49",
+        "fth": "73",
+        "civ": "30",
+        "tech": "43",
+        "ss1": "Per 30 T7+ Minions in battle:<br>> Troop ATK +12<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +12",
+        "ss2": "Per 30 T7+ Minions in battle:<br>> Troop ATK +16<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +16",
+        "ss3": "Per 30 T7+ Minions in battle:<br>> Troop ATK +20<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +20",
+        "ss4": "Per 30 T7+ Minions in battle:<br>> Troop ATK +28<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +28",
+        "ss5": "Per 30 T7+ Minions in battle:<br>> Troop ATK +36<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +36",
+        "ss7": "Per 30 T7+ Minions in battle:<br>> Troop ATK +36<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +36<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +28 (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Green Reagent Drops +3%",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's FTH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gundestrup_Pot.wiki",
+  "markdown_path": "markdown/Gundestrup_Pot.md"
+}

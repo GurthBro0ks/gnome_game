@@ -1,0 +1,48 @@
+{
+  "pageid": 25,
+  "ns": 0,
+  "title": "Bell of Alojaya",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bell_of_Alojaya",
+  "touched": "2026-03-03T18:56:20Z",
+  "length": 814,
+  "lastrevid": 41847,
+  "revision": {
+    "revid": 41847,
+    "parentid": 39131,
+    "timestamp": "2026-03-03T18:56:20Z",
+    "sha1": "96441515c7c43bfddb2a8bf9821db78546605283",
+    "size": 814
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bell of Alojaya",
+        "class_id": "20050",
+        "rank": "Green",
+        "affct": "CIV",
+        "source": "Obtained from [[Koryeo_Key_Clues#Koryeo_Treasure|Koryeo Key Clue]]",
+        "description": "This bell was made in ancient Gaya, a city-state union country in Korea. An estuary from the Nakdong River led to the sea. The region was rich in iron. The Gayans were highly civilized. They could produce beautiful metal craftworks like this!",
+        "fame": "14",
+        "art": "12",
+        "fth": "18",
+        "civ": "30",
+        "tech": "16",
+        "ss1": "Per Koryeon Area explored, Snail HP +20<br>Areas Explored: 10/10",
+        "ss2": "Per Koryeon Area explored, Snail HP +22<br>Areas Explored: 10/10",
+        "ss3": "Per Koryeon Area explored, Snail HP +24<br>Areas Explored: 10/10",
+        "ss4": "Per Koryeon Area explored, Snail HP +24<br>Areas Explored: 10/10",
+        "ss7": "Per Koryeon Area explored, Snail HP +24<br>Areas Explored: 10/10<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bell_of_Alojaya.wiki",
+  "markdown_path": "markdown/Bell_of_Alojaya.md"
+}

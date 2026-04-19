@@ -1,0 +1,34 @@
+{
+  "pageid": 4841,
+  "ns": 0,
+  "title": "Burgundian Laws+Divination Book+Isabella+Konjaku Tale",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Burgundian_Laws%2BDivination_Book%2BIsabella%2BKonjaku_Tale",
+  "touched": "2024-12-02T03:00:51Z",
+  "length": 229,
+  "lastrevid": 17446,
+  "revision": {
+    "revid": 17446,
+    "parentid": 0,
+    "timestamp": "2023-11-11T04:01:24Z",
+    "sha1": "51c0faa5c58321a85dd3b3b51a661118a4e78437",
+    "size": 229
+  },
+  "categories": [
+    "Wormhole Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Burgundian Laws,Divination Book,Isabella,Konjaku Tale",
+        "rank": "purple",
+        "amount": "4",
+        "category": "Wormhole Boost",
+        "description": "Wormhole Shards from Wormhole Refiner +8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Burgundian_Laws_Divination_Book_Isabella_Konjaku_Tale.wiki",
+  "markdown_path": "markdown/Burgundian_Laws_Divination_Book_Isabella_Konjaku_Tale.md"
+}

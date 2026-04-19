@@ -1,0 +1,82 @@
+{
+  "pageid": 5690,
+  "ns": 0,
+  "title": "Hellenic Key Clues",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hellenic_Key_Clues",
+  "touched": "2025-10-04T09:47:10Z",
+  "length": 12777,
+  "lastrevid": 33115,
+  "revision": {
+    "revid": 33115,
+    "parentid": 33114,
+    "timestamp": "2025-01-20T18:09:33Z",
+    "sha1": "babc733dea2458309b321a80288fea5e1d270f7b",
+    "size": 12777
+  },
+  "categories": [
+    "Missing Info",
+    "Pages with broken file links",
+    "Works in Progress"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "green",
+        "2": "realm",
+        "3": "Legion Javelins"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "blue",
+        "2": "realm",
+        "3": "Macedonian Spear"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "purple",
+        "2": "realm",
+        "3": "Hector Spear"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "orange",
+        "2": "realm",
+        "3": "Stardust Arrow"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "orange",
+        "2": "realm",
+        "3": "Eternal Empire Scepter"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "red",
+        "2": "realm",
+        "3": "Athena Spear"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "purple",
+        "2": "realm",
+        "3": "Achilles' Shield"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hellenic_Key_Clues.wiki",
+  "markdown_path": "markdown/Hellenic_Key_Clues.md"
+}

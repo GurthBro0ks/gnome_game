@@ -1,0 +1,34 @@
+{
+  "pageid": 3626,
+  "ns": 0,
+  "title": "The Starry Night+Napoleon Painting",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Starry_Night%2BNapoleon_Painting",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 193,
+  "lastrevid": 13208,
+  "revision": {
+    "revid": 13208,
+    "parentid": 0,
+    "timestamp": "2023-09-22T16:20:27Z",
+    "sha1": "db34cc636c5ffe85407ae73dd6030f6b1eeae9da",
+    "size": 193
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Starry Night,Napoleon Painting",
+        "rank": "purple",
+        "amount": "2",
+        "category": "home",
+        "description": "The Pond has a +12% chance to produce W-tads"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Starry_Night_Napoleon_Painting.wiki",
+  "markdown_path": "markdown/The_Starry_Night_Napoleon_Painting.md"
+}

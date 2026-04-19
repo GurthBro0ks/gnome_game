@@ -1,0 +1,33 @@
+{
+  "pageid": 11145,
+  "ns": 0,
+  "title": "Capricorn+Aquarius",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Capricorn%2BAquarius",
+  "touched": "2025-08-11T11:14:08Z",
+  "length": 133,
+  "lastrevid": 39235,
+  "revision": {
+    "revid": 39235,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:14:08Z",
+    "sha1": "ce5f4e6f77c000787e22fb95deacc8beeb588ef6",
+    "size": 133
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "289",
+        "relics": "Capricorn,Aquarius",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Troop All ELMT DMG +4%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Capricorn_Aquarius.wiki",
+  "markdown_path": "markdown/Capricorn_Aquarius.md"
+}

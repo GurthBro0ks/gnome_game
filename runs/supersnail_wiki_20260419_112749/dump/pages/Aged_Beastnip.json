@@ -1,0 +1,47 @@
+{
+  "pageid": 10838,
+  "ns": 0,
+  "title": "Aged Beastnip",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Aged_Beastnip",
+  "touched": "2025-08-11T11:03:06Z",
+  "length": 764,
+  "lastrevid": 38757,
+  "revision": {
+    "revid": 38757,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:03:06Z",
+    "sha1": "a5ce8ee74347e6c0ecefa3834a65c9be4ca33e11",
+    "size": 764
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Aged Beastnip",
+        "class_id": "20980",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Beastnip exhibits a unique allure to animals, stimulating specialized receptors in their brains to induce euphoric responses characterized by heightened excitement and delight. When naturally air-dried and properly aged, the fragrance of matured beastmint intensifies while maintaining prolonged potency.",
+        "fame": "29",
+        "art": "15",
+        "fth": "15",
+        "civ": "17",
+        "tech": "14",
+        "ss1": "Per 100 catalysis, Snail ATK +3<br>Catalysis: 5000/5000",
+        "ss2": "Per 100 catalysis, Snail ATK +4<br>Catalysis: 5000/5000",
+        "ss3": "Per 100 catalysis, Snail ATK +5<br>Catalysis: 5000/5000",
+        "ss4": "Per 100 catalysis, Snail ATK +5<br>Catalysis: 5000/5000",
+        "ss7": "Per 100 catalysis, Snail ATK +5<br>Catalysis: 5000/5000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Aged_Beastnip.wiki",
+  "markdown_path": "markdown/Aged_Beastnip.md"
+}

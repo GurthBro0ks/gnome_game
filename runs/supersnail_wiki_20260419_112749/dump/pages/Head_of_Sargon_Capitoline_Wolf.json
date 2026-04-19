@@ -1,0 +1,33 @@
+{
+  "pageid": 8900,
+  "ns": 0,
+  "title": "Head of Sargon+Capitoline Wolf",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Head_of_Sargon%2BCapitoline_Wolf",
+  "touched": "2025-06-20T00:00:37Z",
+  "length": 200,
+  "lastrevid": 35756,
+  "revision": {
+    "revid": 35756,
+    "parentid": 34942,
+    "timestamp": "2025-06-20T00:00:37Z",
+    "sha1": "9dbd1ca672e59d15293addc2e112605b19d1aeb8",
+    "size": 200
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "459",
+        "relics": "Head of Sargon,Capitoline Wolf",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2 ART Master Scrolls used, Snail RUSH +7;ART Master Scrolls Used: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Head_of_Sargon_Capitoline_Wolf.wiki",
+  "markdown_path": "markdown/Head_of_Sargon_Capitoline_Wolf.md"
+}

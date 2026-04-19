@@ -1,0 +1,33 @@
+{
+  "pageid": 9825,
+  "ns": 0,
+  "title": "Kinkaku-ji Model+Jin Hou Bird Zun",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kinkaku-ji_Model%2BJin_Hou_Bird_Zun",
+  "touched": "2025-07-02T09:48:36Z",
+  "length": 217,
+  "lastrevid": 37172,
+  "revision": {
+    "revid": 37172,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:48:36Z",
+    "sha1": "361fc22d54f478416a49559786ed26ab4a8d6475",
+    "size": 217
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "899",
+        "relics": "Kinkaku-ji Model,Jin Hou Bird Zun",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "For every 3 levels of Base Station cleared, Snail ATK +7;Base Station LVLs Cleared: 150/150"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kinkaku-ji_Model_Jin_Hou_Bird_Zun.wiki",
+  "markdown_path": "markdown/Kinkaku-ji_Model_Jin_Hou_Bird_Zun.md"
+}

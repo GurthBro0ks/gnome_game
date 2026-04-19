@@ -1,0 +1,33 @@
+{
+  "pageid": 8358,
+  "ns": 0,
+  "title": "Vishnu Purana+Ymir's Box+Mother Chest",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Vishnu_Purana%2BYmir%27s_Box%2BMother_Chest",
+  "touched": "2025-06-20T00:16:49Z",
+  "length": 237,
+  "lastrevid": 36119,
+  "revision": {
+    "revid": 36119,
+    "parentid": 34169,
+    "timestamp": "2025-06-20T00:16:49Z",
+    "sha1": "2fd4591628bfc9c30d77f600f00ff5c48dc4ed5b",
+    "size": 237
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "743",
+        "relics": "Vishnu Purana,Ymir's Box,Mother Chest",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +64;Swamp Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Vishnu_Purana_Ymir_s_Box_Mother_Chest.wiki",
+  "markdown_path": "markdown/Vishnu_Purana_Ymir_s_Box_Mother_Chest.md"
+}

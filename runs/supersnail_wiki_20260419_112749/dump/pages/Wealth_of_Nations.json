@@ -1,0 +1,61 @@
+{
+  "pageid": 1899,
+  "ns": 0,
+  "title": "Wealth of Nations",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wealth_of_Nations",
+  "touched": "2024-09-06T14:45:15Z",
+  "length": 2408,
+  "lastrevid": 26329,
+  "revision": {
+    "revid": 26329,
+    "parentid": 18198,
+    "timestamp": "2024-05-08T00:05:41Z",
+    "sha1": "efa5930fcc838f2fc163ac3db45570232c1c65fd",
+    "size": 2408
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Relic Points",
+    "Enhanced by Tadpole Points",
+    "FAME Boost",
+    "FAME Relics",
+    "HP Boost",
+    "Lumber Camp Output Boost",
+    "Lumber Camp Skill",
+    "Mecha Gene Speedup Boost",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relic Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Wealth of Nations",
+        "rank": "AAA",
+        "affct": "FAME",
+        "birthday": "03-07",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)",
+        "description": "On Mar 7, 1776, \"The Wealth of Nations\" by Adam Smith was officially published.\n\nAdam Smith took 10 years to complete this book which consists of 2 volumes, 5 sections, and 32 chapters. This was the first time mankind has conducted a logical and rigorous scientific demonstration of the principles of political governance and economy. Smith combined the development of capitalism in modern countries with economic theories and wrote this book that describes the economical process of a country.\n\nHe p …",
+        "fame": "73",
+        "art": "50",
+        "fth": "40",
+        "civ": "49",
+        "tech": "31",
+        "ss1": "Per 1k Tadpole Points, Snail ATK +3<br>Per 1k Tadpole Points, Snail RUSH +3<br>Tadpole Points: 20,000/20,000",
+        "ss2": "Per 1k Tadpole Points, Snail ATK +4<br>Per 1k Tadpole Points, Snail RUSH +4<br>Tadpole Points: 20,000/20,000",
+        "ss3": "Per 1k Tadpole Points, Snail ATK +5<br>Per 1k Tadpole Points, Snail RUSH +5<br>Tadpole Points: 20,000/20,000",
+        "ss4": "Per 1k Tadpole Points, Snail ATK +7<br>Per 1k Tadpole Points, Snail RUSH +7<br>Tadpole Points: 20,000/20,000",
+        "ss5": "Per 1k Tadpole Points, Snail ATK +9<br>Per 1k Tadpole Points, Snail RUSH +9<br>Tadpole Points: 20,000/20,000",
+        "ss7": "Per 1k Tadpole Points, Snail ATK +9<br>Per 1k Tadpole Points, Snail RUSH +9<br>Tadpole Points: 20,000/20,000<br>Snail RUSH +70 (Awakened)",
+        "skill1": "[[File:Lumbercamp skill II.png|50px]] Place in Lumber Camp: Wood Output +15%",
+        "skill2": "[[File:Lumbercamp skill II.png|50px]] Place in Lumber Camp: This Relic's FAME +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wealth_of_Nations.wiki",
+  "markdown_path": "markdown/Wealth_of_Nations.md"
+}

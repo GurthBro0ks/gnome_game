@@ -1,0 +1,34 @@
+{
+  "pageid": 3736,
+  "ns": 0,
+  "title": "Hammurabi Code+Julian Calendar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hammurabi_Code%2BJulian_Calendar",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 219,
+  "lastrevid": 13634,
+  "revision": {
+    "revid": 13634,
+    "parentid": 0,
+    "timestamp": "2023-10-01T09:44:12Z",
+    "sha1": "c69a30914307130d3923c47fc8f2ba8b61f9fc2c",
+    "size": 219
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Hammurabi Code,Julian Calendar",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Divine Dragon Descent, Snail RUSH +28<br>Divine Dragon Descents: 20/20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hammurabi_Code_Julian_Calendar.wiki",
+  "markdown_path": "markdown/Hammurabi_Code_Julian_Calendar.md"
+}

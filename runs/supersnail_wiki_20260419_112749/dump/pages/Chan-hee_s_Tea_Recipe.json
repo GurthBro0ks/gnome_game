@@ -1,0 +1,47 @@
+{
+  "pageid": 7769,
+  "ns": 0,
+  "title": "Chan-hee's Tea Recipe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Chan-hee%27s_Tea_Recipe",
+  "touched": "2025-08-11T10:37:15Z",
+  "length": 886,
+  "lastrevid": 37645,
+  "revision": {
+    "revid": 37645,
+    "parentid": 32542,
+    "timestamp": "2025-08-11T10:37:15Z",
+    "sha1": "b3ec809ec93c414436300d354a3207c8fad5bb09",
+    "size": 886
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Chan-hee's Tea Recipe",
+        "class_id": "20836",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Due to the lack of a business license, Chan-hee's tea workshop, where floral tea was being illegally produced and sold, has been legally seized. Only her secret recipe remains as a warning to future generations: improper tea production leads to tears of regret...",
+        "fame": "16",
+        "art": "15",
+        "fth": "13",
+        "civ": "14",
+        "tech": "31",
+        "ss1": "Snail HP +100<br>Per 5 Wonder Fungi eaten, Snail RUSH +1<br>Wonder Fungi used: 200/200",
+        "ss2": "Snail HP +200<br>Per 5 Wonder Fungi eaten, Snail RUSH +2<br>Wonder Fungi used: 200/200",
+        "ss3": "Snail HP +300<br>Per 5 Wonder Fungi eaten, Snail RUSH +3<br>Wonder Fungi used: 200/200",
+        "ss4": "Snail HP +300<br>Per 5 Wonder Fungi eaten, Snail RUSH +3<br>Wonder Fungi used: 200/200",
+        "ss7": "Snail HP +300<br>Per 5 Wonder Fungi eaten, Snail RUSH +3<br>Wonder Fungi used: 200/200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Chan-hee_s_Tea_Recipe.wiki",
+  "markdown_path": "markdown/Chan-hee_s_Tea_Recipe.md"
+}

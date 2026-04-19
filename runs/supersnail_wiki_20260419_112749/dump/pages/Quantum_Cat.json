@@ -1,0 +1,49 @@
+{
+  "pageid": 935,
+  "ns": 0,
+  "title": "Quantum Cat",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Quantum_Cat",
+  "touched": "2025-08-11T10:40:27Z",
+  "length": 926,
+  "lastrevid": 37775,
+  "revision": {
+    "revid": 37775,
+    "parentid": 22429,
+    "timestamp": "2025-08-11T10:40:27Z",
+    "sha1": "11388ccc4a2a95efc327e68115cec16c17b31ffc",
+    "size": 926
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Quantum Cat",
+        "class_id": "20807",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "05-15",
+        "description": "On May 15, 1870 AD, the world's first Fortune Cat appeared in Japan and became popular across Asia.<br>Cat became popular in the Edo Period of Japan as people believed that the mysterious cats could protect their food from rats. Cats gradually became a symbol of wealth. Later, people started placing Fortune Cats at home as they symbolized good fortune and abundance.",
+        "fame": "30",
+        "art": "19",
+        "fth": "29",
+        "civ": "28",
+        "tech": "48",
+        "ss1": "In Snail Store, Fortune Cat B-tad cap +20000",
+        "ss2": "In Snail Store, Fortune Cat B-tad cap +40000",
+        "ss3": "In Snail Store, Fortune Cat B-tad cap +60000",
+        "ss4": "In Snail Store, Fortune Cat B-tad cap +100000",
+        "ss7": "In Snail Store, Fortune Cat B-tad cap +100000<br>In Snail Store, Fortune Cat B-tad cap +40000 (Awakened)",
+        "skill1": "[[File:Timemachine skill I.png|50px]]Place in Time Machine: Travel Speedup Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Quantum_Cat.wiki",
+  "markdown_path": "markdown/Quantum_Cat.md"
+}

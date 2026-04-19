@@ -1,0 +1,29 @@
+{
+  "pageid": 7720,
+  "ns": 0,
+  "title": "Christmas Hat",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Christmas_Hat",
+  "touched": "2025-02-06T19:34:31Z",
+  "length": 490,
+  "lastrevid": 32765,
+  "revision": {
+    "revid": 32765,
+    "parentid": 32444,
+    "timestamp": "2025-01-03T03:34:28Z",
+    "sha1": "ceac7020840b3f047c9342397bdab1811d43f99e",
+    "size": 490
+  },
+  "categories": [
+    "ART Shells",
+    "ATK Boost",
+    "Dragon Form",
+    "HP Boost",
+    "Shells",
+    "Time Rift",
+    "Water DMG Boost"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Christmas_Hat.wiki",
+  "markdown_path": "markdown/Christmas_Hat.md"
+}

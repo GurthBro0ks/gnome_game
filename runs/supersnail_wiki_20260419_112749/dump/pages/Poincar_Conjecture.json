@@ -1,0 +1,54 @@
+{
+  "pageid": 9850,
+  "ns": 0,
+  "title": "Poincaré Conjecture",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Poincar%C3%A9_Conjecture",
+  "touched": "2025-08-11T11:19:06Z",
+  "length": 3109,
+  "lastrevid": 39450,
+  "revision": {
+    "revid": 39450,
+    "parentid": 37229,
+    "timestamp": "2025-08-11T11:19:06Z",
+    "sha1": "9b9435ab2c095caec57b7bc8d1ff5079cdacf11d",
+    "size": 3109
+  },
+  "categories": [
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Poincaré Conjecture",
+        "class_id": "22755",
+        "rank": "SSS",
+        "affct": "TECH",
+        "birthday": "02-03",
+        "description": "On Feb 3, 1904 AD, French mathematician Henri Poincaré proposed this problem.<br>The Poincaré Conjecture is a topological problem that describes a closed three-dimensional space, if each closed curve can be shrunk to a point, then this space must be a three-dimensional sphere. Later, this conjecture was extended to higher-dimensional spaces. It is one of the seven Millennium Prize Problems, along with the Hodge conjecture and the Riemann hypothesis, and is considered one of the most challenging  …",
+        "fame": "70",
+        "art": "51",
+        "fth": "73",
+        "civ": "62",
+        "tech": "106",
+        "ss1": "All minion skins RUSH +10%<br>Per 5 Mythic Protodex Stars, Snail RUSH +9<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +72<br>Mythic Protodex Stars: 100/100",
+        "ss2": "All minion skins RUSH +20%<br>Per 5 Mythic Protodex Stars, Snail RUSH +12<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +96<br>Mythic Protodex Stars: 100/100",
+        "ss3": "All minion skins RUSH +30%<br>Per 5 Mythic Protodex Stars, Snail RUSH +15<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +120<br>Mythic Protodex Stars: 100/100",
+        "ss4": "All minion skins RUSH +50%<br>Per 5 Mythic Protodex Stars, Snail RUSH +21<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +168<br>Mythic Protodex Stars: 100/100",
+        "ss5": "All minion skins RUSH +70%<br>Per 5 Mythic Protodex Stars, Snail RUSH +27<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +216<br>Mythic Protodex Stars: 100/100",
+        "ss6": "All minion skins RUSH +100%<br>Per 5 Mythic Protodex Stars, Snail RUSH +36<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +288<br>Mythic Protodex Stars: 100/100",
+        "ss7": "All minion skins RUSH +100%<br>Per 5 Mythic Protodex Stars, Snail RUSH +36<br>Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +288<br>Mythic Protodex Stars: 100/100<br>Snail RUSH +100 (Awakened)",
+        "skill1": "[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: This Relic's TECH +15",
+        "skill2": "[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Cap +30%",
+        "skill3": "[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +30%",
+        "mirage": "{{Mirage|name=Ancient Grand Prize Puzzle|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}\n|3name=Hodge Conjecture|3rec=116.36M|3atk=350635|3defense=207604|3hp=35085560|3weak=43463\n|4name=Riemann Hypothesis|4rec=133.26M|4atk=387214|4defense=231385|4hp=46728845|4weak=47113\n|5name=Navier-Stokes Equations|5rec=155.77M|5atk=437850|5defense=263047|5hp=66251680|5weak=51300\n|6name=NP Complete|6rec=186.79M|6atk=504321|6defense=306691|6hp=99030574|6weak=55966\n|Arec=230.50M|Aatk=596936|Adefense …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Poincar_Conjecture.wiki",
+  "markdown_path": "markdown/Poincar_Conjecture.md"
+}

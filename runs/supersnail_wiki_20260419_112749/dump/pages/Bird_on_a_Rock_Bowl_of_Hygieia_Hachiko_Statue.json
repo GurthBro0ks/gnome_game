@@ -1,0 +1,33 @@
+{
+  "pageid": 4966,
+  "ns": 0,
+  "title": "Bird on a Rock+Bowl of Hygieia+Hachiko Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bird_on_a_Rock%2BBowl_of_Hygieia%2BHachiko_Statue",
+  "touched": "2025-06-19T23:59:05Z",
+  "length": 199,
+  "lastrevid": 35718,
+  "revision": {
+    "revid": 35718,
+    "parentid": 18566,
+    "timestamp": "2025-06-19T23:59:05Z",
+    "sha1": "7acd481b85677dd6312c15f73eb3c41b2e219066",
+    "size": 199
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "427",
+        "relics": "Bird on a Rock,Bowl of Hygieia,Hachiko Statue",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 20 FAME Wishes made, Snail RUSH +7;Wishes Made: 1000/1000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bird_on_a_Rock_Bowl_of_Hygieia_Hachiko_Statue.wiki",
+  "markdown_path": "markdown/Bird_on_a_Rock_Bowl_of_Hygieia_Hachiko_Statue.md"
+}

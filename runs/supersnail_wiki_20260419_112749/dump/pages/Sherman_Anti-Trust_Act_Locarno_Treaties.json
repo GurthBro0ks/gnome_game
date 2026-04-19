@@ -1,0 +1,33 @@
+{
+  "pageid": 8325,
+  "ns": 0,
+  "title": "Sherman Anti-Trust Act+Locarno Treaties",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sherman_Anti-Trust_Act%2BLocarno_Treaties",
+  "touched": "2025-06-20T00:16:17Z",
+  "length": 187,
+  "lastrevid": 36098,
+  "revision": {
+    "revid": 36098,
+    "parentid": 34115,
+    "timestamp": "2025-06-20T00:16:17Z",
+    "sha1": "34cba21d7d976648225158dfc3219a146e5b4781",
+    "size": 187
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "733",
+        "relics": "Sherman Anti-Trust Act,Locarno Treaties",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 T7+ Angel Minions in battle:Troop HARD Stats +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sherman_Anti-Trust_Act_Locarno_Treaties.wiki",
+  "markdown_path": "markdown/Sherman_Anti-Trust_Act_Locarno_Treaties.md"
+}

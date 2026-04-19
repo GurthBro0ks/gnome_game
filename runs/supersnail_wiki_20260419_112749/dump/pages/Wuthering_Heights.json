@@ -1,0 +1,52 @@
+{
+  "pageid": 6621,
+  "ns": 0,
+  "title": "Wuthering Heights",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wuthering_Heights",
+  "touched": "2025-08-11T10:44:38Z",
+  "length": 2256,
+  "lastrevid": 37955,
+  "revision": {
+    "revid": 37955,
+    "parentid": 37161,
+    "timestamp": "2025-08-11T10:44:38Z",
+    "sha1": "2de7ba65ae395839474d8f5f1094abd960366d75",
+    "size": 2256
+  },
+  "categories": [
+    "CIV Relics",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Wuthering Heights",
+        "class_id": "22885",
+        "rank": "SSS",
+        "affct": "CIV",
+        "description": "Wuthering Heights is Emily's only novel, which, unlike her sister Charlotte's Jane Eyre, features a unique narrative structure and intense emotional conflicts. It tells the story of the generations-long feud between the Earnshaw and Linton families in the remote and desolate Yorkshire moors. The protagonist, Heathcliff, is adopted by the Earnshaw family as a child and develops a tortuous and painful love tragedy with Catherine Earnshaw. Through Wuthering Heights, Emily presents the complexity an …",
+        "fame": "73",
+        "art": "72",
+        "fth": "59",
+        "civ": "107",
+        "tech": "51",
+        "ss1": "All minion skins RUSH +10%<br>Protomon Snail assist DMG + 240<br>Per 3 Epic Protodex Entries, Snail HP +90<br>Epic Protodex Entries: 60/60",
+        "ss2": "All minion skins RUSH +20%<br>Protomon Snail assist DMG + 320<br>Per 3 Epic Protodex Entries, Snail HP +120<br>Epic Protodex Entries: 60/60",
+        "ss3": "All minion skins RUSH +30%<br>Protomon Snail assist DMG + 400<br>Per 3 Epic Protodex Entries, Snail HP +150<br>Epic Protodex Entries: 60/60",
+        "ss4": "All minion skins RUSH +50%<br>Protomon Snail assist DMG + 560<br>Per 3 Epic Protodex Entries, Snail HP +210<br>Epic Protodex Entries: 60/60",
+        "ss5": "All minion skins RUSH +70%<br>Protomon Snail assist DMG + 720<br>Per 3 Epic Protodex Entries, Snail HP +270<br>Epic Protodex Entries: 60/60",
+        "ss6": "All minion skins RUSH +100%<br>Protomon Snail assist DMG + 960<br>Per 3 Epic Protodex Entries, Snail HP +360<br>Epic Protodex Entries: 60/60",
+        "ss7": "All minion skins RUSH +100%<br>Protomon Snail assist DMG + 960<br>Per 3 Epic Protodex Entries, Snail HP +360<br>Epic Protodex Entries: 60/60<br>Protomon Snail assist DMG + 800 (Awakened)",
+        "skill1": "[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail DEF +600",
+        "skill2": "[[File:Britland skill III.png|50px]]Place in Britland Museum: Medal Output +30",
+        "skill3": "[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x Purple Reagent Drops +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wuthering_Heights.wiki",
+  "markdown_path": "markdown/Wuthering_Heights.md"
+}

@@ -1,0 +1,36 @@
+{
+  "pageid": 5258,
+  "ns": 0,
+  "title": "Echo and Narcissus+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Echo_and_Narcissus%2BMysterious_Relic",
+  "touched": "2024-12-28T14:47:11Z",
+  "length": 300,
+  "lastrevid": 32577,
+  "revision": {
+    "revid": 32577,
+    "parentid": 19239,
+    "timestamp": "2024-12-28T14:47:11Z",
+    "sha1": "65cf06c6238e750f5121965c3c310848af797ed2",
+    "size": 300
+  },
+  "categories": [
+    "Enhanced by Divine Chaos Chests",
+    "HP Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Echo and Narcissus,Celestial Throne",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Divine Chaos Chests opened: Snail HP +70; Divine Chaos Chests Opened: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Echo_and_Narcissus_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Echo_and_Narcissus_Mysterious_Relic.md"
+}

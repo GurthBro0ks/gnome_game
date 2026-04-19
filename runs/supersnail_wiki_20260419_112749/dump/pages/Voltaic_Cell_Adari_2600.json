@@ -1,0 +1,33 @@
+{
+  "pageid": 4906,
+  "ns": 0,
+  "title": "Voltaic Cell+Adari 2600",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Voltaic_Cell%2BAdari_2600",
+  "touched": "2025-06-20T00:01:12Z",
+  "length": 136,
+  "lastrevid": 35778,
+  "revision": {
+    "revid": 35778,
+    "parentid": 18372,
+    "timestamp": "2025-06-20T00:01:12Z",
+    "sha1": "228424f4082a75fbdd7f2804b8d16c64a3d25dba",
+    "size": 136
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "380",
+        "relics": "Voltaic Cell,Adari 2600",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Mecha Minion ATK +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Voltaic_Cell_Adari_2600.wiki",
+  "markdown_path": "markdown/Voltaic_Cell_Adari_2600.md"
+}

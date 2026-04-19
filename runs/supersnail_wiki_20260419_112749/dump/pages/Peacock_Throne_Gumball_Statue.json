@@ -1,0 +1,33 @@
+{
+  "pageid": 4312,
+  "ns": 0,
+  "title": "Peacock Throne+Gumball Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Peacock_Throne%2BGumball_Statue",
+  "touched": "2025-08-11T10:51:22Z",
+  "length": 165,
+  "lastrevid": 38250,
+  "revision": {
+    "revid": 38250,
+    "parentid": 15988,
+    "timestamp": "2025-08-11T10:51:22Z",
+    "sha1": "9148825a28d2a9d70041a1a1f1e05eb173be14f4",
+    "size": 165
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "279",
+        "relics": "Peacock Throne,Gumball Statue",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Master Scrolls gained from VIP Gold Card +1"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Peacock_Throne_Gumball_Statue.wiki",
+  "markdown_path": "markdown/Peacock_Throne_Gumball_Statue.md"
+}

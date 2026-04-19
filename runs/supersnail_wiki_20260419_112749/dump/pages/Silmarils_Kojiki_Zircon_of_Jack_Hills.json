@@ -1,0 +1,33 @@
+{
+  "pageid": 4176,
+  "ns": 0,
+  "title": "Silmarils+Kojiki+Zircon of Jack Hills",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Silmarils%2BKojiki%2BZircon_of_Jack_Hills",
+  "touched": "2025-06-20T00:04:14Z",
+  "length": 149,
+  "lastrevid": 35833,
+  "revision": {
+    "revid": 35833,
+    "parentid": 18441,
+    "timestamp": "2025-06-20T00:04:14Z",
+    "sha1": "8cf70ceca5ae6ba3989c49ba9b8a96f854ae0b3f",
+    "size": 149
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "530",
+        "relics": "Silmarils,Kojiki,Zircon of Jack Hills",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Snail Leadership +8"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Silmarils_Kojiki_Zircon_of_Jack_Hills.wiki",
+  "markdown_path": "markdown/Silmarils_Kojiki_Zircon_of_Jack_Hills.md"
+}

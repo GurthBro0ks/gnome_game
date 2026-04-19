@@ -1,0 +1,33 @@
+{
+  "pageid": 10987,
+  "ns": 0,
+  "title": "Grace of Divine Dragon+Holy Dragon Gem",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Grace_of_Divine_Dragon%2BHoly_Dragon_Gem",
+  "touched": "2025-08-11T11:08:04Z",
+  "length": 187,
+  "lastrevid": 38974,
+  "revision": {
+    "revid": 38974,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:08:04Z",
+    "sha1": "8645555cedc37dd454ca2bd2e697828633cee316",
+    "size": 187
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "857",
+        "relics": "Grace of Divine Dragon,Holy Dragon Gem",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 T7+ Dragon Minions in battle:Troop HARD Stats +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Grace_of_Divine_Dragon_Holy_Dragon_Gem.wiki",
+  "markdown_path": "markdown/Grace_of_Divine_Dragon_Holy_Dragon_Gem.md"
+}

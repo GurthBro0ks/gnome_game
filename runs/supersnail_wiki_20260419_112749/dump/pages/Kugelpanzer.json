@@ -1,0 +1,51 @@
+{
+  "pageid": 8758,
+  "ns": 0,
+  "title": "Kugelpanzer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kugelpanzer",
+  "touched": "2025-06-20T00:22:45Z",
+  "length": 1379,
+  "lastrevid": 36249,
+  "revision": {
+    "revid": 36249,
+    "parentid": 34733,
+    "timestamp": "2025-06-20T00:22:45Z",
+    "sha1": "53512af84a71284354c675192be2c9718835c985",
+    "size": 1379
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Pages with broken file links",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Kugelpanzer",
+        "class_id": "22503",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "12-03",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Dec 3, 1915 AD, the world's first tank was born.<br>During the First World War, both sides were trapped in fierce trench warfare, and every battle was a terrible slaughter and enormous consumption. In order to break this stalemate, both sides began to develop new offensive weapons. Against this backdrop, the then British Minister of the Navy, Churchill, established the Landship Committee, and after ten months of development, a new weapon called the tank was born.",
+        "fame": "30",
+        "art": "21",
+        "fth": "35",
+        "civ": "22",
+        "tech": "46",
+        "ss1": "Per 2,000 Prairie Sanctum Rating Pts, Priest-Troop Assistance DMG +8<br>Prairie Sanctum Rating Pts: 100000/100000",
+        "ss2": "Per 2,000 Prairie Sanctum Rating Pts, Priest-Troop Assistance DMG +16<br>Prairie Sanctum Rating Pts: 100000/100000",
+        "ss3": "Per 2,000 Prairie Sanctum Rating Pts, Priest-Troop Assistance DMG +24<br>Prairie Sanctum Rating Pts: 100000/100000",
+        "ss4": "Per 2,000 Prairie Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Prairie Sanctum Rating Pts: 100000/100000",
+        "ss7": "Per 2,000 Prairie Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Prairie Sanctum Rating Pts: 100000/100000<br>Protomon Troop assist DMG + 400 (Awakened)",
+        "skill1": "[[File:Luckyegg skill I.png|50px]]Place in Lucky Egg: This Relic's TECH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kugelpanzer.wiki",
+  "markdown_path": "markdown/Kugelpanzer.md"
+}

@@ -1,0 +1,56 @@
+{
+  "pageid": 7517,
+  "ns": 0,
+  "title": "Ultimate Up Pack",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ultimate_Up_Pack",
+  "touched": "2024-11-16T01:42:16Z",
+  "length": 578,
+  "lastrevid": 31320,
+  "revision": {
+    "revid": 31320,
+    "parentid": 0,
+    "timestamp": "2024-11-04T13:48:12Z",
+    "sha1": "a78908f45a25d27e02d7f27fbe8becc6fab62c84",
+    "size": 578
+  },
+  "categories": [
+    "Reward Pack"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Blasphemy Eye"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Demon God Crystal"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Eye of Horus"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ultimate_Up_Pack.wiki",
+  "markdown_path": "markdown/Ultimate_Up_Pack.md"
+}

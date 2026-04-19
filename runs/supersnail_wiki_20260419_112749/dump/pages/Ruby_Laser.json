@@ -1,0 +1,51 @@
+{
+  "pageid": 4886,
+  "ns": 0,
+  "title": "Ruby Laser",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ruby_Laser",
+  "touched": "2025-08-11T11:16:16Z",
+  "length": 1838,
+  "lastrevid": 39327,
+  "revision": {
+    "revid": 39327,
+    "parentid": 25434,
+    "timestamp": "2025-08-11T11:16:16Z",
+    "sha1": "0123134ddd61fd2cb04ffafd55cef02078afc824",
+    "size": 1838
+  },
+  "categories": [
+    "FAME Relics",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ruby Laser",
+        "class_id": "22125",
+        "rank": "AAA",
+        "affct": "FAME",
+        "birthday": "05-16",
+        "description": "On May 16, 1960 AD, Maiman developed the world's first ruby laser.<br>Maiman, an American engineer invented the ruby laser marking the advent of lasers. When Maiman first began designing the laser, he requested funding from his company and threatened to resign if they did not provide it. The company gave him nine months, $50,000 in funding, and an assistant. After months of hard work, he finally succeeded in using artificial ruby to generate a laser light four times brighter than the surface of  …",
+        "fame": "73",
+        "art": "36",
+        "fth": "31",
+        "civ": "47",
+        "tech": "56",
+        "ss1": "Per 5 Mirage Gems gained, Snail ATK +3<br>Per 5 Mirage Gems gained, Snail DEF +3<br>Mirage Gems Gained: 200/200",
+        "ss2": "Per 5 Mirage Gems gained, Snail ATK +4<br>Per 5 Mirage Gems gained, Snail DEF +4<br>Mirage Gems Gained: 200/200",
+        "ss3": "Per 5 Mirage Gems gained, Snail ATK +5<br>Per 5 Mirage Gems gained, Snail DEF +5<br>Mirage Gems Gained: 200/200",
+        "ss4": "Per 5 Mirage Gems gained, Snail ATK +7<br>Per 5 Mirage Gems gained, Snail DEF +7<br>Mirage Gems Gained: 200/200",
+        "ss5": "Per 5 Mirage Gems gained, Snail ATK +9<br>Per 5 Mirage Gems gained, Snail DEF +9<br>Mirage Gems Gained: 200/200",
+        "ss7": "Per 5 Mirage Gems gained, Snail ATK +9<br>Per 5 Mirage Gems gained, Snail DEF +9<br>Mirage Gems Gained: 200/200<br>Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Murika skill II.png|50px]]Place in Murikan Museum: This Relic's FAME +10",
+        "skill2": "[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x Orange Reagent Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ruby_Laser.wiki",
+  "markdown_path": "markdown/Ruby_Laser.md"
+}

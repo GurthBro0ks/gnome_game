@@ -1,0 +1,33 @@
+{
+  "pageid": 9316,
+  "ns": 0,
+  "title": "Alfredo's Film+Jack's Typewriter",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Alfredo%27s_Film%2BJack%27s_Typewriter",
+  "touched": "2025-06-20T00:22:47Z",
+  "length": 176,
+  "lastrevid": 36250,
+  "revision": {
+    "revid": 36250,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:22:47Z",
+    "sha1": "7db2b99881464f3840fec9e47b6eb5ecdfa4a012",
+    "size": 176
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "612",
+        "relics": "Alfredo's Film,Jack's Typewriter",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "In Follower Recruitment, 2x Protolith Chest Drops +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Alfredo_s_Film_Jack_s_Typewriter.wiki",
+  "markdown_path": "markdown/Alfredo_s_Film_Jack_s_Typewriter.md"
+}

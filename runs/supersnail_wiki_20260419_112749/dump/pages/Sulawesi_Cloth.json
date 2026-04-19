@@ -1,0 +1,50 @@
+{
+  "pageid": 4733,
+  "ns": 0,
+  "title": "Sulawesi Cloth",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sulawesi_Cloth",
+  "touched": "2025-06-19T23:52:30Z",
+  "length": 1234,
+  "lastrevid": 35649,
+  "revision": {
+    "revid": 35649,
+    "parentid": 34873,
+    "timestamp": "2025-06-19T23:52:30Z",
+    "sha1": "1925db4f975afc81ae9b0de6cf366c8403d88219",
+    "size": 1234
+  },
+  "categories": [
+    "ART Relics",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Sulawesi Cloth",
+        "class_id": "22025",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "10-23",
+        "source": "Lottery Machine No.2 (0.26%), Wishing (0.14%)",
+        "description": "On Oct 23, 1600 AD, Sulawesi Cloth was weaved by the textile workers.<br>This piece of beige plain weave cloth got its name from where it was discovered, Sulawesi Island in Indonesia. It uses two types of printing techniques, stencil printing and resist printing with 12 identical hand-painted females who wear shirts and skirts. One hand of their hands holds a Veena and the other in front of their faces with a parrot on the fingertip. The women's unique eyes show that the cloth is closely connect …",
+        "fame": "22",
+        "art": "47",
+        "fth": "27",
+        "civ": "31",
+        "tech": "27",
+        "ss1": "Per 30 Gear Chests opened, Snail RUSH +1<br>Gear Chests Opened: 1500/1500",
+        "ss2": "Per 30 Gear Chests opened, Snail RUSH +2<br>Gear Chests Opened: 1500/1500",
+        "ss3": "Per 30 Gear Chests opened, Snail RUSH +3<br>Gear Chests Opened: 1500/1500",
+        "ss4": "Per 30 Gear Chests opened, Snail RUSH +5<br>Gear Chests Opened: 1500/1500",
+        "ss7": "Per 30 Gear Chests opened, Snail RUSH +5<br>Gear Chests Opened: 1500/1500<br>Snail RUSH +50 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sulawesi_Cloth.wiki",
+  "markdown_path": "markdown/Sulawesi_Cloth.md"
+}

@@ -1,0 +1,55 @@
+{
+  "pageid": 10212,
+  "ns": 0,
+  "title": "Battle of San Romano",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Battle_of_San_Romano",
+  "touched": "2025-08-11T11:19:12Z",
+  "length": 3109,
+  "lastrevid": 37888,
+  "revision": {
+    "revid": 37888,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:43:07Z",
+    "sha1": "e7ce867444b238222614a9d897490c9511554bdf",
+    "size": 3109
+  },
+  "categories": [
+    "ART Relics",
+    "Orange ART Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Battle of San Romano",
+        "class_id": "22655",
+        "rank": "SSS",
+        "affct": "ART",
+        "birthday": "06-24",
+        "description": "On Jun 24, 1455 AD, Uccello first attempted to create the Battle of San Romano.<br>The Battle of San Romano is a panel painting created by the Italian artist Uccello. In order to create the perfect painting, he created three versions of the Battle of San Romano, all on wooden panels. In the center of the painting is Niccolò da Mauruzi, the commander of the Florentine army, who is directing soldiers in battle. Behind him is a flag bearer on horseback, and behind the flag bearer are soldiers of di …",
+        "fame": "53",
+        "art": "108",
+        "fth": "70",
+        "civ": "70",
+        "tech": "61",
+        "ss1": "Demon Minion DEF +3%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +3<br>Desert Sanctum Rating Pts: 100000/100000",
+        "ss2": "Demon Minion DEF +4%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +4<br>Desert Sanctum Rating Pts: 100000/100000",
+        "ss3": "Demon Minion DEF +5%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +5<br>Desert Sanctum Rating Pts: 100000/100000",
+        "ss4": "Demon Minion DEF +7%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +7<br>Desert Sanctum Rating Pts: 100000/100000",
+        "ss5": "Demon Minion DEF +9%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +9<br>Desert Sanctum Rating Pts: 100000/100000",
+        "ss6": "Demon Minion DEF +12%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +12<br>Desert Sanctum Rating Pts: 100000/100000",
+        "ss7": "Demon Minion DEF +12%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 2,000 Desert Sanctum Rating Pts, Snail RUSH +12<br>Desert Sanctum Rating Pts: 100000/100000<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)",
+        "skill1": "[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: This Relic's ART +15",
+        "skill2": "[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Cap +30%",
+        "skill3": "[[File:Desertsanctum skill III.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +30%",
+        "mirage": "{{Mirage|name=Florentine Legion|reward={{RewardIconWithLink|Recruit Token, +10|orange}}\n|3name=Florence Footman|3rec=111.37M|3atk=339796|3defense=200582|3hp=31977544|3weak=42267\n|4name=Florence Cavalryman|4rec=124.82M|4atk=329024|4defense=219505|4hp=24924107|4weak=45923\n|5name=Florence Flag Bearer|5rec=163.82M|5atk=411286|5defense=274385|5hp=36399295|5weak=50060\n|6name=Nicollo|6rec=209.69M|6atk=508011|6defense=338914|6hp=51548743|6weak=54663\n|Arec=277.64M|Aatk=618079|Adefense=412345|Ahp=71218158 …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Battle_of_San_Romano.wiki",
+  "markdown_path": "markdown/Battle_of_San_Romano.md"
+}

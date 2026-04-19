@@ -1,0 +1,33 @@
+{
+  "pageid": 3649,
+  "ns": 0,
+  "title": "Marconi Telegraph+Edison's Phonograph",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Marconi_Telegraph%2BEdison%27s_Phonograph",
+  "touched": "2025-08-11T10:54:57Z",
+  "length": 169,
+  "lastrevid": 38402,
+  "revision": {
+    "revid": 38402,
+    "parentid": 13248,
+    "timestamp": "2025-08-11T10:54:57Z",
+    "sha1": "b1392c9323febbb805e6b80505b4d21d2dfe9739",
+    "size": 169
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "113",
+        "relics": "Marconi Telegraph,Edison's Phonograph",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "When offering, 2x Order Chest Drops +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Marconi_Telegraph_Edison_s_Phonograph.wiki",
+  "markdown_path": "markdown/Marconi_Telegraph_Edison_s_Phonograph.md"
+}

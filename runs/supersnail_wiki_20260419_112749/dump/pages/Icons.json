@@ -1,0 +1,62 @@
+{
+  "pageid": 6854,
+  "ns": 0,
+  "title": "Icons",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Icons",
+  "touched": "2025-10-29T00:33:50Z",
+  "length": 11084,
+  "lastrevid": 41705,
+  "revision": {
+    "revid": 41705,
+    "parentid": 41560,
+    "timestamp": "2025-10-29T00:33:50Z",
+    "sha1": "f08241a04a40e7521210807385bd1bcb96d1e4fb",
+    "size": 11084
+  },
+  "categories": [
+    "Cathay",
+    "Icons",
+    "Lottery Machine",
+    "Maneater",
+    "Minion Sim",
+    "Pages with broken file links",
+    "Realm"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "IconExampleRowWithGearlink",
+      "params": {
+        "1": "Blue",
+        "2": "War",
+        "3": "Disk of Regeneration"
+      }
+    },
+    {
+      "template": "IconExampleRowWithGearlink",
+      "params": {
+        "1": "Blue",
+        "2": "War",
+        "3": "White Oaken Shield"
+      }
+    },
+    {
+      "template": "IconExampleRowWithGearlink",
+      "params": {
+        "1": "Purple",
+        "2": "War",
+        "3": "Trumpet Shell"
+      }
+    },
+    {
+      "template": "IconExampleRowWithGearlink",
+      "params": {
+        "1": "Orange",
+        "2": "War",
+        "3": "Sanskrit Tablet"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Icons.wiki",
+  "markdown_path": "markdown/Icons.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 11035,
+  "ns": 0,
+  "title": "Marici Sarira",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Marici_Sarira",
+  "touched": "2025-08-11T11:09:55Z",
+  "length": 786,
+  "lastrevid": 39052,
+  "revision": {
+    "revid": 39052,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:09:55Z",
+    "sha1": "31d53f88e5a0bfa6f37574c7d06b42897b6be1f5",
+    "size": 786
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Marici Sarira",
+        "class_id": "20281",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This golden sarira comes from Marici, who has gone through 10 lifetimes of cultivation, and gathers all the power that he possessed during all his past lifetime. The light around it is enough to repel all monsters and ghosts away!",
+        "fame": "14",
+        "art": "16",
+        "fth": "29",
+        "civ": "15",
+        "tech": "16",
+        "ss1": "Per 6 kinds of Souls offered, Snail HP +10<br>Souls offered: 300/300 types",
+        "ss2": "Per 6 kinds of Souls offered, Snail HP +20<br>Souls offered: 300/300 types",
+        "ss3": "Per 6 kinds of Souls offered, Snail HP +30<br>Souls offered: 300/300 types",
+        "ss4": "Per 6 kinds of Souls offered, Snail HP +30<br>Souls offered: 300/300 types",
+        "ss7": "Per 6 kinds of Souls offered, Snail HP +30<br>Souls offered: 300/300 types<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Marici_Sarira.wiki",
+  "markdown_path": "markdown/Marici_Sarira.md"
+}

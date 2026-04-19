@@ -1,0 +1,47 @@
+{
+  "pageid": 10032,
+  "ns": 0,
+  "title": "Collection@20769 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20769_1",
+  "touched": "2025-08-11T10:35:39Z",
+  "length": 354,
+  "lastrevid": 37575,
+  "revision": {
+    "revid": 37575,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:35:39Z",
+    "sha1": "7bbae8fa172a1edd82f2d34f719a1b5fd46bfb2a",
+    "size": 354
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20769_1",
+        "class_id": "20769",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "collection@20769_2",
+        "fame": "15",
+        "art": "13",
+        "fth": "31",
+        "civ": "14",
+        "tech": "17",
+        "ss1": "prop@69953_2<br>Snail ATK +20",
+        "ss2": "prop@69953_2<br>Snail ATK +40",
+        "ss3": "prop@69953_2<br>Snail ATK +60",
+        "ss4": "prop@69953_2<br>Snail ATK +60",
+        "ss7": "prop@69953_2<br>Snail ATK +60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20769_1.wiki",
+  "markdown_path": "markdown/Collection_20769_1.md"
+}

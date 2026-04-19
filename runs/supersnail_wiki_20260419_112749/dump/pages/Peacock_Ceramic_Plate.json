@@ -1,0 +1,50 @@
+{
+  "pageid": 4669,
+  "ns": 0,
+  "title": "Peacock Ceramic Plate",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Peacock_Ceramic_Plate",
+  "touched": "2025-06-16T23:16:10Z",
+  "length": 1052,
+  "lastrevid": 35096,
+  "revision": {
+    "revid": 35096,
+    "parentid": 23724,
+    "timestamp": "2025-06-16T23:16:10Z",
+    "sha1": "a5ae3af75c7ddcd938fd33eceb37a7fe9fd008a2",
+    "size": 1052
+  },
+  "categories": [
+    "ART Relics",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Peacock Ceramic Plate",
+        "class_id": "22039",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "03-06",
+        "source": "Lottery Machine No.2 (0.07%), Wishing (0.03%)",
+        "description": "On Mar 6, 1540 AD, the peacock porcelain plate was successfully fired in a ceramic workshop in Turkey.<br>The Peacock Ceramic Plate is one of the most famous ceramics. Its surface is smooth, and a bouquet is painted with feather-like curved leaves growing on slender stems. The blooming flowers seem to be swaying gently, and the tulips and hyacinths are vividly painted, competing for beauty and contrasting the blue peacock.",
+        "fame": "23",
+        "art": "46",
+        "fth": "26",
+        "civ": "31",
+        "tech": "28",
+        "ss1": "Per 10 Demon Minions in battle:<br>> Troop ATK +1",
+        "ss2": "Per 10 Demon Minions in battle:<br>> Troop ATK +2",
+        "ss3": "Per 10 Demon Minions in battle:<br>> Troop ATK +3",
+        "ss4": "Per 10 Demon Minions in battle:<br>> Troop ATK +5",
+        "ss7": "Per 10 Demon Minions in battle:<br>> Troop ATK +5<br>Per 10 Demon Minions in battle:<br>> Troop ATK +5 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: This Relic's ART +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Peacock_Ceramic_Plate.wiki",
+  "markdown_path": "markdown/Peacock_Ceramic_Plate.md"
+}

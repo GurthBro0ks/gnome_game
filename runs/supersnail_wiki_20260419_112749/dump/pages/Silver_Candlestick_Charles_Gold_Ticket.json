@@ -1,0 +1,33 @@
+{
+  "pageid": 4977,
+  "ns": 0,
+  "title": "Silver Candlestick+Charles' Gold Ticket",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Silver_Candlestick%2BCharles%27_Gold_Ticket",
+  "touched": "2025-06-20T00:03:29Z",
+  "length": 197,
+  "lastrevid": 35822,
+  "revision": {
+    "revid": 35822,
+    "parentid": 18536,
+    "timestamp": "2025-06-20T00:03:29Z",
+    "sha1": "4a181869ae740eca6d7fef258380f605fcce1d1d",
+    "size": 197
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "410",
+        "relics": "Silver Candlestick,Charles' Gold Ticket",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1.5k Tadpole Points, Snail DEF +6;Tadpole Points: 45000/45000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Silver_Candlestick_Charles_Gold_Ticket.wiki",
+  "markdown_path": "markdown/Silver_Candlestick_Charles_Gold_Ticket.md"
+}

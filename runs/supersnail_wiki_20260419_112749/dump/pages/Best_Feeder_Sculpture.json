@@ -1,0 +1,47 @@
+{
+  "pageid": 7908,
+  "ns": 0,
+  "title": "Best Feeder Sculpture",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Best_Feeder_Sculpture",
+  "touched": "2025-09-30T22:07:23Z",
+  "length": 647,
+  "lastrevid": 40401,
+  "revision": {
+    "revid": 40401,
+    "parentid": 40339,
+    "timestamp": "2025-09-30T22:07:23Z",
+    "sha1": "55b2bcd557c3463fa33c351ac417249b94638980",
+    "size": 647
+  },
+  "categories": [
+    "ATK Boost",
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Best Feeder Sculpture",
+        "class_id": "20264",
+        "rank": "Green",
+        "affct": "FTH",
+        "source": "Reward of Rocket upgrade",
+        "description": "This wooden sculpture was awarded by the Bird family to the best tamers of all ages. When the selection of this award is completed, a professional sculptor will carve a wooden sculpture based on the winner's image for future generations to look up to!",
+        "fame": "17",
+        "art": "18",
+        "fth": "30",
+        "civ": "13",
+        "tech": "12",
+        "ss1": "Per 40 Eggs hatched, Snail ATK +1<br>Eggs hatched: 1600/1600",
+        "ss2": "Per 40 Eggs hatched, Snail ATK +2<br>Eggs hatched: 1600/1600",
+        "ss3": "Per 40 Eggs hatched, Snail ATK +3<br>Eggs hatched: 1600/1600"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Best_Feeder_Sculpture.wiki",
+  "markdown_path": "markdown/Best_Feeder_Sculpture.md"
+}

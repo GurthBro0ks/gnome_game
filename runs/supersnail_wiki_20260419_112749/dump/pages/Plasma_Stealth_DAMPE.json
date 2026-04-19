@@ -1,0 +1,33 @@
+{
+  "pageid": 9314,
+  "ns": 0,
+  "title": "Plasma Stealth+DAMPE",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Plasma_Stealth%2BDAMPE",
+  "touched": "2025-06-20T00:22:33Z",
+  "length": 168,
+  "lastrevid": 36242,
+  "revision": {
+    "revid": 36242,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:22:33Z",
+    "sha1": "76181ddda8654b21c518c8f74283f57316c26d71",
+    "size": 168
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "674",
+        "relics": "Plasma Stealth,DAMPE",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 30 T7+ Demon Minions in battle:Troop HARD Stats +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Plasma_Stealth_DAMPE.wiki",
+  "markdown_path": "markdown/Plasma_Stealth_DAMPE.md"
+}

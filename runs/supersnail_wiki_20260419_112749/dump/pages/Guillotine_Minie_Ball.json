@@ -1,0 +1,35 @@
+{
+  "pageid": 3300,
+  "ns": 0,
+  "title": "Guillotine+Minie Ball",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Guillotine%2BMinie_Ball",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 218,
+  "lastrevid": 18373,
+  "revision": {
+    "revid": 18373,
+    "parentid": 17763,
+    "timestamp": "2023-11-13T21:28:18Z",
+    "sha1": "96c756dd36ca252de853af5ba75319375dfbb199",
+    "size": 218
+  },
+  "categories": [
+    "Mecha Minion ATK Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Guillotine,Minie Ball",
+        "rank": "blue",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 10 Mecha Minions in battle: Troop ATK +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Guillotine_Minie_Ball.wiki",
+  "markdown_path": "markdown/Guillotine_Minie_Ball.md"
+}

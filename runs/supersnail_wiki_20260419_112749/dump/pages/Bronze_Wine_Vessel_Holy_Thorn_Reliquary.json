@@ -1,0 +1,33 @@
+{
+  "pageid": 9254,
+  "ns": 0,
+  "title": "Bronze Wine Vessel+Holy Thorn Reliquary",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bronze_Wine_Vessel%2BHoly_Thorn_Reliquary",
+  "touched": "2025-06-20T00:15:46Z",
+  "length": 205,
+  "lastrevid": 36076,
+  "revision": {
+    "revid": 36076,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:15:46Z",
+    "sha1": "74b4051535586b427e10b70f9d0de536736398d5",
+    "size": 205
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "667",
+        "relics": "Bronze Wine Vessel,Holy Thorn Reliquary",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Mythic Protodex Stars, Snail DEF +18;Mythic Protodex Stars: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bronze_Wine_Vessel_Holy_Thorn_Reliquary.wiki",
+  "markdown_path": "markdown/Bronze_Wine_Vessel_Holy_Thorn_Reliquary.md"
+}

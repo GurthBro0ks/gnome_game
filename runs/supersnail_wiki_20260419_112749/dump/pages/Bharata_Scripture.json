@@ -1,0 +1,46 @@
+{
+  "pageid": 10297,
+  "ns": 0,
+  "title": "Bharata Scripture",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bharata_Scripture",
+  "touched": "2025-09-30T22:08:00Z",
+  "length": 817,
+  "lastrevid": 40402,
+  "revision": {
+    "revid": 40402,
+    "parentid": 40340,
+    "timestamp": "2025-09-30T22:08:00Z",
+    "sha1": "21190658693e7e00f0e9c776ae4b360c60955d13",
+    "size": 817
+  },
+  "categories": [
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Missing Info",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bharata Scripture",
+        "class_id": "20761",
+        "rank": "Green",
+        "affct": "FTH",
+        "description": "The Bharata Scripture is profound, to gain power from it, Earth's will awards travelers with a customized Sanskrit scripture to accelerate research and eliminate the Demon God's forces as soon as possible! -- Earth's Will (Seal)",
+        "fame": "15",
+        "art": "14",
+        "fth": "30",
+        "civ": "18",
+        "tech": "13",
+        "ss1": "Per Bharata Apostle defeated, Snail DEF +3<br>Per Bharata Apostle defeated, Snail RUSH +3<br>Bharata Apostles defeated:10/10",
+        "ss2": "Per Bharata Apostle defeated, Snail DEF +6<br>Per Bharata Apostle defeated, Snail RUSH +6<br>Bharata Apostles defeated:10/10",
+        "ss3": "Per Bharata Apostle defeated, Snail DEF +9<br>Per Bharata Apostle defeated, Snail RUSH +9<br>Bharata Apostles defeated:10/10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bharata_Scripture.wiki",
+  "markdown_path": "markdown/Bharata_Scripture.md"
+}

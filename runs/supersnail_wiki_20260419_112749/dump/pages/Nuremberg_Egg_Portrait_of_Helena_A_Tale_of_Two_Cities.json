@@ -1,0 +1,33 @@
+{
+  "pageid": 4968,
+  "ns": 0,
+  "title": "Nuremberg Egg+Portrait of Helena+A Tale of Two Cities",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nuremberg_Egg%2BPortrait_of_Helena%2BA_Tale_of_Two_Cities",
+  "touched": "2025-06-19T23:54:13Z",
+  "length": 206,
+  "lastrevid": 35668,
+  "revision": {
+    "revid": 35668,
+    "parentid": 18614,
+    "timestamp": "2025-06-19T23:54:13Z",
+    "sha1": "21606046f5190fb336905fee46221489137e3cf5",
+    "size": 206
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "433",
+        "relics": "Nuremberg Egg,Portrait of Helena,A Tale of Two Cities",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 200 Avatar Score, Snail ATK +7;Avatar Score: 10000/10000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nuremberg_Egg_Portrait_of_Helena_A_Tale_of_Two_Cities.wiki",
+  "markdown_path": "markdown/Nuremberg_Egg_Portrait_of_Helena_A_Tale_of_Two_Cities.md"
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 3023,
+  "ns": 0,
+  "title": "Biker Gang",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Biker_Gang",
+  "touched": "2025-02-06T19:34:25Z",
+  "length": 350,
+  "lastrevid": 12435,
+  "revision": {
+    "revid": 12435,
+    "parentid": 11656,
+    "timestamp": "2023-09-15T15:31:09Z",
+    "sha1": "cd03cd5428ae36f6aad73f0bb04d2ea9959672cc",
+    "size": 350
+  },
+  "categories": [
+    "ATK Boost",
+    "CIV Shells",
+    "Earth DMG Boost",
+    "Mutant Form",
+    "RUSH Boost",
+    "Shells",
+    "Yamato"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Biker_Gang.wiki",
+  "markdown_path": "markdown/Biker_Gang.md"
+}

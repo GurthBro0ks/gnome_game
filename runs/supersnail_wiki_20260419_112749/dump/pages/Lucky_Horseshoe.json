@@ -1,0 +1,47 @@
+{
+  "pageid": 10674,
+  "ns": 0,
+  "title": "Lucky Horseshoe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lucky_Horseshoe",
+  "touched": "2025-08-11T10:58:10Z",
+  "length": 881,
+  "lastrevid": 38541,
+  "revision": {
+    "revid": 38541,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:58:10Z",
+    "sha1": "4e1b4105487c04424f51195139d68525cadd31b6",
+    "size": 881
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Lucky Horseshoe",
+        "class_id": "20957",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The magical lucky horseshoe, typically forged into a crescent shape, symbolizes the ancient Greek goddess of hunting and the moon, Artemis. It is said that only when it is nailed above a door with the open end facing upwards, can it bring good fortune…",
+        "fame": "31",
+        "art": "13",
+        "fth": "15",
+        "civ": "16",
+        "tech": "15",
+        "ss1": "Snail HP +200<br>Per 10 Lucky Coins gained, Snail RUSH +1<br>Lucky Coins Gained: 400/400",
+        "ss2": "Snail HP +400<br>Per 10 Lucky Coins gained, Snail RUSH +2<br>Lucky Coins Gained: 400/400",
+        "ss3": "Snail HP +600<br>Per 10 Lucky Coins gained, Snail RUSH +3<br>Lucky Coins Gained: 400/400",
+        "ss4": "Snail HP +600<br>Per 10 Lucky Coins gained, Snail RUSH +3<br>Lucky Coins Gained: 400/400",
+        "ss7": "Snail HP +600<br>Per 10 Lucky Coins gained, Snail RUSH +3<br>Lucky Coins Gained: 400/400<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lucky_Horseshoe.wiki",
+  "markdown_path": "markdown/Lucky_Horseshoe.md"
+}

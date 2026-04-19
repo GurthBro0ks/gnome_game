@@ -1,0 +1,36 @@
+{
+  "pageid": 7966,
+  "ns": 0,
+  "title": "World Wide Web+Gold Standard+The Nightmare+Gunfire in Pennsylvania+Khonsu Pyramidion+The Lancet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/World_Wide_Web%2BGold_Standard%2BThe_Nightmare%2BGunfire_in_Pennsylvania%2BKhonsu_Pyramidion%2BThe_Lancet",
+  "touched": "2025-03-23T18:36:27Z",
+  "length": 384,
+  "lastrevid": 33418,
+  "revision": {
+    "revid": 33418,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:01:37Z",
+    "sha1": "b94b995759b18d718b839e21dd7a866a60c86729",
+    "size": 384
+  },
+  "categories": [
+    "Enhanced by Distinct Souls Offered",
+    "Priest-Snail Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "World Wide Web,Gold Standard,The Nightmare,Gunfire in Pennsylvania,Khonsu Pyramidion,The Lancet",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Per 6 distinct Souls offered, Priest-Snail Assistance DMG +96; Distinct Souls Offered: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/World_Wide_Web_Gold_Standard_The_Nightmare_Gunfire_in_Pennsylvania_Khonsu_Pyramidion_The_Lancet.wiki",
+  "markdown_path": "markdown/World_Wide_Web_Gold_Standard_The_Nightmare_Gunfire_in_Pennsylvania_Khonsu_Pyramidion_The_Lancet.md"
+}

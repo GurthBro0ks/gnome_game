@@ -1,0 +1,47 @@
+{
+  "pageid": 11051,
+  "ns": 0,
+  "title": "Golden Ombú Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Omb%C3%BA_Award",
+  "touched": "2025-08-11T11:10:29Z",
+  "length": 732,
+  "lastrevid": 39075,
+  "revision": {
+    "revid": 39075,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:10:29Z",
+    "sha1": "537e82d33dd7d45263e7b89217aa24e61b96bea0",
+    "size": 732
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Golden Ombú Award",
+        "class_id": "20983",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The Golden Ombú Award is the highest honor of the Festival Internacional de Cine de Mar del Plata and a major celebration of Latin American and European cinema. Originally non-competitive, the award was established to showcase Latin American culture through film, encourage filmmakers to speak openly, and support Argentine cinema through dedicated institutional backing.",
+        "fame": "30",
+        "art": "14",
+        "fth": "13",
+        "civ": "18",
+        "tech": "15",
+        "ss1": "All equipped Organs, skill DMG +1%",
+        "ss2": "All equipped Organs, skill DMG +2%",
+        "ss3": "All equipped Organs, skill DMG +3%",
+        "ss4": "All equipped Organs, skill DMG +3%",
+        "ss7": "All equipped Organs, skill DMG +3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Omb_Award.wiki",
+  "markdown_path": "markdown/Golden_Omb_Award.md"
+}

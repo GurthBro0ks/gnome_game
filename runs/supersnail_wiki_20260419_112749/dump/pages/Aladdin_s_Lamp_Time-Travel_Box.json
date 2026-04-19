@@ -1,0 +1,34 @@
+{
+  "pageid": 3731,
+  "ns": 0,
+  "title": "Aladdin's Lamp+Time-Travel Box",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Aladdin%27s_Lamp%2BTime-Travel_Box",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 216,
+  "lastrevid": 27787,
+  "revision": {
+    "revid": 27787,
+    "parentid": 27786,
+    "timestamp": "2024-06-08T17:46:52Z",
+    "sha1": "2595e9325d2ae03f3336eb9e6054569927cc8a6c",
+    "size": 216
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Aladdin's Lamp,Time-Travel Box",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 20 Orange Beads drawn, Snail DEF +14<br>Orange Beads Drawn: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Aladdin_s_Lamp_Time-Travel_Box.wiki",
+  "markdown_path": "markdown/Aladdin_s_Lamp_Time-Travel_Box.md"
+}

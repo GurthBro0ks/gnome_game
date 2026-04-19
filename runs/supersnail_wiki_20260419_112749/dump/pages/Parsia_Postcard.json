@@ -1,0 +1,47 @@
+{
+  "pageid": 9932,
+  "ns": 0,
+  "title": "Parsia Postcard",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Parsia_Postcard",
+  "touched": "2025-08-11T10:31:57Z",
+  "length": 449,
+  "lastrevid": 37407,
+  "revision": {
+    "revid": 37407,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:31:57Z",
+    "sha1": "59b45a1dd5fb591f5842a46842dd6bc0425f1fd4",
+    "size": 449
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Parsia Postcard",
+        "class_id": "20177",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "While scouting for info about the Ultimate Weapon in Parsia, the Traveler recorded a lot of local customs, which were brought together in this postcard. You can read it to kill time or post it for likes!",
+        "fame": "18",
+        "art": "26",
+        "fth": "12",
+        "civ": "21",
+        "tech": "13",
+        "ss1": "prop@69948_2",
+        "ss2": "prop@69948_2",
+        "ss3": "prop@69948_2",
+        "ss4": "prop@69948_2",
+        "ss7": "prop@69948_2<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Parsia_Postcard.wiki",
+  "markdown_path": "markdown/Parsia_Postcard.md"
+}

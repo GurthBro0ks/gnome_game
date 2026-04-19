@@ -1,0 +1,35 @@
+{
+  "pageid": 7986,
+  "ns": 0,
+  "title": "WLAN+Tzolk'in Calendar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/WLAN%2BTzolk%27in_Calendar",
+  "touched": "2025-03-23T18:37:45Z",
+  "length": 242,
+  "lastrevid": 33439,
+  "revision": {
+    "revid": 33439,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:40:26Z",
+    "sha1": "83dfcce87a68fd940dd2967bd8f604c2823d2753",
+    "size": 242
+  },
+  "categories": [
+    "Bedrock Power Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "WLAN,Tzolk'in Calendar",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 eggs hatched, Snail Bedrock Power +14; Eggs hatched: 3,000/3,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/WLAN_Tzolk_in_Calendar.wiki",
+  "markdown_path": "markdown/WLAN_Tzolk_in_Calendar.md"
+}

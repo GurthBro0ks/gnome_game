@@ -1,0 +1,33 @@
+{
+  "pageid": 4363,
+  "ns": 0,
+  "title": "San Damiano Cross+Chain Reaction Model+1900's Vinyl Record",
+  "fullurl": "https://supersnail.wiki.gg/wiki/San_Damiano_Cross%2BChain_Reaction_Model%2B1900%27s_Vinyl_Record",
+  "touched": "2025-06-19T23:59:07Z",
+  "length": 215,
+  "lastrevid": 35720,
+  "revision": {
+    "revid": 35720,
+    "parentid": 18558,
+    "timestamp": "2025-06-19T23:59:07Z",
+    "sha1": "44a828bf092671c845963f24ea334de1cdcf3f87",
+    "size": 215
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "355",
+        "relics": "San Damiano Cross,Chain Reaction Model,1900's Vinyl Record",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Per God of Tech Descent, Snail HP +60;God of Tech Descended: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/San_Damiano_Cross_Chain_Reaction_Model_1900_s_Vinyl_Record.wiki",
+  "markdown_path": "markdown/San_Damiano_Cross_Chain_Reaction_Model_1900_s_Vinyl_Record.md"
+}

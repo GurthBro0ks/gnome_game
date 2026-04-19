@@ -1,0 +1,33 @@
+{
+  "pageid": 8516,
+  "ns": 0,
+  "title": "Moenn Faucet+Benedictus Safe Glass+Monier Concrete",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Moenn_Faucet%2BBenedictus_Safe_Glass%2BMonier_Concrete",
+  "touched": "2025-06-20T00:14:36Z",
+  "length": 170,
+  "lastrevid": 36030,
+  "revision": {
+    "revid": 36030,
+    "parentid": 34400,
+    "timestamp": "2025-06-20T00:14:36Z",
+    "sha1": "c194e92dba8492500725f18141b0a7d0e5b78240",
+    "size": 170
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "635",
+        "relics": "Moenn Faucet,Benedictus Safe Glass,Monier Concrete",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Mecha Minion HARD Stats +1.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Moenn_Faucet_Benedictus_Safe_Glass_Monier_Concrete.wiki",
+  "markdown_path": "markdown/Moenn_Faucet_Benedictus_Safe_Glass_Monier_Concrete.md"
+}

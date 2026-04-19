@@ -1,0 +1,33 @@
+{
+  "pageid": 7954,
+  "ns": 0,
+  "title": "Ordinary Casket+Five-Colored Stone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ordinary_Casket%2BFive-Colored_Stone",
+  "touched": "2025-08-11T11:08:36Z",
+  "length": 157,
+  "lastrevid": 38996,
+  "revision": {
+    "revid": 38996,
+    "parentid": 33405,
+    "timestamp": "2025-08-11T11:08:36Z",
+    "sha1": "903b9a8482d1714c854c0f0cc01473bcccc90ecc",
+    "size": 157
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "906",
+        "relics": "Ordinary Casket,Five-Colored Stone",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Dragon Minion HARD Stats +2.1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ordinary_Casket_Five-Colored_Stone.wiki",
+  "markdown_path": "markdown/Ordinary_Casket_Five-Colored_Stone.md"
+}

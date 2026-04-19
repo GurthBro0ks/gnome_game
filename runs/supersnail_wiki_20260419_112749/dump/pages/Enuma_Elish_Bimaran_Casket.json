@@ -1,0 +1,36 @@
+{
+  "pageid": 4259,
+  "ns": 0,
+  "title": "Enuma Elish+Bimaran Casket",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Enuma_Elish%2BBimaran_Casket",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 282,
+  "lastrevid": 18601,
+  "revision": {
+    "revid": 18601,
+    "parentid": 18290,
+    "timestamp": "2023-11-14T01:24:21Z",
+    "sha1": "a7f230c25f892063cf70c3a79d6c6d9eb3e983e2",
+    "size": 282
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by God of Whales Descent",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Enuma Elish,Bimaran Casket",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per God of Whales Descent, Snail ATK +7; God of Whales Descended: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Enuma_Elish_Bimaran_Casket.wiki",
+  "markdown_path": "markdown/Enuma_Elish_Bimaran_Casket.md"
+}

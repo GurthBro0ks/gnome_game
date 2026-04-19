@@ -1,0 +1,33 @@
+{
+  "pageid": 4588,
+  "ns": 0,
+  "title": "Omphalos+Ouroboros Mark",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Omphalos%2BOuroboros_Mark",
+  "touched": "2025-06-20T00:06:59Z",
+  "length": 159,
+  "lastrevid": 35885,
+  "revision": {
+    "revid": 35885,
+    "parentid": 18386,
+    "timestamp": "2025-06-20T00:06:59Z",
+    "sha1": "3019e551ef92c29daa5b01cfcc08cab1d91b02c6",
+    "size": 159
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "324",
+        "relics": "Omphalos,Ouroboros Mark",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Mutant Minions in battle: Troop HP +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Omphalos_Ouroboros_Mark.wiki",
+  "markdown_path": "markdown/Omphalos_Ouroboros_Mark.md"
+}

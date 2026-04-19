@@ -1,0 +1,47 @@
+{
+  "pageid": 10561,
+  "ns": 0,
+  "title": "Joseph's Manuscript",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Joseph%27s_Manuscript",
+  "touched": "2025-08-11T10:54:49Z",
+  "length": 795,
+  "lastrevid": 38397,
+  "revision": {
+    "revid": 38397,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:54:49Z",
+    "sha1": "67e20b47949005203e9083de019e0173086f05c6",
+    "size": 795
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Joseph's Manuscript",
+        "class_id": "20365",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Joseph Murray is known as the father of organ transplantation. He is the first doctor in the world who successfully performed an organ transplantation operation and opened up a new path for modern medicine. The manuscript to which he devoted his whole life is a must-learn material for later generations!",
+        "fame": "14",
+        "art": "18",
+        "fth": "13",
+        "civ": "14",
+        "tech": "31",
+        "ss1": "Per Organ implanted, Snail ATK +1<br>Organs Implanted: 40/40",
+        "ss2": "Per Organ implanted, Snail ATK +2<br>Organs Implanted: 40/40",
+        "ss3": "Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40",
+        "ss4": "Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40",
+        "ss7": "Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Joseph_s_Manuscript.wiki",
+  "markdown_path": "markdown/Joseph_s_Manuscript.md"
+}

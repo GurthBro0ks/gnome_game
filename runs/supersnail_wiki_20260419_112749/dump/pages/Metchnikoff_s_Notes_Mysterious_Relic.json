@@ -1,0 +1,36 @@
+{
+  "pageid": 6079,
+  "ns": 0,
+  "title": "Metchnikoff's Notes+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Metchnikoff%27s_Notes%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 249,
+  "lastrevid": 23168,
+  "revision": {
+    "revid": 23168,
+    "parentid": 0,
+    "timestamp": "2024-03-09T05:45:52Z",
+    "sha1": "2dbf585c3101902c012d8e9cfbd6242122c5bef8",
+    "size": 249
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Badges Gained",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Metchnikoff's Notes,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 Badges gained, Snail ATK +14"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Metchnikoff_s_Notes_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Metchnikoff_s_Notes_Mysterious_Relic.md"
+}

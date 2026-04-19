@@ -1,0 +1,34 @@
+{
+  "pageid": 3738,
+  "ns": 0,
+  "title": "Archimedes' Lever+Magellan's Telescope",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Archimedes%27_Lever%2BMagellan%27s_Telescope",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 207,
+  "lastrevid": 13636,
+  "revision": {
+    "revid": 13636,
+    "parentid": 0,
+    "timestamp": "2023-10-01T09:48:21Z",
+    "sha1": "7da71fc6bd6ba53d7d5f137eb2de4a7f4f5d2b21",
+    "size": 207
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Archimedes' Lever,Magellan's Telescope",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10k Power, Snail RUSH +5<br>Power: 420,000/420,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Archimedes_Lever_Magellan_s_Telescope.wiki",
+  "markdown_path": "markdown/Archimedes_Lever_Magellan_s_Telescope.md"
+}

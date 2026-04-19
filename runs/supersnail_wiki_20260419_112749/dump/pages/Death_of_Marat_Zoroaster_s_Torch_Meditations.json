@@ -1,0 +1,34 @@
+{
+  "pageid": 3660,
+  "ns": 0,
+  "title": "Death of Marat+Zoroaster's Torch+Meditations",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Death_of_Marat%2BZoroaster%27s_Torch%2BMeditations",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 177,
+  "lastrevid": 13263,
+  "revision": {
+    "revid": 13263,
+    "parentid": 0,
+    "timestamp": "2023-09-23T20:53:27Z",
+    "sha1": "df9d5de0adf00b7ee8c67e2e1271db67d53bae0a",
+    "size": 177
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Death of Marat,Zoroaster's Torch,Meditations",
+        "rank": "purple",
+        "amount": "3",
+        "category": "home",
+        "description": "Quarry Output +14%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Death_of_Marat_Zoroaster_s_Torch_Meditations.wiki",
+  "markdown_path": "markdown/Death_of_Marat_Zoroaster_s_Torch_Meditations.md"
+}

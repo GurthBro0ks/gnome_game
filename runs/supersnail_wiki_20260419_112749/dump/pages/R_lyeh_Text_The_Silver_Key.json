@@ -1,0 +1,33 @@
+{
+  "pageid": 4159,
+  "ns": 0,
+  "title": "R'lyeh Text+The Silver Key",
+  "fullurl": "https://supersnail.wiki.gg/wiki/R%27lyeh_Text%2BThe_Silver_Key",
+  "touched": "2025-06-20T00:05:29Z",
+  "length": 171,
+  "lastrevid": 35874,
+  "revision": {
+    "revid": 35874,
+    "parentid": 19501,
+    "timestamp": "2025-06-20T00:05:29Z",
+    "sha1": "a5531324a750f6aba69fb9b17124ba91deb346d9",
+    "size": 171
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "467",
+        "relics": "R'lyeh Text,The Silver Key",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "In the Gaia Rocket Cabin: Gamma Ray Base Effect +56%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/R_lyeh_Text_The_Silver_Key.wiki",
+  "markdown_path": "markdown/R_lyeh_Text_The_Silver_Key.md"
+}

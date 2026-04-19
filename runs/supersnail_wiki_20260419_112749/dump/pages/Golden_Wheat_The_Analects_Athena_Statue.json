@@ -1,0 +1,34 @@
+{
+  "pageid": 3785,
+  "ns": 0,
+  "title": "Golden Wheat+The Analects+Athena Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Wheat%2BThe_Analects%2BAthena_Statue",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 219,
+  "lastrevid": 13683,
+  "revision": {
+    "revid": 13683,
+    "parentid": 0,
+    "timestamp": "2023-10-02T09:39:08Z",
+    "sha1": "6c45808620272afb75c5716e98106209f88c5efd",
+    "size": 219
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Golden Wheat,The Analects,Athena Statue",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 3 Orange Relics gained, Snail HP +320<br>Orange Relics: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Wheat_The_Analects_Athena_Statue.wiki",
+  "markdown_path": "markdown/Golden_Wheat_The_Analects_Athena_Statue.md"
+}

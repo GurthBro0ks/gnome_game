@@ -1,0 +1,33 @@
+{
+  "pageid": 8906,
+  "ns": 0,
+  "title": "Wegener's Map+Magdeburg Hemispheres",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wegener%27s_Map%2BMagdeburg_Hemispheres",
+  "touched": "2025-06-16T23:10:59Z",
+  "length": 141,
+  "lastrevid": 34957,
+  "revision": {
+    "revid": 34957,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:10:59Z",
+    "sha1": "ff7d0302ca23c69390b3d44afafe13380f2c8d47",
+    "size": 141
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "417",
+        "relics": "Wegener's Map,Magdeburg Hemispheres",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wegener_s_Map_Magdeburg_Hemispheres.wiki",
+  "markdown_path": "markdown/Wegener_s_Map_Magdeburg_Hemispheres.md"
+}

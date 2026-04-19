@@ -1,0 +1,34 @@
+{
+  "pageid": 3318,
+  "ns": 0,
+  "title": "Haradric Cube+Our Lady of Kazan+Chair of Busby",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Haradric_Cube%2BOur_Lady_of_Kazan%2BChair_of_Busby",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 177,
+  "lastrevid": 12055,
+  "revision": {
+    "revid": 12055,
+    "parentid": 0,
+    "timestamp": "2023-09-13T08:23:01Z",
+    "sha1": "ffe0b50d14b6ace757c3cfaf3a60b1e2cc436c3c",
+    "size": 177
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Haradric Cube,Our Lady of Kazan,Chair of Busby",
+        "rank": "blue",
+        "amount": "3",
+        "category": "home",
+        "description": "Quarry Output +12%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Haradric_Cube_Our_Lady_of_Kazan_Chair_of_Busby.wiki",
+  "markdown_path": "markdown/Haradric_Cube_Our_Lady_of_Kazan_Chair_of_Busby.md"
+}

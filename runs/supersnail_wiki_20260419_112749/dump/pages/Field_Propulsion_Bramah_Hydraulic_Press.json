@@ -1,0 +1,33 @@
+{
+  "pageid": 9305,
+  "ns": 0,
+  "title": "Field Propulsion+Bramah Hydraulic Press",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Field_Propulsion%2BBramah_Hydraulic_Press",
+  "touched": "2025-06-20T00:20:32Z",
+  "length": 202,
+  "lastrevid": 36214,
+  "revision": {
+    "revid": 36214,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:20:32Z",
+    "sha1": "0f46b3544a45df944750b3d20f106421d69cc215",
+    "size": 202
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "663",
+        "relics": "Field Propulsion,Bramah Hydraulic Press",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Epic Protomon fused, Snail ATK +12;Epic Protomon Fused: 200/200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Field_Propulsion_Bramah_Hydraulic_Press.wiki",
+  "markdown_path": "markdown/Field_Propulsion_Bramah_Hydraulic_Press.md"
+}

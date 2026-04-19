@@ -1,0 +1,35 @@
+{
+  "pageid": 7977,
+  "ns": 0,
+  "title": "Book of Thoth+Unique Forms of Continuity in Space+Cai Lun's Papermaking Technique+Arthurian Legend",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Book_of_Thoth%2BUnique_Forms_of_Continuity_in_Space%2BCai_Lun%27s_Papermaking_Technique%2BArthurian_Legend",
+  "touched": "2025-03-23T18:41:44Z",
+  "length": 283,
+  "lastrevid": 33430,
+  "revision": {
+    "revid": 33430,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:25:03Z",
+    "sha1": "d5083be9c4f754620b18fc7500d732e3a6053b6c",
+    "size": 283
+  },
+  "categories": [
+    "HP Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Book of Thoth,Unique Forms of Continuity in Space,Cai Lun's Papermaking Technique,Arthurian Legend",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per Master Chef's Legacy activated, Snail HP +90"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Book_of_Thoth_Unique_Forms_of_Continuity_in_Space_Cai_Lun_s_Papermaking_Technique_Arthurian_Legend.wiki",
+  "markdown_path": "markdown/Book_of_Thoth_Unique_Forms_of_Continuity_in_Space_Cai_Lun_s_Papermaking_Technique_Arthurian_Legend.md"
+}

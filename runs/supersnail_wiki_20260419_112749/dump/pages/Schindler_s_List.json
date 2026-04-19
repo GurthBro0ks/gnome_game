@@ -1,0 +1,59 @@
+{
+  "pageid": 641,
+  "ns": 0,
+  "title": "Schindler's List",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Schindler%27s_List",
+  "touched": "2024-09-06T09:58:23Z",
+  "length": 1871,
+  "lastrevid": 26257,
+  "revision": {
+    "revid": 26257,
+    "parentid": 17728,
+    "timestamp": "2024-05-07T14:49:41Z",
+    "sha1": "046f2877c0ec55d0e8c8026bf2136cdbeba1a2fb",
+    "size": 1871
+  },
+  "categories": [
+    "ATK Boost",
+    "Agent Boost",
+    "CIV Relics",
+    "DEF Boost",
+    "Gene Research Speedup Boost",
+    "Gene Simulation Compass Boost",
+    "Lifesteal Effect Boost",
+    "Lifesteal Rate Boost",
+    "Mutant Gene Cost Reduction",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Schindler's List",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "02-21",
+        "source": "Fragment Crafting (1.5%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Soul Chest (1.5%), Wishing (0.14%)",
+        "description": "On Feb 21, 1944, Oskar Schindler saved 1,200 people from the German army. That day, Schindler went bankrupt. Germany was about to lose the war and the massacre of Jews was getting out of control Schindler sent a list of thousands of Jews to the German officers and spent all his money to set them free. More than a thousand Jews have survived the dark times, and they remembered the great man named Schindler.",
+        "fame": "31",
+        "art": "48",
+        "fth": "47",
+        "civ": "74",
+        "tech": "43",
+        "ss1": "Per Senior Agent defeated, Snail ATK +9<br>Per Senior Agent defeated, Snail DEF +9<br>Senior Agents Defeated: 20/20",
+        "ss2": "Per Senior Agent defeated, Snail ATK +12<br>Per Senior Agent defeated, Snail DEF +12<br>Senior Agents Defeated: 20/20",
+        "ss3": "Per Senior Agent defeated, Snail ATK +15<br>Per Senior Agent defeated, Snail DEF +15<br>Senior Agents Defeated: 20/20",
+        "ss4": "Per Senior Agent defeated, Snail ATK +21<br>Per Senior Agent defeated, Snail DEF +21<br>Senior Agents Defeated: 20/20",
+        "ss5": "Per Senior Agent defeated, Snail ATK +27<br>Per Senior Agent defeated, Snail DEF +27<br>Senior Agents Defeated: 20/20",
+        "ss7": "Per Senior Agent defeated, Snail ATK +27<br>Per Senior Agent defeated, Snail DEF +27<br>Senior Agents Defeated: 20/20<br>Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: Lifesteal Rate +10%",
+        "skill2": "[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: Lifesteal Effect +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Schindler_s_List.wiki",
+  "markdown_path": "markdown/Schindler_s_List.md"
+}

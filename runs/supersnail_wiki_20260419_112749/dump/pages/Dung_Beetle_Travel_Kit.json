@@ -1,0 +1,47 @@
+{
+  "pageid": 11134,
+  "ns": 0,
+  "title": "Dung Beetle Travel Kit",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dung_Beetle_Travel_Kit",
+  "touched": "2025-08-11T11:13:42Z",
+  "length": 498,
+  "lastrevid": 39216,
+  "revision": {
+    "revid": 39216,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:13:42Z",
+    "sha1": "1c050d3e1f7f08717ded243aa61ca872925db5e7",
+    "size": 498
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dung Beetle Travel Kit",
+        "class_id": "20842",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The Dung Beetle Travel Kit is necessary for Dung Beetle soldiers, containing rations, gear, and basic weapons, enabling sustained combat operations for over a week.",
+        "fame": "18",
+        "art": "14",
+        "fth": "17",
+        "civ": "11",
+        "tech": "30",
+        "ss1": "prop@55052_2<br>prop@55057_2",
+        "ss2": "prop@55052_2<br>prop@55057_2",
+        "ss3": "prop@55052_2<br>prop@55057_2",
+        "ss4": "prop@55052_2<br>prop@55057_2",
+        "ss7": "prop@55052_2<br>prop@55057_2<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dung_Beetle_Travel_Kit.wiki",
+  "markdown_path": "markdown/Dung_Beetle_Travel_Kit.md"
+}

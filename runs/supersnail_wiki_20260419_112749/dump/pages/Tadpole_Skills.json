@@ -1,0 +1,184 @@
+{
+  "pageid": 4601,
+  "ns": 0,
+  "title": "Tadpole Skills",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tadpole_Skills",
+  "touched": "2024-12-02T03:08:43Z",
+  "length": 2414,
+  "lastrevid": 16753,
+  "revision": {
+    "revid": 16753,
+    "parentid": 16745,
+    "timestamp": "2023-11-08T03:30:21Z",
+    "sha1": "632742f3d251e6812986726cce7344cecb0e8ea3",
+    "size": 2414
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Bach Concerto",
+        "skill": "Place in Tadpole Pond: Generate W-tads by +5%",
+        "category": "Tadpolepond",
+        "level": "1"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Demoiselles d'Avignon",
+        "skill": "Place in Tadpole Pond: This Relic's ART +5",
+        "category": "Tadpolepond",
+        "level": "1"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Gregor Specimen",
+        "skill": "Place in Tadpole Pond: B-tad Output +5%",
+        "category": "Tadpolepond",
+        "level": "1"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Sleeping Gypsy",
+        "skill": "Place in Tadpole Pond: Max Cap +5%",
+        "category": "Tadpolepond",
+        "level": "1"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "The Walking Man",
+        "skill": "Place in Tadpole Pond: B-tad Output +5%",
+        "category": "Tadpolepond",
+        "level": "1"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Boy with Goose",
+        "skill": "Place in Tadpole Pond: This Relic's ART +10",
+        "category": "Tadpolepond",
+        "level": "2"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Haulers on Volga",
+        "skill": "Place in Tadpole Pond: Generate W-tads by +15%",
+        "category": "Tadpolepond",
+        "level": "2"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Haulers on Volga",
+        "skill": "Place in Tadpole Pond: This Relic's ART +10",
+        "category": "Tadpolepond",
+        "level": "2"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Manneken Pis",
+        "skill": "Place in Tadpole Pond: B-tad Output +15%",
+        "category": "Tadpolepond",
+        "level": "2"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Manneken Pis",
+        "skill": "Place in Tadpole Pond: Max Cap +15%",
+        "category": "Tadpolepond",
+        "level": "2"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Marquis Bell",
+        "skill": "Place in Tadpole Pond: Max Cap +15%",
+        "category": "Tadpolepond",
+        "level": "2"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Marquis Bell",
+        "skill": "Place in Tadpole Pond: Generate W-tads by +15%",
+        "category": "Tadpolepond",
+        "level": "2"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Mermaid Statue",
+        "skill": "Place in Tadpole Pond: B-tad Output +15%",
+        "category": "Tadpolepond",
+        "level": "2"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Mermaid Statue",
+        "skill": "Place in Tadpole Pond: Max Cap +15%",
+        "category": "Tadpolepond",
+        "level": "2"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Observatory",
+        "skill": "Place in Tadpole Pond: This Relic's TECH +10",
+        "category": "Tadpolepond",
+        "level": "2"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Peacock Throne",
+        "skill": "Place in Tadpole Pond: B-tad Output +15%",
+        "category": "Tadpolepond",
+        "level": "2"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Peacock Throne",
+        "skill": "Place in Tadpole Pond: This Relic's ART +10",
+        "category": "Tadpolepond",
+        "level": "2"
+      }
+    },
+    {
+      "template": "CargoRelicSkills",
+      "params": {
+        "relic": "Observatory",
+        "skill": "Place in Cathay Museum: Tech Checks -10",
+        "category": "Cathay",
+        "level": "2"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tadpole_Skills.wiki",
+  "markdown_path": "markdown/Tadpole_Skills.md"
+}

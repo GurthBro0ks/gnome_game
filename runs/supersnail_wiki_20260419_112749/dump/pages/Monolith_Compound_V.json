@@ -1,0 +1,35 @@
+{
+  "pageid": 7955,
+  "ns": 0,
+  "title": "Monolith+Compound V",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Monolith%2BCompound_V",
+  "touched": "2025-02-22T17:23:37Z",
+  "length": 212,
+  "lastrevid": 33406,
+  "revision": {
+    "revid": 33406,
+    "parentid": 0,
+    "timestamp": "2025-02-21T20:10:24Z",
+    "sha1": "dfd8bd6604a6a618088ebddce6f7e2ed84c9b798",
+    "size": 212
+  },
+  "categories": [
+    "Minion",
+    "Minion RUSH Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Monolith,Compound V",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 60 T8+ Minions deployed, Troop RUSH +84"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Monolith_Compound_V.wiki",
+  "markdown_path": "markdown/Monolith_Compound_V.md"
+}

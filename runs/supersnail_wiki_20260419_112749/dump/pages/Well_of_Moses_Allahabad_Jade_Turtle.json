@@ -1,0 +1,33 @@
+{
+  "pageid": 9315,
+  "ns": 0,
+  "title": "Well of Moses+Allahabad Jade Turtle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Well_of_Moses%2BAllahabad_Jade_Turtle",
+  "touched": "2025-06-20T00:22:40Z",
+  "length": 178,
+  "lastrevid": 36246,
+  "revision": {
+    "revid": 36246,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:22:40Z",
+    "sha1": "d0c9b01ef6bfcf5ab8a3cf0072ce944a712064b3",
+    "size": 178
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "581",
+        "relics": "Well of Moses,Allahabad Jade Turtle",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 catalysis, Snail HP +50;Catalysis: 5000/5000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Well_of_Moses_Allahabad_Jade_Turtle.wiki",
+  "markdown_path": "markdown/Well_of_Moses_Allahabad_Jade_Turtle.md"
+}

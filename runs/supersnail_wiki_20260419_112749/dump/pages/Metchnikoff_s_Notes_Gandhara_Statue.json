@@ -1,0 +1,33 @@
+{
+  "pageid": 8943,
+  "ns": 0,
+  "title": "Metchnikoff's Notes+Gandhara Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Metchnikoff%27s_Notes%2BGandhara_Statue",
+  "touched": "2025-08-11T11:15:58Z",
+  "length": 189,
+  "lastrevid": 35945,
+  "revision": {
+    "revid": 35945,
+    "parentid": 35162,
+    "timestamp": "2025-06-20T00:10:33Z",
+    "sha1": "fd152d510e2d9d01c87a3e32eefe5bd2953374e1",
+    "size": 189
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "487",
+        "relics": "Metchnikoff's Notes,Gandhara Statue",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 Badges gained, Snail ATK +14;Badges Gained: 2000/2000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Metchnikoff_s_Notes_Gandhara_Statue.wiki",
+  "markdown_path": "markdown/Metchnikoff_s_Notes_Gandhara_Statue.md"
+}

@@ -1,0 +1,48 @@
+{
+  "pageid": 1027,
+  "ns": 0,
+  "title": "Demon Container",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Demon_Container",
+  "touched": "2025-11-08T06:00:16Z",
+  "length": 865,
+  "lastrevid": 41738,
+  "revision": {
+    "revid": 41738,
+    "parentid": 39218,
+    "timestamp": "2025-11-08T06:00:16Z",
+    "sha1": "78777209d5ca04e60aa09c454b169b308ed2cc33",
+    "size": 865
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Demon Container",
+        "class_id": "20036",
+        "rank": "Green",
+        "affct": "TECH",
+        "source": "Reward from [[Prince Nerd's Soul]] after exchanging 10 letters back and forth",
+        "description": "This rice cooker-shaped item is, in fact, a container that can be used to seal evil creatures. The ritual requires a huge amount of energy and has caused many casters to die of exhaustion, making people reluctant to use it. Any container that can seal demons has been passed down for many generations.",
+        "fame": "12",
+        "art": "16",
+        "fth": "16",
+        "civ": "17",
+        "tech": "29",
+        "ss1": "Per Altar God Descent, Snail DEF +2<br>Gods Descended: 30/30",
+        "ss2": "Per Altar God Descent, Snail DEF +4<br>Gods Descended: 30/30",
+        "ss3": "Per Altar God Descent, Snail DEF +6<br>Gods Descended: 30/30",
+        "ss4": "Per Altar God Descent, Snail DEF +6<br>Gods Descended: 30/30",
+        "ss7": "Per Altar God Descent, Snail DEF +6<br>Gods Descended: 30/30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Demon_Container.wiki",
+  "markdown_path": "markdown/Demon_Container.md"
+}

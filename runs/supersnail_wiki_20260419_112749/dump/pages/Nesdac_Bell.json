@@ -1,0 +1,48 @@
+{
+  "pageid": 164,
+  "ns": 0,
+  "title": "Nesdac Bell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nesdac_Bell",
+  "touched": "2025-08-11T10:52:07Z",
+  "length": 1384,
+  "lastrevid": 38282,
+  "revision": {
+    "revid": 38282,
+    "parentid": 25458,
+    "timestamp": "2025-08-11T10:52:07Z",
+    "sha1": "1d0fc8b4be95f9d0d31c001ba5fc246c7bcd1e34",
+    "size": 1384
+  },
+  "categories": [
+    "Blue FAME Relics",
+    "Blue Relics",
+    "FAME Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Nesdac Bell",
+        "class_id": "20921",
+        "rank": "Blue",
+        "affct": "FAME",
+        "description": "Nesdac is an electronic stock exchange owned and operated by Nesdac, Inc. It is one of the largest stock markets in the world. When the stock market opens in the morning, investors from all over the world will begin trading stocks on the phone or online. Many financial legends were born and destroyed here!",
+        "fame": "48",
+        "art": "28",
+        "fth": "31",
+        "civ": "23",
+        "tech": "25",
+        "ss1": "Snail HP +500<br>W-tads gained from VIP Silver Card +50<br>Expert Scrolls gained from VIP Silver Card +1<br>Daily Silver Packs are available in Snail Store",
+        "ss2": "Snail HP +500<br>W-tads gained from VIP Silver Card +50<br>Expert Scrolls gained from VIP Silver Card +1<br>Daily Silver Packs are available in Snail Store",
+        "ss3": "Snail HP +500<br>W-tads gained from VIP Silver Card +50<br>Expert Scrolls gained from VIP Silver Card +1<br>Daily Silver Packs are available in Snail Store",
+        "ss4": "Snail HP +500<br>W-tads gained from VIP Silver Card +50<br>Expert Scrolls gained from VIP Silver Card +1<br>Daily Silver Packs are available in Snail Store",
+        "ss7": "Snail HP +500<br>W-tads gained from VIP Silver Card +50<br>Expert Scrolls gained from VIP Silver Card +1<br>Daily Silver Packs are available in Snail Store<br>W-tads gained from VIP Silver Card +50 (Awakened)",
+        "skill1": "[[File:Lumbercamp skill I.png|50px]]Place in Lumber Camp: Wood Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nesdac_Bell.wiki",
+  "markdown_path": "markdown/Nesdac_Bell.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 10505,
+  "ns": 0,
+  "title": "Narmer Palette+The Standard of Ur",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Narmer_Palette%2BThe_Standard_of_Ur",
+  "touched": "2025-08-11T10:52:59Z",
+  "length": 201,
+  "lastrevid": 38319,
+  "revision": {
+    "revid": 38319,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:52:59Z",
+    "sha1": "cc58a0705cdaf66595f9490bec4bac99c213c1b8",
+    "size": 201
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "511",
+        "relics": "Narmer Palette,The Standard of Ur",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Maneater Pistils Used, Snail ATK +7;Maneater Pistil(s) used: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Narmer_Palette_The_Standard_of_Ur.wiki",
+  "markdown_path": "markdown/Narmer_Palette_The_Standard_of_Ur.md"
+}

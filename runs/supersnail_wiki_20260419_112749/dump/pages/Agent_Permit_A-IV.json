@@ -1,0 +1,47 @@
+{
+  "pageid": 1310,
+  "ns": 0,
+  "title": "Agent Permit A-IV",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Agent_Permit_A-IV",
+  "touched": "2025-08-11T11:15:33Z",
+  "length": 692,
+  "lastrevid": 39296,
+  "revision": {
+    "revid": 39296,
+    "parentid": 21985,
+    "timestamp": "2025-08-11T11:15:33Z",
+    "sha1": "bc0218431fd531b769b7c5cb1ec45cbd88ef3040",
+    "size": 692
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Agent Permit A-IV",
+        "class_id": "20327",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The holder of the card is a senior agent of the Bureau of Investigation and has law enforcement powers in accordance with federal statutes. Please cooperate with their inquiries and searches, otherwise the agent has the right to use force! —Bureau of Investigation (Stamp)",
+        "fame": "14",
+        "art": "15",
+        "fth": "17",
+        "civ": "14",
+        "tech": "30",
+        "ss1": "When you defeat Senior Agents, gain +5 W-tads",
+        "ss2": "When you defeat Senior Agents, gain +10 W-tads",
+        "ss3": "When you defeat Senior Agents, gain +15 W-tads",
+        "ss4": "When you defeat Senior Agents, gain +15 W-tads",
+        "ss7": "When you defeat Senior Agents, gain +15 W-tads<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Agent_Permit_A-IV.wiki",
+  "markdown_path": "markdown/Agent_Permit_A-IV.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4165,
+  "ns": 0,
+  "title": "Palermo Stone+Crime and Punishment",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Palermo_Stone%2BCrime_and_Punishment",
+  "touched": "2025-06-19T23:54:03Z",
+  "length": 186,
+  "lastrevid": 35661,
+  "revision": {
+    "revid": 35661,
+    "parentid": 19542,
+    "timestamp": "2025-06-19T23:54:03Z",
+    "sha1": "99158be14f4255574b4751042442c5ec63756b5c",
+    "size": 186
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "469",
+        "relics": "Palermo Stone,Crime and Punishment",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "In the Rebel Rocket Cabin: Prismatic Armor Base Effect +56%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Palermo_Stone_Crime_and_Punishment.wiki",
+  "markdown_path": "markdown/Palermo_Stone_Crime_and_Punishment.md"
+}

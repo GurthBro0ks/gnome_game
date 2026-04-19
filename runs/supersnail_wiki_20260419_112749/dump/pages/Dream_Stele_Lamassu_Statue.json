@@ -1,0 +1,36 @@
+{
+  "pageid": 4187,
+  "ns": 0,
+  "title": "Dream Stele+Lamassu Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dream_Stele%2BLamassu_Statue",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 279,
+  "lastrevid": 18525,
+  "revision": {
+    "revid": 18525,
+    "parentid": 18459,
+    "timestamp": "2023-11-14T01:02:48Z",
+    "sha1": "ee5c5471b072da1b659f94b8acdeac3562bd9ee1",
+    "size": 279
+  },
+  "categories": [
+    "DEF Boost",
+    "Enhanced by Relic Points",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Dream Stele,Lamassu Statue",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100k Relic Points gained, Snail DEF +7, Relic Points: 5,000,000/5,000,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dream_Stele_Lamassu_Statue.wiki",
+  "markdown_path": "markdown/Dream_Stele_Lamassu_Statue.md"
+}

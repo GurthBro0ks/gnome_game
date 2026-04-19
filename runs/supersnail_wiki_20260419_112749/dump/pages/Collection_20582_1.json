@@ -1,0 +1,47 @@
+{
+  "pageid": 9998,
+  "ns": 0,
+  "title": "Collection@20582 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20582_1",
+  "touched": "2025-08-11T10:34:29Z",
+  "length": 642,
+  "lastrevid": 37520,
+  "revision": {
+    "revid": 37520,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:34:29Z",
+    "sha1": "8620a2ed51f9b4ec1457e2de6f0e1df1c6483f3d",
+    "size": 642
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20582_1",
+        "class_id": "20582",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "collection@20582_2",
+        "fame": "13",
+        "art": "18",
+        "fth": "15",
+        "civ": "30",
+        "tech": "14",
+        "ss1": "Snail HP +100<br>Per 5 Mirage Gems gained, Snail RUSH +1<br>Mirage Gems Gained: 300/300",
+        "ss2": "Snail HP +200<br>Per 5 Mirage Gems gained, Snail RUSH +2<br>Mirage Gems Gained: 300/300",
+        "ss3": "Snail HP +300<br>Per 5 Mirage Gems gained, Snail RUSH +3<br>Mirage Gems Gained: 300/300",
+        "ss4": "Snail HP +300<br>Per 5 Mirage Gems gained, Snail RUSH +3<br>Mirage Gems Gained: 300/300",
+        "ss7": "Snail HP +300<br>Per 5 Mirage Gems gained, Snail RUSH +3<br>Mirage Gems Gained: 300/300<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20582_1.wiki",
+  "markdown_path": "markdown/Collection_20582_1.md"
+}

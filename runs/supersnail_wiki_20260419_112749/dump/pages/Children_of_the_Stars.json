@@ -1,0 +1,47 @@
+{
+  "pageid": 7758,
+  "ns": 0,
+  "title": "Children of the Stars",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Children_of_the_Stars",
+  "touched": "2025-08-11T10:32:13Z",
+  "length": 999,
+  "lastrevid": 37418,
+  "revision": {
+    "revid": 37418,
+    "parentid": 32529,
+    "timestamp": "2025-08-11T10:32:13Z",
+    "sha1": "04097b042078e2c230edfecd8ddded03eb8f17ea",
+    "size": 999
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Children of the Stars",
+        "class_id": "20053",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "There is a group of unique beings with different perspectives toward the world, which often gets them misunderstood. Like the stars in the dark sky, they shine bright, quietly observing the world. One day, these stars that have fallen to the mortal world will find their own paths and shine again brightly!",
+        "fame": "27",
+        "art": "16",
+        "fth": "16",
+        "civ": "17",
+        "tech": "14",
+        "ss1": "Per Partner you have, Snail ATK +2<br>Per Partner you have, Snail RUSH +2<br>Current Partners: 15/15",
+        "ss2": "Per Partner you have, Snail ATK +4<br>Per Partner you have, Snail RUSH +4<br>Current Partners: 15/15",
+        "ss3": "Per Partner you have, Snail ATK +6<br>Per Partner you have, Snail RUSH +6<br>Current Partners: 15/15",
+        "ss4": "Per Partner you have, Snail ATK +6<br>Per Partner you have, Snail RUSH +6<br>Current Partners: 15/15",
+        "ss7": "Per Partner you have, Snail ATK +6<br>Per Partner you have, Snail RUSH +6<br>Current Partners: 15/15<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Children_of_the_Stars.wiki",
+  "markdown_path": "markdown/Children_of_the_Stars.md"
+}

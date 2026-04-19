@@ -1,0 +1,33 @@
+{
+  "pageid": 8822,
+  "ns": 0,
+  "title": "Wailing Wall+CBD",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wailing_Wall%2BCBD",
+  "touched": "2025-08-11T10:58:42Z",
+  "length": 201,
+  "lastrevid": 36289,
+  "revision": {
+    "revid": 36289,
+    "parentid": 34807,
+    "timestamp": "2025-06-20T00:24:18Z",
+    "sha1": "cd88503a5c35356adde91e1c93c64fd24b699275",
+    "size": 201
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "788",
+        "relics": "Wailing Wall,CBD",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +168;Mythic Protodex Stars: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wailing_Wall_CBD.wiki",
+  "markdown_path": "markdown/Wailing_Wall_CBD.md"
+}

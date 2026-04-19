@@ -1,0 +1,47 @@
+{
+  "pageid": 3942,
+  "ns": 0,
+  "title": "Monday Star",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Monday_Star",
+  "touched": "2025-08-11T10:48:53Z",
+  "length": 635,
+  "lastrevid": 38139,
+  "revision": {
+    "revid": 38139,
+    "parentid": 32221,
+    "timestamp": "2025-08-11T10:48:53Z",
+    "sha1": "00b5d0330eaf9246afc3fd5d9b6c51de5831ecad",
+    "size": 635
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Monday Star",
+        "class_id": "20174",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "Fortune Law 2: Monday marks the beginning of work. Always maintain optimism, attentiveness, and caution. May the goddess of luck be with you always!",
+        "fame": "16",
+        "art": "31",
+        "fth": "14",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Per 10 Lucky Star, Snail ATK +1<br>Lucky Star Gained: 800/800",
+        "ss2": "Per 10 Lucky Star, Snail ATK +2<br>Lucky Star Gained: 800/800",
+        "ss3": "Per 10 Lucky Star, Snail ATK +3<br>Lucky Star Gained: 800/800",
+        "ss4": "Per 10 Lucky Star, Snail ATK +3<br>Lucky Star Gained: 800/800",
+        "ss7": "Per 10 Lucky Star, Snail ATK +3<br>Lucky Star Gained: 800/800<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Monday_Star.wiki",
+  "markdown_path": "markdown/Monday_Star.md"
+}

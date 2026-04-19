@@ -1,0 +1,33 @@
+{
+  "pageid": 8871,
+  "ns": 0,
+  "title": "Night Bloom II+The Moon Puzzle+CAL 9000+Xiuhtecuhtli Mask+No Longer Human",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Night_Bloom_II%2BThe_Moon_Puzzle%2BCAL_9000%2BXiuhtecuhtli_Mask%2BNo_Longer_Human",
+  "touched": "2025-06-16T23:08:29Z",
+  "length": 185,
+  "lastrevid": 34870,
+  "revision": {
+    "revid": 34870,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:08:29Z",
+    "sha1": "59f394ad0a1c0dcc2557a4ceced6258315f28ffa",
+    "size": 185
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "444",
+        "relics": "Night Bloom II,The Moon Puzzle,CAL 9000,Xiuhtecuhtli Mask,No Longer Human",
+        "rank": "purple",
+        "amount": "5",
+        "category": "self",
+        "description": "Demon Minion MAX +9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Night_Bloom_II_The_Moon_Puzzle_CAL_9000_Xiuhtecuhtli_Mask_No_Longer_Human.wiki",
+  "markdown_path": "markdown/Night_Bloom_II_The_Moon_Puzzle_CAL_9000_Xiuhtecuhtli_Mask_No_Longer_Human.md"
+}

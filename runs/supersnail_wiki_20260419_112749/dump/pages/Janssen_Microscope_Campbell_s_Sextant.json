@@ -1,0 +1,34 @@
+{
+  "pageid": 3304,
+  "ns": 0,
+  "title": "Janssen Microscope+Campbell's Sextant",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Janssen_Microscope%2BCampbell%27s_Sextant",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 183,
+  "lastrevid": 12039,
+  "revision": {
+    "revid": 12039,
+    "parentid": 0,
+    "timestamp": "2023-09-13T07:57:06Z",
+    "sha1": "f0be1ea283455fa9e185075438ca1f6aad7594ef",
+    "size": 183
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Janssen Microscope,Campbell's Sextant",
+        "rank": "blue",
+        "amount": "2",
+        "category": "other",
+        "description": "Stone Rewards from offering +2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Janssen_Microscope_Campbell_s_Sextant.wiki",
+  "markdown_path": "markdown/Janssen_Microscope_Campbell_s_Sextant.md"
+}

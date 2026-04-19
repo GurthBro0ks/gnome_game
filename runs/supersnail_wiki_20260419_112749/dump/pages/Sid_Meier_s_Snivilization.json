@@ -1,0 +1,47 @@
+{
+  "pageid": 10587,
+  "ns": 0,
+  "title": "Sid Meier's Snivilization",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sid_Meier%27s_Snivilization",
+  "touched": "2025-08-11T10:55:40Z",
+  "length": 850,
+  "lastrevid": 38434,
+  "revision": {
+    "revid": 38434,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:55:40Z",
+    "sha1": "2e43604e6392c351d22199cbcefa86991697fc4f",
+    "size": 850
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Sid Meier's Snivilization",
+        "class_id": "20986",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Guide your species from mud huts to cosmic tyranny! Research \"Wheel 2.0\", debate \"To War or Not to War\", and accidentally nuke your allies—all before breakfast. Banned by Earth's Will.[Beter's Note]\"One...more...OH SNAIL, time to go to work\"",
+        "fame": "30",
+        "art": "18",
+        "fth": "14",
+        "civ": "15",
+        "tech": "13",
+        "ss1": "Snail HP +100<br>Per 10k Relic Points, Snail ATK +2<br>Relic Points: 200000/200000",
+        "ss2": "Snail HP +200<br>Per 10k Relic Points, Snail ATK +4<br>Relic Points: 200000/200000",
+        "ss3": "Snail HP +300<br>Per 10k Relic Points, Snail ATK +6<br>Relic Points: 200000/200000",
+        "ss4": "Snail HP +300<br>Per 10k Relic Points, Snail ATK +6<br>Relic Points: 200000/200000",
+        "ss7": "Snail HP +300<br>Per 10k Relic Points, Snail ATK +6<br>Relic Points: 200000/200000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sid_Meier_s_Snivilization.wiki",
+  "markdown_path": "markdown/Sid_Meier_s_Snivilization.md"
+}

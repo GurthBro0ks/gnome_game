@@ -1,0 +1,33 @@
+{
+  "pageid": 9934,
+  "ns": 0,
+  "title": "Gold-plated Bird+Gilded Monkey",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gold-plated_Bird%2BGilded_Monkey",
+  "touched": "2025-08-11T11:19:39Z",
+  "length": 145,
+  "lastrevid": 37411,
+  "revision": {
+    "revid": 37411,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:32:03Z",
+    "sha1": "824a59814be50b324d36f3c2051b52d26f58d988",
+    "size": 145
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "882",
+        "relics": "Gold-plated Bird,Gilded Monkey",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Troop All ELMT DMG +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gold-plated_Bird_Gilded_Monkey.wiki",
+  "markdown_path": "markdown/Gold-plated_Bird_Gilded_Monkey.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4715,
+  "ns": 0,
+  "title": "Torricelli's Barometer+Thermometer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Torricelli%27s_Barometer%2BThermometer",
+  "touched": "2025-06-20T00:01:49Z",
+  "length": 138,
+  "lastrevid": 35803,
+  "revision": {
+    "revid": 35803,
+    "parentid": 18538,
+    "timestamp": "2025-06-20T00:01:49Z",
+    "sha1": "9c606f12f69aabaf1346f6c7b2bb1b06a210193a",
+    "size": 138
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "340",
+        "relics": "Torricelli's Barometer,Thermometer",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Torricelli_s_Barometer_Thermometer.wiki",
+  "markdown_path": "markdown/Torricelli_s_Barometer_Thermometer.md"
+}

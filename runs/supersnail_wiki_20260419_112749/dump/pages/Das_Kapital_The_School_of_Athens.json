@@ -1,0 +1,34 @@
+{
+  "pageid": 3750,
+  "ns": 0,
+  "title": "Das Kapital+The School of Athens",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Das_Kapital%2BThe_School_of_Athens",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 188,
+  "lastrevid": 13648,
+  "revision": {
+    "revid": 13648,
+    "parentid": 0,
+    "timestamp": "2023-10-02T08:12:03Z",
+    "sha1": "f7af1fbae14bd5c1cad965d7ee8f24b24d3cffe2",
+    "size": 188
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Das Kapital,The School of Athens",
+        "rank": "orange",
+        "amount": "2",
+        "category": "home",
+        "description": "Lumber Camp produces Ancient Wood by +14%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Das_Kapital_The_School_of_Athens.wiki",
+  "markdown_path": "markdown/Das_Kapital_The_School_of_Athens.md"
+}

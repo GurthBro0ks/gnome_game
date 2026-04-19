@@ -1,0 +1,33 @@
+{
+  "pageid": 3239,
+  "ns": 0,
+  "title": "Domain Device",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Domain_Device",
+  "touched": "2025-10-21T20:48:55Z",
+  "length": 16403,
+  "lastrevid": 41645,
+  "revision": {
+    "revid": 41645,
+    "parentid": 41606,
+    "timestamp": "2025-10-21T20:48:55Z",
+    "sha1": "6018c5c5322e823b38bb2ed9b063bd0898f92f21",
+    "size": 16403
+  },
+  "categories": [
+    "Missing Info",
+    "Rocket"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "War",
+        "3": "Broken Jaden Spear"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Domain_Device.wiki",
+  "markdown_path": "markdown/Domain_Device.md"
+}

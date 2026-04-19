@@ -1,0 +1,47 @@
+{
+  "pageid": 10126,
+  "ns": 0,
+  "title": "Wookstock Ticket",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wookstock_Ticket",
+  "touched": "2025-08-11T10:39:27Z",
+  "length": 956,
+  "lastrevid": 37733,
+  "revision": {
+    "revid": 37733,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:39:27Z",
+    "sha1": "565c45e56e01fb81dd1dc5ba7ca7589f5d68c5de",
+    "size": 956
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Wookstock Ticket",
+        "class_id": "20477",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The Wookstock Music Festival is one of the most famous rock music festivals across the world. It is an unprecedented music festival, and only those who play on the stage are wild artists. Only the one with the greatest music attainment and the highest reputation in the music business is qualified to be the host!",
+        "fame": "29",
+        "art": "16",
+        "fth": "16",
+        "civ": "14",
+        "tech": "15",
+        "ss1": "Snail ATK +10<br>Per Art Master Scroll used, Snail HP +30<br>ART Master Scrolls Used: 10/10",
+        "ss2": "Snail ATK +20<br>Per Art Master Scroll used, Snail HP +60<br>ART Master Scrolls Used: 10/10",
+        "ss3": "Snail ATK +30<br>Per Art Master Scroll used, Snail HP +90<br>ART Master Scrolls Used: 10/10",
+        "ss4": "Snail ATK +30<br>Per Art Master Scroll used, Snail HP +90<br>ART Master Scrolls Used: 10/10",
+        "ss7": "Snail ATK +30<br>Per Art Master Scroll used, Snail HP +90<br>ART Master Scrolls Used: 10/10<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wookstock_Ticket.wiki",
+  "markdown_path": "markdown/Wookstock_Ticket.md"
+}

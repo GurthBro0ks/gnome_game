@@ -1,0 +1,48 @@
+{
+  "pageid": 3843,
+  "ns": 0,
+  "title": "Demon God Cell Residue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Demon_God_Cell_Residue",
+  "touched": "2025-11-17T15:54:38Z",
+  "length": 770,
+  "lastrevid": 41770,
+  "revision": {
+    "revid": 41770,
+    "parentid": 39169,
+    "timestamp": "2025-11-17T15:54:38Z",
+    "sha1": "ff62ebc93e7d7e39493fc717a936352c513261a1",
+    "size": 770
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Demon God Cell Residue",
+        "class_id": "20316",
+        "rank": "Green",
+        "affct": "FAITH",
+        "source": "A chance to obtain [[Altar#Relics and Gear|Dragon Wish \"I wanna become stronger!\"]].",
+        "description": "You didn't think Demon God Cells could be sentient, right? Although they are technically offspring of the Demon Gods, they are not that powerful. After their defeat, their remains were converted into this Relic. It reminds owners to practice constant vigilance.",
+        "fame": "17",
+        "art": "14",
+        "fth": "31",
+        "civ": "17",
+        "tech": "11",
+        "ss1": "In explorations, Demon God Cells collected +1%",
+        "ss2": "In explorations, Demon God Cells collected +2%",
+        "ss3": "In explorations, Demon God Cells collected +3%",
+        "ss4": "In explorations, Demon God Cells collected +3%",
+        "ss7": "In explorations, Demon God Cells collected +3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Demon_God_Cell_Residue.wiki",
+  "markdown_path": "markdown/Demon_God_Cell_Residue.md"
+}

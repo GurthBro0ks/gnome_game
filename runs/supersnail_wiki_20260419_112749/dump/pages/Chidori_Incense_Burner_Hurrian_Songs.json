@@ -1,0 +1,33 @@
+{
+  "pageid": 4917,
+  "ns": 0,
+  "title": "Chidori Incense Burner+Hurrian Songs",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Chidori_Incense_Burner%2BHurrian_Songs",
+  "touched": "2025-06-20T00:04:17Z",
+  "length": 151,
+  "lastrevid": 35835,
+  "revision": {
+    "revid": 35835,
+    "parentid": 18389,
+    "timestamp": "2025-06-20T00:04:17Z",
+    "sha1": "4aa216646ffe2c223512996368d6cdb0ee7c1687",
+    "size": 151
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "415",
+        "relics": "Chidori Incense Burner,Hurrian Songs",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Mutant Minion RUSH +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Chidori_Incense_Burner_Hurrian_Songs.wiki",
+  "markdown_path": "markdown/Chidori_Incense_Burner_Hurrian_Songs.md"
+}

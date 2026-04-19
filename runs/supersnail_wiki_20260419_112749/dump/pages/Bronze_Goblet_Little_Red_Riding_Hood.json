@@ -1,0 +1,33 @@
+{
+  "pageid": 8870,
+  "ns": 0,
+  "title": "Bronze Goblet+Little Red Riding Hood",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bronze_Goblet%2BLittle_Red_Riding_Hood",
+  "touched": "2025-08-11T10:33:53Z",
+  "length": 185,
+  "lastrevid": 35674,
+  "revision": {
+    "revid": 35674,
+    "parentid": 34867,
+    "timestamp": "2025-06-19T23:54:21Z",
+    "sha1": "d11c14f9f21957d0c4ca290472db044c17dcf023",
+    "size": 185
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "503",
+        "relics": "Bronze Goblet,Little Red Riding Hood",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 8 Museum Promos, Snail ATK +7;Museum Promos: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bronze_Goblet_Little_Red_Riding_Hood.wiki",
+  "markdown_path": "markdown/Bronze_Goblet_Little_Red_Riding_Hood.md"
+}

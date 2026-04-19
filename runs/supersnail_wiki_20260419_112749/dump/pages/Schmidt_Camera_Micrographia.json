@@ -1,0 +1,33 @@
+{
+  "pageid": 9312,
+  "ns": 0,
+  "title": "Schmidt Camera+Micrographia",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Schmidt_Camera%2BMicrographia",
+  "touched": "2025-06-20T00:22:17Z",
+  "length": 175,
+  "lastrevid": 36233,
+  "revision": {
+    "revid": 36233,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:22:17Z",
+    "sha1": "1cb3132e9310315b47a6444ed025c34132e8f705",
+    "size": 175
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "675",
+        "relics": "Schmidt Camera,Micrographia",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 30 T7+ Angel Minions in battle:Troop HARD Stats +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Schmidt_Camera_Micrographia.wiki",
+  "markdown_path": "markdown/Schmidt_Camera_Micrographia.md"
+}

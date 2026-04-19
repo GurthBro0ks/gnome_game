@@ -1,0 +1,55 @@
+{
+  "pageid": 4145,
+  "ns": 0,
+  "title": "CRISPR",
+  "fullurl": "https://supersnail.wiki.gg/wiki/CRISPR",
+  "touched": "2025-06-19T23:53:00Z",
+  "length": 1779,
+  "lastrevid": 35656,
+  "revision": {
+    "revid": 35656,
+    "parentid": 34906,
+    "timestamp": "2025-06-19T23:53:00Z",
+    "sha1": "27df2d72ed6d2de64ff5b1078344afc48b933502",
+    "size": 1779
+  },
+  "categories": [
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "CRISPR",
+        "class_id": "22328",
+        "rank": "S",
+        "affct": "TECH",
+        "birthday": "12-15",
+        "source": "Lottery Machine No.2 (1.45%), Wishing (5.4%)",
+        "description": "On Dec 15, 2011 AD, the study of CRISPR was officially published.<br>CRISPR is one of three techniques for gene editing. It is derived from the natural immune system of prokaryotes, and it is effective, convenient, and inexpensive, and it can precisely edit the genes of plants, animals, and microorganisms. This technology's emergence has had a transformative impact on life science research, greatly assisting in the development of cancer treatments and remedies for genetic illnesses, as well as m …",
+        "fame": "65",
+        "art": "46",
+        "fth": "69",
+        "civ": "54",
+        "tech": "98",
+        "ss1": "Snail HP +100<br>Snail ATK +10<br>Snail DEF +10",
+        "ss2": "Snail HP +200<br>Snail ATK +20<br>Snail DEF +20",
+        "ss3": "Snail HP +300<br>Snail ATK +30<br>Snail DEF +30",
+        "ss4": "Snail HP +500<br>Snail ATK +50<br>Snail DEF +50",
+        "ss5": "Snail HP +700<br>Snail ATK +70<br>Snail DEF +70",
+        "ss6": "Snail HP +1000<br>Snail ATK +100<br>Snail DEF +100",
+        "ss7": "Snail HP +1000<br>Snail ATK +100<br>Snail DEF +100<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Dungbeetle skill III.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion DEF +9%",
+        "skill2": "[[File:Timemachine skill III.png|50px]]Place in Time Machine: Generate Time Chests by +30%",
+        "skill3": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600",
+        "mirage": "{{Mirage|name=Gene Editing|reward={{RewardIconWithLink|Evolution Chest, +200|orange}}\n|3name=Guide RNA|3rec=10.63M|3atk=84258|3defense=56212|3hp=2095735|3weak=14440\n|4name=Basic Matched Sequence|4rec=27.24M|4atk=123250|4defense=82225|4hp=4395927|4weak=18675\n|Arec=50.09M|Aatk=171429|Adefense=114367|Ahp=8060156|Aweak=21775\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/CRISPR.wiki",
+  "markdown_path": "markdown/CRISPR.md"
+}

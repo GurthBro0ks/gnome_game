@@ -1,0 +1,33 @@
+{
+  "pageid": 3618,
+  "ns": 0,
+  "title": "Sword Throne+Gordian Knot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sword_Throne%2BGordian_Knot",
+  "touched": "2025-08-11T11:13:17Z",
+  "length": 132,
+  "lastrevid": 39197,
+  "revision": {
+    "revid": 39197,
+    "parentid": 13200,
+    "timestamp": "2025-08-11T11:13:17Z",
+    "sha1": "dedfec6f0b1bb15e6440c97cfc934ee225bb09dc",
+    "size": 132
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "125",
+        "relics": "Sword Throne,Gordian Knot",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail RUSH +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sword_Throne_Gordian_Knot.wiki",
+  "markdown_path": "markdown/Sword_Throne_Gordian_Knot.md"
+}

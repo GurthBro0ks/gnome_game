@@ -1,0 +1,47 @@
+{
+  "pageid": 2246,
+  "ns": 0,
+  "title": "Electric Fishing Net",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Electric_Fishing_Net",
+  "touched": "2025-08-11T11:19:12Z",
+  "length": 546,
+  "lastrevid": 39454,
+  "revision": {
+    "revid": 39454,
+    "parentid": 11796,
+    "timestamp": "2025-08-11T11:19:12Z",
+    "sha1": "cd1572016c5fcfe13ee1aca113526f571a3a290c",
+    "size": 546
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Electric Fishing Net",
+        "class_id": "20306",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "When the tadpole pond underproduced due to overfishing, a new solution came along... This net is hooked up to high-voltage electricity and sprawled over the pond to electrocute the tadpoles! The pinnacle of efficiency and convenience!",
+        "fame": "16",
+        "art": "12",
+        "fth": "19",
+        "civ": "13",
+        "tech": "30",
+        "ss1": "Tadpole Pond Max Cap +2%",
+        "ss2": "Tadpole Pond Max Cap +4%",
+        "ss3": "Tadpole Pond Max Cap +6%",
+        "ss4": "Tadpole Pond Max Cap +6%",
+        "ss7": "Tadpole Pond Max Cap +6%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Electric_Fishing_Net.wiki",
+  "markdown_path": "markdown/Electric_Fishing_Net.md"
+}

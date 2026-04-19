@@ -1,0 +1,36 @@
+{
+  "pageid": 7981,
+  "ns": 0,
+  "title": "Radetzky March+Carmen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Radetzky_March%2BCarmen",
+  "touched": "2025-03-23T18:35:07Z",
+  "length": 295,
+  "lastrevid": 33434,
+  "revision": {
+    "revid": 33434,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:32:25Z",
+    "sha1": "81c73688bdd5f06e901919dac5c2698306440a8b",
+    "size": 295
+  },
+  "categories": [
+    "Enhanced by FTH Relics Awakened",
+    "Oblivion Power Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Radetzky March,Carmen",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 3 FTH Relics Awakened, Snail Oblivion Power +7; FTH Relics Awakened: 180/180"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Radetzky_March_Carmen.wiki",
+  "markdown_path": "markdown/Radetzky_March_Carmen.md"
+}

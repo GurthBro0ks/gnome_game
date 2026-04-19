@@ -1,0 +1,70 @@
+{
+  "pageid": 1918,
+  "ns": 0,
+  "title": "Leaf of Yggdrasil",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Leaf_of_Yggdrasil",
+  "touched": "2025-04-13T22:29:25Z",
+  "length": 2588,
+  "lastrevid": 33955,
+  "revision": {
+    "revid": 33955,
+    "parentid": 30033,
+    "timestamp": "2025-04-13T22:29:25Z",
+    "sha1": "16c2c668aaf52a35f1392f996be6b972ebeab4df",
+    "size": 2588
+  },
+  "categories": [
+    "ATK Boost",
+    "CIV-Fungi Boost",
+    "Exploration B-tad Drop Boost",
+    "Exploration Reagent Drop Boost",
+    "FAME Boost",
+    "FAME Relics",
+    "Fungus Farm Skill",
+    "Gear Boost",
+    "HP Boost",
+    "Koryeo Exploration Boost",
+    "Koryeo Museum Boost",
+    "Minorino Boost",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "RUSH Boost",
+    "Relics",
+    "Rewards Orange Fungus",
+    "Tadpole Pond Output Boost",
+    "Tadpole Pond Skill",
+    "Vampire Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Leaf of Yggdrasil",
+        "rank": "S",
+        "affct": "FAME",
+        "birthday": "09-30",
+        "source": "FAME Master Scrolls (31.5%), Fragment Crafting (20.7%), Lottery Machine (0.81%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), Super Treasure Map (15%), Wishing (0.75%)",
+        "description": "On Sep 30, 5000 BC, the young leaves of Yggdrasil were picked by humans.\n\nOn this day, Odin, the Lord of the Kingdom of Gods, hung himself from a branch of the World Tree, his flesh mutilated by the Gungnir. The splashes of God's blood stained the world tree's branches and leaves, revealing the runes that represent civilization. The Ice Kingdom's ferocious winds blew the leaves into the midgard, where they were collected by the sages among humans, and thus civilization began. As is recorded in W …",
+        "fame": "100",
+        "art": "50",
+        "fth": "62",
+        "civ": "59",
+        "tech": "61",
+        "ss1": "Snail HP +100<br>Snail RUSH +10<br>Per 10 CIV-Fungi eaten, Snail ATK +1<br>CIV-Fungi Eaten: 500/500",
+        "ss2": "Snail HP +200<br>Snail RUSH +20<br>Per 10 CIV-Fungi eaten, Snail ATK +2<br>CIV-Fungi Eaten: 500/500",
+        "ss3": "Snail HP +300<br>Snail RUSH +30<br>Per 10 CIV-Fungi eaten, Snail ATK +3<br>CIV-Fungi Eaten: 500/500",
+        "ss4": "Snail HP +500<br>Snail RUSH +50<br>Per 10 CIV-Fungi eaten, Snail ATK +5<br>CIV-Fungi Eaten: 500/500",
+        "ss5": "Snail HP +700<br>Snail RUSH +70<br>Per 10 CIV-Fungi eaten, Snail ATK +7<br>CIV-Fungi Eaten: 500/500",
+        "ss6": "Snail HP +1,000<br>Snail RUSH +100<br>Per 10 CIV-Fungi eaten, Snail ATK +10<br>CIV-Fungi Eaten: 500/500",
+        "ss7": "Snail HP +1,000<br>Snail RUSH +100<br>Per 10 CIV-Fungi eaten, Snail ATK +10<br>CIV-Fungi Eaten: 500/500<br>Snail HP +1,000",
+        "skill1": "[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, 2x Green Reagent Drops +15%",
+        "skill2": "[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: This Relic's FAME +15",
+        "skill3": "[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Max Cap +30%",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Leaf_of_Yggdrasil.wiki",
+  "markdown_path": "markdown/Leaf_of_Yggdrasil.md"
+}

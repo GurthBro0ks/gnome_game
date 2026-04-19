@@ -1,0 +1,56 @@
+{
+  "pageid": 4569,
+  "ns": 0,
+  "title": "Acta Apostolicae Sedis",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Acta_Apostolicae_Sedis",
+  "touched": "2025-09-30T21:06:26Z",
+  "length": 1243,
+  "lastrevid": 40358,
+  "revision": {
+    "revid": 40358,
+    "parentid": 40357,
+    "timestamp": "2025-09-30T21:06:26Z",
+    "sha1": "cad9f589c99eab7ee940b05e5c48df7fadc3da1e",
+    "size": 1243
+  },
+  "categories": [
+    "Angel Gene Speedup Boost",
+    "Angel Minion ATK Boost",
+    "Blue FTH Relics",
+    "Blue Relics",
+    "DEF Boost",
+    "Exploration INTEL Boost",
+    "FTH Relics",
+    "Relic Boost",
+    "Relics",
+    "Rift Exploration Boost",
+    "Rift Museum Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Acta Apostolicae Sedis",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "08-21",
+        "source": "Lottery Machine No. 2 (0.07%)",
+        "description": "On Aug 21, 1908 AD, Pope Pius X changed the original private publication into the Divine See Bulletin.<br>The Acta Apostolicae Sedis is the monthly gazette of the Divine See. As the authoritative record of the documents, exhortations, and decrees of the Divine See, it carries considerable weight. The contents are frequently referenced in documents and decrees issued by the Divine See of later generations.",
+        "fame": "28",
+        "art": "34",
+        "fth": "47",
+        "civ": "19",
+        "tech": "26",
+        "ss1": "Per 10 Angel Minions in battle:<br>> Troop ATK +1",
+        "ss2": "Per 10 Angel Minions in battle:<br>> Troop ATK +2",
+        "ss3": "Per 10 Angel Minions in battle:<br>> Troop ATK +3",
+        "ss4": "Per 10 Angel Minions in battle:<br>> Troop ATK +5",
+        "ss7": "Per 10 Angel Minions in battle:<br>> Troop ATK +5<br>Per 10 Angel Minions in battle:<br>> Troop ATK +5 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]] Place in Rift Museum: In the Rift, 2x INTEL Drops +1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Acta_Apostolicae_Sedis.wiki",
+  "markdown_path": "markdown/Acta_Apostolicae_Sedis.md"
+}

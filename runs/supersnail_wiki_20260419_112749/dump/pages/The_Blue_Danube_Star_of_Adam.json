@@ -1,0 +1,33 @@
+{
+  "pageid": 9824,
+  "ns": 0,
+  "title": "The Blue Danube+Star of Adam",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Blue_Danube%2BStar_of_Adam",
+  "touched": "2025-07-02T09:50:21Z",
+  "length": 174,
+  "lastrevid": 37165,
+  "revision": {
+    "revid": 37165,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:48:21Z",
+    "sha1": "0fd1630b0a41f0812f1a59b6a96c758b761e2686",
+    "size": 174
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "807",
+        "relics": "The Blue Danube,Star of Adam",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "In Follower Recruitment, 2x Protolith Chest Drops +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Blue_Danube_Star_of_Adam.wiki",
+  "markdown_path": "markdown/The_Blue_Danube_Star_of_Adam.md"
+}

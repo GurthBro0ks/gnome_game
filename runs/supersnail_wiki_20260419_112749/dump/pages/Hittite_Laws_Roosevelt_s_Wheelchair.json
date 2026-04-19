@@ -1,0 +1,33 @@
+{
+  "pageid": 8545,
+  "ns": 0,
+  "title": "Hittite Laws+Roosevelt's Wheelchair",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hittite_Laws%2BRoosevelt%27s_Wheelchair",
+  "touched": "2025-06-20T00:15:23Z",
+  "length": 235,
+  "lastrevid": 36059,
+  "revision": {
+    "revid": 36059,
+    "parentid": 34441,
+    "timestamp": "2025-06-20T00:15:23Z",
+    "sha1": "15ad6cd8fb763a49e6b3bcdaa90e43759e49ff44",
+    "size": 235
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "692",
+        "relics": "Hittite Laws,Roosevelt's Wheelchair",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +48;Swamp Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hittite_Laws_Roosevelt_s_Wheelchair.wiki",
+  "markdown_path": "markdown/Hittite_Laws_Roosevelt_s_Wheelchair.md"
+}

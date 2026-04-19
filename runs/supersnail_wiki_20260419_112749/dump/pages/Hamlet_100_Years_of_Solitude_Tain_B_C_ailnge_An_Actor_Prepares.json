@@ -1,0 +1,33 @@
+{
+  "pageid": 8659,
+  "ns": 0,
+  "title": "Hamlet+100 Years of Solitude+Tain Bó Cúailnge+An Actor Prepares",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hamlet%2B100_Years_of_Solitude%2BTain_B%C3%B3_C%C3%BAailnge%2BAn_Actor_Prepares",
+  "touched": "2025-06-16T20:52:55Z",
+  "length": 198,
+  "lastrevid": 34621,
+  "revision": {
+    "revid": 34621,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:52:55Z",
+    "sha1": "01297783e1dc3b891188ea56ba5f74e1fd9f32a2",
+    "size": 198
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "747",
+        "relics": "Hamlet,100 Years of Solitude,Tain Bó Cúailnge,An Actor Prepares",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Merge 1 Blue Stardust: Gain 1 more by 9%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hamlet_100_Years_of_Solitude_Tain_B_C_ailnge_An_Actor_Prepares.wiki",
+  "markdown_path": "markdown/Hamlet_100_Years_of_Solitude_Tain_B_C_ailnge_An_Actor_Prepares.md"
+}

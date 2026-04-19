@@ -1,0 +1,33 @@
+{
+  "pageid": 8440,
+  "ns": 0,
+  "title": "Cassegrain Antenna+Fly-By-Wire+Hooke's Spring+Ring Laser Gyroscope+Riding Car",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cassegrain_Antenna%2BFly-By-Wire%2BHooke%27s_Spring%2BRing_Laser_Gyroscope%2BRiding_Car",
+  "touched": "2025-06-20T00:13:12Z",
+  "length": 217,
+  "lastrevid": 35969,
+  "revision": {
+    "revid": 35969,
+    "parentid": 34310,
+    "timestamp": "2025-06-20T00:13:12Z",
+    "sha1": "073ccd30f91bb1ff6a344ccf0f93c57228b81348",
+    "size": 217
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "647",
+        "relics": "Cassegrain Antenna,Fly-By-Wire,Hooke's Spring,Ring Laser Gyroscope,Riding Car",
+        "rank": "blue",
+        "amount": "5",
+        "category": "self",
+        "description": "Per Godhood LVL, Snail ATK +48;Godhood LVL: 10/10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cassegrain_Antenna_Fly-By-Wire_Hooke_s_Spring_Ring_Laser_Gyroscope_Riding_Car.wiki",
+  "markdown_path": "markdown/Cassegrain_Antenna_Fly-By-Wire_Hooke_s_Spring_Ring_Laser_Gyroscope_Riding_Car.md"
+}

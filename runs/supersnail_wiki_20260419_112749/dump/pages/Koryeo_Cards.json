@@ -1,0 +1,58 @@
+{
+  "pageid": 2320,
+  "ns": 0,
+  "title": "Koryeo Cards",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Koryeo_Cards",
+  "touched": "2025-10-14T15:30:23Z",
+  "length": 5439,
+  "lastrevid": 41312,
+  "revision": {
+    "revid": 41312,
+    "parentid": 40592,
+    "timestamp": "2025-10-14T15:30:23Z",
+    "sha1": "ba29793a3d81bb8b748f1b848ab2703f0db0a7bc",
+    "size": 5439
+  },
+  "categories": [
+    "Koryeo",
+    "Locations",
+    "Realm"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "white",
+        "2": "Realm",
+        "3": "Crowbar"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "white",
+        "2": "Realm",
+        "3": "Ice Skates"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Realm",
+        "3": "Motorbike Helmet"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "Realm",
+        "3": "Bulletproof Vest"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Koryeo_Cards.wiki",
+  "markdown_path": "markdown/Koryeo_Cards.md"
+}

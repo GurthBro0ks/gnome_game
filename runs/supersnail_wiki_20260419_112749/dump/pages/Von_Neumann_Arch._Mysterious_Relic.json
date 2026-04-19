@@ -1,0 +1,36 @@
+{
+  "pageid": 4222,
+  "ns": 0,
+  "title": "Von Neumann Arch.+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Von_Neumann_Arch.%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 300,
+  "lastrevid": 18633,
+  "revision": {
+    "revid": 18633,
+    "parentid": 18314,
+    "timestamp": "2023-11-14T01:32:11Z",
+    "sha1": "8bc352d930040b8d75d41469d3170b4829bd9d66",
+    "size": 300
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Species War Tech Points",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Von Neumann Arch.,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1k Species War Tech Pts., Snail ATK +7; Species War Tech Pts: 30,000/30,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Von_Neumann_Arch._Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Von_Neumann_Arch._Mysterious_Relic.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 9266,
+  "ns": 0,
+  "title": "12 Zodiac Runes+Sierpinski Triangle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/12_Zodiac_Runes%2BSierpinski_Triangle",
+  "touched": "2025-06-20T00:16:22Z",
+  "length": 161,
+  "lastrevid": 36102,
+  "revision": {
+    "revid": 36102,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:16:22Z",
+    "sha1": "46008c399d9343213333be490813c006c62b749d",
+    "size": 161
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "614",
+        "relics": "12 Zodiac Runes,Sierpinski Triangle",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Desert Sanctum, Glorium Output +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/12_Zodiac_Runes_Sierpinski_Triangle.wiki",
+  "markdown_path": "markdown/12_Zodiac_Runes_Sierpinski_Triangle.md"
+}

@@ -1,0 +1,55 @@
+{
+  "pageid": 234,
+  "ns": 0,
+  "title": "Nocturnes",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nocturnes",
+  "touched": "2024-09-06T09:57:52Z",
+  "length": 1344,
+  "lastrevid": 26358,
+  "revision": {
+    "revid": 26358,
+    "parentid": 22427,
+    "timestamp": "2024-05-08T11:29:04Z",
+    "sha1": "8d747e72dc5389297d3e5ca70fd51d8f56f98b5d",
+    "size": 1344
+  },
+  "categories": [
+    "ART Boost",
+    "ART Relics",
+    "ATK Boost",
+    "Blue ART Relics",
+    "Blue Relics",
+    "DEF Boost",
+    "Lottery Bead Color Change",
+    "Relic Boost",
+    "Relics",
+    "Snail Arena Compass Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Nocturnes",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "03-13",
+        "source": "* Lottery Machine(0.03%), Wishing (1.2%)\n* [[Peter Jr.]] - [[Rare Rent]]",
+        "description": "On Mar 13, 1837, Frederic Chopin wrote a series of nocturnes that shocked the music scene.\n\nNocturne was one of Chopin's masterpieces, which was composed after he read his friends' comments. Following the melody of the piece, he played using the unique sound of piano and sang along with it. This was how the melody and sound of the piano were able to blend in perfectly. The nocturne expressed feelings of melancholy, contemplation, and longing, as well as subtle emotions such as excitement and une …",
+        "fame": "22",
+        "art": "45",
+        "fth": "30",
+        "civ": "25",
+        "tech": "32",
+        "ss1": "Lottery Green Beads turn to Blue by +0.2%",
+        "ss2": "Lottery Green Beads turn to Blue by +0.4%",
+        "ss3": "Lottery Green Beads turn to Blue by +0.6%",
+        "ss4": "Lottery Green Beads turn to Blue by +1%",
+        "ss7": "Lottery Green Beads turn to Blue by +1%<br>Lottery Green Beads turn to Blue by +0.5% (Awakened)",
+        "skill1": "[[File:Arena skill I.png|50px]] Place in Snail Arena Compass: In Snail Arena, this Relic's ART +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nocturnes.wiki",
+  "markdown_path": "markdown/Nocturnes.md"
+}

@@ -1,0 +1,50 @@
+{
+  "pageid": 4485,
+  "ns": 0,
+  "title": "Charlotte's Web",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Charlotte%27s_Web",
+  "touched": "2025-06-16T23:19:08Z",
+  "length": 1151,
+  "lastrevid": 35177,
+  "revision": {
+    "revid": 35177,
+    "parentid": 23837,
+    "timestamp": "2025-06-16T23:19:08Z",
+    "sha1": "d643a3a2f61dc073cde8b80c4aaa999d946772ef",
+    "size": 1151
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Charlotte's Web",
+        "class_id": "22072",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "04-24",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Apr 24, 1952 AD, E. B. White published this heartwarming novel, Charlotte's Web.<br>Charlotte's Web is a fairy tale about friendship by an American author named E. B. White. The story tells the sincere friendship formed between a spider and a pig. Charlotte, the spider, makes Wilbur the pig win the grand prize in the small town competition by weaving words on the web so that he can enjoy his old age in the future. This, changed Wilbur's fate, whereas Charlotte's own life came to an end at thi …",
+        "fame": "32",
+        "art": "33",
+        "fth": "27",
+        "civ": "44",
+        "tech": "18",
+        "ss1": "Angel Minion DEF +1%",
+        "ss2": "Angel Minion DEF +2%",
+        "ss3": "Angel Minion DEF +3%",
+        "ss4": "Angel Minion DEF +5%",
+        "ss7": "Angel Minion DEF +5%<br>Angel Minion DEF +5% (Awakened)",
+        "skill1": "[[File:Genesim skill I.png|50px]]Place in Gene Sim Device: Snail HP +200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Charlotte_s_Web.wiki",
+  "markdown_path": "markdown/Charlotte_s_Web.md"
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 7461,
+  "ns": 0,
+  "title": "Hellenic Domain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hellenic_Domain",
+  "touched": "2025-10-20T06:51:01Z",
+  "length": 14482,
+  "lastrevid": 41559,
+  "revision": {
+    "revid": 41559,
+    "parentid": 41558,
+    "timestamp": "2025-10-20T06:51:01Z",
+    "sha1": "a2568a93e81fad2b510e2741f43b359f2947b67a",
+    "size": 14482
+  },
+  "categories": [
+    "Hellenic Domain",
+    "Hellenic_Domain",
+    "Missing Info",
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hellenic_Domain.wiki",
+  "markdown_path": "markdown/Hellenic_Domain.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 9310,
+  "ns": 0,
+  "title": "The 1st Electric Fan+Karrier AC",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_1st_Electric_Fan%2BKarrier_AC",
+  "touched": "2025-06-20T00:20:58Z",
+  "length": 135,
+  "lastrevid": 36225,
+  "revision": {
+    "revid": 36225,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:20:58Z",
+    "sha1": "18068f7b5b8a6a38d02ea54ae8f93ceb78ac8d13",
+    "size": 135
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "601",
+        "relics": "The 1st Electric Fan,Karrier AC",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HP +500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_1st_Electric_Fan_Karrier_AC.wiki",
+  "markdown_path": "markdown/The_1st_Electric_Fan_Karrier_AC.md"
+}

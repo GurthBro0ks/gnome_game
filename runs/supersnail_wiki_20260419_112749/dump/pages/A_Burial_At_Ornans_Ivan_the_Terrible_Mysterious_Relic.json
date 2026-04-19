@@ -1,0 +1,35 @@
+{
+  "pageid": 6925,
+  "ns": 0,
+  "title": "A Burial At Ornans+Ivan the Terrible+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/A_Burial_At_Ornans%2BIvan_the_Terrible%2BMysterious_Relic",
+  "touched": "2025-04-21T03:27:17Z",
+  "length": 227,
+  "lastrevid": 34097,
+  "revision": {
+    "revid": 34097,
+    "parentid": 29063,
+    "timestamp": "2025-04-21T03:27:17Z",
+    "sha1": "a2eb2db94de9906932bb7af533ec14b4a273ed50",
+    "size": 227
+  },
+  "categories": [
+    "Home",
+    "Sanctum Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "A Burial At Ornans,Ivan the Terrible,Mysterious Relic",
+        "rank": "orange",
+        "amount": "3",
+        "category": "home",
+        "description": "All Sanctum Glorium Output +3.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/A_Burial_At_Ornans_Ivan_the_Terrible_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/A_Burial_At_Ornans_Ivan_the_Terrible_Mysterious_Relic.md"
+}

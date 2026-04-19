@@ -1,0 +1,52 @@
+{
+  "pageid": 8614,
+  "ns": 0,
+  "title": "The City of God",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_City_of_God",
+  "touched": "2025-06-20T00:18:31Z",
+  "length": 1776,
+  "lastrevid": 36137,
+  "revision": {
+    "revid": 36137,
+    "parentid": 34568,
+    "timestamp": "2025-06-20T00:18:31Z",
+    "sha1": "d3a3acf49a8d3d6002716fa8cbbf3042f111676b",
+    "size": 1776
+  },
+  "categories": [
+    "FAITH Relics",
+    "Purple FAITH Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The City of God",
+        "class_id": "22552",
+        "rank": "AA",
+        "affct": "FAITH",
+        "birthday": "10-10",
+        "source": "Lottery Machine No.3 (0.12%)",
+        "description": "On Oct 10, 413 AD, Saint Augustine completed this religious masterpiece.<br>The City of God is a book written by Saint Augustine of the Roman Empire. It is comprised of twenty-two volumes, and is divided into two main parts. The first part is a refutation of attacks against Christianity by people who blamed it for the decline of the Roman Empire. The second part depicts the history of Christianity and explains the difference between the City of God and the earthly city, and teaches people the di …",
+        "fame": "38",
+        "art": "44",
+        "fth": "70",
+        "civ": "34",
+        "tech": "42",
+        "ss1": "Per 30 T7+ Minions in battle:<br>> Troop DEF +8<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +4",
+        "ss2": "Per 30 T7+ Minions in battle:<br>> Troop DEF +12<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +6",
+        "ss3": "Per 30 T7+ Minions in battle:<br>> Troop DEF +16<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +8",
+        "ss4": "Per 30 T7+ Minions in battle:<br>> Troop DEF +24<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +12",
+        "ss5": "Per 30 T7+ Minions in battle:<br>> Troop DEF +32<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +16",
+        "ss7": "Per 30 T7+ Minions in battle:<br>> Troop DEF +32<br>Per 30 T7+ Minions in battle:<br>> Troop HARD Stats +16<br>Per 30 T7+ Minions in battle:<br>> Troop DEF +28 (Awakened)",
+        "skill1": "[[File:Surfclam skill II.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Water DMG +30",
+        "skill2": "[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FTH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_City_of_God.wiki",
+  "markdown_path": "markdown/The_City_of_God.md"
+}

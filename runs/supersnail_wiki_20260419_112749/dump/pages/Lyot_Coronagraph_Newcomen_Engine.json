@@ -1,0 +1,33 @@
+{
+  "pageid": 9313,
+  "ns": 0,
+  "title": "Lyot Coronagraph+Newcomen Engine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lyot_Coronagraph%2BNewcomen_Engine",
+  "touched": "2025-06-20T00:22:25Z",
+  "length": 136,
+  "lastrevid": 36238,
+  "revision": {
+    "revid": 36238,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:22:25Z",
+    "sha1": "78f17feedbf4d96b336becb41bcc70012e5790d3",
+    "size": 136
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "602",
+        "relics": "Lyot Coronagraph,Newcomen Engine",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lyot_Coronagraph_Newcomen_Engine.wiki",
+  "markdown_path": "markdown/Lyot_Coronagraph_Newcomen_Engine.md"
+}

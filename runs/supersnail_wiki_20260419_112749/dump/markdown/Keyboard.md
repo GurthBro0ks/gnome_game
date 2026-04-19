@@ -1,0 +1,15 @@
+|image=.png
+|description=Every monkey is required to choose a keyboard for its lifetime career when it was born...
+|affct=TECH
+|hard=DEF
+|source=Spring Day event
+|color=purple
+|earth=6
+|water=7
+|fire=6
+|wind=8
+|form=Dragon
+|element=Wind
+|realm=Rift
+|orangehard=RUSH
+}}

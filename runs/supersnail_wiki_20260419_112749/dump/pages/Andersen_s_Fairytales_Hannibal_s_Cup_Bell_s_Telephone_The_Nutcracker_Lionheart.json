@@ -1,0 +1,36 @@
+{
+  "pageid": 3674,
+  "ns": 0,
+  "title": "Andersen's Fairytales+Hannibal's Cup+Bell's Telephone+The Nutcracker+Lionheart",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Andersen%27s_Fairytales%2BHannibal%27s_Cup%2BBell%27s_Telephone%2BThe_Nutcracker%2BLionheart",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 297,
+  "lastrevid": 18586,
+  "revision": {
+    "revid": 18586,
+    "parentid": 18275,
+    "timestamp": "2023-11-14T01:20:32Z",
+    "sha1": "df004cfefe8869edc7b050b0dcb2d6f8466e543e",
+    "size": 297
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Power",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Andersen's Fairytales,Hannibal's Cup,Bell's Telephone,The Nutcracker,Lionheart",
+        "rank": "purple",
+        "amount": "5",
+        "category": "self",
+        "description": "Per 2k Power, Snail ATK +4<br>Power: 60,000/60,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Andersen_s_Fairytales_Hannibal_s_Cup_Bell_s_Telephone_The_Nutcracker_Lionheart.wiki",
+  "markdown_path": "markdown/Andersen_s_Fairytales_Hannibal_s_Cup_Bell_s_Telephone_The_Nutcracker_Lionheart.md"
+}

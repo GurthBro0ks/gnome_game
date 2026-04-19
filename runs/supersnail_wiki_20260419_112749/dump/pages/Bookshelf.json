@@ -1,0 +1,23 @@
+{
+  "pageid": 2743,
+  "ns": 0,
+  "title": "Bookshelf",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bookshelf",
+  "touched": "2025-10-19T06:58:12Z",
+  "length": 12633,
+  "lastrevid": 41485,
+  "revision": {
+    "revid": 41485,
+    "parentid": 30991,
+    "timestamp": "2025-10-19T06:58:12Z",
+    "sha1": "0bd97b1b0f80f487fbfe2fef9e205d74ef568410",
+    "size": 12633
+  },
+  "categories": [
+    "Home Base"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Bookshelf.wiki",
+  "markdown_path": "markdown/Bookshelf.md"
+}

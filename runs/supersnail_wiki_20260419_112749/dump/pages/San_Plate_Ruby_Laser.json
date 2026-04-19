@@ -1,0 +1,33 @@
+{
+  "pageid": 10045,
+  "ns": 0,
+  "title": "San Plate+Ruby Laser",
+  "fullurl": "https://supersnail.wiki.gg/wiki/San_Plate%2BRuby_Laser",
+  "touched": "2025-08-11T10:36:09Z",
+  "length": 151,
+  "lastrevid": 37597,
+  "revision": {
+    "revid": 37597,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:36:09Z",
+    "sha1": "00800b184b581886d51a4a5990d018ec7e6ed8ac",
+    "size": 151
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "384",
+        "relics": "San Plate,Ruby Laser",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Refine +1 White Printing Supply by +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/San_Plate_Ruby_Laser.wiki",
+  "markdown_path": "markdown/San_Plate_Ruby_Laser.md"
+}

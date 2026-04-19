@@ -1,0 +1,35 @@
+{
+  "pageid": 4919,
+  "ns": 0,
+  "title": "Celaeno Fragments+Indus Seal+Silver Treaty+Dream Control System",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Celaeno_Fragments%2BIndus_Seal%2BSilver_Treaty%2BDream_Control_System",
+  "touched": "2024-12-02T03:00:51Z",
+  "length": 240,
+  "lastrevid": 18360,
+  "revision": {
+    "revid": 18360,
+    "parentid": 17557,
+    "timestamp": "2023-11-13T21:23:59Z",
+    "sha1": "52f18b807b83b666f1760baa27c630fc35ffe6d3",
+    "size": 240
+  },
+  "categories": [
+    "Dragon Minion DEF Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Celaeno Fragments,Indus Seal,Silver Treaty,Dream Control System",
+        "rank": "purple",
+        "amount": "4",
+        "category": "minion",
+        "description": "Dragon Minion DEF +8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Celaeno_Fragments_Indus_Seal_Silver_Treaty_Dream_Control_System.wiki",
+  "markdown_path": "markdown/Celaeno_Fragments_Indus_Seal_Silver_Treaty_Dream_Control_System.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 3901,
+  "ns": 0,
+  "title": "Hermes & Dionysus+AMS+The Champa Flower",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hermes_%26_Dionysus%2BAMS%2BThe_Champa_Flower",
+  "touched": "2025-06-19T23:54:02Z",
+  "length": 189,
+  "lastrevid": 35660,
+  "revision": {
+    "revid": 35660,
+    "parentid": 19496,
+    "timestamp": "2025-06-19T23:54:02Z",
+    "sha1": "01221d41ee0fd3141c47e2f8cf8fb872690c808f",
+    "size": 189
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "532",
+        "relics": "Hermes & Dionysus,AMS,The Champa Flower",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "In the Gaia Rocket Cabin: Garden of Eden Base Effect +64%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hermes_Dionysus_AMS_The_Champa_Flower.wiki",
+  "markdown_path": "markdown/Hermes_Dionysus_AMS_The_Champa_Flower.md"
+}

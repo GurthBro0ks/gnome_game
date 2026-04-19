@@ -1,0 +1,33 @@
+{
+  "pageid": 4707,
+  "ns": 0,
+  "title": "Herbal Anesthetic+Clytie Bust Sculpture+Einthoven's ECG",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Herbal_Anesthetic%2BClytie_Bust_Sculpture%2BEinthoven%27s_ECG",
+  "touched": "2025-06-19T23:54:46Z",
+  "length": 207,
+  "lastrevid": 35692,
+  "revision": {
+    "revid": 35692,
+    "parentid": 18605,
+    "timestamp": "2025-06-19T23:54:46Z",
+    "sha1": "a45528440bebe70c68bc4c1eafef5c182ecd817c",
+    "size": 207
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "350",
+        "relics": "Herbal Anesthetic,Clytie Bust Sculpture,Einthoven's ECG",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 50 Minions cloned, Snail ATK +6;Minions Cloned: 2000/2000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Herbal_Anesthetic_Clytie_Bust_Sculpture_Einthoven_s_ECG.wiki",
+  "markdown_path": "markdown/Herbal_Anesthetic_Clytie_Bust_Sculpture_Einthoven_s_ECG.md"
+}

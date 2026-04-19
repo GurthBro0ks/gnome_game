@@ -1,0 +1,33 @@
+{
+  "pageid": 4161,
+  "ns": 0,
+  "title": "Night Watch+Oxus Treasure",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Night_Watch%2BOxus_Treasure",
+  "touched": "2025-06-20T00:00:14Z",
+  "length": 137,
+  "lastrevid": 35739,
+  "revision": {
+    "revid": 35739,
+    "parentid": 18354,
+    "timestamp": "2025-06-20T00:00:14Z",
+    "sha1": "ce32118c8c5fa8580680b8d8992dc3535f6678eb",
+    "size": 137
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "462",
+        "relics": "Night Watch,Oxus Treasure",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Demon Minion MAX +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Night_Watch_Oxus_Treasure.wiki",
+  "markdown_path": "markdown/Night_Watch_Oxus_Treasure.md"
+}

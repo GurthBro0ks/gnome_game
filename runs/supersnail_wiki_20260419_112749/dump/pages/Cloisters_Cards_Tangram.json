@@ -1,0 +1,33 @@
+{
+  "pageid": 4713,
+  "ns": 0,
+  "title": "Cloisters Cards+Tangram",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cloisters_Cards%2BTangram",
+  "touched": "2025-06-20T00:07:11Z",
+  "length": 128,
+  "lastrevid": 35891,
+  "revision": {
+    "revid": 35891,
+    "parentid": 18502,
+    "timestamp": "2025-06-20T00:07:11Z",
+    "sha1": "afb889a6b64f691ba082bacc6ffaaf8f98b5badc",
+    "size": 128
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "298",
+        "relics": "Cloisters Cards,Tangram",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail RUSH +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cloisters_Cards_Tangram.wiki",
+  "markdown_path": "markdown/Cloisters_Cards_Tangram.md"
+}

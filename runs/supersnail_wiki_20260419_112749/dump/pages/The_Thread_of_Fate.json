@@ -1,0 +1,47 @@
+{
+  "pageid": 5443,
+  "ns": 0,
+  "title": "The Thread of Fate",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Thread_of_Fate",
+  "touched": "2025-08-11T10:42:45Z",
+  "length": 704,
+  "lastrevid": 37871,
+  "revision": {
+    "revid": 37871,
+    "parentid": 20780,
+    "timestamp": "2025-08-11T10:42:45Z",
+    "sha1": "cb5d877d2f2d457e6a467533c06ba25341a56af3",
+    "size": 704
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Thread of Fate",
+        "class_id": "20235",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "The thread was compiled by the Fates. The three goddesses each played their role. Clotho held a distaff, Lachesis spun, and Atropos, the eldest of the three, cut the thread. It's the circle of life!",
+        "fame": "15",
+        "art": "13",
+        "fth": "29",
+        "civ": "16",
+        "tech": "17",
+        "ss1": "Per 6 Moody Costume Stars, Snail ATK +1<br>Moody Stars: 192/192",
+        "ss2": "Per 6 Moody Costume Stars, Snail ATK +2<br>Moody Stars: 192/192",
+        "ss3": "Per 6 Moody Costume Stars, Snail ATK +3<br>Moody Stars: 192/192",
+        "ss4": "Per 6 Moody Costume Stars, Snail ATK +3<br>Moody Stars: 192/192",
+        "ss7": "Per 6 Moody Costume Stars, Snail ATK +3<br>Moody Stars: 192/192<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Thread_of_Fate.wiki",
+  "markdown_path": "markdown/The_Thread_of_Fate.md"
+}

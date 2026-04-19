@@ -1,0 +1,33 @@
+{
+  "pageid": 6924,
+  "ns": 0,
+  "title": "A Burial At Ornans+Ivan the Terrible",
+  "fullurl": "https://supersnail.wiki.gg/wiki/A_Burial_At_Ornans%2BIvan_the_Terrible",
+  "touched": "2025-06-20T00:19:11Z",
+  "length": 189,
+  "lastrevid": 36166,
+  "revision": {
+    "revid": 36166,
+    "parentid": 29054,
+    "timestamp": "2025-06-20T00:19:11Z",
+    "sha1": "c348c0eb2742c2ef78fc0c1f9e391cab034ff81a",
+    "size": 189
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "723",
+        "relics": "A Burial At Ornans,Ivan the Terrible",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per devotee appointed, Snail ATK +7;Devotee Appointed: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/A_Burial_At_Ornans_Ivan_the_Terrible.wiki",
+  "markdown_path": "markdown/A_Burial_At_Ornans_Ivan_the_Terrible.md"
+}

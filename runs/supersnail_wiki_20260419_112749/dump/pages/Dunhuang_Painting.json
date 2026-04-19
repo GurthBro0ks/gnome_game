@@ -1,0 +1,54 @@
+{
+  "pageid": 78,
+  "ns": 0,
+  "title": "Dunhuang Painting",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dunhuang_Painting",
+  "touched": "2024-09-06T09:58:44Z",
+  "length": 1257,
+  "lastrevid": 27635,
+  "revision": {
+    "revid": 27635,
+    "parentid": 16415,
+    "timestamp": "2024-06-01T03:08:22Z",
+    "sha1": "c63721b1ac61a43ce6a1280ca5b7a8bb8f00029e",
+    "size": 1257
+  },
+  "categories": [
+    "Blue FTH Relics",
+    "Blue Relics",
+    "Cathay Exploration Boost",
+    "Cathay Museum Boost",
+    "FTH Relics",
+    "HP Boost",
+    "Offering Speed Boost",
+    "Relics",
+    "Travel Speed Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dunhuang Painting",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "08-14",
+        "source": "Lottery Machine (0.03%), Wishing (0.85%)",
+        "description": "On Aug 14, AD 487, Dunhuang Murals, the future treasure artwork of the world, were created in a cave. \n\nA master craftsman painted murals of flying gods inside a dark cave. The flying gods are musicians and dancers in the Buddha land. The god who is holding the pipa upside down is known as the Flying Musician. These murals can be traced back to many dynasties and have existed for centuries. It was a rather unique product of the integration of Buddhism and Taoism. But since the day it was discove …",
+        "fame": "36",
+        "art": "24",
+        "fth": "46",
+        "civ": "29",
+        "tech": "19",
+        "ss1": "In Dragon Form, Travel SPD +0.2%",
+        "ss2": "In Dragon Form, Travel SPD +0.4%",
+        "ss3": "In Dragon Form, Travel SPD +0.6%",
+        "ss4": "In Dragon Form, Travel SPD +1%",
+        "ss7": "In Dragon Form, Travel SPD +1%<br>In Dragon Form, Travel SPD +1% (Awakened)",
+        "skill1": "[[File:Cathay skill I.png|50px]]Place in Cathay Museum: In Cathay, Snail RUSH +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dunhuang_Painting.wiki",
+  "markdown_path": "markdown/Dunhuang_Painting.md"
+}

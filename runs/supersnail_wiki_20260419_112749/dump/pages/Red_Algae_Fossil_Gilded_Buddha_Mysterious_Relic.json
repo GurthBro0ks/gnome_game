@@ -1,0 +1,35 @@
+{
+  "pageid": 4184,
+  "ns": 0,
+  "title": "Red Algae Fossil+Gilded Buddha+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Red_Algae_Fossil%2BGilded_Buddha%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 242,
+  "lastrevid": 27783,
+  "revision": {
+    "revid": 27783,
+    "parentid": 27782,
+    "timestamp": "2024-06-08T14:08:55Z",
+    "sha1": "c5d145b7ab9f08de346f192562f34a9343e05929",
+    "size": 242
+  },
+  "categories": [
+    "Home",
+    "Maneater Plant Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Red Algae Fossil,Gilded Buddha,Mysterious Relic",
+        "rank": "orange",
+        "amount": "3",
+        "category": "home",
+        "description": "Sunny Plant Food gives 1 Green Pistil by +1.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Red_Algae_Fossil_Gilded_Buddha_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Red_Algae_Fossil_Gilded_Buddha_Mysterious_Relic.md"
+}

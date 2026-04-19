@@ -1,0 +1,33 @@
+{
+  "pageid": 9259,
+  "ns": 0,
+  "title": "Seal of the Ancients+Intro to Golden Elixir",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Seal_of_the_Ancients%2BIntro_to_Golden_Elixir",
+  "touched": "2025-06-20T00:15:57Z",
+  "length": 173,
+  "lastrevid": 36085,
+  "revision": {
+    "revid": 36085,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:15:57Z",
+    "sha1": "8b431ce6fab2df758ed4958aa0aef664a58adedc",
+    "size": 173
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "619",
+        "relics": "Seal of the Ancients,Intro to Golden Elixir",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Species War Cabin, deployable robots +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Seal_of_the_Ancients_Intro_to_Golden_Elixir.wiki",
+  "markdown_path": "markdown/Seal_of_the_Ancients_Intro_to_Golden_Elixir.md"
+}

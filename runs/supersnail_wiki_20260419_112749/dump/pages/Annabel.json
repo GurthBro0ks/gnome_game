@@ -1,0 +1,47 @@
+{
+  "pageid": 1638,
+  "ns": 0,
+  "title": "Annabel",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Annabel",
+  "touched": "2025-08-11T10:52:26Z",
+  "length": 582,
+  "lastrevid": 38296,
+  "revision": {
+    "revid": 38296,
+    "parentid": 17156,
+    "timestamp": "2025-08-11T10:52:26Z",
+    "sha1": "a1a774bfcf5ce3316659bdbeb10cdfc527187141",
+    "size": 582
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Annabel",
+        "class_id": "20006",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "No one knows who sewed this bizarre doll, but everyone can feel its inexplicable sinister energy. Horrible things kept happening to the owners of this doll until the D. Dragon acquired it and used its divine power to suppress the viciousness inside.",
+        "fame": "18",
+        "art": "13",
+        "fth": "16",
+        "civ": "30",
+        "tech": "13",
+        "ss1": "In Demon Form, Travel SPD +0.2%",
+        "ss2": "In Demon Form, Travel SPD +0.4%",
+        "ss3": "In Demon Form, Travel SPD +0.6%",
+        "ss4": "In Demon Form, Travel SPD +0.6%",
+        "ss7": "In Demon Form, Travel SPD +0.6%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Annabel.wiki",
+  "markdown_path": "markdown/Annabel.md"
+}

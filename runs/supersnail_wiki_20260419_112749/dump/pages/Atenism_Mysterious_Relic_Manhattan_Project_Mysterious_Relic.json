@@ -1,0 +1,35 @@
+{
+  "pageid": 6107,
+  "ns": 0,
+  "title": "Atenism+Mysterious Relic+Manhattan Project+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Atenism%2BMysterious_Relic%2BManhattan_Project%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 239,
+  "lastrevid": 23311,
+  "revision": {
+    "revid": 23311,
+    "parentid": 0,
+    "timestamp": "2024-03-09T18:14:41Z",
+    "sha1": "1555e564c4e6a4b9385db77bd56716c602500a06",
+    "size": 239
+  },
+  "categories": [
+    "Domain Output Boost",
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Atenism,Mysterious Relic,Manhattan Project,Mysterious Relic",
+        "rank": "orange",
+        "amount": "4",
+        "category": "home",
+        "description": "All Domains, Seal production +9%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Atenism_Mysterious_Relic_Manhattan_Project_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Atenism_Mysterious_Relic_Manhattan_Project_Mysterious_Relic.md"
+}

@@ -1,0 +1,15 @@
+|image=.png
+|description=Top luxury product tailored for Snail moneybags to show off as a statue symbol!
+|affct=FAME
+|hard=RUSH
+|source=Divine Order Chest (0.2%)
+|color=purple
+|earth=8
+|water=7
+|fire=5
+|wind=6
+|form=Zombie
+|element=Fire
+|realm=Murika
+|orangehard=ATK
+}}

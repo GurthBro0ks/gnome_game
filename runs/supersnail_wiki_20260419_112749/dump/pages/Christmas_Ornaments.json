@@ -1,0 +1,29 @@
+{
+  "pageid": 7721,
+  "ns": 0,
+  "title": "Christmas Ornaments",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Christmas_Ornaments",
+  "touched": "2025-02-06T19:34:31Z",
+  "length": 389,
+  "lastrevid": 32766,
+  "revision": {
+    "revid": 32766,
+    "parentid": 32445,
+    "timestamp": "2025-01-03T03:34:42Z",
+    "sha1": "dd51c24e193f31b5787d7d64ae2666577d0a06b9",
+    "size": 389
+  },
+  "categories": [
+    "DEF Boost",
+    "Dragon Form",
+    "FAME Shells",
+    "RUSH Boost",
+    "Shells",
+    "Time Rift",
+    "Wind DMG Boost"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Christmas_Ornaments.wiki",
+  "markdown_path": "markdown/Christmas_Ornaments.md"
+}

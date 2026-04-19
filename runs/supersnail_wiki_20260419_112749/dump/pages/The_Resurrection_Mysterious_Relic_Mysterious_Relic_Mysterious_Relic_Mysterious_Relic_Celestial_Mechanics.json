@@ -1,0 +1,35 @@
+{
+  "pageid": 8224,
+  "ns": 0,
+  "title": "The Resurrection+Mysterious Relic+Mysterious Relic+Mysterious Relic+Mysterious Relic+Celestial Mechanics",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Resurrection%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic%2BCelestial_Mechanics",
+  "touched": "2025-04-21T02:14:28Z",
+  "length": 291,
+  "lastrevid": 34000,
+  "revision": {
+    "revid": 34000,
+    "parentid": 0,
+    "timestamp": "2025-04-20T21:48:40Z",
+    "sha1": "a3f768e31749df6cddc01d89e504b927ed05bb8d",
+    "size": 291
+  },
+  "categories": [
+    "Minion",
+    "Mutant Minion HARD Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Resurrection,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic,Celestial Mechanics",
+        "rank": "orange",
+        "amount": "6",
+        "category": "minion",
+        "description": "Mutant Minion HARD Stats +3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Resurrection_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Celestial_Mechanics.wiki",
+  "markdown_path": "markdown/The_Resurrection_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Celestial_Mechanics.md"
+}

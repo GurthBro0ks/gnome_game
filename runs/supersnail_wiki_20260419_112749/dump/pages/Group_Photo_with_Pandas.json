@@ -1,0 +1,47 @@
+{
+  "pageid": 10854,
+  "ns": 0,
+  "title": "Group Photo with Pandas",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Group_Photo_with_Pandas",
+  "touched": "2025-08-11T11:03:41Z",
+  "length": 591,
+  "lastrevid": 38782,
+  "revision": {
+    "revid": 38782,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:03:41Z",
+    "sha1": "5d7d8df1ea71d2ceb343530cfc4ee959531c20ce",
+    "size": 591
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Group Photo with Pandas",
+        "class_id": "20294",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "After a close encounter with the pandas who traveled from afar, Snail took this photo with them to commemorate the celebration and preserve this beautiful memory forever!",
+        "fame": "18",
+        "art": "14",
+        "fth": "29",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Per 500 FTH, Snail ATK +1<br>FTH: 15000/15000",
+        "ss2": "Per 500 FTH, Snail ATK +2<br>FTH: 15000/15000",
+        "ss3": "Per 500 FTH, Snail ATK +3<br>FTH: 15000/15000",
+        "ss4": "Per 500 FTH, Snail ATK +3<br>FTH: 15000/15000",
+        "ss7": "Per 500 FTH, Snail ATK +3<br>FTH: 15000/15000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Group_Photo_with_Pandas.wiki",
+  "markdown_path": "markdown/Group_Photo_with_Pandas.md"
+}

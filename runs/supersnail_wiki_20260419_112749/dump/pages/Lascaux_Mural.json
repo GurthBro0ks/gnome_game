@@ -1,0 +1,47 @@
+{
+  "pageid": 4038,
+  "ns": 0,
+  "title": "Lascaux Mural",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lascaux_Mural",
+  "touched": "2025-08-11T10:59:52Z",
+  "length": 1078,
+  "lastrevid": 38616,
+  "revision": {
+    "revid": 38616,
+    "parentid": 32621,
+    "timestamp": "2025-08-11T10:59:52Z",
+    "sha1": "f1aae60e885ac58ff22fe52441f04e5d3967efc0",
+    "size": 1078
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Lascaux Mural",
+        "class_id": "20156",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "Lascaux murals, located in Dordogne state in the southwest of France, are the earliest murals in the history of human art dating back to 17,000 years ago. The entire cave is composed of a promenade, which is decorated with 1,500 rock carvings and hundreds of paintings, recording the images of about 100 kinds of animals. These detailed, colorful, and lifelike murals are known as the Prehistoric Louvre.",
+        "fame": "13",
+        "art": "26",
+        "fth": "15",
+        "civ": "17",
+        "tech": "17",
+        "ss1": "Snail ATK +20<br>When you share Selected Illustrations the 1st time each month, Lottery Tickets +1",
+        "ss2": "Snail ATK +30<br>When you share Selected Illustrations the 1st time each month, Lottery Tickets +1",
+        "ss3": "Snail ATK +40<br>When you share Selected Illustrations the 1st time each month, Lottery Tickets +1",
+        "ss4": "Snail ATK +40<br>When you share Selected Illustrations the 1st time each month, Lottery Tickets +1",
+        "ss7": "Snail ATK +40<br>When you share Selected Illustrations the 1st time each month, Lottery Tickets +1<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lascaux_Mural.wiki",
+  "markdown_path": "markdown/Lascaux_Mural.md"
+}

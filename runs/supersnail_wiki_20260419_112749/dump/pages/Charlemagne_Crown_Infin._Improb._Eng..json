@@ -1,0 +1,33 @@
+{
+  "pageid": 9785,
+  "ns": 0,
+  "title": "Charlemagne Crown+Infin. Improb. Eng.",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Charlemagne_Crown%2BInfin._Improb._Eng.",
+  "touched": "2025-07-02T09:42:48Z",
+  "length": 222,
+  "lastrevid": 37062,
+  "revision": {
+    "revid": 37062,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:42:48Z",
+    "sha1": "014989b512d67e3d46036307e99353dc84b741e0",
+    "size": 222
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "871",
+        "relics": "Charlemagne Crown,Infin. Improb. Eng.",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +168;Mythic Protodex Stars: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Charlemagne_Crown_Infin._Improb._Eng..wiki",
+  "markdown_path": "markdown/Charlemagne_Crown_Infin._Improb._Eng..md"
+}

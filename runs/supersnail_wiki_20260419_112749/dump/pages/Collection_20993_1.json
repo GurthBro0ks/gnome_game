@@ -1,0 +1,47 @@
+{
+  "pageid": 10272,
+  "ns": 0,
+  "title": "Collection@20993 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20993_1",
+  "touched": "2025-08-11T10:45:16Z",
+  "length": 543,
+  "lastrevid": 37983,
+  "revision": {
+    "revid": 37983,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:45:16Z",
+    "sha1": "33fafdc69fab36726b23391c7d14fb4fba5cb6d5",
+    "size": 543
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20993_1",
+        "class_id": "20993",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "collection@20993_2",
+        "fame": "29",
+        "art": "14",
+        "fth": "18",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Snail Leadership +2<br>prop@58572_2<br>Lucky Star Gained: 3600/3600",
+        "ss2": "Snail Leadership +4<br>prop@58572_2<br>Lucky Star Gained: 3600/3600",
+        "ss3": "Snail Leadership +6<br>prop@58572_2<br>Lucky Star Gained: 3600/3600",
+        "ss4": "Snail Leadership +6<br>prop@58572_2<br>Lucky Star Gained: 3600/3600",
+        "ss7": "Snail Leadership +6<br>prop@58572_2<br>Lucky Star Gained: 3600/3600<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20993_1.wiki",
+  "markdown_path": "markdown/Collection_20993_1.md"
+}

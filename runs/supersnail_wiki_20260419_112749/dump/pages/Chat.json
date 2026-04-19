@@ -1,0 +1,23 @@
+{
+  "pageid": 6441,
+  "ns": 0,
+  "title": "Chat",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Chat",
+  "touched": "2025-08-12T00:28:29Z",
+  "length": 1605,
+  "lastrevid": 39595,
+  "revision": {
+    "revid": 39595,
+    "parentid": 37364,
+    "timestamp": "2025-08-12T00:28:29Z",
+    "sha1": "3a732108e39f4c4ce7b2acd73843019b843e21c4",
+    "size": 1605
+  },
+  "categories": [
+    "Guides"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Chat.wiki",
+  "markdown_path": "markdown/Chat.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4578,
+  "ns": 0,
+  "title": "Matsushima Pot+Pompeii+The Moon and Sixpence",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Matsushima_Pot%2BPompeii%2BThe_Moon_and_Sixpence",
+  "touched": "2025-06-19T23:54:44Z",
+  "length": 173,
+  "lastrevid": 35690,
+  "revision": {
+    "revid": 35690,
+    "parentid": 18428,
+    "timestamp": "2025-06-19T23:54:44Z",
+    "sha1": "7caa71ff25d9b9e33fb11cd1f0a696b59a4e1773",
+    "size": 173
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "353",
+        "relics": "Matsushima Pot,Pompeii,The Moon and Sixpence",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 10 Minions in battle: Troop HP +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Matsushima_Pot_Pompeii_The_Moon_and_Sixpence.wiki",
+  "markdown_path": "markdown/Matsushima_Pot_Pompeii_The_Moon_and_Sixpence.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 10086,
+  "ns": 0,
+  "title": "Simbel Fresco+Hevelius Chart",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Simbel_Fresco%2BHevelius_Chart",
+  "touched": "2025-08-11T10:56:00Z",
+  "length": 147,
+  "lastrevid": 37670,
+  "revision": {
+    "revid": 37670,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:37:52Z",
+    "sha1": "67c2b77279dbaa2d51a726389e00e730654a6b25",
+    "size": 147
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "508",
+        "relics": "Simbel Fresco,Hevelius Chart",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Quantum Amp production +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Simbel_Fresco_Hevelius_Chart.wiki",
+  "markdown_path": "markdown/Simbel_Fresco_Hevelius_Chart.md"
+}

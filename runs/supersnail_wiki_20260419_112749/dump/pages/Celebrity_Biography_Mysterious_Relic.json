@@ -1,0 +1,35 @@
+{
+  "pageid": 8293,
+  "ns": 0,
+  "title": "Celebrity Biography+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Celebrity_Biography%2BMysterious_Relic",
+  "touched": "2025-04-21T02:56:50Z",
+  "length": 248,
+  "lastrevid": 34075,
+  "revision": {
+    "revid": 34075,
+    "parentid": 0,
+    "timestamp": "2025-04-21T02:56:50Z",
+    "sha1": "ccfcf59f3bf83e99ef36055908b7e0b999d226f5",
+    "size": 248
+  },
+  "categories": [
+    "Demon Minion HARD Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Celebrity Biography,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 60 T7+ Demon Minions in battle: Troop HARD Stats +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Celebrity_Biography_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Celebrity_Biography_Mysterious_Relic.md"
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 3637,
+  "ns": 0,
+  "title": "Glass Coffin+Chinchorro Mummy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Glass_Coffin%2BChinchorro_Mummy",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 203,
+  "lastrevid": 18454,
+  "revision": {
+    "revid": 18454,
+    "parentid": 17733,
+    "timestamp": "2023-11-14T00:18:58Z",
+    "sha1": "84b6a5e037999301f701b293694d0e0e96e13ad2",
+    "size": 203
+  },
+  "categories": [
+    "DNA",
+    "Mutant Gene Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Glass Coffin,Chinchorro Mummy",
+        "rank": "purple",
+        "amount": "2",
+        "category": "dna",
+        "description": "Mutant Gene Research SPD +3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Glass_Coffin_Chinchorro_Mummy.wiki",
+  "markdown_path": "markdown/Glass_Coffin_Chinchorro_Mummy.md"
+}

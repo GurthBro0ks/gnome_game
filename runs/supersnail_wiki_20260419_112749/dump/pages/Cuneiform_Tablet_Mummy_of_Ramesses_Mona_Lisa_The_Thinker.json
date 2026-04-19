@@ -1,0 +1,34 @@
+{
+  "pageid": 3809,
+  "ns": 0,
+  "title": "Cuneiform Tablet+Mummy of Ramesses+Mona Lisa+The Thinker",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cuneiform_Tablet%2BMummy_of_Ramesses%2BMona_Lisa%2BThe_Thinker",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 230,
+  "lastrevid": 13728,
+  "revision": {
+    "revid": 13728,
+    "parentid": 0,
+    "timestamp": "2023-10-03T07:01:59Z",
+    "sha1": "69337cdb8d174f3acce3ca9ef877db7f285df79d",
+    "size": 230
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Cuneiform Tablet,Mummy of Ramesses,Mona Lisa,The Thinker",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per Realm Conquered, Snail HP +900<br>Realms Conquered: 8/8"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cuneiform_Tablet_Mummy_of_Ramesses_Mona_Lisa_The_Thinker.wiki",
+  "markdown_path": "markdown/Cuneiform_Tablet_Mummy_of_Ramesses_Mona_Lisa_The_Thinker.md"
+}

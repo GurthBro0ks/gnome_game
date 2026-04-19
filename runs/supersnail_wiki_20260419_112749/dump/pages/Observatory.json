@@ -1,0 +1,63 @@
+{
+  "pageid": 1929,
+  "ns": 0,
+  "title": "Observatory",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Observatory",
+  "touched": "2024-09-06T09:57:56Z",
+  "length": 2630,
+  "lastrevid": 18689,
+  "revision": {
+    "revid": 18689,
+    "parentid": 18688,
+    "timestamp": "2023-11-14T14:46:42Z",
+    "sha1": "c35286f492e4d48492cf10e931ef921ca8351c0e",
+    "size": 2630
+  },
+  "categories": [
+    "AFFCT Boost",
+    "ATK Boost",
+    "Cathay Museum Boost",
+    "DEF Boost",
+    "Enhanced by Power",
+    "Enhanced by Relic Points",
+    "Enhanced by Tadpole Pond LVL",
+    "HP Boost",
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "TECH Boost",
+    "TECH Relics",
+    "Tadpole Pond Boost",
+    "Tadpole Pond Skill",
+    "Tadpole Pond Upgrade Cost Reduction"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Observatory",
+        "rank": "A",
+        "affct": "TECH",
+        "birthday": "12-27",
+        "source": "Fragment Crafting (31.5%), Lottery Machine (0.66%), Wishing (2.9%), Fungus Chest (1.5%), Expert Scrolls (7.6%)",
+        "description": "On Dec 27, AD 1092, the first instrument that can be used for astronomical observation, demonstration, and timekeeping was invented. \n\nOn this day, the astronomical clock tower was finally completed after 4 years of construction, headed by Su Song. This tower is 12m high and 7m wide with 3 levels. The armillary sphere on the top level is for observing the movement of the stars, the celestial globe on the second level allows the device to rotate, and clepsydra and clock devices are placed on the  …",
+        "fame": "39",
+        "art": "40",
+        "fth": "30",
+        "civ": "42",
+        "tech": "62",
+        "ss1": "Tadpole Pond upgrade Stone Cost -1%<br>Per 5 Tadpole Pond LVLs, Snail ATK +4<br>Tadpole Pond LVL: 50/50",
+        "ss2": "Tadpole Pond upgrade Stone Cost -2%<br>Per 5 Tadpole Pond LVLs, Snail ATK +8<br>Tadpole Pond LVL: 50/50",
+        "ss3": "Tadpole Pond upgrade Stone Cost -3%<br>Per 5 Tadpole Pond LVLs, Snail ATK +12<br>Tadpole Pond LVL: 50/50",
+        "ss4": "Tadpole Pond upgrade Stone Cost -5%<br>Per 5 Tadpole Pond LVLs, Snail ATK +20<br>Tadpole Pond LVL: 50/50",
+        "ss5": "Tadpole Pond upgrade Stone Cost -7%<br>Per 5 Tadpole Pond LVLs, Snail ATK +28<br>Tadpole Pond LVL: 50/50",
+        "ss7": "Tadpole Pond upgrade Stone Cost -7%<br>Per 5 Tadpole Pond LVLs, Snail ATK +28<br>Tadpole Pond LVL: 50/50<br>Tadpole Pond upgrade Stone Cost -7% (Awakened)",
+        "skill1": "[[File:Cathay skill II.png|50px]] Place in Cathay Museum: Tech Checks -10",
+        "skill2": "[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: This Relic's TECH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Observatory.wiki",
+  "markdown_path": "markdown/Observatory.md"
+}

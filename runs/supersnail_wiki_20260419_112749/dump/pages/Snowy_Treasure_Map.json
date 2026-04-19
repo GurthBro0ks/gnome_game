@@ -1,0 +1,47 @@
+{
+  "pageid": 10386,
+  "ns": 0,
+  "title": "Snowy Treasure Map",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Snowy_Treasure_Map",
+  "touched": "2025-08-11T10:48:59Z",
+  "length": 806,
+  "lastrevid": 38143,
+  "revision": {
+    "revid": 38143,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:48:59Z",
+    "sha1": "e4963d5f9121e043cadea933cfa6e91959196ec7",
+    "size": 806
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Snowy Treasure Map",
+        "class_id": "20934",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "An old treasure map with faint and rough sketches depicting snowy landscapes. Deciphering the map to uncover treasures seems to be an increasingly challenging task...",
+        "fame": "31",
+        "art": "16",
+        "fth": "14",
+        "civ": "15",
+        "tech": "14",
+        "ss1": "Snail RUSH +10<br>Per 30 Time Chests opened, Snail ATK +1<br>Time Chests Opened: 1500/1500",
+        "ss2": "Snail RUSH +20<br>Per 30 Time Chests opened, Snail ATK +2<br>Time Chests Opened: 1500/1500",
+        "ss3": "Snail RUSH +30<br>Per 30 Time Chests opened, Snail ATK +3<br>Time Chests Opened: 1500/1500",
+        "ss4": "Snail RUSH +30<br>Per 30 Time Chests opened, Snail ATK +3<br>Time Chests Opened: 1500/1500",
+        "ss7": "Snail RUSH +30<br>Per 30 Time Chests opened, Snail ATK +3<br>Time Chests Opened: 1500/1500<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Snowy_Treasure_Map.wiki",
+  "markdown_path": "markdown/Snowy_Treasure_Map.md"
+}

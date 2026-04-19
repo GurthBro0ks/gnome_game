@@ -1,0 +1,34 @@
+{
+  "pageid": 3782,
+  "ns": 0,
+  "title": "3-Faced Statue+King Dangun Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/3-Faced_Statue%2BKing_Dangun_Statue",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 193,
+  "lastrevid": 13680,
+  "revision": {
+    "revid": 13680,
+    "parentid": 0,
+    "timestamp": "2023-10-02T09:11:09Z",
+    "sha1": "b5a014e5cba52d3ad769467fc854d31d4dd227aa",
+    "size": 193
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "3-Faced Statue,King Dangun Statue",
+        "rank": "orange",
+        "amount": "2",
+        "category": "other",
+        "description": "When crafting a Blue Reagent, +7% to get +1"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/3-Faced_Statue_King_Dangun_Statue.wiki",
+  "markdown_path": "markdown/3-Faced_Statue_King_Dangun_Statue.md"
+}

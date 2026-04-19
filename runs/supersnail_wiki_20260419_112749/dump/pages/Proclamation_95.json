@@ -1,0 +1,69 @@
+{
+  "pageid": 1649,
+  "ns": 0,
+  "title": "Proclamation 95",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Proclamation_95",
+  "touched": "2024-11-04T01:10:54Z",
+  "length": 2592,
+  "lastrevid": 30095,
+  "revision": {
+    "revid": 30095,
+    "parentid": 28373,
+    "timestamp": "2024-10-15T15:44:54Z",
+    "sha1": "022f7c1b9eb879948074aa5265a9df273727fa0e",
+    "size": 2592
+  },
+  "categories": [
+    "Ad Shop Boost",
+    "Chore Dispatch Speed Boost",
+    "DEF Boost",
+    "Exploration Cell Drop Boost",
+    "FAME Boost",
+    "FAME Relics",
+    "Food Consumed Reduction",
+    "HP Boost",
+    "Lumber Camp Skill",
+    "Murika Exploration Boost",
+    "Murika Museum Boost",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "RUSH Boost",
+    "Relic Boost",
+    "Relics",
+    "Tomb Figure Boost",
+    "Zombie Cell Drop Boost",
+    "Zombie Gene Speedup Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Proclamation 95",
+        "rank": "SS",
+        "affct": "FAME",
+        "birthday": "10-27",
+        "source": "Fragment Crafting (0.61), Lottery Machine (0.24%), Wishing (0.22%), Master Scrolls (0.19%), Grandmaster Scrolls (2.1%), FAME Master Scroll (9.2%)",
+        "description": "On Oct 27, 1862, Lincoln officially issued the Emancipation Proclamation.\n\nBefore the Emancipation Proclamation, many slaves were exploited by slaveholders, which was condoned by the Constitution. During the Civil War, a large number of slaves joined the Union Army, so it became a priority to give these soldiers legal freedom. But worried about internal divisions, Lincoln did not issue a declaration until after the Union Army repelled the Confederates at the Battle of Antioch.",
+        "fame": "105",
+        "art": "62",
+        "fth": "62",
+        "civ": "63",
+        "tech": "55",
+        "ss1": "Chore Dispatch SPD +0.8%<br>Per 3 FAME Relics gained, Snail DEF +8<br>Per 3 FAME Relics gained, Snail RUSH +8<br>FAME Relics: 60/60",
+        "ss2": "Chore Dispatch SPD +1.2%<br>Per 3 FAME Relics gained, Snail DEF +12<br>Per 3 FAME Relics gained, Snail RUSH +12<br>FAME Relics: 60/60",
+        "ss3": "Chore Dispatch SPD +1.6%<br>Per 3 FAME Relics gained, Snail DEF +16<br>Per 3 FAME Relics gained, Snail RUSH +16<br>FAME Relics: 60/60",
+        "ss4": "Chore Dispatch SPD +2.4%<br>Per 3 FAME Relic's Gained, Snail DEF +24<br>Per 3 FAME Relic's Gained, Snail RUSH +24<br>Fame Relics: 60/60",
+        "ss5": "Chore Dispatch SPD +3.2%<br>Per 3 FAME Relics gained, Snail DEF +32<br>Per 3 FAME Relics gained, Snail RUSH +32<br>FAME Relics: 60/60",
+        "ss6": "Chore Dispatch SPD +4.4%<br>Per 3 FAME Relics gained, Snail DEF +44<br>Per 3 FAME Relics gained, Snail RUSH +44<br>FAME Relics: 60/60",
+        "ss7": "Chore Dispatch SPD +4.4%<br>Per 3 FAME Relics gained, Snail DEF +44<br>Per 3 FAME Relics gained, Snail RUSH +44<br>FAME Relics: 60/60<br>Chore Dispatch SPD +4% (Awakened)",
+        "skill1": "[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, food consumed -15%",
+        "skill2": "[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Zombie Cells gained +30%",
+        "skill3": "[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: This Relic's FAME +15",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Proclamation_95.wiki",
+  "markdown_path": "markdown/Proclamation_95.md"
+}

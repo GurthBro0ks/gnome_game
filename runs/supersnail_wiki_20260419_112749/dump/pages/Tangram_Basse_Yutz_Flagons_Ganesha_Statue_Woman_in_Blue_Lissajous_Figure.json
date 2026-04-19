@@ -1,0 +1,35 @@
+{
+  "pageid": 4572,
+  "ns": 0,
+  "title": "Tangram+Basse Yutz Flagons+Ganesha Statue+Woman in Blue+Lissajous Figure",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tangram%2BBasse_Yutz_Flagons%2BGanesha_Statue%2BWoman_in_Blue%2BLissajous_Figure",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 259,
+  "lastrevid": 18436,
+  "revision": {
+    "revid": 18436,
+    "parentid": 16703,
+    "timestamp": "2023-11-13T21:47:28Z",
+    "sha1": "71c2e8d3e755f885c74ab07c33bc15c88c0e78d0",
+    "size": 259
+  },
+  "categories": [
+    "Minion",
+    "Minion RUSH Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Tangram,Basse Yutz Flagons,Ganesha Statue,Woman in Blue,Lissajous Figure",
+        "rank": "blue",
+        "amount": "5",
+        "category": "minion",
+        "description": "Per 10 Minions in battle: Troop RUSH +8"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tangram_Basse_Yutz_Flagons_Ganesha_Statue_Woman_in_Blue_Lissajous_Figure.wiki",
+  "markdown_path": "markdown/Tangram_Basse_Yutz_Flagons_Ganesha_Statue_Woman_in_Blue_Lissajous_Figure.md"
+}

@@ -1,0 +1,51 @@
+{
+  "pageid": 6089,
+  "ns": 0,
+  "title": "Time Beacon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Time_Beacon",
+  "touched": "2025-10-09T22:02:31Z",
+  "length": 380960,
+  "lastrevid": 40996,
+  "revision": {
+    "revid": 40996,
+    "parentid": 40995,
+    "timestamp": "2025-10-09T22:02:31Z",
+    "sha1": "3311637186b1626667a5358796e3edcfae1f6cdd",
+    "size": 380960
+  },
+  "categories": [
+    "Pages using Tabber parser tag",
+    "Pages with broken file links",
+    "Spoiler Content",
+    "Works in Progress"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Heaven Wings"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Blasphemy Eye"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Time_Beacon.wiki",
+  "markdown_path": "markdown/Time_Beacon.md"
+}

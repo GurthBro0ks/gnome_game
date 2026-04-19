@@ -1,0 +1,35 @@
+{
+  "pageid": 8357,
+  "ns": 0,
+  "title": "Remains of Sipán Lord+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Remains_of_Sip%C3%A1n_Lord%2BMysterious_Relic",
+  "touched": "2025-04-22T03:54:06Z",
+  "length": 251,
+  "lastrevid": 34168,
+  "revision": {
+    "revid": 34168,
+    "parentid": 0,
+    "timestamp": "2025-04-22T03:54:06Z",
+    "sha1": "42dd3fb7a0946dec848048e28395ac202bee8e99",
+    "size": 251
+  },
+  "categories": [
+    "Mecha Minion HARD Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Remains of Sipán Lord,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 60 T7+ Mecha Minions in battle: Troop HARD Stats +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Remains_of_Sip_n_Lord_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Remains_of_Sip_n_Lord_Mysterious_Relic.md"
+}

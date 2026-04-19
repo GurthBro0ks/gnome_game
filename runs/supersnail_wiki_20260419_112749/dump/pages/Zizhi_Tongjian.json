@@ -1,0 +1,54 @@
+{
+  "pageid": 9974,
+  "ns": 0,
+  "title": "Zizhi Tongjian",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Zizhi_Tongjian",
+  "touched": "2025-08-11T10:33:35Z",
+  "length": 2448,
+  "lastrevid": 37478,
+  "revision": {
+    "revid": 37478,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:33:35Z",
+    "sha1": "606baaf6509e489f84a558d1653af6694281c718",
+    "size": 2448
+  },
+  "categories": [
+    "FAME Relics",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Zizhi Tongjian",
+        "class_id": "22629",
+        "rank": "SSS",
+        "affct": "FAME",
+        "birthday": "08-03",
+        "description": "On Aug 3, 959 AD, Sima Guang completed the compilation of the \"Zizhi Tongjian.\"<br>\"Zizhi Tongjian\" is a work of Chinese history completed by the Northern Song historian Sima Guang over a period of 19 years. Its content spans nearly 300 volumes and covers 1,300 years of history from 16 different dynasties. Sima Guang drew on examples from the book to summarize a large amount of experience and lessons for future generations to reference. In this work, Sima Guang also integrated the characteristic …",
+        "fame": "108",
+        "art": "63",
+        "fth": "51",
+        "civ": "73",
+        "tech": "67",
+        "ss1": "Snail Leadership +3<br>All Minion DEF +0.6%<br>Per 60 Minions in battle:<br>> Troop DEF +9",
+        "ss2": "Snail Leadership +4<br>All Minion DEF +0.8%<br>Per 60 Minions in battle:<br>> Troop DEF +18",
+        "ss3": "Snail Leadership +5<br>All Minion DEF +1%<br>Per 60 Minions in battle:<br>> Troop DEF +27",
+        "ss4": "Snail Leadership +7<br>All Minion DEF +1.4%<br>Per 60 Minions in battle:<br>> Troop DEF +45",
+        "ss5": "Snail Leadership +9<br>All Minion DEF +1.8%<br>Per 60 Minions in battle:<br>> Troop DEF +63",
+        "ss6": "Snail Leadership +12<br>All Minion DEF +2.4%<br>Per 60 Minions in battle:<br>> Troop DEF +90",
+        "ss7": "Snail Leadership +12<br>All Minion DEF +2.4%<br>Per 60 Minions in battle:<br>> Troop DEF +90<br>Per 60 Minions in battle:<br>> Troop DEF +90 (Awakened)",
+        "skill1": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Dragon Orb Drops +3%",
+        "skill2": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Card Drops +6%",
+        "skill3": "[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15",
+        "mirage": "{{Mirage|name=Chronicle the event|reward={{RewardIconWithLink|Research Briefcase, +2|orange}}\n|3name=Officer Liu|3rec=92.66M|3atk=298349|3defense=174255|3hp=23070327|3weak=38309\n|4name=Historian Liu|4rec=102.65M|4atk=320709|4defense=188319|4hp=27420226|4weak=40232\n|5name=Historian Sima|5rec=114.62M|5atk=346871|5defense=205158|5hp=34202503|5weak=43042\n|6name=Emperor Shenzong of Song|6rec=129.38M|6atk=378612|6defense=225924|6hp=43577934|6weak=46345\n|Arec=148.63M|Aatk=421889|Adefense=253009|Ahp=595 …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Zizhi_Tongjian.wiki",
+  "markdown_path": "markdown/Zizhi_Tongjian.md"
+}

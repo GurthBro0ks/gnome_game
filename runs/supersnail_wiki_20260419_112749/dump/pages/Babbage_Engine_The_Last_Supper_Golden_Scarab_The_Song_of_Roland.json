@@ -1,0 +1,33 @@
+{
+  "pageid": 3812,
+  "ns": 0,
+  "title": "Babbage Engine+The Last Supper+Golden Scarab+The Song of Roland",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Babbage_Engine%2BThe_Last_Supper%2BGolden_Scarab%2BThe_Song_of_Roland",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 244,
+  "lastrevid": 13731,
+  "revision": {
+    "revid": 13731,
+    "parentid": 0,
+    "timestamp": "2023-10-03T07:41:31Z",
+    "sha1": "4875abdd20a491a2861dae1af39d3d0d87cd519c",
+    "size": 244
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Babbage Engine,The Last Supper,Golden Scarab,The Song of Roland",
+        "rank": "orange",
+        "category": "self",
+        "description": "Per Organ transplanted, Snail ATK +18<br>Organs Transplanted: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Babbage_Engine_The_Last_Supper_Golden_Scarab_The_Song_of_Roland.wiki",
+  "markdown_path": "markdown/Babbage_Engine_The_Last_Supper_Golden_Scarab_The_Song_of_Roland.md"
+}

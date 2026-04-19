@@ -1,0 +1,33 @@
+{
+  "pageid": 4718,
+  "ns": 0,
+  "title": "The Moon and Sixpence+Sowei Mask",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Moon_and_Sixpence%2BSowei_Mask",
+  "touched": "2025-06-20T00:00:34Z",
+  "length": 163,
+  "lastrevid": 35753,
+  "revision": {
+    "revid": 35753,
+    "parentid": 18628,
+    "timestamp": "2025-06-20T00:00:34Z",
+    "sha1": "e8cc4264d5d0e67c96e6c199fcedd21252303608",
+    "size": 163
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "338",
+        "relics": "The Moon and Sixpence,Sowei Mask",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Orange+ Gear equipped, Snail ATK +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Moon_and_Sixpence_Sowei_Mask.wiki",
+  "markdown_path": "markdown/The_Moon_and_Sixpence_Sowei_Mask.md"
+}

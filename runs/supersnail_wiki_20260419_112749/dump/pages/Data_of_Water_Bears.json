@@ -1,0 +1,47 @@
+{
+  "pageid": 10426,
+  "ns": 0,
+  "title": "Data of Water Bears",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Data_of_Water_Bears",
+  "touched": "2025-08-11T10:50:08Z",
+  "length": 1014,
+  "lastrevid": 38197,
+  "revision": {
+    "revid": 38197,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:50:08Z",
+    "sha1": "228ec145b7eb53ebb2e5b7b89bf4195218481fde",
+    "size": 1014
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Data of Water Bears",
+        "class_id": "20396",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The data of the water bear comprehensively documents the genetic coding from low-ranking to high-ranking water bears. Their appearance is smooth and lustrous like jade, with an outer layer that envelops them in nanoscale shields resembling glistening water droplets. They can sense and absorb external energy attacks, converting them into their own barriers.",
+        "fame": "17",
+        "art": "13",
+        "fth": "11",
+        "civ": "18",
+        "tech": "31",
+        "ss1": "Minion MAX +10<br>Per Species Map entry completed, Snail DEF +1<br>Species Map Entries: 60/60",
+        "ss2": "Minion MAX +15<br>Per Species Map entry completed, Snail DEF +2<br>Species Map Entries: 60/60",
+        "ss3": "Minion MAX +20<br>Per Species Map entry completed, Snail DEF +3<br>Species Map Entries: 60/60",
+        "ss4": "Minion MAX +20<br>Per Species Map entry completed, Snail DEF +3<br>Species Map Entries: 60/60",
+        "ss7": "Minion MAX +20<br>Per Species Map entry completed, Snail DEF +3<br>Species Map Entries: 60/60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Data_of_Water_Bears.wiki",
+  "markdown_path": "markdown/Data_of_Water_Bears.md"
+}

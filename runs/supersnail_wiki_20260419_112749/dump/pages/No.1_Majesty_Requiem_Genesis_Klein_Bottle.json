@@ -1,0 +1,34 @@
+{
+  "pageid": 3329,
+  "ns": 0,
+  "title": "No.1 Majesty+Requiem+Genesis+Klein Bottle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/No.1_Majesty%2BRequiem%2BGenesis%2BKlein_Bottle",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 177,
+  "lastrevid": 12067,
+  "revision": {
+    "revid": 12067,
+    "parentid": 0,
+    "timestamp": "2023-09-13T09:02:54Z",
+    "sha1": "d52e1a53136f3d6ab26e86b3cf2d543b351c69e5",
+    "size": 177
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "No.1 Majesty,Requiem,Genesis,Klein Bottle",
+        "rank": "blue",
+        "amount": "4",
+        "category": "home",
+        "description": "Fungus Farm Output +14%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/No.1_Majesty_Requiem_Genesis_Klein_Bottle.wiki",
+  "markdown_path": "markdown/No.1_Majesty_Requiem_Genesis_Klein_Bottle.md"
+}

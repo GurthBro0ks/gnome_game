@@ -1,0 +1,33 @@
+{
+  "pageid": 6106,
+  "ns": 0,
+  "title": "Atenism+Manhattan Project",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Atenism%2BManhattan_Project",
+  "touched": "2025-08-11T11:06:26Z",
+  "length": 137,
+  "lastrevid": 38904,
+  "revision": {
+    "revid": 38904,
+    "parentid": 23310,
+    "timestamp": "2025-08-11T11:06:26Z",
+    "sha1": "3ede2229d84b41d802b35b2436f7ba4208e552ac",
+    "size": 137
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "840",
+        "relics": "Atenism,Manhattan Project",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Atenism_Manhattan_Project.wiki",
+  "markdown_path": "markdown/Atenism_Manhattan_Project.md"
+}

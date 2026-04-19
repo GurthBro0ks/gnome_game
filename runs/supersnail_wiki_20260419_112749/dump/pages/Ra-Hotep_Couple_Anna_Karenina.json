@@ -1,0 +1,33 @@
+{
+  "pageid": 6625,
+  "ns": 0,
+  "title": "Ra-Hotep Couple+Anna Karenina",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ra-Hotep_Couple%2BAnna_Karenina",
+  "touched": "2025-07-02T09:41:59Z",
+  "length": 213,
+  "lastrevid": 37029,
+  "revision": {
+    "revid": 37029,
+    "parentid": 27073,
+    "timestamp": "2025-07-02T09:41:59Z",
+    "sha1": "7a98503788e56476a1752ada0f8200528c39b2cf",
+    "size": 213
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "869",
+        "relics": "Ra-Hotep Couple,Anna Karenina",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "For every 3 levels of Base Station cleared, Snail ATK +7;Base Station LVLs Cleared: 150/150"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ra-Hotep_Couple_Anna_Karenina.wiki",
+  "markdown_path": "markdown/Ra-Hotep_Couple_Anna_Karenina.md"
+}

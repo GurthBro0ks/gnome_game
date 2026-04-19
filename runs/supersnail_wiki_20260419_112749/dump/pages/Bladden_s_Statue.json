@@ -1,0 +1,49 @@
+{
+  "pageid": 10262,
+  "ns": 0,
+  "title": "Bladden's Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bladden%27s_Statue",
+  "touched": "2025-09-30T22:48:23Z",
+  "length": 865,
+  "lastrevid": 40418,
+  "revision": {
+    "revid": 40418,
+    "parentid": 40407,
+    "timestamp": "2025-09-30T22:48:23Z",
+    "sha1": "ea917bb31b58ee760841a30597852735e3f7f6d2",
+    "size": 865
+  },
+  "categories": [
+    "DEF Boost",
+    "Demon God Boost",
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Leadership Boost",
+    "Missing Info",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bladden's Statue",
+        "class_id": "20299",
+        "rank": "Green",
+        "affct": "FTH",
+        "description": "Upon learning of Bladden's demise, Earth's Will had statues crafted in the likeness of his head. These were made to commemorate the historic moment of triumph over a formidable foe and to be bestowed upon distinguished Travelers, allowing them to share in the joy of victory!",
+        "fame": "16",
+        "art": "13",
+        "fth": "31",
+        "civ": "16",
+        "tech": "14",
+        "ss1": "Snail Leadership +1<br>Per Demon God Sculpture owned, Snail DEF +50<br>Demon God Sculptures Owned: 8/8",
+        "ss2": "Snail Leadership +2<br>Per Demon God Sculpture owned, Snail DEF +100<br>Demon God Sculptures Owned: 8/8",
+        "ss3": "Snail Leadership +3<br>Per Demon God Sculpture owned, Snail DEF +150<br>Demon God Sculptures Owned: 8/8"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bladden_s_Statue.wiki",
+  "markdown_path": "markdown/Bladden_s_Statue.md"
+}

@@ -1,0 +1,62 @@
+{
+  "pageid": 5943,
+  "ns": 0,
+  "title": "Bharata Key Clues",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bharata_Key_Clues",
+  "touched": "2025-10-04T09:47:10Z",
+  "length": 12907,
+  "lastrevid": 32406,
+  "revision": {
+    "revid": 32406,
+    "parentid": 31737,
+    "timestamp": "2024-12-22T12:17:21Z",
+    "sha1": "372776ebcf3dd0073267a0a7d721c91f403d83ca",
+    "size": 12907
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "green",
+        "2": "realm",
+        "3": "Legion Javelins"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "blue",
+        "2": "realm",
+        "3": "Kukri"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "purple",
+        "2": "realm",
+        "3": "Mughal Scimitar"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "orange",
+        "2": "realm",
+        "3": "Ashoka's Sword"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "red",
+        "2": "realm",
+        "3": "Rama Greataxe"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bharata_Key_Clues.wiki",
+  "markdown_path": "markdown/Bharata_Key_Clues.md"
+}

@@ -1,0 +1,34 @@
+{
+  "pageid": 3278,
+  "ns": 0,
+  "title": "Seismograph+Musician Figure",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Seismograph%2BMusician_Figure",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 207,
+  "lastrevid": 11947,
+  "revision": {
+    "revid": 11947,
+    "parentid": 0,
+    "timestamp": "2023-09-12T16:05:22Z",
+    "sha1": "162155e360c9547e913d9a5bd8be68ccdce7ac94",
+    "size": 207
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Seismograph,Musician Figure",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 20 Blue Beads drawn, Snail HP +100<br>Blue Beads Drawn: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Seismograph_Musician_Figure.wiki",
+  "markdown_path": "markdown/Seismograph_Musician_Figure.md"
+}

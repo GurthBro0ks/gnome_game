@@ -1,0 +1,26 @@
+{
+  "pageid": 1977,
+  "ns": 0,
+  "title": "Museum",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Museum",
+  "touched": "2025-10-19T09:01:05Z",
+  "length": 20024,
+  "lastrevid": 41493,
+  "revision": {
+    "revid": 41493,
+    "parentid": 41492,
+    "timestamp": "2025-10-19T09:01:05Z",
+    "sha1": "9dd48622711894fb9726eec8d01b3ce5112461eb",
+    "size": 20024
+  },
+  "categories": [
+    "Missing Info",
+    "Museum",
+    "Pages using Tabber parser tag",
+    "Pages with broken file links"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Museum.wiki",
+  "markdown_path": "markdown/Museum.md"
+}

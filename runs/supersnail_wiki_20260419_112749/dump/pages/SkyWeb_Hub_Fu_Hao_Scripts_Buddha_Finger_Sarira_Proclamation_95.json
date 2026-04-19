@@ -1,0 +1,34 @@
+{
+  "pageid": 3816,
+  "ns": 0,
+  "title": "SkyWeb Hub+Fu Hao Scripts+Buddha Finger Sarira+Proclamation 95",
+  "fullurl": "https://supersnail.wiki.gg/wiki/SkyWeb_Hub%2BFu_Hao_Scripts%2BBuddha_Finger_Sarira%2BProclamation_95",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 205,
+  "lastrevid": 13736,
+  "revision": {
+    "revid": 13736,
+    "parentid": 0,
+    "timestamp": "2023-10-03T07:54:11Z",
+    "sha1": "cf5181125f60156f443581b842cb5fde3d1df14d",
+    "size": 205
+  },
+  "categories": [
+    "DNA"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "SkyWeb Hub,Fu Hao Scripts,Buddha Finger Sarira,Proclamation 95",
+        "rank": "orange",
+        "amount": "4",
+        "category": "dna",
+        "description": "Zombie Gene Research SPD +5.4%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/SkyWeb_Hub_Fu_Hao_Scripts_Buddha_Finger_Sarira_Proclamation_95.wiki",
+  "markdown_path": "markdown/SkyWeb_Hub_Fu_Hao_Scripts_Buddha_Finger_Sarira_Proclamation_95.md"
+}

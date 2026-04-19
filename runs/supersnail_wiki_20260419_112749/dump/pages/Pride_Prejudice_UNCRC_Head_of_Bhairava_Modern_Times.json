@@ -1,0 +1,33 @@
+{
+  "pageid": 8945,
+  "ns": 0,
+  "title": "Pride & Prejudice+UNCRC+Head of Bhairava+Modern Times",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pride_%26_Prejudice%2BUNCRC%2BHead_of_Bhairava%2BModern_Times",
+  "touched": "2025-08-11T10:38:06Z",
+  "length": 205,
+  "lastrevid": 35957,
+  "revision": {
+    "revid": 35957,
+    "parentid": 35180,
+    "timestamp": "2025-06-20T00:12:20Z",
+    "sha1": "d1b231eef6c9541bbece6c06aed379374161d4a5",
+    "size": 205
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "548",
+        "relics": "Pride & Prejudice,UNCRC,Head of Bhairava,Modern Times",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 20 CIV Wishes made, Snail ATK +9;Wishes Made: 1000/1000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pride_Prejudice_UNCRC_Head_of_Bhairava_Modern_Times.wiki",
+  "markdown_path": "markdown/Pride_Prejudice_UNCRC_Head_of_Bhairava_Modern_Times.md"
+}

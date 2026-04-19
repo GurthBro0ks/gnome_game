@@ -1,0 +1,34 @@
+{
+  "pageid": 3723,
+  "ns": 0,
+  "title": "On War+Lotus Chalice",
+  "fullurl": "https://supersnail.wiki.gg/wiki/On_War%2BLotus_Chalice",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 194,
+  "lastrevid": 13621,
+  "revision": {
+    "revid": 13621,
+    "parentid": 0,
+    "timestamp": "2023-10-01T08:58:16Z",
+    "sha1": "b28caae15db8fe8b59097d6a9c525200425d4de1",
+    "size": 194
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "On War,Lotus Chalice",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Realm conquered, Snail ATK +70<br>Realms Conquered: 8/8"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/On_War_Lotus_Chalice.wiki",
+  "markdown_path": "markdown/On_War_Lotus_Chalice.md"
+}

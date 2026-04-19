@@ -1,0 +1,33 @@
+{
+  "pageid": 4970,
+  "ns": 0,
+  "title": "Jane Eyre+The Milkmaid+Theory of Population",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jane_Eyre%2BThe_Milkmaid%2BTheory_of_Population",
+  "touched": "2025-06-19T23:54:56Z",
+  "length": 197,
+  "lastrevid": 35698,
+  "revision": {
+    "revid": 35698,
+    "parentid": 18547,
+    "timestamp": "2025-06-19T23:54:56Z",
+    "sha1": "26b3357ccf8223e047009c11c154b4c7a8e108cd",
+    "size": 197
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "430",
+        "relics": "Jane Eyre,The Milkmaid,Theory of Population",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 50 Minions cloned, Snail HP +70;Minions Cloned: 2000/2000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jane_Eyre_The_Milkmaid_Theory_of_Population.wiki",
+  "markdown_path": "markdown/Jane_Eyre_The_Milkmaid_Theory_of_Population.md"
+}

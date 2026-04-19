@@ -1,0 +1,47 @@
+{
+  "pageid": 849,
+  "ns": 0,
+  "title": "Fireflower",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fireflower",
+  "touched": "2025-08-11T10:41:33Z",
+  "length": 762,
+  "lastrevid": 37820,
+  "revision": {
+    "revid": 37820,
+    "parentid": 11532,
+    "timestamp": "2025-08-11T10:41:33Z",
+    "sha1": "24e7d1d0794b9ba62c3aee93a5e62b8a37fdd922",
+    "size": 762
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Fireflower",
+        "class_id": "20013",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "When digging in the Fissure, the snail encountered a grumpy plumber. He jumped right up and tried to stomp on the snail's shell without a word! After teaching him a fatal lesson, the snail found a fire flower on his body, which he seemed to have taken great care of.",
+        "fame": "13",
+        "art": "28",
+        "fth": "18",
+        "civ": "18",
+        "tech": "13",
+        "ss1": "Per 30 Fissure Floors, Snail HP +10<br>Fissure Floor: 1200/1200",
+        "ss2": "Per 30 Fissure Floors, Snail HP +20<br>Fissure Floor: 1200/1200",
+        "ss3": "Per 30 Fissure Floors, Snail HP +30<br>Fissure Floor: 1200/1200",
+        "ss4": "Per 30 Fissure Floors, Snail HP +30<br>Fissure Floor: 1200/1200",
+        "ss7": "Per 30 Fissure Floors, Snail HP +30<br>Fissure Floor: 1200/1200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fireflower.wiki",
+  "markdown_path": "markdown/Fireflower.md"
+}

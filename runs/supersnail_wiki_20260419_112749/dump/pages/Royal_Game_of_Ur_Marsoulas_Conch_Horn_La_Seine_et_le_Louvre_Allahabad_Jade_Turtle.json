@@ -1,0 +1,33 @@
+{
+  "pageid": 8503,
+  "ns": 0,
+  "title": "Royal Game of Ur+Marsoulas Conch Horn+La Seine et le Louvre+Allahabad Jade Turtle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Royal_Game_of_Ur%2BMarsoulas_Conch_Horn%2BLa_Seine_et_le_Louvre%2BAllahabad_Jade_Turtle",
+  "touched": "2025-06-20T00:13:43Z",
+  "length": 283,
+  "lastrevid": 35995,
+  "revision": {
+    "revid": 35995,
+    "parentid": 34387,
+    "timestamp": "2025-06-20T00:13:43Z",
+    "sha1": "d8c9722b0acd99a84d3f7611c101ca446f34570e",
+    "size": 283
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "643",
+        "relics": "Royal Game of Ur,Marsoulas Conch Horn,La Seine et le Louvre,Allahabad Jade Turtle",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +56;Prairie Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Royal_Game_of_Ur_Marsoulas_Conch_Horn_La_Seine_et_le_Louvre_Allahabad_Jade_Turtle.wiki",
+  "markdown_path": "markdown/Royal_Game_of_Ur_Marsoulas_Conch_Horn_La_Seine_et_le_Louvre_Allahabad_Jade_Turtle.md"
+}

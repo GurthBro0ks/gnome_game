@@ -1,0 +1,56 @@
+{
+  "pageid": 4212,
+  "ns": 0,
+  "title": "Capitoline Wolf",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Capitoline_Wolf",
+  "touched": "2025-08-11T10:57:21Z",
+  "length": 2670,
+  "lastrevid": 34943,
+  "revision": {
+    "revid": 34943,
+    "parentid": 29949,
+    "timestamp": "2025-06-16T23:10:34Z",
+    "sha1": "2c27884248c26e9ecff46ff81a350d477e65d1c1",
+    "size": 2670
+  },
+  "categories": [
+    "ART Relics",
+    "Orange ART Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Capitoline Wolf",
+        "class_id": "22250",
+        "rank": "SSS",
+        "affct": "ART",
+        "birthday": "04-21",
+        "source": "Lottery Machine No.2 (0.11%), Wishing (0.41%)",
+        "description": "On Apr 21, 753 BC, the Romans cast the Capitoline Wolf in honor of their founding father.<br>The Capitoline Wolf portrays characters from the mythical tale of Romulus and Remus. The twins were sons of Mars, the god of war, and Rhea Silvia, daughter of King Numitor of Alba Longa. King Numitor was overthrown by his brother, Amulius, who then ordered Romulus and Remus to be cast into the Tiber River. They were rescued by a she-wolf who cared for them until a herdsman found and raised them. Later, w …",
+        "fame": "61",
+        "art": "108",
+        "fth": "64",
+        "civ": "74",
+        "tech": "55",
+        "ss1": "Snail Leadership +3<br>Per 60 Demon Minions in battle:<br>> Troop HP +270<br>Per 60 Demon Minions in battle:<br>> Troop ATK +27",
+        "ss2": "Snail Leadership +4<br>Per 60 Demon Minions in battle:<br>> Troop HP +360<br>Per 60 Demon Minions in battle:<br>> Troop ATK +36",
+        "ss3": "Snail Leadership +5<br>Per 60 Demon Minions in battle:<br>> Troop HP +450<br>Per 60 Demon Minions in battle:<br>> Troop ATK +45",
+        "ss4": "Snail Leadership +7<br>Per 60 Demon Minions in battle:<br>> Troop HP +630<br>Per 60 Demon Minions in battle:<br>> Troop ATK +63",
+        "ss5": "Snail Leadership +9<br>Per 60 Demon Minions in battle:<br>> Troop HP +810<br>Per 60 Demon Minions in battle:<br>> Troop ATK +81",
+        "ss6": "Snail Leadership +12<br>Per 60 Demon Minions in battle:<br>> Troop HP +1080<br>Per 60 Demon Minions in battle:<br>> Troop ATK +108",
+        "ss7": "Snail Leadership +12<br>Per 60 Demon Minions in battle:<br>> Troop HP +1080<br>Per 60 Demon Minions in battle:<br>> Troop ATK +108<br>Snail Leadership +5 (Awakened)",
+        "skill1": "[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion HP +9%",
+        "skill2": "[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion RUSH +9%",
+        "skill3": "[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's ART +15",
+        "mirage": "{{Mirage|name=The building of Rome|reward={{RewardIconWithLink|Golden Eyelashes Sample, +3|orange}}\n|3name=Sylvia|3rec=13.38M|3atk=95240|3defense=63539|3hp=2688257|3weak=16574\n|4name=Numitore|4rec=23.32M|4atk=114981|4defense=76708|4hp=3814292|4weak=18302\n|5name=Remus|5rec=33.75M|5atk=136969|5defense=91378|5hp=5304124|5weak=19314\n|6name=Romulus|6rec=45.47M|6atk=161688|6defense=107868|6hp=7227639|6weak=20879\n|Arec=58.75M|Aatk=189699|Adefense=126556|Ahp=9536107|Aweak=23471\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Capitoline_Wolf.wiki",
+  "markdown_path": "markdown/Capitoline_Wolf.md"
+}

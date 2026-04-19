@@ -1,0 +1,59 @@
+{
+  "pageid": 2189,
+  "ns": 0,
+  "title": "Nuclear Football",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nuclear_Football",
+  "touched": "2024-09-06T09:58:24Z",
+  "length": 2438,
+  "lastrevid": 19165,
+  "revision": {
+    "revid": 19165,
+    "parentid": 18239,
+    "timestamp": "2023-11-16T23:24:07Z",
+    "sha1": "18aabf7a84616e3f7626e9e20ffefd38ff74d4e7",
+    "size": 2438
+  },
+  "categories": [
+    "Ancient Wood Boost",
+    "DEF Boost",
+    "Enhanced by Realms Conquered",
+    "Exploration Card Drop Boost",
+    "Exploration Compass Boost",
+    "Exploration Reagent Drop Boost",
+    "Purple Relics",
+    "Purple TECH Relics",
+    "RUSH Boost",
+    "Realm Boost",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Nuclear Football",
+        "rank": "AAA",
+        "affct": "TECH",
+        "birthday": "05-09",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)",
+        "description": "On May 9, 1980, the American President carried this suitcase for the first time. It was to ensure the country's nuclear safety.\n\nThis suitcase of the American President is 10 cm thick and weighs 10 kg. It is equipped with shockproof and anti-interference capabilities, as well as an auto-protection device and a strong password lock. It can only be opened by those who know the password. When the president travels within the country or abroad, a special bodyguard can be seen carrying this suitcase. …",
+        "fame": "50",
+        "art": "34",
+        "fth": "37",
+        "civ": "49",
+        "tech": "73",
+        "ss1": "Per Realm conquered, Snail DEF +30<br>Per Realm conquered, Snail RUSH +30<br>Realms Conquered: 8/8",
+        "ss2": "Per Realm conquered, Snail DEF +40<br>Per Realm conquered, Snail RUSH +40<br>Realms Conquered: 8/8",
+        "ss3": "Per Realm conquered, Snail DEF +50<br>Per Realm conquered, Snail RUSH +50<br>Realms Conquered: 8/8",
+        "ss4": "Per Realm conquered, Snail DEF +70<br>Per Realm conquered, Snail RUSH +70<br>Realms Conquered: 8/8",
+        "ss5": "Per Realm conquered, Snail DEF +90<br>Per Realm conquered, Snail RUSH +90<br>Realms Conquered: 8/8",
+        "ss7": "Per Realm conquered, Snail DEF +90<br>Per Realm conquered, Snail RUSH +90<br>Realms Conquered: 8/8<br>Snail RUSH +70 (Awakened)",
+        "skill1": "[[File:Compass skill II.png|50px]] Place in Exploration Compass: In explorations, 2x White Card Drops +7.5%",
+        "skill2": "[[File:Compass skill II.png|50px]] Place in Exploration Compass: In explorations, 2x Green Card Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nuclear_Football.wiki",
+  "markdown_path": "markdown/Nuclear_Football.md"
+}

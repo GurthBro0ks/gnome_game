@@ -1,0 +1,47 @@
+{
+  "pageid": 9936,
+  "ns": 0,
+  "title": "Cat Membership Card",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cat_Membership_Card",
+  "touched": "2025-08-11T10:32:11Z",
+  "length": 874,
+  "lastrevid": 37417,
+  "revision": {
+    "revid": 37417,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:32:11Z",
+    "sha1": "bc068ef957c4f3c924c3087d2ed8b775a93c994b",
+    "size": 874
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Cat Membership Card",
+        "class_id": "20972",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Customized Cat Membership Cards for all vending machine users launched by CyberVendor Catrobot. Comply with Article 1856 of the CyberVendor War Law: It is prohibited to provide illegal discounts and promotions to customers!",
+        "fame": "32",
+        "art": "12",
+        "fth": "17",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Snail HP +200<br>Per Premium Cat Food bought, Snail ATK +1<br>Premium Cat Food Bought: 20/20",
+        "ss2": "Snail HP +400<br>Per Premium Cat Food bought, Snail ATK +2<br>Premium Cat Food Bought: 20/20",
+        "ss3": "Snail HP +600<br>Per Premium Cat Food bought, Snail ATK +3<br>Premium Cat Food Bought: 20/20",
+        "ss4": "Snail HP +600<br>Per Premium Cat Food bought, Snail ATK +3<br>Premium Cat Food Bought: 20/20",
+        "ss7": "Snail HP +600<br>Per Premium Cat Food bought, Snail ATK +3<br>Premium Cat Food Bought: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cat_Membership_Card.wiki",
+  "markdown_path": "markdown/Cat_Membership_Card.md"
+}

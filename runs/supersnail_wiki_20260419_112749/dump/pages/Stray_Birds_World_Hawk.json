@@ -1,0 +1,33 @@
+{
+  "pageid": 4204,
+  "ns": 0,
+  "title": "Stray Birds+World Hawk",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Stray_Birds%2BWorld_Hawk",
+  "touched": "2025-08-11T10:39:52Z",
+  "length": 173,
+  "lastrevid": 37749,
+  "revision": {
+    "revid": 37749,
+    "parentid": 31656,
+    "timestamp": "2025-08-11T10:39:52Z",
+    "sha1": "b34add1a8f48c2568b8824eef9c6e106c0194ed4",
+    "size": 173
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "567",
+        "relics": "Stray Birds,World Hawk",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 40 Eggs hatched, Snail ATK +7;Eggs hatched: 1600/1600"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Stray_Birds_World_Hawk.wiki",
+  "markdown_path": "markdown/Stray_Birds_World_Hawk.md"
+}

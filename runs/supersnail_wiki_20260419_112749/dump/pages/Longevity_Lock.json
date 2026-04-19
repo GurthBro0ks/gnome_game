@@ -1,0 +1,47 @@
+{
+  "pageid": 11187,
+  "ns": 0,
+  "title": "Longevity Lock",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Longevity_Lock",
+  "touched": "2025-08-11T11:15:36Z",
+  "length": 940,
+  "lastrevid": 39298,
+  "revision": {
+    "revid": 39298,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:15:36Z",
+    "sha1": "54f0c59d769455e643ced8f43650bc523577ee9f",
+    "size": 940
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Longevity Lock",
+        "class_id": "20287",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "After Lord Erlang suppressed Saint Mother, he gave this Longevity Lock to Chenxiang, hoping to keep him by his side. However, whether he genuinely wanted to take care of his nephew or intended to use Chenxiang to threaten Saint Mother, no one knew.",
+        "fame": "13",
+        "art": "17",
+        "fth": "33",
+        "civ": "15",
+        "tech": "12",
+        "ss1": "Per 10 HP-Fungi eaten, Snail HP +10<br>Per 10 HP-Fungi eaten, Snail ATK +1<br>HP-Fungi Eaten: 500/500",
+        "ss2": "Per 10 HP-Fungi eaten, Snail HP +20<br>Per 10 HP-Fungi eaten, Snail ATK +2<br>HP-Fungi Eaten: 500/500",
+        "ss3": "Per 10 HP-Fungi eaten, Snail HP +30<br>Per 10 HP-Fungi eaten, Snail ATK +3<br>HP-Fungi Eaten: 500/500",
+        "ss4": "Per 10 HP-Fungi eaten, Snail HP +30<br>Per 10 HP-Fungi eaten, Snail ATK +3<br>HP-Fungi Eaten: 500/500",
+        "ss7": "Per 10 HP-Fungi eaten, Snail HP +30<br>Per 10 HP-Fungi eaten, Snail ATK +3<br>HP-Fungi Eaten: 500/500<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Longevity_Lock.wiki",
+  "markdown_path": "markdown/Longevity_Lock.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4982,
+  "ns": 0,
+  "title": "View of Le Gras+The Moon Puzzle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/View_of_Le_Gras%2BThe_Moon_Puzzle",
+  "touched": "2025-06-20T00:00:48Z",
+  "length": 203,
+  "lastrevid": 35763,
+  "revision": {
+    "revid": 35763,
+    "parentid": 18634,
+    "timestamp": "2025-06-20T00:00:48Z",
+    "sha1": "913a9d8d8bab88de4c35a27a45a990544f7103ad",
+    "size": 203
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "376",
+        "relics": "View of Le Gras,The Moon Puzzle",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 30 Wormhole Refiners opened, Snail ATK +6;1500/1500 Wormhole Refiner opened"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/View_of_Le_Gras_The_Moon_Puzzle.wiki",
+  "markdown_path": "markdown/View_of_Le_Gras_The_Moon_Puzzle.md"
+}

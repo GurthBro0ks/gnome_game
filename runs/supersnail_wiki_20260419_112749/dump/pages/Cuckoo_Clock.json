@@ -1,0 +1,54 @@
+{
+  "pageid": 1986,
+  "ns": 0,
+  "title": "Cuckoo Clock",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cuckoo_Clock",
+  "touched": "2024-09-06T09:56:26Z",
+  "length": 1327,
+  "lastrevid": 16375,
+  "revision": {
+    "revid": 16375,
+    "parentid": 13536,
+    "timestamp": "2023-11-07T05:14:52Z",
+    "sha1": "b166526c447ac4935e3bd7635117a4e5fe9c3e82",
+    "size": 1327
+  },
+  "categories": [
+    "ART Relics",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Exploration Card Drop Boost",
+    "Exploration Reagent Drop Boost",
+    "Relics",
+    "Time Machine Boost",
+    "Yamato Exploration Boost",
+    "Yamato Museum Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Cuckoo Clock",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "01-15",
+        "source": "Lottery Machine (0.07%), Wishing (3%), Time Chest (2%), Novice Scrolls (1%)",
+        "description": "On Jan 15, 1738, Franz Anton Ketterer of the Black Forest made the world's first cuckoo clock.\n\nResidents of the Black Forest make cuckoo clocks with their precise woodcarving techniques and local raw materials. From the internal parts to the external wood carvings, this kind of clock is all made with traditional craftsmanship. No two cuckoo clocks are the same. Each of them is made as a unique artifact.\n\n[Authenticity]\n\nCertificate: Certificate of the VDS.\n\nMaterials: All from the Black Forest  …",
+        "fame": "22",
+        "art": "47",
+        "fth": "29",
+        "civ": "26",
+        "tech": "30",
+        "ss1": "Time Machine Max Cap +2%",
+        "ss2": "Time Machine Max Cap +4%",
+        "ss3": "Time Machine Max Cap +6%",
+        "ss4": "Time Machine Max Cap +10%",
+        "ss7": "Time Machine Max Cap +10%<br>Time Machine Max Cap +10% (Awakened)",
+        "skill1": "[[File:Yamato skill I.png|50px]]Place in Yamato Museum: In Yamato, 2x INTEL Drops +2.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cuckoo_Clock.wiki",
+  "markdown_path": "markdown/Cuckoo_Clock.md"
+}

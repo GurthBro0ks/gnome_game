@@ -1,0 +1,46 @@
+{
+  "pageid": 3940,
+  "ns": 0,
+  "title": "Anathema Scroll",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Anathema_Scroll",
+  "touched": "2025-09-30T21:08:59Z",
+  "length": 573,
+  "lastrevid": 40365,
+  "revision": {
+    "revid": 40365,
+    "parentid": 40364,
+    "timestamp": "2025-09-30T21:08:59Z",
+    "sha1": "539ed6fdf60d0cacdca9ffdb18b77d44044c8ece",
+    "size": 573
+  },
+  "categories": [
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Partner Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Anathema Scroll",
+        "rank": "Green",
+        "affct": "FTH",
+        "source": "Rent from [[Must-Not-Name]]",
+        "description": "Curse you! Curse you! Curse you! Curse you... Just keep reciting the curse, with certain movements, it's the most basic curse anyone can use. Easy, isn't it?",
+        "fame": "13",
+        "art": "16",
+        "fth": "29",
+        "civ": "17",
+        "tech": "15",
+        "ss1": "Per 4 Novice Scrolls used, Snail RUSH +1<br>Novice Scrolls Used: 120/120",
+        "ss2": "Per 4 Novice Scrolls used, Snail RUSH +2<br>Novice Scrolls Used: 120/120",
+        "ss3": "Per 4 Novice Scrolls used, Snail RUSH +3<br>Novice Scrolls Used: 120/120"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Anathema_Scroll.wiki",
+  "markdown_path": "markdown/Anathema_Scroll.md"
+}

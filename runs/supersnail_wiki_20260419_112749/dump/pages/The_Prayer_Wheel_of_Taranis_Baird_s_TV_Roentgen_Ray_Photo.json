@@ -1,0 +1,34 @@
+{
+  "pageid": 4360,
+  "ns": 0,
+  "title": "The Prayer+Wheel of Taranis+Baird's TV+Roentgen Ray Photo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Prayer%2BWheel_of_Taranis%2BBaird%27s_TV%2BRoentgen_Ray_Photo",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 260,
+  "lastrevid": 16060,
+  "revision": {
+    "revid": 16060,
+    "parentid": 0,
+    "timestamp": "2023-11-06T03:10:03Z",
+    "sha1": "c09f9701be9f2677159f7f24d45241e5a37c80ed",
+    "size": 260
+  },
+  "categories": [
+    "Card Conversion Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Prayer,Wheel of Taranis,Baird's TV,Roentgen Ray Photo",
+        "rank": "blue",
+        "amount": "4",
+        "category": "Card Conversion Boost",
+        "description": "When converting cards in Species Wars, B-tads gained +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Prayer_Wheel_of_Taranis_Baird_s_TV_Roentgen_Ray_Photo.wiki",
+  "markdown_path": "markdown/The_Prayer_Wheel_of_Taranis_Baird_s_TV_Roentgen_Ray_Photo.md"
+}

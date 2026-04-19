@@ -1,0 +1,34 @@
+{
+  "pageid": 3776,
+  "ns": 0,
+  "title": "Houmuwu Ding+The Analects",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Houmuwu_Ding%2BThe_Analects",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 185,
+  "lastrevid": 13674,
+  "revision": {
+    "revid": 13674,
+    "parentid": 0,
+    "timestamp": "2023-10-02T08:58:27Z",
+    "sha1": "0cbe8d5371e940a1e09a78d127fec29c10cfe658",
+    "size": 185
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Houmuwu Ding,The Analects",
+        "rank": "orange",
+        "amount": "2",
+        "category": "other",
+        "description": "In any realm, 2x Purple Reagent Drops +2.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Houmuwu_Ding_The_Analects.wiki",
+  "markdown_path": "markdown/Houmuwu_Ding_The_Analects.md"
+}

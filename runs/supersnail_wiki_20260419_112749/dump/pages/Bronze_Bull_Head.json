@@ -1,0 +1,47 @@
+{
+  "pageid": 10128,
+  "ns": 0,
+  "title": "Bronze Bull Head",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bronze_Bull_Head",
+  "touched": "2025-08-11T10:39:30Z",
+  "length": 943,
+  "lastrevid": 37735,
+  "revision": {
+    "revid": 37735,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:39:30Z",
+    "sha1": "d3f13c940d1fe88626bbda12d9528980db595813",
+    "size": 943
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bronze Bull Head",
+        "class_id": "20446",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This bronze bull head from the times of Shang and Zhou dynasties was unearthed at a heritage site in Jinsha, Chengdu. Its forehead is marked with a diamond pattern, the horns are covered in spirals, and the hollow neck can be hooked up to the bronze vessel. It is speculated to be a standing decoration on a large bronze vessel during the Shang and Zhou dynasties, and is of great significant value to the study of bronzeworking techniques in ancient Shu.",
+        "fame": "30",
+        "art": "16",
+        "fth": "17",
+        "civ": "14",
+        "tech": "13",
+        "ss1": "Per Organ implanted, Snail ATK +1<br>Organs Implanted: 40/40",
+        "ss2": "Per Organ implanted, Snail ATK +2<br>Organs Implanted: 40/40",
+        "ss3": "Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40",
+        "ss4": "Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40",
+        "ss7": "Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bronze_Bull_Head.wiki",
+  "markdown_path": "markdown/Bronze_Bull_Head.md"
+}

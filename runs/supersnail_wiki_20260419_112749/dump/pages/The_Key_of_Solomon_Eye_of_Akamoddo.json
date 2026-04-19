@@ -1,0 +1,33 @@
+{
+  "pageid": 3757,
+  "ns": 0,
+  "title": "The Key of Solomon+Eye of Akamoddo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Key_of_Solomon%2BEye_of_Akamoddo",
+  "touched": "2025-08-11T11:14:45Z",
+  "length": 156,
+  "lastrevid": 39263,
+  "revision": {
+    "revid": 39263,
+    "parentid": 13655,
+    "timestamp": "2025-08-11T11:14:45Z",
+    "sha1": "77a88a73a631693d15a123ac3efde24ee7310ca0",
+    "size": 156
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "181",
+        "relics": "The Key of Solomon,Eye of Akamoddo",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Demon Gene Research SPD +4.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Key_of_Solomon_Eye_of_Akamoddo.wiki",
+  "markdown_path": "markdown/The_Key_of_Solomon_Eye_of_Akamoddo.md"
+}

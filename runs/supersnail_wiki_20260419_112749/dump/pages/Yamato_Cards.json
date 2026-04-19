@@ -1,0 +1,51 @@
+{
+  "pageid": 2315,
+  "ns": 0,
+  "title": "Yamato Cards",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Yamato_Cards",
+  "touched": "2025-10-09T11:24:06Z",
+  "length": 5619,
+  "lastrevid": 40923,
+  "revision": {
+    "revid": 40923,
+    "parentid": 40551,
+    "timestamp": "2025-10-07T12:58:04Z",
+    "sha1": "6268d0116589444d54ef1960fe0852921a0210e9",
+    "size": 5619
+  },
+  "categories": [
+    "Locations",
+    "Pages with broken file links",
+    "Realm",
+    "Yamato"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "white",
+        "2": "Realm",
+        "3": "Light Yamato Armor"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "white",
+        "2": "Realm",
+        "3": "Royal Underwear"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "Realm",
+        "3": "Servant Spirit Pendant"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Yamato_Cards.wiki",
+  "markdown_path": "markdown/Yamato_Cards.md"
+}

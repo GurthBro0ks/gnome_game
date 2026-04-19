@@ -1,0 +1,47 @@
+{
+  "pageid": 10740,
+  "ns": 0,
+  "title": "Skimming Stones",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Skimming_Stones",
+  "touched": "2025-08-11T11:00:10Z",
+  "length": 702,
+  "lastrevid": 38628,
+  "revision": {
+    "revid": 38628,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:00:10Z",
+    "sha1": "c41b172eba43d40afd2cf33ad2cb4360f0ff8a7e",
+    "size": 702
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Skimming Stones",
+        "class_id": "20726",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "The fairies residing in the Fairy Spring often find their tranquility disrupted by adventurers who frequently skip stones on the water's surface. Annoyed yet powerless, the fairies began to collect these skipping stones and store them in their dwellings. Over time, these ordinary stones gained a touch of magical essence...",
+        "fame": "15",
+        "art": "15",
+        "fth": "30",
+        "civ": "15",
+        "tech": "15",
+        "ss1": "Refine 1 Arcanium: Gain 1 more by 0.4%",
+        "ss2": "Refine 1 Arcanium: Gain 1 more by 0.8%",
+        "ss3": "Refine 1 Arcanium: Gain 1 more by 1.2%",
+        "ss4": "Refine 1 Arcanium: Gain 1 more by 1.2%",
+        "ss7": "Refine 1 Arcanium: Gain 1 more by 1.2%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Skimming_Stones.wiki",
+  "markdown_path": "markdown/Skimming_Stones.md"
+}

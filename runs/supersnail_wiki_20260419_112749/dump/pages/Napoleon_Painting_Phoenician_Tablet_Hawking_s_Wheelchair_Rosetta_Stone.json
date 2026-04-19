@@ -1,0 +1,34 @@
+{
+  "pageid": 3671,
+  "ns": 0,
+  "title": "Napoleon Painting+Phoenician Tablet+Hawking's Wheelchair+Rosetta Stone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Napoleon_Painting%2BPhoenician_Tablet%2BHawking%27s_Wheelchair%2BRosetta_Stone",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 223,
+  "lastrevid": 13275,
+  "revision": {
+    "revid": 13275,
+    "parentid": 0,
+    "timestamp": "2023-09-24T16:46:46Z",
+    "sha1": "77c1330caa268e75c3c4a56ea51d15860085e90d",
+    "size": 223
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Napoleon Painting,Phoenician Tablet,Hawking's Wheelchair,Rosetta Stone",
+        "rank": "purple",
+        "amount": "4",
+        "category": "other",
+        "description": "In any Realm, Angel Cells gained +8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Napoleon_Painting_Phoenician_Tablet_Hawking_s_Wheelchair_Rosetta_Stone.wiki",
+  "markdown_path": "markdown/Napoleon_Painting_Phoenician_Tablet_Hawking_s_Wheelchair_Rosetta_Stone.md"
+}

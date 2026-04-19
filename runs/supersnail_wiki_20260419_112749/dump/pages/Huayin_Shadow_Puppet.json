@@ -1,0 +1,47 @@
+{
+  "pageid": 11078,
+  "ns": 0,
+  "title": "Huayin Shadow Puppet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Huayin_Shadow_Puppet",
+  "touched": "2025-08-11T11:11:27Z",
+  "length": 737,
+  "lastrevid": 39118,
+  "revision": {
+    "revid": 39118,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:11:27Z",
+    "sha1": "d1d82498d332ad17a9a76e09bbbaaf5a87065b2b",
+    "size": 737
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Huayin Shadow Puppet",
+        "class_id": "20545",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Huayin Shadow Puppet is known for its delicate carving techniques and lifelike images, and is widely beloved by shadow puppet troupes and communities from various regions.",
+        "fame": "18",
+        "art": "16",
+        "fth": "12",
+        "civ": "32",
+        "tech": "12",
+        "ss1": "Snail ATK +10<br>Per 3 Incense used, Snail RUSH +1<br>Incense Used: 150/150",
+        "ss2": "Snail ATK +20<br>Per 3 Incense used, Snail RUSH +2<br>Incense Used: 150/150",
+        "ss3": "Snail ATK +30<br>Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150",
+        "ss4": "Snail ATK +30<br>Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150",
+        "ss7": "Snail ATK +30<br>Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Huayin_Shadow_Puppet.wiki",
+  "markdown_path": "markdown/Huayin_Shadow_Puppet.md"
+}

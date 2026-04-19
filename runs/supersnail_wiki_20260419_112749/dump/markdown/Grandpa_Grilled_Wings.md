@@ -1,0 +1,15 @@
+|image=.png
+|description=Clown Express delivered this Snail Shell. The courier found a pair of wings on his way and tried to cook and eat them. After losing a few teeth, he decided to return it to the Traveler.
+|affct=FAME
+|hard=ATK
+|source=Clown Express
+|color=green
+|earth=1
+|water=2
+|fire=3
+|wind=0
+|form=Zombie
+|element=Fire
+|realm=Murika
+|orangehard=ATK
+}}

@@ -1,0 +1,35 @@
+{
+  "pageid": 8300,
+  "ns": 0,
+  "title": "Poetic Edda+The Persistent Memory",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Poetic_Edda%2BThe_Persistent_Memory",
+  "touched": "2025-06-16T20:50:54Z",
+  "length": 298,
+  "lastrevid": 34084,
+  "revision": {
+    "revid": 34084,
+    "parentid": 0,
+    "timestamp": "2025-04-21T03:07:03Z",
+    "sha1": "962a6b34756ce2aa57131bee8dfd73d12a5e5380",
+    "size": 298
+  },
+  "categories": [
+    "Minion",
+    "Priest-Troop Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Poetic Edda,The Persistent Memory",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 2,000 Prairie Sanctum Rating Pts, Priest-Troop Assistance DMG +56; Prairie Sanctum Rating Pts: 100,000/100,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Poetic_Edda_The_Persistent_Memory.wiki",
+  "markdown_path": "markdown/Poetic_Edda_The_Persistent_Memory.md"
+}

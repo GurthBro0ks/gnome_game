@@ -1,0 +1,33 @@
+{
+  "pageid": 8465,
+  "ns": 0,
+  "title": "Yankee Doodle+Family Reunion+Elijah+Well of Moses",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Yankee_Doodle%2BFamily_Reunion%2BElijah%2BWell_of_Moses",
+  "touched": "2025-06-20T00:13:51Z",
+  "length": 212,
+  "lastrevid": 36003,
+  "revision": {
+    "revid": 36003,
+    "parentid": 34342,
+    "timestamp": "2025-06-20T00:13:51Z",
+    "sha1": "e6b5835d8f9b33e67085d81fb54bb2d718405995",
+    "size": 212
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "641",
+        "relics": "Yankee Doodle,Family Reunion,Elijah,Well of Moses",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 3,000 Tribe Prosperity, Snail DEF +7;Tribe Prosperity: 150000/150000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Yankee_Doodle_Family_Reunion_Elijah_Well_of_Moses.wiki",
+  "markdown_path": "markdown/Yankee_Doodle_Family_Reunion_Elijah_Well_of_Moses.md"
+}

@@ -1,0 +1,62 @@
+{
+  "pageid": 5204,
+  "ns": 0,
+  "title": "Azoth",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Azoth",
+  "touched": "2025-09-30T22:00:57Z",
+  "length": 1817,
+  "lastrevid": 40394,
+  "revision": {
+    "revid": 40394,
+    "parentid": 40332,
+    "timestamp": "2025-09-30T22:00:57Z",
+    "sha1": "0c24bfc0ee5c4d6920b7256faa0d2309f0a314f0",
+    "size": 1817
+  },
+  "categories": [
+    "ATK Boost",
+    "Angel Gene Boost",
+    "Angel Gene Cost Reduction",
+    "Enhanced by Angel Gene LVL",
+    "Enhanced by Divine Order Chests",
+    "FTH Boost",
+    "FTH Relics",
+    "Hellas Exploration Boost",
+    "Hellas Museum Boost",
+    "Mecha Minion DEF Boost",
+    "Purple FTH Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Azoth",
+        "class_id": "22165",
+        "rank": "AAA",
+        "affct": "FTH",
+        "birthday": "11-28",
+        "source": "[[Kemet Domain]] Exploration Reward",
+        "description": "On Nov 28, 124 AD, Azoth was created in an alchemy lab.<br>Azoth is a universal solvent and panacea produced through alchemy. Along with the Philosopher's Stone, Azoth is one of the treasures pursued by alchemists, who believe that it is the liquified soul found in all matter that can magically transform substances from one form to another.",
+        "fame": "43",
+        "art": "48",
+        "fth": "73",
+        "civ": "32",
+        "tech": "47",
+        "ss1": "Angel Gene Research B-tad Cost -1.8%<br>Per 5 Angel Gene LVLs, Snail RUSH +6<br>Angel Gene LVLs Researched: 150/150",
+        "ss2": "Angel Gene Research B-tad Cost -2.4%<br>Per 5 Angel Gene LVLs, Snail RUSH +8<br>Angel Gene LVLs Researched: 150/150",
+        "ss3": "Angel Gene Research B-tad Cost -3%<br>Per 5 Angel Gene LVLs, Snail RUSH +10<br>Angel Gene LVLs Researched: 150/150",
+        "ss4": "Angel Gene Research B-tad Cost -4.2%<br>Per 5 Angel Gene LVLs, Snail RUSH +14<br>Angel Gene LVLs Researched: 150/150",
+        "ss5": "Angel Gene Research B-tad Cost -5.4%<br>Per 5 Angel Gene LVLs, Snail RUSH +18<br>Angel Gene LVLs Researched: 150/150",
+        "ss7": "Angel Gene Research B-tad Cost -5.4%<br>Per 5 Angel Gene LVLs, Snail RUSH +18<br>Angel Gene LVLs Researched: 150/150<br>Snail RUSH +70 (Awakened)",
+        "skill1": "[[File:Hellas skill II.png|50px]]Place in Hellenic Museum: In Hellas, Snail RUSH +300",
+        "skill2": "[[File:Hellas skill II.png|50px]]Place in Hellenic Museum: This Relic's FTH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Azoth.wiki",
+  "markdown_path": "markdown/Azoth.md"
+}

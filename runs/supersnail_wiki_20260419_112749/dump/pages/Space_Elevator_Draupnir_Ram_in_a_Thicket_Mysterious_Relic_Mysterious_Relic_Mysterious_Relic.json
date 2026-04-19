@@ -1,0 +1,35 @@
+{
+  "pageid": 6335,
+  "ns": 0,
+  "title": "Space Elevator+Draupnir+Ram in a Thicket+Mysterious Relic+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Space_Elevator%2BDraupnir%2BRam_in_a_Thicket%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 260,
+  "lastrevid": 27092,
+  "revision": {
+    "revid": 27092,
+    "parentid": 27054,
+    "timestamp": "2024-05-20T01:34:25Z",
+    "sha1": "352936cc2b1e6b1147956b7aeaea9355cf53b591",
+    "size": 260
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Space Elevator,Draupnir,Ram in a Thicket,Mysterious Relic,Mysterious Relic,Mysterious Relic",
+        "rank": "orange",
+        "amount": "6",
+        "category": "minion",
+        "description": "Snail Leadership +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Space_Elevator_Draupnir_Ram_in_a_Thicket_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Space_Elevator_Draupnir_Ram_in_a_Thicket_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic.md"
+}

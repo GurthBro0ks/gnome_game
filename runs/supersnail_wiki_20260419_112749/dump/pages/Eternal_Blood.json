@@ -1,0 +1,47 @@
+{
+  "pageid": 10034,
+  "ns": 0,
+  "title": "Eternal Blood",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Eternal_Blood",
+  "touched": "2025-08-11T10:35:41Z",
+  "length": 825,
+  "lastrevid": 37577,
+  "revision": {
+    "revid": 37577,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:35:41Z",
+    "sha1": "ee1fd86ffe7991562967ef120e090741bed16f99",
+    "size": 825
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Eternal Blood",
+        "class_id": "20738",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "A concoction of blood from various immortal beings. It may look dangerous, but it's actually not safe at all. The developers claim that introducing it into the body can heal all injuries and even reverse aging, but no creature with an IQ over fifty would risk their own life for this.",
+        "fame": "18",
+        "art": "11",
+        "fth": "31",
+        "civ": "16",
+        "tech": "14",
+        "ss1": "Troop Healing +1%<br>Per 10 Minions in battle:<br>> Troop HARD Stats +1",
+        "ss2": "Troop Healing +2%<br>Per 10 Minions in battle:<br>> Troop HARD Stats +2",
+        "ss3": "Troop Healing +3%<br>Per 10 Minions in battle:<br>> Troop HARD Stats +3",
+        "ss4": "Troop Healing +3%<br>Per 10 Minions in battle:<br>> Troop HARD Stats +3",
+        "ss7": "Troop Healing +3%<br>Per 10 Minions in battle:<br>> Troop HARD Stats +3<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Eternal_Blood.wiki",
+  "markdown_path": "markdown/Eternal_Blood.md"
+}

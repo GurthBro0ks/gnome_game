@@ -1,0 +1,33 @@
+{
+  "pageid": 9845,
+  "ns": 0,
+  "title": "Manga Manuscript+Book of the Dead+Scales of Astraea",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Manga_Manuscript%2BBook_of_the_Dead%2BScales_of_Astraea",
+  "touched": "2025-07-02T09:50:08Z",
+  "length": 203,
+  "lastrevid": 37222,
+  "revision": {
+    "revid": 37222,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:50:08Z",
+    "sha1": "de8df5691d5ad984ac2dbb41c3fc76078df7d41a",
+    "size": 203
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "539",
+        "relics": "Manga Manuscript,Book of the Dead,Scales of Astraea",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "In the Gaia Rocket Cabin: Domain Holograph Base Effect +64%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Manga_Manuscript_Book_of_the_Dead_Scales_of_Astraea.wiki",
+  "markdown_path": "markdown/Manga_Manuscript_Book_of_the_Dead_Scales_of_Astraea.md"
+}

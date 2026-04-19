@@ -1,0 +1,33 @@
+{
+  "pageid": 4060,
+  "ns": 0,
+  "title": "CRISPR+Ruska's Microscope",
+  "fullurl": "https://supersnail.wiki.gg/wiki/CRISPR%2BRuska%27s_Microscope",
+  "touched": "2025-06-19T23:56:51Z",
+  "length": 164,
+  "lastrevid": 35709,
+  "revision": {
+    "revid": 35709,
+    "parentid": 19577,
+    "timestamp": "2025-06-19T23:56:51Z",
+    "sha1": "9968dd07e09d10fa80bcfd08eff70f5210ab1f9b",
+    "size": 164
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "473",
+        "relics": "CRISPR,Ruska's Microscope",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "In the Gaia Rocket Cabin: EMP Base Effect +56%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/CRISPR_Ruska_s_Microscope.wiki",
+  "markdown_path": "markdown/CRISPR_Ruska_s_Microscope.md"
+}

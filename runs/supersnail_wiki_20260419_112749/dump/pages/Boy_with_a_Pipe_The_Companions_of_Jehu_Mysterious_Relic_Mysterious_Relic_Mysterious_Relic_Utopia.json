@@ -1,0 +1,35 @@
+{
+  "pageid": 8283,
+  "ns": 0,
+  "title": "Boy with a Pipe+The Companions of Jehu+Mysterious Relic+Mysterious Relic+Mysterious Relic+Utopia",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Boy_with_a_Pipe%2BThe_Companions_of_Jehu%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic%2BUtopia",
+  "touched": "2025-04-21T02:41:51Z",
+  "length": 316,
+  "lastrevid": 34065,
+  "revision": {
+    "revid": 34065,
+    "parentid": 34064,
+    "timestamp": "2025-04-21T02:41:51Z",
+    "sha1": "0fff6619c14ee998544834a3f7373cb18c6f11d7",
+    "size": 316
+  },
+  "categories": [
+    "ATK Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Boy with a Pipe,The Companions of Jehu,Mysterious Relic,Mysterious Relic,Mysterious Relic,Utopia",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Per 30 Wormhole Refiners opened, Snail ATK +12; 1500/1500 Wormhole Refiners opened"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Boy_with_a_Pipe_The_Companions_of_Jehu_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Utopia.wiki",
+  "markdown_path": "markdown/Boy_with_a_Pipe_The_Companions_of_Jehu_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Utopia.md"
+}

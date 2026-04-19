@@ -1,0 +1,33 @@
+{
+  "pageid": 9280,
+  "ns": 0,
+  "title": "Wilfrid's Eyeglasses+Murph's Watch",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wilfrid%27s_Eyeglasses%2BMurph%27s_Watch",
+  "touched": "2025-06-20T00:18:36Z",
+  "length": 160,
+  "lastrevid": 36141,
+  "revision": {
+    "revid": 36141,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:18:36Z",
+    "sha1": "83c708ae93419dbed1a611cd1b2c748a80437a99",
+    "size": 160
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "613",
+        "relics": "Wilfrid's Eyeglasses,Murph's Watch",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Forest Sanctum, Glorium Output +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wilfrid_s_Eyeglasses_Murph_s_Watch.wiki",
+  "markdown_path": "markdown/Wilfrid_s_Eyeglasses_Murph_s_Watch.md"
+}

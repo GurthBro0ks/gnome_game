@@ -1,0 +1,35 @@
+{
+  "pageid": 2727,
+  "ns": 0,
+  "title": "Koryeon Domain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Koryeon_Domain",
+  "touched": "2025-10-20T06:21:40Z",
+  "length": 18992,
+  "lastrevid": 41547,
+  "revision": {
+    "revid": 41547,
+    "parentid": 41546,
+    "timestamp": "2025-10-20T06:21:40Z",
+    "sha1": "572e8889b213ea0d1efed47add63b048251c613f",
+    "size": 18992
+  },
+  "categories": [
+    "Koryeon Domain",
+    "Koryeon_Domain",
+    "Missing Info",
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Koryeon_Domain.wiki",
+  "markdown_path": "markdown/Koryeon_Domain.md"
+}

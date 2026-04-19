@@ -1,0 +1,34 @@
+{
+  "pageid": 3342,
+  "ns": 0,
+  "title": "Divergence Meter+Guanery's Violin+Tudor Rose+Holmes' Pipe+Dunhuang Painting+Our Lady of Kazan",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Divergence_Meter%2BGuanery%27s_Violin%2BTudor_Rose%2BHolmes%27_Pipe%2BDunhuang_Painting%2BOur_Lady_of_Kazan",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 245,
+  "lastrevid": 27717,
+  "revision": {
+    "revid": 27717,
+    "parentid": 27716,
+    "timestamp": "2024-06-06T02:05:36Z",
+    "sha1": "1cdd4ebeaa359d0c1e0b37810f8ffc257177bc95",
+    "size": 245
+  },
+  "categories": [
+    "Altar Boosts"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Divergence Meter,Guanery's Violin,Tudor Rose,Holmes' Pipe,Dunhuang Painting,Our Lady of Kazan",
+        "rank": "blue",
+        "amount": "6",
+        "category": "Altar Boosts",
+        "description": "Soul Offering SPD +3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Divergence_Meter_Guanery_s_Violin_Tudor_Rose_Holmes_Pipe_Dunhuang_Painting_Our_Lady_of_Kazan.wiki",
+  "markdown_path": "markdown/Divergence_Meter_Guanery_s_Violin_Tudor_Rose_Holmes_Pipe_Dunhuang_Painting_Our_Lady_of_Kazan.md"
+}

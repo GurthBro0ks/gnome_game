@@ -1,0 +1,60 @@
+{
+  "pageid": 680,
+  "ns": 0,
+  "title": "Blood of Dracula",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Blood_of_Dracula",
+  "touched": "2024-09-06T09:57:12Z",
+  "length": 2206,
+  "lastrevid": 26279,
+  "revision": {
+    "revid": 26279,
+    "parentid": 22284,
+    "timestamp": "2024-05-07T16:26:08Z",
+    "sha1": "ddb51ac178f19edb87dfda669ec9ea41652c6914",
+    "size": 2206
+  },
+  "categories": [
+    "DEF Boost",
+    "Demon Gene Boost",
+    "Demon Gene Speedup Boost",
+    "Dragon Gene Speedup Boost",
+    "FTH Boost",
+    "FTH Relics",
+    "HP Boost",
+    "Purple FTH Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relics",
+    "Slug Dragonling Boost",
+    "Snail Arena Compass Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Blood of Dracula",
+        "rank": "AA",
+        "affct": "FTH",
+        "birthday": "04-05",
+        "source": "Expert Scrolls (0.95%), Fragment Crafting (3.8%), Lottery Machine (0.08%), Soul Chest (1.5%), Wishing (0.35%)",
+        "description": "On Apr 5, AD 651, one of Dracula's teeth was pulled out. It affected future generations for hundreds of years.\n\nOn this day, Dracula had a toothache and a quack removed two of his canine teeth. He took a closer look and removed teeth and felt creeped out. Dracula went pale on this full moon night. He looked at the doctor arrogantly, holding a crimson goblet in his hand and said, \"I'm actually a vegetarian! I usually drink tomato juice. A very healthy drink. I really don't understand why humans h …",
+        "fame": "40",
+        "art": "49",
+        "fth": "68",
+        "civ": "41",
+        "tech": "30",
+        "ss1": "Per 5 Demon Gene LVLs, Snail HP +40<br>Per 5 Demon Gene LVLs, Snail RUSH +4<br>Demon Gene LVLs Researched: 150/150",
+        "ss2": "Per 5 Demon Gene LVLs, Snail HP +60<br>Per 5 Demon Gene LVLs, Snail RUSH +6<br>Demon Gene LVLs Researched: 150/150",
+        "ss3": "Per 5 Demon Gene LVLs, Snail HP +80<br>Per 5 Demon Gene LVLs, Snail RUSH +8<br>Demon Gene LVLs Researched: 150/150",
+        "ss4": "Per 5 Demon Gene LVLs, Snail HP +120<br>Per 5 Demon Gene LVLs, Snail RUSH +12<br>Demon Gene LVLs Researched: 150/150",
+        "ss5": "Per 5 Demon Gene LVLs, Snail HP +160<br>Per 5 Demon Gene LVLs, Snail RUSH +16<br>Demon Gene LVLs Researched: 150/150",
+        "ss7": "Per 5 Demon Gene LVLs, Snail HP +160<br>Per 5 Demon Gene LVLs, Snail RUSH +16<br>Demon Gene LVLs Researched: 150/150<br>Snail HP +700 (Awakened)",
+        "skill1": "[[File:Compass skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, Snail DEF +30",
+        "skill2": "[[File:Compass skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, this Relic's FTH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Blood_of_Dracula.wiki",
+  "markdown_path": "markdown/Blood_of_Dracula.md"
+}

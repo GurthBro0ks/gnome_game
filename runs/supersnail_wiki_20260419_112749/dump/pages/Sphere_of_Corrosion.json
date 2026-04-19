@@ -1,0 +1,47 @@
+{
+  "pageid": 2729,
+  "ns": 0,
+  "title": "Sphere of Corrosion",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sphere_of_Corrosion",
+  "touched": "2025-08-11T10:57:14Z",
+  "length": 487,
+  "lastrevid": 38500,
+  "revision": {
+    "revid": 38500,
+    "parentid": 30706,
+    "timestamp": "2025-08-11T10:57:14Z",
+    "sha1": "824d5b6c1f859cd172be1537a8374d6dc02a1bef",
+    "size": 487
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Sphere of Corrosion",
+        "class_id": "20429",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This crystal ball is full of acid so that you can launch acidic attacks with a spell. It can dissolve and significantly reduce the target's armor protection, all the while disfiguring the enemy for serious psychological damage!",
+        "fame": "29",
+        "art": "15",
+        "fth": "16",
+        "civ": "19",
+        "tech": "11",
+        "ss1": "Poison DMG +5",
+        "ss2": "Poison DMG +10",
+        "ss3": "Poison DMG +15",
+        "ss4": "Poison DMG +15",
+        "ss7": "Poison DMG +15<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sphere_of_Corrosion.wiki",
+  "markdown_path": "markdown/Sphere_of_Corrosion.md"
+}

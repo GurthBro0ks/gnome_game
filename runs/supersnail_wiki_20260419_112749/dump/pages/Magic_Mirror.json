@@ -1,0 +1,61 @@
+{
+  "pageid": 1485,
+  "ns": 0,
+  "title": "Magic Mirror",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Magic_Mirror",
+  "touched": "2024-09-06T09:56:24Z",
+  "length": 2117,
+  "lastrevid": 22249,
+  "revision": {
+    "revid": 22249,
+    "parentid": 18252,
+    "timestamp": "2024-02-17T15:29:54Z",
+    "sha1": "b68d4066261192a23c49957f633a601b0dd81ec1",
+    "size": 2117
+  },
+  "categories": [
+    "ATK Boost",
+    "Ancient Fossil Boost",
+    "DEF Boost",
+    "Demon Cell Drop Boost",
+    "Distinct Souls Boost",
+    "Enhanced by Distinct Souls Offered",
+    "FTH Relics",
+    "HP Boost",
+    "Imp Boost",
+    "Purple FTH Relics",
+    "Purple Relics",
+    "Quarry Output Boost",
+    "Quarry Skill",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Magic Mirror",
+        "rank": "AAA",
+        "affct": "FTH",
+        "birthday": "07-11",
+        "source": "Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)",
+        "description": "On Jul 11, AD 1501, the magic mirror told the Queen a secret and caused a tragedy.\n\nThe magic mirror was a treasure of the Evil Queen. She wanted to become the most beautiful woman in the world, so she expelled Snow White to the Black Forest and tried to kill her with a poisoned apple, but Snow White survived. Under the instigation of the mirror, the Evil Queen decided to kill Snow White. But we all know the plan eventually failed.\n\n[Basic Info]\n\nSpell: \"Mirror, mirror on the wall, who's the fai …",
+        "fame": "37",
+        "art": "50",
+        "fth": "73",
+        "civ": "42",
+        "tech": "41",
+        "ss1": "Per 3 kinds of souls offered, Snail ATK +3<br>Per 3 kinds of souls offered, Snail DEF +3<br>Distinct Souls Offered: 300/300",
+        "ss2": "Per 3 kinds of souls offered, Snail ATK +4<br>Per 3 kinds of souls offered, Snail DEF +4<br>Distinct Souls Offered: 300/300",
+        "ss3": "Per 3 kinds of souls offered, Snail ATK +5<br>Per 3 kinds of souls offered, Snail DEF +5<br>Distinct Souls Offered: 300/300",
+        "ss4": "Per 3 kinds of souls offered, Snail ATK +7<br>Per 3 kinds of souls offered, Snail DEF +7<br>Distinct Souls Offered: 300/300",
+        "ss5": "Per 3 kinds of souls offered, Snail ATK +9<br>Per 3 kinds of souls offered, Snail DEF +9<br>Distinct Souls Offered: 300/300",
+        "ss7": "Per 3 kinds of souls offered, Snail ATK +9<br>Per 3 kinds of souls offered, Snail DEF +9<br>Distinct Souls Offered: 300/300<br>Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Quarry skill II.png|50px]] Place in Quarry: Stone Output +15%",
+        "skill2": "[[File:Quarry skill II.png|50px]] Place in Quarry: Find Ancient Fossil by +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Magic_Mirror.wiki",
+  "markdown_path": "markdown/Magic_Mirror.md"
+}

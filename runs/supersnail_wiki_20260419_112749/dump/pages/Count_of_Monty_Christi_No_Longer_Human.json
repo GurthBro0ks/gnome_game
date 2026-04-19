@@ -1,0 +1,33 @@
+{
+  "pageid": 4913,
+  "ns": 0,
+  "title": "Count of Monty Christi+No Longer Human",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Count_of_Monty_Christi%2BNo_Longer_Human",
+  "touched": "2025-06-20T00:01:33Z",
+  "length": 150,
+  "lastrevid": 35793,
+  "revision": {
+    "revid": 35793,
+    "parentid": 18351,
+    "timestamp": "2025-06-20T00:01:33Z",
+    "sha1": "597768719d4964dd02399d1d2b9b0810e2aedfb7",
+    "size": 150
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "411",
+        "relics": "Count of Monty Christi,No Longer Human",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Demon Minion HP +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Count_of_Monty_Christi_No_Longer_Human.wiki",
+  "markdown_path": "markdown/Count_of_Monty_Christi_No_Longer_Human.md"
+}

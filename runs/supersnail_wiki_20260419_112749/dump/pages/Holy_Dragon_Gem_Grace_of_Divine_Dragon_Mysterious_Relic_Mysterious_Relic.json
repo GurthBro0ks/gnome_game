@@ -1,0 +1,35 @@
+{
+  "pageid": 6550,
+  "ns": 0,
+  "title": "Holy Dragon Gem+Grace of Divine Dragon+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Holy_Dragon_Gem%2BGrace_of_Divine_Dragon%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:54Z",
+  "length": 240,
+  "lastrevid": 27056,
+  "revision": {
+    "revid": 27056,
+    "parentid": 27055,
+    "timestamp": "2024-05-19T22:12:14Z",
+    "sha1": "277fda5833f5a23edd9af75f0dd0dc9af30e8fdc",
+    "size": 240
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Holy Dragon Gem,Grace of Divine Dragon,Mysterious Relic,Mysterious Relic",
+        "rank": "orange",
+        "amount": "4",
+        "category": "minion",
+        "description": "Snail Leadership +9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Holy_Dragon_Gem_Grace_of_Divine_Dragon_Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Holy_Dragon_Gem_Grace_of_Divine_Dragon_Mysterious_Relic_Mysterious_Relic.md"
+}

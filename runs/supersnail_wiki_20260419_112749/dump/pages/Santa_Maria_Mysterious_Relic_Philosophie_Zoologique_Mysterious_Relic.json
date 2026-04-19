@@ -1,0 +1,35 @@
+{
+  "pageid": 6112,
+  "ns": 0,
+  "title": "Santa Maria+Mysterious Relic+Philosophie Zoologique+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Santa_Maria%2BMysterious_Relic%2BPhilosophie_Zoologique%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 236,
+  "lastrevid": 23316,
+  "revision": {
+    "revid": 23316,
+    "parentid": 0,
+    "timestamp": "2024-03-09T18:20:24Z",
+    "sha1": "4bfe4777a3c7dea894dc23493b839a5f8f8690dc",
+    "size": 236
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Santa Maria,Mysterious Relic,Philosophie Zoologique,Mysterious Relic",
+        "rank": "orange",
+        "amount": "4",
+        "category": "minion",
+        "description": "Snail Leadership +9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Santa_Maria_Mysterious_Relic_Philosophie_Zoologique_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Santa_Maria_Mysterious_Relic_Philosophie_Zoologique_Mysterious_Relic.md"
+}

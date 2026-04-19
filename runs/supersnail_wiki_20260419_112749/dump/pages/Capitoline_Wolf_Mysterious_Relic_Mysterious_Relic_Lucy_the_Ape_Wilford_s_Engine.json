@@ -1,0 +1,36 @@
+{
+  "pageid": 4214,
+  "ns": 0,
+  "title": "Capitoline Wolf+Mysterious Relic+Mysterious Relic+Lucy the Ape+Wilford's Engine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Capitoline_Wolf%2BMysterious_Relic%2BMysterious_Relic%2BLucy_the_Ape%2BWilford%27s_Engine",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 333,
+  "lastrevid": 18598,
+  "revision": {
+    "revid": 18598,
+    "parentid": 18274,
+    "timestamp": "2023-11-14T01:23:32Z",
+    "sha1": "7cb398e28d1d3559bc2781e472c3faa9d7bcb0e8",
+    "size": 333
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Mutant Gene LVL",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Capitoline Wolf,Mysterious Relic,Mysterious Relic,Lucy the Ape,Wilford's Engine",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "Per 7 Mutant Gene LVLs, Snail ATK +20, Mutant Gene LVLs Researched: 210/210"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Capitoline_Wolf_Mysterious_Relic_Mysterious_Relic_Lucy_the_Ape_Wilford_s_Engine.wiki",
+  "markdown_path": "markdown/Capitoline_Wolf_Mysterious_Relic_Mysterious_Relic_Lucy_the_Ape_Wilford_s_Engine.md"
+}

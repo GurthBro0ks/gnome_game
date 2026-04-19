@@ -1,0 +1,47 @@
+{
+  "pageid": 7738,
+  "ns": 0,
+  "title": "Bird Incubator",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bird_Incubator",
+  "touched": "2025-08-11T10:47:35Z",
+  "length": 671,
+  "lastrevid": 38081,
+  "revision": {
+    "revid": 38081,
+    "parentid": 32492,
+    "timestamp": "2025-08-11T10:47:35Z",
+    "sha1": "478940739736185daf548ef65049a9ed85915d4e",
+    "size": 671
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bird Incubator",
+        "class_id": "20363",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "It's an incubator that adopts many unknown technologies to combine magic and science. Some of the components are even made by Gods. Its performance is also top-notch. All you need to do is put the eggs in it, then it will hatch perfectly, not only with a 100% success rate but also with the ability to nourish the eggs, thereby greatly improving the hatching efficiency!",
+        "fame": "12",
+        "art": "17",
+        "fth": "14",
+        "civ": "16",
+        "tech": "31",
+        "ss1": "Egg hatching rate +0.4%",
+        "ss2": "Egg hatching rate +0.8%",
+        "ss3": "Egg hatching rate +1.2%",
+        "ss4": "Egg hatching rate +1.2%",
+        "ss7": "Egg hatching rate +1.2%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bird_Incubator.wiki",
+  "markdown_path": "markdown/Bird_Incubator.md"
+}

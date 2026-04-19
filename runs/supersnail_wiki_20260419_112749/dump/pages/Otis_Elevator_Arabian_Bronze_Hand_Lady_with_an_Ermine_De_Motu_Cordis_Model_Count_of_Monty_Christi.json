@@ -1,0 +1,35 @@
+{
+  "pageid": 4922,
+  "ns": 0,
+  "title": "Otis Elevator+Arabian Bronze Hand+Lady with an Ermine+De Motu Cordis Model+Count of Monty Christi",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Otis_Elevator%2BArabian_Bronze_Hand%2BLady_with_an_Ermine%2BDe_Motu_Cordis_Model%2BCount_of_Monty_Christi",
+  "touched": "2024-12-02T03:00:51Z",
+  "length": 277,
+  "lastrevid": 18399,
+  "revision": {
+    "revid": 18399,
+    "parentid": 18014,
+    "timestamp": "2023-11-13T21:36:31Z",
+    "sha1": "204d8e5c372fcfb48d132c2bd02198ff8f67801f",
+    "size": 277
+  },
+  "categories": [
+    "Minion",
+    "Zombie Minion MAX Cap Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Otis Elevator,Arabian Bronze Hand,Lady with an Ermine,De Motu Cordis Model,Count of Monty Christi",
+        "rank": "purple",
+        "amount": "5",
+        "category": "minion",
+        "description": "Zombie Minion MAX +9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Otis_Elevator_Arabian_Bronze_Hand_Lady_with_an_Ermine_De_Motu_Cordis_Model_Count_of_Monty_Christi.wiki",
+  "markdown_path": "markdown/Otis_Elevator_Arabian_Bronze_Hand_Lady_with_an_Ermine_De_Motu_Cordis_Model_Count_of_Monty_Christi.md"
+}

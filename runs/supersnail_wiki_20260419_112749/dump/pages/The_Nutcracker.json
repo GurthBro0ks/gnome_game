@@ -1,0 +1,60 @@
+{
+  "pageid": 2105,
+  "ns": 0,
+  "title": "The Nutcracker",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Nutcracker",
+  "touched": "2024-09-06T09:56:24Z",
+  "length": 1996,
+  "lastrevid": 26364,
+  "revision": {
+    "revid": 26364,
+    "parentid": 22191,
+    "timestamp": "2024-05-08T11:35:37Z",
+    "sha1": "5e70979b5d9636c49fcd837e486694dd6a73a829",
+    "size": 1996
+  },
+  "categories": [
+    "ART Boost",
+    "ART Relics",
+    "ATK Boost",
+    "Angel Gene Speedup Boost",
+    "Angel Minion Cloning Speed Boost",
+    "Earth DMG Boost",
+    "Enhanced by Power",
+    "Gene Simulation Compass Boost",
+    "Power Boost",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics",
+    "Zombie Cell Drop Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Nutcracker",
+        "rank": "AAA",
+        "affct": "ART",
+        "birthday": "11-07",
+        "source": "* Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)\n* [[Lee Gi-na]] - [[Rare Rent]]",
+        "description": "On Nov 7, 1892, musician Tchaikovsky's The Nutcracker was performed hundreds of times in St. Petersburg.\n\nMusician Tchaikovsky spent nine months adapting \"The Nutcracker and the Mouse King\" into a ballet. This is a special piece that uses string instruments to add an element of realism. The figure skating and acrobatics on ice are the most prominent features of the show. The audience can enjoy the elegance of ballet and the visual and musical beauty.\n\n[Descriptions]\n\nAct 1 Scene 1: At the entran …",
+        "fame": "37",
+        "art": "74",
+        "fth": "47",
+        "civ": "38",
+        "tech": "47",
+        "ss1": "Angel Gene Research SPD +1.8%<br>Angel Minion Cloning SPD +3%",
+        "ss2": "Angel Gene Research SPD +2.4%<br>Angel Minion Cloning SPD +4%",
+        "ss3": "Angel Gene Research SPD +3%<br>Angel Minion Cloning SPD +5%",
+        "ss4": "Angel Gene Research SPD +4.2%<br>Angel Minion Cloning SPD +7%",
+        "ss5": "Angel Gene Research SPD +5.4%<br>Angel Minion Cloning SPD +9%",
+        "ss7": "Angel Gene Research SPD +5.4%<br>Angel Minion Cloning SPD +9%<br>Angel Minion Cloning SPD +7% (Awakened)",
+        "skill1": "[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: Earth DMG +60",
+        "skill2": "[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: This Relic's ART +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Nutcracker.wiki",
+  "markdown_path": "markdown/The_Nutcracker.md"
+}

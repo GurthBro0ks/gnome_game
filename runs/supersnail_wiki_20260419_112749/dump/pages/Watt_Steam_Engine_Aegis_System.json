@@ -1,0 +1,33 @@
+{
+  "pageid": 3746,
+  "ns": 0,
+  "title": "Watt Steam Engine+Aegis System",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Watt_Steam_Engine%2BAegis_System",
+  "touched": "2025-08-11T11:13:30Z",
+  "length": 186,
+  "lastrevid": 39207,
+  "revision": {
+    "revid": 39207,
+    "parentid": 13644,
+    "timestamp": "2025-08-11T11:13:30Z",
+    "sha1": "bda2dc0952cb488f9a176ba8523d53acb77500e0",
+    "size": 186
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "217",
+        "relics": "Watt Steam Engine,Aegis System",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10k Relic Points, Snail RUSH +5;Relic Points: 420000/420000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Watt_Steam_Engine_Aegis_System.wiki",
+  "markdown_path": "markdown/Watt_Steam_Engine_Aegis_System.md"
+}

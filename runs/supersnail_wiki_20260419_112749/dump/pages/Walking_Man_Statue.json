@@ -1,0 +1,50 @@
+{
+  "pageid": 4660,
+  "ns": 0,
+  "title": "Walking Man Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Walking_Man_Statue",
+  "touched": "2025-06-16T23:20:01Z",
+  "length": 916,
+  "lastrevid": 35199,
+  "revision": {
+    "revid": 35199,
+    "parentid": 23819,
+    "timestamp": "2025-06-16T23:20:01Z",
+    "sha1": "2d75378c677fa3d1ead021475848b2a3570c8758",
+    "size": 916
+  },
+  "categories": [
+    "ART Relics",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Walking Man Statue",
+        "class_id": "22035",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "12-10",
+        "source": "Lottery Machine No.2 (0.07%), Wishing (0.03%)",
+        "description": "On Dec 10, 3035 BC, the ancient Elamites cast the Walking Man Statue.<br>A bronze statue of a walking man with horns. It is one of the earliest bronze statues made by the lost-wax method. The statue wears Mesopotamian highland shoes with upturned toes, with northern mountain sheep horns on the head. The shoulders are covered with predatory bird wings. The fusion of human and various animal forms demonstrates the characteristics of the shamanic faith and related art in the primitive Elamite perio …",
+        "fame": "22",
+        "art": "48",
+        "fth": "28",
+        "civ": "33",
+        "tech": "23",
+        "ss1": "Snail HP +100",
+        "ss2": "Snail HP +200",
+        "ss3": "Snail HP +300",
+        "ss4": "Snail HP +500",
+        "ss7": "Snail HP +500<br>Snail HP +500 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Walking_Man_Statue.wiki",
+  "markdown_path": "markdown/Walking_Man_Statue.md"
+}

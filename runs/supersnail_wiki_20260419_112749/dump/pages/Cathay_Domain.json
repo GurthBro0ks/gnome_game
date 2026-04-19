@@ -1,0 +1,34 @@
+{
+  "pageid": 3840,
+  "ns": 0,
+  "title": "Cathay Domain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cathay_Domain",
+  "touched": "2025-10-20T06:35:51Z",
+  "length": 43972,
+  "lastrevid": 41553,
+  "revision": {
+    "revid": 41553,
+    "parentid": 41549,
+    "timestamp": "2025-10-20T06:35:51Z",
+    "sha1": "cd07b35055b81f5876fb8e60f32fbe9f5d9d5a75",
+    "size": 43972
+  },
+  "categories": [
+    "Cathay Domain",
+    "Missing Info",
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cathay_Domain.wiki",
+  "markdown_path": "markdown/Cathay_Domain.md"
+}

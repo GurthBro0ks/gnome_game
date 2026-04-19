@@ -1,0 +1,47 @@
+{
+  "pageid": 2109,
+  "ns": 0,
+  "title": "Crying Boy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Crying_Boy",
+  "touched": "2025-08-11T10:38:42Z",
+  "length": 466,
+  "lastrevid": 37703,
+  "revision": {
+    "revid": 37703,
+    "parentid": 27631,
+    "timestamp": "2025-08-11T10:38:42Z",
+    "sha1": "24a19e5dffcdd03ae46c3f5fc7c05d6d8c5d0431",
+    "size": 466
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Crying Boy",
+        "class_id": "20015",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "A piece of work by the painter Giovanni Bragolin. Belief in the painting's curse was widespread since it was frequently found undamaged amidst the ruins of burned houses!",
+        "fame": "10",
+        "art": "29",
+        "fth": "16",
+        "civ": "17",
+        "tech": "18",
+        "ss1": "Soul Offering SPD +0.4%",
+        "ss2": "Soul Offering SPD +0.8%",
+        "ss3": "Soul Offering SPD +1.2%",
+        "ss4": "Soul Offering SPD +1.2%",
+        "ss7": "Soul Offering SPD +1.2%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Crying_Boy.wiki",
+  "markdown_path": "markdown/Crying_Boy.md"
+}

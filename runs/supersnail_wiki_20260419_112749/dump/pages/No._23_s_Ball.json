@@ -1,0 +1,60 @@
+{
+  "pageid": 1598,
+  "ns": 0,
+  "title": "No. 23's Ball",
+  "fullurl": "https://supersnail.wiki.gg/wiki/No._23%27s_Ball",
+  "touched": "2024-09-06T09:58:43Z",
+  "length": 1686,
+  "lastrevid": 25128,
+  "revision": {
+    "revid": 25128,
+    "parentid": 18148,
+    "timestamp": "2024-04-16T21:08:02Z",
+    "sha1": "c5cf3ed38d8602574c3a221e1a05477c15f30a37",
+    "size": 1686
+  },
+  "categories": [
+    "CIV Relics",
+    "Club Chest Boost",
+    "Enhanced by Relic Points",
+    "Exploration Reagent Drop Boost",
+    "Fire DMG Boost",
+    "Fire RES Boost",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relic Boost",
+    "Relics",
+    "Snail Arena Compass Boost",
+    "Star Coin Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "No. 23's Ball",
+        "rank": "AA",
+        "affct": "CIV",
+        "birthday": "02-14",
+        "source": "Expert Scrolls (0.95%), Fragment Crafting (3.7%), Lottery Machine (0.08%), Wishing (0.34%)",
+        "description": "On Feb 14, 2003, Michael Jordan signed on a basketball before retirement.\n\nWhen Michael Jordan announced his retirement, the price of all his signed items soared. In the exhibition hall of a certain stadium, there was a basketball. He wrote \"The Last Shot\" under the trademark of the ball, as it was the last ball he signed before his retirement.",
+        "fame": "40",
+        "art": "30",
+        "fth": "41",
+        "civ": "69",
+        "tech": "48",
+        "ss1": "Star Coins from Free Daily Star Coins +16%<br>Club Chests from Free Daily Star Coins +20%",
+        "ss2": "Star Coins from Free Daily Star Coins +20%<br>Club Chests from Free Daily Star Coins +30%",
+        "ss3": "Star Coins from Free Daily Star Coins +24%<br>Club Chests from Free Daily Star Coins +40%",
+        "ss4": "Star Coins from Free Daily Star Coins +30%<br>Club Chests from Free Daily Star Coins +60%",
+        "ss5": "Star Coins from Free Daily Star Coins +40%<br>Club Chests from Free Daily Star Coins +80%",
+        "ss7": "Star Coins from Free Daily Star Coins +40%<br>Club Chests from Free Daily Star Coins +80%<br>Club Chests from Free Daily Star Coins +70% (Awakened)",
+        "skill1": "[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, Fire RES +15",
+        "skill2": "[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, Fire DMG +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/No._23_s_Ball.wiki",
+  "markdown_path": "markdown/No._23_s_Ball.md"
+}

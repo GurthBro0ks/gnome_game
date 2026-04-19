@@ -1,0 +1,34 @@
+{
+  "pageid": 3335,
+  "ns": 0,
+  "title": "Linde's Fridge+Seated Scribe+Roman Dodecahedron+Code of Law+Golden Menorah",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Linde%27s_Fridge%2BSeated_Scribe%2BRoman_Dodecahedron%2BCode_of_Law%2BGolden_Menorah",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 248,
+  "lastrevid": 31148,
+  "revision": {
+    "revid": 31148,
+    "parentid": 30457,
+    "timestamp": "2024-10-30T20:36:47Z",
+    "sha1": "e48793cda90ad1e5474f03ca6c557a62ad414b75",
+    "size": 248
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Linde's Fridge,Seated Scribe,Roman Dodecahedron,Code of Law,Golden Menorah",
+        "rank": "blue",
+        "amount": "5",
+        "category": "self",
+        "description": "Per 3 Blue relics gained, Snail ATK +32<br>Blue Relics: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Linde_s_Fridge_Seated_Scribe_Roman_Dodecahedron_Code_of_Law_Golden_Menorah.wiki",
+  "markdown_path": "markdown/Linde_s_Fridge_Seated_Scribe_Roman_Dodecahedron_Code_of_Law_Golden_Menorah.md"
+}

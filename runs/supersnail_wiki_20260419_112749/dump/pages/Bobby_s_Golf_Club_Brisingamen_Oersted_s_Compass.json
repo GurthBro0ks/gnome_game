@@ -1,0 +1,33 @@
+{
+  "pageid": 4706,
+  "ns": 0,
+  "title": "Bobby's Golf Club+Brisingamen+Oersted's Compass",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bobby%27s_Golf_Club%2BBrisingamen%2BOersted%27s_Compass",
+  "touched": "2025-06-19T23:54:25Z",
+  "length": 201,
+  "lastrevid": 35677,
+  "revision": {
+    "revid": 35677,
+    "parentid": 18589,
+    "timestamp": "2025-06-19T23:54:25Z",
+    "sha1": "b4764f24b8e440bc3a73ecbb256df5052accac33",
+    "size": 201
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "357",
+        "relics": "Bobby's Golf Club,Brisingamen,Oersted's Compass",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 10 Wormhole Refines, Snail ATK +6;Wormhole Refines: 500/500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bobby_s_Golf_Club_Brisingamen_Oersted_s_Compass.wiki",
+  "markdown_path": "markdown/Bobby_s_Golf_Club_Brisingamen_Oersted_s_Compass.md"
+}

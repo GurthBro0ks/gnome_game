@@ -1,0 +1,35 @@
+{
+  "pageid": 7947,
+  "ns": 0,
+  "title": "Idylls of the King+Empress's Coronation Crown",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Idylls_of_the_King%2BEmpress%27s_Coronation_Crown",
+  "touched": "2025-02-21T20:03:04Z",
+  "length": 213,
+  "lastrevid": 33398,
+  "revision": {
+    "revid": 33398,
+    "parentid": 0,
+    "timestamp": "2025-02-21T20:03:04Z",
+    "sha1": "9f5e0310f85620dfcb58f0fb579fedd242471047",
+    "size": 213
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Idylls of the King,Empress's Coronation Crown",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Idylls_of_the_King_Empress_s_Coronation_Crown.wiki",
+  "markdown_path": "markdown/Idylls_of_the_King_Empress_s_Coronation_Crown.md"
+}

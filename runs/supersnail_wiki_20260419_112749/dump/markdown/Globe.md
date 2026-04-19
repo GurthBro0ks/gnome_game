@@ -1,0 +1,15 @@
+|image=.png
+|description=The Snail Shell came from John Bruce, a geologist that measured the Earth by walking, discovered dimensions by looking, and crafted a globe by talking. "Move the hammer to the left by 3 micrometers." He said to the craftsman.
+|affct=CIV
+|hard=DEF
+|source=Divine Chaos Chest (0.1%)
+|color=orange
+|earth=11
+|water=10
+|fire=10
+|wind=11
+|form=Mutant
+|element=Earth
+|realm=Koryeo
+|orangehard=RUSH
+}}

@@ -1,0 +1,33 @@
+{
+  "pageid": 10945,
+  "ns": 0,
+  "title": "Apollo Program+Chemical Bond Theory",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Apollo_Program%2BChemical_Bond_Theory",
+  "touched": "2025-08-11T11:06:43Z",
+  "length": 147,
+  "lastrevid": 38917,
+  "revision": {
+    "revid": 38917,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:06:43Z",
+    "sha1": "5e420c676fa46e14e733e5d849685671d7c9c963",
+    "size": 147
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "763",
+        "relics": "Apollo Program,Chemical Bond Theory",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Apollo_Program_Chemical_Bond_Theory.wiki",
+  "markdown_path": "markdown/Apollo_Program_Chemical_Bond_Theory.md"
+}

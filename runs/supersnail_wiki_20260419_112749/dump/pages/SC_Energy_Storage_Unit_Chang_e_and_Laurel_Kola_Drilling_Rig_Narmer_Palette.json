@@ -1,0 +1,33 @@
+{
+  "pageid": 5277,
+  "ns": 0,
+  "title": "SC Energy Storage Unit+Chang'e and Laurel+Kola Drilling Rig+Narmer Palette",
+  "fullurl": "https://supersnail.wiki.gg/wiki/SC_Energy_Storage_Unit%2BChang%27e_and_Laurel%2BKola_Drilling_Rig%2BNarmer_Palette",
+  "touched": "2025-06-20T00:06:58Z",
+  "length": 188,
+  "lastrevid": 35884,
+  "revision": {
+    "revid": 35884,
+    "parentid": 31615,
+    "timestamp": "2025-06-20T00:06:58Z",
+    "sha1": "f986e82dfa8f19f870dd5de22fdcd1aed03791a4",
+    "size": 188
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "553",
+        "relics": "SC Energy Storage Unit,Chang'e and Laurel,Kola Drilling Rig,Narmer Palette",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "All Minion RUSH +1.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/SC_Energy_Storage_Unit_Chang_e_and_Laurel_Kola_Drilling_Rig_Narmer_Palette.wiki",
+  "markdown_path": "markdown/SC_Energy_Storage_Unit_Chang_e_and_Laurel_Kola_Drilling_Rig_Narmer_Palette.md"
+}

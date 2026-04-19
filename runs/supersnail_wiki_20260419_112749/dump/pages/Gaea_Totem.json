@@ -1,0 +1,47 @@
+{
+  "pageid": 10706,
+  "ns": 0,
+  "title": "Gaea Totem",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gaea_Totem",
+  "touched": "2025-08-11T10:59:11Z",
+  "length": 592,
+  "lastrevid": 38587,
+  "revision": {
+    "revid": 38587,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:59:11Z",
+    "sha1": "248691394fd35e6b0f2b09584dca7a4796b8d124",
+    "size": 592
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gaea Totem",
+        "class_id": "20295",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This totem obtained from the Wonder Sage emits a strong and familiar aura. It is said to have the power to help the holder break through the limits of Godhood. However, when carefully staring at it, one always feels a sense of inexplicable unease...",
+        "fame": "17",
+        "art": "14",
+        "fth": "31",
+        "civ": "15",
+        "tech": "13",
+        "ss1": "All Sanctum Glorium Output +0.4%",
+        "ss2": "All Sanctum Glorium Output +0.8%",
+        "ss3": "All Sanctum Glorium Output +1.2%",
+        "ss4": "All Sanctum Glorium Output +1.2%",
+        "ss7": "All Sanctum Glorium Output +1.2%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gaea_Totem.wiki",
+  "markdown_path": "markdown/Gaea_Totem.md"
+}

@@ -1,0 +1,55 @@
+{
+  "pageid": 592,
+  "ns": 0,
+  "title": "Arkanrock",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Arkanrock",
+  "touched": "2025-08-11T10:58:43Z",
+  "length": 2888,
+  "lastrevid": 38566,
+  "revision": {
+    "revid": 38566,
+    "parentid": 30695,
+    "timestamp": "2025-08-11T10:58:43Z",
+    "sha1": "86c82990dbdaf90f232ccbb7f894325bf52aa866",
+    "size": 2888
+  },
+  "categories": [
+    "FAME Relics",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Arkanrock",
+        "class_id": "21718",
+        "rank": "SSS",
+        "affct": "FAME",
+        "birthday": "10-19",
+        "description": "On Oct 19, 1191 AD, Richard the Lionheart severely defeated Saladin in the Battle of Arsuf and obtained this diamond.<br>This diamond, also called Heart of the Mountain, comes from Harrapa. The legend says that a dragon once swallowed this treasure. It was Ayyub, Saladin's ancestor, who found the diamond and gave it to Saladin. However, he later lost the treasure to Richard the Lionheart during the Crusades.\n[An associated poem]\nThis round stone, reflecting thousands of faces of crystal light li …",
+        "fame": "106",
+        "art": "54",
+        "fth": "73",
+        "civ": "70",
+        "tech": "59",
+        "ss1": "Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +3<br>Per 60 Dragon Minions in battle:<br>> Troop HP +90<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +9",
+        "ss2": "Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +6<br>Per 60 Dragon Minions in battle:<br>> Troop HP +180<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +18",
+        "ss3": "Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +9<br>Per 60 Dragon Minions in battle:<br>> Troop HP +270<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +27",
+        "ss4": "Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +15<br>Per 60 Dragon Minions in battle:<br>> Troop HP +450<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +45",
+        "ss5": "Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +21<br>Per 60 Dragon Minions in battle:<br>> Troop HP +630<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +63",
+        "ss6": "Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Dragon Minions in battle:<br>> Troop HP +900<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +90",
+        "ss7": "Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Dragon Minions in battle:<br>> Troop HP +900<br>Per 60 Dragon Minions in battle:<br>> Troop ATK +90<br>Per 60 Dragon Minions in battle:<br>> Troop HARD Stats +30 (Awakened)",
+        "skill1": "[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Ignore Wind RES +60",
+        "skill2": "[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Ignore Earth RES +60",
+        "skill3": "[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Ignore Water RES +60",
+        "mirage": "{{Mirage|name=Heart of Lonely Mountain|reward={{RewardIconWithLink|Golden Eyelashes Sample, +3|orange}}\n|3name=Dragon Slayer Barde|3rec=2.89M|3atk=41592|3defense=27329|3hp=577785|3weak=9321\n|4name=Thorout Oakenshield|4rec=7.03M|4atk=68435|4defense=44967|4hp=1420237|4weak=12512\n|5name=Thrandull|5rec=10.47M|5atk=84862|5defense=55761|5hp=2037659|5weak=13942\n|6name=Gundolf the Grey|6rec=15.24M|6atk=103595|6defense=68070|6hp=2917370|6weak=16948\n|Arec=37.76M|Aatk=147658|Adefense=97023|Ahp=5675096|Awea …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Arkanrock.wiki",
+  "markdown_path": "markdown/Arkanrock.md"
+}

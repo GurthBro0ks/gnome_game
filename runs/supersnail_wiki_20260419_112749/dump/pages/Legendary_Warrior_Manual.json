@@ -1,0 +1,47 @@
+{
+  "pageid": 4051,
+  "ns": 0,
+  "title": "Legendary Warrior Manual",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Legendary_Warrior_Manual",
+  "touched": "2025-08-11T10:39:58Z",
+  "length": 1236,
+  "lastrevid": 37754,
+  "revision": {
+    "revid": 37754,
+    "parentid": 32219,
+    "timestamp": "2025-08-11T10:39:58Z",
+    "sha1": "03798479f58ca444eb7df8f4acb8f196ff07d97e",
+    "size": 1236
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Legendary Warrior Manual",
+        "class_id": "20543",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This training manual is issued by the legendary time traveler, Eve Ironhammer. The book systematically covers various combat skills that soldiers should possess in the context of Species War, including survival, counter-surveillance, stealth, concealment, first aid, anti-armor tactics, intelligence gathering, and more. By fully mastering the 360 combat skills described in the book, one can be hailed as a legendary warrior.",
+        "fame": "14",
+        "art": "13",
+        "fth": "17",
+        "civ": "32",
+        "tech": "14",
+        "ss1": "Per 10 Minions in battle:<br>> Troop HP +10<br>Against heroes in Species War: Individual unit will not be seriously injured",
+        "ss2": "Per 10 Minions in battle:<br>> Troop HP +20<br>Against heroes in Species War: Individual unit will not be seriously injured",
+        "ss3": "Per 10 Minions in battle:<br>> Troop HP +30<br>Against heroes in Species War: Individual unit will not be seriously injured",
+        "ss4": "Per 10 Minions in battle:<br>> Troop HP +30<br>Against heroes in Species War: Individual unit will not be seriously injured",
+        "ss7": "Per 10 Minions in battle:<br>> Troop HP +30<br>Against heroes in Species War: Individual unit will not be seriously injured<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Legendary_Warrior_Manual.wiki",
+  "markdown_path": "markdown/Legendary_Warrior_Manual.md"
+}

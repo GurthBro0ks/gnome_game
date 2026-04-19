@@ -1,0 +1,47 @@
+{
+  "pageid": 11274,
+  "ns": 0,
+  "title": "Collection@20874 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20874_1",
+  "touched": "2025-08-11T11:18:49Z",
+  "length": 623,
+  "lastrevid": 39438,
+  "revision": {
+    "revid": 39438,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:18:49Z",
+    "sha1": "284e258ec6862f7e3d5d7ddbdd85263e70142ec5",
+    "size": 623
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20874_1",
+        "class_id": "20874",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "collection@20874_2",
+        "fame": "15",
+        "art": "14",
+        "fth": "13",
+        "civ": "15",
+        "tech": "32",
+        "ss1": "Snail HP +100<br>Per Minigame installed, Snail DEF +2<br>Minigames Installed: 20/20",
+        "ss2": "Snail HP +200<br>Per Minigame installed, Snail DEF +4<br>Minigames Installed: 20/20",
+        "ss3": "Snail HP +300<br>Per Minigame installed, Snail DEF +6<br>Minigames Installed: 20/20",
+        "ss4": "Snail HP +300<br>Per Minigame installed, Snail DEF +6<br>Minigames Installed: 20/20",
+        "ss7": "Snail HP +300<br>Per Minigame installed, Snail DEF +6<br>Minigames Installed: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20874_1.wiki",
+  "markdown_path": "markdown/Collection_20874_1.md"
+}

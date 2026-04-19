@@ -1,0 +1,33 @@
+{
+  "pageid": 4592,
+  "ns": 0,
+  "title": "Cupid and Psyche+Maitreya in Meditation",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cupid_and_Psyche%2BMaitreya_in_Meditation",
+  "touched": "2025-06-20T00:07:09Z",
+  "length": 174,
+  "lastrevid": 35889,
+  "revision": {
+    "revid": 35889,
+    "parentid": 18348,
+    "timestamp": "2025-06-20T00:07:09Z",
+    "sha1": "26df3329a20517a2ac1b8dd45108852be71b3e5a",
+    "size": 174
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "317",
+        "relics": "Cupid and Psyche,Maitreya in Meditation",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Demon Minions in battle: Troop DEF +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cupid_and_Psyche_Maitreya_in_Meditation.wiki",
+  "markdown_path": "markdown/Cupid_and_Psyche_Maitreya_in_Meditation.md"
+}

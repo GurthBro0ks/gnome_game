@@ -1,0 +1,33 @@
+{
+  "pageid": 4167,
+  "ns": 0,
+  "title": "Lawrence's Cyclotron+AMS",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lawrence%27s_Cyclotron%2BAMS",
+  "touched": "2025-06-19T23:54:01Z",
+  "length": 185,
+  "lastrevid": 35659,
+  "revision": {
+    "revid": 35659,
+    "parentid": 19493,
+    "timestamp": "2025-06-19T23:54:01Z",
+    "sha1": "b9a3331e367ce3c9f353224f88cd6a5a64411ad1",
+    "size": 185
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "476",
+        "relics": "Lawrence's Cyclotron,AMS",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "In the Demon God Rocket Cabin: Particle Accelerator Base Effect +56%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lawrence_s_Cyclotron_AMS.wiki",
+  "markdown_path": "markdown/Lawrence_s_Cyclotron_AMS.md"
+}

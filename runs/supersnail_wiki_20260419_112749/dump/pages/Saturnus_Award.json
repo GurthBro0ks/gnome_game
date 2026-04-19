@@ -1,0 +1,47 @@
+{
+  "pageid": 10687,
+  "ns": 0,
+  "title": "Saturnus Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Saturnus_Award",
+  "touched": "2025-08-11T10:58:36Z",
+  "length": 931,
+  "lastrevid": 38561,
+  "revision": {
+    "revid": 38561,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:58:36Z",
+    "sha1": "818bc9f3418527d6ef6ea9225aafe13052c5571a",
+    "size": 931
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Saturnus Award",
+        "class_id": "20527",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The Saturnus Award is a film and television award presented by the Academy of Science Fiction, Fantasy & Horror Films in the United States. The award favors works with breakthroughs and innovative significance, aiming to reward outstanding science fiction and horror films of the year. The nominated films are usually those with considerable influence and big sensations of the year.",
+        "fame": "15",
+        "art": "17",
+        "fth": "15",
+        "civ": "30",
+        "tech": "13",
+        "ss1": "Per 10 Epic Protomon fused, Snail DEF +4<br>Epic Protomon Fused: 200/200",
+        "ss2": "Per 10 Epic Protomon fused, Snail DEF +8<br>Epic Protomon Fused: 200/200",
+        "ss3": "Per 10 Epic Protomon fused, Snail DEF +12<br>Epic Protomon Fused: 200/200",
+        "ss4": "Per 10 Epic Protomon fused, Snail DEF +12<br>Epic Protomon Fused: 200/200",
+        "ss7": "Per 10 Epic Protomon fused, Snail DEF +12<br>Epic Protomon Fused: 200/200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Saturnus_Award.wiki",
+  "markdown_path": "markdown/Saturnus_Award.md"
+}

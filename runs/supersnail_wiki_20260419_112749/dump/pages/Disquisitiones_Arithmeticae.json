@@ -1,0 +1,53 @@
+{
+  "pageid": 10770,
+  "ns": 0,
+  "title": "Disquisitiones Arithmeticae",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Disquisitiones_Arithmeticae",
+  "touched": "2025-08-11T11:01:10Z",
+  "length": 2558,
+  "lastrevid": 38672,
+  "revision": {
+    "revid": 38672,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:01:10Z",
+    "sha1": "42a52785f6fbd0dc68124590ab3d3adb6e0ef85f",
+    "size": 2558
+  },
+  "categories": [
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Disquisitiones Arithmeticae",
+        "class_id": "22763",
+        "rank": "SSS",
+        "affct": "TECH",
+        "birthday": "04-13",
+        "description": "On Apr 13, 1801 AD, the renowned German mathematician Gauss published his groundbreaking mathematical treatise.<br>The work \"Disquisitiones Arithmeticae\" marks the pioneering contributions of Gauss to the field of number theory, showcasing his profound mathematical theories and thoughts. \"Disquisitiones Arithmeticae\" establishes a new framework for the theory of integers based on rigorous mathematical logic and systems. In the book, Gauss explores the fundamental properties and operational rules …",
+        "fame": "66",
+        "art": "48",
+        "fth": "75",
+        "civ": "64",
+        "tech": "109",
+        "ss1": "Snail Leadership +3<br>Minion Sim Chests drop 2x Sim Tokens by +1.5%<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +72<br>Epic Protodex Stars: 100/100",
+        "ss2": "Snail Leadership +4<br>Minion Sim Chests drop 2x Sim Tokens by +2%<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +96<br>Epic Protodex Stars: 100/100",
+        "ss3": "Snail Leadership +5<br>Minion Sim Chests drop 2x Sim Tokens by +2.5%<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +120<br>Epic Protodex Stars: 100/100",
+        "ss4": "Snail Leadership +7<br>Minion Sim Chests drop 2x Sim Tokens by +3.5%<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +168<br>Epic Protodex Stars: 100/100",
+        "ss5": "Snail Leadership +9<br>Minion Sim Chests drop 2x Sim Tokens by +4.5%<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +216<br>Epic Protodex Stars: 100/100",
+        "ss6": "Snail Leadership +12<br>Minion Sim Chests drop 2x Sim Tokens by +6%<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +288<br>Epic Protodex Stars: 100/100",
+        "ss7": "Snail Leadership +12<br>Minion Sim Chests drop 2x Sim Tokens by +6%<br>Per 5 Epic Protodex Stars, Priest-Snail Assistance DMG +288<br>Epic Protodex Stars: 100/100<br>Protomon Snail assist DMG + 800 (Awakened)",
+        "skill1": "[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's TECH +15",
+        "skill2": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%",
+        "skill3": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Disquisitiones_Arithmeticae.wiki",
+  "markdown_path": "markdown/Disquisitiones_Arithmeticae.md"
+}

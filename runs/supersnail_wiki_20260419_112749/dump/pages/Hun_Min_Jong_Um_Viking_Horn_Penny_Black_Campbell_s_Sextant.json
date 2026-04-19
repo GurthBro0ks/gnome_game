@@ -1,0 +1,34 @@
+{
+  "pageid": 3326,
+  "ns": 0,
+  "title": "Hun Min Jong Um+Viking Horn+Penny Black+Campbell's Sextant",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hun_Min_Jong_Um%2BViking_Horn%2BPenny_Black%2BCampbell%27s_Sextant",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 240,
+  "lastrevid": 12064,
+  "revision": {
+    "revid": 12064,
+    "parentid": 0,
+    "timestamp": "2023-09-13T08:42:27Z",
+    "sha1": "64e3c29607c9d12e849a29e5d851fe7c86098456",
+    "size": 240
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Hun Min Jong Um,Viking Horn,Penny Black,Campbell's Sextant",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 20 Green Beads drawn, Snail ATK +14<br>Green Beads Drawn: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hun_Min_Jong_Um_Viking_Horn_Penny_Black_Campbell_s_Sextant.wiki",
+  "markdown_path": "markdown/Hun_Min_Jong_Um_Viking_Horn_Penny_Black_Campbell_s_Sextant.md"
+}

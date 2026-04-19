@@ -1,0 +1,51 @@
+{
+  "pageid": 8421,
+  "ns": 0,
+  "title": "Ring Laser Gyroscope",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ring_Laser_Gyroscope",
+  "touched": "2025-06-20T00:13:13Z",
+  "length": 1266,
+  "lastrevid": 35970,
+  "revision": {
+    "revid": 35970,
+    "parentid": 34447,
+    "timestamp": "2025-06-20T00:13:13Z",
+    "sha1": "fbd0d9d5551d80bd2c52904b212b81adfecf11ad",
+    "size": 1266
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Pages with broken file links",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ring Laser Gyroscope",
+        "class_id": "22489",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "12-11",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Dec 11, 1972 AD, Honeywell Corporation developed the first Ring Laser Gyroscope.<br>It is an instrument that can accurately determine the orientation of an object's motion. It is widely used in modern industrial inertial navigation instruments. It has no rotating rotor structure or moving parts such as a directional ring frame. Its structure is simple, has a long working life, is easy to maintain, and has high reliability, with an average working time without failure of up to 90,000 hours...",
+        "fame": "28",
+        "art": "22",
+        "fth": "33",
+        "civ": "25",
+        "tech": "46",
+        "ss1": "Per 100 Recruit Tokens consumed, Snail DEF +1<br>Consumed Recruit Tokens: 5000/5000",
+        "ss2": "Per 100 Recruit Tokens consumed, Snail DEF +2<br>Consumed Recruit Tokens: 5000/5000",
+        "ss3": "Per 100 Recruit Tokens consumed, Snail DEF +3<br>Consumed Recruit Tokens: 5000/5000",
+        "ss4": "Per 100 Recruit Tokens consumed, Snail DEF +5<br>Consumed Recruit Tokens: 5000/5000",
+        "ss7": "Per 100 Recruit Tokens consumed, Snail DEF +5<br>Consumed Recruit Tokens: 5000/5000<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Mantis skill I.png|50px]]Place in Mantis Biozilla: In Species War, Troop All ELMT DMG +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ring_Laser_Gyroscope.wiki",
+  "markdown_path": "markdown/Ring_Laser_Gyroscope.md"
+}

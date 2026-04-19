@@ -1,0 +1,34 @@
+{
+  "pageid": 4306,
+  "ns": 0,
+  "title": "Aries+Gemini",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Aries%2BGemini",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 200,
+  "lastrevid": 15982,
+  "revision": {
+    "revid": 15982,
+    "parentid": 0,
+    "timestamp": "2023-11-05T23:07:05Z",
+    "sha1": "9a7f3de4c9fafb366de37582f3828f9014efdc4a",
+    "size": 200
+  },
+  "categories": [
+    "DEF Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Aries,Gemini",
+        "rank": "orange",
+        "amount": "2",
+        "category": "DEF Boost",
+        "description": "Per Supreme Relic gained, Snail DEF +100; Supreme Relics: 20/20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Aries_Gemini.wiki",
+  "markdown_path": "markdown/Aries_Gemini.md"
+}

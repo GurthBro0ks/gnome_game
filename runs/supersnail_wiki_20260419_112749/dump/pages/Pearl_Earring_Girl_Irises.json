@@ -1,0 +1,33 @@
+{
+  "pageid": 8874,
+  "ns": 0,
+  "title": "Pearl Earring Girl+Irises",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pearl_Earring_Girl%2BIrises",
+  "touched": "2025-06-19T23:54:33Z",
+  "length": 180,
+  "lastrevid": 35681,
+  "revision": {
+    "revid": 35681,
+    "parentid": 34877,
+    "timestamp": "2025-06-19T23:54:33Z",
+    "sha1": "a4d8e73807838fdde2f9573207dfa184df499e2b",
+    "size": 180
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "494",
+        "relics": "Pearl Earring Girl,Irises",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 times Maneater fed, Snail RUSH +7;Maneater Fed: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pearl_Earring_Girl_Irises.wiki",
+  "markdown_path": "markdown/Pearl_Earring_Girl_Irises.md"
+}

@@ -1,0 +1,34 @@
+{
+  "pageid": 3286,
+  "ns": 0,
+  "title": "Pressburg Treaty+Bellum Gallicum",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pressburg_Treaty%2BBellum_Gallicum",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 214,
+  "lastrevid": 11956,
+  "revision": {
+    "revid": 11956,
+    "parentid": 0,
+    "timestamp": "2023-09-12T17:07:36Z",
+    "sha1": "dea9c173e26938cae8e06e3d2451bc2c77d022e1",
+    "size": 214
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Pressburg Treaty,Bellum Gallicum",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 20 White Beads drawn, Snail ATK +10<br>White Beads Drawn: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pressburg_Treaty_Bellum_Gallicum.wiki",
+  "markdown_path": "markdown/Pressburg_Treaty_Bellum_Gallicum.md"
+}

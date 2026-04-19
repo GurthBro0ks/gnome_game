@@ -1,0 +1,51 @@
+{
+  "pageid": 11080,
+  "ns": 0,
+  "title": "On Human Understanding",
+  "fullurl": "https://supersnail.wiki.gg/wiki/On_Human_Understanding",
+  "touched": "2025-08-11T11:11:33Z",
+  "length": 1738,
+  "lastrevid": 39122,
+  "revision": {
+    "revid": 39122,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:11:33Z",
+    "sha1": "66b55ee41493e16e56c0ba19b155f927b34b6e19",
+    "size": 1738
+  },
+  "categories": [
+    "CIV Relics",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "On Human Understanding",
+        "class_id": "22586",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "10-11",
+        "description": "On Oct 11, 1690 AD, after twenty years, Locke finally completed his book An Essay Concerning Human Understanding.<br>John Locke was a famous British philosopher and, along with Hume and Berkeley, is regarded as a representative figure of British empiricism. In this book, he systematically discusses human understanding, explaining how humans acquire knowledge and form beliefs, and why our knowledge of the world is limited. He believed that the mind is a blank slate at birth and that knowledge is  …",
+        "fame": "49",
+        "art": "45",
+        "fth": "39",
+        "civ": "75",
+        "tech": "35",
+        "ss1": "Per 30 Mutant Minions in battle:<br>> Troop HP +120<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +12",
+        "ss2": "Per 30 Mutant Minions in battle:<br>> Troop HP +160<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +16",
+        "ss3": "Per 30 Mutant Minions in battle:<br>> Troop HP +200<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +20",
+        "ss4": "Per 30 Mutant Minions in battle:<br>> Troop HP +280<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +28",
+        "ss5": "Per 30 Mutant Minions in battle:<br>> Troop HP +360<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +36",
+        "ss7": "Per 30 Mutant Minions in battle:<br>> Troop HP +360<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +36<br>Per 30 Mutant Minions in battle:<br>> Troop ATK +28 (Awakened)",
+        "skill1": "[[File:Britland skill II.png|50px]]Place in Britland Museum: In Britland, Snail RUSH +60",
+        "skill2": "[[File:Britland skill II.png|50px]]Place in Britland Museum: In Britland, 2x Orange Reagent Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/On_Human_Understanding.wiki",
+  "markdown_path": "markdown/On_Human_Understanding.md"
+}

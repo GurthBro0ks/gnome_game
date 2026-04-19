@@ -1,0 +1,59 @@
+{
+  "pageid": 1776,
+  "ns": 0,
+  "title": "Spirit of Laws",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Spirit_of_Laws",
+  "touched": "2024-09-06T09:57:07Z",
+  "length": 2078,
+  "lastrevid": 21752,
+  "revision": {
+    "revid": 21752,
+    "parentid": 18192,
+    "timestamp": "2024-01-12T02:45:27Z",
+    "sha1": "3744d04369194334e578b2ad18baa91b58e430ed",
+    "size": 2078
+  },
+  "categories": [
+    "Bharata Exploration Boost",
+    "Bharata Museum Boost",
+    "DEF Boost",
+    "Enhanced by Lottery Draws",
+    "Exploration B-tad Drop Boost",
+    "FAME Boost",
+    "FAME Relics",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "Quarry Upgrade Cost Reduction",
+    "Relics",
+    "Tomb Figure Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Spirit of Laws",
+        "rank": "AA",
+        "affct": "FAME",
+        "birthday": "09-19",
+        "source": "Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.35%), Expert Scrolls (0.95%)",
+        "description": "On Sep 19, 1748, Montesquieu published his book on political philosophy for the first time.\n\nMontesquieu spent 20 painstaking years writing his 6-volume collection with 31 chapters. He proposed the Separation of Powers, which suggests running a country by the three independent powers from legislature, executive, and judiciary perspectives. He believed in respecting private property rights, promoting industrialization, and commercialization, reducing taxes, and abolishing slavery. It is the earli …",
+        "fame": "70",
+        "art": "44",
+        "fth": "42",
+        "civ": "39",
+        "tech": "33",
+        "ss1": "Quarry upgrade wood cost -2%<br>Quarry upgrade B-tad cost -2%",
+        "ss2": "Quarry upgrade wood cost -3%<br>Quarry upgrade B-tad cost -3%",
+        "ss3": "Quarry upgrade wood cost -4%<br>Quarry upgrade B-tad cost -4%",
+        "ss4": "Quarry upgrade wood cost -6%<br>Quarry upgrade B-tad cost -6%",
+        "ss5": "Quarry upgrade wood cost -8%<br>Quarry upgrade B-tad cost -8%",
+        "ss7": "Quarry upgrade wood cost -8%<br>Quarry upgrade B-tad cost -8%<br>Quarry upgrade B-tad cost -7% (Awakened)",
+        "skill1": "[[File:Bharata skill II.png|50px]] Place in Bharata Museum: In Bharata, B-tads gained +7.5%",
+        "skill2": "[[File:Bharata skill II.png|50px]] Place in Bharata Museum: This Relic's FAME +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Spirit_of_Laws.wiki",
+  "markdown_path": "markdown/Spirit_of_Laws.md"
+}

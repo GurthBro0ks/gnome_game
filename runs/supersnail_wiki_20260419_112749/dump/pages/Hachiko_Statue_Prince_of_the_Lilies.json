@@ -1,0 +1,33 @@
+{
+  "pageid": 4848,
+  "ns": 0,
+  "title": "Hachiko Statue+Prince of the Lilies",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hachiko_Statue%2BPrince_of_the_Lilies",
+  "touched": "2025-06-20T00:07:52Z",
+  "length": 156,
+  "lastrevid": 35909,
+  "revision": {
+    "revid": 35909,
+    "parentid": 19498,
+    "timestamp": "2025-06-20T00:07:52Z",
+    "sha1": "e3a0747bc8159b667f5ba5168422f86c9e401d13",
+    "size": 156
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "409",
+        "relics": "Hachiko Statue,Prince of the Lilies",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Species War Cabin Output +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hachiko_Statue_Prince_of_the_Lilies.wiki",
+  "markdown_path": "markdown/Hachiko_Statue_Prince_of_the_Lilies.md"
+}

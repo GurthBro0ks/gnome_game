@@ -1,0 +1,35 @@
+{
+  "pageid": 5470,
+  "ns": 0,
+  "title": "Dancing Gala",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dancing_Gala",
+  "touched": "2024-04-29T06:56:03Z",
+  "length": 8747,
+  "lastrevid": 25350,
+  "revision": {
+    "revid": 25350,
+    "parentid": 25349,
+    "timestamp": "2024-04-22T22:30:51Z",
+    "sha1": "6242c05cca6a0d117df60d11a5319cb4ea2c4895",
+    "size": 8747
+  },
+  "categories": [
+    "Hellas",
+    "Location",
+    "Realms",
+    "Unique Element"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Amulet of Will"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dancing_Gala.wiki",
+  "markdown_path": "markdown/Dancing_Gala.md"
+}

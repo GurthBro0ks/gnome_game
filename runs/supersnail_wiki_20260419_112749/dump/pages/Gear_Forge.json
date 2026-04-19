@@ -1,0 +1,23 @@
+{
+  "pageid": 3690,
+  "ns": 0,
+  "title": "Gear Forge",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gear_Forge",
+  "touched": "2024-11-04T01:10:57Z",
+  "length": 5363,
+  "lastrevid": 25998,
+  "revision": {
+    "revid": 25998,
+    "parentid": 23426,
+    "timestamp": "2024-05-01T04:51:05Z",
+    "sha1": "8ffb55f0b9129033dfad9954b45b711ff829da30",
+    "size": 5363
+  },
+  "categories": [
+    "Pages using Tabber parser tag"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Gear_Forge.wiki",
+  "markdown_path": "markdown/Gear_Forge.md"
+}

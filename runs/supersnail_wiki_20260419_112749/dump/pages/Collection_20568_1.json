@@ -1,0 +1,47 @@
+{
+  "pageid": 10484,
+  "ns": 0,
+  "title": "Collection@20568 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20568_1",
+  "touched": "2025-08-11T10:52:10Z",
+  "length": 837,
+  "lastrevid": 38284,
+  "revision": {
+    "revid": 38284,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:52:10Z",
+    "sha1": "39fa776ada1d51c9159dd793b453b89658cecc83",
+    "size": 837
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20568_1",
+        "class_id": "20568",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "collection@20568_2",
+        "fame": "18",
+        "art": "16",
+        "fth": "13",
+        "civ": "29",
+        "tech": "14",
+        "ss1": "Per 8 Rift Apostles dominated, Snail ATK +2<br>Per 8 Rift Apostles dominated, Snail DEF +2<br>Rift Apostles Dominated: 160/160",
+        "ss2": "Per 8 Rift Apostles dominated, Snail ATK +4<br>Per 8 Rift Apostles dominated, Snail DEF +4<br>Rift Apostles Dominated: 160/160",
+        "ss3": "Per 8 Rift Apostles dominated, Snail ATK +6<br>Per 8 Rift Apostles dominated, Snail DEF +6<br>Rift Apostles Dominated: 160/160",
+        "ss4": "Per 8 Rift Apostles dominated, Snail ATK +6<br>Per 8 Rift Apostles dominated, Snail DEF +6<br>Rift Apostles Dominated: 160/160",
+        "ss7": "Per 8 Rift Apostles dominated, Snail ATK +6<br>Per 8 Rift Apostles dominated, Snail DEF +6<br>Rift Apostles Dominated: 160/160<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20568_1.wiki",
+  "markdown_path": "markdown/Collection_20568_1.md"
+}

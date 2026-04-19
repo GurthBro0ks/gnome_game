@@ -1,0 +1,33 @@
+{
+  "pageid": 4164,
+  "ns": 0,
+  "title": "Grimmy Award+Pride & Prejudice",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Grimmy_Award%2BPride_%26_Prejudice",
+  "touched": "2025-06-20T00:04:49Z",
+  "length": 184,
+  "lastrevid": 35853,
+  "revision": {
+    "revid": 35853,
+    "parentid": 19506,
+    "timestamp": "2025-06-20T00:04:49Z",
+    "sha1": "47a8fc006b100a58f72df772cdaa3d86913cb748",
+    "size": 184
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "455",
+        "relics": "Grimmy Award,Pride & Prejudice",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "In the Demon God Rocket Cabin: Assist System Base Effect +56%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Grimmy_Award_Pride_Prejudice.wiki",
+  "markdown_path": "markdown/Grimmy_Award_Pride_Prejudice.md"
+}

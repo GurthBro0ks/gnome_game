@@ -1,0 +1,52 @@
+{
+  "pageid": 8672,
+  "ns": 0,
+  "title": "Khipu",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Khipu",
+  "touched": "2025-06-20T00:20:01Z",
+  "length": 1666,
+  "lastrevid": 36199,
+  "revision": {
+    "revid": 36199,
+    "parentid": 34635,
+    "timestamp": "2025-06-20T00:20:01Z",
+    "sha1": "031b1db16e85f64ca5af1e16e7a00ddc027bf6bc",
+    "size": 1666
+  },
+  "categories": [
+    "CIV Relics",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Khipu",
+        "class_id": "22572",
+        "rank": "AA",
+        "affct": "CIV",
+        "birthday": "04-11",
+        "source": "Lottery Machine No.3 (0.12%)",
+        "description": "On Apr 11, 1974 AD, Harvard professor Urton successfully deciphered the Inca writing for the first time.<br>Khipu was a system of knots used by the Inca to record information. When studying Inca civilization, scientists were puzzled by the cotton strings left by the Inca. Why did the Inca have no form of writing? Finally, archaeologists from Harvard University deciphered that Khipu was a three-dimensional writing system. By using different knotting techniques and knot numbers, the Inca recorded  …",
+        "fame": "47",
+        "art": "48",
+        "fth": "36",
+        "civ": "68",
+        "tech": "29",
+        "ss1": "Catalyzed White Spores turn to Green by +0.2%<br>Catalyzed Green Spores turn to Blue by +0.2%",
+        "ss2": "Catalyzed White Spores turn to Green by +0.3%<br>Catalyzed Green Spores turn to Blue by +0.3%",
+        "ss3": "Catalyzed White Spores turn to Green by +0.4%<br>Catalyzed Green Spores turn to Blue by +0.4%",
+        "ss4": "Catalyzed White Spores turn to Green by +0.6%<br>Catalyzed Green Spores turn to Blue by +0.6%",
+        "ss5": "Catalyzed White Spores turn to Green by +0.8%<br>Catalyzed Green Spores turn to Blue by +0.8%",
+        "ss7": "Catalyzed White Spores turn to Green by +0.8%<br>Catalyzed Green Spores turn to Blue by +0.8%<br>Catalyzed White Spores turn to Green by +0.7% (Awakened)",
+        "skill1": "[[File:Surfclam skill II.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Water RES +30",
+        "skill2": "[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's CIV +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Khipu.wiki",
+  "markdown_path": "markdown/Khipu.md"
+}

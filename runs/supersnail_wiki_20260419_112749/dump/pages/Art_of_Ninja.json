@@ -1,0 +1,49 @@
+{
+  "pageid": 2123,
+  "ns": 0,
+  "title": "Art of Ninja",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Art_of_Ninja",
+  "touched": "2025-08-11T10:34:13Z",
+  "length": 891,
+  "lastrevid": 37508,
+  "revision": {
+    "revid": 37508,
+    "parentid": 17227,
+    "timestamp": "2025-08-11T10:34:13Z",
+    "sha1": "f6d290127f22fa302177cd8efe1922e6cafbc501",
+    "size": 891
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Art of Ninja",
+        "class_id": "20508",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "05-08",
+        "description": "On May 8, 1676 AD, \"Art of Ninja\", which would later be considered the Bible for ninjas, was finally finished.<br>The many clans of Yamato ninjas considered themselves orthodox. After the unification of Yamato, Ninja Master Fujibayashi compiled various ninjutsu arts into a book.",
+        "fame": "26",
+        "art": "28",
+        "fth": "28",
+        "civ": "48",
+        "tech": "24",
+        "ss1": "Per 10 Ninjutsu LVLs, Snail ATK +2<br>Ninjutsu Progress: 80/80",
+        "ss2": "Per 10 Ninjutsu LVLs, Snail ATK +4<br>Ninjutsu Progress: 80/80",
+        "ss3": "Per 10 Ninjutsu LVLs, Snail ATK +6<br>Ninjutsu Progress: 80/80",
+        "ss4": "Per 10 Ninjutsu LVLs, Snail ATK +10<br>Ninjutsu Progress: 80/80",
+        "ss7": "Per 10 Ninjutsu LVLs, Snail ATK +10<br>Ninjutsu Progress: 80/80<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Yamato skill I.png|50px]]Place in Yamato Museum: In Yamato, Snail ATK +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Art_of_Ninja.wiki",
+  "markdown_path": "markdown/Art_of_Ninja.md"
+}

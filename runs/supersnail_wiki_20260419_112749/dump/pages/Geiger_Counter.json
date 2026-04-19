@@ -1,0 +1,50 @@
+{
+  "pageid": 4649,
+  "ns": 0,
+  "title": "Geiger Counter",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Geiger_Counter",
+  "touched": "2025-06-16T23:15:22Z",
+  "length": 1066,
+  "lastrevid": 35073,
+  "revision": {
+    "revid": 35073,
+    "parentid": 23886,
+    "timestamp": "2025-06-16T23:15:22Z",
+    "sha1": "e720e18ee5cab85402caf61f37be3a6a14302fbd",
+    "size": 1066
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Geiger Counter",
+        "class_id": "22105",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "05-21",
+        "source": "Lottery Machine No.2 (0.07%), Wishing (0.03%)",
+        "description": "On May 21, 1908 AD, Geiger invented the world's first particle counter according to Rutherford's specifications.<br>The geiger counter, also known as the gas ionization detector, was invented by the German physicist, Geiger. It was originally designed to detect alpha particles, by detecting ionized helium. It is highly sensitive and has high amplitude, and is still widely used in various laboratories for nuclear and particle physics.",
+        "fame": "30",
+        "art": "18",
+        "fth": "30",
+        "civ": "28",
+        "tech": "48",
+        "ss1": "Per 10 Mecha Minions in battle:<br>> Troop ATK +1",
+        "ss2": "Per 10 Mecha Minions in battle:<br>> Troop ATK +2",
+        "ss3": "Per 10 Mecha Minions in battle:<br>> Troop ATK +3",
+        "ss4": "Per 10 Mecha Minions in battle:<br>> Troop ATK +5",
+        "ss7": "Per 10 Mecha Minions in battle:<br>> Troop ATK +5<br>Per 10 Mecha Minions in battle:<br>> Troop ATK +5 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail TECH +200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Geiger_Counter.wiki",
+  "markdown_path": "markdown/Geiger_Counter.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 7761,
+  "ns": 0,
+  "title": "SWG-T7 Fuel",
+  "fullurl": "https://supersnail.wiki.gg/wiki/SWG-T7_Fuel",
+  "touched": "2025-08-11T11:06:08Z",
+  "length": 816,
+  "lastrevid": 38890,
+  "revision": {
+    "revid": 38890,
+    "parentid": 32837,
+    "timestamp": "2025-08-11T11:06:08Z",
+    "sha1": "f68de6766b542d8699a7607ae56e684788a0c4be",
+    "size": 816
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "SWG-T7 Fuel",
+        "class_id": "20392",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Due to structural design flaws, the Thermohammer has always been unable to output at its maximum power. After years of development by the designer, a solution has finally been found: soaking the Thermohammer in fuel before operation enables it to run at full power. However, this method is too crude, and constant vigilance is needed to prevent the Thermohammer from exploding due to excessive power.",
+        "fame": "11",
+        "art": "17",
+        "fth": "18",
+        "civ": "16",
+        "tech": "28",
+        "ss1": "Chance to receive W-tads from Thermohammer +4%",
+        "ss2": "Chance to receive W-tads from Thermohammer +7%",
+        "ss3": "Chance to receive W-tads from Thermohammer +10%",
+        "ss4": "Chance to receive W-tads from Thermohammer +10%",
+        "ss7": "Chance to receive W-tads from Thermohammer +10%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/SWG-T7_Fuel.wiki",
+  "markdown_path": "markdown/SWG-T7_Fuel.md"
+}

@@ -1,0 +1,15 @@
+|image=.png
+|description=When the evil god destroyed a Snail, its rage coalesced in Snail Shell, turning the item spectral.
+|affct=FTH
+|hard=RUSH
+|source=Divine Neutral Chest (0.4%)
+|color=blue
+|earth=2
+|water=2
+|fire=7
+|wind=3
+|form=Angel
+|element=Wind
+|realm=Kemet
+|orangehard=ATK
+}}

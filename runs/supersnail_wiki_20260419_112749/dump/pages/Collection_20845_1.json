@@ -1,0 +1,47 @@
+{
+  "pageid": 11098,
+  "ns": 0,
+  "title": "Collection@20845 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20845_1",
+  "touched": "2025-08-11T11:12:19Z",
+  "length": 628,
+  "lastrevid": 39155,
+  "revision": {
+    "revid": 39155,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:12:19Z",
+    "sha1": "376a8dc04a5d8df293523b6f35a3745008d23dde",
+    "size": 628
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20845_1",
+        "class_id": "20845",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "collection@20845_2",
+        "fame": "12",
+        "art": "15",
+        "fth": "18",
+        "civ": "13",
+        "tech": "32",
+        "ss1": "Snail RUSH +20<br>Per Minigame installed, Snail ATK +2<br>Minigames Installed: 20/20",
+        "ss2": "Snail RUSH +40<br>Per Minigame installed, Snail ATK +4<br>Minigames Installed: 20/20",
+        "ss3": "Snail RUSH +60<br>Per Minigame installed, Snail ATK +6<br>Minigames Installed: 20/20",
+        "ss4": "Snail RUSH +60<br>Per Minigame installed, Snail ATK +6<br>Minigames Installed: 20/20",
+        "ss7": "Snail RUSH +60<br>Per Minigame installed, Snail ATK +6<br>Minigames Installed: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20845_1.wiki",
+  "markdown_path": "markdown/Collection_20845_1.md"
+}

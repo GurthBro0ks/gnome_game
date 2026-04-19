@@ -1,0 +1,55 @@
+{
+  "pageid": 341,
+  "ns": 0,
+  "title": "Virgo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Virgo",
+  "touched": "2025-08-11T10:37:31Z",
+  "length": 2057,
+  "lastrevid": 37531,
+  "revision": {
+    "revid": 37531,
+    "parentid": 30176,
+    "timestamp": "2025-08-11T10:34:43Z",
+    "sha1": "7b3e1aeead31864e9fcb2e82d11055ff16b9d177",
+    "size": 2057
+  },
+  "categories": [
+    "FAITH Relics",
+    "Orange FAITH Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Pages with non-numeric formatnum arguments",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Virgo",
+        "class_id": "21936",
+        "rank": "SSS",
+        "affct": "FAITH",
+        "description": "As I, the writer, stare at the shiny icon and contemplate about its unique effect, I recall how this Relic was obtained. Instead of coming up with a proper description, I just want to say:\nGolden blade, jeweled, gleaming in the night,\nIts radiant luster cuts through the twilight.",
+        "fame": "58",
+        "art": "66",
+        "fth": "110",
+        "civ": "77",
+        "tech": "51",
+        "ss1": "All Minion ATK +10%<br>All Minion DEF +10%<br>Deadly Ironball, ignore enemy DEF +20%<br>All Realm Spirit HARD Stats +5%",
+        "ss2": "All Minion ATK +10%<br>All Minion DEF +10%<br>Deadly Ironball, ignore enemy DEF +20%<br>All Realm Spirit HARD Stats +5%",
+        "ss3": "All Minion ATK +10%<br>All Minion DEF +10%<br>Deadly Ironball, ignore enemy DEF +20%<br>All Realm Spirit HARD Stats +5%",
+        "ss4": "All Minion ATK +10%<br>All Minion DEF +10%<br>Deadly Ironball, ignore enemy DEF +20%<br>All Realm Spirit HARD Stats +5%",
+        "ss5": "All Minion ATK +10%<br>All Minion DEF +10%<br>Deadly Ironball, ignore enemy DEF +20%<br>All Realm Spirit HARD Stats +5%",
+        "ss6": "All Minion ATK +10%<br>All Minion DEF +10%<br>Deadly Ironball, ignore enemy DEF +20%<br>All Realm Spirit HARD Stats +5%",
+        "ss7": "All Minion ATK +10%<br>All Minion DEF +10%<br>Deadly Ironball, ignore enemy DEF +20%<br>All Realm Spirit HARD Stats +5%<br>All Realm Spirit HARD Stats +5% (Awakened)",
+        "skill1": "[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, Travel SPD +9%",
+        "skill2": "[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, B-tads gained +15%",
+        "skill3": "[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, Cells collected +30%",
+        "mirage": "{{Mirage|name=Virgo Star|reward={{RewardIconWithLink|Relic RF, +15|orange}}\n|3name=Hegel|3rec=4.69M|3atk=54581|3defense=35938|3hp=864537|3weak=?\n|4name=Elizabeth I|4rec=8.81M|4atk=77187|4defense=50822|4hp=1553150|4weak=?\n|5name=Mozart|5rec=15.60M|5atk=104697|5defense=68935|5hp=2619985|5weak=?\n|6name=Louis XIV|6rec=32.94M|6atk=137066|6defense=90247|6hp=4170316|6weak=?\n|Arec=50.83M|Aatk=175281|Adefense=115410|Ahp=6570140|Aweak=?\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Virgo.wiki",
+  "markdown_path": "markdown/Virgo.md"
+}

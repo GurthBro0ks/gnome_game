@@ -1,0 +1,33 @@
+{
+  "pageid": 4709,
+  "ns": 0,
+  "title": "Baird's TV+Theremin",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Baird%27s_TV%2BTheremin",
+  "touched": "2025-06-20T00:04:19Z",
+  "length": 187,
+  "lastrevid": 35836,
+  "revision": {
+    "revid": 35836,
+    "parentid": 18563,
+    "timestamp": "2025-06-20T00:04:19Z",
+    "sha1": "6530a1b6aca271d403aa213c858a444e3fc36773",
+    "size": 187
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "305",
+        "relics": "Baird's TV,Theremin",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2 ART Master Scrolls used, Snail RUSH +5;ART Master Scrolls Used: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Baird_s_TV_Theremin.wiki",
+  "markdown_path": "markdown/Baird_s_TV_Theremin.md"
+}

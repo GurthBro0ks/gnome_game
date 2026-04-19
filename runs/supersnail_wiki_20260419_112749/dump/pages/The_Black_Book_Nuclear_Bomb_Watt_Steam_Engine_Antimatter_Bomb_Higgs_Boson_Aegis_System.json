@@ -1,0 +1,34 @@
+{
+  "pageid": 3821,
+  "ns": 0,
+  "title": "The Black Book+Nuclear Bomb+Watt Steam Engine+Antimatter Bomb+Higgs Boson+Aegis System",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Black_Book%2BNuclear_Bomb%2BWatt_Steam_Engine%2BAntimatter_Bomb%2BHiggs_Boson%2BAegis_System",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 271,
+  "lastrevid": 13743,
+  "revision": {
+    "revid": 13743,
+    "parentid": 0,
+    "timestamp": "2023-10-03T09:19:22Z",
+    "sha1": "e6a9d1c6635fceaf72a1706f66ae05a1623fc1ac",
+    "size": 271
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Black Book,Nuclear Bomb,Watt Steam Engine,Antimatter Bomb,Higgs Boson,Aegis System",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Per 120 Supreme Points, Snail ATK +12<br>Supreme Points: 12,000/12,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Black_Book_Nuclear_Bomb_Watt_Steam_Engine_Antimatter_Bomb_Higgs_Boson_Aegis_System.wiki",
+  "markdown_path": "markdown/The_Black_Book_Nuclear_Bomb_Watt_Steam_Engine_Antimatter_Bomb_Higgs_Boson_Aegis_System.md"
+}

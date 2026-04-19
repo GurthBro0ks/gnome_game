@@ -1,0 +1,33 @@
+{
+  "pageid": 8514,
+  "ns": 0,
+  "title": "Celtic Cross+12 Zodiac Runes+Teutonic Knight Emblem+Sierpinski Triangle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Celtic_Cross%2B12_Zodiac_Runes%2BTeutonic_Knight_Emblem%2BSierpinski_Triangle",
+  "touched": "2025-06-20T00:14:33Z",
+  "length": 269,
+  "lastrevid": 36027,
+  "revision": {
+    "revid": 36027,
+    "parentid": 34398,
+    "timestamp": "2025-06-20T00:14:33Z",
+    "sha1": "19bc968ad9ca5bd449d565def44d4c2234c37d1d",
+    "size": 269
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "639",
+        "relics": "Celtic Cross,12 Zodiac Runes,Teutonic Knight Emblem,Sierpinski Triangle",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +56;Swamp Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Celtic_Cross_12_Zodiac_Runes_Teutonic_Knight_Emblem_Sierpinski_Triangle.wiki",
+  "markdown_path": "markdown/Celtic_Cross_12_Zodiac_Runes_Teutonic_Knight_Emblem_Sierpinski_Triangle.md"
+}

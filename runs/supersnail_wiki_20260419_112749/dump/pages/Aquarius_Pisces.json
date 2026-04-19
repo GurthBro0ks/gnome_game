@@ -1,0 +1,33 @@
+{
+  "pageid": 10818,
+  "ns": 0,
+  "title": "Aquarius+Pisces",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Aquarius%2BPisces",
+  "touched": "2025-08-11T11:02:31Z",
+  "length": 123,
+  "lastrevid": 38731,
+  "revision": {
+    "revid": 38731,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:02:31Z",
+    "sha1": "f77d29f02d582ef2fb035d07a1847f465bb72982",
+    "size": 123
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "291",
+        "relics": "Aquarius,Pisces",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Troop Crit +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Aquarius_Pisces.wiki",
+  "markdown_path": "markdown/Aquarius_Pisces.md"
+}

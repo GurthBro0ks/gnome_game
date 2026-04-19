@@ -1,0 +1,53 @@
+{
+  "pageid": 8793,
+  "ns": 0,
+  "title": "Mead of Poem",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mead_of_Poem",
+  "touched": "2025-08-29T18:11:42Z",
+  "length": 1732,
+  "lastrevid": 39737,
+  "revision": {
+    "revid": 39737,
+    "parentid": 34772,
+    "timestamp": "2025-08-29T18:11:42Z",
+    "sha1": "092c77a22c790ea41e59046c8a57aa34309bb2ca",
+    "size": 1732
+  },
+  "categories": [
+    "FAITH Relics",
+    "Pages with broken file links",
+    "Purple FAITH Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mead of Poem",
+        "class_id": "22562",
+        "rank": "AAA",
+        "affct": "FAITH",
+        "birthday": "04-12",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Apr 12, 20000 BC, Odin took the Mead of Poem from the hands of the frost giant Suttungr.<br>Out of intense jealousy, two dark dwarves killed Kvasir, a creature born from the spittle of the gods, and used its blood to make an incredible elixir, the Mead of Poem, which can turn its drinker into a great poet. However, due to their arrogance, this secret treasure was eventually stolen by a frost giant. Upon learning of this, Odin personally intervened and, relying on his extraordinary wisdom, ret …",
+        "fame": "41",
+        "art": "47",
+        "fth": "75",
+        "civ": "34",
+        "tech": "46",
+        "ss1": "When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +6%<br>Angel Minion DEF +3%",
+        "ss2": "When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +8%<br>Angel Minion DEF +4%",
+        "ss3": "When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +10%<br>Angel Minion DEF +5%",
+        "ss4": "When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +14%<br>Angel Minion DEF +7%",
+        "ss5": "When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +18%<br>Angel Minion DEF +9%",
+        "ss7": "When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +18%<br>Angel Minion DEF +9%<br>When you receive Orange Spores from Catalysis:<br>> Gain +1 Spore Voucher by +14% (Awakened)",
+        "skill1": "[[File:Prairiesanctum skill II.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Cap +15%",
+        "skill2": "[[File:Prairiesanctum skill II.png|50px]]Place in Prairie Sanctum: This Relic's FTH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mead_of_Poem.wiki",
+  "markdown_path": "markdown/Mead_of_Poem.md"
+}

@@ -1,0 +1,51 @@
+{
+  "pageid": 4832,
+  "ns": 0,
+  "title": "Pakal's Sarcophagus",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pakal%27s_Sarcophagus",
+  "touched": "2025-08-11T11:18:14Z",
+  "length": 1606,
+  "lastrevid": 39412,
+  "revision": {
+    "revid": 39412,
+    "parentid": 33336,
+    "timestamp": "2025-08-11T11:18:14Z",
+    "sha1": "f2443962600f482d4e6efc3cd2f3a86cb84380ea",
+    "size": 1606
+  },
+  "categories": [
+    "CIV Relics",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Pakal's Sarcophagus",
+        "class_id": "22186",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "10-11",
+        "description": "On Oct 11, 683 AD, Maya emperor Pakal was buried in a temple.<br>Pakal the Great, considered the greatest Maya king by historians, is in this sarcophagus. His tomb was accidentally discovered in a temple when a professor found that the temple floor tiles were strange. After a year of excavation, Pakal's tomb was finally discovered, containing his coffin and various precious funeral objects. The carvings at the head of the sarcophagus caused heated discussions at the time because of their spacesh …",
+        "fame": "48",
+        "art": "46",
+        "fth": "42",
+        "civ": "75",
+        "tech": "32",
+        "ss1": "Per 30 Zombie Minions in battle:<br>> Troop HP +120<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +12",
+        "ss2": "Per 30 Zombie Minions in battle:<br>> Troop HP +160<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +16",
+        "ss3": "Per 30 Zombie Minions in battle:<br>> Troop HP +200<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +20",
+        "ss4": "Per 30 Zombie Minions in battle:<br>> Troop HP +280<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +28",
+        "ss5": "Per 30 Zombie Minions in battle:<br>> Troop HP +360<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +36",
+        "ss7": "Per 30 Zombie Minions in battle:<br>> Troop HP +360<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +36<br>Per 30 Zombie Minions in battle:<br>> Troop HP +280 (Awakened)",
+        "skill1": "[[File:Murika skill II.png|50px]]Place in Murikan Museum: This Relic's CIV +10",
+        "skill2": "[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x Orange Reagent Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pakal_s_Sarcophagus.wiki",
+  "markdown_path": "markdown/Pakal_s_Sarcophagus.md"
+}

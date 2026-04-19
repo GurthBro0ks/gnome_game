@@ -1,0 +1,64 @@
+{
+  "pageid": 3079,
+  "ns": 0,
+  "title": "Nobel's Will",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nobel%27s_Will",
+  "touched": "2024-11-04T01:10:57Z",
+  "length": 2768,
+  "lastrevid": 30408,
+  "revision": {
+    "revid": 30408,
+    "parentid": 30066,
+    "timestamp": "2024-10-17T17:46:24Z",
+    "sha1": "cf97effc6d84a95ac4fa3a8ce66e934e4cad4386",
+    "size": 2768
+  },
+  "categories": [
+    "Divine Neutral Chest Drop Boost",
+    "Exploration Cell Drop Boost",
+    "FAME Boost",
+    "FAME Relics",
+    "Lumber Camp Output Boost",
+    "Lumber Camp Skill",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Relics",
+    "Taichi Fish Output",
+    "Wishing Boost",
+    "Zombie Cell Drop Boost",
+    "Zombie Minion ATK Boost",
+    "Zombie Minion RUSH Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Nobel's Will",
+        "rank": "SSS",
+        "affct": "FAME",
+        "birthday": "09-08",
+        "source": "* Grandmaster Scrolls (0.79%), Lottery Machine (0.09%), Wishing (0.08%)\n* [[Weekly_Events_History#Lottery_Week|Lottery Event]] 9/22/2023 - 9/28/2023",
+        "description": "On Sep 8, 1895 AD, Nobel left this will which promoted the world's development.\n\nNobel rejoiced at the news that his family's factory went bankrupt because it meant that he could fully engage in explosives research. Five years later, a massive explosion destroyed his factory and took his brother's life. In the following three years, his explosives were purchased by various countries, bringing Nobel wealth. But he found that wealth did not bring him happiness. Ultimately, Nobel used all of his we …",
+        "fame": "108",
+        "art": "70",
+        "fth": "66",
+        "civ": "67",
+        "tech": "51",
+        "ss1": "When in Zombie Form: Gain +3% Zombie Cells in explorations<br>Per 60 Zombie Minions in battle, Troop ATK +9<br>Per 60 Zombie Minions in battle, Troop RUSH +9",
+        "ss2": "When in Zombie Form: Gain +4% Zombie Cells in explorations<br>Per 60 Zombie Minions in battle, Troop ATK +18<br>Per 60 Zombie Minions in battle, Troop RUSH +18",
+        "ss3": "When in Zombie Form: Gain +5% Zombie Cells in explorations<br>Per 60 Zombie Minions in battle, Troop ATK +27<br>Per 60 Zombie Minions in battle, Troop RUSH +27",
+        "ss4": "When in Zombie Form: Gain +7% Zombie Cells in explorations<br>Per 60 Zombie Minions in battle, Troop ATK +45<br>Per 60 Zombie Minions in battle, Troop RUSH +45",
+        "ss5": "When in Zombie Form: Gain +9% Zombie Cells in explorations<br>Per 60 Zombie Minions in battle, Troop ATK +63<br>Per 60 Zombie Minions in battle, Troop RUSH +63",
+        "ss6": "When in Zombie Form: Gain +12% Zombie Cells in explorations<br>Per 60 Zombie Minions in battle, Troop ATK +90<br>Per 60 Zombie Minions in battle, Troop RUSH +90",
+        "ss7": "When in Zombie Form: Gain +12% Zombie Cells in explorations<br>Per 60 Zombie Minions in battle, Troop ATK +90<br>Per 60 Zombie Minions in battle, Troop RUSH +90<br>Per 60 Zombie Minions in battle, Troop ATK +90 (Awakened)",
+        "skill1": "[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: This Relic's FAME +15",
+        "skill2": "[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Lumber Camp Max +30%",
+        "skill3": "[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: Wood Output +30%",
+        "mirage": "{{#invoke:snailDB|parseMirage|Nobel's Will}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nobel_s_Will.wiki",
+  "markdown_path": "markdown/Nobel_s_Will.md"
+}

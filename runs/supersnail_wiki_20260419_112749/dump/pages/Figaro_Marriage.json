@@ -1,0 +1,58 @@
+{
+  "pageid": 1267,
+  "ns": 0,
+  "title": "Figaro Marriage",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Figaro_Marriage",
+  "touched": "2024-09-06T10:00:43Z",
+  "length": 2101,
+  "lastrevid": 18110,
+  "revision": {
+    "revid": 18110,
+    "parentid": 17678,
+    "timestamp": "2023-11-13T04:02:45Z",
+    "sha1": "567fa5e44fccf2d6cfd5f4232fcefe19537f0922",
+    "size": 2101
+  },
+  "categories": [
+    "ART Relics",
+    "ATK Boost",
+    "DEF Boost",
+    "Enhanced by Mirage Gems",
+    "Exploration Reagent Drop Boost",
+    "Hellas Exploration Boost",
+    "Hellas Museum Boost",
+    "Minion ATK Boost",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Figaro Marriage",
+        "rank": "AAA",
+        "affct": "ART",
+        "birthday": "11-01",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)",
+        "description": "On Nov 1, 1784, Mozart wrote the greatest opera he ever composed.\n\nHe spent a year writing \"The Marriage of Figaro\" which premiered at the Vienna Operahouse. It was a masterpiece containing great music, well-rounded character development, and dramatic interactions. Such a wonderful story had only made the Austrian king yawn once as he was enjoying the 4-hour opera.\n\n[Classic Quotes]\n\nWhen a dog bites a man, that is not news, but if a man bites a dog, that is news.<br>You deserve what you have do …",
+        "fame": "42",
+        "art": "75",
+        "fth": "46",
+        "civ": "35",
+        "tech": "45",
+        "ss1": "Per 5 Mirage Gems gained, Snail ATK +3<br>Per 5 Mirage Gems gained, Snail DEF +3<br>Mirage Gems Gained: 300/300",
+        "ss2": "Per 5 Mirage Gems gained, Snail ATK +4<br>Per 5 Mirage Gems gained, Snail DEF +4<br>Mirage Gems Gained: 300/300",
+        "ss3": "Per 5 Mirage Gems gained, Snail ATK +5<br>Per 5 Mirage Gems gained, Snail DEF +5<br>Mirage Gems Gained: 300/300",
+        "ss4": "Per 5 Mirage Gems gained, Snail ATK +7<br>Per 5 Mirage Gems gained, Snail DEF +7<br>Mirage Gems Gained: 300/300",
+        "ss5": "Per 5 Mirage Gems gained, Snail ATK +9<br>Per 5 Mirage Gems gained, Snail DEF +9<br>Mirage Gems Gained: 300/300",
+        "ss7": "Per 5 Mirage Gems gained, Snail ATK +9<br>Per 5 Mirage Gems gained, Snail DEF +9<br>Mirage Gems Gained: 300/300<br>Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Hellas skill II.png|50px]] Place in Hellenic Museum: In Hellas, 2x Blue Card Drops +7.5%",
+        "skill2": "[[File:Hellas skill II.png|50px]] Place in Hellenic Museum: In Hellas, 2x Blue Reagent Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Figaro_Marriage.wiki",
+  "markdown_path": "markdown/Figaro_Marriage.md"
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 7943,
+  "ns": 0,
+  "title": "Hunterston Brooch+Babylonian World Map+Edison's Light Bulb+Altamira Cave Paintings+The Miracle of St. Mark+Bitcoin",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hunterston_Brooch%2BBabylonian_World_Map%2BEdison%27s_Light_Bulb%2BAltamira_Cave_Paintings%2BThe_Miracle_of_St._Mark%2BBitcoin",
+  "touched": "2025-02-21T19:52:38Z",
+  "length": 283,
+  "lastrevid": 33394,
+  "revision": {
+    "revid": 33394,
+    "parentid": 0,
+    "timestamp": "2025-02-21T19:52:38Z",
+    "sha1": "70f1e439e9ce54dfcd8a7f9867b78f701ab7614b",
+    "size": 283
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Hunterston Brooch,Babylonian World Map,Edison's Light Bulb,Altamira Cave Paintings,The Miracle of St. Mark,Bitcoin",
+        "rank": "orange",
+        "amount": "6",
+        "category": "minion",
+        "description": "Snail Leadership +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hunterston_Brooch_Babylonian_World_Map_Edison_s_Light_Bulb_Altamira_Cave_Paintings_The_Miracle_of_St._Mark_Bitcoin.wiki",
+  "markdown_path": "markdown/Hunterston_Brooch_Babylonian_World_Map_Edison_s_Light_Bulb_Altamira_Cave_Paintings_The_Miracle_of_St._Mark_Bitcoin.md"
+}

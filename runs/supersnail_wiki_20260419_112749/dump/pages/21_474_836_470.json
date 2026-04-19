@@ -1,0 +1,47 @@
+{
+  "pageid": 3934,
+  "ns": 0,
+  "title": "21,474,836,470",
+  "fullurl": "https://supersnail.wiki.gg/wiki/21,474,836,470",
+  "touched": "2025-09-21T20:56:08Z",
+  "length": 1853,
+  "lastrevid": 38401,
+  "revision": {
+    "revid": 38401,
+    "parentid": 21470,
+    "timestamp": "2025-08-11T10:54:55Z",
+    "sha1": "b377dedd42c34d427bdb0d44c9ebcf2b5f0dfcbe",
+    "size": 1853
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "21,474,836,470",
+        "class_id": "20431",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "When these cockroaches converge, enough conviction is generated to lead to the collective belief of \"The enemy shall be vanquished!\" This is similar to low-level creatures like termites escalating in power when they increase in number. The cockroaches are able to communicate telepathically with other intelligent beings in any language.\n50,000 Cockroaches: equivalent intelligence of an ordinary mouse\n980,000 Cockroaches: equivalent intelligence of an ordinary chimpanzee\n11.43 Million Cockroaches: …",
+        "fame": "100",
+        "art": "95",
+        "fth": "95",
+        "civ": "95",
+        "tech": "95",
+        "ss1": "Per 100 Minions Cloned, Snail HP +10<br>Per 100 Minions Cloned, Snail ATK +1<br>Per 100 Minions Cloned, Snail DEF +1<br>Per 100 Minions Cloned, Snail RUSH +1<br>Minions Cloned: 10000/10000",
+        "ss2": "Per 100 Minions Cloned, Snail HP +20<br>Per 100 Minions Cloned, Snail ATK +2<br>Per 100 Minions Cloned, Snail DEF +2<br>Per 100 Minions Cloned, Snail RUSH +2<br>Minions Cloned: 10000/10000",
+        "ss3": "Per 100 Minions Cloned, Snail HP +30<br>Per 100 Minions Cloned, Snail ATK +3<br>Per 100 Minions Cloned, Snail DEF +3<br>Per 100 Minions Cloned, Snail RUSH +3<br>Minions Cloned: 10000/10000",
+        "ss4": "Per 100 Minions Cloned, Snail HP +30<br>Per 100 Minions Cloned, Snail ATK +3<br>Per 100 Minions Cloned, Snail DEF +3<br>Per 100 Minions Cloned, Snail RUSH +3<br>Minions Cloned: 10000/10000",
+        "ss7": "Per 100 Minions Cloned, Snail HP +30<br>Per 100 Minions Cloned, Snail ATK +3<br>Per 100 Minions Cloned, Snail DEF +3<br>Per 100 Minions Cloned, Snail RUSH +3<br>Minions Cloned: 10000/10000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/21_474_836_470.wiki",
+  "markdown_path": "markdown/21_474_836_470.md"
+}

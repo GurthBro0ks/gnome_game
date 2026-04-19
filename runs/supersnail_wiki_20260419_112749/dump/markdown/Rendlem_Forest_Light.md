@@ -1,0 +1,14 @@
+|image=
+|description=A traveler was struck by an unidentified flying object while logging in Rendlem Forest, and when he awoke, he discovered that a week had passed and he had no impression of what happened.
+|affct=TECH
+|hard=RUSH
+|source=Unknown|color=green
+|earth=1
+|water=1
+|fire=1
+|wind=3
+|form=Dragon
+|element=Water
+|realm=Kemet
+|orangehard=HP
+}}

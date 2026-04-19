@@ -1,0 +1,35 @@
+{
+  "pageid": 4169,
+  "ns": 0,
+  "title": "Gold-plated Bird+Golden Monkey",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gold-plated_Bird%2BGolden_Monkey",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 209,
+  "lastrevid": 18414,
+  "revision": {
+    "revid": 18414,
+    "parentid": 15968,
+    "timestamp": "2023-11-13T21:40:41Z",
+    "sha1": "ed02caf120201a1e6d7807177756aeffaa367928",
+    "size": 209
+  },
+  "categories": [
+    "Minion",
+    "Minion Element DMG Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Gold-plated Bird,Golden Monkey",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Troop All ELMT DMG +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gold-plated_Bird_Golden_Monkey.wiki",
+  "markdown_path": "markdown/Gold-plated_Bird_Golden_Monkey.md"
+}

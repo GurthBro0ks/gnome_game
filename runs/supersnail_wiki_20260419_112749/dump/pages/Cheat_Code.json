@@ -1,0 +1,48 @@
+{
+  "pageid": 1439,
+  "ns": 0,
+  "title": "Cheat Code",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cheat_Code",
+  "touched": "2025-11-21T06:19:54Z",
+  "length": 1120,
+  "lastrevid": 41779,
+  "revision": {
+    "revid": 41779,
+    "parentid": 38051,
+    "timestamp": "2025-11-21T06:19:54Z",
+    "sha1": "dbad8787c30348c86d0932ee5d15ac4f7dd3750a",
+    "size": 1120
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Cheat Code",
+        "class_id": "20374",
+        "rank": "Green",
+        "affct": "TECH",
+        "source": "Found on the [[Terminal]] after using Cheat Codes in [[Gene Simulation]] and reaching 700F",
+        "description": "On the memo is a string of programming code. It's most likely a backdoor left by the coder. Judging from its messy coding, the awful format, and the swearing in the annotations, the coder is probably undereducated and rude.",
+        "fame": "15",
+        "art": "17",
+        "fth": "16",
+        "civ": "13",
+        "tech": "29",
+        "ss1": "In Gene Sims, Snail HP +1000<br>In Gene Sims, Snail ATK +100<br>In Gene Sims, Snail DEF +100<br>In Gene Sims, Snail RUSH +100",
+        "ss2": "In Gene Sims, Snail HP +2000<br>In Gene Sims, Snail ATK +200<br>In Gene Sims, Snail DEF +200<br>In Gene Sims, Snail RUSH +200",
+        "ss3": "In Gene Sims, Snail HP +3000<br>In Gene Sims, Snail ATK +300<br>In Gene Sims, Snail DEF +300<br>In Gene Sims, Snail RUSH +300",
+        "ss4": "In Gene Sims, Snail HP +3000<br>In Gene Sims, Snail ATK +300<br>In Gene Sims, Snail DEF +300<br>In Gene Sims, Snail RUSH +300",
+        "ss7": "In Gene Sims, Snail HP +3000<br>In Gene Sims, Snail ATK +300<br>In Gene Sims, Snail DEF +300<br>In Gene Sims, Snail RUSH +300<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cheat_Code.wiki",
+  "markdown_path": "markdown/Cheat_Code.md"
+}

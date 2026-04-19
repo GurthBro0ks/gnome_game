@@ -1,0 +1,33 @@
+{
+  "pageid": 4174,
+  "ns": 0,
+  "title": "Stockholm Declaration+Last Self Portrait+Tao Te Ching",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Stockholm_Declaration%2BLast_Self_Portrait%2BTao_Te_Ching",
+  "touched": "2025-06-20T00:00:53Z",
+  "length": 209,
+  "lastrevid": 35766,
+  "revision": {
+    "revid": 35766,
+    "parentid": 23157,
+    "timestamp": "2025-06-20T00:00:53Z",
+    "sha1": "170bec576a5b5ed12f05b7c0ac934a393d347136",
+    "size": 209
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "533",
+        "relics": "Stockholm Declaration,Last Self Portrait,Tao Te Ching",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "In the Rebel Rocket Cabin: Dark Matter Reactor Base Effect +64%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Stockholm_Declaration_Last_Self_Portrait_Tao_Te_Ching.wiki",
+  "markdown_path": "markdown/Stockholm_Declaration_Last_Self_Portrait_Tao_Te_Ching.md"
+}

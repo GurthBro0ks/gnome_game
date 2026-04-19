@@ -1,0 +1,66 @@
+{
+  "pageid": 1795,
+  "ns": 0,
+  "title": "Sistine Madonna",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sistine_Madonna",
+  "touched": "2024-11-04T01:10:54Z",
+  "length": 2267,
+  "lastrevid": 30124,
+  "revision": {
+    "revid": 30124,
+    "parentid": 26147,
+    "timestamp": "2024-10-15T15:46:15Z",
+    "sha1": "951836a23992c1329726103acfce122167b48c81",
+    "size": 2267
+  },
+  "categories": [
+    "ART Relics",
+    "ATK Boost",
+    "DEF Boost",
+    "DMG Boosts",
+    "DNA Boost",
+    "Exploration INTEL Boost",
+    "HP Boost",
+    "Missing Info",
+    "Orange ART Relics",
+    "Orange Relics",
+    "Relic Boost",
+    "Relics",
+    "Rewards Organs",
+    "Wishing Boost",
+    "Yamato Exploration Boost",
+    "Yamato Museum Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Sistine Madonna",
+        "rank": "SSS",
+        "affct": "ART",
+        "birthday": "10-26",
+        "source": "Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wishing (0.08%)",
+        "description": "On Oct 26, 1514 AD, Raphael completed the painting Sistine Madonna for San Sisto, Piacenza.\n\nThe Sistine Madonna supersedes the cold and unapproachable Madonnas of the Middle Ages. The triangular composition composed of the Virgin Mary and two saints below is well balanced. Raphael created an illusion of depth in the picture by leaving space between the characters.\n\n[The Sistine Madonna Info]\n\nSpecification: 265x196cm<br>Type: Oil Painting<br>Collected by: Zwinger museum, Dresden, Germany",
+        "fame": "55",
+        "art": "109",
+        "fth": "54",
+        "civ": "66",
+        "tech": "78",
+        "ss1": "Snail ATK +30<br>Per 40 wishes made, Snail ATK +12<br>Per 40 wishes made, Snail DEF +12<br>Wishes Made: 400/400",
+        "ss2": "Snail ATK +40<br>Per 40 wishes made, Snail ATK +16<br>Per 40 wishes made, Snail DEF +16<br>Wishes Made: 400/400",
+        "ss3": "Snail ATK +50<br>Per 40 wishes made, Snail ATK +20<br>Per 40 wishes made, Snail DEF +20<br>Wishes Made: 400/400",
+        "ss4": "Snail ATK +70<br>Per 40 wishes made, Snail ATK +28<br>Per 40 wishes made, Snail DEF +28<br>Wishes Made: 400/400",
+        "ss5": "Snail ATK +90<br>Per 40 wishes made, Snail ATK +36<br>Per 40 wishes made, Snail DEF +36<br>Wishes Made: 400/400",
+        "ss6": "Snail ATK +120<br>Per 40 wishes made, Snail ATK +48<br>Per 40 wishes made, Snail DEF +48<br>Wishes Made: 400/400",
+        "ss7": "Snail ATK +120<br>Per 40 wishes made, Snail ATK +48<br>Per 40 wishes made, Snail DEF +48<br>Wishes Made: 400/400<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Snail ATK +600",
+        "skill2": "[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, INTEL gained +15%",
+        "skill3": "[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, DMG +30%",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sistine_Madonna.wiki",
+  "markdown_path": "markdown/Sistine_Madonna.md"
+}

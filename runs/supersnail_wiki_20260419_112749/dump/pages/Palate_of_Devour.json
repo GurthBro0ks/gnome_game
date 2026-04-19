@@ -1,0 +1,29 @@
+{
+  "pageid": 5303,
+  "ns": 0,
+  "title": "Palate of Devour",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Palate_of_Devour",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 517,
+  "lastrevid": 32589,
+  "revision": {
+    "revid": 32589,
+    "parentid": 19434,
+    "timestamp": "2024-12-28T15:26:14Z",
+    "sha1": "035723e791e01813507499ce4b8bf6801650f720",
+    "size": 517
+  },
+  "categories": [
+    "CIV Shells",
+    "DEF Boost",
+    "Mutant Form",
+    "RUSH Boost",
+    "Shells",
+    "Time Rift",
+    "Wind DMG Boost"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Palate_of_Devour.wiki",
+  "markdown_path": "markdown/Palate_of_Devour.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 8887,
+  "ns": 0,
+  "title": "Dialectics of Nature+Nightingale Medal+Ansidei Madonna+Holy Grail+Frederick Portrait",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dialectics_of_Nature%2BNightingale_Medal%2BAnsidei_Madonna%2BHoly_Grail%2BFrederick_Portrait",
+  "touched": "2025-08-11T10:32:56Z",
+  "length": 231,
+  "lastrevid": 35711,
+  "revision": {
+    "revid": 35711,
+    "parentid": 34907,
+    "timestamp": "2025-06-19T23:56:54Z",
+    "sha1": "ca783ee22bbec72ae1e7aa851733d098c37b49c5",
+    "size": 231
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "558",
+        "relics": "Dialectics of Nature,Nightingale Medal,Ansidei Madonna,Holy Grail,Frederick Portrait",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "In the Gaia Rocket Cabin: All device base effects +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dialectics_of_Nature_Nightingale_Medal_Ansidei_Madonna_Holy_Grail_Frederick_Portrait.wiki",
+  "markdown_path": "markdown/Dialectics_of_Nature_Nightingale_Medal_Ansidei_Madonna_Holy_Grail_Frederick_Portrait.md"
+}

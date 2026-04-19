@@ -1,0 +1,23 @@
+{
+  "pageid": 798,
+  "ns": 0,
+  "title": "Events",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Events",
+  "touched": "2025-10-21T22:42:21Z",
+  "length": 12732,
+  "lastrevid": 41651,
+  "revision": {
+    "revid": 41651,
+    "parentid": 32093,
+    "timestamp": "2025-10-21T22:42:21Z",
+    "sha1": "cdf910b7da24aa983be5d5c96791587943e83f1f",
+    "size": 12732
+  },
+  "categories": [
+    "Events"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Events.wiki",
+  "markdown_path": "markdown/Events.md"
+}

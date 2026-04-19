@@ -1,0 +1,29 @@
+{
+  "pageid": 8198,
+  "ns": 0,
+  "title": "Keyboard",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Keyboard",
+  "touched": "2025-04-04T18:52:34Z",
+  "length": 307,
+  "lastrevid": 33864,
+  "revision": {
+    "revid": 33864,
+    "parentid": 33863,
+    "timestamp": "2025-04-04T18:52:34Z",
+    "sha1": "d352d14cd38037e51d052ebd3a9bac13db27a65f",
+    "size": 307
+  },
+  "categories": [
+    "DEF Boost",
+    "Dragon Form",
+    "RUSH Boost",
+    "Shells",
+    "TECH Shells",
+    "Time Rift",
+    "Wind DMG Boost"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Keyboard.wiki",
+  "markdown_path": "markdown/Keyboard.md"
+}

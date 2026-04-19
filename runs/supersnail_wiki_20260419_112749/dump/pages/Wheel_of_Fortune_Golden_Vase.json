@@ -1,0 +1,33 @@
+{
+  "pageid": 3722,
+  "ns": 0,
+  "title": "Wheel of Fortune+Golden Vase",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wheel_of_Fortune%2BGolden_Vase",
+  "touched": "2025-07-02T09:42:31Z",
+  "length": 175,
+  "lastrevid": 37050,
+  "revision": {
+    "revid": 37050,
+    "parentid": 13620,
+    "timestamp": "2025-07-02T09:42:31Z",
+    "sha1": "b80146b3caf0b6076f0bcba58b7b94fc7db4d041",
+    "size": 175
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "210",
+        "relics": "Wheel of Fortune,Golden Vase",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 40 wishes made, Snail ATK +28;Wishes Made: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wheel_of_Fortune_Golden_Vase.wiki",
+  "markdown_path": "markdown/Wheel_of_Fortune_Golden_Vase.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 3097,
+  "ns": 0,
+  "title": "Ancient Colored Shell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ancient_Colored_Shell",
+  "touched": "2025-09-30T21:09:53Z",
+  "length": 752,
+  "lastrevid": 40367,
+  "revision": {
+    "revid": 40367,
+    "parentid": 40366,
+    "timestamp": "2025-09-30T21:09:53Z",
+    "sha1": "f3871f04f10dd563025fdb0fd683d3008b557a33",
+    "size": 752
+  },
+  "categories": [
+    "FTH Relics",
+    "Goldfish",
+    "Green FTH Relics",
+    "Green Relics",
+    "Relics",
+    "Troop Casualty Reduction"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ancient Colored Shell",
+        "rank": "Green",
+        "affct": "FTH",
+        "source": "[[Species_Device#Goldfish_Altar|Goldfish Altar]]",
+        "description": "Ancient Colored Shell comes from a shellfish raised by the Goldfish through a secret technique. In addition to its natural, exquisite shape and wonderful colors, it is also unimaginably hard. Even high-tech weapons can't scratch its surface. The impregnability forced researchers yo abort composition analysis, and it was able to leave the lab and become part of the snail's collection.",
+        "fame": "14",
+        "art": "15",
+        "fth": "31",
+        "civ": "13",
+        "tech": "17",
+        "ss1": "Against Goldfish, Troop Casualty -1%",
+        "ss2": "Against Goldfish, Troop Casualty -2%",
+        "ss3": "Against Goldfish, Troop Casualty -3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ancient_Colored_Shell.wiki",
+  "markdown_path": "markdown/Ancient_Colored_Shell.md"
+}

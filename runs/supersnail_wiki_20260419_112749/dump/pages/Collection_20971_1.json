@@ -1,0 +1,47 @@
+{
+  "pageid": 11278,
+  "ns": 0,
+  "title": "Collection@20971 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20971_1",
+  "touched": "2025-08-11T11:18:57Z",
+  "length": 673,
+  "lastrevid": 39444,
+  "revision": {
+    "revid": 39444,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:18:57Z",
+    "sha1": "a0a47806a327a92c0629ac3b680b84e8643dd95c",
+    "size": 673
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20971_1",
+        "class_id": "20971",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "collection@20971_2",
+        "fame": "33",
+        "art": "13",
+        "fth": "17",
+        "civ": "15",
+        "tech": "12",
+        "ss1": "Per 3 Floating Isle species defeated, Snail HP +10<br>Floating Isle species defeated: 180/180",
+        "ss2": "Per 3 Floating Isle species defeated, Snail HP +20<br>Floating Isle species defeated: 180/180",
+        "ss3": "Per 3 Floating Isle species defeated, Snail HP +30<br>Floating Isle species defeated: 180/180",
+        "ss4": "Per 3 Floating Isle species defeated, Snail HP +30<br>Floating Isle species defeated: 180/180",
+        "ss7": "Per 3 Floating Isle species defeated, Snail HP +30<br>Floating Isle species defeated: 180/180<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20971_1.wiki",
+  "markdown_path": "markdown/Collection_20971_1.md"
+}

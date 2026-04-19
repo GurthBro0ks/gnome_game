@@ -1,0 +1,55 @@
+{
+  "pageid": 566,
+  "ns": 0,
+  "title": "Buddha Tooth Sarira",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Buddha_Tooth_Sarira",
+  "touched": "2024-09-06T09:58:44Z",
+  "length": 1344,
+  "lastrevid": 27630,
+  "revision": {
+    "revid": 27630,
+    "parentid": 22529,
+    "timestamp": "2024-06-01T03:05:54Z",
+    "sha1": "e4d17e59bc1cdb5bf3d92dd6682c9e710b59c2a4",
+    "size": 1344
+  },
+  "categories": [
+    "Bharata Exploration Boost",
+    "Bharata Museum Boost",
+    "Blue FTH Relics",
+    "Blue Relics",
+    "Exploration B-tad Drop Boost",
+    "FTH Relics",
+    "HP Boost",
+    "Little Monk Boost",
+    "Offering Speed Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Buddha Tooth Sarira",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "10-29",
+        "source": "Lottery Machine (0.03%), Wishing (0.85%), Bharata Treasure Maps (20%)",
+        "description": "On Oct 29, 485 BC, this Buddhist treasure was enshrined in the pagoda by Ashoka the Great.\n\nAshoka took out the Buddha's relics and 84,000 Sarira to enshrine them in various pagodas, including this tooth Sarira. When Buddha underwent the Nirvana, in addition to 84,000 Sarira, he also left several other Sarira made of his body parts, including the most famous Buddha Tooth. It is not only a unique treasure, but also a supreme relic of Buddhism.\n\n[Basic Info]\n\nThe Vidudabha Era: Enshrined in more t …",
+        "fame": "28",
+        "art": "29",
+        "fth": "45",
+        "civ": "32",
+        "tech": "20",
+        "ss1": "Soul Offering SPD +0.4%",
+        "ss2": "Soul Offering SPD +0.8%",
+        "ss3": "Soul Offering SPD +1.2%",
+        "ss4": "Soul Offering SPD +2%",
+        "ss7": "Soul Offering SPD +2%<br>Soul Offering SPD +2% (Awakened)",
+        "skill1": "[[File:Bharata skill I.png|50px]]Place in Bharata Museum: In Bharata, FTH Checks -5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Buddha_Tooth_Sarira.wiki",
+  "markdown_path": "markdown/Buddha_Tooth_Sarira.md"
+}

@@ -1,0 +1,51 @@
+{
+  "pageid": 8604,
+  "ns": 0,
+  "title": "Jilin-1 Meteorite",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jilin-1_Meteorite",
+  "touched": "2025-06-16T20:51:21Z",
+  "length": 1071,
+  "lastrevid": 34555,
+  "revision": {
+    "revid": 34555,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:51:21Z",
+    "sha1": "8efd9a12c03cdc368d70923c87cfc46dc07d8d05",
+    "size": 1071
+  },
+  "categories": [
+    "Blue FAME Relics",
+    "Blue Relics",
+    "FAME Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Jilin-1 Meteorite",
+        "class_id": "22412",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "05-07",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On May 7, 1976 AD, a meteor shower occurred in the Jilin region.<br>Jilin-1 is the largest stone meteorite in the world, weighing up to 1,770 kilograms. It is estimated that its parent body was a planet from the asteroid belt that formed about 4.6 billion years ago. About 8 million years ago, a celestial body collided with the parent body of the Jilin-1 meteorite, causing it to become a meteor shower and eventually fall to Earth.",
+        "fame": "44",
+        "art": "23",
+        "fth": "23",
+        "civ": "28",
+        "tech": "36",
+        "ss1": "Like The Great Collector, obtained B-Tadpoles +5%",
+        "ss2": "Like The Great Collector, obtained B-Tadpoles +10%",
+        "ss3": "Like The Great Collector, obtained B-Tadpoles +15%",
+        "ss4": "Like The Great Collector, obtained B-Tadpoles +25%",
+        "ss7": "Like The Great Collector, obtained B-Tadpoles +25%<br>Like The Great Collector, obtained B-Tadpoles +25% (Awakened)",
+        "skill1": "[[File:Forestsanctum skill I.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jilin-1_Meteorite.wiki",
+  "markdown_path": "markdown/Jilin-1_Meteorite.md"
+}

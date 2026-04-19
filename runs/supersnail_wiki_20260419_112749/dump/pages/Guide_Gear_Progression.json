@@ -1,0 +1,673 @@
+{
+  "pageid": 6286,
+  "ns": 0,
+  "title": "Guide:Gear Progression",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Guide:Gear_Progression",
+  "touched": "2025-01-16T23:08:36Z",
+  "length": 31713,
+  "lastrevid": 33038,
+  "revision": {
+    "revid": 33038,
+    "parentid": 33037,
+    "timestamp": "2025-01-16T23:08:36Z",
+    "sha1": "7dd74f047285f4389a4e6afccbb3d62834f807cf",
+    "size": 31713
+  },
+  "categories": [
+    "Gears",
+    "Guides"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Material",
+        "3": "Amulet of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Eye of Horus"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Eye of Horus"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Norris-chuck"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Excalibur EX"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Norris-chuck"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Excalibur EX"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Excalibur EX"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Norris-chuck"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Excalibur EX"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Norris-chuck"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Norris-chuck"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Cretaceous Weapon"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Eye of Horus"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Armor",
+        "3": "Fortress"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Realm",
+        "3": "The Great Scientist"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Armor",
+        "3": "Fortress"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Material",
+        "3": "Amulet of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Material",
+        "3": "Amulet of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Realm",
+        "3": "The Great Scientist"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Material",
+        "3": "Amulet of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Eye of Horus"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Serket Staff"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Realm",
+        "3": "Time Wanderer"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Strength Master's Sword"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Norris-chuck"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Excaladbolg"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Big Bounce"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Poseidon's Trident"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Golden Drazgul Fang"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Armor",
+        "3": "Fortress"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Norris-chuck"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Excalibur EX"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Power Spinach"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Incredible Key"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Excaladbolg"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Claw of Destruction"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Fang of Tiamat"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Soul Walking"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Serket Staff"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Armor",
+        "3": "Dracula Cape"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Armor",
+        "3": "Traveler Outfit"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Armor",
+        "3": "Grandpire's Robe"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Million Volts"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "District 9"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Cretaceous Weapon"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Hydra's Gloves"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Excaladbolg"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Serket Staff"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Realm",
+        "3": "Time Wanderer"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Strength Master's Sword"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Norris-chuck"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Excaladbolg"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Big Bounce"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Poseidon's Trident"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Golden Drazgul Fang"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Septreasure Peacock Quill"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Instrument",
+        "3": "Drazgul Fang"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Excalibur EX"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Power Spinach"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Incredible Key"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Soul Walking"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Serket Staff"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Excaladbolg"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Excaladbolg"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Claw of Destruction"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Form",
+        "3": "Fang of Tiamat"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Million Volts"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "District 9"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Cretaceous Weapon"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Hydra's Gloves"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Empress Gloves"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Empress' Slippers"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "True Sakabato"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Blair's Curse"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Virtual Vision"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Realm",
+        "3": "The Great Collector"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Guide_Gear_Progression.wiki",
+  "markdown_path": "markdown/Guide_Gear_Progression.md"
+}

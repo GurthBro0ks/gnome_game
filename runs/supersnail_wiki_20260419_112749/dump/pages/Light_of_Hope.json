@@ -1,0 +1,47 @@
+{
+  "pageid": 7755,
+  "ns": 0,
+  "title": "Light of Hope",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Light_of_Hope",
+  "touched": "2025-08-11T10:32:28Z",
+  "length": 865,
+  "lastrevid": 37428,
+  "revision": {
+    "revid": 37428,
+    "parentid": 32524,
+    "timestamp": "2025-08-11T10:32:28Z",
+    "sha1": "088b0c9d8bc475bca52d648542e32c72ebf9a885",
+    "size": 865
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Light of Hope",
+        "class_id": "20476",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Lantern Master always carries this magical item with him. Its warm light and fragrant smoke not only dispel the danger in the dark but also attract cute monsters to join you in battles.",
+        "fame": "30",
+        "art": "17",
+        "fth": "17",
+        "civ": "13",
+        "tech": "13",
+        "ss1": "Snail HP +100<br>Per Fissure Incident completed, Snail ATK +3<br>Fissure Incidents Completed: 25/25",
+        "ss2": "Snail HP +200<br>Per Fissure Incident completed, Snail ATK +4<br>Fissure Incidents Completed: 25/25",
+        "ss3": "Snail HP +300<br>Per Fissure Incident completed, Snail ATK +5<br>Fissure Incidents Completed: 25/25",
+        "ss4": "Snail HP +300<br>Per Fissure Incident completed, Snail ATK +5<br>Fissure Incidents Completed: 25/25",
+        "ss7": "Snail HP +300<br>Per Fissure Incident completed, Snail ATK +5<br>Fissure Incidents Completed: 25/25<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Light_of_Hope.wiki",
+  "markdown_path": "markdown/Light_of_Hope.md"
+}

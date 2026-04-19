@@ -1,0 +1,47 @@
+{
+  "pageid": 10762,
+  "ns": 0,
+  "title": "Collection@20560 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20560_1",
+  "touched": "2025-08-11T11:00:55Z",
+  "length": 692,
+  "lastrevid": 38661,
+  "revision": {
+    "revid": 38661,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:00:55Z",
+    "sha1": "beb649a2fdf7dd36712b2133f0ca22579f0fc96b",
+    "size": 692
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20560_1",
+        "class_id": "20560",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "collection@20560_2",
+        "fame": "17",
+        "art": "16",
+        "fth": "15",
+        "civ": "30",
+        "tech": "12",
+        "ss1": "Snail ATK +10<br>Per 1.5k Museum Medals gained, Snail HP +10<br>Museum Medals Gained: 60000/60000",
+        "ss2": "Snail ATK +20<br>Per 1.5k Museum Medals gained, Snail HP +20<br>Museum Medals Gained: 60000/60000",
+        "ss3": "Snail ATK +30<br>Per 1.5k Museum Medals gained, Snail HP +30<br>Museum Medals Gained: 60000/60000",
+        "ss4": "Snail ATK +30<br>Per 1.5k Museum Medals gained, Snail HP +30<br>Museum Medals Gained: 60000/60000",
+        "ss7": "Snail ATK +30<br>Per 1.5k Museum Medals gained, Snail HP +30<br>Museum Medals Gained: 60000/60000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20560_1.wiki",
+  "markdown_path": "markdown/Collection_20560_1.md"
+}

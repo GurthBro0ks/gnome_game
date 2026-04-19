@@ -1,0 +1,47 @@
+{
+  "pageid": 10925,
+  "ns": 0,
+  "title": "Assassin's Token",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Assassin%27s_Token",
+  "touched": "2025-08-11T11:05:47Z",
+  "length": 757,
+  "lastrevid": 38873,
+  "revision": {
+    "revid": 38873,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:05:47Z",
+    "sha1": "cac4e9e6d27e75c8c36f82ca9c0968a30199a3c5",
+    "size": 757
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Assassin's Token",
+        "class_id": "20450",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The signature token of the most powerful assassin organization in the world with the logo engraved on it. Possessed only by a handful of elite assassins, it not only symbolizes the holder's status, but also represents its power and might. However, it can bring trouble sometimes.",
+        "fame": "28",
+        "art": "13",
+        "fth": "18",
+        "civ": "15",
+        "tech": "15",
+        "ss1": "Per Agent defeated, Snail ATK +2<br>Agents Defeated: 30/30",
+        "ss2": "Per Agent defeated, Snail ATK +4<br>Agents Defeated: 30/30",
+        "ss3": "Per Agent defeated, Snail ATK +6<br>Agents Defeated: 30/30",
+        "ss4": "Per Agent defeated, Snail ATK +6<br>Agents Defeated: 30/30",
+        "ss7": "Per Agent defeated, Snail ATK +6<br>Agents Defeated: 30/30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Assassin_s_Token.wiki",
+  "markdown_path": "markdown/Assassin_s_Token.md"
+}

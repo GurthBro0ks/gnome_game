@@ -1,0 +1,33 @@
+{
+  "pageid": 9325,
+  "ns": 0,
+  "title": "Underland Silver Chair+Bronze Head from Ife",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Underland_Silver_Chair%2BBronze_Head_from_Ife",
+  "touched": "2025-06-20T00:24:25Z",
+  "length": 192,
+  "lastrevid": 36293,
+  "revision": {
+    "revid": 36293,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:24:25Z",
+    "sha1": "df6a7e8d56eb42cff06867c6a1ece91be4f14fb8",
+    "size": 192
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "673",
+        "relics": "Underland Silver Chair,Bronze Head from Ife",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 30 T7+ Mutant Minions in battle:Troop HARD Stats +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Underland_Silver_Chair_Bronze_Head_from_Ife.wiki",
+  "markdown_path": "markdown/Underland_Silver_Chair_Bronze_Head_from_Ife.md"
+}

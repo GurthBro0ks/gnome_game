@@ -13,7 +13,12 @@
       "priority": "critical",
       "passes": true,
       "risk": "low",
-      "plan": ["Run setup_gnome_game.sh","Verify all docs placed in correct folders","Verify git remote set to GurthBro0ks/gnome_game","Verify push succeeds"],
+      "plan": [
+        "Run setup_gnome_game.sh",
+        "Verify all docs placed in correct folders",
+        "Verify git remote set to GurthBro0ks/gnome_game",
+        "Verify push succeeds"
+      ],
       "qa_verified": false,
       "added": "2026-04-19",
       "completed": null
@@ -25,7 +30,16 @@
       "priority": "critical",
       "passes": false,
       "risk": "low",
-      "plan": ["Check docs/01_core/master_glossary.md exists and has content","Check docs/02_world/phase1_content_bible.md exists","Check docs/02_world/deepening_arc.md exists","Check docs/03_factions/ has all 3 faction docs","Check docs/04_systems/ has economy docs","Check docs/05_liveops/ has 5 liveops docs","Check docs/06_content/ has 3 content docs","Verify no empty placeholder files remain for existing docs"],
+      "plan": [
+        "Check docs/01_core/master_glossary.md exists and has content",
+        "Check docs/02_world/phase1_content_bible.md exists",
+        "Check docs/02_world/deepening_arc.md exists",
+        "Check docs/03_factions/ has all 3 faction docs",
+        "Check docs/04_systems/ has economy docs",
+        "Check docs/05_liveops/ has 5 liveops docs",
+        "Check docs/06_content/ has 3 content docs",
+        "Verify no empty placeholder files remain for existing docs"
+      ],
       "qa_verified": false,
       "added": "2026-04-19",
       "completed": null
@@ -37,7 +51,18 @@
       "priority": "critical",
       "passes": false,
       "risk": "medium",
-      "plan": ["Create docs/08_production/implementation_planning_pack.md","Include system architecture map","Include launch scope vs later scope table","Include currency/sink/faucet map","Include home-screen module map","Include region progression plan","Include event math targets","Include risk list","Include recommended build order","Mark all unresolved items clearly"],
+      "plan": [
+        "Create docs/08_production/implementation_planning_pack.md",
+        "Include system architecture map",
+        "Include launch scope vs later scope table",
+        "Include currency/sink/faucet map",
+        "Include home-screen module map",
+        "Include region progression plan",
+        "Include event math targets",
+        "Include risk list",
+        "Include recommended build order",
+        "Mark all unresolved items clearly"
+      ],
       "qa_verified": false,
       "added": "2026-04-19",
       "completed": null
@@ -49,7 +74,16 @@
       "priority": "high",
       "passes": true,
       "risk": "medium",
-      "plan": ["Create docs/04_systems/data_schema_v1.md","Define account, burrow_state, strata_progress, strain_progress entities","Define fixture_item, fixture_recipe, fixture_loadout, hat_unlock, hat_display_state","Define war_fixture_item, war_armory_loadout, rootrail_state, rootrail_repair_step","Define forgotten_manual, rootrail_codex_entry, confidant, burrowfolk_unit","Define event_state, deepening_state, crack_state, post_state, encounter_state","Document owned vs equipped vs unlocked distinctions","Document scaling approach for live-service additions"],
+      "plan": [
+        "Create docs/04_systems/data_schema_v1.md",
+        "Define account, burrow_state, strata_progress, strain_progress entities",
+        "Define fixture_item, fixture_recipe, fixture_loadout, hat_unlock, hat_display_state",
+        "Define war_fixture_item, war_armory_loadout, rootrail_state, rootrail_repair_step",
+        "Define forgotten_manual, rootrail_codex_entry, confidant, burrowfolk_unit",
+        "Define event_state, deepening_state, crack_state, post_state, encounter_state",
+        "Document owned vs equipped vs unlocked distinctions",
+        "Document scaling approach for live-service additions"
+      ],
       "qa_verified": false,
       "added": "2026-04-19",
       "completed": "2026-04-19",
@@ -62,7 +96,17 @@
       "priority": "high",
       "passes": true,
       "risk": "medium",
-      "plan": ["Create docs/04_systems/core_loop_mvp_spec.md","Define MVP slice: Burrow + Loamwake only","Define first-session flow (10 min, 60 min, daily return)","Define first Fixture acquisition sequence","Define first Rootrail reveal beat","Define first hat unlock","Define first meaningful decision","Define proof of fun criteria","List exact features in scope vs deliberately out of scope"],
+      "plan": [
+        "Create docs/04_systems/core_loop_mvp_spec.md",
+        "Define MVP slice: Burrow + Loamwake only",
+        "Define first-session flow (10 min, 60 min, daily return)",
+        "Define first Fixture acquisition sequence",
+        "Define first Rootrail reveal beat",
+        "Define first hat unlock",
+        "Define first meaningful decision",
+        "Define proof of fun criteria",
+        "List exact features in scope vs deliberately out of scope"
+      ],
       "qa_verified": false,
       "added": "2026-04-19",
       "completed": "2026-04-19",
@@ -75,7 +119,20 @@
       "priority": "high",
       "passes": true,
       "risk": "low",
-      "plan": ["Create docs/07_ui/unlock_flow_and_ui_map.md","Define minute-0 visible modules","Define 10-min and 60-min unlock sequences","Define day-1 unlock order","Define day-2/3 unlock order","Define Loamwake-clear unlocks","Define Fixture UI rules (no slot labels, cap counter)","Define Hat Collection UI rules (separate from Fixture panel)","Define Rootrail UI reveal and route hub rules","Define Forgotten Manual codex/logbook UI","Define red-dot / notification rules (max 3 concurrent)","Define stubbed system treatment"],
+      "plan": [
+        "Create docs/07_ui/unlock_flow_and_ui_map.md",
+        "Define minute-0 visible modules",
+        "Define 10-min and 60-min unlock sequences",
+        "Define day-1 unlock order",
+        "Define day-2/3 unlock order",
+        "Define Loamwake-clear unlocks",
+        "Define Fixture UI rules (no slot labels, cap counter)",
+        "Define Hat Collection UI rules (separate from Fixture panel)",
+        "Define Rootrail UI reveal and route hub rules",
+        "Define Forgotten Manual codex/logbook UI",
+        "Define red-dot / notification rules (max 3 concurrent)",
+        "Define stubbed system treatment"
+      ],
       "qa_verified": false,
       "added": "2026-04-19",
       "completed": "2026-04-19",
@@ -88,7 +145,16 @@
       "priority": "medium",
       "passes": true,
       "risk": "low",
-      "plan": ["Create docs/06_content/content_table_templates.md","Define columns for zones, wardens, buried clues","Define columns for wanderers, runaways, wild ones","Define columns for confidants, burrowfolk, treasures","Define columns for fixtures, hats, war fixtures","Define columns for rootrail repair steps, forgotten manuals","Define columns for event ladders, festival ledger","Define columns for burrow posts, duties"],
+      "plan": [
+        "Create docs/06_content/content_table_templates.md",
+        "Define columns for zones, wardens, buried clues",
+        "Define columns for wanderers, runaways, wild ones",
+        "Define columns for confidants, burrowfolk, treasures",
+        "Define columns for fixtures, hats, war fixtures",
+        "Define columns for rootrail repair steps, forgotten manuals",
+        "Define columns for event ladders, festival ledger",
+        "Define columns for burrow posts, duties"
+      ],
       "qa_verified": false,
       "added": "2026-04-19",
       "completed": "2026-04-19",
@@ -101,11 +167,22 @@
       "priority": "medium",
       "passes": true,
       "risk": "medium",
-      "plan": ["Create docs/08_production/backend_architecture_options.md","Document prototype-local path (Option A)","Evaluate PlayFab (Option B)","Evaluate Firebase/Supabase (Option C)","Evaluate Unity Gaming Services (Option D)","Evaluate custom backend (Option E, future)","Document anti-cheat economy boundaries","Document Rootrail timer server-authority spec","Document remote config and content delivery needs","Identify prototype path and migration risks"],
+      "plan": [
+        "Create docs/08_production/backend_architecture_options.md",
+        "Document prototype-local path (Option A)",
+        "Evaluate PlayFab (Option B)",
+        "Evaluate Firebase/Supabase (Option C)",
+        "Evaluate Unity Gaming Services (Option D)",
+        "Evaluate custom backend (Option E, future)",
+        "Document anti-cheat economy boundaries",
+        "Document Rootrail timer server-authority spec",
+        "Document remote config and content delivery needs",
+        "Identify prototype path and migration risks"
+      ],
       "qa_verified": false,
       "added": "2026-04-19",
       "completed": "2026-04-19",
-      "salvage_note": "Phase 2A Salvage v0.2.1: full rewrite replacing 3-line stub; staged local→PlayFab→custom recommendation"
+      "salvage_note": "Phase 2A Salvage v0.2.1: full rewrite replacing 3-line stub; staged local\u2192PlayFab\u2192custom recommendation"
     },
     {
       "id": "canon-001",
@@ -114,7 +191,16 @@
       "priority": "critical",
       "passes": true,
       "risk": "low",
-      "plan": ["Create docs/08_production/phase2a_salvage_report.md","Document the placeholder problem","Record the canon lock (Fixtures, Hats, Rootrail, War Armory, Forgotten Manuals)","Record all files rewritten and all files created","Record canon delta map","Set acceptance criteria for all Phase 2A files","Document known out-of-scope debt","Include Phase 2B readiness statement"],
+      "plan": [
+        "Create docs/08_production/phase2a_salvage_report.md",
+        "Document the placeholder problem",
+        "Record the canon lock (Fixtures, Hats, Rootrail, War Armory, Forgotten Manuals)",
+        "Record all files rewritten and all files created",
+        "Record canon delta map",
+        "Set acceptance criteria for all Phase 2A files",
+        "Document known out-of-scope debt",
+        "Include Phase 2B readiness statement"
+      ],
       "qa_verified": false,
       "added": "2026-04-19",
       "completed": "2026-04-19"
@@ -126,7 +212,18 @@
       "priority": "critical",
       "passes": true,
       "risk": "medium",
-      "plan": ["Create docs/04_systems/fixtures_and_hats_system_v1.md","Define Fixture categories (Farming, Pure Attack, Strain)","Define 0->12 cap progression with growth sources","Define no-slot model (ordered list, not typed slots)","Define duplicate-build rules","Define no-negative-stats rule and contextual tradeoff rule","Define hat permanent passive model (shell-style)","Define hat display rule (one visible at a time, all passives stack)","Define War Armory boundary (separate system, not in personal cap)","Define MVP scope for Fixture and Hat systems"],
+      "plan": [
+        "Create docs/04_systems/fixtures_and_hats_system_v1.md",
+        "Define Fixture categories (Farming, Pure Attack, Strain)",
+        "Define 0->12 cap progression with growth sources",
+        "Define no-slot model (ordered list, not typed slots)",
+        "Define duplicate-build rules",
+        "Define no-negative-stats rule and contextual tradeoff rule",
+        "Define hat permanent passive model (shell-style)",
+        "Define hat display rule (one visible at a time, all passives stack)",
+        "Define War Armory boundary (separate system, not in personal cap)",
+        "Define MVP scope for Fixture and Hat systems"
+      ],
       "qa_verified": false,
       "added": "2026-04-19",
       "completed": "2026-04-19"
@@ -138,7 +235,18 @@
       "priority": "critical",
       "passes": true,
       "risk": "medium",
-      "plan": ["Create docs/04_systems/rootrail_system_v1.md","Document Ascender->Rootrail replacement note","Define system fantasy and four system jobs","Define core repair loop (parts + manual + timer -> reward)","Define Rootrail Parts (slow-accumulating, sole-use material)","Define Forgotten Manuals (permanent, not consumed, codex-tracked)","Define timer growth model (escalating with each step)","Define repair step output types (route, material, recipe, account bonus)","Define codex/logbook UI and tracking rules","Define MVP visibility scope"],
+      "plan": [
+        "Create docs/04_systems/rootrail_system_v1.md",
+        "Document Ascender->Rootrail replacement note",
+        "Define system fantasy and four system jobs",
+        "Define core repair loop (parts + manual + timer -> reward)",
+        "Define Rootrail Parts (slow-accumulating, sole-use material)",
+        "Define Forgotten Manuals (permanent, not consumed, codex-tracked)",
+        "Define timer growth model (escalating with each step)",
+        "Define repair step output types (route, material, recipe, account bonus)",
+        "Define codex/logbook UI and tracking rules",
+        "Define MVP visibility scope"
+      ],
       "qa_verified": false,
       "added": "2026-04-19",
       "completed": "2026-04-19"
@@ -150,7 +258,13 @@
       "priority": "high",
       "passes": true,
       "risk": "low",
-      "plan": ["Replace data/economy/economy_model_v1_sheet.csv","Include all 19 canonical resources: Mooncaps, Mushcaps, Glowcaps, Lucky Draws, Treasure Tickets, Echoes, Echo Shards, Festival Marks, Strata Seals, Elder Books, Strain Seeds, Fixture Materials, Polishes, Treasure Shards, Rootrail Parts, Forgotten Manuals, Crack Coins, Bronze Shovels, Favor Marks","Include full 29-column spec","Remove all generic fantasy currencies","Do not include Ascender Parts or Clothes materials"],
+      "plan": [
+        "Replace data/economy/economy_model_v1_sheet.csv",
+        "Include all 19 canonical resources: Mooncaps, Mushcaps, Glowcaps, Lucky Draws, Treasure Tickets, Echoes, Echo Shards, Festival Marks, Strata Seals, Elder Books, Strain Seeds, Fixture Materials, Polishes, Treasure Shards, Rootrail Parts, Forgotten Manuals, Crack Coins, Bronze Shovels, Favor Marks",
+        "Include full 29-column spec",
+        "Remove all generic fantasy currencies",
+        "Do not include Ascender Parts or Clothes materials"
+      ],
       "qa_verified": false,
       "added": "2026-04-19",
       "completed": "2026-04-19"
@@ -162,7 +276,16 @@
       "priority": "high",
       "passes": true,
       "risk": "low",
-      "plan": ["Create docs/08_production/specialist_prompt_phase2b.md","List 7 Phase 2B files in dependency order","Include canon lock section","Include acceptance criteria for each file","Include dependency graph","Include unresolved canon questions from Phase 2A","Include tracking update instructions","Include forbidden actions list"],
+      "plan": [
+        "Create docs/08_production/specialist_prompt_phase2b.md",
+        "List 7 Phase 2B files in dependency order",
+        "Include canon lock section",
+        "Include acceptance criteria for each file",
+        "Include dependency graph",
+        "Include unresolved canon questions from Phase 2A",
+        "Include tracking update instructions",
+        "Include forbidden actions list"
+      ],
       "qa_verified": false,
       "added": "2026-04-19",
       "completed": "2026-04-19"
@@ -174,11 +297,20 @@
       "priority": "medium",
       "passes": false,
       "risk": "low",
-      "plan": ["Open docs/01_core/master_glossary.md","Add entries for: Fixture, Fixture Cap, Fixture Category (Farming/Pure Attack/Strain/War)","Add entries for: Hat (permanent passive, shell-style), Hat Collection","Add entries for: Rootrail, Rootrail Parts, Rootrail Station, Rootrail Route","Add entries for: Forgotten Manual, Rootrail Codex","Add entries for: War Armory, War Fixture","Verify no new entries contradict existing canonical terms","Update master_glossary.md version"],
+      "plan": [
+        "Open docs/01_core/master_glossary.md",
+        "Add entries for: Fixture, Fixture Cap, Fixture Category (Farming/Pure Attack/Strain/War)",
+        "Add entries for: Hat (permanent passive, shell-style), Hat Collection",
+        "Add entries for: Rootrail, Rootrail Parts, Rootrail Station, Rootrail Route",
+        "Add entries for: Forgotten Manual, Rootrail Codex",
+        "Add entries for: War Armory, War Fixture",
+        "Verify no new entries contradict existing canonical terms",
+        "Update master_glossary.md version"
+      ],
       "qa_verified": false,
       "added": "2026-04-19",
       "completed": null,
-      "note": "NOT done in Phase 2A Salvage pass — requires a controlled glossary update pass; see phase2a_salvage_report.md Glossary Mismatch Note"
+      "note": "NOT done in Phase 2A Salvage pass \u2014 requires a controlled glossary update pass; see phase2a_salvage_report.md Glossary Mismatch Note"
     },
     {
       "id": "content-001",
@@ -195,8 +327,8 @@
         "Define 4 Buried Clues including clue_lw_002 granting fman_001",
         "Define first Forgotten Manual fman_001_terminal_routing fully",
         "Define Rootrail station rtr_station_lw_001 and rtr_step_001",
-        "Define 5 personal Fixture definitions (fix_001–005)",
-        "Define 5 Fixture recipes (fix_rec_001–005)",
+        "Define 5 personal Fixture definitions (fix_001\u2013005)",
+        "Define 5 Fixture recipes (fix_rec_001\u2013005)",
         "Define 6 Wanderers, 4 Runaways, 4 Wild Ones",
         "Define story Duty chain (4 Duties) + 3 daily Duties",
         "Define 4 Burrow Posts",
@@ -206,6 +338,31 @@
       "added": "2026-04-19",
       "completed": "2026-04-19",
       "phase2b_file": "docs/06_content/loamwake_mvp_content_sheet.md"
+    },
+    {
+      "id": "content-002",
+      "project": "gnome_game",
+      "description": "First Confidant chain created: Greta and Mossvane placeholder Confidants, Confidence Trails, Trust scale (0-5), Calling stubs, Greta Rootrail bridge to dty_lw_003_greta_rail_lead, reward links to Loamwake IDs, schema-aligned state notes",
+      "priority": "critical",
+      "passes": true,
+      "risk": "medium",
+      "plan": [
+        "Define cnf_001_placeholder_greta with role_tag Pathfinder, bond_stat_focus craft",
+        "Define cnf_002_placeholder_mossvane with role_tag Archivist, bond_stat_focus lore",
+        "Set placeholder_flag: true on all rows",
+        "Define Trust scale 0-5 matching confidant_state in data_schema_v1.md",
+        "Define Greta 3-step chain: dty_cnf001_01, dty_cnf001_02, dty_lw_003_greta_rail_lead (cross-file)",
+        "Define Mossvane 3-step chain: dty_cnf002_01, dty_cnf002_02, dty_cnf002_03",
+        "Define Calling stubs for both Confidants (unlock at trust_level 2)",
+        "Define Trust Progression Trigger Table mapping Duties to trust state changes",
+        "Verify all rewards use material IDs locked in loamwake_mvp_content_sheet.md",
+        "Add schema/state mapping separating content-definition from player-state fields",
+        "Include validation checklist, unresolved items, replacement notes"
+      ],
+      "qa_verified": false,
+      "added": "2026-04-19",
+      "completed": "2026-04-19",
+      "phase2b_file": "docs/06_content/first_confidant_chain.md"
     }
   ]
 }

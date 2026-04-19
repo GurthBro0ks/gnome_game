@@ -1,0 +1,33 @@
+{
+  "pageid": 4168,
+  "ns": 0,
+  "title": "Wilford's Engine+Jiuzhang",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wilford%27s_Engine%2BJiuzhang",
+  "touched": "2025-06-20T00:04:29Z",
+  "length": 137,
+  "lastrevid": 35843,
+  "revision": {
+    "revid": 35843,
+    "parentid": 18378,
+    "timestamp": "2025-06-20T00:04:29Z",
+    "sha1": "fa0ddef08882e9d0e58f8dbbcf3187784c0ed4c6",
+    "size": 137
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "477",
+        "relics": "Wilford's Engine,Jiuzhang",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Mecha Minion MAX +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wilford_s_Engine_Jiuzhang.wiki",
+  "markdown_path": "markdown/Wilford_s_Engine_Jiuzhang.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 11013,
+  "ns": 0,
+  "title": "Maple Leaf Bookmark",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Maple_Leaf_Bookmark",
+  "touched": "2025-08-11T11:09:14Z",
+  "length": 769,
+  "lastrevid": 39024,
+  "revision": {
+    "revid": 39024,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:09:14Z",
+    "sha1": "ce1fad37150c74123ecad870902aaeb79b4e244b",
+    "size": 769
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Maple Leaf Bookmark",
+        "class_id": "20548",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Made from sealing a red autumn maple leaf in plastic films, its simple and elegant look epitomizes the essence of autumn. Suitable for gifting and collecting alike.",
+        "fame": "13",
+        "art": "17",
+        "fth": "15",
+        "civ": "30",
+        "tech": "15",
+        "ss1": "Snail ATK +20<br>Per Master Scroll used, Snail HP +10<br>Master Scrolls Used: 40/40",
+        "ss2": "Snail ATK +40<br>Per Master Scroll used, Snail HP +20<br>Master Scrolls Used: 40/40",
+        "ss3": "Snail ATK +60<br>Per Master Scroll used, Snail HP +30<br>Master Scrolls Used: 40/40",
+        "ss4": "Snail ATK +60<br>Per Master Scroll used, Snail HP +30<br>Master Scrolls Used: 40/40",
+        "ss7": "Snail ATK +60<br>Per Master Scroll used, Snail HP +30<br>Master Scrolls Used: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Maple_Leaf_Bookmark.wiki",
+  "markdown_path": "markdown/Maple_Leaf_Bookmark.md"
+}

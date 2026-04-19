@@ -1,0 +1,50 @@
+{
+  "pageid": 10445,
+  "ns": 0,
+  "title": "Golden Mead",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Mead",
+  "touched": "2025-08-11T10:50:49Z",
+  "length": 1419,
+  "lastrevid": 38226,
+  "revision": {
+    "revid": 38226,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:50:49Z",
+    "sha1": "52728932451a76fa44dae80fcde3801db5786f77",
+    "size": 1419
+  },
+  "categories": [
+    "FAITH Relics",
+    "Purple FAITH Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Golden Mead",
+        "class_id": "21758",
+        "rank": "AAA",
+        "affct": "FAITH",
+        "description": "In a white skull goblet, the enticing golden-yellow liquor swirls, with each drop's aroma surpassing any aged vintage wine, yet each drop exudes an ominous aura, enough to intoxicate any creature to death... Warning: DrinkingThis wine will plunge you into a state of physical and mental stagnation, leaving you with only a scant few moments of madness for the rest of your life!",
+        "fame": "41",
+        "art": "49",
+        "fth": "73",
+        "civ": "35",
+        "tech": "45",
+        "ss1": "Per 10 treasure draws, Snail HP +30<br>Per 10 treasure draws, Snail ATK +3<br>Total Treasures drawn: 500/500",
+        "ss2": "Per 10 treasure draws, Snail HP +40<br>Per 10 treasure draws, Snail ATK +4<br>Total Treasures drawn: 500/500",
+        "ss3": "Per 10 treasure draws, Snail HP +50<br>Per 10 treasure draws, Snail ATK +5<br>Total Treasures drawn: 500/500",
+        "ss4": "Per 10 treasure draws, Snail HP +70<br>Per 10 treasure draws, Snail ATK +7<br>Total Treasures drawn: 500/500",
+        "ss5": "Per 10 treasure draws, Snail HP +90<br>Per 10 treasure draws, Snail ATK +9<br>Total Treasures drawn: 500/500",
+        "ss7": "Per 10 treasure draws, Snail HP +90<br>Per 10 treasure draws, Snail ATK +9<br>Total Treasures drawn: 500/500<br>Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Fungusfarm skill II.png|50px]]Place in Fungus Farm: Grow Wonder Fungus by +15%",
+        "skill2": "[[File:Timemachine skill II.png|50px]]Place in Time Machine: Generate Time Chests by +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Mead.wiki",
+  "markdown_path": "markdown/Golden_Mead.md"
+}

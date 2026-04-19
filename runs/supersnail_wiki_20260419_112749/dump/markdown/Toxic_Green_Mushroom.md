@@ -1,0 +1,15 @@
+|image=.png
+|description=To form a closed-loop botantical garden, Dr. David specifically cultivated this mushroom that can hide in the dark to resist illegal intruders.
+|affct=TECH
+|hard=ATK
+|source=Maneater Value Pack
+|color=green
+|earth=2
+|water=1
+|fire=0
+|wind=3
+|form=Mecha
+|element=Wind
+|realm=Bharata
+|orangehard=ATK
+}}

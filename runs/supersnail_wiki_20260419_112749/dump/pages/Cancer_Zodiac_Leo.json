@@ -1,0 +1,33 @@
+{
+  "pageid": 11194,
+  "ns": 0,
+  "title": "Cancer Zodiac+Leo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cancer_Zodiac%2BLeo",
+  "touched": "2025-08-11T11:15:48Z",
+  "length": 122,
+  "lastrevid": 39307,
+  "revision": {
+    "revid": 39307,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:15:48Z",
+    "sha1": "b103903592423d51010631e4cce64200bc6f394b",
+    "size": 122
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "283",
+        "relics": "Cancer Zodiac,Leo",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HP +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cancer_Zodiac_Leo.wiki",
+  "markdown_path": "markdown/Cancer_Zodiac_Leo.md"
+}

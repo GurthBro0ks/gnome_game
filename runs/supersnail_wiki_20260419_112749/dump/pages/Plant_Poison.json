@@ -1,0 +1,47 @@
+{
+  "pageid": 6985,
+  "ns": 0,
+  "title": "Plant Poison",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Plant_Poison",
+  "touched": "2025-08-11T11:16:28Z",
+  "length": 619,
+  "lastrevid": 39337,
+  "revision": {
+    "revid": 39337,
+    "parentid": 32511,
+    "timestamp": "2025-08-11T11:16:28Z",
+    "sha1": "e59b5fb9059a84bb3c45474d14451a1e0f16e7dc",
+    "size": 619
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Plant Poison",
+        "class_id": "20485",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This poison was produced by a plant lover so that she could fuse herself with her favorite plant. As the poison could break down and reorganize cellular functions, she did not only fuse with her beloved plant, but also obtain an ability that was strong enough to kill any living being!",
+        "fame": "32",
+        "art": "15",
+        "fth": "15",
+        "civ": "14",
+        "tech": "14",
+        "ss1": "Snail ATK +20<br>Poison DMG +2",
+        "ss2": "Snail ATK +40<br>Poison DMG +4",
+        "ss3": "Snail ATK +60<br>Poison DMG +6",
+        "ss4": "Snail ATK +60<br>Poison DMG +6",
+        "ss7": "Snail ATK +60<br>Poison DMG +6<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Plant_Poison.wiki",
+  "markdown_path": "markdown/Plant_Poison.md"
+}

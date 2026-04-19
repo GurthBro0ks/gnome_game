@@ -1,0 +1,47 @@
+{
+  "pageid": 10541,
+  "ns": 0,
+  "title": "The Dragon Brooch",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Dragon_Brooch",
+  "touched": "2025-08-11T10:54:21Z",
+  "length": 649,
+  "lastrevid": 38376,
+  "revision": {
+    "revid": 38376,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:54:21Z",
+    "sha1": "b941a1211e2075c50d184d2e2ed2c5a1b1844691",
+    "size": 649
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Dragon Brooch",
+        "class_id": "20985",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "A coiled black dragon made of dark silver, its scales stained rusty red. Wings tipped with sharp onyx spikes. The head breathes fiery red enamel flames with tiny diamonds at the core. Valyrian words along the tail read: Fire and Blood.",
+        "fame": "31",
+        "art": "17",
+        "fth": "15",
+        "civ": "15",
+        "tech": "12",
+        "ss1": "Dragon Minion HARD Stats +0.1%<br>prop@1433_2",
+        "ss2": "Dragon Minion HARD Stats +0.2%<br>prop@1433_2",
+        "ss3": "Dragon Minion HARD Stats +0.3%<br>prop@1433_2",
+        "ss4": "Dragon Minion HARD Stats +0.3%<br>prop@1433_2",
+        "ss7": "Dragon Minion HARD Stats +0.3%<br>prop@1433_2<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Dragon_Brooch.wiki",
+  "markdown_path": "markdown/The_Dragon_Brooch.md"
+}

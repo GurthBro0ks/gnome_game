@@ -1,0 +1,29 @@
+{
+  "pageid": 3145,
+  "ns": 0,
+  "title": "Giant Femur",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Giant_Femur",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 499,
+  "lastrevid": 12599,
+  "revision": {
+    "revid": 12599,
+    "parentid": 12421,
+    "timestamp": "2023-09-16T08:44:11Z",
+    "sha1": "330218e97a61a46ac86edb36b7b455ebb62746b3",
+    "size": 499
+  },
+  "categories": [
+    "DEF Boost",
+    "FAME Shells",
+    "Kemet",
+    "RUSH Boost",
+    "Shells",
+    "Water DMG Boost",
+    "Zombie Form"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Giant_Femur.wiki",
+  "markdown_path": "markdown/Giant_Femur.md"
+}

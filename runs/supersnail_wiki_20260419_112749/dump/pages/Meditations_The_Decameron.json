@@ -1,0 +1,34 @@
+{
+  "pageid": 3621,
+  "ns": 0,
+  "title": "Meditations+The Decameron",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Meditations%2BThe_Decameron",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 163,
+  "lastrevid": 13203,
+  "revision": {
+    "revid": 13203,
+    "parentid": 0,
+    "timestamp": "2023-09-22T16:00:57Z",
+    "sha1": "4476d846620b6dd5bb59819bbe36ce41fa9ec735",
+    "size": 163
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Meditations,The Decameron",
+        "rank": "purple",
+        "amount": "2",
+        "category": "home",
+        "description": "Lumber Camp Output +12%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Meditations_The_Decameron.wiki",
+  "markdown_path": "markdown/Meditations_The_Decameron.md"
+}

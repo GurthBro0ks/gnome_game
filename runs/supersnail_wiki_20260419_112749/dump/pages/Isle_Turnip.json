@@ -1,0 +1,47 @@
+{
+  "pageid": 1062,
+  "ns": 0,
+  "title": "Isle Turnip",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Isle_Turnip",
+  "touched": "2025-08-11T10:37:14Z",
+  "length": 676,
+  "lastrevid": 37644,
+  "revision": {
+    "revid": 37644,
+    "parentid": 14413,
+    "timestamp": "2025-08-11T10:37:14Z",
+    "sha1": "e2c2f8868237585341d7b4b36af534ba93999d8f",
+    "size": 676
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Isle Turnip",
+        "class_id": "20076",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This turnip comes from an island. It used to be desolate, but after people worked hard to reclaim it, the beach was planted with various vegetables and fruits, promising a good harvest every season. It was a happy ending for all the people involved!",
+        "fame": "13",
+        "art": "10",
+        "fth": "19",
+        "civ": "30",
+        "tech": "16",
+        "ss1": "Fungus Farm: +2%chance to produce<br>Wonder Fungi",
+        "ss2": "Fungus Farm: +4%chance to produce<br>Wonder Fungi",
+        "ss3": "Fungus Farm: +6%chance to produce<br>Wonder Fungi",
+        "ss4": "Fungus Farm: +6%chance to produce<br>Wonder Fungi",
+        "ss7": "Fungus Farm: +6%chance to produce<br>Wonder Fungi<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Isle_Turnip.wiki",
+  "markdown_path": "markdown/Isle_Turnip.md"
+}

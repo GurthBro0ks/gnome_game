@@ -1,0 +1,54 @@
+{
+  "pageid": 1995,
+  "ns": 0,
+  "title": "Chair of Busby",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Chair_of_Busby",
+  "touched": "2024-09-06T09:57:37Z",
+  "length": 1512,
+  "lastrevid": 22248,
+  "revision": {
+    "revid": 22248,
+    "parentid": 16596,
+    "timestamp": "2024-02-17T15:29:38Z",
+    "sha1": "232b040108f507f09748f8615aefc71fc613b37f",
+    "size": 1512
+  },
+  "categories": [
+    "Blue FTH Relics",
+    "Blue Relics",
+    "Britland Exploration Boost",
+    "Britland Museum Boost",
+    "FTH Relics",
+    "HP Boost",
+    "Imp Boost",
+    "Quarry Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Chair of Busby",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "07-17",
+        "source": "Lottery Machine (0.03%), Wishing (0.85%)",
+        "description": "On Jul 17, 1702, this cursed chair killed its first owner.\n\nBruce strangled his father-in-law who sat on his chair. When he was given the death sentence, he made a curse, \"Those who sit on my chair shall die.\" After that, the cursed chair took 63 lives. They all died from accidents a few hours after sitting on this chair.\n\n[Victim List]\n\nThe cleaner, who stood on the chair to do cleaning, fell and died. British airman Baylord died in a car accident. Construction worker fell from the roof and die …",
+        "fame": "24",
+        "art": "30",
+        "fth": "46",
+        "civ": "26",
+        "tech": "28",
+        "ss1": "Per 20 Jinx Points, Snail HP +20<br>Lotteries Drawn: 600/600",
+        "ss2": "Per 20 Jinx Points, Snail HP +40<br>Lotteries Drawn: 600/600",
+        "ss3": "Per 20 Jinx Points, Snail HP +60<br>Lotteries Drawn: 600/600",
+        "ss4": "Per 20 Jinx Points, Snail HP +100<br>Lotteries Drawn: 600/600",
+        "ss7": "Per 20 Jinx Points, Snail HP +100<br>Lotteries Drawn: 600/600<br>Snail +500 (Awakened)",
+        "skill1": "[[File:Britland skill I.png|50px]] Place in Britland Museum: In Britland, Snail ATK +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Chair_of_Busby.wiki",
+  "markdown_path": "markdown/Chair_of_Busby.md"
+}

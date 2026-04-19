@@ -1,0 +1,46 @@
+{
+  "pageid": 53,
+  "ns": 0,
+  "title": "Birdie",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Birdie",
+  "touched": "2025-09-30T22:11:45Z",
+  "length": 530,
+  "lastrevid": 40404,
+  "revision": {
+    "revid": 40404,
+    "parentid": 40342,
+    "timestamp": "2025-09-30T22:11:45Z",
+    "sha1": "66b9a70b14ae8b289b196e403ea324d3f9b9e230",
+    "size": 530
+  },
+  "categories": [
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Quarry Output Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Birdie",
+        "rank": "Green",
+        "affct": "FTH",
+        "source": "Defeat [[Fugitives|Ronin Katsura]]",
+        "description": "This puppet, which looks like a duck, is said to be the disguise of a powerful alien, yet no one has ever seen its real appearance. After many years of wandering on Earth, it became partners with a Samurai. <br>\nEventually, it was defeated by the snail and turned into a Relic.",
+        "fame": "17",
+        "art": "18",
+        "fth": "28",
+        "civ": "13",
+        "tech": "14",
+        "ss1": "Quarry Output +2%",
+        "ss2": "Quarry Output +4%",
+        "ss3": "Quarry Output +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Birdie.wiki",
+  "markdown_path": "markdown/Birdie.md"
+}

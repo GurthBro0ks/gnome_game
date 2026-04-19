@@ -1,0 +1,33 @@
+{
+  "pageid": 8474,
+  "ns": 0,
+  "title": "The Lasker Award+Guinness World Records+Bocuse d'Or+Abel Prize",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Lasker_Award%2BGuinness_World_Records%2BBocuse_d%27Or%2BAbel_Prize",
+  "touched": "2025-08-11T10:44:18Z",
+  "length": 174,
+  "lastrevid": 36016,
+  "revision": {
+    "revid": 36016,
+    "parentid": 34353,
+    "timestamp": "2025-06-20T00:14:19Z",
+    "sha1": "8ecec148b59693249c0db74de7cea9c7337ced93",
+    "size": 174
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "745",
+        "relics": "The Lasker Award,Guinness World Records,Bocuse d'Or,Abel Prize",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Snail Leadership +9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Lasker_Award_Guinness_World_Records_Bocuse_d_Or_Abel_Prize.wiki",
+  "markdown_path": "markdown/The_Lasker_Award_Guinness_World_Records_Bocuse_d_Or_Abel_Prize.md"
+}

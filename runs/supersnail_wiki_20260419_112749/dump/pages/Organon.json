@@ -1,0 +1,51 @@
+{
+  "pageid": 10850,
+  "ns": 0,
+  "title": "Organon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Organon",
+  "touched": "2025-08-11T11:03:33Z",
+  "length": 862,
+  "lastrevid": 38776,
+  "revision": {
+    "revid": 38776,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:03:33Z",
+    "sha1": "dac71c2b58bf1f721037dda37e72af404eb06524",
+    "size": 862
+  },
+  "categories": [
+    "Pages with broken file links",
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Organon",
+        "class_id": "21373",
+        "rank": "AAA",
+        "affct": "TECH",
+        "description": "This book is a collection of works on logic and reasoning written by Aristotle. These works focus on methods such as syllogism, deduction, and reductio ad absurdum, laying the foundation for formal logic and having a profound impact on the discipline. Through the Organon, people learned how to construct valid arguments and how to identify and avoid logical fallacies.",
+        "fame": "44",
+        "art": "39",
+        "fth": "45",
+        "civ": "43",
+        "tech": "72",
+        "ss1": "Snail ATK +10<br>Snail DEF +10",
+        "ss2": "Snail ATK +20<br>Snail DEF +20",
+        "ss3": "Snail ATK +30<br>Snail DEF +30",
+        "ss4": "Snail ATK +50<br>Snail DEF +50",
+        "ss5": "Snail ATK +70<br>Snail DEF +70",
+        "ss7": "Snail ATK +70<br>Snail DEF +70<br>Snail HP +1000 (Awakened)",
+        "skill1": "[[File:Skill skill II.png|50px]]??? (Coming soon)",
+        "skill2": "[[File:Skill skill II.png|50px]]??? (Coming soon)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Organon.wiki",
+  "markdown_path": "markdown/Organon.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 901,
+  "ns": 0,
+  "title": "Claymore Mine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Claymore_Mine",
+  "touched": "2025-08-11T10:53:51Z",
+  "length": 808,
+  "lastrevid": 38357,
+  "revision": {
+    "revid": 38357,
+    "parentid": 11789,
+    "timestamp": "2025-08-11T10:53:51Z",
+    "sha1": "8b5cc0a436e052559e99dbb8bb4050155a1986ea",
+    "size": 808
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Claymore Mine",
+        "class_id": "20302",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "This is a targeted anti-personnel mine with curved and convex angled shell for framework, plus simple yet precise sensors inside. It is triggered by tripwire or cable and will release fragments as well as steel bearings to deal great damage. Coupled with the steel balls inside it, it can cause great damage.",
+        "fame": "14",
+        "art": "20",
+        "fth": "13",
+        "civ": "14",
+        "tech": "29",
+        "ss1": "Per 30 Fissure Floors, Snail ATK +1<br>Fissure Floor: 1200/1200",
+        "ss2": "Per 30 Fissure Floors, Snail ATK +2<br>Fissure Floor: 1200/1200",
+        "ss3": "Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200",
+        "ss4": "Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200",
+        "ss7": "Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Claymore_Mine.wiki",
+  "markdown_path": "markdown/Claymore_Mine.md"
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 3026,
+  "ns": 0,
+  "title": "Venom Spore",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Venom_Spore",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 627,
+  "lastrevid": 12529,
+  "revision": {
+    "revid": 12529,
+    "parentid": 12499,
+    "timestamp": "2023-09-15T23:11:42Z",
+    "sha1": "60c5555bb259e149020e11dcc622329e59bc0ecf",
+    "size": 627
+  },
+  "categories": [
+    "ATK Boost",
+    "Britland",
+    "Earth DMG Boost",
+    "FAME Shells",
+    "RUSH Boost",
+    "Shells",
+    "Zombie Form"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Venom_Spore.wiki",
+  "markdown_path": "markdown/Venom_Spore.md"
+}

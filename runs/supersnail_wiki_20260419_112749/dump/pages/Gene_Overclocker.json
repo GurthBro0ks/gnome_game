@@ -1,0 +1,47 @@
+{
+  "pageid": 11118,
+  "ns": 0,
+  "title": "Gene Overclocker",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gene_Overclocker",
+  "touched": "2025-08-11T11:12:57Z",
+  "length": 771,
+  "lastrevid": 39184,
+  "revision": {
+    "revid": 39184,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:12:57Z",
+    "sha1": "bc91163390c6e7517ab8b3655957e19f578712cf",
+    "size": 771
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gene Overclocker",
+        "class_id": "20854",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Like overclocking your CPU, but with more screaming!\nShines pretty lights into your eyes\nMakes ominous humming noises\nAccidentally gives you lizard DNA\nWarning: May cause superpowers (or super tumors)",
+        "fame": "16",
+        "art": "12",
+        "fth": "19",
+        "civ": "13",
+        "tech": "30",
+        "ss1": "prop@2490_2<br>All Gene Research SPD +0.2%<br>Gene Research Free Speedup +4m",
+        "ss2": "prop@2490_2<br>All Gene Research SPD +0.4%<br>Gene Research Free Speedup +8m",
+        "ss3": "prop@2490_2<br>All Gene Research SPD +0.6%<br>Gene Research Free Speedup +12m",
+        "ss4": "prop@2490_2<br>All Gene Research SPD +0.6%<br>Gene Research Free Speedup +12m",
+        "ss7": "prop@2490_2<br>All Gene Research SPD +0.6%<br>Gene Research Free Speedup +12m<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gene_Overclocker.wiki",
+  "markdown_path": "markdown/Gene_Overclocker.md"
+}

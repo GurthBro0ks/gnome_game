@@ -1,0 +1,47 @@
+{
+  "pageid": 5815,
+  "ns": 0,
+  "title": "Purple Gold Gourd",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Purple_Gold_Gourd",
+  "touched": "2025-08-11T10:33:25Z",
+  "length": 895,
+  "lastrevid": 37470,
+  "revision": {
+    "revid": 37470,
+    "parentid": 22468,
+    "timestamp": "2025-08-11T10:33:25Z",
+    "sha1": "8046c5fadb3aa991d428b0dada65ab430bb9d76a",
+    "size": 895
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Purple Gold Gourd",
+        "class_id": "20244",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This treasure once belonged to the Prime of Taoism. It can refine everything in the world and has a unique ability against opponents. If the owner holds the gourd and calls out the opponent's name, the latter will be sucked in once they respond. Even a great immortal cannot escape from it!",
+        "fame": "14",
+        "art": "19",
+        "fth": "27",
+        "civ": "16",
+        "tech": "14",
+        "ss1": "Per 20k Taoist Pills consumed, Snail DEF +1<br>Taoist Pills Consumed: 500000/500000",
+        "ss2": "Per 20k Taoist Pills consumed, Snail DEF +2<br>Taoist Pills Consumed: 500000/500000",
+        "ss3": "Per 20k Taoist Pills consumed, Snail DEF +3<br>Taoist Pills Consumed: 500000/500000",
+        "ss4": "Per 20k Taoist Pills consumed, Snail DEF +3<br>Taoist Pills Consumed: 500000/500000",
+        "ss7": "Per 20k Taoist Pills consumed, Snail DEF +3<br>Taoist Pills Consumed: 500000/500000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Purple_Gold_Gourd.wiki",
+  "markdown_path": "markdown/Purple_Gold_Gourd.md"
+}

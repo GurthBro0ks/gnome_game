@@ -1,0 +1,26 @@
+{
+  "pageid": 2401,
+  "ns": 0,
+  "title": "Sacred Mirror",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sacred_Mirror",
+  "touched": "2025-10-07T11:46:35Z",
+  "length": 7423,
+  "lastrevid": 40918,
+  "revision": {
+    "revid": 40918,
+    "parentid": 40916,
+    "timestamp": "2025-10-07T11:46:35Z",
+    "sha1": "d4d390c306fa757d3acdbc689f30e1717904e7d2",
+    "size": 7423
+  },
+  "categories": [
+    "Locations",
+    "Realm",
+    "Realm Trait",
+    "Yamato"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Sacred_Mirror.wiki",
+  "markdown_path": "markdown/Sacred_Mirror.md"
+}

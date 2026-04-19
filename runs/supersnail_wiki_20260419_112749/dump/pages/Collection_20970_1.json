@@ -1,0 +1,47 @@
+{
+  "pageid": 10002,
+  "ns": 0,
+  "title": "Collection@20970 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20970_1",
+  "touched": "2025-08-11T10:34:38Z",
+  "length": 613,
+  "lastrevid": 37527,
+  "revision": {
+    "revid": 37527,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:34:38Z",
+    "sha1": "e652b7a1c8c3eee4e26e08100cd3e0ee525ffd8e",
+    "size": 613
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20970_1",
+        "class_id": "20970",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "collection@20970_2",
+        "fame": "30",
+        "art": "15",
+        "fth": "15",
+        "civ": "14",
+        "tech": "16",
+        "ss1": "Snail HP +100<br>Per 3 Orange Relics gained, Snail ATK +1<br>Orange Relics: 60/60",
+        "ss2": "Snail HP +200<br>Per 3 Orange Relics gained, Snail ATK +2<br>Orange Relics: 60/60",
+        "ss3": "Snail HP +300<br>Per 3 Orange Relics gained, Snail ATK +3<br>Orange Relics: 60/60",
+        "ss4": "Snail HP +300<br>Per 3 Orange Relics gained, Snail ATK +3<br>Orange Relics: 60/60",
+        "ss7": "Snail HP +300<br>Per 3 Orange Relics gained, Snail ATK +3<br>Orange Relics: 60/60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20970_1.wiki",
+  "markdown_path": "markdown/Collection_20970_1.md"
+}

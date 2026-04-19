@@ -1,0 +1,34 @@
+{
+  "pageid": 3743,
+  "ns": 0,
+  "title": "Ragnarok+Lyre of Hermes",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ragnarok%2BLyre_of_Hermes",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 200,
+  "lastrevid": 13641,
+  "revision": {
+    "revid": 13641,
+    "parentid": 0,
+    "timestamp": "2023-10-01T09:54:31Z",
+    "sha1": "bc35a90a4baeb9512d9d35f8558b0df48b7053bb",
+    "size": 200
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Ragnarok,Lyre of Hermes",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Altar God Descent, Snail RUSH +14<br>Gods Descended: 30/30"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ragnarok_Lyre_of_Hermes.wiki",
+  "markdown_path": "markdown/Ragnarok_Lyre_of_Hermes.md"
+}

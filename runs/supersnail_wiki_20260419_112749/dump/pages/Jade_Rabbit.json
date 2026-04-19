@@ -1,0 +1,47 @@
+{
+  "pageid": 7742,
+  "ns": 0,
+  "title": "Jade Rabbit",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jade_Rabbit",
+  "touched": "2025-08-11T10:53:24Z",
+  "length": 835,
+  "lastrevid": 38338,
+  "revision": {
+    "revid": 38338,
+    "parentid": 32496,
+    "timestamp": "2025-08-11T10:53:24Z",
+    "sha1": "a8dcccd5e2c94095e5e62305521b4a7de925339f",
+    "size": 835
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Jade Rabbit",
+        "class_id": "20162",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "The Jade Rabbit, carved from a complete piece of natural jadeite, has an innocent adorable shape. While it is lovely, you can also tell the masterful carving skills of the Craftsman from the details. It can be a wonderful Mid-Autumn Festival gift for relatives and friends!",
+        "fame": "15",
+        "art": "30",
+        "fth": "19",
+        "civ": "13",
+        "tech": "13",
+        "ss1": "Per 4 Novice Scrolls opened, Snail RUSH +2<br>Novice Scrolls opened: 120/120",
+        "ss2": "Per 4 Novice Scrolls opened, Snail RUSH +4<br>Novice Scrolls opened: 120/120",
+        "ss3": "Per 4 Novice Scrolls opened, Snail RUSH +6<br>Novice Scrolls opened: 120/120",
+        "ss4": "Per 4 Novice Scrolls opened, Snail RUSH +6<br>Novice Scrolls opened: 120/120",
+        "ss7": "Per 4 Novice Scrolls opened, Snail RUSH +6<br>Novice Scrolls opened: 120/120<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jade_Rabbit.wiki",
+  "markdown_path": "markdown/Jade_Rabbit.md"
+}

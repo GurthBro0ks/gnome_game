@@ -1,0 +1,34 @@
+{
+  "pageid": 3806,
+  "ns": 0,
+  "title": "Sputnik 1+Tutankhamun Mask+Shroud of Turin",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sputnik_1%2BTutankhamun_Mask%2BShroud_of_Turin",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 204,
+  "lastrevid": 13705,
+  "revision": {
+    "revid": 13705,
+    "parentid": 0,
+    "timestamp": "2023-10-02T13:01:23Z",
+    "sha1": "178d162fccc4a3833dbcce020be61e72ca0abf0d",
+    "size": 204
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Sputnik 1,Tutankhamun Mask,Shroud of Turin",
+        "rank": "orange",
+        "amount": "3",
+        "category": "other",
+        "description": "When crafting a Purple Reagent, +8% to get +1"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sputnik_1_Tutankhamun_Mask_Shroud_of_Turin.wiki",
+  "markdown_path": "markdown/Sputnik_1_Tutankhamun_Mask_Shroud_of_Turin.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 10443,
+  "ns": 0,
+  "title": "Prodigy Chef's Cookbook",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Prodigy_Chef%27s_Cookbook",
+  "touched": "2025-08-11T10:50:46Z",
+  "length": 1004,
+  "lastrevid": 38224,
+  "revision": {
+    "revid": 38224,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:50:46Z",
+    "sha1": "5181a11073302732abc03ac11a5e1093bb5ca95c",
+    "size": 1004
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Prodigy Chef's Cookbook",
+        "class_id": "20536",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "As a journal from the prodigy chef's culinary training journey across various regions, this notebook documents the preparation methods of many local dishes. Novices can find entry-level guidance from its content, while experienced chefs can glean culinary insights.",
+        "fame": "14",
+        "art": "13",
+        "fth": "17",
+        "civ": "32",
+        "tech": "14",
+        "ss1": "Unicorn Express Supply Order Cap +10<br>Per 5 new Dishes created, Snail ATK +1<br>New Dishes Created: 300/300",
+        "ss2": "Unicorn Express Supply Order Cap +20<br>Per 5 new Dishes created, Snail ATK +2<br>New Dishes Created: 300/300",
+        "ss3": "Unicorn Express Supply Order Cap +30<br>Per 5 new Dishes created, Snail ATK +3<br>New Dishes Created: 300/300",
+        "ss4": "Unicorn Express Supply Order Cap +30<br>Per 5 new Dishes created, Snail ATK +3<br>New Dishes Created: 300/300",
+        "ss7": "Unicorn Express Supply Order Cap +30<br>Per 5 new Dishes created, Snail ATK +3<br>New Dishes Created: 300/300<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Prodigy_Chef_s_Cookbook.wiki",
+  "markdown_path": "markdown/Prodigy_Chef_s_Cookbook.md"
+}

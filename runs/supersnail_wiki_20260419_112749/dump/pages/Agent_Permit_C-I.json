@@ -1,0 +1,47 @@
+{
+  "pageid": 1860,
+  "ns": 0,
+  "title": "Agent Permit C-I",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Agent_Permit_C-I",
+  "touched": "2025-08-11T10:41:24Z",
+  "length": 822,
+  "lastrevid": 37814,
+  "revision": {
+    "revid": 37814,
+    "parentid": 20051,
+    "timestamp": "2025-08-11T10:41:24Z",
+    "sha1": "21e5f10a73d734319f84d40fb7be78492b0211a4",
+    "size": 822
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Agent Permit C-I",
+        "class_id": "20203",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The holder of the card is a rookie agent of the Bureau of Investigation and has law enforcement powers in accordance with federal statutes. Please cooperate with their inquiries and searches, otherwise the agent has the right to use force! —Bureau of Investigation (Stamp)",
+        "fame": "14",
+        "art": "16",
+        "fth": "17",
+        "civ": "14",
+        "tech": "29",
+        "ss1": "Per Rookie Agent defeated, Snail ATK +1<br>Rookie Agents Defeated: 20/20",
+        "ss2": "Per Rookie Agent defeated, Snail ATK +2<br>Rookie Agents Defeated: 20/20",
+        "ss3": "Per Rookie Agent defeated, Snail ATK +3<br>Rookie Agents Defeated: 20/20",
+        "ss4": "Per Rookie Agent defeated, Snail ATK +3<br>Rookie Agents Defeated: 20/20",
+        "ss7": "Per Rookie Agent defeated, Snail ATK +3<br>Rookie Agents Defeated: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Agent_Permit_C-I.wiki",
+  "markdown_path": "markdown/Agent_Permit_C-I.md"
+}

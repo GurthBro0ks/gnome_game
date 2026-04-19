@@ -1,0 +1,36 @@
+{
+  "pageid": 3423,
+  "ns": 0,
+  "title": "Leaf Manuscript+Behistun Inscription",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Leaf_Manuscript%2BBehistun_Inscription",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 254,
+  "lastrevid": 18552,
+  "revision": {
+    "revid": 18552,
+    "parentid": 18330,
+    "timestamp": "2023-11-14T01:10:41Z",
+    "sha1": "65d5688e34d002f01c3b4d252e7d4fc73599524d",
+    "size": 254
+  },
+  "categories": [
+    "Enhanced by Power",
+    "HP Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Leaf Manuscript,Behistun Inscription",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2k Power, Snail HP +40<br>Power: 30,000/30,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Leaf_Manuscript_Behistun_Inscription.wiki",
+  "markdown_path": "markdown/Leaf_Manuscript_Behistun_Inscription.md"
+}

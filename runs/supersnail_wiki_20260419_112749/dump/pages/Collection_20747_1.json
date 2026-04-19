@@ -1,0 +1,47 @@
+{
+  "pageid": 11252,
+  "ns": 0,
+  "title": "Collection@20747 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20747_1",
+  "touched": "2025-08-11T11:18:11Z",
+  "length": 723,
+  "lastrevid": 39410,
+  "revision": {
+    "revid": 39410,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:18:11Z",
+    "sha1": "731d6ed3f8ba62312b8da9919a1c59d7ad662d5a",
+    "size": 723
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20747_1",
+        "class_id": "20747",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "collection@20747_2",
+        "fame": "13",
+        "art": "14",
+        "fth": "34",
+        "civ": "15",
+        "tech": "14",
+        "ss1": "Snail Leadership +1<br>Per Demon God Sculpture owned, Snail HP +500<br>Demon God Sculptures Owned: 8/8",
+        "ss2": "Snail Leadership +2<br>Per Demon God Sculpture owned, Snail HP +1000<br>Demon God Sculptures Owned: 8/8",
+        "ss3": "Snail Leadership +3<br>Per Demon God Sculpture owned, Snail HP +1500<br>Demon God Sculptures Owned: 8/8",
+        "ss4": "Snail Leadership +3<br>Per Demon God Sculpture owned, Snail HP +1500<br>Demon God Sculptures Owned: 8/8",
+        "ss7": "Snail Leadership +3<br>Per Demon God Sculpture owned, Snail HP +1500<br>Demon God Sculptures Owned: 8/8<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20747_1.wiki",
+  "markdown_path": "markdown/Collection_20747_1.md"
+}

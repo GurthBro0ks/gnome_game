@@ -1,0 +1,36 @@
+{
+  "pageid": 4239,
+  "ns": 0,
+  "title": "Bhagavata Purana+Top Idea Award+Statue of Isis+Ship of Theseus",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bhagavata_Purana%2BTop_Idea_Award%2BStatue_of_Isis%2BShip_of_Theseus",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 295,
+  "lastrevid": 23304,
+  "revision": {
+    "revid": 23304,
+    "parentid": 23303,
+    "timestamp": "2024-03-09T17:39:51Z",
+    "sha1": "b43c457229110ef6e19f0bb565809f1021348b6e",
+    "size": 295
+  },
+  "categories": [
+    "Enhanced by Minions Healed",
+    "HP Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Bhagavata Purana,Top Idea Award,Statue of Isis,Ship of Theseus",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Heal 50 Minions: Snail HP +90; Minions Healed: 2000/2000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bhagavata_Purana_Top_Idea_Award_Statue_of_Isis_Ship_of_Theseus.wiki",
+  "markdown_path": "markdown/Bhagavata_Purana_Top_Idea_Award_Statue_of_Isis_Ship_of_Theseus.md"
+}

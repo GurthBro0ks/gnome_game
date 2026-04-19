@@ -1,0 +1,33 @@
+{
+  "pageid": 3280,
+  "ns": 0,
+  "title": "The Happy Prince+Das Rheingold",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Happy_Prince%2BDas_Rheingold",
+  "touched": "2025-06-20T00:05:25Z",
+  "length": 186,
+  "lastrevid": 35872,
+  "revision": {
+    "revid": 35872,
+    "parentid": 18559,
+    "timestamp": "2025-06-20T00:05:25Z",
+    "sha1": "4d5474ac7b53bb7a31e7f4d9ead5c58383b0841d",
+    "size": 186
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "334",
+        "relics": "The Happy Prince,Das Rheingold",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1.5k Tadpole Points, Snail HP +50;Tadpole Points: 45000/45000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Happy_Prince_Das_Rheingold.wiki",
+  "markdown_path": "markdown/The_Happy_Prince_Das_Rheingold.md"
+}

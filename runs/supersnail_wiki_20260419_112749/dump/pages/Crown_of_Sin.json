@@ -1,0 +1,24 @@
+{
+  "pageid": 9090,
+  "ns": 0,
+  "title": "Crown of Sin",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Crown_of_Sin",
+  "touched": "2025-06-22T10:53:41Z",
+  "length": 761,
+  "lastrevid": 36990,
+  "revision": {
+    "revid": 36990,
+    "parentid": 35393,
+    "timestamp": "2025-06-22T10:53:41Z",
+    "sha1": "ccfb8ac14c22ac0f5ccc6cdbc1ac7a32b970cb4d",
+    "size": 761
+  },
+  "categories": [
+    "Red Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Crown_of_Sin.wiki",
+  "markdown_path": "markdown/Crown_of_Sin.md"
+}

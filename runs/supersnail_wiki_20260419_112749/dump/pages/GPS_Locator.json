@@ -1,0 +1,46 @@
+{
+  "pageid": 11211,
+  "ns": 0,
+  "title": "GPS Locator",
+  "fullurl": "https://supersnail.wiki.gg/wiki/GPS_Locator",
+  "touched": "2025-08-11T11:16:35Z",
+  "length": 263,
+  "lastrevid": 39342,
+  "revision": {
+    "revid": 39342,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:16:35Z",
+    "sha1": "1371b45b792f020af4edd338995f66ffe7b86a91",
+    "size": 263
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "GPS Locator",
+        "class_id": "20033",
+        "rank": "Green",
+        "affct": "TECH",
+        "fame": "18",
+        "art": "14",
+        "fth": "18",
+        "civ": "12",
+        "tech": "28",
+        "ss1": "Travel SPD +0.2%",
+        "ss2": "Travel SPD +0.4%",
+        "ss3": "Travel SPD +0.6%",
+        "ss4": "Travel SPD +0.6%",
+        "ss7": "Travel SPD +0.6%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/GPS_Locator.wiki",
+  "markdown_path": "markdown/GPS_Locator.md"
+}

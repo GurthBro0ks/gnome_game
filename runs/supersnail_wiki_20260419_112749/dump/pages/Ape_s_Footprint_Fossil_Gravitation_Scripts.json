@@ -1,0 +1,33 @@
+{
+  "pageid": 3763,
+  "ns": 0,
+  "title": "Ape's Footprint Fossil+Gravitation Scripts",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ape%27s_Footprint_Fossil%2BGravitation_Scripts",
+  "touched": "2025-07-02T09:42:40Z",
+  "length": 164,
+  "lastrevid": 37057,
+  "revision": {
+    "revid": 37057,
+    "parentid": 13661,
+    "timestamp": "2025-07-02T09:42:40Z",
+    "sha1": "c15ff4d7e4249148f823ec5970392de7bdd88006",
+    "size": 164
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "231",
+        "relics": "Ape's Footprint Fossil,Gravitation Scripts",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Mecha Gene Research SPD +4.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ape_s_Footprint_Fossil_Gravitation_Scripts.wiki",
+  "markdown_path": "markdown/Ape_s_Footprint_Fossil_Gravitation_Scripts.md"
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 3020,
+  "ns": 0,
+  "title": "MK. IV Shell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/MK._IV_Shell",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 287,
+  "lastrevid": 12201,
+  "revision": {
+    "revid": 12201,
+    "parentid": 11676,
+    "timestamp": "2023-09-14T11:16:06Z",
+    "sha1": "ae7b5754347a59b3995c69713759673b15daa562",
+    "size": 287
+  },
+  "categories": [
+    "ATK Boost",
+    "Fire DMG Boost",
+    "HP Boost",
+    "Mecha Form",
+    "Murika",
+    "Shells",
+    "TECH Shells"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/MK._IV_Shell.wiki",
+  "markdown_path": "markdown/MK._IV_Shell.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 3040,
+  "ns": 0,
+  "title": "Summer Album",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Summer_Album",
+  "touched": "2025-08-11T11:13:04Z",
+  "length": 648,
+  "lastrevid": 39188,
+  "revision": {
+    "revid": 39188,
+    "parentid": 30844,
+    "timestamp": "2025-08-11T11:13:04Z",
+    "sha1": "93419792f8bea835646fda28cb74ba96d925fe5b",
+    "size": 648
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Summer Album",
+        "class_id": "20172",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This captivating photo album, made by an unknown photographer, captures the beauty of several bikini-clad women during their vacation on an island. It features the most remarkable moments, carefully selected and compiled in this limited edition.",
+        "fame": "15",
+        "art": "31",
+        "fth": "14",
+        "civ": "13",
+        "tech": "17",
+        "ss1": "Per sign-in, Snail HP +10<br>Sign-Ins: 20/20",
+        "ss2": "Per sign-in, Snail HP +20<br>Sign-Ins: 20/20",
+        "ss3": "Per sign-in, Snail HP +30<br>Sign-Ins: 20/20",
+        "ss4": "Per sign-in, Snail HP +30<br>Sign-Ins: 20/20",
+        "ss7": "Per sign-in, Snail HP +30<br>Sign-Ins: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Summer_Album.wiki",
+  "markdown_path": "markdown/Summer_Album.md"
+}

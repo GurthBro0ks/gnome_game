@@ -1,0 +1,47 @@
+{
+  "pageid": 3617,
+  "ns": 0,
+  "title": "Top Adventurer Badge",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Top_Adventurer_Badge",
+  "touched": "2025-08-11T10:50:24Z",
+  "length": 727,
+  "lastrevid": 38208,
+  "revision": {
+    "revid": 38208,
+    "parentid": 22587,
+    "timestamp": "2025-08-11T10:50:24Z",
+    "sha1": "44ca3cad45344df7a523a6278e8036f208540469",
+    "size": 727
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Top Adventurer Badge",
+        "class_id": "20470",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The badge customized for the adventurer association. It is issued to those who passed a series of tests or the elite members that accomplished great achievements. It is the highest honor for an adventurer!",
+        "fame": "30",
+        "art": "15",
+        "fth": "14",
+        "civ": "18",
+        "tech": "13",
+        "ss1": "Per 500 Fissure Floors, Snail DEF +2<br>Fissure Floor: 15000/15000",
+        "ss2": "Per 500 Fissure Floors, Snail DEF +4<br>Fissure Floor: 15000/15000",
+        "ss3": "Per 500 Fissure Floors, Snail DEF +6<br>Fissure Floor: 15000/15000",
+        "ss4": "Per 500 Fissure Floors, Snail DEF +6<br>Fissure Floor: 15000/15000",
+        "ss7": "Per 500 Fissure Floors, Snail DEF +6<br>Fissure Floor: 15000/15000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Top_Adventurer_Badge.wiki",
+  "markdown_path": "markdown/Top_Adventurer_Badge.md"
+}

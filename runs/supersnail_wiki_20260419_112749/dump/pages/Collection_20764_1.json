@@ -1,0 +1,47 @@
+{
+  "pageid": 10256,
+  "ns": 0,
+  "title": "Collection@20764 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20764_1",
+  "touched": "2025-08-11T10:44:53Z",
+  "length": 494,
+  "lastrevid": 37965,
+  "revision": {
+    "revid": 37965,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:44:53Z",
+    "sha1": "3df63b1fd2db7946a4ee66e6244b2d3cb73b8363",
+    "size": 494
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20764_1",
+        "class_id": "20764",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "collection@20764_2",
+        "fame": "17",
+        "art": "13",
+        "fth": "31",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Glory Extractor:<br>> Refine Speedup Conversion Cap +200%",
+        "ss2": "Glory Extractor:<br>> Refine Speedup Conversion Cap +500%",
+        "ss3": "Glory Extractor:<br>> Refine Speedup Conversion Cap +800%",
+        "ss4": "Glory Extractor:<br>> Refine Speedup Conversion Cap +800%",
+        "ss7": "Glory Extractor:<br>> Refine Speedup Conversion Cap +800%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20764_1.wiki",
+  "markdown_path": "markdown/Collection_20764_1.md"
+}

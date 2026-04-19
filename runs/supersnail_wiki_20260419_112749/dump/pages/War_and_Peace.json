@@ -1,0 +1,54 @@
+{
+  "pageid": 564,
+  "ns": 0,
+  "title": "War and Peace",
+  "fullurl": "https://supersnail.wiki.gg/wiki/War_and_Peace",
+  "touched": "2025-08-11T11:08:42Z",
+  "length": 2193,
+  "lastrevid": 39001,
+  "revision": {
+    "revid": 39001,
+    "parentid": 32572,
+    "timestamp": "2025-08-11T11:08:42Z",
+    "sha1": "b6f74ae5ad6cc42e8f23e8d3a9daedb75fc7f5d0",
+    "size": 2193
+  },
+  "categories": [
+    "CIV Relics",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "War and Peace",
+        "class_id": "21506",
+        "rank": "SSS",
+        "affct": "CIV",
+        "birthday": "05-13",
+        "description": "On May 13, 1869 AD, Tolstoy finished this great novel.<br>\"War and Peace\" has 4 parts, divided into 16 volumes and written with millions of words. This book gained Tolstoy the title of a world-class author. This book tells the story of Duke Andrei who enlisted himself in the army to join the war between France and Russia in pursuit of honor and glory. But then he suffered serious injuries and the death of his wife. When the French invasion of Russia broke out, for the dignity of his people, he r …",
+        "fame": "69",
+        "art": "54",
+        "fth": "63",
+        "civ": "109",
+        "tech": "67",
+        "ss1": "Snail Leadership +6<br>All Minion ATK +0.9%<br>All Minion RUSH +0.9%",
+        "ss2": "Snail Leadership +7<br>All Minion ATK +1.2%<br>All Minion RUSH +1.2%",
+        "ss3": "Snail Leadership +8<br>All Minion ATK +1.5%<br>All Minion RUSH +1.5%",
+        "ss4": "Snail Leadership +10<br>All Minion ATK +2.1%<br>All Minion RUSH +2.1%",
+        "ss5": "Snail Leadership +12<br>All Minion ATK +2.7%<br>All Minion RUSH +2.7%",
+        "ss6": "Snail Leadership +15<br>All Minion ATK +3.6%<br>All Minion RUSH +3.6%",
+        "ss7": "Snail Leadership +15<br>All Minion ATK +3.6%<br>All Minion RUSH +3.6%<br>Snail Leadership +10 (Awakened)",
+        "skill1": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail DEF +600",
+        "skill2": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Food Drops +6%",
+        "skill3": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600",
+        "mirage": "{{Mirage|name=Four Families|reward={{RewardIconWithLink|Wish Coin, +3|orange}}\n|3name=Helen|3rec=7.52M|3atk=70184|3defense=46623|3hp=1439832|3weak=12663\n|4name=Pierre|4rec=13.45M|4atk=95907|4defense=63711|4hp=2586781|4weak=15967\n|5name=Andrew|5rec=28.67M|5atk=126793|5defense=84228|5hp=4318495|5weak=18403\n|6name=Natasha|6rec=45.82M|6atk=163126|6defense=108364|6hp=6838143|6weak=19780\n|Arec=65.46M|Aatk=204714|Adefense=135992|Ahp=10747274|Aweak=22690\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/War_and_Peace.wiki",
+  "markdown_path": "markdown/War_and_Peace.md"
+}

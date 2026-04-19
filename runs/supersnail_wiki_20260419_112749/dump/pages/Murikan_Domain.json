@@ -1,0 +1,80 @@
+{
+  "pageid": 4824,
+  "ns": 0,
+  "title": "Murikan Domain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Murikan_Domain",
+  "touched": "2025-10-21T22:33:05Z",
+  "length": 34481,
+  "lastrevid": 41644,
+  "revision": {
+    "revid": 41644,
+    "parentid": 41614,
+    "timestamp": "2025-10-21T20:47:18Z",
+    "sha1": "5dcc35911ce5c5453aedc70cf460c09b13d53c52",
+    "size": 34481
+  },
+  "categories": [
+    "Murikan Domain"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "War",
+        "3": "Broken Pawson Claw"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "War",
+        "3": "Broken Bladden Blade"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "War",
+        "3": "Broken Jaden Spear"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "War",
+        "3": "Broken Nethrone Coffin"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "War",
+        "3": "Broken Minerva Staff"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "War",
+        "3": "Broken Racky Cannon"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Murikan_Domain.wiki",
+  "markdown_path": "markdown/Murikan_Domain.md"
+}

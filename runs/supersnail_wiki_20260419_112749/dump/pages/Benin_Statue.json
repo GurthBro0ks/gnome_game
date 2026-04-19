@@ -1,0 +1,54 @@
+{
+  "pageid": 130,
+  "ns": 0,
+  "title": "Benin Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Benin_Statue",
+  "touched": "2024-09-06T09:58:37Z",
+  "length": 1262,
+  "lastrevid": 16577,
+  "revision": {
+    "revid": 16577,
+    "parentid": 12901,
+    "timestamp": "2023-11-07T14:43:55Z",
+    "sha1": "43d5ec77704c27fe4f975aef1073c9611238b572",
+    "size": 1262
+  },
+  "categories": [
+    "ART Relics",
+    "ATK Boost",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Kemet Exploration Boost",
+    "Kemet Museum Boost",
+    "Relics",
+    "Time Machine Boost",
+    "Zombie Minion HARD Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Benin Statue",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "07-23",
+        "source": "Lottery Machine (0.03%), Wishing (1.2%)",
+        "description": "On Jul 24, AD 1600, this sculpture was created in Benin, Nigeria.\n\nThe Benin bronzes are rich in Nigerian ethnic culture. This statue was made by Benin Oba Esigie to remember his late mother Idia. Made by illiterate craftsman using the lost-wax casting, this statue preserved Egypt's oldest bronze-making technique. This method was passed down and used to make valuable bronzeware.",
+        "fame": "28",
+        "art": "47",
+        "fth": "20",
+        "civ": "33",
+        "tech": "26",
+        "ss1": "Per 10 Zombie Minions in battle: Troop HARD Stats +1",
+        "ss2": "Per 10 Zombie Minions in battle: Troop HARD Stats +2",
+        "ss3": "Per 10 Zombie Minions in battle: Troop HARD Stats +3",
+        "ss4": "Per 10 Zombie Minions in battle: Troop HARD Stats +5",
+        "ss7": "Per 10 Zombie Minions in battle: Troop HARD Stats +5<br>Per 10 Zombie Minions in battle: Troop HARD Stats +3 (Awakened)",
+        "skill1": "[[File:Kemet skill I.png|50px]]Place in Kemetic Museum: In Kemet, ART Checks -5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Benin_Statue.wiki",
+  "markdown_path": "markdown/Benin_Statue.md"
+}

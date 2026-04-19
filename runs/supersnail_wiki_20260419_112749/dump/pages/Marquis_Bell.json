@@ -1,0 +1,61 @@
+{
+  "pageid": 1070,
+  "ns": 0,
+  "title": "Marquis Bell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Marquis_Bell",
+  "touched": "2024-09-06T14:44:06Z",
+  "length": 2153,
+  "lastrevid": 21770,
+  "revision": {
+    "revid": 21770,
+    "parentid": 18181,
+    "timestamp": "2024-01-12T02:51:48Z",
+    "sha1": "f05011985b04d58e34488d837cc60c97723d2f45",
+    "size": 2153
+  },
+  "categories": [
+    "ART Relics",
+    "ATK Boost",
+    "DEF Boost",
+    "Enhanced by Cathay Generals",
+    "Enhanced by Lottery Draws",
+    "HP Boost",
+    "Mutant Cell Drop Boost",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics",
+    "Stan Boost",
+    "Tadpole Pond Output Boost",
+    "Tadpole Pond Skill",
+    "Tadpole Pond W-Tad Output Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Marquis Bell",
+        "rank": "AAA",
+        "affct": "ART",
+        "birthday": "04-04",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (1.4%), Cathay Treasure Maps (10%), Relic Forge (80 Relic RF)",
+        "description": "On Apr 4, 1978, the Marquis Bells were played again after 2,000 years.\n\nOn this day, the Marquis Bells were played in an auditorium of Bubei, 2400 years since the ancient instrument last created music. It was a medley of modern songs arranged by many famous musicians, including The East is Red, River on a Spring Night and Jasmine Flower.\n\n[Basic Info]\n\nProduced in: the Warring States Period<br>Material: Bronze<br>Numbers: 65 bells<br>Overall size: 748x335x273 cm<br>Overall weight: 2567 kg<br>Exh …",
+        "fame": "37",
+        "art": "71",
+        "fth": "45",
+        "civ": "52",
+        "tech": "38",
+        "ss1": "Per 2 Cathay Generals joined, Snail ATK +6<br>Per 2 Cathay Generals joined, Snail DEF +6<br>Cathay Generals: 28/28",
+        "ss2": "Per 2 Cathay Generals joined, Snail ATK +8<br>Per 2 Cathay Generals joined, Snail DEF +8<br>Cathay Generals: 28/28",
+        "ss3": "Per 2 Cathay Generals joined, Snail ATK +10<br>Per 2 Cathay Generals joined, Snail DEF +10<br>Cathay Generals: 28/28",
+        "ss4": "Per 2 Cathay Generals joined, Snail ATK +14<br>Per 2 Cathay Generals joined, Snail DEF +14<br>Cathay Generals: 28/28",
+        "ss5": "Per 2 Cathay Generals joined, Snail ATK +18<br>Per 2 Cathay Generals joined, Snail DEF +18<br>Cathay Generals: 28/28",
+        "ss7": "Per 2 Cathay Generals joined, Snail ATK +18<br>Per 2 Cathay Generals joined, Snail DEF +18<br>Cathay Generals: 28/28<br>Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: Max Cap +15%",
+        "skill2": "[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: Generate W-tads by +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Marquis_Bell.wiki",
+  "markdown_path": "markdown/Marquis_Bell.md"
+}

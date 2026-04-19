@@ -1,0 +1,48 @@
+{
+  "pageid": 1637,
+  "ns": 0,
+  "title": "Pear Basket",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pear_Basket",
+  "touched": "2025-11-17T14:43:48Z",
+  "length": 852,
+  "lastrevid": 41761,
+  "revision": {
+    "revid": 41761,
+    "parentid": 37963,
+    "timestamp": "2025-11-17T14:43:48Z",
+    "sha1": "67a4e3d18de8332c4e8242b90907678f8032d11f",
+    "size": 852
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Pear Basket",
+        "class_id": "20004",
+        "rank": "Green",
+        "affct": "CIV",
+        "source": "Upgrading Kiddo Kong Rong to T9 in [[Cathay Generals]].",
+        "description": "This basket produced in Shandong can greatly extend the shelf life of pears. As a pear enthusiast, Kong Rong knew that moderate-sized pears are the freshest and sweetest. Therefore, he was always \"kind\" enough to share the larger pears with his family so he can enjoy the tasty ones alone.",
+        "fame": "10",
+        "art": "18",
+        "fth": "17",
+        "civ": "30",
+        "tech": "15",
+        "ss1": "Per 200 Pears consumed, Snail HP +10<br>Pears Consumed: 4000/4000",
+        "ss2": "Per 200 Pears consumed, Snail HP +20<br>Pears Consumed: 4000/4000",
+        "ss3": "Per 200 Pears consumed, Snail HP +30<br>Pears Consumed: 4000/4000",
+        "ss4": "Per 200 Pears consumed, Snail HP +30<br>Pears Consumed: 4000/4000",
+        "ss7": "Per 200 Pears consumed, Snail HP +30<br>Pears Consumed: 4000/4000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pear_Basket.wiki",
+  "markdown_path": "markdown/Pear_Basket.md"
+}

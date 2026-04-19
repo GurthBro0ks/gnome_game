@@ -1,0 +1,55 @@
+{
+  "pageid": 432,
+  "ns": 0,
+  "title": "Genesis",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Genesis",
+  "touched": "2024-09-06T10:00:32Z",
+  "length": 1642,
+  "lastrevid": 18793,
+  "revision": {
+    "revid": 18793,
+    "parentid": 17369,
+    "timestamp": "2023-11-16T03:16:05Z",
+    "sha1": "a1a567727450bfce1aaa6b8bef237de3d0a2f63a",
+    "size": 1642
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue FTH Relics",
+    "Blue Relics",
+    "Enhanced by Museum Promos",
+    "Exploration B-tad Drop Boost",
+    "FTH Relics",
+    "Fungus Farm Output Boost",
+    "Gene Simulation Compass Boost",
+    "Museum Promo Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Genesis",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "03-20",
+        "source": "Lottery Machine (0.07%), Wishing (2.1%), Club Chest (2%), Novice Scroll (1%)",
+        "description": "On Mar 20, 1513 BC, this great story was written by Moses in the wilderness of Egypt.\n\nMoses recorded the grand and majestic scenes about how God created everything, how Adam and Eve lived in the Garden of Eden, how Noah built the ark by faith, the mysterious destruction of sinful cities of Sodom and Gomorrah, Abraham's receiving blessings, and other stories. \n\n[Famous Quotes in Genesis]\n\nResentment kills a fool, and envy slays the simple. Does a wild donkey bray when it has grass, or an ox bell …",
+        "fame": "27",
+        "art": "31",
+        "fth": "47",
+        "civ": "22",
+        "tech": "27",
+        "ss1": "Per Blue Museum Promo, Snail ATK +5<br>Blue Museum Promos: 3/3",
+        "ss2": "Per Blue Museum Promo, Snail ATK +10<br>Blue Museum Promos: 3/3",
+        "ss3": "Per Blue Museum Promo, Snail ATK +15<br>Blue Museum Promos: 3/3",
+        "ss4": "Per Blue Museum Promo, Snail ATK +25<br>Blue Museum Promos: 3/3",
+        "ss7": "Per Blue Museum Promo, Snail ATK +25<br>Blue Museum Promos: 3/3<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Genesim skill I.png|50px]] Place in Gene Sim Device: Snail ATK +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Genesis.wiki",
+  "markdown_path": "markdown/Genesis.md"
+}

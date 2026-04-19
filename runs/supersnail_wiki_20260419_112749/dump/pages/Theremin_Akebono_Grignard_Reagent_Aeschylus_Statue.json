@@ -1,0 +1,36 @@
+{
+  "pageid": 4703,
+  "ns": 0,
+  "title": "Theremin+Akebono+Grignard Reagent+Aeschylus Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Theremin%2BAkebono%2BGrignard_Reagent%2BAeschylus_Statue",
+  "touched": "2024-12-02T03:00:51Z",
+  "length": 284,
+  "lastrevid": 18630,
+  "revision": {
+    "revid": 18630,
+    "parentid": 18318,
+    "timestamp": "2023-11-14T01:31:32Z",
+    "sha1": "e0d20276df54d13c31a1de4d0c4eff00171c4450",
+    "size": 284
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by TECH Relics",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Theremin,Akebono,Grignard Reagent,Aeschylus Statue",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 4 TECH Relics gained, Snail ATK +14; TECH Relics: 120/120"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Theremin_Akebono_Grignard_Reagent_Aeschylus_Statue.wiki",
+  "markdown_path": "markdown/Theremin_Akebono_Grignard_Reagent_Aeschylus_Statue.md"
+}

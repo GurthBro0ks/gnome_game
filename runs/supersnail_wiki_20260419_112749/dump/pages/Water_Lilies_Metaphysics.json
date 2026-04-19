@@ -1,0 +1,33 @@
+{
+  "pageid": 10951,
+  "ns": 0,
+  "title": "Water Lilies+Metaphysics",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Water_Lilies%2BMetaphysics",
+  "touched": "2025-08-11T11:07:00Z",
+  "length": 138,
+  "lastrevid": 38930,
+  "revision": {
+    "revid": 38930,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:07:00Z",
+    "sha1": "ec3880d9dccff91b8c742a8af32cbf1db536a506",
+    "size": 138
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "796",
+        "relics": "Water Lilies,Metaphysics",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Mutant Minion DEF +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Water_Lilies_Metaphysics.wiki",
+  "markdown_path": "markdown/Water_Lilies_Metaphysics.md"
+}

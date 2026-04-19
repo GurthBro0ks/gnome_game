@@ -1,0 +1,33 @@
+{
+  "pageid": 3759,
+  "ns": 0,
+  "title": "Mummy of Ramesses+Ark of Covenant",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mummy_of_Ramesses%2BArk_of_Covenant",
+  "touched": "2025-08-11T10:48:27Z",
+  "length": 162,
+  "lastrevid": 38119,
+  "revision": {
+    "revid": 38119,
+    "parentid": 13657,
+    "timestamp": "2025-08-11T10:48:27Z",
+    "sha1": "b16907047748baa626d2a7a0a2b5c687d6a3281d",
+    "size": 162
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "182",
+        "relics": "Mummy of Ramesses,Ark of Covenant",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Zombie Gene research Cell cost -4.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mummy_of_Ramesses_Ark_of_Covenant.wiki",
+  "markdown_path": "markdown/Mummy_of_Ramesses_Ark_of_Covenant.md"
+}

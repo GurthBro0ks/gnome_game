@@ -1,0 +1,50 @@
+{
+  "pageid": 960,
+  "ns": 0,
+  "title": "Charging Bull",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Charging_Bull",
+  "touched": "2025-08-11T10:57:31Z",
+  "length": 1714,
+  "lastrevid": 38513,
+  "revision": {
+    "revid": 38513,
+    "parentid": 25459,
+    "timestamp": "2025-08-11T10:57:31Z",
+    "sha1": "33960ddc65cb579b6ef8a9f4a0915990b6a98789",
+    "size": 1714
+  },
+  "categories": [
+    "FAME Relics",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Charging Bull",
+        "class_id": "21422",
+        "rank": "AAA",
+        "affct": "FAME",
+        "description": "The bronze bull serves as an iconic symbol of Wall Street. Originally, the designer intended to install it on the sidewalk in front of the New York Stock Exchange. However, it was ultimately relocated to Broadway, near its intersection with Wall Street. This bronze bull embodies strength and resilience, epitomizing the aspirational spirit of a \"bull market.\"",
+        "fame": "75",
+        "art": "47",
+        "fth": "50",
+        "civ": "39",
+        "tech": "36",
+        "ss1": "Snail ATK +100<br>W-tads gained from VIP Gold Card +50<br>Master Scrolls gained from VIP Gold Card +1<br>Gold Daily Packs are available in Snail Store",
+        "ss2": "Snail ATK +100<br>W-tads gained from VIP Gold Card +50<br>Master Scrolls gained from VIP Gold Card +1<br>Gold Daily Packs are available in Snail Store",
+        "ss3": "Snail ATK +100<br>W-tads gained from VIP Gold Card +50<br>Master Scrolls gained from VIP Gold Card +1<br>Gold Daily Packs are available in Snail Store",
+        "ss4": "Snail ATK +100<br>W-tads gained from VIP Gold Card +50<br>Master Scrolls gained from VIP Gold Card +1<br>Gold Daily Packs are available in Snail Store",
+        "ss5": "Snail ATK +100<br>W-tads gained from VIP Gold Card +50<br>Master Scrolls gained from VIP Gold Card +1<br>Gold Daily Packs are available in Snail Store",
+        "ss7": "Snail ATK +100<br>W-tads gained from VIP Gold Card +50<br>Master Scrolls gained from VIP Gold Card +1<br>Gold Daily Packs are available in Snail Store<br>W-tads gained from VIP Gold Card +50 (Awakened)",
+        "skill1": "[[File:Compass skill II.png|50px]]Place in Exploration Compass: In explorations, B-tads gained +7.5%",
+        "skill2": "[[File:Compass skill II.png|50px]]Place in Exploration Compass: In explorations, Demon God Cells collected +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Charging_Bull.wiki",
+  "markdown_path": "markdown/Charging_Bull.md"
+}

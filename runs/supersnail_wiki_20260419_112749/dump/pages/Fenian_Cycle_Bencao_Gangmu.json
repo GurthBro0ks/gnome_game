@@ -1,0 +1,33 @@
+{
+  "pageid": 11056,
+  "ns": 0,
+  "title": "Fenian Cycle+Bencao Gangmu",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fenian_Cycle%2BBencao_Gangmu",
+  "touched": "2025-08-11T11:10:42Z",
+  "length": 169,
+  "lastrevid": 39084,
+  "revision": {
+    "revid": 39084,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:10:42Z",
+    "sha1": "7e990b5ebe88344b04fc3b41b506c4bb6485f3e2",
+    "size": 169
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "760",
+        "relics": "Fenian Cycle,Bencao Gangmu",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 T7+ Minions in battle: Troop HARD Stats +28"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fenian_Cycle_Bencao_Gangmu.wiki",
+  "markdown_path": "markdown/Fenian_Cycle_Bencao_Gangmu.md"
+}

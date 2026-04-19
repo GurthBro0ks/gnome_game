@@ -1,0 +1,34 @@
+{
+  "pageid": 3606,
+  "ns": 0,
+  "title": "Hermes' Coin+Frigga's Wheel",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hermes%27_Coin%2BFrigga%27s_Wheel",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 155,
+  "lastrevid": 13185,
+  "revision": {
+    "revid": 13185,
+    "parentid": 0,
+    "timestamp": "2023-09-22T14:52:25Z",
+    "sha1": "cafb6ba5f718adde7a5be219f3307d6af3cdf95e",
+    "size": 155
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Hermes' Coin,Frigga's Wheel",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hermes_Coin_Frigga_s_Wheel.wiki",
+  "markdown_path": "markdown/Hermes_Coin_Frigga_s_Wheel.md"
+}

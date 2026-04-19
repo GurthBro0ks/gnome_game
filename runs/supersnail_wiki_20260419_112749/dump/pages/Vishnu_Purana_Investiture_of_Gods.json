@@ -1,0 +1,33 @@
+{
+  "pageid": 8635,
+  "ns": 0,
+  "title": "Vishnu Purana+Investiture of Gods",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Vishnu_Purana%2BInvestiture_of_Gods",
+  "touched": "2025-06-20T00:19:05Z",
+  "length": 235,
+  "lastrevid": 36161,
+  "revision": {
+    "revid": 36161,
+    "parentid": 34591,
+    "timestamp": "2025-06-20T00:19:05Z",
+    "sha1": "a3d5d07b2e44f59405792753e30ee7a66cf05696",
+    "size": 235
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "734",
+        "relics": "Vishnu Purana,Investiture of Gods",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2,000 Desert Sanctum Rating Pts, Priest-Troop Assistance DMG +56;Desert Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Vishnu_Purana_Investiture_of_Gods.wiki",
+  "markdown_path": "markdown/Vishnu_Purana_Investiture_of_Gods.md"
+}

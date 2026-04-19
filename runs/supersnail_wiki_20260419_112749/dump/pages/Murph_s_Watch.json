@@ -1,0 +1,51 @@
+{
+  "pageid": 8618,
+  "ns": 0,
+  "title": "Murph's Watch",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Murph%27s_Watch",
+  "touched": "2025-06-16T20:51:45Z",
+  "length": 1122,
+  "lastrevid": 34572,
+  "revision": {
+    "revid": 34572,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:51:45Z",
+    "sha1": "ebd7c38ba4e996b10bc16a43b46703be8d1e7356",
+    "size": 1122
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Murph's Watch",
+        "class_id": "22475",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "08-20",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Aug 20, 2035 AD, Murph's watch suddenly received a strange message.<br>Murph's greatest regret in life was not being able to say a proper goodbye to her father when he left. She had always been troubled by this. At the brink of Earth's desolation and human survival, she returned to her hometown, where she discovered traces left by her father and realized the message he had sent from faraway space. She successfully cracked the migration equation and led humanity to successfully colonize Saturn …",
+        "fame": "32",
+        "art": "30",
+        "fth": "26",
+        "civ": "45",
+        "tech": "21",
+        "ss1": "Like World's Strongest, obtained B-Tadpoles +5%",
+        "ss2": "Like World's Strongest, obtained B-Tadpoles +10%",
+        "ss3": "Like World's Strongest, obtained B-Tadpoles +15%",
+        "ss4": "Like World's Strongest, obtained B-Tadpoles +25%",
+        "ss7": "Like World's Strongest, obtained B-Tadpoles +25%<br>Like World's Strongest, obtained B-Tadpoles +25% (Awakened)",
+        "skill1": "[[File:Forestsanctum skill I.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Murph_s_Watch.wiki",
+  "markdown_path": "markdown/Murph_s_Watch.md"
+}

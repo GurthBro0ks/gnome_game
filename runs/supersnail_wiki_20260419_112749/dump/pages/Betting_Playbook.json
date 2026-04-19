@@ -1,0 +1,47 @@
+{
+  "pageid": 10136,
+  "ns": 0,
+  "title": "Betting Playbook",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Betting_Playbook",
+  "touched": "2025-08-11T10:39:47Z",
+  "length": 992,
+  "lastrevid": 37746,
+  "revision": {
+    "revid": 37746,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:39:47Z",
+    "sha1": "72d02db7a4812a2e58449c14bed3875e318e847f",
+    "size": 992
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Betting Playbook",
+        "class_id": "20570",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This playbook contains in-depth analyses of past matches, including team conditions, player performance, match outcomes, and odds fluctuations. Tucked between the pages lies a thin sheet of paper, inscribed with insider information known only to those within the circle, who can then use the crucial details to tip the scales in the sports gambling arena.",
+        "fame": "14",
+        "art": "12",
+        "fth": "17",
+        "civ": "31",
+        "tech": "16",
+        "ss1": "Snail All ELMT DMG +2<br>Per Hitman intercepted, Snail ATK +1<br>Hitmen Intercepted: 40/40",
+        "ss2": "Snail All ELMT DMG +4<br>Per Hitman intercepted, Snail ATK +2<br>Hitmen Intercepted: 40/40",
+        "ss3": "Snail All ELMT DMG +6<br>Per Hitman intercepted, Snail ATK +3<br>Hitmen Intercepted: 40/40",
+        "ss4": "Snail All ELMT DMG +6<br>Per Hitman intercepted, Snail ATK +3<br>Hitmen Intercepted: 40/40",
+        "ss7": "Snail All ELMT DMG +6<br>Per Hitman intercepted, Snail ATK +3<br>Hitmen Intercepted: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Betting_Playbook.wiki",
+  "markdown_path": "markdown/Betting_Playbook.md"
+}

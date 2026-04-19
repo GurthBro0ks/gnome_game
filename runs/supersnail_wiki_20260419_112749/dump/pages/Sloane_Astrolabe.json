@@ -1,0 +1,51 @@
+{
+  "pageid": 8562,
+  "ns": 0,
+  "title": "Sloane Astrolabe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sloane_Astrolabe",
+  "touched": "2025-06-20T00:15:55Z",
+  "length": 1559,
+  "lastrevid": 36084,
+  "revision": {
+    "revid": 36084,
+    "parentid": 34507,
+    "timestamp": "2025-06-20T00:15:55Z",
+    "sha1": "38cad2dcf4ea1a778dbae2ec46e531c24e3f8d3d",
+    "size": 1559
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Sloane Astrolabe",
+        "class_id": "22482",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "03-20",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Mar 20, 1300 AD, the Sloane Astrolabe was completed by a clockmaker.<br>The Sloane Astrolabe is made entirely of brass, with a main body consisting of a circular disk about half a meter in diameter and several concentric rings, with a pointer attached to the center of the disk that can be rotated freely. The disk is about one centimeter thick and has an astronomical map engraved on it, with a crescent-shaped pointer pointing to specific stars and markings that include the celestial ecliptic,  …",
+        "fame": "34",
+        "art": "31",
+        "fth": "24",
+        "civ": "47",
+        "tech": "18",
+        "ss1": "Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +8<br>Swamp Sanctum Rating Pts: 100000/100000",
+        "ss2": "Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +16<br>Swamp Sanctum Rating Pts: 100000/100000",
+        "ss3": "Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +24<br>Swamp Sanctum Rating Pts: 100000/100000",
+        "ss4": "Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Swamp Sanctum Rating Pts: 100000/100000",
+        "ss7": "Per 2,000 Swamp Sanctum Rating Pts, Priest-Troop Assistance DMG +40<br>Swamp Sanctum Rating Pts: 100000/100000<br>Protomon Troop assist DMG + 400 (Awakened)",
+        "skill1": "[[File:Wishingegg skill I.png|50px]]Place in Wishing Egg: This Relic's CIV +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sloane_Astrolabe.wiki",
+  "markdown_path": "markdown/Sloane_Astrolabe.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 9771,
+  "ns": 0,
+  "title": "Wuthering Heights+Alexander's Sarcophagus+Phase-Shift Spatial Gate+Arianrhod's Wheel+Ra-Hotep Couple+Anna Karenina",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wuthering_Heights%2BAlexander%27s_Sarcophagus%2BPhase-Shift_Spatial_Gate%2BArianrhod%27s_Wheel%2BRa-Hotep_Couple%2BAnna_Karenina",
+  "touched": "2025-07-02T09:49:26Z",
+  "length": 233,
+  "lastrevid": 37030,
+  "revision": {
+    "revid": 37030,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:42:01Z",
+    "sha1": "3fc372175f7ba4fc4b52b02029e4e3f19df5b7c2",
+    "size": 233
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "870",
+        "relics": "Wuthering Heights,Alexander's Sarcophagus,Phase-Shift Spatial Gate,Arianrhod's Wheel,Ra-Hotep Couple,Anna Karenina",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "All minion skins ATK +120%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wuthering_Heights_Alexander_s_Sarcophagus_Phase-Shift_Spatial_Gate_Arianrhod_s_Wheel_Ra-Hotep_Couple_Anna_Karenina.wiki",
+  "markdown_path": "markdown/Wuthering_Heights_Alexander_s_Sarcophagus_Phase-Shift_Spatial_Gate_Arianrhod_s_Wheel_Ra-Hotep_Couple_Anna_Karenina.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 11288,
+  "ns": 0,
+  "title": "Laureus Trophy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Laureus_Trophy",
+  "touched": "2025-08-11T11:19:19Z",
+  "length": 896,
+  "lastrevid": 39460,
+  "revision": {
+    "revid": 39460,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:19:19Z",
+    "sha1": "e5c617141c8e586767f37c53e822a14ab6678793",
+    "size": 896
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Laureus Trophy",
+        "class_id": "20409",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Annually, Laureus Trophy goes to the most outstanding male and female athletes in the world. It is one of the most influential prizes in sports. It is also the only global sports award ceremony, the pinnacle of glory for athletes!",
+        "fame": "28",
+        "art": "16",
+        "fth": "15",
+        "civ": "15",
+        "tech": "16",
+        "ss1": "Gene Simulation Power Checks -3%<br>Per 30 Gene Sim LVLs, Snail ATK +2<br>Gene Sim LVLs: 900/900",
+        "ss2": "Gene Simulation Power Checks -6%<br>Per 30 Gene Sim LVLs, Snail ATK +4<br>Gene Sim LVLs: 900/900",
+        "ss3": "Gene Simulation Power Checks -9%<br>Per 30 Gene Sim LVLs, Snail ATK +6<br>Gene Sim LVLs: 900/900",
+        "ss4": "Gene Simulation Power Checks -9%<br>Per 30 Gene Sim LVLs, Snail ATK +6<br>Gene Sim LVLs: 900/900",
+        "ss7": "Gene Simulation Power Checks -9%<br>Per 30 Gene Sim LVLs, Snail ATK +6<br>Gene Sim LVLs: 900/900<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Laureus_Trophy.wiki",
+  "markdown_path": "markdown/Laureus_Trophy.md"
+}

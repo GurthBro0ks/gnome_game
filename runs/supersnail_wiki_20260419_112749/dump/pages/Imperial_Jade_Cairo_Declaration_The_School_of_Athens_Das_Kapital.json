@@ -1,0 +1,34 @@
+{
+  "pageid": 3810,
+  "ns": 0,
+  "title": "Imperial Jade+Cairo Declaration+The School of Athens+Das Kapital",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Imperial_Jade%2BCairo_Declaration%2BThe_School_of_Athens%2BDas_Kapital",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 252,
+  "lastrevid": 13729,
+  "revision": {
+    "revid": 13729,
+    "parentid": 0,
+    "timestamp": "2023-10-03T07:10:04Z",
+    "sha1": "719bd0faf3e3f358c356df0c68e4cbdb882a9e6d",
+    "size": 252
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Imperial Jade,Cairo Declaration,The School of Athens,Das Kapital",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per Divine Dragon Descent, Snail HP +360<br>Divine Dragon Descents: 20/20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Imperial_Jade_Cairo_Declaration_The_School_of_Athens_Das_Kapital.wiki",
+  "markdown_path": "markdown/Imperial_Jade_Cairo_Declaration_The_School_of_Athens_Das_Kapital.md"
+}

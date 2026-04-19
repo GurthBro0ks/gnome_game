@@ -1,0 +1,51 @@
+{
+  "pageid": 10892,
+  "ns": 0,
+  "title": "Rape of the Sabines",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rape_of_the_Sabines",
+  "touched": "2025-08-11T11:04:48Z",
+  "length": 1097,
+  "lastrevid": 38828,
+  "revision": {
+    "revid": 38828,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:04:48Z",
+    "sha1": "0bf3dba2d30fa17d5914e38d7ca2a8918072478d",
+    "size": 1097
+  },
+  "categories": [
+    "ART Relics",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Rape of the Sabines",
+        "class_id": "22532",
+        "rank": "AA",
+        "affct": "ART",
+        "birthday": "04-26",
+        "description": "On Apr 26, 1583 AD, Giambologna completed this famous sculpture.<br>Rape of the Sabines is a sculpture from the Renaissance period created by Giambologna. The statue is inspired by a Roman legend where the Romans tricked the Sabine tribe to attend a festival, only to capture their women. It depicts the images of the young men abducting the women, the helpless old man, and the women fighting back, all interlaced in a spiral-like movement, forming a perfect artistic unity that creates a unique lan …",
+        "fame": "32",
+        "art": "67",
+        "fth": "45",
+        "civ": "49",
+        "tech": "35",
+        "ss1": "Snail ATK +10<br>Snail DEF +10",
+        "ss2": "Snail ATK +20<br>Snail DEF +20",
+        "ss3": "Snail ATK +30<br>Snail DEF +30",
+        "ss4": "Snail ATK +50<br>Snail DEF +50",
+        "ss5": "Snail ATK +70<br>Snail DEF +70",
+        "ss7": "Snail ATK +70<br>Snail DEF +70<br>Snail HP +1000 (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]??? (Coming soon)",
+        "skill2": "[[File:Rift skill II.png|50px]]??? (Coming soon)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Rape_of_the_Sabines.wiki",
+  "markdown_path": "markdown/Rape_of_the_Sabines.md"
+}

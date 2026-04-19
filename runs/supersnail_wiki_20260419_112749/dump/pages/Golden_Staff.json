@@ -1,0 +1,47 @@
+{
+  "pageid": 10183,
+  "ns": 0,
+  "title": "Golden Staff",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Staff",
+  "touched": "2025-08-11T10:41:58Z",
+  "length": 900,
+  "lastrevid": 37838,
+  "revision": {
+    "revid": 37838,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:41:58Z",
+    "sha1": "69793a9e07e8b7b945925d7417921245184e95aa",
+    "size": 900
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Golden Staff",
+        "class_id": "20436",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This gold scepter was unearthed in Sacrificial Pit 1 of Sanxingdui. Gold bars were flattened into thin layers, which were then wrapped around a wooden shaft. The shaft had deteriorated when people dug it up and only the gold exterior remained, mixed with wood slag. In the ancient Shu Kingdom, the gold scepter represented political and religious authority.",
+        "fame": "31",
+        "art": "17",
+        "fth": "11",
+        "civ": "17",
+        "tech": "14",
+        "ss1": "Per 5 Orange Museum Promos, Snail ATK +5<br>Orange Museum Promos: 50/50",
+        "ss2": "Per 5 Orange Museum Promos, Snail ATK +10<br>Orange Museum Promos: 50/50",
+        "ss3": "Per 5 Orange Museum Promos, Snail ATK +15<br>Orange Museum Promos: 50/50",
+        "ss4": "Per 5 Orange Museum Promos, Snail ATK +15<br>Orange Museum Promos: 50/50",
+        "ss7": "Per 5 Orange Museum Promos, Snail ATK +15<br>Orange Museum Promos: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Staff.wiki",
+  "markdown_path": "markdown/Golden_Staff.md"
+}

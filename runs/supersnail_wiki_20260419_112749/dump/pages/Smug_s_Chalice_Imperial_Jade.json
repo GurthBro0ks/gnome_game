@@ -1,0 +1,33 @@
+{
+  "pageid": 3768,
+  "ns": 0,
+  "title": "Smug's Chalice+Imperial Jade",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Smug%27s_Chalice%2BImperial_Jade",
+  "touched": "2025-08-11T11:16:37Z",
+  "length": 160,
+  "lastrevid": 39344,
+  "revision": {
+    "revid": 39344,
+    "parentid": 18431,
+    "timestamp": "2025-08-11T11:16:37Z",
+    "sha1": "adee407b43d597739977a997d0d1389adac5e594",
+    "size": 160
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "195",
+        "relics": "Smug's Chalice,Imperial Jade",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop HP +630"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Smug_s_Chalice_Imperial_Jade.wiki",
+  "markdown_path": "markdown/Smug_s_Chalice_Imperial_Jade.md"
+}

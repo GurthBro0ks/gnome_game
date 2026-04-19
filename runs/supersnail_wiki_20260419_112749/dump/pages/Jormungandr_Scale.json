@@ -1,0 +1,51 @@
+{
+  "pageid": 2155,
+  "ns": 0,
+  "title": "Jormungandr Scale",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jormungandr_Scale",
+  "touched": "2025-08-11T11:08:54Z",
+  "length": 1689,
+  "lastrevid": 39010,
+  "revision": {
+    "revid": 39010,
+    "parentid": 24594,
+    "timestamp": "2025-08-11T11:08:54Z",
+    "sha1": "0b976fefe0e8a6bc1e884d0e1daf963fc96e7835",
+    "size": 1689
+  },
+  "categories": [
+    "FAITH Relics",
+    "Purple FAITH Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Jormungandr Scale",
+        "class_id": "21215",
+        "rank": "AA",
+        "affct": "FAITH",
+        "birthday": "11-29",
+        "description": "On Nov 29, 4780 BC, Thor pulled out a piece of scale from Jormungandr.<br>Thor went fishing with Hymir, the giant. In order to show his strength, Thor drove the boat far away and used the head of a giant bull as bait to attract Jormungandr, the giant serpent. Thor used all his strength to fight the serpent and pulled it out of the sea. The serpent was so big that when it stretched its body, the tail touched its head at the other end of the deep sea. Jormungandr couldn't break free from him and c …",
+        "fame": "44",
+        "art": "44",
+        "fth": "69",
+        "civ": "40",
+        "tech": "31",
+        "ss1": "Per 30 Dragon Minions in battle:<br>> Troop ATK +4<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +4",
+        "ss2": "Per 30 Dragon Minions in battle:<br>> Troop ATK +8<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +8",
+        "ss3": "Per 30 Dragon Minions in battle:<br>> Troop ATK +12<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +12",
+        "ss4": "Per 30 Dragon Minions in battle:<br>> Troop ATK +20<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +20",
+        "ss5": "Per 30 Dragon Minions in battle:<br>> Troop ATK +28<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +28",
+        "ss7": "Per 30 Dragon Minions in battle:<br>> Troop ATK +28<br>Per 30 Dragon Minions in battle:<br>> Troop DEF +28<br>Per 30 Dragon Minions in battle:<br>> Troop ATK +28 (Awakened)",
+        "skill1": "[[File:Kemet skill II.png|50px]]Place in Kemetic Museum: In Kemet, Snail ATK +30",
+        "skill2": "[[File:Kemet skill II.png|50px]]Place in Kemetic Museum: In Kemet, B-tads gained +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jormungandr_Scale.wiki",
+  "markdown_path": "markdown/Jormungandr_Scale.md"
+}

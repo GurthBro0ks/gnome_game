@@ -1,0 +1,62 @@
+{
+  "pageid": 1279,
+  "ns": 0,
+  "title": "Turing Machine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Turing_Machine",
+  "touched": "2024-09-06T10:00:43Z",
+  "length": 2185,
+  "lastrevid": 24605,
+  "revision": {
+    "revid": 24605,
+    "parentid": 22319,
+    "timestamp": "2024-03-29T16:32:28Z",
+    "sha1": "f4cc792c3eddfe8fb5c76535307757ffc052532c",
+    "size": 2185
+  },
+  "categories": [
+    "ATK Boost",
+    "Drill Collection Boost",
+    "Enhanced by Time Machine LVL",
+    "Exploration Reagent Drop Boost",
+    "Kemet Exploration Boost",
+    "Kemet Museum Boost",
+    "Minion ATK Boost",
+    "Purple Relics",
+    "Purple TECH Relics",
+    "RUSH Boost",
+    "Relics",
+    "Sanctum Warrior Boost",
+    "TECH Boost",
+    "TECH Relics",
+    "Time Machine Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Turing Machine",
+        "rank": "AA",
+        "affct": "TECH",
+        "birthday": "10-18",
+        "source": "Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.36%), Tool Chest (1.5%), Expert Scrolls (0.95%)",
+        "description": "On Oct 18, 1936, Alan Turing claimed that if a computer can pass the Turing test, then it can think like a human being.\n\nTuring proposed an abstract computing model. With simulation abstraction, he abstracted the method of doing calculations on paper by assuming a virtual machine to do it instead. It has a paper tape with an infinite length with many small squares of different colors on it. The machine reads the grid information from the tape, finds the program table, and converts its own intern …",
+        "fame": "41",
+        "art": "40",
+        "fth": "34",
+        "civ": "46",
+        "tech": "67",
+        "ss1": "B-tads collected from Drill Rig +2%<br>Per 5 Time Machine LVLs, Snail ATK +8<br>Time Machine LVL: 50/50",
+        "ss2": "B-tads collected from Drill Rig +3%<br>Per 5 Time Machine LVLs, Snail ATK +12<br>Time Machine LVL: 50/50",
+        "ss3": "B-tads collected from Drill Rig +4%<br>Per 5 Time Machine LVLs, Snail ATK +16<br>Time Machine LVL: 50/50",
+        "ss4": "B-tads collected from Drill Rig +6%<br>Per 5 Time Machine LVLs, Snail ATK +24<br>Time Machine LVL: 50/50",
+        "ss5": "B-tads collected from Drill Rig +8%<br>Per 5 Time Machine LVLs, Snail ATK +32<br>Time Machine LVL: 50/50",
+        "ss7": "B-tads collected from Drill Rig +8%<br>Per 5 Time Machine LVLs, Snail ATK +32<br>Time Machine LVL: 50/50<br>B-tads collected from Drill Rig +7% (Awakened)",
+        "skill1": "[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: In Kemet, Snail RUSH +30",
+        "skill2": "[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: This Relic's TECH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Turing_Machine.wiki",
+  "markdown_path": "markdown/Turing_Machine.md"
+}

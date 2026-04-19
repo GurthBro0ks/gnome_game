@@ -1,0 +1,33 @@
+{
+  "pageid": 10208,
+  "ns": 0,
+  "title": "Electromagnetism+Zeus Statue at Olympia+The Red and Black+Colossus of Rhodes",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Electromagnetism%2BZeus_Statue_at_Olympia%2BThe_Red_and_Black%2BColossus_of_Rhodes",
+  "touched": "2025-08-11T10:42:55Z",
+  "length": 212,
+  "lastrevid": 37879,
+  "revision": {
+    "revid": 37879,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:42:55Z",
+    "sha1": "0950df3f76b91fc8ff588692261318f39629aa49",
+    "size": 212
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "768",
+        "relics": "Electromagnetism,Zeus Statue at Olympia,The Red and Black,Colossus of Rhodes",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 60 T7+ Minions in battle: Troop ATK +90"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Electromagnetism_Zeus_Statue_at_Olympia_The_Red_and_Black_Colossus_of_Rhodes.wiki",
+  "markdown_path": "markdown/Electromagnetism_Zeus_Statue_at_Olympia_The_Red_and_Black_Colossus_of_Rhodes.md"
+}

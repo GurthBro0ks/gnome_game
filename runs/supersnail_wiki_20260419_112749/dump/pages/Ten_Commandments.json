@@ -1,0 +1,55 @@
+{
+  "pageid": 10251,
+  "ns": 0,
+  "title": "Ten Commandments",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ten_Commandments",
+  "touched": "2025-08-11T10:44:30Z",
+  "length": 2804,
+  "lastrevid": 37950,
+  "revision": {
+    "revid": 37950,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:44:30Z",
+    "sha1": "84c0db5cccf16dd384dac0b8d31f6a609d24a2ae",
+    "size": 2804
+  },
+  "categories": [
+    "FAITH Relics",
+    "Orange FAITH Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ten Commandments",
+        "class_id": "22687",
+        "rank": "SSS",
+        "affct": "FAITH",
+        "birthday": "06-10",
+        "description": "On Jun 10, 1237 BC, Moses received the Ten Commandments from God on Mount Sinai.<br>The Ten Commandments, which were issued by God to the Jewish people through the prophet Moses, contain ten commandments that the Jewish people must abide by. Thou shalt have no other gods before me; Thou shalt not make unto thee any graven image; Thou shalt not take the name of the Lord thy God in vain; Remember the sabbath day, to keep it holy; Honour thy father and thy mother; Thou shalt not kill; Thou shalt no …",
+        "fame": "58",
+        "art": "73",
+        "fth": "107",
+        "civ": "54",
+        "tech": "70",
+        "ss1": "Per 60 Angel Minions in battle:<br>> Troop ATK +9<br>Per 5 Angel Gene LVLs, Snail ATK +9<br>Per 5 Angel Gene LVLs, Snail DEF +9<br>Angel Gene LVLs Researched: 150/150",
+        "ss2": "Per 60 Angel Minions in battle:<br>> Troop ATK +18<br>Per 5 Angel Gene LVLs, Snail ATK +10<br>Per 5 Angel Gene LVLs, Snail DEF +10<br>Angel Gene LVLs Researched: 150/150",
+        "ss3": "Per 60 Angel Minions in battle:<br>> Troop ATK +27<br>Per 5 Angel Gene LVLs, Snail ATK +11<br>Per 5 Angel Gene LVLs, Snail DEF +11<br>Angel Gene LVLs Researched: 150/150",
+        "ss4": "Per 60 Angel Minions in battle:<br>> Troop ATK +45<br>Per 5 Angel Gene LVLs, Snail ATK +13<br>Per 5 Angel Gene LVLs, Snail DEF +13<br>Angel Gene LVLs Researched: 150/150",
+        "ss5": "Per 60 Angel Minions in battle:<br>> Troop ATK +63<br>Per 5 Angel Gene LVLs, Snail ATK +15<br>Per 5 Angel Gene LVLs, Snail DEF +15<br>Angel Gene LVLs Researched: 150/150",
+        "ss6": "Per 60 Angel Minions in battle:<br>> Troop ATK +90<br>Per 5 Angel Gene LVLs, Snail ATK +18<br>Per 5 Angel Gene LVLs, Snail DEF +18<br>Angel Gene LVLs Researched: 150/150",
+        "ss7": "Per 60 Angel Minions in battle:<br>> Troop ATK +90<br>Per 5 Angel Gene LVLs, Snail ATK +18<br>Per 5 Angel Gene LVLs, Snail DEF +18<br>Angel Gene LVLs Researched: 150/150<br>Per 60 Angel Minions in battle:<br>> Troop ATK +90 (Awakened)",
+        "skill1": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Mutant Cells gained +15%",
+        "skill2": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Angel Cells gained +15%",
+        "skill3": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Mecha Cells gained +15%",
+        "mirage": "{{Mirage|name=Divine Discipline|reward={{RewardIconWithLink|Orange Brand Case, +100|orange}}\n|3name=Commandment I|3rec=89.31M|3atk=290738|3defense=169543|3hp=21590130|3weak=37712\n|4name=Commandment III|4rec=98.51M|4atk=311524|4defense=182494|4hp=25492066|4weak=39388\n|5name=Commandment VII|5rec=109.48M|5atk=335684|5defense=197927|5hp=31022273|5weak=41815\n|6name=Commandment X|6rec=122.66M|6atk=364218|6defense=216464|6hp=38956242|6weak=44925\n|Arec=139.06M|Aatk=400312|Adefense=239550|Ahp=52055080|Aw …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ten_Commandments.wiki",
+  "markdown_path": "markdown/Ten_Commandments.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 8324,
+  "ns": 0,
+  "title": "King Menkaure & Queen+The Graces",
+  "fullurl": "https://supersnail.wiki.gg/wiki/King_Menkaure_%26_Queen%2BThe_Graces",
+  "touched": "2025-06-20T00:16:52Z",
+  "length": 195,
+  "lastrevid": 36122,
+  "revision": {
+    "revid": 36122,
+    "parentid": 34114,
+    "timestamp": "2025-06-20T00:16:52Z",
+    "sha1": "f50c47a13eb586560844667d939a72701f8c809f",
+    "size": 195
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "722",
+        "relics": "King Menkaure & Queen,The Graces",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Epic Protodex Stars, Snail RUSH +21;Epic Protodex Stars: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/King_Menkaure_Queen_The_Graces.wiki",
+  "markdown_path": "markdown/King_Menkaure_Queen_The_Graces.md"
+}

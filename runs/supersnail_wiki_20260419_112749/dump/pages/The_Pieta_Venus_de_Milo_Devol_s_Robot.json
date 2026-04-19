@@ -1,0 +1,33 @@
+{
+  "pageid": 3799,
+  "ns": 0,
+  "title": "The Pieta+Venus de Milo+Devol's Robot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Pieta%2BVenus_de_Milo%2BDevol%27s_Robot",
+  "touched": "2025-08-11T11:06:32Z",
+  "length": 165,
+  "lastrevid": 38909,
+  "revision": {
+    "revid": 38909,
+    "parentid": 13697,
+    "timestamp": "2025-08-11T11:06:32Z",
+    "sha1": "4074c3bef2dc027bbceebb4d88cc526f0eb9b416",
+    "size": 165
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "237",
+        "relics": "The Pieta,Venus de Milo,Devol's Robot",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Angel Gene research Cell cost -4.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Pieta_Venus_de_Milo_Devol_s_Robot.wiki",
+  "markdown_path": "markdown/The_Pieta_Venus_de_Milo_Devol_s_Robot.md"
+}

@@ -1,0 +1,28 @@
+{
+  "pageid": 6911,
+  "ns": 0,
+  "title": "Potatain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Potatain",
+  "touched": "2025-02-06T19:34:31Z",
+  "length": 394,
+  "lastrevid": 32582,
+  "revision": {
+    "revid": 32582,
+    "parentid": 32581,
+    "timestamp": "2024-12-28T15:20:21Z",
+    "sha1": "44832e5948fe3bcb0a5b4c2d4bcbfd9adec7949c",
+    "size": 394
+  },
+  "categories": [
+    "ATK Boost",
+    "CIV Shells",
+    "Earth DMG Boost",
+    "Hellas",
+    "Mutant Form",
+    "Shells"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Potatain.wiki",
+  "markdown_path": "markdown/Potatain.md"
+}

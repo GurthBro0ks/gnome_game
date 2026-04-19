@@ -1,0 +1,47 @@
+{
+  "pageid": 304,
+  "ns": 0,
+  "title": "Magnifying Glass",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Magnifying_Glass",
+  "touched": "2025-08-11T11:10:51Z",
+  "length": 521,
+  "lastrevid": 39090,
+  "revision": {
+    "revid": 39090,
+    "parentid": 11648,
+    "timestamp": "2025-08-11T11:10:51Z",
+    "sha1": "d4b81465414be195491f0c39540c9659cee00831",
+    "size": 521
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Magnifying Glass",
+        "class_id": "20073",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This magnifying glass once belonged to a legendary English detective named Holmes. In that era, there was no advanced equipment, so the magnifying glass was an essential tool for a rigorous search of the crime scene. You can find all the traces the suspect left by using it!",
+        "fame": "16",
+        "art": "18",
+        "fth": "14",
+        "civ": "29",
+        "tech": "13",
+        "ss1": "Snail HP +10",
+        "ss2": "Snail HP +20",
+        "ss3": "Snail HP +30",
+        "ss4": "Snail HP +30",
+        "ss7": "Snail HP +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Magnifying_Glass.wiki",
+  "markdown_path": "markdown/Magnifying_Glass.md"
+}

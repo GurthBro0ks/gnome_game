@@ -1,0 +1,47 @@
+{
+  "pageid": 10416,
+  "ns": 0,
+  "title": "Broken Star Chart",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Broken_Star_Chart",
+  "touched": "2025-08-11T10:49:53Z",
+  "length": 1096,
+  "lastrevid": 38185,
+  "revision": {
+    "revid": 38185,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:49:53Z",
+    "sha1": "da883b7cf41be381cf4eeae691c9c5b84e7ca044",
+    "size": 1096
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Broken Star Chart",
+        "class_id": "20361",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Due to severe impact, most of the data stored in this star chart has been lost. However, among the remaining little information, several relatively complete cosmic routes can still be extracted. And the destination of these routes seems to be located in an unknown Domain.",
+        "fame": "12",
+        "art": "17",
+        "fth": "13",
+        "civ": "17",
+        "tech": "31",
+        "ss1": "Rocket destination unlocked: Species Domain<br>Per Species Domain conquered, Refine Time -40s<br>Species Domains Conquered: 3/3",
+        "ss2": "Rocket destination unlocked: Species Domain<br>Per Species Domain conquered, Refine Time -1m 20s<br>Species Domains Conquered: 3/3",
+        "ss3": "Rocket destination unlocked: Species Domain<br>Per Species Domain conquered, Refine Time -2m<br>Species Domains Conquered: 3/3",
+        "ss4": "Rocket destination unlocked: Species Domain<br>Per Species Domain conquered, Refine Time -2m<br>Species Domains Conquered: 3/3",
+        "ss7": "Rocket destination unlocked: Species Domain<br>Per Species Domain conquered, Refine Time -2m<br>Species Domains Conquered: 3/3<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Broken_Star_Chart.wiki",
+  "markdown_path": "markdown/Broken_Star_Chart.md"
+}

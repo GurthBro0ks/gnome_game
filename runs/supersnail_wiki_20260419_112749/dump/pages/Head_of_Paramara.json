@@ -1,0 +1,47 @@
+{
+  "pageid": 2088,
+  "ns": 0,
+  "title": "Head of Paramara",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Head_of_Paramara",
+  "touched": "2025-08-11T11:07:35Z",
+  "length": 801,
+  "lastrevid": 38956,
+  "revision": {
+    "revid": 38956,
+    "parentid": 11801,
+    "timestamp": "2025-08-11T11:07:35Z",
+    "sha1": "8a101141b11969ff2b4c81819bb6978f8fdd0540",
+    "size": 801
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Head of Paramara",
+        "class_id": "20308",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "In an operation to infiltrate a Demon God base, the previous snail from the base encountered a terrifying monster. After doing all it could, it killed the monster and brought the head back as a trophy, though it was hurt badly itself.",
+        "fame": "18",
+        "art": "9",
+        "fth": "21",
+        "civ": "16",
+        "tech": "26",
+        "ss1": "Per 5 Mutant Gene LVLs, Snail ATK +2<br>Mutant Gene LVLs Researched: 150/150",
+        "ss2": "Per 5 Mutant Gene LVLs, Snail ATK +4<br>Mutant Gene LVLs Researched: 150/150",
+        "ss3": "Per 5 Mutant Gene LVLs, Snail ATK +6<br>Mutant Gene LVLs Researched: 150/150",
+        "ss4": "Per 5 Mutant Gene LVLs, Snail ATK +6<br>Mutant Gene LVLs Researched: 150/150",
+        "ss7": "Per 5 Mutant Gene LVLs, Snail ATK +6<br>Mutant Gene LVLs Researched: 150/150<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Head_of_Paramara.wiki",
+  "markdown_path": "markdown/Head_of_Paramara.md"
+}

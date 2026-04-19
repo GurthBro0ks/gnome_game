@@ -1,0 +1,35 @@
+{
+  "pageid": 8404,
+  "ns": 0,
+  "title": "The Principia+Mysterious Relic+Mysterious Relic+Don Juan+Death of the Virgin+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Principia%2BMysterious_Relic%2BMysterious_Relic%2BDon_Juan%2BDeath_of_the_Virgin%2BMysterious_Relic",
+  "touched": "2025-04-25T04:04:27Z",
+  "length": 262,
+  "lastrevid": 34238,
+  "revision": {
+    "revid": 34238,
+    "parentid": 0,
+    "timestamp": "2025-04-25T04:04:27Z",
+    "sha1": "15051f12e1c6482fe1fdd7716f86365e1d3e12df",
+    "size": 262
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Principia,Mysterious Relic,Mysterious Relic,Don Juan,Death of the Virgin,Mysterious Relic",
+        "rank": "orange",
+        "amount": "6",
+        "category": "minion",
+        "description": "Snail Leadership +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Principia_Mysterious_Relic_Mysterious_Relic_Don_Juan_Death_of_the_Virgin_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/The_Principia_Mysterious_Relic_Mysterious_Relic_Don_Juan_Death_of_the_Virgin_Mysterious_Relic.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 10942,
+  "ns": 0,
+  "title": "Santa María+Philosophie Zoologique",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Santa_Mar%C3%ADa%2BPhilosophie_Zoologique",
+  "touched": "2025-08-11T11:08:59Z",
+  "length": 171,
+  "lastrevid": 38907,
+  "revision": {
+    "revid": 38907,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:06:29Z",
+    "sha1": "7b0baed1eb3b3f5362075b625b5fdd0aaf8ea848",
+    "size": 171
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "845",
+        "relics": "Santa María,Philosophie Zoologique",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 T7+ Minions in battle: Troop DEF +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Santa_Mar_a_Philosophie_Zoologique.wiki",
+  "markdown_path": "markdown/Santa_Mar_a_Philosophie_Zoologique.md"
+}

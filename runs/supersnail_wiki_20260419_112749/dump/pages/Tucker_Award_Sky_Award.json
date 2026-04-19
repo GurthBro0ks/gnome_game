@@ -1,0 +1,33 @@
+{
+  "pageid": 7557,
+  "ns": 0,
+  "title": "Tucker Award+Sky Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tucker_Award%2BSky_Award",
+  "touched": "2025-08-11T11:10:26Z",
+  "length": 175,
+  "lastrevid": 39072,
+  "revision": {
+    "revid": 39072,
+    "parentid": 31612,
+    "timestamp": "2025-08-11T11:10:26Z",
+    "sha1": "fa17f7128a401a068c3b6617ca090736e7688475",
+    "size": 175
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "769",
+        "relics": "Tucker Award,Sky Award",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Dorm Decor gained, Snail ATK +7;Dorm Decor Gained: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tucker_Award_Sky_Award.wiki",
+  "markdown_path": "markdown/Tucker_Award_Sky_Award.md"
+}

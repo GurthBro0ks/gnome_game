@@ -1,0 +1,33 @@
+{
+  "pageid": 4220,
+  "ns": 0,
+  "title": "Swimming Reindeer+Panther Brooch",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Swimming_Reindeer%2BPanther_Brooch",
+  "touched": "2025-06-20T00:03:09Z",
+  "length": 138,
+  "lastrevid": 35810,
+  "revision": {
+    "revid": 35810,
+    "parentid": 18625,
+    "timestamp": "2025-06-20T00:03:09Z",
+    "sha1": "7bc7b563bd0393b212b07889fb6a64048abd2b2e",
+    "size": 138
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "460",
+        "relics": "Swimming Reindeer,Panther Brooch",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Swimming_Reindeer_Panther_Brooch.wiki",
+  "markdown_path": "markdown/Swimming_Reindeer_Panther_Brooch.md"
+}

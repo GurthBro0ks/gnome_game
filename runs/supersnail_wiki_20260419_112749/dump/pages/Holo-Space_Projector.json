@@ -1,0 +1,47 @@
+{
+  "pageid": 10408,
+  "ns": 0,
+  "title": "Holo-Space Projector",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Holo-Space_Projector",
+  "touched": "2025-08-11T10:49:38Z",
+  "length": 1158,
+  "lastrevid": 38173,
+  "revision": {
+    "revid": 38173,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:49:38Z",
+    "sha1": "554ba2ceca194806d14ed874fed52fbb1e522a66",
+    "size": 1158
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Holo-Space Projector",
+        "class_id": "20826",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The holographic projection technology of the space-time projector simulates the features and environments of various alternate dimensions. Users are immersed in a holographic-based virtual environment, capable of real-time analysis and interpretation of complex information from different time-space dimensions.",
+        "fame": "12",
+        "art": "19",
+        "fth": "15",
+        "civ": "11",
+        "tech": "31",
+        "ss1": "In the Rift, INTEL gained +1%<br>Per 20 levels of Time Rift INTEL learned: INTEL gained +0.1%<br>Time Rift INTEL learned: 1000/1000",
+        "ss2": "In the Rift, INTEL gained +2%<br>Per 20 levels of Time Rift INTEL learned: INTEL gained +0.2%<br>Time Rift INTEL learned: 1000/1000",
+        "ss3": "In the Rift, INTEL gained +3%<br>Per 20 levels of Time Rift INTEL learned: INTEL gained +0.3%<br>Time Rift INTEL learned: 1000/1000",
+        "ss4": "In the Rift, INTEL gained +3%<br>Per 20 levels of Time Rift INTEL learned: INTEL gained +0.3%<br>Time Rift INTEL learned: 1000/1000",
+        "ss7": "In the Rift, INTEL gained +3%<br>Per 20 levels of Time Rift INTEL learned: INTEL gained +0.3%<br>Time Rift INTEL learned: 1000/1000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Holo-Space_Projector.wiki",
+  "markdown_path": "markdown/Holo-Space_Projector.md"
+}

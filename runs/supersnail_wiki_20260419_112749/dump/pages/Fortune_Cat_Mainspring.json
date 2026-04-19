@@ -1,0 +1,47 @@
+{
+  "pageid": 4035,
+  "ns": 0,
+  "title": "Fortune Cat Mainspring",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fortune_Cat_Mainspring",
+  "touched": "2025-08-11T10:51:26Z",
+  "length": 716,
+  "lastrevid": 38254,
+  "revision": {
+    "revid": 38254,
+    "parentid": 22371,
+    "timestamp": "2025-08-11T10:51:26Z",
+    "sha1": "e8db3f497c9aa30f74e8e6a709de9bbe1b6d92e8",
+    "size": 716
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Fortune Cat Mainspring",
+        "class_id": "20335",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Because its owner would break it open once a week, Fortune Cat felt indignant and took refuge with the Demon Gods, who trained it to be a killer. Unfortunately, this cute cat was not good at fighting. Soon after the fight with the snail, it was beaten back to its original form and turned into a Relic!",
+        "fame": "12",
+        "art": "13",
+        "fth": "17",
+        "civ": "18",
+        "tech": "30",
+        "ss1": "In Snail Store, Fortune Cat B-tad cap +20000",
+        "ss2": "In Snail Store, Fortune Cat B-tad cap +40000",
+        "ss3": "In Snail Store, Fortune Cat B-tad cap +60000",
+        "ss4": "In Snail Store, Fortune Cat B-tad cap +60000",
+        "ss7": "In Snail Store, Fortune Cat B-tad cap +60000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fortune_Cat_Mainspring.wiki",
+  "markdown_path": "markdown/Fortune_Cat_Mainspring.md"
+}

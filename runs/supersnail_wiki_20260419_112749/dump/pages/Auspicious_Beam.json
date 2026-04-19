@@ -1,0 +1,46 @@
+{
+  "pageid": 11167,
+  "ns": 0,
+  "title": "Auspicious Beam",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Auspicious_Beam",
+  "touched": "2025-09-30T22:42:37Z",
+  "length": 604,
+  "lastrevid": 40415,
+  "revision": {
+    "revid": 40415,
+    "parentid": 40390,
+    "timestamp": "2025-09-30T22:42:37Z",
+    "sha1": "b91cdf718380e69434d1018abb410453793a17c6",
+    "size": 604
+  },
+  "categories": [
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Missing Info",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Auspicious Beam",
+        "class_id": "20298",
+        "rank": "Green",
+        "affct": "FTH",
+        "description": "At the start of the year, visit relatives and friends to exchange blessings, fostering more harmonious interpersonal relationships!",
+        "fame": "15",
+        "art": "15",
+        "fth": "30",
+        "civ": "17",
+        "tech": "13",
+        "ss1": "Snail Leadership +2<br>Per 10 Lucky Star, Snail RUSH +1<br>Lucky Star Gained: 1400/1400",
+        "ss2": "Snail Leadership +4<br>Per 10 Lucky Star, Snail RUSH +2<br>Lucky Star Gained: 1400/1400",
+        "ss3": "Snail Leadership +6<br>Per 10 Lucky Star, Snail RUSH +3<br>Lucky Star Gained: 1400/1400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Auspicious_Beam.wiki",
+  "markdown_path": "markdown/Auspicious_Beam.md"
+}

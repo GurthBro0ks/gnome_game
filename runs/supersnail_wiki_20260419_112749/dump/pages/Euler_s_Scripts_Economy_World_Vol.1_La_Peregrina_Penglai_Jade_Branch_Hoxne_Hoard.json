@@ -1,0 +1,33 @@
+{
+  "pageid": 8898,
+  "ns": 0,
+  "title": "Euler's Scripts+Economy World Vol.1+La Peregrina+Penglai Jade Branch+Hoxne Hoard",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Euler%27s_Scripts%2BEconomy_World_Vol.1%2BLa_Peregrina%2BPenglai_Jade_Branch%2BHoxne_Hoard",
+  "touched": "2025-06-16T23:10:21Z",
+  "length": 193,
+  "lastrevid": 34936,
+  "revision": {
+    "revid": 34936,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:10:21Z",
+    "sha1": "78d4df9576eac13b4f056711582d5db3d946705f",
+    "size": 193
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "448",
+        "relics": "Euler's Scripts,Economy World Vol.1,La Peregrina,Penglai Jade Branch,Hoxne Hoard",
+        "rank": "purple",
+        "amount": "5",
+        "category": "self",
+        "description": "Dragon Minion MAX +9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Euler_s_Scripts_Economy_World_Vol.1_La_Peregrina_Penglai_Jade_Branch_Hoxne_Hoard.wiki",
+  "markdown_path": "markdown/Euler_s_Scripts_Economy_World_Vol.1_La_Peregrina_Penglai_Jade_Branch_Hoxne_Hoard.md"
+}

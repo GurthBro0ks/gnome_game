@@ -1,0 +1,33 @@
+{
+  "pageid": 8920,
+  "ns": 0,
+  "title": "Wealth Magazine Vol.1+Nature Vol.1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wealth_Magazine_Vol.1%2BNature_Vol.1",
+  "touched": "2025-06-19T23:56:44Z",
+  "length": 192,
+  "lastrevid": 35703,
+  "revision": {
+    "revid": 35703,
+    "parentid": 35005,
+    "timestamp": "2025-06-19T23:56:44Z",
+    "sha1": "24b24bcbebc86c463e7ac9560bedca877a247aaf",
+    "size": 192
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "452",
+        "relics": "Wealth Magazine Vol.1,Nature Vol.1",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1.5k Tadpole Points, Snail ATK +7;Tadpole Points: 45000/45000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wealth_Magazine_Vol.1_Nature_Vol.1.wiki",
+  "markdown_path": "markdown/Wealth_Magazine_Vol.1_Nature_Vol.1.md"
+}

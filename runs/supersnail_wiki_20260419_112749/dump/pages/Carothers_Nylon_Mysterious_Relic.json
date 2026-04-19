@@ -1,0 +1,36 @@
+{
+  "pageid": 4726,
+  "ns": 0,
+  "title": "Carothers Nylon+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Carothers_Nylon%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:51Z",
+  "length": 283,
+  "lastrevid": 18597,
+  "revision": {
+    "revid": 18597,
+    "parentid": 18283,
+    "timestamp": "2023-11-14T01:23:19Z",
+    "sha1": "4b2b1fd3a1698260856f7bcc090531f06b1cf771",
+    "size": 283
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Epic Protodex Stars",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Carothers Nylon,Mysterious Relic",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Epic Protodex Stars, Snail ATK +15; Epic Protodex Stars: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Carothers_Nylon_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Carothers_Nylon_Mysterious_Relic.md"
+}

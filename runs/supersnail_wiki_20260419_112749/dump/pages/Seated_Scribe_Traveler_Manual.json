@@ -1,0 +1,33 @@
+{
+  "pageid": 3263,
+  "ns": 0,
+  "title": "Seated Scribe+Traveler Manual",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Seated_Scribe%2BTraveler_Manual",
+  "touched": "2025-08-11T11:08:59Z",
+  "length": 132,
+  "lastrevid": 39014,
+  "revision": {
+    "revid": 39014,
+    "parentid": 13030,
+    "timestamp": "2025-08-11T11:08:59Z",
+    "sha1": "6ce35e5ead7ccbaa9d8f3dd2cd8b4755ff5e78c9",
+    "size": 132
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "11",
+        "relics": "Seated Scribe,Traveler Manual",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Seated_Scribe_Traveler_Manual.wiki",
+  "markdown_path": "markdown/Seated_Scribe_Traveler_Manual.md"
+}

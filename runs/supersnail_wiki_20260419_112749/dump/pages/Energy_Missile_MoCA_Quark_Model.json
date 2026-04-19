@@ -1,0 +1,33 @@
+{
+  "pageid": 3963,
+  "ns": 0,
+  "title": "Energy Missile+MoCA+Quark Model",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Energy_Missile%2BMoCA%2BQuark_Model",
+  "touched": "2025-06-20T00:05:12Z",
+  "length": 147,
+  "lastrevid": 35864,
+  "revision": {
+    "revid": 35864,
+    "parentid": 19637,
+    "timestamp": "2025-06-20T00:05:12Z",
+    "sha1": "6a0baefba7e067149048c82003b8212c9489e797",
+    "size": 147
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "544",
+        "relics": "Energy Missile,MoCA,Quark Model",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Quantum Amp Max Cap +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Energy_Missile_MoCA_Quark_Model.wiki",
+  "markdown_path": "markdown/Energy_Missile_MoCA_Quark_Model.md"
+}

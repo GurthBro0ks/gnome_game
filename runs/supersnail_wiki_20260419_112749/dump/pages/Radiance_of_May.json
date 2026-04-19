@@ -1,0 +1,47 @@
+{
+  "pageid": 11254,
+  "ns": 0,
+  "title": "Radiance of May",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Radiance_of_May",
+  "touched": "2025-08-11T11:18:17Z",
+  "length": 879,
+  "lastrevid": 39414,
+  "revision": {
+    "revid": 39414,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:18:17Z",
+    "sha1": "e9c5574d107fe798972bc0c0bedb16bfa1a773b8",
+    "size": 879
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Radiance of May",
+        "class_id": "20641",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "The fifth rule of natural circulation: A gentle breeze and lush greenery are the prelude to busy farming in early summer. Let us follow the rhythm of the seasons, diligently cultivate, and look forward to a fruitful autumn!",
+        "fame": "14",
+        "art": "34",
+        "fth": "15",
+        "civ": "13",
+        "tech": "14",
+        "ss1": "Snail Leadership +2<br>Per 10 Lucky Star gained, Snail RUSH +1<br>Lucky Star Gained: 2400/2400",
+        "ss2": "Snail Leadership +4<br>Per 10 Lucky Star gained, Snail RUSH +2<br>Lucky Star Gained: 2400/2400",
+        "ss3": "Snail Leadership +6<br>Per 10 Lucky Star gained, Snail RUSH +3<br>Lucky Star Gained: 2400/2400",
+        "ss4": "Snail Leadership +6<br>Per 10 Lucky Star gained, Snail RUSH +3<br>Lucky Star Gained: 2400/2400",
+        "ss7": "Snail Leadership +6<br>Per 10 Lucky Star gained, Snail RUSH +3<br>Lucky Star Gained: 2400/2400<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Radiance_of_May.wiki",
+  "markdown_path": "markdown/Radiance_of_May.md"
+}

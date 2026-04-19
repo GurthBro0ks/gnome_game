@@ -1,0 +1,34 @@
+{
+  "pageid": 9245,
+  "ns": 0,
+  "title": "Relic Stamps",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Relic_Stamps",
+  "touched": "2025-10-21T12:20:58Z",
+  "length": 1808,
+  "lastrevid": 35614,
+  "revision": {
+    "revid": 35614,
+    "parentid": 35613,
+    "timestamp": "2025-06-18T22:09:33Z",
+    "sha1": "7ba83acdc81c4dbe78572dae5da7b0c71df11f34",
+    "size": 1808
+  },
+  "categories": [
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "#cargo_query:table=Relics",
+      "params": {
+        "fields": "name, source, affct, rank, ss3, ss7, fame, art, fth, civ, tech, source, skill1, skill2, skill3",
+        "order by": "name",
+        "format": "template",
+        "template": "RelicSourceTableRow",
+        "named args": "yes"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Relic_Stamps.wiki",
+  "markdown_path": "markdown/Relic_Stamps.md"
+}

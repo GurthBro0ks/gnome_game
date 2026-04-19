@@ -1,0 +1,47 @@
+{
+  "pageid": 10599,
+  "ns": 0,
+  "title": "Poplar Tree Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Poplar_Tree_Statue",
+  "touched": "2025-08-11T10:55:56Z",
+  "length": 855,
+  "lastrevid": 38446,
+  "revision": {
+    "revid": 38446,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:55:56Z",
+    "sha1": "3e1e0ab35c57a11468932d708018d9244b91e8b6",
+    "size": 855
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Poplar Tree Statue",
+        "class_id": "20168",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This tree carving comes from a thousand-year-old poplar tree, standing tall and proud in the desolate and uninhabited Gobi desert, where all living creatures are intimidated except for this resilient poplar tree. This is the most beautiful hymn to its vitality!",
+        "fame": "18",
+        "art": "29",
+        "fth": "15",
+        "civ": "11",
+        "tech": "17",
+        "ss1": "Snail HP +300<br>Per 10 ART-Fungi eaten, Snail HP +10<br>ART-Fungi Eaten: 500/500",
+        "ss2": "Snail HP +400<br>Per 10 ART-Fungi eaten, Snail HP +20<br>ART-Fungi Eaten: 500/500",
+        "ss3": "Snail HP +500<br>Per 10 ART-Fungi eaten, Snail HP +30<br>ART-Fungi Eaten: 500/500",
+        "ss4": "Snail HP +500<br>Per 10 ART-Fungi eaten, Snail HP +30<br>ART-Fungi Eaten: 500/500",
+        "ss7": "Snail HP +500<br>Per 10 ART-Fungi eaten, Snail HP +30<br>ART-Fungi Eaten: 500/500<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Poplar_Tree_Statue.wiki",
+  "markdown_path": "markdown/Poplar_Tree_Statue.md"
+}

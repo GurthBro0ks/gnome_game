@@ -1,0 +1,33 @@
+{
+  "pageid": 7076,
+  "ns": 0,
+  "title": "Libra+Sagittarius",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Libra%2BSagittarius",
+  "touched": "2025-08-11T11:00:43Z",
+  "length": 126,
+  "lastrevid": 38652,
+  "revision": {
+    "revid": 38652,
+    "parentid": 29515,
+    "timestamp": "2025-08-11T11:00:43Z",
+    "sha1": "e0b8eeb63189e8e57e0e26fbeb742def0f4a4acf",
+    "size": 126
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "287",
+        "relics": "Libra,Sagittarius",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "All ELMT RES +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Libra_Sagittarius.wiki",
+  "markdown_path": "markdown/Libra_Sagittarius.md"
+}

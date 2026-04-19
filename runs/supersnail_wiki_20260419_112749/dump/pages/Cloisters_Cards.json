@@ -1,0 +1,50 @@
+{
+  "pageid": 4735,
+  "ns": 0,
+  "title": "Cloisters Cards",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cloisters_Cards",
+  "touched": "2025-06-16T23:15:49Z",
+  "length": 1143,
+  "lastrevid": 35086,
+  "revision": {
+    "revid": 35086,
+    "parentid": 33957,
+    "timestamp": "2025-06-16T23:15:49Z",
+    "sha1": "fefc05f7a75daa704b115a4e32e5045637012f39",
+    "size": 1143
+  },
+  "categories": [
+    "Blue FAME Relics",
+    "Blue Relics",
+    "FAME Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Cloisters Cards",
+        "class_id": "22002",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "02-26",
+        "source": "Lottery Machine No.2 (0.26%), Wishing (0.14%)",
+        "description": "On Feb 26, 1978 AD, the Cloisters Cards became one of the Metropolitan Museum of Art's collections.<br>The Cloisters Cards are the oldest full deck of playing cards in the world. Dating back to the fourteenth century, these cards feature unique symbols such as a horn, dog collar, dog leash, and noose, unlike the diamond or heart symbols commonly seen today. Interestingly, the deck was undervalued in its earliest auction, selling for a mere $3,000 to an antique dealer. However, five years later,  …",
+        "fame": "46",
+        "art": "27",
+        "fth": "22",
+        "civ": "26",
+        "tech": "33",
+        "ss1": "Free Gene Speedup (Zombie) +6m",
+        "ss2": "Free Gene Speedup (Zombie) +12m",
+        "ss3": "Free Gene Speedup (Zombie) +18m",
+        "ss4": "Free Gene Speedup (Zombie) +30m",
+        "ss7": "Free Gene Speedup (Zombie) +30m<br>Free Gene Speedup (Zombie) +30m (Awakened)",
+        "skill1": "[[File:Arena skill I.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail RUSH +10 each round"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cloisters_Cards.wiki",
+  "markdown_path": "markdown/Cloisters_Cards.md"
+}

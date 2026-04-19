@@ -1,0 +1,51 @@
+{
+  "pageid": 8676,
+  "ns": 0,
+  "title": "Kurgan Stelae",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kurgan_Stelae",
+  "touched": "2025-06-16T20:59:37Z",
+  "length": 1306,
+  "lastrevid": 34641,
+  "revision": {
+    "revid": 34641,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:53:36Z",
+    "sha1": "e7c67ec02c730070124692675c4e136a69884e78",
+    "size": 1306
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Kurgan Stelae",
+        "class_id": "22480",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "02-06",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Feb 6, 1213 AD, a huge stone statue is planted in the ground.<br>Kurgans are one of the main constituents of the Central Asian ethnic groups and are now spread across more than a dozen countries and regions worldwide. According to historical records, the Kurgens have unique burial ceremonies and customs. When a person dies, their body is placed in a felt tent. Their descendants and relatives slaughter horses and sheep and place them in front of the tent for sacrifice. They lead horses around  …",
+        "fame": "34",
+        "art": "30",
+        "fth": "25",
+        "civ": "46",
+        "tech": "19",
+        "ss1": "Mutant Minion RUSH +1%",
+        "ss2": "Mutant Minion RUSH +2%",
+        "ss3": "Mutant Minion RUSH +3%",
+        "ss4": "Mutant Minion RUSH +5%",
+        "ss7": "Mutant Minion RUSH +5%<br>Mutant Minion RUSH +5% (Awakened)",
+        "skill1": "[[File:Wishingegg skill I.png|50px]]Place in Wishing Egg: Green rewards from this egg turn Blue by 1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kurgan_Stelae.wiki",
+  "markdown_path": "markdown/Kurgan_Stelae.md"
+}

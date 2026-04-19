@@ -1,0 +1,68 @@
+{
+  "pageid": 1230,
+  "ns": 0,
+  "title": "Ark of Covenant",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ark_of_Covenant",
+  "touched": "2024-11-04T01:11:03Z",
+  "length": 2521,
+  "lastrevid": 29900,
+  "revision": {
+    "revid": 29900,
+    "parentid": 26333,
+    "timestamp": "2024-10-15T13:18:18Z",
+    "sha1": "58e0379170e5f005e3ae5abe5239525aa373e7d1",
+    "size": 2521
+  },
+  "categories": [
+    "ATK Boost",
+    "Ancient Fossil Boost",
+    "Enhanced by Lottery Draws",
+    "Exploration B-tad Drop Boost",
+    "FTH Boost",
+    "FTH Relics",
+    "HP Boost",
+    "Kemet Exploration Boost",
+    "Kemet Museum Boost",
+    "Lottery Machine Boost",
+    "Lumber Camp Skill",
+    "Orange FTH Relics",
+    "Orange Relics",
+    "Quarry Skill",
+    "Reagent Crafting Boost",
+    "Relics",
+    "Rewards Divine Chests",
+    "Zombie Gene Cost Reduction"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ark of Covenant",
+        "rank": "S",
+        "affct": "FTH",
+        "birthday": "03-04",
+        "source": "Fragment Crafting (15.1%), Lottery Machine (0.81%), Relic Forge (90 Relic RF), Wishing (0.53%)",
+        "description": "On Mar 4, 586 BC, this relic of ancient Hebrew appeared in history for the last time.\n\nBabylon invaded and burned King Solomon's temple imprisoning the Hebrews. Treasures from King Solomon's temple were brought to the treasure room of the king of Babylon. However, when the loot was sorted, the Ark of the Covenant was missing. Legendarily, it is a golden vessel holding the tablets of the Ten Commandments that God gave to Moses on Mount Sinai. And the temple was at first built to preserve the Ark  …",
+        "fame": "56",
+        "art": "60",
+        "fth": "98",
+        "civ": "55",
+        "tech": "63",
+        "ss1": "Snail ATK +10<br>When crafting a Blue Reagent, +1% to get +1<br>When crafting a Purple Reagent, +1% to get +1",
+        "ss2": "Snail ATK +20<br>When crafting a Blue Reagent, +2% to get +1<br>When crafting a Purple Reagent, +2% to get +1",
+        "ss3": "Snail ATK +30<br>When crafting a Blue Reagent, +3% to get +1<br>When crafting a Purple Reagent, +3% to get +1",
+        "ss4": "Snail ATK +50<br>When crafting a Blue Reagent, +5% to get +1<br>When crafting a Purple Reagent, +5% to get +1",
+        "ss5": "Snail ATK +70<br>When crafting a Blue Reagent, +7% to get +1<br>When crafting a Purple Reagent, +7% to get +1",
+        "ss6": "Snail ATK +100<br>When crafting a Blue Reagent, +10% to get +1<br>When crafting a Purple Reagent, +10% to get +1",
+        "ss7": "Snail ATK +100<br>When crafting a Blue Reagent, +10% to get +1<br>When crafting a Purple Reagent, +10% to get +1<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, 2x B-tad Drops +15%",
+        "skill2": "[[File:Quarry skill III.png|50px]]Place in Quarry: Find Ancient Fossil by +30%",
+        "skill3": "[[File:Lumbercamp skill III.png|50px]]Place in Lumber Camp: This Relic's FTH +15",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ark_of_Covenant.wiki",
+  "markdown_path": "markdown/Ark_of_Covenant.md"
+}

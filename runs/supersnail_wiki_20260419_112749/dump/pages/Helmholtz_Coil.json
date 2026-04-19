@@ -1,0 +1,51 @@
+{
+  "pageid": 4812,
+  "ns": 0,
+  "title": "Helmholtz Coil",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Helmholtz_Coil",
+  "touched": "2025-08-11T11:10:53Z",
+  "length": 1442,
+  "lastrevid": 39092,
+  "revision": {
+    "revid": 39092,
+    "parentid": 29446,
+    "timestamp": "2025-08-11T11:10:53Z",
+    "sha1": "4e6059bf8370f0e563831abf8beda578f8a7bd7b",
+    "size": 1442
+  },
+  "categories": [
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Helmholtz Coil",
+        "class_id": "22205",
+        "rank": "AAA",
+        "affct": "TECH",
+        "birthday": "05-10",
+        "description": "On May 10, 1872 AD, the Helmholtz coil was designed.<br>The Helmholtz Coil is a device that produces a uniform magnetic field in a small area, named after its inventor, the German physicist Helmholtz. The device consists of a large number of identical circular conductor coils, each carrying a current in the same direction to create a magnetic field with minimal inhomogeneity. Due to its open nature, it is convenient for the insertion and removal of other instruments, and it is also beneficial fo …",
+        "fame": "48",
+        "art": "39",
+        "fth": "45",
+        "civ": "38",
+        "tech": "73",
+        "ss1": "Refine +1 Green Demon God Material +3%<br>Refine +1 Green Rebel Material +3%",
+        "ss2": "Refine +1 Green Demon God Material +4%<br>Refine +1 Green Rebel Material +4%",
+        "ss3": "Refine +1 Green Demon God Material +5%<br>Refine +1 Green Rebel Material +5%",
+        "ss4": "Refine +1 Green Demon God Material +7%<br>Refine +1 Green Rebel Material +7%",
+        "ss5": "Refine +1 Green Demon God Material +9%<br>Refine +1 Green Rebel Material +9%",
+        "ss7": "Refine +1 Green Demon God Material +9%<br>Refine +1 Green Rebel Material +9%<br>Snail HP +700 (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +3%",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Helmholtz_Coil.wiki",
+  "markdown_path": "markdown/Helmholtz_Coil.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 3717,
+  "ns": 0,
+  "title": "St. Louisa Goblet+Swan Lake",
+  "fullurl": "https://supersnail.wiki.gg/wiki/St._Louisa_Goblet%2BSwan_Lake",
+  "touched": "2025-08-11T11:16:07Z",
+  "length": 180,
+  "lastrevid": 39321,
+  "revision": {
+    "revid": 39321,
+    "parentid": 13614,
+    "timestamp": "2025-08-11T11:16:07Z",
+    "sha1": "204f515de7a4b6f545e8c88897923bee1a5c25d5",
+    "size": 180
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "188",
+        "relics": "St. Louisa Goblet,Swan Lake",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 30 Fissure Floors, Snail ATK +7;Fissure Floor: 1200/1200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/St._Louisa_Goblet_Swan_Lake.wiki",
+  "markdown_path": "markdown/St._Louisa_Goblet_Swan_Lake.md"
+}

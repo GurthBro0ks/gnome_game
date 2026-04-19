@@ -1,0 +1,24 @@
+{
+  "pageid": 5381,
+  "ns": 0,
+  "title": "Mirage",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mirage",
+  "touched": "2025-10-20T06:42:33Z",
+  "length": 1248,
+  "lastrevid": 21464,
+  "revision": {
+    "revid": 21464,
+    "parentid": 19968,
+    "timestamp": "2023-12-22T17:49:19Z",
+    "sha1": "fb1c27f5b473421ee884ef8afe2e9f8bcb94a2c6",
+    "size": 1248
+  },
+  "categories": [
+    "Pages with broken file links",
+    "Works in Progress"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Mirage.wiki",
+  "markdown_path": "markdown/Mirage.md"
+}

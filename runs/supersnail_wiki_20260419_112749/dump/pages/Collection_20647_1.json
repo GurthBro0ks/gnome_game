@@ -1,0 +1,47 @@
+{
+  "pageid": 9964,
+  "ns": 0,
+  "title": "Collection@20647 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20647_1",
+  "touched": "2025-08-11T10:33:15Z",
+  "length": 522,
+  "lastrevid": 37463,
+  "revision": {
+    "revid": 37463,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:33:15Z",
+    "sha1": "94b837c55a57cc9c21933e358554b926f5e30cf2",
+    "size": 522
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20647_1",
+        "class_id": "20647",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "collection@20647_2",
+        "fame": "18",
+        "art": "32",
+        "fth": "18",
+        "civ": "11",
+        "tech": "11",
+        "ss1": "Per tier up for Epochbough, Snail DEF + 2<br>Epochbough: T30/30",
+        "ss2": "Per tier up for Epochbough, Snail DEF + 4<br>Epochbough: T30/30",
+        "ss3": "Per tier up for Epochbough, Snail DEF + 6<br>Epochbough: T30/30",
+        "ss4": "Per tier up for Epochbough, Snail DEF + 6<br>Epochbough: T30/30",
+        "ss7": "Per tier up for Epochbough, Snail DEF + 6<br>Epochbough: T30/30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20647_1.wiki",
+  "markdown_path": "markdown/Collection_20647_1.md"
+}

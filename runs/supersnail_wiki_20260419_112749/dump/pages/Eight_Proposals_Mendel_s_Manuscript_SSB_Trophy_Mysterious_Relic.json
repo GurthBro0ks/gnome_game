@@ -1,0 +1,37 @@
+{
+  "pageid": 4231,
+  "ns": 0,
+  "title": "Eight Proposals+Mendel's Manuscript+SSB Trophy+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Eight_Proposals%2BMendel%27s_Manuscript%2BSSB_Trophy%2BMysterious_Relic",
+  "touched": "2025-01-24T14:20:03Z",
+  "length": 318,
+  "lastrevid": 33159,
+  "revision": {
+    "revid": 33159,
+    "parentid": 33158,
+    "timestamp": "2025-01-24T14:18:54Z",
+    "sha1": "1b083ac5876c5cd7d98a64b718a16a7f3f139752",
+    "size": 318
+  },
+  "categories": [
+    "DEF Boost",
+    "Enhanced by Research Manuals",
+    "Pages with broken file links",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Eight Proposals,Mendel's Manuscript,SSB Trophy,Mysterious Relic",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 20 Research Manuals used, Snail DEF +18; Research Manuals Used: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Eight_Proposals_Mendel_s_Manuscript_SSB_Trophy_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Eight_Proposals_Mendel_s_Manuscript_SSB_Trophy_Mysterious_Relic.md"
+}

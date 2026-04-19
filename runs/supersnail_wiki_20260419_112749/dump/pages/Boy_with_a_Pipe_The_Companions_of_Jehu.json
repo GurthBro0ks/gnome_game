@@ -1,0 +1,35 @@
+{
+  "pageid": 8282,
+  "ns": 0,
+  "title": "Boy with a Pipe+The Companions of Jehu",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Boy_with_a_Pipe%2BThe_Companions_of_Jehu",
+  "touched": "2025-04-21T02:40:04Z",
+  "length": 230,
+  "lastrevid": 34063,
+  "revision": {
+    "revid": 34063,
+    "parentid": 0,
+    "timestamp": "2025-04-21T02:40:04Z",
+    "sha1": "11b525afd1f5db3025a70da94bda3b29e8b1a196",
+    "size": 230
+  },
+  "categories": [
+    "Minion",
+    "Minion ATK Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Boy with a Pipe,The Companions of Jehu",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 30 T7+ Minions in battle: Troop ATK +28"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Boy_with_a_Pipe_The_Companions_of_Jehu.wiki",
+  "markdown_path": "markdown/Boy_with_a_Pipe_The_Companions_of_Jehu.md"
+}

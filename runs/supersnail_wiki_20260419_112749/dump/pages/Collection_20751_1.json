@@ -1,0 +1,47 @@
+{
+  "pageid": 11102,
+  "ns": 0,
+  "title": "Collection@20751 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20751_1",
+  "touched": "2025-08-11T11:12:25Z",
+  "length": 874,
+  "lastrevid": 39160,
+  "revision": {
+    "revid": 39160,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:12:25Z",
+    "sha1": "07343dc89b4a3079baf0ecb38384ab0af66ff7b8",
+    "size": 874
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20751_1",
+        "class_id": "20751",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "collection@20751_2",
+        "fame": "16",
+        "art": "13",
+        "fth": "30",
+        "civ": "20",
+        "tech": "11",
+        "ss1": "Relic Concerting, Orange Reagent cost -10<br>Per Civilization Stele deciphered, Snail ATK +20<br>Civilization Steles deciphered: 3/3",
+        "ss2": "Relic Concerting, Orange Reagent cost -10<br>Per Civilization Stele deciphered, Snail ATK +40<br>Civilization Steles deciphered: 3/3",
+        "ss3": "Relic Concerting, Orange Reagent cost -10<br>Per Civilization Stele deciphered, Snail ATK +60<br>Civilization Steles deciphered: 3/3",
+        "ss4": "Relic Concerting, Orange Reagent cost -10<br>Per Civilization Stele deciphered, Snail ATK +60<br>Civilization Steles deciphered: 3/3",
+        "ss7": "Relic Concerting, Orange Reagent cost -10<br>Per Civilization Stele deciphered, Snail ATK +60<br>Civilization Steles deciphered: 3/3<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20751_1.wiki",
+  "markdown_path": "markdown/Collection_20751_1.md"
+}

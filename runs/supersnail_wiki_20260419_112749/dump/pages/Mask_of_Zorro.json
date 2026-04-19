@@ -1,0 +1,54 @@
+{
+  "pageid": 1242,
+  "ns": 0,
+  "title": "Mask of Zorro",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mask_of_Zorro",
+  "touched": "2026-02-07T11:35:27Z",
+  "length": 1394,
+  "lastrevid": 41828,
+  "revision": {
+    "revid": 41828,
+    "parentid": 26303,
+    "timestamp": "2026-02-07T11:35:27Z",
+    "sha1": "04fe15e03076d92efa2ca42db32d320ea174d4b6",
+    "size": 1394
+  },
+  "categories": [
+    "Angel Minion ATK Boost",
+    "Blue FAME Relics",
+    "Blue Relics",
+    "DEF Boost",
+    "Exploration Compass Boost",
+    "FAME Boost",
+    "FAME Relics",
+    "Gene Research Speedup Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mask of Zorro",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "09-17",
+        "source": "* Lottery Machine (0.03%), Wish (1.2%)\n* [[Fugitives|Zorro]] (B+B Reward)",
+        "description": "On Sep 17, AD 1575, Torro put on this black mask and launched a big operation.\n\nMiguel, the new governor of Spain, was assassinated. Before he died, he passed his position and official seal to his friend Diego, the top swordsman in Europe. Meanwhile, a masked man appeared from nowhere and started punishing the evil and helping the weak. Zorro's fame spread like wildfire, causing the rulers a headache. Eventually, he killed Colonel Huerta and ended his dictatorship. Zorro managed to escape the si …",
+        "fame": "48",
+        "art": "30",
+        "fth": "31",
+        "civ": "23",
+        "tech": "22",
+        "ss1": "Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40",
+        "ss2": "Per Organ implanted, Snail DEF +4<br>Organs Implanted: 40/40",
+        "ss3": "Per Organ implanted, Snail DEF +5<br>Organs Implanted: 40/40",
+        "ss4": "Per Organ implanted, Snail DEF +7<br>Organs Implanted: 40/40",
+        "ss7": "Per Organ implanted, Snail DEF +7<br>Organs Implanted: 40/40<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Compass skill I.png|50px]] Place in Exploration Compass: FAME Checks -5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mask_of_Zorro.wiki",
+  "markdown_path": "markdown/Mask_of_Zorro.md"
+}

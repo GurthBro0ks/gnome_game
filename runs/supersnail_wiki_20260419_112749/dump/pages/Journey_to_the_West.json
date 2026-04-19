@@ -1,0 +1,33 @@
+{
+  "pageid": 6695,
+  "ns": 0,
+  "title": "Journey to the West",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Journey_to_the_West",
+  "touched": "2025-08-11T11:02:30Z",
+  "length": 238826,
+  "lastrevid": 30746,
+  "revision": {
+    "revid": 30746,
+    "parentid": 30437,
+    "timestamp": "2024-10-26T12:47:37Z",
+    "sha1": "2e39b547ed3cd4e23fc4c340d33dbb06415d0043",
+    "size": 238826
+  },
+  "categories": [
+    "Pages using Tabber parser tag",
+    "Spoiler Content"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Journey_to_the_West.wiki",
+  "markdown_path": "markdown/Journey_to_the_West.md"
+}

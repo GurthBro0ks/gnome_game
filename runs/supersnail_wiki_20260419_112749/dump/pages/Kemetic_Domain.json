@@ -1,0 +1,34 @@
+{
+  "pageid": 6881,
+  "ns": 0,
+  "title": "Kemetic Domain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kemetic_Domain",
+  "touched": "2025-10-20T06:44:15Z",
+  "length": 31812,
+  "lastrevid": 41556,
+  "revision": {
+    "revid": 41556,
+    "parentid": 41066,
+    "timestamp": "2025-10-20T06:44:15Z",
+    "sha1": "92d6e54ed43cabaeb644a94a1acfcdace2b064b0",
+    "size": 31812
+  },
+  "categories": [
+    "Kemetic Domain",
+    "Pages using Tabber parser tag",
+    "Works in Progress"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kemetic_Domain.wiki",
+  "markdown_path": "markdown/Kemetic_Domain.md"
+}

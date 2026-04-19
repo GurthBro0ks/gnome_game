@@ -1,0 +1,35 @@
+{
+  "pageid": 5021,
+  "ns": 0,
+  "title": "Emerald Tablet+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Emerald_Tablet%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 239,
+  "lastrevid": 18350,
+  "revision": {
+    "revid": 18350,
+    "parentid": 17835,
+    "timestamp": "2023-11-13T21:20:43Z",
+    "sha1": "52fec818119cea545e5e419098863e52078bb8e8",
+    "size": 239
+  },
+  "categories": [
+    "Demon Minion HARD Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Emerald Tablet,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 60 Demon Minions in battle: Troop HARD Stats +21"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Emerald_Tablet_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Emerald_Tablet_Mysterious_Relic.md"
+}

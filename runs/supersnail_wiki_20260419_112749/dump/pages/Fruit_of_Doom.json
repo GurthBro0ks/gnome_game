@@ -1,0 +1,47 @@
+{
+  "pageid": 609,
+  "ns": 0,
+  "title": "Fruit of Doom",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fruit_of_Doom",
+  "touched": "2025-08-11T11:00:24Z",
+  "length": 617,
+  "lastrevid": 38639,
+  "revision": {
+    "revid": 38639,
+    "parentid": 11573,
+    "timestamp": "2025-08-11T11:00:24Z",
+    "sha1": "ac83f4d03e28b8a346861affe24a1dbc8fc2b94d",
+    "size": 617
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Fruit of Doom",
+        "class_id": "20230",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This fruit-like object contains forbidden power. With one bite, you can get a unique ability. To keep the players under control, the devs canceled the consume option!",
+        "fame": "17",
+        "art": "14",
+        "fth": "27",
+        "civ": "14",
+        "tech": "15",
+        "ss1": "Per 5 Jinx Points, Snail HP +10<br>Jinx Points: 50/50",
+        "ss2": "Per 5 Jinx Points, Snail HP +20<br>Jinx Points: 50/50",
+        "ss3": "Per 5 Jinx Points, Snail HP +30<br>Jinx Points: 50/50",
+        "ss4": "Per 5 Jinx Points, Snail HP +30<br>Jinx Points: 50/50",
+        "ss7": "Per 5 Jinx Points, Snail HP +30<br>Jinx Points: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fruit_of_Doom.wiki",
+  "markdown_path": "markdown/Fruit_of_Doom.md"
+}

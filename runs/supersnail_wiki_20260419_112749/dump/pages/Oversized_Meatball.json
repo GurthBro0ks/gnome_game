@@ -1,0 +1,47 @@
+{
+  "pageid": 1840,
+  "ns": 0,
+  "title": "Oversized Meatball",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Oversized_Meatball",
+  "touched": "2025-08-11T10:56:12Z",
+  "length": 595,
+  "lastrevid": 38457,
+  "revision": {
+    "revid": 38457,
+    "parentid": 17408,
+    "timestamp": "2025-08-11T10:56:12Z",
+    "sha1": "ac0ab3a22ae0e3397c48367ba6ef21a531f05847",
+    "size": 595
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Oversized Meatball",
+        "class_id": "20432",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Pawson's Seven-jeweled Pagoda used to be a high-tech mystery. Using the high radiation field in the tower, he's turned countless foes into a collection of bio samples. Over an immeasurable time, the flesh has been torn from the unfortunate victims to form this humongous meatball!",
+        "fame": "31",
+        "art": "14",
+        "fth": "15",
+        "civ": "19",
+        "tech": "11",
+        "ss1": "Against Pawson, DMG +300%",
+        "ss2": "Against Pawson, DMG +400%",
+        "ss3": "Against Pawson, DMG +500%",
+        "ss4": "Against Pawson, DMG +500%",
+        "ss7": "Against Pawson, DMG +500%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Oversized_Meatball.wiki",
+  "markdown_path": "markdown/Oversized_Meatball.md"
+}

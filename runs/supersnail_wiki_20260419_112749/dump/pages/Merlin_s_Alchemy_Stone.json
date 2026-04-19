@@ -1,0 +1,47 @@
+{
+  "pageid": 10146,
+  "ns": 0,
+  "title": "Merlin's Alchemy Stone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Merlin%27s_Alchemy_Stone",
+  "touched": "2025-08-11T10:40:10Z",
+  "length": 1103,
+  "lastrevid": 37763,
+  "revision": {
+    "revid": 37763,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:40:10Z",
+    "sha1": "f64056f2711b04439c2fb73fc9fdbf6dcbbbf10b",
+    "size": 1103
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Merlin's Alchemy Stone",
+        "class_id": "20931",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The prophet Merlin was an excellent student at the Hogton Wizardry School, who hated using various magic spells and preferred to study various magical props. Except for his excellent achievements in alchemy, he failed all other courses. He barely managed to obtain the certificate of completion at the Hogton Wizardry School with the help of the Alchemy Stones he refined...",
+        "fame": "31",
+        "art": "15",
+        "fth": "14",
+        "civ": "15",
+        "tech": "15",
+        "ss1": "The Element Circle produces Arcanium by +1%<br>Per 5 LVLs of Circle broken, Snail +2<br>Circle LVL: 150/150",
+        "ss2": "The Element Circle produces Arcanium by +2%<br>Per 5 LVLs of Circle broken, Snail +4<br>Circle LVL: 150/150",
+        "ss3": "The Element Circle produces Arcanium by +3%<br>Per 5 LVLs of Circle broken, Snail +6<br>Circle LVL: 150/150",
+        "ss4": "The Element Circle produces Arcanium by +3%<br>Per 5 LVLs of Circle broken, Snail +6<br>Circle LVL: 150/150",
+        "ss7": "The Element Circle produces Arcanium by +3%<br>Per 5 LVLs of Circle broken, Snail +6<br>Circle LVL: 150/150<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Merlin_s_Alchemy_Stone.wiki",
+  "markdown_path": "markdown/Merlin_s_Alchemy_Stone.md"
+}

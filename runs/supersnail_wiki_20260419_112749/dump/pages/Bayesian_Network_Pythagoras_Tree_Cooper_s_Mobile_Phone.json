@@ -1,0 +1,33 @@
+{
+  "pageid": 9293,
+  "ns": 0,
+  "title": "Bayesian Network+Pythagoras Tree+Cooper's Mobile Phone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bayesian_Network%2BPythagoras_Tree%2BCooper%27s_Mobile_Phone",
+  "touched": "2025-06-20T00:19:31Z",
+  "length": 178,
+  "lastrevid": 36179,
+  "revision": {
+    "revid": 36179,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:19:31Z",
+    "sha1": "2f7337b089a3019d008d76dcbff87c5fd7cdd82b",
+    "size": 178
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "697",
+        "relics": "Bayesian Network,Pythagoras Tree,Cooper's Mobile Phone",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Protomon Snail assist DMG + 560"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bayesian_Network_Pythagoras_Tree_Cooper_s_Mobile_Phone.wiki",
+  "markdown_path": "markdown/Bayesian_Network_Pythagoras_Tree_Cooper_s_Mobile_Phone.md"
+}

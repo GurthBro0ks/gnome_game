@@ -1,0 +1,33 @@
+{
+  "pageid": 9257,
+  "ns": 0,
+  "title": "Sloane Astrolabe+Jilin-1 Meteorite",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sloane_Astrolabe%2BJilin-1_Meteorite",
+  "touched": "2025-06-20T00:15:54Z",
+  "length": 176,
+  "lastrevid": 36082,
+  "revision": {
+    "revid": 36082,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:15:54Z",
+    "sha1": "f8de2be8c5d8c7b0c3fcdf73843c10a90bd1d006",
+    "size": 176
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "596",
+        "relics": "Sloane Astrolabe,Jilin-1 Meteorite",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Angel Minions in battle: Troop HARD Stats +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sloane_Astrolabe_Jilin-1_Meteorite.wiki",
+  "markdown_path": "markdown/Sloane_Astrolabe_Jilin-1_Meteorite.md"
+}

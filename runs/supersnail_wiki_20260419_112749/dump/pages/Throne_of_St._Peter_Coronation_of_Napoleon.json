@@ -1,0 +1,33 @@
+{
+  "pageid": 8284,
+  "ns": 0,
+  "title": "Throne of St. Peter+Coronation of Napoleon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Throne_of_St._Peter%2BCoronation_of_Napoleon",
+  "touched": "2025-06-20T00:14:40Z",
+  "length": 191,
+  "lastrevid": 36033,
+  "revision": {
+    "revid": 36033,
+    "parentid": 34066,
+    "timestamp": "2025-06-20T00:14:40Z",
+    "sha1": "ac7f6711a24460eedf2527dcab50e5e15a7b226f",
+    "size": 191
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "730",
+        "relics": "Throne of St. Peter,Coronation of Napoleon",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 T7+ Zombie Minions in battle:Troop HARD Stats +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Throne_of_St._Peter_Coronation_of_Napoleon.wiki",
+  "markdown_path": "markdown/Throne_of_St._Peter_Coronation_of_Napoleon.md"
+}

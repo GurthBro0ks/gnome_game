@@ -1,0 +1,64 @@
+{
+  "pageid": 4081,
+  "ns": 0,
+  "title": "Atlantis Crystal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Atlantis_Crystal",
+  "touched": "2025-09-30T21:49:15Z",
+  "length": 2974,
+  "lastrevid": 40385,
+  "revision": {
+    "revid": 40385,
+    "parentid": 40314,
+    "timestamp": "2025-09-30T21:49:15Z",
+    "sha1": "2901684948077afc291ec0c59573ecc49295ca0a",
+    "size": 2974
+  },
+  "categories": [
+    "ATK Boost",
+    "Exploration Card Drop Boost",
+    "Exploration Reagent Drop Boost",
+    "FTH Relics",
+    "Orange FTH Relics",
+    "Orange Relics",
+    "Rebel Rocket Cabin Boost",
+    "Relics",
+    "Rift Exploration Boost",
+    "Rift Museum Boost",
+    "Silent Hall Boost",
+    "Steel Hall Boost",
+    "Wormhole Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Atlantis Crystal",
+        "class_id": "22284",
+        "rank": "SSS",
+        "affct": "FTH",
+        "birthday": "12-14",
+        "source": "Lottery Machine No.2 (0.11%), Relic Forge (120 Relic RF), Wishing (0.41%)",
+        "description": "On Dec 14, 1509 BC, the Stone of Atlantis was made to become the most important energy core of this legendary city.<br>Atlantis Crystals, as the central energy system of Atlantis, was once placed in its capital, the Sun Palace. Shaped like a huge transparent hexagonal prism, it absorbs sunlight and converts it into energy. It can also rejuvenate humans and regenerate their bodies, allowing the people of Atlantis to live a carefree life. But it exploded due to an inadvertent operation, shaking th …",
+        "fame": "61",
+        "art": "75",
+        "fth": "109",
+        "civ": "51",
+        "tech": "66",
+        "ss1": "Snail ATK +30<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +24%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +24%",
+        "ss2": "Snail ATK +40<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +32%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +32%",
+        "ss3": "Snail ATK +50<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +40%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +40%",
+        "ss4": "Snail ATK +70<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +56%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +56%",
+        "ss5": "Snail ATK +90<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +72%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +72%",
+        "ss6": "Snail ATK +120<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +96%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +96%",
+        "ss7": "Snail ATK +120<br>In the Rebel Rocket Cabin:<br>> Steel Hall Base Effect +96%<br>In the Rebel Rocket Cabin:<br>> Silence Hall Base Effect +96%<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Reagent Drops +6%",
+        "skill2": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600",
+        "skill3": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Card Drops +6%",
+        "mirage": "{{Mirage|name=Lost kingdom|reward={{RewardIconWithLink|Super Treasure Map, +200|orange}}\n|3name=Atlantean Citizen|3rec=29.41M|3atk=127823|3def=85276|3hp=4687441|3weak=18885\n|4name=Atlantean Soldier|4rec=40.57M|4atk=151352|4def=100973|4hp=6419306|4weak=20043\n|5name=Atlantean Nobleman|5rec=52.80M|5atk=177146|5def=118181|5hp=8483260|5weak=22282\n|6name=King of Atlantis|6rec=66.62M|6atk=206300|6def=137631|6hp=11164109|6weak=26882\n|Arec=82.03M|Aatk=238794|Adef=159309|Ahp=14395080|Aweak=31263\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Atlantis_Crystal.wiki",
+  "markdown_path": "markdown/Atlantis_Crystal.md"
+}

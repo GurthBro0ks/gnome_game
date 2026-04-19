@@ -1,0 +1,47 @@
+{
+  "pageid": 10904,
+  "ns": 0,
+  "title": "Dark Elise Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dark_Elise_Statue",
+  "touched": "2025-08-11T11:05:08Z",
+  "length": 889,
+  "lastrevid": 38843,
+  "revision": {
+    "revid": 38843,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:05:08Z",
+    "sha1": "dc1f7cbb288a6a18ea1e9b6c19e23464caf1ec97",
+    "size": 889
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dark Elise Statue",
+        "class_id": "20283",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "Elise was a god who was destined to destroy the land. Although she was loved by her clan, she also had to bear the pain of witnessing her loved ones' passing. Witnessing her relatives gradually go crazy and fall into darkness, she sealed up her beautiful memories. Only her memories could remind her of the days when she was happy and carefree.",
+        "fame": "14",
+        "art": "14",
+        "fth": "32",
+        "civ": "16",
+        "tech": "14",
+        "ss1": "Per 10 Soul Chests opened, Snail RUSH +1<br>Soul Chests Opened: 500/500",
+        "ss2": "Per 10 Soul Chests opened, Snail RUSH +2<br>Soul Chests Opened: 500/500",
+        "ss3": "Per 10 Soul Chests opened, Snail RUSH +3<br>Soul Chests Opened: 500/500",
+        "ss4": "Per 10 Soul Chests opened, Snail RUSH +3<br>Soul Chests Opened: 500/500",
+        "ss7": "Per 10 Soul Chests opened, Snail RUSH +3<br>Soul Chests Opened: 500/500<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dark_Elise_Statue.wiki",
+  "markdown_path": "markdown/Dark_Elise_Statue.md"
+}

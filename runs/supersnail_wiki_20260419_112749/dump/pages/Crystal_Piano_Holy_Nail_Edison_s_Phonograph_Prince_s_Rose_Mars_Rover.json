@@ -1,0 +1,36 @@
+{
+  "pageid": 3673,
+  "ns": 0,
+  "title": "Crystal Piano+Holy Nail+Edison's Phonograph+Prince's Rose+Mars Rover",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Crystal_Piano%2BHoly_Nail%2BEdison%27s_Phonograph%2BPrince%27s_Rose%2BMars_Rover",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 307,
+  "lastrevid": 18593,
+  "revision": {
+    "revid": 18593,
+    "parentid": 18287,
+    "timestamp": "2023-11-14T01:22:28Z",
+    "sha1": "44b45847cad96171aafead2bce58adfe3b6aa5f4",
+    "size": 307
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Relic Points",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Crystal Piano,Holy Nail,Edison's Phonograph,Prince's Rose,Mars Rover",
+        "rank": "purple",
+        "amount": "5",
+        "category": "self",
+        "description": "Per 2k Relic Points, Snail ATK +4<br>Relic Points:90,000/90,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Crystal_Piano_Holy_Nail_Edison_s_Phonograph_Prince_s_Rose_Mars_Rover.wiki",
+  "markdown_path": "markdown/Crystal_Piano_Holy_Nail_Edison_s_Phonograph_Prince_s_Rose_Mars_Rover.md"
+}

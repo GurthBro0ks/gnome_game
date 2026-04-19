@@ -1,0 +1,34 @@
+{
+  "pageid": 3902,
+  "ns": 0,
+  "title": "Species Plantarum+SAGE",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Species_Plantarum%2BSAGE",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 207,
+  "lastrevid": 14186,
+  "revision": {
+    "revid": 14186,
+    "parentid": 0,
+    "timestamp": "2023-10-10T08:52:11Z",
+    "sha1": "449583619b86c0ab44dbaf0f6fd993223110d539",
+    "size": 207
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Species Plantarum,SAGE",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1.2k Rebel Tech Pts, Snail DEF +7<br>Rebel Tech Pts: 60,000/60,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Species_Plantarum_SAGE.wiki",
+  "markdown_path": "markdown/Species_Plantarum_SAGE.md"
+}

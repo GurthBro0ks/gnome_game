@@ -1,0 +1,47 @@
+{
+  "pageid": 6906,
+  "ns": 0,
+  "title": "Gold Bucket",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gold_Bucket",
+  "touched": "2025-08-11T10:38:30Z",
+  "length": 614,
+  "lastrevid": 37695,
+  "revision": {
+    "revid": 37695,
+    "parentid": 33912,
+    "timestamp": "2025-08-11T10:38:30Z",
+    "sha1": "b83d7740c1b708048a0f81862aad8e0c7931dcef",
+    "size": 614
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gold Bucket",
+        "class_id": "20480",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "It is Goddess Yunxiao's dharmic vessel. The magical object can hold up all the treasures in the world. It is also one of the Eyes of the Nine Twists Maze. The three sisters of the Three Goddesses Island once used it to capture all the Yuxu disciples, forcing the Primeval Lord of Heaven to join the battle.",
+        "fame": "30",
+        "art": "17",
+        "fth": "15",
+        "civ": "16",
+        "tech": "12",
+        "ss1": "Each round, Snail HP +100",
+        "ss2": "Each round, Snail HP +150",
+        "ss3": "Each round, Snail HP +200",
+        "ss4": "Each round, Snail HP +200",
+        "ss7": "Each round, Snail HP +200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gold_Bucket.wiki",
+  "markdown_path": "markdown/Gold_Bucket.md"
+}

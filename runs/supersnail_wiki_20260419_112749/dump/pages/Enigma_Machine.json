@@ -1,0 +1,54 @@
+{
+  "pageid": 64,
+  "ns": 0,
+  "title": "Enigma Machine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Enigma_Machine",
+  "touched": "2024-09-06T09:57:47Z",
+  "length": 1695,
+  "lastrevid": 22405,
+  "revision": {
+    "revid": 22405,
+    "parentid": 22239,
+    "timestamp": "2024-02-21T02:41:23Z",
+    "sha1": "1fe35ef1d117c4bf10c8c0de7ce330e63a0fc25e",
+    "size": 1695
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Exploration Compass Boost",
+    "HP Boost",
+    "Keyboard Warrior Boost",
+    "Lucky Voucher Boost",
+    "Relics",
+    "TECH Relics",
+    "Time Machine Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Enigma Machine",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "12-17",
+        "source": "Lottery Machine (0.03%), Wishing (1.1%)",
+        "description": "On Dec 17, 1932, the first advanced encryption machine designed to protect highly confidential secrets was created. \n\nThe Enigma Machine contains an advanced rotor-structured encryption system that has a rotor. When using the Enigma to press the same letter on the keyboard, the machine will scramble the letters to produce a ciphertext that is very hard to read. During WWII, this cipher device was mainly used by Germany. Poland successfully deciphered the ciphertext and transformed it to readable …",
+        "fame": "21",
+        "art": "32",
+        "fth": "27",
+        "civ": "29",
+        "tech": "45",
+        "ss1": "Finish All Daily Tasks 3 times, Snail HP +20<br>All Daily Tasks Completed: 60/60",
+        "ss2": "Finish All Daily Tasks 3 times, Snail HP +40<br>All Daily Tasks Completed: 60/60",
+        "ss3": "Finish All Daily Tasks 3 times, Snail HP +60<br>All Daily Tasks Completed: 60/60",
+        "ss4": "Finish All Daily Tasks 3 times, Snail HP +100<br>All Daily Tasks Completed: 60/60",
+        "ss7": "Finish All Daily Tasks 3 times, Snail HP +100<br>All Daily Tasks Completed: 60/60<br>Snail HP +500 (Awakened)",
+        "skill1": "[[File:Compass skill I.png|50px]]Place in Exploration Compass: Upon traveling through an area, gain +5 INTEL"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Enigma_Machine.wiki",
+  "markdown_path": "markdown/Enigma_Machine.md"
+}

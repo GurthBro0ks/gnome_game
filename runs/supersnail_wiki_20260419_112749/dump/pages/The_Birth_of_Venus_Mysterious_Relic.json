@@ -1,0 +1,36 @@
+{
+  "pageid": 6093,
+  "ns": 0,
+  "title": "The Birth of Venus+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Birth_of_Venus%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 299,
+  "lastrevid": 23290,
+  "revision": {
+    "revid": 23290,
+    "parentid": 0,
+    "timestamp": "2024-03-09T15:07:05Z",
+    "sha1": "484cc4694cf916f4a8178bffd8bb6bd1351a0864",
+    "size": 299
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Super Memetic Chest",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Birth of Venus,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Super Memetic Chest opened: Snail ATK +14; Super Memetic Chests Opened: 20/20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Birth_of_Venus_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/The_Birth_of_Venus_Mysterious_Relic.md"
+}

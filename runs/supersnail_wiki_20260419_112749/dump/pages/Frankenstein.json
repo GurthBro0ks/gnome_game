@@ -1,0 +1,55 @@
+{
+  "pageid": 8361,
+  "ns": 0,
+  "title": "Frankenstein",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Frankenstein",
+  "touched": "2025-06-20T00:22:21Z",
+  "length": 2875,
+  "lastrevid": 36236,
+  "revision": {
+    "revid": 36236,
+    "parentid": 34710,
+    "timestamp": "2025-06-20T00:22:21Z",
+    "sha1": "7bfc58f262b062423f1f4eebc4ff77af1c64d0bd",
+    "size": 2875
+  },
+  "categories": [
+    "CIV Relics",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Frankenstein",
+        "class_id": "22703",
+        "rank": "S",
+        "affct": "CIV",
+        "birthday": "03-03",
+        "source": "Lottery Machine No.3 (1.62%)",
+        "description": "On Mar 3, 1818 AD, British author Shelley completed the creation of Frankenstein.<br>The protagonist of the novel Frankenstein is a biologist who is passionate about the origin of life. He tries to conquer death and create a new life by wandering around the corpses and trying to piece together a huge human body using different parts of the corpses. When he successfully creates a monster, he does not feel happy, but rather a series of strange and mysterious murders. From Frankenstein, we can see  …",
+        "fame": "69",
+        "art": "57",
+        "fth": "59",
+        "civ": "99",
+        "tech": "48",
+        "ss1": "Gaia Rocket Cabin, deployable robots +1<br>Per 3 Prairie Protomon, Snail RUSH +2<br>Per 3 Prairie Protomon, Priest-Snail Assistance DMG +16<br>Prairie Protomon: 60/60",
+        "ss2": "Gaia Rocket Cabin, deployable robots +2<br>Per 3 Prairie Protomon, Snail RUSH +4<br>Per 3 Prairie Protomon, Priest-Snail Assistance DMG +32<br>Prairie Protomon: 60/60",
+        "ss3": "Gaia Rocket Cabin, deployable robots +3<br>Per 3 Prairie Protomon, Snail RUSH +6<br>Per 3 Prairie Protomon, Priest-Snail Assistance DMG +48<br>Prairie Protomon: 60/60",
+        "ss4": "Gaia Rocket Cabin, deployable robots +5<br>Per 3 Prairie Protomon, Snail RUSH +10<br>Per 3 Prairie Protomon, Priest-Snail Assistance DMG +80<br>Prairie Protomon: 60/60",
+        "ss5": "Gaia Rocket Cabin, deployable robots +7<br>Per 3 Prairie Protomon, Snail RUSH +14<br>Per 3 Prairie Protomon, Priest-Snail Assistance DMG +112<br>Prairie Protomon: 60/60",
+        "ss6": "Gaia Rocket Cabin, deployable robots +10<br>Per 3 Prairie Protomon, Snail RUSH +20<br>Per 3 Prairie Protomon, Priest-Snail Assistance DMG +160<br>Prairie Protomon: 60/60",
+        "ss7": "Gaia Rocket Cabin, deployable robots +10<br>Per 3 Prairie Protomon, Snail RUSH +20<br>Per 3 Prairie Protomon, Priest-Snail Assistance DMG +160<br>Prairie Protomon: 60/60<br>Gaia Rocket Cabin, deployable robots +10 (Awakened)",
+        "skill1": "[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Lifesteal Effect +30%",
+        "skill2": "[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: This Relic's CIV +15",
+        "skill3": "[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x Blue Reagent Drops +15%",
+        "mirage": "{{Mirage|name=Frankenstein|reward={{RewardIconWithLink|Glue, +100|orange}}\n|3name=Frankenstein|3rec=100.10M|3atk=292356|3defense=184723|3hp=14935467|3weak=34623\n|4name=Android|4rec=134.08M|4atk=371609|4defense=232541|4hp=21557400|4weak=37793\n|Arec=189.53M|Aatk=504516|Adefense=310549|Ahp=36029433|Aweak=42362\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Frankenstein.wiki",
+  "markdown_path": "markdown/Frankenstein.md"
+}

@@ -1,0 +1,70 @@
+{
+  "pageid": 2082,
+  "ns": 0,
+  "title": "Babbage Engine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Babbage_Engine",
+  "touched": "2024-11-04T01:10:54Z",
+  "length": 2632,
+  "lastrevid": 29908,
+  "revision": {
+    "revid": 29908,
+    "parentid": 25246,
+    "timestamp": "2024-10-15T13:18:39Z",
+    "sha1": "ff2a07ef68e44b3ab3d2c25d38bb9bd4855a5050",
+    "size": 2632
+  },
+  "categories": [
+    "ATK Boost",
+    "Britland Exploration Boost",
+    "Britland Museum Boost",
+    "DMG Boosts",
+    "Enhanced by Organs",
+    "Enhanced by Time Machine LVL",
+    "Exploration INTEL Boost",
+    "HP Boost",
+    "Mechanic Boost",
+    "Missing Info",
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Organ Boost",
+    "RUSH Boost",
+    "Relics",
+    "Snail Mech Boost",
+    "TECH Boost",
+    "TECH Relics",
+    "Time Machine Boost",
+    "Time Machine Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Babbage Engine",
+        "rank": "SS",
+        "affct": "TECH",
+        "birthday": "04-27",
+        "source": "Grandmaster Scrolls (1%), Lottery Machine (0.12%), Relic Forge (100 Relic RF), Wishing (0.1%)",
+        "description": "On Apr 27, 1847 AD, Babbage invented this machine that almost changed the world. The Difference Engine is the result of Babbage's lifelong research. This is not an ordinary calculator. It's a machine used to tabulate polynomial functions.\n\nUnfortunately, Babbage couldn't find anyone willing to contribute to his work, so Difference Engine No. 2 stayed on paper. More than a hundred years later, the machine was recreated from his design. Although it is no match for today's computers, it's still abl …",
+        "fame": "65",
+        "art": "71",
+        "fth": "50",
+        "civ": "60",
+        "tech": "101",
+        "ss1": "Snail HP +200<br>Per 5 Time Machine LVLs, Snail HP +80<br>Per 5 Time Machine LVLs, Snail ATK +8<br>Time Machine LVL: 50/50",
+        "ss2": "Snail HP +30<br>Per 5 Time Machine LVLs, Snail HP +120<br>Per 5 Time Machine LVLs, Snail ATK +12<br>Time Machine LVL: 50/50",
+        "ss3": "Snail HP +400<br>Per 5 Time Machine LVLs, Snail HP +160<br>Per 5 Time Machine LVLs, Snail ATK +16<br>Time Machine LVL: 50/50",
+        "ss4": "Snail HP +600<br>Per 5 Time Machine LVLs, Snail HP +240<br>Per 5 Time Machine LVLs, Snail ATK +24<br>Time Machine LVL: 50/50",
+        "ss5": "Snail HP +800<br>Per 5 Time Machine LVLs, Snail HP +320<br>Per 5 Time Machine LVLs, Snail ATK +32<br>Time Machine LVL: 50/50",
+        "ss6": "Snail HP +1,100<br>Per 5 Time Machine LVLs, Snail HP +440<br>Per 5 Time Machine LVLs, Snail ATK +44<br>Time Machine LVL: 50/50",
+        "ss7": "Snail HP +1,100<br>Per 5 Time Machine LVLs, Snail HP +440<br>Per 5 Time Machine LVLs, Snail ATK +44<br>Time Machine LVL: 50/50<br>Snail HP +1,000 (Awakened)",
+        "skill1": "[[File:Britland skill III.png|50px]] Place in Britland Museum: In Britland, DMG +30%",
+        "skill2": "[[File:Britland skill III.png|50px]] Place in Britland Museum: In Britland, 2x INTEL Drops +15%",
+        "skill3": "[[File:Timemachine skill III.png|50px]] Place in Time Machine: This Relic's TECH +15",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Babbage_Engine.wiki",
+  "markdown_path": "markdown/Babbage_Engine.md"
+}

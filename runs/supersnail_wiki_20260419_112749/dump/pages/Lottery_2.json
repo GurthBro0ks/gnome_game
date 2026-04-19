@@ -1,0 +1,33 @@
+{
+  "pageid": 8863,
+  "ns": 0,
+  "title": "Lottery 2",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lottery_2",
+  "touched": "2025-06-17T10:07:15Z",
+  "length": 2562,
+  "lastrevid": 35204,
+  "revision": {
+    "revid": 35204,
+    "parentid": 35202,
+    "timestamp": "2025-06-17T10:07:15Z",
+    "sha1": "a9e1f243d8243a10d313b13d23ef1588bd1ad863",
+    "size": 2562
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "#cargo_query:table=Relics",
+      "params": {
+        "fields": "name, source, affct, rank, ss3, ss7, fame, art, fth, civ, tech",
+        "where": "source LIKE '%Lottery Machine No.2%'",
+        "order by": "name",
+        "format": "template",
+        "template": "RelicSourceTableRow",
+        "named args": "yes"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lottery_2.wiki",
+  "markdown_path": "markdown/Lottery_2.md"
+}

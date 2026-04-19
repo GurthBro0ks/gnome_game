@@ -1,0 +1,35 @@
+{
+  "pageid": 8411,
+  "ns": 0,
+  "title": "Flying Horse of Gansu+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Flying_Horse_of_Gansu%2BMysterious_Relic",
+  "touched": "2025-05-03T22:09:18Z",
+  "length": 212,
+  "lastrevid": 34248,
+  "revision": {
+    "revid": 34248,
+    "parentid": 0,
+    "timestamp": "2025-05-03T22:06:18Z",
+    "sha1": "62b40aac94dac843415274a9f3d8cc805aed0c08",
+    "size": 212
+  },
+  "categories": [
+    "Amber Boost",
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Flying Horse of Gansu,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "home",
+        "description": "Daily Tribal Output for Amber +14%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Flying_Horse_of_Gansu_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Flying_Horse_of_Gansu_Mysterious_Relic.md"
+}

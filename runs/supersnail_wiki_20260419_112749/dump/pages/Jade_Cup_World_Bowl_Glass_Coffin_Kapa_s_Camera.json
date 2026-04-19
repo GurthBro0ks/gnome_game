@@ -1,0 +1,36 @@
+{
+  "pageid": 3668,
+  "ns": 0,
+  "title": "Jade Cup+World Bowl+Glass Coffin+Kapa's Camera",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jade_Cup%2BWorld_Bowl%2BGlass_Coffin%2BKapa%27s_Camera",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 296,
+  "lastrevid": 18577,
+  "revision": {
+    "revid": 18577,
+    "parentid": 18332,
+    "timestamp": "2023-11-14T01:17:50Z",
+    "sha1": "bdb0392943afada825a9dc36230195ba51b7f2bf",
+    "size": 296
+  },
+  "categories": [
+    "Enhanced by Lottery Draws",
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Jade Cup,World Bowl,Glass Coffin,Kapa's Camera",
+        "rank": "purple",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 20 Purple Beads drawn, Snail RUSH +16<br>Purple Beads Drawn: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jade_Cup_World_Bowl_Glass_Coffin_Kapa_s_Camera.wiki",
+  "markdown_path": "markdown/Jade_Cup_World_Bowl_Glass_Coffin_Kapa_s_Camera.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 10116,
+  "ns": 0,
+  "title": "Cold Fusion Reactor",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cold_Fusion_Reactor",
+  "touched": "2025-08-11T10:38:59Z",
+  "length": 1053,
+  "lastrevid": 37716,
+  "revision": {
+    "revid": 37716,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:38:59Z",
+    "sha1": "b40082737185a01775f2319b8cc48b33332a6824",
+    "size": 1053
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Cold Fusion Reactor",
+        "class_id": "20372",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "A device developed through reverse-engineering with data from tactical records. It gains almost unlimited energy from the cold fusion reaction within. However, given that the energy from a single output is limited, it is often used on the power armor for individuals.",
+        "fame": "12",
+        "art": "16",
+        "fth": "17",
+        "civ": "14",
+        "tech": "31",
+        "ss1": "Per 10 Unknown Records read, Snail HP +10<br>Per 10 Unknown Records read, Snail ATK +1<br>Unknown Records Read: 400/400",
+        "ss2": "Per 10 Unknown Records read, Snail HP +20<br>Per 10 Unknown Records read, Snail ATK +2<br>Unknown Records Read: 400/400",
+        "ss3": "Per 10 Unknown Records read, Snail HP +30<br>Per 10 Unknown Records read, Snail ATK +3<br>Unknown Records Read: 400/400",
+        "ss4": "Per 10 Unknown Records read, Snail HP +30<br>Per 10 Unknown Records read, Snail ATK +3<br>Unknown Records Read: 400/400",
+        "ss7": "Per 10 Unknown Records read, Snail HP +30<br>Per 10 Unknown Records read, Snail ATK +3<br>Unknown Records Read: 400/400<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cold_Fusion_Reactor.wiki",
+  "markdown_path": "markdown/Cold_Fusion_Reactor.md"
+}

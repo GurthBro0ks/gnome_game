@@ -1,0 +1,34 @@
+{
+  "pageid": 3721,
+  "ns": 0,
+  "title": "Double Helix DNA+Origin of Species",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Double_Helix_DNA%2BOrigin_of_Species",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 213,
+  "lastrevid": 13619,
+  "revision": {
+    "revid": 13619,
+    "parentid": 0,
+    "timestamp": "2023-10-01T08:54:02Z",
+    "sha1": "b1e9b90be57c4546c5d92188a13a8279f076bcbd",
+    "size": 213
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Double Helix DNA,Origin of Species",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1k DNA Strength, Snail ATK +5<br>DNA Strength: 42,000/42,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Double_Helix_DNA_Origin_of_Species.wiki",
+  "markdown_path": "markdown/Double_Helix_DNA_Origin_of_Species.md"
+}

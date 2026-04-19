@@ -1,0 +1,47 @@
+{
+  "pageid": 7231,
+  "ns": 0,
+  "title": "Effective Manager",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Effective_Manager",
+  "touched": "2025-08-11T10:57:37Z",
+  "length": 622,
+  "lastrevid": 38517,
+  "revision": {
+    "revid": 38517,
+    "parentid": 32420,
+    "timestamp": "2025-08-11T10:57:37Z",
+    "sha1": "d27364733a214960bfb0666fd2c492c639482683",
+    "size": 622
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Effective Manager",
+        "class_id": "20092",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This book is written by the world-renowned management master Peter Dracker. In the book, he not only redefined the concept of a manager, but also put forward a large number of classic and practical management ideas. The publication of this book announced the birth of the discipline of management and profoundly impacted later generations.",
+        "fame": "14",
+        "art": "13",
+        "fth": "17",
+        "civ": "30",
+        "tech": "16",
+        "ss1": "Snail Leadership +1",
+        "ss2": "Snail Leadership +2",
+        "ss3": "Snail Leadership +3",
+        "ss4": "Snail Leadership +3",
+        "ss7": "Snail Leadership +3<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Effective_Manager.wiki",
+  "markdown_path": "markdown/Effective_Manager.md"
+}

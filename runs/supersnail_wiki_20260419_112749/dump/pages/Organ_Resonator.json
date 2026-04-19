@@ -1,0 +1,47 @@
+{
+  "pageid": 504,
+  "ns": 0,
+  "title": "Organ Resonator",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Organ_Resonator",
+  "touched": "2025-08-11T11:00:14Z",
+  "length": 666,
+  "lastrevid": 38631,
+  "revision": {
+    "revid": 38631,
+    "parentid": 11812,
+    "timestamp": "2025-08-11T11:00:14Z",
+    "sha1": "abb66744d6867bb09a9645dd29b7d6ea6e715c00",
+    "size": 666
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Organ Resonator",
+        "class_id": "20823",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Also known as the organ nano-connection device, it utilizes nanotechnology to connect the organs within the body, creating a resonance effect that generates a powerful life force.",
+        "fame": "12",
+        "art": "17",
+        "fth": "17",
+        "civ": "15",
+        "tech": "29",
+        "ss1": "Per Organ implanted, Snail ATK +1<br>Organs Implanted: 40/40",
+        "ss2": "Per Organ implanted, Snail ATK +3<br>Organs Implanted: 40/40",
+        "ss3": "Per Organ implanted, Snail ATK +5<br>Organs Implanted: 40/40",
+        "ss4": "Per Organ implanted, Snail ATK +5<br>Organs Implanted: 40/40",
+        "ss7": "Per Organ implanted, Snail ATK +5<br>Organs Implanted: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Organ_Resonator.wiki",
+  "markdown_path": "markdown/Organ_Resonator.md"
+}

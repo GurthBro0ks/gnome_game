@@ -1,0 +1,33 @@
+{
+  "pageid": 8916,
+  "ns": 0,
+  "title": "Dream Stele+Kanner's Report+Untitled+Talmud+MUSE Design Awards+Maya Mural",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dream_Stele%2BKanner%27s_Report%2BUntitled%2BTalmud%2BMUSE_Design_Awards%2BMaya_Mural",
+  "touched": "2025-06-16T23:12:11Z",
+  "length": 182,
+  "lastrevid": 34995,
+  "revision": {
+    "revid": 34995,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:12:11Z",
+    "sha1": "87916c3d8070002c81f0e76b4d890a6c8deefc37",
+    "size": 182
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "564",
+        "relics": "Dream Stele,Kanner's Report,Untitled,Talmud,MUSE Design Awards,Maya Mural",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Travel SPD +2.4%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dream_Stele_Kanner_s_Report_Untitled_Talmud_MUSE_Design_Awards_Maya_Mural.wiki",
+  "markdown_path": "markdown/Dream_Stele_Kanner_s_Report_Untitled_Talmud_MUSE_Design_Awards_Maya_Mural.md"
+}

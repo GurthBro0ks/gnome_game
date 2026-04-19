@@ -1,0 +1,33 @@
+{
+  "pageid": 4163,
+  "ns": 0,
+  "title": "Cross of Lorraine+Nightingale Medal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cross_of_Lorraine%2BNightingale_Medal",
+  "touched": "2025-06-19T23:56:55Z",
+  "length": 147,
+  "lastrevid": 35712,
+  "revision": {
+    "revid": 35712,
+    "parentid": 18341,
+    "timestamp": "2025-06-19T23:56:55Z",
+    "sha1": "d575e8ee9d0e20c7eba3e28fc3344e279664e368",
+    "size": 147
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "456",
+        "relics": "Cross of Lorraine,Nightingale Medal",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Angel Minion MAX +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cross_of_Lorraine_Nightingale_Medal.wiki",
+  "markdown_path": "markdown/Cross_of_Lorraine_Nightingale_Medal.md"
+}

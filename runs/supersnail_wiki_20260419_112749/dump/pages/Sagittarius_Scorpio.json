@@ -1,0 +1,35 @@
+{
+  "pageid": 7077,
+  "ns": 0,
+  "title": "Sagittarius+Scorpio",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sagittarius%2BScorpio",
+  "touched": "2024-12-02T03:00:54Z",
+  "length": 169,
+  "lastrevid": 29518,
+  "revision": {
+    "revid": 29518,
+    "parentid": 0,
+    "timestamp": "2024-09-29T07:10:29Z",
+    "sha1": "840d140b501730291c17bc217288f75141d9a8ba",
+    "size": 169
+  },
+  "categories": [
+    "Element DMG Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "pieces": "2",
+        "relics": "Sagittarius,Scorpio",
+        "rank": "orange",
+        "description": "All ELMT DMG +5%",
+        "category": "self"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sagittarius_Scorpio.wiki",
+  "markdown_path": "markdown/Sagittarius_Scorpio.md"
+}

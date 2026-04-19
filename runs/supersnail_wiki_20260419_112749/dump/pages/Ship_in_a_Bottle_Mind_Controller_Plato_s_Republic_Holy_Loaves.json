@@ -1,0 +1,34 @@
+{
+  "pageid": 3808,
+  "ns": 0,
+  "title": "Ship in a Bottle+Mind Controller+Plato's Republic+Holy Loaves",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ship_in_a_Bottle%2BMind_Controller%2BPlato%27s_Republic%2BHoly_Loaves",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 237,
+  "lastrevid": 13727,
+  "revision": {
+    "revid": 13727,
+    "parentid": 0,
+    "timestamp": "2023-10-03T06:59:34Z",
+    "sha1": "4b1e8e83b1c86b1f11a42b32c2f1eddf2bf36617",
+    "size": 237
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Ship in a Bottle,Mind Controller,Plato's Republic,Holy Loaves",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per Altar God Descent, Snail HP +180<br>Gods Descended: 30/30"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ship_in_a_Bottle_Mind_Controller_Plato_s_Republic_Holy_Loaves.wiki",
+  "markdown_path": "markdown/Ship_in_a_Bottle_Mind_Controller_Plato_s_Republic_Holy_Loaves.md"
+}

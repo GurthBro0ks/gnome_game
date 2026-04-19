@@ -1,0 +1,33 @@
+{
+  "pageid": 7543,
+  "ns": 0,
+  "title": "Isabella I Portrait+Washington Portrait",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Isabella_I_Portrait%2BWashington_Portrait",
+  "touched": "2025-08-11T10:58:44Z",
+  "length": 156,
+  "lastrevid": 38567,
+  "revision": {
+    "revid": 38567,
+    "parentid": 31592,
+    "timestamp": "2025-08-11T10:58:44Z",
+    "sha1": "7b2ff03657c54d9162a571a90a5a63d772d55ba3",
+    "size": 156
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "828",
+        "relics": "Isabella I Portrait,Washington Portrait",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Tribal Amber output +14%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Isabella_I_Portrait_Washington_Portrait.wiki",
+  "markdown_path": "markdown/Isabella_I_Portrait_Washington_Portrait.md"
+}

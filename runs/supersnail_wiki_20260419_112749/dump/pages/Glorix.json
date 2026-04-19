@@ -1,0 +1,47 @@
+{
+  "pageid": 11227,
+  "ns": 0,
+  "title": "Glorix",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Glorix",
+  "touched": "2025-08-11T11:17:09Z",
+  "length": 633,
+  "lastrevid": 39366,
+  "revision": {
+    "revid": 39366,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:17:09Z",
+    "sha1": "dede17b2d062d15a70a59eb014958d4f90c830c0",
+    "size": 633
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Glorix",
+        "class_id": "20055",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This crystal harbors the aura of Glory, an ancient force so potent that it compels all creatures to kneel in reverence. Beyond its overwhelming presence, the aura within can be studied to unlock the path to Godhood.",
+        "fame": "30",
+        "art": "18",
+        "fth": "13",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Unlock Sacred Idol Construction<br>Snail ATK +10",
+        "ss2": "Unlock Sacred Idol Construction<br>Snail ATK +20",
+        "ss3": "Unlock Sacred Idol Construction<br>Snail ATK +30",
+        "ss4": "Unlock Sacred Idol Construction<br>Snail ATK +30",
+        "ss7": "Unlock Sacred Idol Construction<br>Snail ATK +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Glorix.wiki",
+  "markdown_path": "markdown/Glorix.md"
+}

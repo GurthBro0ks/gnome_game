@@ -1,0 +1,50 @@
+{
+  "pageid": 4732,
+  "ns": 0,
+  "title": "Thermometer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Thermometer",
+  "touched": "2025-06-20T00:01:50Z",
+  "length": 1431,
+  "lastrevid": 35804,
+  "revision": {
+    "revid": 35804,
+    "parentid": 34991,
+    "timestamp": "2025-06-20T00:01:50Z",
+    "sha1": "04e5b8207753c71601a065714c1ea09c4376e8a9",
+    "size": 1431
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Thermometer",
+        "class_id": "22088",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "08-27",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Aug 27, 1714 AD, the Dutch Scientist Fahrenheit invented the world's earliest mercury thermometer.<br>This thermometer, developed by Fahrenheit himself, is the world's first mercury thermometer. He is an excellent physicist, but in order to make a living, he also studied and engaged in business. He developed not only the mercury thermometer, but also the purification method of making the required mercury, and the temperature scale used as a scale. As his biggest research achievement, the Fahr …",
+        "fame": "27",
+        "art": "19",
+        "fth": "36",
+        "civ": "26",
+        "tech": "46",
+        "ss1": "Per 20 TECH Wishes made, Snail DEF +1<br>Wishes Made: 1000/1000",
+        "ss2": "Per 20 TECH Wishes made, Snail DEF +2<br>Wishes Made: 1000/1000",
+        "ss3": "Per 20 TECH Wishes made, Snail DEF +3<br>Wishes Made: 1000/1000",
+        "ss4": "Per 20 TECH Wishes made, Snail DEF +5<br>Wishes Made: 1000/1000",
+        "ss7": "Per 20 TECH Wishes made, Snail DEF +5<br>Wishes Made: 1000/1000<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Dungbeetle skill I.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion DEF +1.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Thermometer.wiki",
+  "markdown_path": "markdown/Thermometer.md"
+}

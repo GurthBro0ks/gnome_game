@@ -1,0 +1,47 @@
+{
+  "pageid": 11154,
+  "ns": 0,
+  "title": "Air Cannon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Air_Cannon",
+  "touched": "2025-08-11T11:14:25Z",
+  "length": 405,
+  "lastrevid": 39247,
+  "revision": {
+    "revid": 39247,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:14:25Z",
+    "sha1": "45553a8d868e2fb17dbd0f79b3ced96f63d1c088",
+    "size": 405
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Air Cannon",
+        "class_id": "20034",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "It uses the most advanced compressor in the 22nd century and can instantly compress air ten times smaller. Many balloon vendors have pre-ordered this product.",
+        "fame": "11",
+        "art": "17",
+        "fth": "16",
+        "civ": "20",
+        "tech": "26",
+        "ss1": "Snail ATK +10",
+        "ss2": "Snail ATK +20",
+        "ss3": "Snail ATK +30",
+        "ss4": "Snail ATK +30",
+        "ss7": "Snail ATK +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Air_Cannon.wiki",
+  "markdown_path": "markdown/Air_Cannon.md"
+}

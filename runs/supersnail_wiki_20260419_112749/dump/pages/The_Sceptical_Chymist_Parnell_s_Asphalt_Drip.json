@@ -1,0 +1,33 @@
+{
+  "pageid": 9251,
+  "ns": 0,
+  "title": "The Sceptical Chymist+Parnell's Asphalt Drip",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Sceptical_Chymist%2BParnell%27s_Asphalt_Drip",
+  "touched": "2025-06-20T00:15:40Z",
+  "length": 156,
+  "lastrevid": 36071,
+  "revision": {
+    "revid": 36071,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:15:40Z",
+    "sha1": "4f4d0c14562b028e5697028f6a3d5df1f7317224",
+    "size": 156
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "670",
+        "relics": "The Sceptical Chymist,Parnell's Asphalt Drip",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail Leadership +4"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Sceptical_Chymist_Parnell_s_Asphalt_Drip.wiki",
+  "markdown_path": "markdown/The_Sceptical_Chymist_Parnell_s_Asphalt_Drip.md"
+}

@@ -1,0 +1,53 @@
+{
+  "pageid": 11061,
+  "ns": 0,
+  "title": "Collection@22925 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@22925_1",
+  "touched": "2025-08-11T11:10:56Z",
+  "length": 1857,
+  "lastrevid": 39094,
+  "revision": {
+    "revid": 39094,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:10:56Z",
+    "sha1": "4ede41adf76b2e2bc9dbf63094afae1e7c84d2e1",
+    "size": 1857
+  },
+  "categories": [
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@22925_1",
+        "class_id": "22925",
+        "rank": "SSS",
+        "affct": "TECH",
+        "description": "collection@22925_2",
+        "fame": "66",
+        "art": "55",
+        "fth": "68",
+        "civ": "64",
+        "tech": "109",
+        "ss1": "Snail Leadership +6<br>Per 40 wishes made, Snail ATK +6<br>Per 40 wishes made, Snail DEF +6<br>Wishes Made: 2000/2000",
+        "ss2": "Snail Leadership +7<br>Per 40 wishes made, Snail ATK +8<br>Per 40 wishes made, Snail DEF +8<br>Wishes Made: 2000/2000",
+        "ss3": "Snail Leadership +8<br>Per 40 wishes made, Snail ATK +10<br>Per 40 wishes made, Snail DEF +10<br>Wishes Made: 2000/2000",
+        "ss4": "Snail Leadership +10<br>Per 40 wishes made, Snail ATK +14<br>Per 40 wishes made, Snail DEF +14<br>Wishes Made: 2000/2000",
+        "ss5": "Snail Leadership +12<br>Per 40 wishes made, Snail ATK +18<br>Per 40 wishes made, Snail DEF +18<br>Wishes Made: 2000/2000",
+        "ss6": "Snail Leadership +15<br>Per 40 wishes made, Snail ATK +24<br>Per 40 wishes made, Snail DEF +24<br>Wishes Made: 2000/2000",
+        "ss7": "Snail Leadership +15<br>Per 40 wishes made, Snail ATK +24<br>Per 40 wishes made, Snail DEF +24<br>Wishes Made: 2000/2000<br>Snail Leadership +10 (Awakened)",
+        "skill1": "[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x INTEL Drops +15%",
+        "skill2": "[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, 2x B-tad Drops +15%",
+        "skill3": "[[File:Compass skill III.png|50px]]prop@3089_2",
+        "mirage": "{{Mirage|name=dungeon@22925_1|reward={{RewardIconWithLink|Singularity Crystal, +1|orange}}\n|3name=dungeon_event@4088_1|3rec=0.40M|3atk=10254|3defense=6996|3hp=40262|3weak=5167\n|4name=dungeon_event@4089_1|4rec=0.85M|4atk=18836|4defense=12670|4hp=129882|4weak=7449\n|5name=dungeon_event@4090_1|5rec=1.81M|5atk=30979|5defense=20702|5hp=348700|5weak=9670\n|6name=dungeon_event@4091_1|6rec=3.62M|6atk=46624|6defense=31097|6hp=715509|6weak=12668\n|Arec=6.82M|Aatk=66063|Adefense=44201|Ahp=1333166|Aweak=15589\n …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_22925_1.wiki",
+  "markdown_path": "markdown/Collection_22925_1.md"
+}

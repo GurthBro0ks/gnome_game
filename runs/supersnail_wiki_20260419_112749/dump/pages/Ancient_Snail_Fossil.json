@@ -1,0 +1,47 @@
+{
+  "pageid": 1659,
+  "ns": 0,
+  "title": "Ancient Snail Fossil",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ancient_Snail_Fossil",
+  "touched": "2025-08-11T11:12:02Z",
+  "length": 833,
+  "lastrevid": 39143,
+  "revision": {
+    "revid": 39143,
+    "parentid": 18245,
+    "timestamp": "2025-08-11T11:12:02Z",
+    "sha1": "bc00e765a980f6b0f97fe6ef038017f33ed309bf",
+    "size": 833
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ancient Snail Fossil",
+        "class_id": "20084",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Tens of millions of years ago, snails were not the mollusks they are today but vertebrates with a skeleton. This weathered ancient fossil is the best evidence of this theory!",
+        "fame": "12",
+        "art": "18",
+        "fth": "15",
+        "civ": "30",
+        "tech": "15",
+        "ss1": "Quarry produces Ancient Fossil by +2%<br>Per 5 Quarry LVLs, Snail DEF +4<br>Quarry LVL: 50/50",
+        "ss2": "Quarry produces Ancient Fossil by +4%<br>Per 5 Quarry LVLs, Snail DEF +8<br>Quarry LVL: 50/50",
+        "ss3": "Quarry produces Ancient Fossil by +6%<br>Per 5 Quarry LVLs, Snail DEF +12<br>Quarry LVL: 50/50",
+        "ss4": "Quarry produces Ancient Fossil by +6%<br>Per 5 Quarry LVLs, Snail DEF +12<br>Quarry LVL: 50/50",
+        "ss7": "Quarry produces Ancient Fossil by +6%<br>Per 5 Quarry LVLs, Snail DEF +12<br>Quarry LVL: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ancient_Snail_Fossil.wiki",
+  "markdown_path": "markdown/Ancient_Snail_Fossil.md"
+}

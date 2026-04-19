@@ -1,0 +1,47 @@
+{
+  "pageid": 7902,
+  "ns": 0,
+  "title": "Certificate of Courage",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Certificate_of_Courage",
+  "touched": "2025-08-11T10:44:22Z",
+  "length": 783,
+  "lastrevid": 37944,
+  "revision": {
+    "revid": 37944,
+    "parentid": 33319,
+    "timestamp": "2025-08-11T10:44:22Z",
+    "sha1": "a604607f4d3462263ec2ca16180d274517071e0e",
+    "size": 783
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Certificate of Courage",
+        "class_id": "20465",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "It is the certificate officially issued by the Traveler Association. It often comes with a big reward and a promotion permit. It is to honor the members who fought heroically in battle, which can boost the morale of the soldiers on the front line effectively.",
+        "fame": "30",
+        "art": "15",
+        "fth": "17",
+        "civ": "15",
+        "tech": "13",
+        "ss1": "Snail Leadership +1<br>In Species War, All Minion HARD Stats +0.6%",
+        "ss2": "Snail Leadership +2<br>In Species War, All Minion HARD Stats +1.2%",
+        "ss3": "Snail Leadership +3<br>In Species War, All Minion HARD Stats +1.8%",
+        "ss4": "Snail Leadership +3<br>In Species War, All Minion HARD Stats +1.8%",
+        "ss7": "Snail Leadership +3<br>In Species War, All Minion HARD Stats +1.8%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Certificate_of_Courage.wiki",
+  "markdown_path": "markdown/Certificate_of_Courage.md"
+}

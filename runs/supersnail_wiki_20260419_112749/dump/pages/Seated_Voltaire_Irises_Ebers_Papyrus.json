@@ -1,0 +1,33 @@
+{
+  "pageid": 10217,
+  "ns": 0,
+  "title": "Seated Voltaire+Irises+Ebers Papyrus",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Seated_Voltaire%2BIrises%2BEbers_Papyrus",
+  "touched": "2025-08-11T10:43:17Z",
+  "length": 172,
+  "lastrevid": 37895,
+  "revision": {
+    "revid": 37895,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:43:17Z",
+    "sha1": "db1aa3cd84fc01ade30866f5dad109333a8c4b70",
+    "size": 172
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "546",
+        "relics": "Seated Voltaire,Irises,Ebers Papyrus",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 60 Minions in battle, Troop ELMT DMG +4"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Seated_Voltaire_Irises_Ebers_Papyrus.wiki",
+  "markdown_path": "markdown/Seated_Voltaire_Irises_Ebers_Papyrus.md"
+}

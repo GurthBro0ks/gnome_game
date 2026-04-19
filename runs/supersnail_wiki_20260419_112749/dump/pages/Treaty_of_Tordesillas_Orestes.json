@@ -1,0 +1,35 @@
+{
+  "pageid": 7950,
+  "ns": 0,
+  "title": "Treaty of Tordesillas+Orestes",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Treaty_of_Tordesillas%2BOrestes",
+  "touched": "2025-02-22T17:25:55Z",
+  "length": 197,
+  "lastrevid": 33401,
+  "revision": {
+    "revid": 33401,
+    "parentid": 0,
+    "timestamp": "2025-02-21T20:05:23Z",
+    "sha1": "dc8155af76f21ee6ffad24ec006f7c6249892575",
+    "size": 197
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Treaty of Tordesillas,Orestes",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Treaty_of_Tordesillas_Orestes.wiki",
+  "markdown_path": "markdown/Treaty_of_Tordesillas_Orestes.md"
+}

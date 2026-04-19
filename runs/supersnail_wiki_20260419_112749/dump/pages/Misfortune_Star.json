@@ -1,0 +1,47 @@
+{
+  "pageid": 2814,
+  "ns": 0,
+  "title": "Misfortune Star",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Misfortune_Star",
+  "touched": "2025-08-11T11:17:02Z",
+  "length": 830,
+  "lastrevid": 39361,
+  "revision": {
+    "revid": 39361,
+    "parentid": 30698,
+    "timestamp": "2025-08-11T11:17:02Z",
+    "sha1": "28d78ed8efc76235fa2683bba5b1352f4aff3747",
+    "size": 830
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Misfortune Star",
+        "class_id": "20141",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "The dark-blue diamond is extraordinarily beautiful and glorious, dazzling in a fierce glow! It carries, however, so many amazing but tragic stories. It always brings dramatic misfortune to its owner!",
+        "fame": "15",
+        "art": "29",
+        "fth": "16",
+        "civ": "15",
+        "tech": "15",
+        "ss1": "Per 5 Jinx Points, Snail ATK +3<br>Per 5 Jinx Points, Snail RUSH +3<br>Jinx Points: 50/50",
+        "ss2": "Per 5 Jinx Points, Snail ATK +6<br>Per 5 Jinx Points, Snail RUSH +6<br>Jinx Points: 50/50",
+        "ss3": "Per 5 Jinx Points, Snail ATK +9<br>Per 5 Jinx Points, Snail RUSH +9<br>Jinx Points: 50/50",
+        "ss4": "Per 5 Jinx Points, Snail ATK +9<br>Per 5 Jinx Points, Snail RUSH +9<br>Jinx Points: 50/50",
+        "ss7": "Per 5 Jinx Points, Snail ATK +9<br>Per 5 Jinx Points, Snail RUSH +9<br>Jinx Points: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Misfortune_Star.wiki",
+  "markdown_path": "markdown/Misfortune_Star.md"
+}

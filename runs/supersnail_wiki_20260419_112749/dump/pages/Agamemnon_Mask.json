@@ -1,0 +1,69 @@
+{
+  "pageid": 1829,
+  "ns": 0,
+  "title": "Agamemnon Mask",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Agamemnon_Mask",
+  "touched": "2025-01-07T11:14:51Z",
+  "length": 1837,
+  "lastrevid": 29887,
+  "revision": {
+    "revid": 29887,
+    "parentid": 26253,
+    "timestamp": "2024-10-15T13:16:28Z",
+    "sha1": "c98de48afc72c41b6ad67218ac2283eca25d363f",
+    "size": 1837
+  },
+  "categories": [
+    "ART Relics",
+    "ATK Boost",
+    "Britland Exploration Boost",
+    "Britland Museum Boost",
+    "DEF Boost",
+    "Exploration B-tad Drop Boost",
+    "Exploration Reagent Drop Boost",
+    "HP Boost",
+    "Kemet Exploration Boost",
+    "Kemet Museum Boost",
+    "Mecha Gene Cost Reduction",
+    "Orange ART Relics",
+    "Orange Relics",
+    "RUSH Boost",
+    "Relics",
+    "Rewards Gear",
+    "Sanctum Warrior Boost",
+    "Slug Dragonling Boost",
+    "Tadpole Pond Output Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Agamemnon Mask",
+        "rank": "SS",
+        "affct": "ART",
+        "birthday": "12-22",
+        "source": "Fragment Crafting (4%), Grandmaster Scrolls (1.5%), Lottery Machine (0.18%), Wishing (0.15%)",
+        "description": "On Dec 22, 1193 BC, Agamemnon put on this mask and entered the Trojan War.\n\nAgamemnon, leader of the Greek Alliance in the Trojan War, ordered artisans to make him a golden mask. Soldiers and artisans caught a young deer with golden antlers. Artisans smelted the antlers to make Agamemnon's mask. However, this animal was sacred to the goddess of hunting, Artemis. Her wrath eventually led to the downfall of Agaememnon.\n\n[Basic Info]\n\nEra: Mycenaean civilization.\n\nCollected by: National Archaeologi …",
+        "fame": "66",
+        "art": "105",
+        "fth": "49",
+        "civ": "68",
+        "tech": "59",
+        "ss1": "Snail HP +200<br>Snail ATK +20<br>Snail RUSH +20",
+        "ss2": "Snail HP +300<br>Snail ATK +30<br>Snail RUSH +30",
+        "ss3": "Snail HP +400<br>Snail ATK +40<br>Snail RUSH +40",
+        "ss4": "Snail HP +600<br>Snail ATK +60<br>Snail RUSH +60",
+        "ss5": "Snail HP +800<br>Snail ATK +80<br>Snail RUSH +80",
+        "ss6": "Snail HP +1,100<br>Snail ATK +110<br>Snail RUSH +110",
+        "ss7": "Snail HP +1,100<br>Snail ATK +110<br>Snail RUSH +110<br>Snail RUSH +100 (Awakened)",
+        "skill1": "{{Skills|kemet|btads gained|15}}",
+        "skill2": "{{Skills|kemet|purple reagent|15}}",
+        "skill3": "{{Skills|britland|def|600}}",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Agamemnon_Mask.wiki",
+  "markdown_path": "markdown/Agamemnon_Mask.md"
+}

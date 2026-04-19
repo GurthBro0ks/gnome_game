@@ -1,0 +1,33 @@
+{
+  "pageid": 11165,
+  "ns": 0,
+  "title": "Argonautica+Poincaré Conjecture",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Argonautica%2BPoincar%C3%A9_Conjecture",
+  "touched": "2025-08-11T11:14:41Z",
+  "length": 198,
+  "lastrevid": 39260,
+  "revision": {
+    "revid": 39260,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:14:41Z",
+    "sha1": "c0327376f11faa0c0d8ac26aa8a094fd338b5d42",
+    "size": 198
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "759",
+        "relics": "Argonautica,Poincaré Conjecture",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 3,000 Tribe Prosperity, Snail RUSH +7;Tribe Prosperity: 150000/150000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Argonautica_Poincar_Conjecture.wiki",
+  "markdown_path": "markdown/Argonautica_Poincar_Conjecture.md"
+}

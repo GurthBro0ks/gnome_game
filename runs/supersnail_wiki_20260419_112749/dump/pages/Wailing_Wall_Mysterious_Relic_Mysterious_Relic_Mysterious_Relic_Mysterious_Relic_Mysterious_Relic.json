@@ -1,0 +1,35 @@
+{
+  "pageid": 8288,
+  "ns": 0,
+  "title": "Wailing Wall+Mysterious Relic+Mysterious Relic+Mysterious Relic+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wailing_Wall%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2025-04-21T02:49:27Z",
+  "length": 266,
+  "lastrevid": 34070,
+  "revision": {
+    "revid": 34070,
+    "parentid": 0,
+    "timestamp": "2025-04-21T02:49:27Z",
+    "sha1": "4c290ad120bffb61422a91f5da94a8d90f445edd",
+    "size": 266
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Wailing Wall,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic",
+        "rank": "orange",
+        "amount": "6",
+        "category": "minion",
+        "description": "Snail Leadership +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wailing_Wall_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Wailing_Wall_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic.md"
+}

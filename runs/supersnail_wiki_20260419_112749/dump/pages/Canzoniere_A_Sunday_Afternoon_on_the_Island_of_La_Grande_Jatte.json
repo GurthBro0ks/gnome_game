@@ -1,0 +1,35 @@
+{
+  "pageid": 7945,
+  "ns": 0,
+  "title": "Canzoniere+A Sunday Afternoon on the Island of La Grande Jatte",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Canzoniere%2BA_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte",
+  "touched": "2025-02-21T20:01:11Z",
+  "length": 230,
+  "lastrevid": 33396,
+  "revision": {
+    "revid": 33396,
+    "parentid": 0,
+    "timestamp": "2025-02-21T20:01:11Z",
+    "sha1": "f11f9d943c93902661baad7d1f4d274899e07f21",
+    "size": 230
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Canzoniere,A Sunday Afternoon on the Island of La Grande Jatte",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Canzoniere_A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte.wiki",
+  "markdown_path": "markdown/Canzoniere_A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte.md"
+}

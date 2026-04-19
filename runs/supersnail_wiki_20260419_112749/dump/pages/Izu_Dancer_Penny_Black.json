@@ -1,0 +1,34 @@
+{
+  "pageid": 3272,
+  "ns": 0,
+  "title": "Izu Dancer+Penny Black",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Izu_Dancer%2BPenny_Black",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 199,
+  "lastrevid": 11933,
+  "revision": {
+    "revid": 11933,
+    "parentid": 0,
+    "timestamp": "2023-09-12T15:40:36Z",
+    "sha1": "64f6c224764949280547d9697d8bf85aec24e68c",
+    "size": 199
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Izu Dancer,Penny Black",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 200 DNA Strength, Snail RUSH +3<br>DNA Strength: 4,000/4,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Izu_Dancer_Penny_Black.wiki",
+  "markdown_path": "markdown/Izu_Dancer_Penny_Black.md"
+}

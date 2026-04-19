@@ -1,0 +1,67 @@
+{
+  "pageid": 3700,
+  "ns": 0,
+  "title": "ANS Synthesizer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/ANS_Synthesizer",
+  "touched": "2025-01-07T11:14:51Z",
+  "length": 2363,
+  "lastrevid": 30845,
+  "revision": {
+    "revid": 30845,
+    "parentid": 29882,
+    "timestamp": "2024-10-28T21:36:33Z",
+    "sha1": "d80f5ef3f301e21e8b77e2a5ab33e84b19db59f2",
+    "size": 2363
+  },
+  "categories": [
+    "ATK Boost",
+    "DEF Boost",
+    "Enhanced by FAME Master Scrolls",
+    "Enhanced by Lottery Draws",
+    "Enhanced by Museum Promos",
+    "FAME Relics",
+    "HP Boost",
+    "Lottery Machine Boost",
+    "Missing Info",
+    "Museum Promo Boost",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Relics",
+    "Rewards Lottery Ticket",
+    "Snail Arena Compass Boost",
+    "Water DMG Boost",
+    "Water RES Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "ANS Synthesizer",
+        "rank": "SSS",
+        "affct": "FAME",
+        "birthday": "12-16",
+        "source": "* Grandmaster Scrolls (0.78%), Lottery Machine (0.09%), Wishing (0.08%)\n* [[EDM Festival]] Sept. 29 - Oct. 12 2023",
+        "description": "On Dec 16, 1958 AD, the world's first optical instrument was officially unveiled. The ANS Synthesizer is an invention by Russian engineer Evgeny Murzin. Its greatest function is to transform input images into various sounds, thereby breaking the limitations of performers and traditional instrumental techniques. It greatly expands the forms and ideas if music composition, laying the foundation for the future rise of electronic music.",
+        "fame": "108",
+        "art": "64",
+        "fth": "62",
+        "civ": "63",
+        "tech": "65",
+        "ss1": "Snail DEF +30<br>Per FAME Master Scroll used, Snail HP +120<br>Per FAME Master Scroll used, Snail DEF +12<br>FAME Master Scrolls Used: 10/10",
+        "ss2": "Snail DEF +40<br>Per FAME Master Scroll used, Snail HP +160<br>Per FAME Master Scroll used, Snail DEF +16<br>FAME Master Scrolls Used: 10/10",
+        "ss3": "Snail DEF +50<br>Per FAME Master Scroll used, Snail HP +200<br>Per FAME Master Scroll used, Snail DEF +20<br>FAME Master Scrolls Used: 10/10",
+        "ss4": "Snail DEF +70<br>Per FAME Master Scroll used, Snail HP +280<br>Per FAME Master Scroll used, Snail DEF +28<br>FAME Master Scrolls Used: 10/10",
+        "ss5": "Snail DEF +90<br>Per FAME Master Scroll used, Snail HP +360<br>Per FAME Master Scroll used, Snail DEF +36<br>FAME Master Scrolls Used: 10/10",
+        "ss6": "Snail DEF +120<br>Per FAME Master Scroll used, Snail HP +480<br>Per FAME Master Scroll used, Snail DEF +48<br>FAME Master Scrolls Used: 10/10",
+        "ss7": "Snail DEF +120<br>Per FAME Master Scroll used, Snail HP +480<br>Per FAME Master Scroll used, Snail DEF +48<br>FAME Master Scrolls Used: 10/10<br>Snail DEF +100 (Awakened)",
+        "skill1": "{{Skills|arena|ignore water res|60}}",
+        "skill2": "{{Skills|arena|water res|60}}",
+        "skill3": "{{Skills|arena|water dmg|600}}",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/ANS_Synthesizer.wiki",
+  "markdown_path": "markdown/ANS_Synthesizer.md"
+}

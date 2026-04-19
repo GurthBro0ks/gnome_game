@@ -1,0 +1,47 @@
+{
+  "pageid": 11088,
+  "ns": 0,
+  "title": "April's Radiance",
+  "fullurl": "https://supersnail.wiki.gg/wiki/April%27s_Radiance",
+  "touched": "2025-08-11T11:11:58Z",
+  "length": 861,
+  "lastrevid": 39140,
+  "revision": {
+    "revid": 39140,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:11:58Z",
+    "sha1": "b76501d5e10d677b524877512dd7f87c39a15465",
+    "size": 861
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "April's Radiance",
+        "class_id": "20955",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The fourth law of natural cycles: When a myriad of flowers bloom, the colors and vitality of nature reach their peak. Let us seek inspiration in the sea of flowers and enjoy the warmth and vitality of spring!",
+        "fame": "32",
+        "art": "15",
+        "fth": "18",
+        "civ": "13",
+        "tech": "12",
+        "ss1": "Snail Leadership +2<br>Per 10 Lucky Star gained, Snail DEF +1<br>Lucky Star Gained: 2400/2400",
+        "ss2": "Snail Leadership +4<br>Per 10 Lucky Star gained, Snail DEF +2<br>Lucky Star Gained: 2400/2400",
+        "ss3": "Snail Leadership +6<br>Per 10 Lucky Star gained, Snail DEF +3<br>Lucky Star Gained: 2400/2400",
+        "ss4": "Snail Leadership +6<br>Per 10 Lucky Star gained, Snail DEF +3<br>Lucky Star Gained: 2400/2400",
+        "ss7": "Snail Leadership +6<br>Per 10 Lucky Star gained, Snail DEF +3<br>Lucky Star Gained: 2400/2400<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/April_s_Radiance.wiki",
+  "markdown_path": "markdown/April_s_Radiance.md"
+}

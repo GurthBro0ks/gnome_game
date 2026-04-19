@@ -1,0 +1,33 @@
+{
+  "pageid": 8505,
+  "ns": 0,
+  "title": "Campbell's Soup Cans+Dagda's Cauldron+Baekje Incense Burner+Pitot Tube+Carothers Nylon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Campbell%27s_Soup_Cans%2BDagda%27s_Cauldron%2BBaekje_Incense_Burner%2BPitot_Tube%2BCarothers_Nylon",
+  "touched": "2025-06-20T00:13:48Z",
+  "length": 257,
+  "lastrevid": 36000,
+  "revision": {
+    "revid": 36000,
+    "parentid": 34389,
+    "timestamp": "2025-06-20T00:13:48Z",
+    "sha1": "a0fd882407687d90b9fff6d01d953f89a4c246af",
+    "size": 257
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "649",
+        "relics": "Campbell's Soup Cans,Dagda's Cauldron,Baekje Incense Burner,Pitot Tube,Carothers Nylon",
+        "rank": "blue",
+        "amount": "5",
+        "category": "self",
+        "description": "Per 2 Purple Brand Cases opened, Snail ATK +8;Purple Brand Cases Opened: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Campbell_s_Soup_Cans_Dagda_s_Cauldron_Baekje_Incense_Burner_Pitot_Tube_Carothers_Nylon.wiki",
+  "markdown_path": "markdown/Campbell_s_Soup_Cans_Dagda_s_Cauldron_Baekje_Incense_Burner_Pitot_Tube_Carothers_Nylon.md"
+}

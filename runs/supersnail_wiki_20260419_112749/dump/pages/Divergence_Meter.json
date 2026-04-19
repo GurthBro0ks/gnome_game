@@ -1,0 +1,56 @@
+{
+  "pageid": 1032,
+  "ns": 0,
+  "title": "Divergence Meter",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Divergence_Meter",
+  "touched": "2025-04-13T16:06:27Z",
+  "length": 1463,
+  "lastrevid": 33937,
+  "revision": {
+    "revid": 33937,
+    "parentid": 27634,
+    "timestamp": "2025-04-13T16:06:27Z",
+    "sha1": "a379dcec203222aaf0962bc8e3b31f46d1478f07",
+    "size": 1463
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Exploration B-tad Drop Boost",
+    "Mechanic Boost",
+    "NeuroMecha Minion Boost",
+    "Offering Speed Boost",
+    "RUSH Boost",
+    "Relics",
+    "TECH Relics",
+    "Time Machine Output Boost",
+    "Time Machine Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Divergence Meter",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "03-27",
+        "source": "Lottery Machine (0.36%), Wishing (13.2%), Time Chest (2%), Novice Scrolls (5%)",
+        "description": "On Mar 27, 2035, Dr. James developed this device that can tell the world line you are in.\n\nThe Divergence Meter can display the changes of the world lines. Most people lost their memories created in the previous world line whenever there is a chance. But with this detector, the location of the world lines can be recorded. Typically, world lines will change only when somebody travels through time.\n\n[Parts of the Meter]\n\nHost: Divergence Meter. Remote Control: Infrared. USB: 2A High current. Cable …",
+        "fame": "23",
+        "art": "24",
+        "fth": "28",
+        "civ": "33",
+        "tech": "46",
+        "ss1": "In explorations, B-tads gained +0.4%",
+        "ss2": "In explorations, B-tads gained +0.8%",
+        "ss3": "In explorations, B-tads gained +1.2%",
+        "ss4": "In explorations, B-tads gained +2%",
+        "ss7": "In explorations, B-tads gained +2%<br>In explorations, B-tads gained +2% (Awakened)",
+        "skill1": "[[File:Timemachine skill I.png|50px]]Place in Time Machine: Time Machine Max Cap +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Divergence_Meter.wiki",
+  "markdown_path": "markdown/Divergence_Meter.md"
+}

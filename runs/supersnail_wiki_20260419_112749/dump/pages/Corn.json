@@ -1,0 +1,28 @@
+{
+  "pageid": 6913,
+  "ns": 0,
+  "title": "Corn",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Corn",
+  "touched": "2025-02-06T19:34:31Z",
+  "length": 412,
+  "lastrevid": 32590,
+  "revision": {
+    "revid": 32590,
+    "parentid": 28960,
+    "timestamp": "2024-12-28T15:26:47Z",
+    "sha1": "e4c95ee76e908cf079728c88c26e4b7919c23f73",
+    "size": 412
+  },
+  "categories": [
+    "ATK Boost",
+    "CIV Shells",
+    "Dragon Form",
+    "Fire DMG Boost",
+    "Shells",
+    "Time Rift"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Corn.wiki",
+  "markdown_path": "markdown/Corn.md"
+}

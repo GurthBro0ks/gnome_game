@@ -1,0 +1,34 @@
+{
+  "pageid": 1119,
+  "ns": 0,
+  "title": "Demon Form",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Demon_Form",
+  "touched": "2025-10-14T15:03:11Z",
+  "length": 21944,
+  "lastrevid": 41303,
+  "revision": {
+    "revid": 41303,
+    "parentid": 41276,
+    "timestamp": "2025-10-14T15:03:11Z",
+    "sha1": "e60541c26c7d90d553f168e74d92dc7d2446ec3e",
+    "size": 21944
+  },
+  "categories": [
+    "Evolution",
+    "Form",
+    "Pages using Tabber parser tag"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "blue",
+        "2": "Form",
+        "3": "Demon Scythe"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Demon_Form.wiki",
+  "markdown_path": "markdown/Demon_Form.md"
+}

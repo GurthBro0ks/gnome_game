@@ -1,0 +1,34 @@
+{
+  "pageid": 3753,
+  "ns": 0,
+  "title": "Ship in a Bottle+Boat of St. Peter",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ship_in_a_Bottle%2BBoat_of_St._Peter",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 172,
+  "lastrevid": 13651,
+  "revision": {
+    "revid": 13651,
+    "parentid": 0,
+    "timestamp": "2023-10-02T08:18:28Z",
+    "sha1": "137905e20a3a2a9f41b4fa8176cfa558011ad638",
+    "size": 172
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Ship in a Bottle,Boat of St. Peter",
+        "rank": "orange",
+        "amount": "2",
+        "category": "home",
+        "description": "Fungus Farm Output +14%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ship_in_a_Bottle_Boat_of_St._Peter.wiki",
+  "markdown_path": "markdown/Ship_in_a_Bottle_Boat_of_St._Peter.md"
+}

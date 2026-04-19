@@ -1,0 +1,52 @@
+{
+  "pageid": 6634,
+  "ns": 0,
+  "title": "Lu Ji's Calligraphy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lu_Ji%27s_Calligraphy",
+  "touched": "2026-03-04T17:20:25Z",
+  "length": 1683,
+  "lastrevid": 38007,
+  "revision": {
+    "revid": 38007,
+    "parentid": 32630,
+    "timestamp": "2025-08-11T10:45:50Z",
+    "sha1": "4b827b1ea8082e176b042bf40b621c453bea202d",
+    "size": 1683
+  },
+  "categories": [
+    "CIV Relics",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Lu Ji's Calligraphy",
+        "class_id": "22886",
+        "rank": "SSS",
+        "affct": "CIV",
+        "description": "Lu Ji is a calligrapher from the Western Jin Dynasty. It is a letter to a friend inquiring about his recovery from illness. It was written in a cursive script that transitioned from archaic cursive to modern cursive, characterized by its gentle strokes and simple, robust style. The original piece contained nine lines with approximately eighty-four characters, but only three lines and twenty-two characters remain today. It is one of the earliest surviving literati ink writings to date, holding im …",
+        "fame": "70",
+        "art": "69",
+        "fth": "61",
+        "civ": "109",
+        "tech": "53",
+        "ss1": "In Dragon Form, Crit DMG +3%<br>In Dragon Form, Wind DMG +30<br>All minion skins RUSH +10%",
+        "ss2": "In Dragon Form, Crit DMG +4%<br>In Dragon Form, Wind DMG +40<br>All minion skins RUSH +20%",
+        "ss3": "In Dragon Form, Crit DMG +5%<br>In Dragon Form, Wind DMG +50<br>All minion skins RUSH +30%",
+        "ss4": "In Dragon Form, Crit DMG +7%<br>In Dragon Form, Wind DMG +70<br>All minion skins RUSH +50%",
+        "ss5": "In Dragon Form, Crit DMG +9%<br>In Dragon Form, Wind DMG +90<br>All minion skins RUSH +70%",
+        "ss6": "In Dragon Form, Crit DMG +12%<br>In Dragon Form, Wind DMG +120<br>All minion skins RUSH +100%",
+        "ss7": "In Dragon Form, Crit DMG +12%<br>In Dragon Form, Wind DMG +120<br>All minion skins RUSH +100%<br>In Dragon Form, Crit DMG +10% (Awakened)",
+        "skill1": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +6%",
+        "skill2": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, DMG +30%",
+        "skill3": "[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's CIV +15"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lu_Ji_s_Calligraphy.wiki",
+  "markdown_path": "markdown/Lu_Ji_s_Calligraphy.md"
+}

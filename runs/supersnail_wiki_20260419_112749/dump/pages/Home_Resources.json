@@ -1,0 +1,28 @@
+{
+  "pageid": 4026,
+  "ns": 0,
+  "title": "Home Resources",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Home_Resources",
+  "touched": "2025-09-22T17:34:32Z",
+  "length": 25582,
+  "lastrevid": 39847,
+  "revision": {
+    "revid": 39847,
+    "parentid": 39846,
+    "timestamp": "2025-09-21T09:06:27Z",
+    "sha1": "784d5ef9de7100c0c73a23ea3b1656927d0973d1",
+    "size": 25582
+  },
+  "categories": [
+    "Courtyard",
+    "Fungus Farm",
+    "Lumber Camp",
+    "Quarry",
+    "Tadpole Pond",
+    "Time Machine"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Home_Resources.wiki",
+  "markdown_path": "markdown/Home_Resources.md"
+}

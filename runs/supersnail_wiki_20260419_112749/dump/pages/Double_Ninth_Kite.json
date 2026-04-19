@@ -1,0 +1,47 @@
+{
+  "pageid": 10935,
+  "ns": 0,
+  "title": "Double Ninth Kite",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Double_Ninth_Kite",
+  "touched": "2025-08-11T11:06:12Z",
+  "length": 850,
+  "lastrevid": 38893,
+  "revision": {
+    "revid": 38893,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:06:12Z",
+    "sha1": "b45ac156c7737ec268fff0859770860daa82a80a",
+    "size": 850
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Double Ninth Kite",
+        "class_id": "20547",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The paper kite, a feature of the Double Ninth Festival, is filled with festive atmosphere in its vibrant colors and gorgeous design. It is said that flying it during the festival can ward off bad luck and make the upcoming autumn days even better!",
+        "fame": "14",
+        "art": "17",
+        "fth": "14",
+        "civ": "32",
+        "tech": "13",
+        "ss1": "Snail HP +200<br>Per 10 CIV Pistils Used, Snail ATK +1<br>CIV Pistils Used: 400/400",
+        "ss2": "Snail HP +400<br>Per 10 CIV Pistils Used, Snail ATK +2<br>CIV Pistils Used: 400/400",
+        "ss3": "Snail HP +600<br>Per 10 CIV Pistils Used, Snail ATK +3<br>CIV Pistils Used: 400/400",
+        "ss4": "Snail HP +600<br>Per 10 CIV Pistils Used, Snail ATK +3<br>CIV Pistils Used: 400/400",
+        "ss7": "Snail HP +600<br>Per 10 CIV Pistils Used, Snail ATK +3<br>CIV Pistils Used: 400/400<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Double_Ninth_Kite.wiki",
+  "markdown_path": "markdown/Double_Ninth_Kite.md"
+}

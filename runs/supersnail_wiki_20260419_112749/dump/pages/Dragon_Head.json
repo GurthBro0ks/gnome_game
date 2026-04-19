@@ -1,0 +1,46 @@
+{
+  "pageid": 11207,
+  "ns": 0,
+  "title": "Dragon Head",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dragon_Head",
+  "touched": "2025-08-11T11:16:27Z",
+  "length": 248,
+  "lastrevid": 39336,
+  "revision": {
+    "revid": 39336,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:16:27Z",
+    "sha1": "69d99475337ed55a0e09013f11ccb1f0adf34374",
+    "size": 248
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dragon Head",
+        "class_id": "20044",
+        "rank": "Green",
+        "affct": "FAME",
+        "fame": "29",
+        "art": "16",
+        "fth": "11",
+        "civ": "18",
+        "tech": "16",
+        "ss1": "Snail ATK +10",
+        "ss2": "Snail ATK +20",
+        "ss3": "Snail ATK +30",
+        "ss4": "Snail ATK +30",
+        "ss7": "Snail ATK +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dragon_Head.wiki",
+  "markdown_path": "markdown/Dragon_Head.md"
+}

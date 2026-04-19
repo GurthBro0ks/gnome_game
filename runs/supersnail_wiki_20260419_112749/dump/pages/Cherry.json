@@ -1,0 +1,28 @@
+{
+  "pageid": 6910,
+  "ns": 0,
+  "title": "Cherry",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cherry",
+  "touched": "2025-02-06T19:34:31Z",
+  "length": 388,
+  "lastrevid": 31192,
+  "revision": {
+    "revid": 31192,
+    "parentid": 28957,
+    "timestamp": "2024-11-01T15:39:56Z",
+    "sha1": "99971efde1a1c6d1bb7ca899b86b603a95f5c8a6",
+    "size": 388
+  },
+  "categories": [
+    "ATK Boost",
+    "Angel Form",
+    "FTH Shells",
+    "Fire DMG Boost",
+    "Kemet",
+    "Shells"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Cherry.wiki",
+  "markdown_path": "markdown/Cherry.md"
+}

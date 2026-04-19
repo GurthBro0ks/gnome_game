@@ -1,0 +1,47 @@
+{
+  "pageid": 2087,
+  "ns": 0,
+  "title": "Advance Elixir",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Advance_Elixir",
+  "touched": "2025-11-17T14:55:21Z",
+  "length": 819,
+  "lastrevid": 41765,
+  "revision": {
+    "revid": 41765,
+    "parentid": 41764,
+    "timestamp": "2025-11-17T14:55:21Z",
+    "sha1": "989369ac1b119cb489e21a50a0dd71de1cd98877",
+    "size": 819
+  },
+  "categories": [
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "HP Boost",
+    "Relics",
+    "Wonder Fungus Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Advance Elixir",
+        "rank": "Green",
+        "affct": "FTH",
+        "source": "One-Time Rent from [[Taoist Yu Ji]]",
+        "description": "In the mortal world lacking in spiritual energy, an Advance Elixir is enough to trigger a war between cultivators. After all, the vast majority of practitioners are only in the refinement phase. As long as they build a successful foundation, they will elevate to the upper-middle tier. Not only will their lifespan double, but they'll also be able to learn legendary techniques.",
+        "fame": "14",
+        "art": "14",
+        "fth": "28",
+        "civ": "18",
+        "tech": "16",
+        "ss1": "Per 5 Wonder Fungi eaten, Snail HP +10<br>Wonder Fungi Eaten: 200/200",
+        "ss2": "Per 5 Wonder Fungi eaten, Snail HP +20<br>Wonder Fungi Eaten: 200/200",
+        "ss3": "Per 5 Wonder Fungi eaten, Snail HP +30<br>Wonder Fungi Eaten: 200/200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Advance_Elixir.wiki",
+  "markdown_path": "markdown/Advance_Elixir.md"
+}

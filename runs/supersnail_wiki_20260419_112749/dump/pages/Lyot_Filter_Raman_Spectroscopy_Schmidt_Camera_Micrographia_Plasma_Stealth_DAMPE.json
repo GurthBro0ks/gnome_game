@@ -1,0 +1,33 @@
+{
+  "pageid": 8535,
+  "ns": 0,
+  "title": "Lyot Filter+Raman Spectroscopy+Schmidt Camera+Micrographia+Plasma Stealth+DAMPE",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lyot_Filter%2BRaman_Spectroscopy%2BSchmidt_Camera%2BMicrographia%2BPlasma_Stealth%2BDAMPE",
+  "touched": "2025-06-16T21:00:47Z",
+  "length": 215,
+  "lastrevid": 34430,
+  "revision": {
+    "revid": 34430,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:17:32Z",
+    "sha1": "ec6668a86ec79f11c174137a3d7a0190b86f228c",
+    "size": 215
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "710",
+        "relics": "Lyot Filter,Raman Spectroscopy,Schmidt Camera,Micrographia,Plasma Stealth,DAMPE",
+        "rank": "purple",
+        "amount": "6",
+        "category": "self",
+        "description": "Merge 1 Orange Stardust: Gain 1 more by 10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lyot_Filter_Raman_Spectroscopy_Schmidt_Camera_Micrographia_Plasma_Stealth_DAMPE.wiki",
+  "markdown_path": "markdown/Lyot_Filter_Raman_Spectroscopy_Schmidt_Camera_Micrographia_Plasma_Stealth_DAMPE.md"
+}

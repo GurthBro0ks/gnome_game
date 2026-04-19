@@ -1,0 +1,33 @@
+{
+  "pageid": 9288,
+  "ns": 0,
+  "title": "Tesla Turbine+Karl Benz Tricycle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tesla_Turbine%2BKarl_Benz_Tricycle",
+  "touched": "2025-06-20T00:19:16Z",
+  "length": 205,
+  "lastrevid": 36169,
+  "revision": {
+    "revid": 36169,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:19:16Z",
+    "sha1": "229532a2383fa34bb8977c1a112730705992f0ad",
+    "size": 205
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "664",
+        "relics": "Tesla Turbine,Karl Benz Tricycle",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 Recruit Tokens consumed, Snail HP +60;Consumed Recruit Tokens: 5000/5000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tesla_Turbine_Karl_Benz_Tricycle.wiki",
+  "markdown_path": "markdown/Tesla_Turbine_Karl_Benz_Tricycle.md"
+}

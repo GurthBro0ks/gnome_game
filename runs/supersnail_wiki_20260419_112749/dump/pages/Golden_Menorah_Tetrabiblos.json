@@ -1,0 +1,34 @@
+{
+  "pageid": 3270,
+  "ns": 0,
+  "title": "Golden Menorah+Tetrabiblos",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Menorah%2BTetrabiblos",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 152,
+  "lastrevid": 31143,
+  "revision": {
+    "revid": 31143,
+    "parentid": 30455,
+    "timestamp": "2024-10-30T20:30:14Z",
+    "sha1": "52ed1bccf4847a1dbccd2671d2cf85dd5b90375d",
+    "size": 152
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Golden Menorah,Tetrabiblos",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Menorah_Tetrabiblos.wiki",
+  "markdown_path": "markdown/Golden_Menorah_Tetrabiblos.md"
+}

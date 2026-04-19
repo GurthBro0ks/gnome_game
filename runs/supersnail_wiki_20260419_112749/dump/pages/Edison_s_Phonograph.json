@@ -1,0 +1,59 @@
+{
+  "pageid": 76,
+  "ns": 0,
+  "title": "Edison's Phonograph",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Edison%27s_Phonograph",
+  "touched": "2024-11-04T01:11:06Z",
+  "length": 2149,
+  "lastrevid": 28735,
+  "revision": {
+    "revid": 28735,
+    "parentid": 22327,
+    "timestamp": "2024-08-12T17:04:23Z",
+    "sha1": "c520343db650397a7fd5bde09dc01d9a226819a7",
+    "size": 2149
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Mecha Gene LVL",
+    "HP Boost",
+    "Hellas Exploration Boost",
+    "Hellas Museum Boost",
+    "Indigent Nobleman Relics",
+    "Mechanic Boost",
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "Snail Mech Boost",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Edison's Phonograph",
+        "rank": "AAA",
+        "affct": "TECH",
+        "birthday": "04-11",
+        "source": "* Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)\n* [[Indigent Nobleman]] (210k {{RewardIconWithText|B-Tad}})",
+        "description": "On Apr 11, 1877, Edison invented the world's first gramophone.\n\nA phonograph is an electrical device used to play records by placing the disc on a turntable and letting it rotate under a stylus. Edison shook the crank and sang a song to the phonograph. Afterwards, he shook the crank lightly and the machine actually imitated him and sang \"Mary had a little lamb, whose fleece was white as snow...\" The first talking machine caused a sensation in the world at that time.\n\n[Brief History of the Phonog …",
+        "fame": "42",
+        "art": "42",
+        "fth": "37",
+        "civ": "47",
+        "tech": "75",
+        "ss1": "Per 5 Mecha Gene LVLs, Snail HP +60<br>Per 5 Mecha Gene LVLs, Snail ATK +6<br>Mecha Gene LVLs Researched: 150/150",
+        "ss2": "Per 5 Mecha Gene LVLs, Snail HP +80<br>Per 5 Mecha Gene LVLs, Snail ATK +8<br>Mecha Gene LVLs Researched: 150/150",
+        "ss3": "Per 5 Mecha Gene LVLs, Snail HP +100<br>Per 5 Mecha Gene LVLs, Snail ATK +10<br>Mecha Gene LVLs Researched: 150/150",
+        "ss4": "Per 5 Mecha Gene LVLs, Snail HP +140<br>Per 5 Mecha Gene LVLs, Snail ATK +14<br>Mecha Gene LVLs Researched: 150/150",
+        "ss5": "Per 5 Mecha Gene LVLs, Snail HP +180<br>Per 5 Mecha Gene LVLs, Snail ATK +18<br>Mecha Gene LVLs Researched: 150/150",
+        "ss7": "Per 5 Mecha Gene LVLs, Snail HP +180<br>Per 5 Mecha Gene LVLs, Snail ATK +18<br>Mecha Gene LVLs Researched: 150/150<br>Snail ATK +70",
+        "skill1": "[[File:Hellas skill II.png|50px]]Place in Hellas Museum: In Hellas, INTEL gained +7.5%",
+        "skill2": "[[File:Hellas skill II.png|50px]]Place in Hellas Museum: This Relic's TECH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Edison_s_Phonograph.wiki",
+  "markdown_path": "markdown/Edison_s_Phonograph.md"
+}

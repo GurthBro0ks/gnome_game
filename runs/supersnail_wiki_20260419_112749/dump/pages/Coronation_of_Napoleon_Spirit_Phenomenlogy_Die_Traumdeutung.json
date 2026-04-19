@@ -1,0 +1,35 @@
+{
+  "pageid": 8292,
+  "ns": 0,
+  "title": "Coronation of Napoleon+Spirit Phenomenlogy+Die Traumdeutung",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Coronation_of_Napoleon%2BSpirit_Phenomenlogy%2BDie_Traumdeutung",
+  "touched": "2025-04-21T02:55:22Z",
+  "length": 228,
+  "lastrevid": 34074,
+  "revision": {
+    "revid": 34074,
+    "parentid": 0,
+    "timestamp": "2025-04-21T02:55:22Z",
+    "sha1": "e8bf645c35f66883c051563ab891f1c8b696fa85",
+    "size": 228
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Coronation of Napoleon,Spirit Phenomenology,Die Traumdeutung",
+        "rank": "orange",
+        "amount": "3",
+        "category": "minion",
+        "description": "Snail Leadership +8"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Coronation_of_Napoleon_Spirit_Phenomenlogy_Die_Traumdeutung.wiki",
+  "markdown_path": "markdown/Coronation_of_Napoleon_Spirit_Phenomenlogy_Die_Traumdeutung.md"
+}

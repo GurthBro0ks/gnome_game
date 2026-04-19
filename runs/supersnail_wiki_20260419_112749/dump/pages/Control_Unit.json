@@ -1,0 +1,52 @@
+{
+  "pageid": 5004,
+  "ns": 0,
+  "title": "Control Unit",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Control_Unit",
+  "touched": "2025-06-16T23:14:37Z",
+  "length": 1702,
+  "lastrevid": 35051,
+  "revision": {
+    "revid": 35051,
+    "parentid": 24448,
+    "timestamp": "2025-06-16T23:14:37Z",
+    "sha1": "71a3ea8ce19024689e09f67379b13339a26159f3",
+    "size": 1702
+  },
+  "categories": [
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Control Unit",
+        "class_id": "22203",
+        "rank": "AAA",
+        "affct": "TECH",
+        "birthday": "10-03",
+        "source": "Lottery Machine No.2 (0.06%), Wishing (0.02%)",
+        "description": "On Oct 3, 2069 AD, Furn and Arman successfully developed a prototype version of control unit.<br>This seemingly ordinary ball is covered by an extremely strong alloy shell. Inside, there is a miniature version of the human brain structure printed out with special organic materials. Endowing robots with amazing computing and data storage capabilities, it can also make them think independently and even gain self-awareness. In addition, there are rumors that a huge secret is kept in this control un …",
+        "fame": "44",
+        "art": "36",
+        "fth": "54",
+        "civ": "37",
+        "tech": "72",
+        "ss1": "Per 30 Zombie Minions in battle:<br>> Troop HP +120<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +12",
+        "ss2": "Per 30 Zombie Minions in battle:<br>> Troop HP +160<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +16",
+        "ss3": "Per 30 Zombie Minions in battle:<br>> Troop HP +200<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +20",
+        "ss4": "Per 30 Zombie Minions in battle:<br>> Troop HP +280<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +28",
+        "ss5": "Per 30 Zombie Minions in battle:<br>> Troop HP +360<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +36",
+        "ss7": "Per 30 Zombie Minions in battle:<br>> Troop HP +360<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +36<br>Per 30 Zombie Minions in battle:<br>> Troop ATK +28 (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Mecha Cells gained +7.5%",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, INTEL gained +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Control_Unit.wiki",
+  "markdown_path": "markdown/Control_Unit.md"
+}

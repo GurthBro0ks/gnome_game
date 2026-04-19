@@ -1,0 +1,33 @@
+{
+  "pageid": 10245,
+  "ns": 0,
+  "title": "Golden Fleece+Seismograph+Bronze Bird+Enigma Machine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Fleece%2BSeismograph%2BBronze_Bird%2BEnigma_Machine",
+  "touched": "2025-08-11T10:44:19Z",
+  "length": 190,
+  "lastrevid": 37941,
+  "revision": {
+    "revid": 37941,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:44:19Z",
+    "sha1": "2f304b020bcdb2517ae34a12eaee4e3ea3ae3569",
+    "size": 190
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "65",
+        "relics": "Golden Fleece,Seismograph,Bronze Bird,Enigma Machine",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "The Time Machine: +14% chance to dropTime Chests"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Fleece_Seismograph_Bronze_Bird_Enigma_Machine.wiki",
+  "markdown_path": "markdown/Golden_Fleece_Seismograph_Bronze_Bird_Enigma_Machine.md"
+}

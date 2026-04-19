@@ -1,0 +1,52 @@
+{
+  "pageid": 5142,
+  "ns": 0,
+  "title": "Bird on a Rock",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bird_on_a_Rock",
+  "touched": "2025-06-19T23:53:07Z",
+  "length": 1552,
+  "lastrevid": 35658,
+  "revision": {
+    "revid": 35658,
+    "parentid": 34913,
+    "timestamp": "2025-06-19T23:53:07Z",
+    "sha1": "81c41826f60d915f0a33ce1e2301d918ae625472",
+    "size": 1552
+  },
+  "categories": [
+    "ART Relics",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bird on a Rock",
+        "class_id": "22127",
+        "rank": "A",
+        "affct": "ART",
+        "birthday": "06-07",
+        "source": "Lottery Machine No.2 (0.55%), Wishing (0.15%)",
+        "description": "On Jun 7, 1965 AD, Tiffany designer, Schlemm designed this famous Bird on a Rock.<br>Bird on a Rock brooch is the work of French jeweler, Schlumberger. It's a small bird perched on a gem, slightly leaning forward with long and elegant tail feathers. Its beak, crown feathers, and claws are all plated in gold, while the feathers are made of diamonds. The stone under the bird is one of the largest yellow diamonds in the world. When this brooch was revealed, it received widespread praise and became  …",
+        "fame": "36",
+        "art": "62",
+        "fth": "37",
+        "civ": "40",
+        "tech": "38",
+        "ss1": "Per 5 Quarry LVLs, Snail ATK +3<br>Per 5 Quarry LVLs, Snail RUSH +3<br>Quarry LVL: 90/90",
+        "ss2": "Per 5 Quarry LVLs, Snail ATK +6<br>Per 5 Quarry LVLs, Snail RUSH +6<br>Quarry LVL: 90/90",
+        "ss3": "Per 5 Quarry LVLs, Snail ATK +9<br>Per 5 Quarry LVLs, Snail RUSH +9<br>Quarry LVL: 90/90",
+        "ss4": "Per 5 Quarry LVLs, Snail ATK +15<br>Per 5 Quarry LVLs, Snail RUSH +15<br>Quarry LVL: 90/90",
+        "ss5": "Per 5 Quarry LVLs, Snail ATK +21<br>Per 5 Quarry LVLs, Snail RUSH +21<br>Quarry LVL: 90/90",
+        "ss7": "Per 5 Quarry LVLs, Snail ATK +21<br>Per 5 Quarry LVLs, Snail RUSH +21<br>Quarry LVL: 90/90<br>Snail RUSH +70 (Awakened)",
+        "skill1": "[[File:Compass skill II.png|50px]]Place in Exploration Compass: In explorations, INTEL gained +7.5%",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, food consumed -2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bird_on_a_Rock.wiki",
+  "markdown_path": "markdown/Bird_on_a_Rock.md"
+}

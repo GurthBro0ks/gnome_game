@@ -1,0 +1,23 @@
+{
+  "pageid": 7144,
+  "ns": 0,
+  "title": "Icons/Food",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Icons/Food",
+  "touched": "2025-10-16T06:13:26Z",
+  "length": 3486,
+  "lastrevid": 41415,
+  "revision": {
+    "revid": 41415,
+    "parentid": 41405,
+    "timestamp": "2025-10-16T06:13:26Z",
+    "sha1": "60b597a150227559d6c1601082c4318a6aba9e0a",
+    "size": 3486
+  },
+  "categories": [
+    "Icons"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Icons_Food.wiki",
+  "markdown_path": "markdown/Icons_Food.md"
+}

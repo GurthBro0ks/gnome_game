@@ -1,0 +1,47 @@
+{
+  "pageid": 10428,
+  "ns": 0,
+  "title": "Sunder-Soul Elixir",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sunder-Soul_Elixir",
+  "touched": "2025-08-11T10:50:12Z",
+  "length": 983,
+  "lastrevid": 38200,
+  "revision": {
+    "revid": 38200,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:50:12Z",
+    "sha1": "9c8e12f6f713329228ab5fa1e434aee20adb03c5",
+    "size": 983
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Sunder-Soul Elixir",
+        "class_id": "20966",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The Mantises have secretly developed a deadly poison, a mere trace of which can be lethal. Yet, they adhere to the principles of honorable combat, as their martial arts philosophy emphasizes fairness and integrity. This poison is reserved only for dire situations when the entire clan faces an existential crisis.",
+        "fame": "30",
+        "art": "13",
+        "fth": "14",
+        "civ": "16",
+        "tech": "17",
+        "ss1": "Against Mantis,<br>Troop DMG toward heroes +1%<br>Against Mantis,<br>Troop DMG toward heroes +1%",
+        "ss2": "Against Mantis,<br>Troop DMG toward heroes +2%<br>Against Mantis,<br>Troop DMG toward heroes +2%",
+        "ss3": "Against Mantis,<br>Troop DMG toward heroes +3%<br>Against Mantis,<br>Troop DMG toward heroes +3%",
+        "ss4": "Against Mantis,<br>Troop DMG toward heroes +3%<br>Against Mantis,<br>Troop DMG toward heroes +3%",
+        "ss7": "Against Mantis,<br>Troop DMG toward heroes +3%<br>Against Mantis,<br>Troop DMG toward heroes +3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sunder-Soul_Elixir.wiki",
+  "markdown_path": "markdown/Sunder-Soul_Elixir.md"
+}

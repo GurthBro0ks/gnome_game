@@ -1,0 +1,33 @@
+{
+  "pageid": 8390,
+  "ns": 0,
+  "title": "Philosophy Meditations+The Age of Bronze",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Philosophy_Meditations%2BThe_Age_of_Bronze",
+  "touched": "2025-07-02T09:43:26Z",
+  "length": 177,
+  "lastrevid": 37086,
+  "revision": {
+    "revid": 37086,
+    "parentid": 34219,
+    "timestamp": "2025-07-02T09:43:26Z",
+    "sha1": "05baac4f4ad2501cb11b7e05aa32d3fb16be2bac",
+    "size": 177
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "757",
+        "relics": "Philosophy Meditations,The Age of Bronze",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Catalyzed Green Spores turn to Blue by +0.7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Philosophy_Meditations_The_Age_of_Bronze.wiki",
+  "markdown_path": "markdown/Philosophy_Meditations_The_Age_of_Bronze.md"
+}

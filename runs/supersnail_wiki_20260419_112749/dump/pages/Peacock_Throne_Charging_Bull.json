@@ -1,0 +1,33 @@
+{
+  "pageid": 4311,
+  "ns": 0,
+  "title": "Peacock Throne+Charging Bull",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Peacock_Throne%2BCharging_Bull",
+  "touched": "2025-08-11T10:51:21Z",
+  "length": 166,
+  "lastrevid": 38249,
+  "revision": {
+    "revid": 38249,
+    "parentid": 15987,
+    "timestamp": "2025-08-11T10:51:21Z",
+    "sha1": "f51244d961a42627a4a882a75054f9274ee8ec44",
+    "size": 166
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "278",
+        "relics": "Peacock Throne,Charging Bull",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Expert Scrolls gained from VIP Silver Card +1"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Peacock_Throne_Charging_Bull.wiki",
+  "markdown_path": "markdown/Peacock_Throne_Charging_Bull.md"
+}

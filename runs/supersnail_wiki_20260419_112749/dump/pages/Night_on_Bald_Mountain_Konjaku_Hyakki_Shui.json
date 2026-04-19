@@ -1,0 +1,33 @@
+{
+  "pageid": 9308,
+  "ns": 0,
+  "title": "Night on Bald Mountain+Konjaku Hyakki Shui",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Night_on_Bald_Mountain%2BKonjaku_Hyakki_Shui",
+  "touched": "2025-06-20T00:20:53Z",
+  "length": 148,
+  "lastrevid": 36223,
+  "revision": {
+    "revid": 36223,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:20:53Z",
+    "sha1": "68c2920116e2034b87019535831a11b23a607869",
+    "size": 148
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "681",
+        "relics": "Night on Bald Mountain,Konjaku Hyakki Shui",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Night_on_Bald_Mountain_Konjaku_Hyakki_Shui.wiki",
+  "markdown_path": "markdown/Night_on_Bald_Mountain_Konjaku_Hyakki_Shui.md"
+}

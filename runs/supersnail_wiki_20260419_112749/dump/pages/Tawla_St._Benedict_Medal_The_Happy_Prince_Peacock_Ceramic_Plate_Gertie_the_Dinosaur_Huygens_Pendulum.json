@@ -1,0 +1,36 @@
+{
+  "pageid": 4698,
+  "ns": 0,
+  "title": "Tawla+St. Benedict Medal+The Happy Prince+Peacock Ceramic Plate+Gertie the Dinosaur+Huygens' Pendulum",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tawla%2BSt._Benedict_Medal%2BThe_Happy_Prince%2BPeacock_Ceramic_Plate%2BGertie_the_Dinosaur%2BHuygens%27_Pendulum",
+  "touched": "2024-12-02T03:00:51Z",
+  "length": 337,
+  "lastrevid": 18582,
+  "revision": {
+    "revid": 18582,
+    "parentid": 18499,
+    "timestamp": "2023-11-14T01:19:16Z",
+    "sha1": "a96b1a1a5a882bad0188b37ce6b66fe6eeb13737",
+    "size": 337
+  },
+  "categories": [
+    "Enhanced by FAME Relics",
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Tawla,St. Benedict Medal,The Happy Prince,Peacock Ceramic Plate,Gertie the Dinosaur,Huygens' Pendulum",
+        "rank": "blue",
+        "amount": "6",
+        "category": "self",
+        "description": "Per 4 FAME Relics gained, Snail RUSH +18; FAME Relics: 120/120"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tawla_St._Benedict_Medal_The_Happy_Prince_Peacock_Ceramic_Plate_Gertie_the_Dinosaur_Huygens_Pendulum.wiki",
+  "markdown_path": "markdown/Tawla_St._Benedict_Medal_The_Happy_Prince_Peacock_Ceramic_Plate_Gertie_the_Dinosaur_Huygens_Pendulum.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 2783,
+  "ns": 0,
+  "title": "Sand of Time",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sand_of_Time",
+  "touched": "2025-08-11T11:11:51Z",
+  "length": 675,
+  "lastrevid": 39135,
+  "revision": {
+    "revid": 39135,
+    "parentid": 32231,
+    "timestamp": "2025-08-11T11:11:51Z",
+    "sha1": "0f03acf7004985f0881ae24102fa20fd245498ea",
+    "size": 675
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Sand of Time",
+        "class_id": "20136",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This is a bottle of magic sand. Legend has it that it's mined from the time stream and can affect the flow of time in the real world. Skilled mages can use its power to manipulate the surrounding time and even extend their own life span!",
+        "fame": "16",
+        "art": "29",
+        "fth": "14",
+        "civ": "13",
+        "tech": "16",
+        "ss1": "The Time Machine: +2% chance to drop<br>Time Chests",
+        "ss2": "The Time Machine: +4% chance to drop<br>Time Chests",
+        "ss3": "The Time Machine: +6% chance to drop<br>Time Chests",
+        "ss4": "The Time Machine: +6% chance to drop<br>Time Chests",
+        "ss7": "The Time Machine: +6% chance to drop<br>Time Chests<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sand_of_Time.wiki",
+  "markdown_path": "markdown/Sand_of_Time.md"
+}

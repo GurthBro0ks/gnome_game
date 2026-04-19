@@ -1,0 +1,51 @@
+{
+  "pageid": 5430,
+  "ns": 0,
+  "title": "Hellenic INTEL",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hellenic_INTEL",
+  "touched": "2024-09-06T10:00:53Z",
+  "length": 10388,
+  "lastrevid": 21655,
+  "revision": {
+    "revid": 21655,
+    "parentid": 21562,
+    "timestamp": "2024-01-03T04:38:19Z",
+    "sha1": "255c172733c86a15a287b54e7c180cd33c98a727",
+    "size": 10388
+  },
+  "categories": [
+    "Hellas",
+    "INTEL",
+    "Locations",
+    "Realm"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "purple",
+        "2": "Exploration",
+        "3": "Justinian's Robe"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "purple",
+        "2": "Exploration",
+        "3": "Heraclius' Silver Staff"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "purple",
+        "2": "Exploration",
+        "3": "Caesar's Laurel"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hellenic_INTEL.wiki",
+  "markdown_path": "markdown/Hellenic_INTEL.md"
+}

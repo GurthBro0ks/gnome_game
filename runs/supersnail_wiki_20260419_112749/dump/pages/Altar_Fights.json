@@ -1,0 +1,98 @@
+{
+  "pageid": 6998,
+  "ns": 0,
+  "title": "Altar Fights",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Altar_Fights",
+  "touched": "2025-10-04T09:47:10Z",
+  "length": 8100,
+  "lastrevid": 40262,
+  "revision": {
+    "revid": 40262,
+    "parentid": 39908,
+    "timestamp": "2025-09-28T11:04:12Z",
+    "sha1": "ef2ec3fe89554205f3ef17a97e47443a2c19ab48",
+    "size": 8100
+  },
+  "categories": [
+    "Pages with broken file links",
+    "Spoiler Content",
+    "Works in Progress"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "Orange",
+        "2": "Form",
+        "3": "Broken Dragon Horn"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Heaven Wings"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "Orange",
+        "2": "Form",
+        "3": "Broken Caladbolg"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Abyss Wings"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "Orange",
+        "2": "Form",
+        "3": "Fire of Rage"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Blasphemy Eye"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Demon God Crystal"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Heaven Wings"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Abyss Wings"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Altar_Fights.wiki",
+  "markdown_path": "markdown/Altar_Fights.md"
+}

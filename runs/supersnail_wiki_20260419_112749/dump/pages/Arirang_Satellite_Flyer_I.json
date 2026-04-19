@@ -1,0 +1,34 @@
+{
+  "pageid": 3288,
+  "ns": 0,
+  "title": "Arirang Satellite+Flyer I",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Arirang_Satellite%2BFlyer_I",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 205,
+  "lastrevid": 12102,
+  "revision": {
+    "revid": 12102,
+    "parentid": 11960,
+    "timestamp": "2023-09-13T10:20:15Z",
+    "sha1": "397b965239413984a413c0a976e79a4fb1164020",
+    "size": 205
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Arirang Satellite,Flyer I",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 20 Blue Beads drawn, Snail DEF +10<br>Blue Beads Drawn: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Arirang_Satellite_Flyer_I.wiki",
+  "markdown_path": "markdown/Arirang_Satellite_Flyer_I.md"
+}

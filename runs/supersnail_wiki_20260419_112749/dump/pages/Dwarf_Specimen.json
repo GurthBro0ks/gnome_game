@@ -1,0 +1,47 @@
+{
+  "pageid": 189,
+  "ns": 0,
+  "title": "Dwarf Specimen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dwarf_Specimen",
+  "touched": "2025-08-11T11:03:07Z",
+  "length": 598,
+  "lastrevid": 38758,
+  "revision": {
+    "revid": 38758,
+    "parentid": 26256,
+    "timestamp": "2025-08-11T11:03:07Z",
+    "sha1": "558bdebde6baa7fd3e3b60de52793c5d305276f6",
+    "size": 598
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dwarf Specimen",
+        "class_id": "20061",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Several dwarfs were killed trying to protect Milk White when they were on the run from bureau agents. To commemorate them, Milk White made this specimen. Having this lifelike item is the best way to remember their contributions!",
+        "fame": "13",
+        "art": "10",
+        "fth": "20",
+        "civ": "29",
+        "tech": "18",
+        "ss1": "Mutant Gene Research B-tad Cost -0.6%",
+        "ss2": "Mutant Gene Research B-tad Cost -1.2%",
+        "ss3": "Mutant Gene Research B-tad Cost -1.8%",
+        "ss4": "Mutant Gene Research B-tad Cost -1.8%",
+        "ss7": "Mutant Gene Research B-tad Cost -1.8%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dwarf_Specimen.wiki",
+  "markdown_path": "markdown/Dwarf_Specimen.md"
+}

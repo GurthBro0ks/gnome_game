@@ -1,0 +1,56 @@
+{
+  "pageid": 2256,
+  "ns": 0,
+  "title": "Faraday's Dynamo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Faraday%27s_Dynamo",
+  "touched": "2024-11-04T01:11:06Z",
+  "length": 1555,
+  "lastrevid": 28737,
+  "revision": {
+    "revid": 28737,
+    "parentid": 26360,
+    "timestamp": "2024-08-12T17:05:43Z",
+    "sha1": "6efe718814f6ed17fbed30020ab9ccf615c0fef1",
+    "size": 1555
+  },
+  "categories": [
+    "Angel Gene Speedup Boost",
+    "Blue Relics",
+    "Blue TECH Relics",
+    "DEF Boost",
+    "Fissure Boost",
+    "Indigent Nobleman Relics",
+    "Lottery Bead Color Change",
+    "Relics",
+    "TECH Boost",
+    "TECH Relics",
+    "Time Machine Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Faraday's Dynamo",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "12-18",
+        "source": "* Lottery Machine (0.07%), Novice Scrolls (1%), Tool Chest (2%), Wishing (2.6%)\n* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})\n* [[Jiro Toyato]] - [[Rare Rent]]",
+        "description": "On Dec 18, 1831, Faraday invented the world's first electric generator.\n\nThrough electromagnetic induction, Faraday made a homopolar generator. Its mechanism is different from modern power generators. It does not contain a coil but a copper disc that rotates in the magnetic field. It has a handle fixed at the center of the disc. The edge and center of the disc are connected to a brush which connects it to the ammeter with a wire. The copper disc is placed in the magnetic field of the hoof-shaped …",
+        "fame": "19",
+        "art": "33",
+        "fth": "28",
+        "civ": "29",
+        "tech": "45",
+        "ss1": "Per 30 Fissure LVLs, Snail DEF +1<br>Fissure LVL: 1,200/1,200",
+        "ss2": "Per 30 Fissure LVLs, Snail DEF +2<br>Fissure LVL: 1,200/1,200",
+        "ss3": "Per 30 Fissure LVLs, Snail DEF +3<br>Fissure LVL: 1,200/1,200",
+        "ss4": "Per 30 Fissure LVLs, Snail DEF +5<br>Fissure LVL: 1,200/1,200",
+        "ss7": "Per 30 Fissure LVLs, Snail DEF +5<br>Fissure LVL: 1,200/1,200<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Timemachine skill I.png|50px]]Place in Time Machine: This Relic's TECH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Faraday_s_Dynamo.wiki",
+  "markdown_path": "markdown/Faraday_s_Dynamo.md"
+}

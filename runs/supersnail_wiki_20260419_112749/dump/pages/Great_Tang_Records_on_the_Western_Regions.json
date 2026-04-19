@@ -1,0 +1,53 @@
+{
+  "pageid": 10808,
+  "ns": 0,
+  "title": "Great Tang Records on the Western Regions",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Great_Tang_Records_on_the_Western_Regions",
+  "touched": "2025-08-11T11:02:15Z",
+  "length": 1625,
+  "lastrevid": 38720,
+  "revision": {
+    "revid": 38720,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:02:15Z",
+    "sha1": "75158be7ef953c6593c74a4f260523571c1e403d",
+    "size": 1625
+  },
+  "categories": [
+    "CIV Relics",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Great Tang Records on the Western Regions",
+        "class_id": "21597",
+        "rank": "SSS",
+        "affct": "CIV",
+        "description": "This book, authored by the Tang dynasty monk Xuanzang, consists of twelve volumes, detailing over a hundred countries Xuanzang encountered along his journey, as well as twenty-eight countries he heard about, covering geography, customs, and religious beliefs. It is an important document for studying the history, geography, and religious culture of medieval Central and South Asia. It provided the Tang dynasty with valuable intelligence on the Western Regions, promoted the translation of Buddhist  …",
+        "fame": "74",
+        "art": "69",
+        "fth": "59",
+        "civ": "108",
+        "tech": "52",
+        "ss1": "Snail ATK +10<br>Snail DEF +10<br>Snail RUSH +10",
+        "ss2": "Snail ATK +20<br>Snail DEF +20<br>Snail RUSH +20",
+        "ss3": "Snail ATK +30<br>Snail DEF +30<br>Snail RUSH +30",
+        "ss4": "Snail ATK +50<br>Snail DEF +50<br>Snail RUSH +50",
+        "ss5": "Snail ATK +70<br>Snail DEF +70<br>Snail RUSH +70",
+        "ss6": "Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100",
+        "ss7": "Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100<br>Snail HP +1000 (Awakened)",
+        "skill1": "[[File:Skill skill III.png|50px]]??? (Coming soon)",
+        "skill2": "[[File:Skill skill III.png|50px]]??? (Coming soon)",
+        "skill3": "[[File:Skill skill III.png|50px]]??? (Coming soon)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Great_Tang_Records_on_the_Western_Regions.wiki",
+  "markdown_path": "markdown/Great_Tang_Records_on_the_Western_Regions.md"
+}

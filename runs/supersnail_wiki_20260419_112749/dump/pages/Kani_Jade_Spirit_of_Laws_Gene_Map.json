@@ -1,0 +1,33 @@
+{
+  "pageid": 3656,
+  "ns": 0,
+  "title": "Kani Jade+Spirit of Laws+Gene Map",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kani_Jade%2BSpirit_of_Laws%2BGene_Map",
+  "touched": "2025-08-11T11:06:03Z",
+  "length": 192,
+  "lastrevid": 38885,
+  "revision": {
+    "revid": 38885,
+    "parentid": 18530,
+    "timestamp": "2025-08-11T11:06:03Z",
+    "sha1": "f458c979b2598262b65521fa6e9ea03a6025014d",
+    "size": 192
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "130",
+        "relics": "Kani Jade,Spirit of Laws,Gene Map",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 20 Purple Orbs drawn, Snail DEF +14;Purple Orbs Drawn: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kani_Jade_Spirit_of_Laws_Gene_Map.wiki",
+  "markdown_path": "markdown/Kani_Jade_Spirit_of_Laws_Gene_Map.md"
+}

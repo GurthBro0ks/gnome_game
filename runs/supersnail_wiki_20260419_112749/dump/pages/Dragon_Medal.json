@@ -1,0 +1,47 @@
+{
+  "pageid": 1467,
+  "ns": 0,
+  "title": "Dragon Medal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dragon_Medal",
+  "touched": "2025-08-11T11:11:44Z",
+  "length": 926,
+  "lastrevid": 39130,
+  "revision": {
+    "revid": 39130,
+    "parentid": 22823,
+    "timestamp": "2025-08-11T11:11:44Z",
+    "sha1": "542c196101aa1880463813f004a352caa0bc2928",
+    "size": 926
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dragon Medal",
+        "class_id": "20030",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This is a medal inherited from a noble family that has existed for thousands of years. Even though the descendants have left their homeland, their pride never wavers. They built a mighty empire by forming an alliance with dragons. Only those who wear this medal will be recognized by the dragons!",
+        "fame": "18",
+        "art": "18",
+        "fth": "29",
+        "civ": "10",
+        "tech": "15",
+        "ss1": "Activates the Red Dragon Egg<br>Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +2",
+        "ss2": "Activates the Red Dragon Egg<br>Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +4",
+        "ss3": "Activates the Red Dragon Egg<br>Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +6",
+        "ss4": "Activates the Red Dragon Egg<br>Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +6",
+        "ss7": "Activates the Red Dragon Egg<br>Per 10 Dragon Minions in battle:<br>> Troop HARD Stats +6<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dragon_Medal.wiki",
+  "markdown_path": "markdown/Dragon_Medal.md"
+}

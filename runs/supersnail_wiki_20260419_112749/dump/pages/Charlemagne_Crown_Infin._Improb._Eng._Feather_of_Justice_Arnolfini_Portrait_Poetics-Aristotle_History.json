@@ -1,0 +1,33 @@
+{
+  "pageid": 9770,
+  "ns": 0,
+  "title": "Charlemagne Crown+Infin. Improb. Eng.+Feather of Justice+Arnolfini Portrait+Poetics-Aristotle+History",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Charlemagne_Crown%2BInfin._Improb._Eng.%2BFeather_of_Justice%2BArnolfini_Portrait%2BPoetics-Aristotle%2BHistory",
+  "touched": "2025-07-02T09:49:28Z",
+  "length": 263,
+  "lastrevid": 37027,
+  "revision": {
+    "revid": 37027,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:41:56Z",
+    "sha1": "b47473fae8fe805d703a197e7b6219f9d399b362",
+    "size": 263
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "874",
+        "relics": "Charlemagne Crown,Infin. Improb. Eng.,Feather of Justice,Arnolfini Portrait,Poetics-Aristotle,History",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Per 5 CIV Relics awakened, Snail ATK +36;CIV Relics Awakened: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Charlemagne_Crown_Infin._Improb._Eng._Feather_of_Justice_Arnolfini_Portrait_Poetics-Aristotle_History.wiki",
+  "markdown_path": "markdown/Charlemagne_Crown_Infin._Improb._Eng._Feather_of_Justice_Arnolfini_Portrait_Poetics-Aristotle_History.md"
+}

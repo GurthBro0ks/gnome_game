@@ -1,0 +1,33 @@
+{
+  "pageid": 7707,
+  "ns": 0,
+  "title": "Cthaat Aquadingen+Journey to Earth Core+Apollo Lunar Module",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cthaat_Aquadingen%2BJourney_to_Earth_Core%2BApollo_Lunar_Module",
+  "touched": "2025-08-11T11:10:47Z",
+  "length": 221,
+  "lastrevid": 38096,
+  "revision": {
+    "revid": 38096,
+    "parentid": 33793,
+    "timestamp": "2025-08-11T10:47:56Z",
+    "sha1": "157f5578757388974ef5011fb72df0ded6dfe680",
+    "size": 221
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "578",
+        "relics": "Cthaat Aquadingen,Journey to Earth Core,Apollo Lunar Module",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 5 Epic Protodex Stars, Snail ATK +16;Epic Protodex Stars: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cthaat_Aquadingen_Journey_to_Earth_Core_Apollo_Lunar_Module.wiki",
+  "markdown_path": "markdown/Cthaat_Aquadingen_Journey_to_Earth_Core_Apollo_Lunar_Module.md"
+}

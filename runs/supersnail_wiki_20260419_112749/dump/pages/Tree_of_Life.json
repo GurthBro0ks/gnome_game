@@ -1,0 +1,63 @@
+{
+  "pageid": 738,
+  "ns": 0,
+  "title": "Tree of Life",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tree_of_Life",
+  "touched": "2024-09-06T09:57:42Z",
+  "length": 1984,
+  "lastrevid": 26078,
+  "revision": {
+    "revid": 26078,
+    "parentid": 24596,
+    "timestamp": "2024-05-01T08:25:40Z",
+    "sha1": "67d99feef022e28c328fc2af911b788ba3dce604",
+    "size": 1984
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by HP Fungi",
+    "Enhanced by Purple Relics",
+    "FTH Boost",
+    "FTH Relics",
+    "HP Boost",
+    "HP-Fungi Boost",
+    "Jaden Embryo Boost",
+    "Koryeo Exploration Boost",
+    "Koryeo Museum Boost",
+    "Mecha Cell Drop Boost",
+    "Minion ATK Boost",
+    "Purple FTH Relics",
+    "Purple Relics",
+    "Relic Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Tree of Life",
+        "rank": "AAA",
+        "affct": "FTH",
+        "birthday": "08-15",
+        "source": "Fragment Crafting (1.5%), Fungus chest (1.5%), Home Value Pack II ($4.99), Lottery (0.14%), Relic Forge (80 Relic RF), Wishing (0.03%)",
+        "description": "On Aug 15, 20,000 BC, the Tree of Life withered and closed the pathway to heaven.\n\nThe Tree of Life was planted in the center of the Garden of Eden. The path to the divine realm was closed after it withered. This symbol of the universe consists of 10 circles and 22 lines. A human who meditates under the tree could reach the Crown Realm and enter the depths of the universe. The 10 circles on the tree housed 10 angels who are responsible for guiding the different spiritual practices of mankind. \n\n …",
+        "fame": "33",
+        "art": "50",
+        "fth": "72",
+        "civ": "40",
+        "tech": "48",
+        "ss1": "Snail HP +300<br>Per 10 HP-Fungi eaten, Snail ATK +3<br>HP-Fungi Eaten: 500/500",
+        "ss2": "Snail HP +400<br>Per 10 HP-Fungi eaten, Snail ATK +4<br>HP-Fungi Eaten: 500/500",
+        "ss3": "Snail HP +500<br>Per 10 HP-Fungi eaten, Snail ATK +5<br>HP-Fungi eaten:500/500",
+        "ss4": "Snail HP +700<br>Per 10 HP-Fungi eaten, Snail ATK +7<br>HP-Fungi Eaten: 500/500",
+        "ss5": "Snail HP +900<br>Per 10 HP-Fungi eaten, Snail ATK +9<br>HP-Fungi Eaten: 500/500",
+        "ss7": "Snail HP +900<br>Per 10 HP-Fungi eaten, Snail Atk +9<br>HP-Fungi eaten: 500/500<br>Snail HP +700 (Awakened)",
+        "skill1": "[[File:Koryeo skill II.png|50px]] Place In Koryeon Museum: This Relic's FTH +10",
+        "skill2": "[[File:Koryeo skill II.png|50px]] Place In Koryeon Museum: In Koryeo, Mecha Cells gained +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tree_of_Life.wiki",
+  "markdown_path": "markdown/Tree_of_Life.md"
+}

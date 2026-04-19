@@ -1,0 +1,52 @@
+{
+  "pageid": 8587,
+  "ns": 0,
+  "title": "Exquisite Pipa",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Exquisite_Pipa",
+  "touched": "2025-06-20T00:16:33Z",
+  "length": 2174,
+  "lastrevid": 36111,
+  "revision": {
+    "revid": 36111,
+    "parentid": 34536,
+    "timestamp": "2025-06-20T00:16:33Z",
+    "sha1": "7441a9d45d3ff4485fc62e962bfebc5ba630176c",
+    "size": 2174
+  },
+  "categories": [
+    "CIV Relics",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Exquisite Pipa",
+        "class_id": "22577",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "08-22",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Aug 22, 734 AD, Emperor Shomu received this Exquisite Pipa as a tribute from Japanese envoys returning from Tang China.<br>This pipa was the imperial property of Emperor Shomu and was greatly loved by him. It is 32 inches long and about nine inches wide at the belly, made entirely of rosewood, with bird, butterfly, flower, and cloud patterns and auspicious seashell patterns. Between the flower and leaf hearts, there are red and blue powder colors, gold-lined edges, and decorated with precious …",
+        "fame": "48",
+        "art": "42",
+        "fth": "50",
+        "civ": "72",
+        "tech": "31",
+        "ss1": "Per 30 T7+ Minions in battle:<br>> Troop ATK +12<br>Per Dung Beetles Calculation LVL, Snail ATK +3<br>Dung Beetles Calculation: 50/50",
+        "ss2": "Per 30 T7+ Minions in battle:<br>> Troop ATK +16<br>Per Dung Beetles Calculation LVL, Snail ATK +4<br>Dung Beetles Calculation: 50/50",
+        "ss3": "Per 30 T7+ Minions in battle:<br>> Troop ATK +20<br>Per Dung Beetles Calculation LVL, Snail ATK +5<br>Dung Beetles Calculation: 50/50",
+        "ss4": "Per 30 T7+ Minions in battle:<br>> Troop ATK +28<br>Per Dung Beetles Calculation LVL, Snail ATK +7<br>Dung Beetles Calculation: 50/50",
+        "ss5": "Per 30 T7+ Minions in battle:<br>> Troop ATK +36<br>Per Dung Beetles Calculation LVL, Snail ATK +9<br>Dung Beetles Calculation: 50/50",
+        "ss7": "Per 30 T7+ Minions in battle:<br>> Troop ATK +36<br>Per Dung Beetles Calculation LVL, Snail ATK +9<br>Dung Beetles Calculation: 50/50<br>Per 30 T7+ Minions in battle:<br>> Troop ATK +28 (Awakened)",
+        "skill1": "[[File:Goldfish skill II.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion HP +4.5%",
+        "skill2": "[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's CIV +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Exquisite_Pipa.wiki",
+  "markdown_path": "markdown/Exquisite_Pipa.md"
+}

@@ -1,0 +1,67 @@
+{
+  "pageid": 906,
+  "ns": 0,
+  "title": "Relativity Scripts",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Relativity_Scripts",
+  "touched": "2024-11-04T01:11:03Z",
+  "length": 2606,
+  "lastrevid": 30105,
+  "revision": {
+    "revid": 30105,
+    "parentid": 28721,
+    "timestamp": "2024-10-15T15:45:22Z",
+    "sha1": "3db0912f465a1718d066dcbeafb48f6271fb7b49",
+    "size": 2606
+  },
+  "categories": [
+    "ATK Boost",
+    "ATK-Fungi Boost",
+    "Enhanced by ATK Fungi",
+    "Enhanced by Power",
+    "Exploration Reagent Drop Boost",
+    "Frost Drake Boost",
+    "Indigent Nobleman Relics",
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Power Boost",
+    "RUSH Boost",
+    "Relics",
+    "Rewards Relic",
+    "TECH Relics",
+    "Time Chest Output",
+    "Time Machine Output Boost",
+    "Time Machine Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Relativity Scripts",
+        "rank": "SSS",
+        "affct": "TECH",
+        "birthday": "10-13",
+        "source": "* Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Time Chest (0.01%), Wish Box, Wishing (0.07%)\n* [[Indigent Nobleman]] (810k {{RewardIconWithText|B-Tad}})",
+        "description": "On Oct 13, 1916 AD, Einstein published his manuscripts on the Theory of Relativity. Previously, due to Newton's Laws, there was an issue in the theory of special relativity. So Einstein proposed the theory of general relativity. The most famous aspect of special relativity is the mass-energy equation, which states that mass increases with energy. It also explains the enormous amount of energy released by nuclear reactions, which, however, is not what lead to the birth of the atom bomb. The gravi …",
+        "fame": "54",
+        "art": "71",
+        "fth": "67",
+        "civ": "62",
+        "tech": "108",
+        "ss1": "Snail RUSH +30<br>In explorations, 2x Purple Reagent Drops +1.2%<br>In explorations, 2x Orange Reagent Drops +1.2%",
+        "ss2": "Snail RUSH +40<br>In explorations, 2x Purple Reagent Drops +1.6%<br>In explorations, 2x Orange Reagent Drops +1.6%",
+        "ss3": "Snail RUSH +50<br>In explorations, 2x Purple Reagent Drops +2%<br>In explorations, 2x Orange Reagent Drops +2%",
+        "ss4": "Snail RUSH +70<br>In explorations, 2x Purple Reagent Drops +2.8%<br>In explorations, 2x Orange Reagent Drops +2.8%",
+        "ss5": "Snail RUSH +90<br>In explorations, 2x Purple Reagent Drops +3.6%<br>In explorations, 2x Orange Reagent Drops +3.6%",
+        "ss6": "Snail RUSH +120<br>In explorations, 2x Purple Reagent Drops +4.8%<br>In explorations, 2x Orange Reagent Drops +4.8%",
+        "ss7": "Snail RUSH +120<br>In explorations, 2x Purple Reagent Drops +4.8%<br>In explorations, 2x Orange Reagent Drops +4.8%<br>In explorations, 2x Purple Reagent Drops +4% (Awakened)",
+        "skill1": "[[File:Timemachine skill III.png|50x50px]]Place in Time Machine: Travel Speedup Output +30%",
+        "skill2": "[[File:Timemachine skill III.png|50x50px]]Place in Time Machine: Time Machine Max Cap +30%",
+        "skill3": "[[File:Timemachine skill III.png|50x50px]]Place in Time Machine: Generate Time Chests by +30%",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Relativity_Scripts.wiki",
+  "markdown_path": "markdown/Relativity_Scripts.md"
+}

@@ -1,0 +1,54 @@
+{
+  "pageid": 1723,
+  "ns": 0,
+  "title": "Opera Phantom",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Opera_Phantom",
+  "touched": "2024-09-06T09:56:09Z",
+  "length": 1229,
+  "lastrevid": 26305,
+  "revision": {
+    "revid": 26305,
+    "parentid": 17234,
+    "timestamp": "2024-05-07T17:31:08Z",
+    "sha1": "f7142d4bbb47a958b056644a2f6fbea3aaf39894",
+    "size": 1229
+  },
+  "categories": [
+    "ART Relics",
+    "ATK Boost",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Britland Exploration Boost",
+    "Britland Museum Boost",
+    "Demon Gene Speedup Boost",
+    "Power Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Opera Phantom",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "11-05",
+        "source": "Lottery Machine (0.03%), Wishing (1.2%)",
+        "description": "On Nov 5, 1911, Leroux published this mysterious and intriguing novel. \n\nThis dance performance tells the story of an architect with singing talent, who, however, could only perform with a mask due to his ugly appearance, which led to his twisted personality and the way he saw people as enemies. After he fell in love with a dancer named Christine, he kidnapped her. The incident resulted in an irreparable tragedy. This was inspired by the story of \"Beauty and the Beast,\" but the author recreated  …",
+        "fame": "32",
+        "art": "46",
+        "fth": "24",
+        "civ": "26",
+        "tech": "26",
+        "ss1": "Free Gene Speedup (Demon) +6m",
+        "ss2": "Free Gene Speedup (Demon) +12m",
+        "ss3": "Free Gene Speedup (Demon) +18m",
+        "ss4": "Free Gene Speedup (Demon) +30m",
+        "ss7": "Free Gene Speedup (Demon) +30m<br>Free Gene Speedup (Demon) +30m (Awakened)",
+        "skill1": "[[File:Britland skill I.png|50px]] Place in Britland Museum: In Britland, Snail ATK +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Opera_Phantom.wiki",
+  "markdown_path": "markdown/Opera_Phantom.md"
+}

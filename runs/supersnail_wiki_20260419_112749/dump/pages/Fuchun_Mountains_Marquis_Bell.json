@@ -1,0 +1,36 @@
+{
+  "pageid": 3424,
+  "ns": 0,
+  "title": "Fuchun Mountains+Marquis Bell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fuchun_Mountains%2BMarquis_Bell",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 276,
+  "lastrevid": 18551,
+  "revision": {
+    "revid": 18551,
+    "parentid": 18326,
+    "timestamp": "2023-11-14T01:10:24Z",
+    "sha1": "5a9f0960c7abe7b04e387c525d26bfa41c159643",
+    "size": 276
+  },
+  "categories": [
+    "Enhanced by Lottery Draws",
+    "HP Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Fuchun Mountains,Marquis Bell",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 20 Purple Beads drawn, Snail HP +120<br>Purple Beads Drawn: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fuchun_Mountains_Marquis_Bell.wiki",
+  "markdown_path": "markdown/Fuchun_Mountains_Marquis_Bell.md"
+}

@@ -1,0 +1,34 @@
+{
+  "pageid": 3261,
+  "ns": 0,
+  "title": "Commercial Code+Code of Law",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Commercial_Code%2BCode_of_Law",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 153,
+  "lastrevid": 11918,
+  "revision": {
+    "revid": 11918,
+    "parentid": 0,
+    "timestamp": "2023-09-12T15:11:05Z",
+    "sha1": "fa7481d1e699ce92a5f18cfbfaf5709f332d8284",
+    "size": 153
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Commercial Code,Code of Law",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HP +500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Commercial_Code_Code_of_Law.wiki",
+  "markdown_path": "markdown/Commercial_Code_Code_of_Law.md"
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 6225,
+  "ns": 0,
+  "title": "Mouth Of Truth+Mysterious Relic+Mysterious Relic+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mouth_Of_Truth%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 273,
+  "lastrevid": 24940,
+  "revision": {
+    "revid": 24940,
+    "parentid": 0,
+    "timestamp": "2024-04-07T00:01:01Z",
+    "sha1": "899a4acb13619d9f3b20ce576d487a5991349813",
+    "size": 273
+  },
+  "categories": [
+    "Home",
+    "Spore Color Change"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Mouth Of Truth,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic",
+        "rank": "purple",
+        "amount": "5",
+        "category": "home",
+        "description": "Catalyzed Green Spores turn to Blue by +0.9%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mouth_Of_Truth_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Mouth_Of_Truth_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic.md"
+}

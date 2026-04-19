@@ -1,0 +1,33 @@
+{
+  "pageid": 4438,
+  "ns": 0,
+  "title": "Montgolfier Balloon+The Fall of Phaethon+Lavoisier's Bell Jar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Montgolfier_Balloon%2BThe_Fall_of_Phaethon%2BLavoisier%27s_Bell_Jar",
+  "touched": "2025-06-19T23:54:10Z",
+  "length": 208,
+  "lastrevid": 35666,
+  "revision": {
+    "revid": 35666,
+    "parentid": 16229,
+    "timestamp": "2025-06-19T23:54:10Z",
+    "sha1": "3dd017f70efd93046589ac47c01ef6d252d12f7e",
+    "size": 208
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "356",
+        "relics": "Montgolfier Balloon,The Fall of Phaethon,Lavoisier's Bell Jar",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "When converting cards in Species Wars, B-tads gained +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Montgolfier_Balloon_The_Fall_of_Phaethon_Lavoisier_s_Bell_Jar.wiki",
+  "markdown_path": "markdown/Montgolfier_Balloon_The_Fall_of_Phaethon_Lavoisier_s_Bell_Jar.md"
+}

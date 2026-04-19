@@ -1,0 +1,34 @@
+{
+  "pageid": 3632,
+  "ns": 0,
+  "title": "Augustus' Medal+Plantagenet Badge",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Augustus%27_Medal%2BPlantagenet_Badge",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 186,
+  "lastrevid": 13289,
+  "revision": {
+    "revid": 13289,
+    "parentid": 13288,
+    "timestamp": "2023-09-24T18:15:53Z",
+    "sha1": "67ca4896dd171d230f0e922d34d9ac6737250ed3",
+    "size": 186
+  },
+  "categories": [
+    "DNA"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Augustus' Medal,Plantagenet Badge",
+        "rank": "purple",
+        "amount": "2",
+        "category": "dna",
+        "description": "Demon Gene Research Cells consumed -3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Augustus_Medal_Plantagenet_Badge.wiki",
+  "markdown_path": "markdown/Augustus_Medal_Plantagenet_Badge.md"
+}

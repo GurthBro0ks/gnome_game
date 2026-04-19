@@ -1,0 +1,60 @@
+{
+  "pageid": 1157,
+  "ns": 0,
+  "title": "Tesla Coil",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tesla_Coil",
+  "touched": "2024-09-06T09:58:17Z",
+  "length": 1855,
+  "lastrevid": 26247,
+  "revision": {
+    "revid": 26247,
+    "parentid": 22431,
+    "timestamp": "2024-05-07T14:31:27Z",
+    "sha1": "d23aa189823b599f37fe92f738c37109137a87f4",
+    "size": 1855
+  },
+  "categories": [
+    "Angel Gene Speedup Boost",
+    "Exploration B-tad Drop Boost",
+    "Keyboard Warrior Boost",
+    "Lottery Bead Color Change",
+    "Mecha Gene Cost Reduction",
+    "Mecha Minion Cloning Speed Boost",
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "TECH Boost",
+    "TECH Relics",
+    "Yamato Exploration Boost",
+    "Yamato Museum Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Tesla Coil",
+        "rank": "AAA",
+        "affct": "TECH",
+        "birthday": "01-31",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Tool Chest (1.5%), Wishing (0.14%)",
+        "description": "On Jan 31, 1891, Tesla invented a resonant transformer. \n\nThe Tesla Coil consists of 2 sets of coupled resonance circuits. He conducted a large number of coil configuration tests before finding the electric power that has ultra-high voltage, low current, and high frequency AC power. This technology can be widely used in electrical lighting, fluorescence spectroscopy, high-frequency AC current, and also in radio transmission.\n\n[Types of electric coils]\n\n1. Spark gap coil<br>2. Solid-state coil<br …",
+        "fame": "42",
+        "art": "45",
+        "fth": "39",
+        "civ": "44",
+        "tech": "73",
+        "ss1": "Mecha Minion Cloning SPD +3%<br>Mecha Gene Research B-tad Cost -1.8%",
+        "ss2": "Mecha Minion Cloning SPD +4%<br>Mecha Gene Research B-tad Cost -2.4%",
+        "ss3": "Mecha Minion Cloning SPD +5%<br>Mecha Gene Research B-tad Cost -3%",
+        "ss4": "Mecha Minion Cloning SPD +7%<br>Mecha Gene Research B-tad Cost -4.2%",
+        "ss5": "Mecha Minion Cloning SPD +9%<br>Mecha Gene Research B-tad Cost -5.4%",
+        "ss7": "Mecha Minion Cloning SPD +9%<br>Mecha Gene Research B-tad Cost -5.4%<br>Mecha Gene Research B-tad Cost -4.2% (Awakened)",
+        "skill1": "[[File:Yamato skill II.png|50px]] Place in Yamato Museum: In Yamato, TECH Checks -10",
+        "skill2": "[[File:Yamato skill II.png|50px]] Place in Yamato Museum: In Yamato, B-tads gained -7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tesla_Coil.wiki",
+  "markdown_path": "markdown/Tesla_Coil.md"
+}

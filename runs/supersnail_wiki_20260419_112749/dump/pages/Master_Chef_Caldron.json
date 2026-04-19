@@ -1,0 +1,47 @@
+{
+  "pageid": 10662,
+  "ns": 0,
+  "title": "Master Chef Caldron",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Master_Chef_Caldron",
+  "touched": "2025-08-11T10:57:51Z",
+  "length": 700,
+  "lastrevid": 38528,
+  "revision": {
+    "revid": 38528,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:57:51Z",
+    "sha1": "94aa733c671507077b3731b77b5cfc2a332381c9",
+    "size": 700
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Master Chef Caldron",
+        "class_id": "20290",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "Master Chef was extremely picky about ingredients. He made a bronze caldron specifically to season all ingredients into his favorite flavors. However, after he disappeared, the pot also lost its magical abilities.",
+        "fame": "17",
+        "art": "12",
+        "fth": "32",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Snail RUSH +20<br>Unicorn Express Supply Order Reset SPD +1",
+        "ss2": "Snail RUSH +40<br>Unicorn Express Supply Order Reset SPD +1",
+        "ss3": "Snail RUSH +60<br>Unicorn Express Supply Order Reset SPD +1",
+        "ss4": "Snail RUSH +60<br>Unicorn Express Supply Order Reset SPD +1",
+        "ss7": "Snail RUSH +60<br>Unicorn Express Supply Order Reset SPD +1<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Master_Chef_Caldron.wiki",
+  "markdown_path": "markdown/Master_Chef_Caldron.md"
+}

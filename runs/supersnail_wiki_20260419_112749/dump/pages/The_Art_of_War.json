@@ -1,0 +1,63 @@
+{
+  "pageid": 2096,
+  "ns": 0,
+  "title": "The Art of War",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Art_of_War",
+  "touched": "2024-11-04T01:10:54Z",
+  "length": 2447,
+  "lastrevid": 30146,
+  "revision": {
+    "revid": 30146,
+    "parentid": 25487,
+    "timestamp": "2024-10-15T15:47:22Z",
+    "sha1": "c4d1583c40fe98500e7ac1352872d97480ae822e",
+    "size": 2447
+  },
+  "categories": [
+    "ATK Boost",
+    "CIV Relics",
+    "Cathay Exploration Boost",
+    "Cathay Museum Boost",
+    "DEF Boost",
+    "Gear Boost",
+    "Lubu Boost",
+    "Medal Boost",
+    "Minion HP Boost",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Art of War",
+        "rank": "SSS",
+        "affct": "CIV",
+        "birthday": "01-14",
+        "source": "Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.08%)",
+        "description": "On Jan 14, 512 BC, famous military strategist Sun Wu wrote his experience in The Art of War.\n\nWhen Sun Wu visited He Lu, the King of Wu, he impressed the king by successfully training court ladies. His Art of War is a book of military theory and practice highly revered by later generations for its philosophical depth and sound logic. Having been translated into numerous languages, this military classic enjoys worldwide recognition.\n\n[Quote]\n\nThe greatest victory is that which requires no battle.",
+        "fame": "53",
+        "art": "64",
+        "fth": "63",
+        "civ": "109",
+        "tech": "73",
+        "ss1": "All Cathay General Stats +3%<br>Per 5 Cathay INTEL LVLs, Snail ATK +6<br>Per 5 Cathay INTEL LVLs, Snail RUSH +6<br>LVL of Cathay INTEL: 100/100",
+        "ss2": "All Cathay General Stats +4%<br>Per 5 Cathay INTEL LVLs, Snail ATK +8<br>Per 5 Cathay INTEL LVLs, Snail RUSH +8<br>LVL of Cathay INTEL: 100/100",
+        "ss3": "All Cathay General Stats +5%<br>Per 5 Cathay INTEL LVLs, Snail ATK +10<br>Per 5 Cathay INTEL LVLs, Snail RUSH +10<br>LVL of Cathay INTEL: 100/100",
+        "ss4": "All Cathay General Stats +7%<br>Per 5 Cathay INTEL LVLs, Snail ATK +14<br>Per 5 Cathay INTEL LVLs, Snail RUSH +14<br>LVL of Cathay INTEL: 100/100",
+        "ss5": "All Cathay General Stats +9%<br>Per 5 Cathay INTEL LVLs, Snail ATK +18<br>Per 5 Cathay INTEL LVLs, Snail RUSH +18<br>LVL of Cathay INTEL: 100/100",
+        "ss6": "All Cathay General Stats +12%<br>Per 5 Cathay INTEL LVLs, Snail ATK +24<br>Per 5 Cathay INTEL LVLs, Snail RUSH +24<br>LVL of Cathay INTEL: 100/100",
+        "ss7": "All Cathay General Stats +12%<br>Per 5 Cathay INTEL LVLs, Snail ATK +24<br>Per 5 Cathay INTEL LVLs, Snail RUSH +24<br>LVL of Cathay INTEL: 100/100<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Cathay skill III.png|frameless|50x50px]]Place in Cathay Museum: In Cathay, Snail ATK +600",
+        "skill2": "[[File:Cathay skill III.png|frameless|50x50px]]Place in Cathay Museum: Medal Output +30",
+        "skill3": "[[File:Cathay skill III.png|frameless|50x50px]]Place in Cathay Museum: Medal Cost for Grandmaster Scrolls -300",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Art_of_War.wiki",
+  "markdown_path": "markdown/The_Art_of_War.md"
+}

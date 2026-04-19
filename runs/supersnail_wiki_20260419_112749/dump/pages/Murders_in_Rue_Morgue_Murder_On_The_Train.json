@@ -1,0 +1,33 @@
+{
+  "pageid": 4442,
+  "ns": 0,
+  "title": "Murders in Rue Morgue+Murder On The Train",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Murders_in_Rue_Morgue%2BMurder_On_The_Train",
+  "touched": "2025-06-20T00:09:57Z",
+  "length": 158,
+  "lastrevid": 35931,
+  "revision": {
+    "revid": 35931,
+    "parentid": 19510,
+    "timestamp": "2025-06-20T00:09:57Z",
+    "sha1": "8400913963d2f06ece96a3046581c058ce6c2c0c",
+    "size": 158
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "308",
+        "relics": "Murders in Rue Morgue,Murder On The Train",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Demon God Cabin Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Murders_in_Rue_Morgue_Murder_On_The_Train.wiki",
+  "markdown_path": "markdown/Murders_in_Rue_Morgue_Murder_On_The_Train.md"
+}

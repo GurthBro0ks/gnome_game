@@ -1,0 +1,59 @@
+{
+  "pageid": 4901,
+  "ns": 0,
+  "title": "Benben",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Benben",
+  "touched": "2025-09-30T22:06:24Z",
+  "length": 1750,
+  "lastrevid": 40400,
+  "revision": {
+    "revid": 40400,
+    "parentid": 40338,
+    "timestamp": "2025-09-30T22:06:24Z",
+    "sha1": "533bc610b3df5a2e4b7968a7730b2a02c233d4df",
+    "size": 1750
+  },
+  "categories": [
+    "Angel Minion HARD Boost",
+    "DEF Boost",
+    "Enhanced by Angel Form Tier",
+    "FTH Relics",
+    "Goldfish Biozilla Skill",
+    "Minion DMG Towards Heroes Boost",
+    "Minion Element DMG Boost",
+    "Purple FTH Relics",
+    "Purple Relics",
+    "Relics",
+    "Wormhole Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Benben",
+        "class_id": "22159",
+        "rank": "AAA",
+        "affct": "FTH",
+        "birthday": "05-24",
+        "source": "Lottery Machine No.2 (0.06%), Wishing (0.02%)",
+        "description": "On May 24, 1865 BC, the Benben stone was placed in the temple of the Sun God to be worshiped by mankind.<br>The Benben Stone is a sacred stone enshrined in the Temple of the Sun God, Atun, symbolizing the place where the dawn's first rays fall, as well as the city rose from the primordial waters. Additionally, the conical boulders at the spire of later-built Pyramids are also called Benben Stones, and are often engraved with patterns and inscriptions.",
+        "fame": "38",
+        "art": "51",
+        "fth": "73",
+        "civ": "29",
+        "tech": "52",
+        "ss1": "Angel Minion HARD Stats +0.9%<br>Per Angel Form Tier, Snail DEF +15<br>Angel Form Tiers: 9/9",
+        "ss2": "Angel Minion HARD Stats +1.2%<br>Per Angel Form Tier, Snail DEF +20<br>Angel Form Tiers: 9/9",
+        "ss3": "Angel Minion HARD Stats +1.5%<br>Per Angel Form Tier, Snail DEF +25<br>Angel Form Tiers: 9/9",
+        "ss4": "Angel Minion HARD Stats +2.1%<br>Per Angel Form Tier, Snail DEF +35<br>Angel Form Tiers: 9/9",
+        "ss5": "Angel Minion HARD Stats +2.7%<br>Per Angel Form Tier, Snail DEF +45<br>Angel Form Tiers: 9/9",
+        "ss7": "Angel Minion HARD Stats +2.7%<br>Per Angel Form Tier, Snail DEF +45<br>Angel Form Tiers: 9/9<br>Angel Minion HARD Stats +2.1% (Awakened)",
+        "skill1": "[[File:Goldfish skill II.png|50px]]Place in Goldfish Biozilla: In Species War, Troop DMG toward heroes +3%",
+        "skill2": "[[File:Goldfish skill II.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Earth DMG +30"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Benben.wiki",
+  "markdown_path": "markdown/Benben.md"
+}

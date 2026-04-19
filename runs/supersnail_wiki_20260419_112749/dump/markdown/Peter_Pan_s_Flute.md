@@ -1,0 +1,23 @@
+)
+|description=On Feb 6, 1822, a magical story involving Peter Pan and the instrument made by the elves began.
+
+The elves on Neverland found an abandoned boy. To make him stop crying, the elves made a beautiful flute out of bamboo and named him Peter Pan. Since then, whenever a child is abandoned, Peter Pan will play the flute and guide the child into Neverland.
+|fame=46
+|art=28
+|fth=33
+|civ=27
+|tech=20
+|ss1=Free Gene Speedup (Angel) +6m
+|ss2=Free Gene Speedup (Angel) +12m
+|ss3=Free Gene Speedup (Angel) +18m
+|ss4=Free Gene Speedup (Angel) +30m
+|ss7=Free Gene Speedup (Angel) +30m<br>Free Gene Speedup (Angel) +30m (Awakened)
+|skill1= Place in Koryeon Museum: In Koryeo, Snail RUSH +20
+}}
+
+Category:Angel Gene Speedup Boost
+Category:Koryeo Museum Boost
+Category:Koryeo Exploration Boost
+Category:RUSH Boost
+Category:Ancient Fossil Boost
+Category:Indigent Nobleman Relics

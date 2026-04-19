@@ -1,0 +1,29 @@
+{
+  "pageid": 3010,
+  "ns": 0,
+  "title": "Decaying Shell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Decaying_Shell",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 575,
+  "lastrevid": 12504,
+  "revision": {
+    "revid": 12504,
+    "parentid": 12476,
+    "timestamp": "2023-09-15T20:03:59Z",
+    "sha1": "68afb4bed6cfb4177278ee4b733a1152c9a4150b",
+    "size": 575
+  },
+  "categories": [
+    "DEF Boost",
+    "FAME Shells",
+    "Fire DMG Boost",
+    "Murika",
+    "RUSH Boost",
+    "Shells",
+    "Zombie Form"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Decaying_Shell.wiki",
+  "markdown_path": "markdown/Decaying_Shell.md"
+}

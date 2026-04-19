@@ -1,0 +1,47 @@
+{
+  "pageid": 10658,
+  "ns": 0,
+  "title": "Bodhisattva's Severed Head",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bodhisattva%27s_Severed_Head",
+  "touched": "2025-08-11T10:57:44Z",
+  "length": 933,
+  "lastrevid": 38523,
+  "revision": {
+    "revid": 38523,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:57:44Z",
+    "sha1": "28deb57a7e431744feac5a6ea1de44fb8848917b",
+    "size": 933
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bodhisattva's Severed Head",
+        "class_id": "20759",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "The Yellow Wind Sage stole the head of the Bodhisattva's Statue after being corrupted by Demon Gods. Now it remains missing since Earth's Will imprisoned the traitor.",
+        "fame": "18",
+        "art": "17",
+        "fth": "29",
+        "civ": "9",
+        "tech": "17",
+        "ss1": "Each round, Snail HP +50<br>For each Broken Shell shot down, Snail ATK+1<br>Broken Shells shot down:100/100 times",
+        "ss2": "Each round, Snail HP +100<br>For each Broken Shell shot down, Snail ATK+2<br>Broken Shells shot down:100/100 times",
+        "ss3": "Each round, Snail HP +150<br>For each Broken Shell shot down, Snail ATK+3<br>Broken Shells shot down:100/100 times",
+        "ss4": "Each round, Snail HP +150<br>For each Broken Shell shot down, Snail ATK+3<br>Broken Shells shot down:100/100 times",
+        "ss7": "Each round, Snail HP +150<br>For each Broken Shell shot down, Snail ATK+3<br>Broken Shells shot down:100/100 times<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bodhisattva_s_Severed_Head.wiki",
+  "markdown_path": "markdown/Bodhisattva_s_Severed_Head.md"
+}

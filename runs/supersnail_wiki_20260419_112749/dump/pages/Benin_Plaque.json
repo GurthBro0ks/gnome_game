@@ -1,0 +1,51 @@
+{
+  "pageid": 8519,
+  "ns": 0,
+  "title": "Benin Plaque",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Benin_Plaque",
+  "touched": "2025-06-20T00:14:59Z",
+  "length": 1322,
+  "lastrevid": 36048,
+  "revision": {
+    "revid": 36048,
+    "parentid": 34480,
+    "timestamp": "2025-06-20T00:14:59Z",
+    "sha1": "e168fcb7ae744cc31d70d186b0267d77906c5282",
+    "size": 1322
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Benin Plaque",
+        "class_id": "22483",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "09-18",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Sept 18, 1500 AD, the Benin Plaque was recorded by an unnamed court minister.<br>It is made of brass in present-day Nigeria. Each plaque is as large as a painting and depicts the war victory scenes and court ceremonies of Benin ruler Oba using deep relief carving. They are top-notch works of art, extraordinary metal sculptures, and witnesses to the history of European-African contact. From the peaceful trade of the first contact to the bloody massacre of the second contact, they still remind  …",
+        "fame": "37",
+        "art": "25",
+        "fth": "23",
+        "civ": "48",
+        "tech": "21",
+        "ss1": "Per 10,000 Fervor, Priest-Troop Assistance DMG +8<br>Fervor: 500000/500000",
+        "ss2": "Per 10,000 Fervor, Priest-Troop Assistance DMG +16<br>Fervor: 500000/500000",
+        "ss3": "Per 10,000 Fervor, Priest-Troop Assistance DMG +24<br>Fervor: 500000/500000",
+        "ss4": "Per 10,000 Fervor, Priest-Troop Assistance DMG +40<br>Fervor: 500000/500000",
+        "ss7": "Per 10,000 Fervor, Priest-Troop Assistance DMG +40<br>Fervor: 500000/500000<br>Protomon Troop assist DMG + 400 (Awakened)",
+        "skill1": "[[File:Wishingegg skill I.png|50px]]Place in Wishing Egg: This Relic's CIV +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Benin_Plaque.wiki",
+  "markdown_path": "markdown/Benin_Plaque.md"
+}

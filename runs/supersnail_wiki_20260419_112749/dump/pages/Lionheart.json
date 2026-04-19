@@ -1,0 +1,60 @@
+{
+  "pageid": 1714,
+  "ns": 0,
+  "title": "Lionheart",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lionheart",
+  "touched": "2024-09-06T09:56:24Z",
+  "length": 2138,
+  "lastrevid": 21744,
+  "revision": {
+    "revid": 21744,
+    "parentid": 18211,
+    "timestamp": "2024-01-12T02:42:12Z",
+    "sha1": "1c26b5559a94124429e30c8eb1068ee6cdc1d618",
+    "size": 2138
+  },
+  "categories": [
+    "ATK Boost",
+    "Britland Exploration Boost",
+    "Britland Museum Boost",
+    "Chika Boost",
+    "Enhanced by DNA Strength",
+    "Enhanced by Power",
+    "Exploration Card Drop Boost",
+    "Exploration Reagent Drop Boost",
+    "FTH Relics",
+    "Purple FTH Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Lionheart",
+        "rank": "AAA",
+        "affct": "FTH",
+        "birthday": "10-24",
+        "source": "Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)",
+        "description": "On Oct 24, AD 1190, Richard I acquired this item which was a symbol of kingship.\n\nLegend has it that Richard I once put his hand in a lion's mouth and pulled out the lion's heart. This is where the name came from. He was the second king of the House of Plantagenet and one of the greatest kings in British history. It was a time when the spirit of knighthood was promoted and Richard had many followers. Both the noble and commoner class wanted to serve him as his knights. It is impressive that his  …",
+        "fame": "38",
+        "art": "49",
+        "fth": "75",
+        "civ": "45",
+        "tech": "36",
+        "ss1": "Per 1K DNA Strength, Snail ATK +5<br>Per 1K DNA Strength, Snail RUSH +5<br>DNA Strength:18,000/18,000",
+        "ss2": "Per 1K DNA Strength, Snail ATK +5<br>Per 1K DNA Strength, Snail RUSH +5<br>DNA Strength:24,000/24,000",
+        "ss3": "Per 1K DNA Strength, Snail ATK +5<br>Per 1K DNA Strength, Snail RUSH +5<br>DNA Strength:30,000/30,000",
+        "ss4": "Per 1K DNA Strength, Snail ATK +5<br>Per 1K DNA Strength, Snail RUSH +5<br>DNA Strength:42,000/42,000",
+        "ss5": "Per 1K DNA Strength, Snail ATK +5<br>Per 1K DNA Strength, Snail RUSH +5<br>DNA Strength:54,000/54,000",
+        "ss7": "Per 1K DNA Strength, Snail ATK +5<br>Per 1K DNA Strength, Snail RUSH +5<br>DNA Strength:54,000/54,000<br>Snail Rush +70 (Awakened)",
+        "skill1": "[[File:Britland skill II.png|50px]] Place In Britland Museum: In Britland, 2x Blue Reagent Drops +7.5%",
+        "skill2": "[[File:Britland skill II.png|50px]] Place In Britland Museum: In Britland, 2x Blue Card Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lionheart.wiki",
+  "markdown_path": "markdown/Lionheart.md"
+}

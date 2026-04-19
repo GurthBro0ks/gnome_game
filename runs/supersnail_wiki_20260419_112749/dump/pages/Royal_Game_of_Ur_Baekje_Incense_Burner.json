@@ -1,0 +1,33 @@
+{
+  "pageid": 8502,
+  "ns": 0,
+  "title": "Royal Game of Ur+Baekje Incense Burner",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Royal_Game_of_Ur%2BBaekje_Incense_Burner",
+  "touched": "2025-06-20T00:13:42Z",
+  "length": 199,
+  "lastrevid": 35994,
+  "revision": {
+    "revid": 35994,
+    "parentid": 34386,
+    "timestamp": "2025-06-20T00:13:42Z",
+    "sha1": "1f6e27b06d130ae2bd4283b5b10b6c81e82110cb",
+    "size": 199
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "584",
+        "relics": "Royal Game of Ur,Baekje Incense Burner",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Epic Protomon fused, Snail DEF +10;Epic Protomon Fused: 200/200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Royal_Game_of_Ur_Baekje_Incense_Burner.wiki",
+  "markdown_path": "markdown/Royal_Game_of_Ur_Baekje_Incense_Burner.md"
+}

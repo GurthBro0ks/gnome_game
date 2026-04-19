@@ -1,0 +1,55 @@
+{
+  "pageid": 1734,
+  "ns": 0,
+  "title": "Great Wave",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Great_Wave",
+  "touched": "2024-09-06T09:58:12Z",
+  "length": 1224,
+  "lastrevid": 26294,
+  "revision": {
+    "revid": 26294,
+    "parentid": 16663,
+    "timestamp": "2024-05-07T17:12:32Z",
+    "sha1": "58ca358a6da0778c143d47035719ae26822b0251",
+    "size": 1224
+  },
+  "categories": [
+    "ART Boost",
+    "ART Relics",
+    "ATK Boost",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Gene Research Speedup Boost",
+    "Relics",
+    "Travel Speed Boost",
+    "Yamato Exploration Boost",
+    "Yamato Museum Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Great Wave",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "12-25",
+        "source": "Lottery Machine (0.07%), Wishing (3%), Yamato Treasure Maps (20%)",
+        "description": "On Dec 25, 1821, Katsushika Hokusai created the best ukiyo-e masterpiece.\n\nGreat Wave recreated the scene of three ships moving on the surging waves of the Kanagawa waters. It expressed the bravery of the boatmen fighting against nature. His art did not only adopt a bold and direct style and technique but also conveyed a strong contrast between dynamic and static movements, showing a variety of rich expressions. It's irregular and unbalanced aesthetics was regarded by critics as a unique interpr …",
+        "fame": "29",
+        "art": "48",
+        "fth": "27",
+        "civ": "21",
+        "tech": "29",
+        "ss1": "In Demon Form, Travel SPD +0.2%",
+        "ss2": "In Demon Form, Travel SPD +0.4%",
+        "ss3": "In Demon Form, Travel SPD +0.6%",
+        "ss4": "In Demon Form, Travel SPD +1%",
+        "ss7": "In Demon Form, Travel SPD +1%<br>In Demon Form, Travel SPD +1% (Awakened)",
+        "skill1": "[[File:Yamato skill I.png|50px]] Place in Yamato Museum: In Yamato, ART Checks -5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Great_Wave.wiki",
+  "markdown_path": "markdown/Great_Wave.md"
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 6547,
+  "ns": 0,
+  "title": "EPR Paradox+Hypercube+Othello+Eden Scepter+Xi Ping Stele Script+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/EPR_Paradox%2BHypercube%2BOthello%2BEden_Scepter%2BXi_Ping_Stele_Script%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:54Z",
+  "length": 249,
+  "lastrevid": 27048,
+  "revision": {
+    "revid": 27048,
+    "parentid": 27047,
+    "timestamp": "2024-05-19T22:07:22Z",
+    "sha1": "d16e5230b25d00c5104f70aa1fe4fc923175efee",
+    "size": 249
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "EPR Paradox,Hypercube,Othello,Eden Scepter,Xi Ping Stele Script,Mysterious Relic",
+        "rank": "orange",
+        "amount": "6",
+        "category": "minion",
+        "description": "Snail Leadership +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/EPR_Paradox_Hypercube_Othello_Eden_Scepter_Xi_Ping_Stele_Script_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/EPR_Paradox_Hypercube_Othello_Eden_Scepter_Xi_Ping_Stele_Script_Mysterious_Relic.md"
+}

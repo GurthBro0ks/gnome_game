@@ -1,0 +1,54 @@
+{
+  "pageid": 4236,
+  "ns": 0,
+  "title": "Modern Times",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Modern_Times",
+  "touched": "2025-08-11T11:17:50Z",
+  "length": 2487,
+  "lastrevid": 39395,
+  "revision": {
+    "revid": 39395,
+    "parentid": 32613,
+    "timestamp": "2025-08-11T11:17:50Z",
+    "sha1": "a54ed77d820078176fe865609c6e16c1ef568b1e",
+    "size": 2487
+  },
+  "categories": [
+    "FAME Relics",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Modern Times",
+        "class_id": "22235",
+        "rank": "SSS",
+        "affct": "FAME",
+        "birthday": "08-31",
+        "description": "On August 31, 1936, the filming of Modern Times was completed.<br>Modern Times was one of the later works of Charlie Chaplin. It was one of Chaplin's most iconic films, not to mention his last to feature his famous character, The Tramp, in a silent role. The film was set during the Great Depression, a period of economic downturn. It followed the lives of a factory worker who was institutionalized after a breakdown, as well as a young orphaned girl who was arrested for theft. Through their storie …",
+        "fame": "109",
+        "art": "62",
+        "fth": "46",
+        "civ": "70",
+        "tech": "75",
+        "ss1": "Snail Leadership +3<br>Per 60 Minions in battle:<br>> Troop ATK +9<br>Per 60 Minions in battle:<br>> Troop DEF +9",
+        "ss2": "Snail Leadership +4<br>Per 60 Minions in battle:<br>> Troop ATK +18<br>Per 60 Minions in battle:<br>> Troop DEF +18",
+        "ss3": "Snail Leadership +5<br>Per 60 Minions in battle:<br>> Troop ATK +27<br>Per 60 Minions in battle:<br>> Troop DEF +27",
+        "ss4": "Snail Leadership +7<br>Per 60 Minions in battle:<br>> Troop ATK +45<br>Per 60 Minions in battle:<br>> Troop DEF +45",
+        "ss5": "Snail Leadership +9<br>Per 60 Minions in battle:<br>> Troop ATK +63<br>Per 60 Minions in battle:<br>> Troop DEF +63",
+        "ss6": "Snail Leadership +12<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Per 60 Minions in battle:<br>> Troop DEF +90",
+        "ss7": "Snail Leadership +12<br>Per 60 Minions in battle:<br>> Troop ATK +90<br>Per 60 Minions in battle:<br>> Troop DEF +90<br>Snail Leadership +5 (Awakened)",
+        "skill1": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail FTH +600",
+        "skill2": "[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's FAME +15",
+        "skill3": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Reagent Drops +6%",
+        "mirage": "{{Mirage|name=Silent Classic|reward={{RewardIconWithLink|Tool Chest, +200|orange}}\n|3name=Machinist|3rec=58.75M|3atk=189699|3defense=126556|3hp=9536107|3weak=23471\n|4name=Automatic Feeder|4rec=72.80M|4atk=219334|4defense=146326|4hp=12354700|4weak=29018\n|5name=Orphan Girl|5rec=87.89M|5atk=251141|5defense=167546|5hp=15784738|5weak=32339\n|6name=Charlie|6rec=104.96M|6atk=287156|6defense=191573|6hp=19869847|6weak=35367\n|Arec=124.06M|Aatk=327424|Adefense=218437|Ahp=24790786|Aweak=38250\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Modern_Times.wiki",
+  "markdown_path": "markdown/Modern_Times.md"
+}

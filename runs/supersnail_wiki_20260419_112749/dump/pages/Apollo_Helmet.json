@@ -1,0 +1,29 @@
+{
+  "pageid": 2984,
+  "ns": 0,
+  "title": "Apollo Helmet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Apollo_Helmet",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 480,
+  "lastrevid": 19658,
+  "revision": {
+    "revid": 19658,
+    "parentid": 12410,
+    "timestamp": "2023-11-21T14:57:04Z",
+    "sha1": "984f9a4f37ccb41d916591b4638b3fcf692bdc83",
+    "size": 480
+  },
+  "categories": [
+    "ATK Boost",
+    "Cathay",
+    "HP Boost",
+    "Mecha Form",
+    "Shells",
+    "TECH Shells",
+    "Wind DMG Boost"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Apollo_Helmet.wiki",
+  "markdown_path": "markdown/Apollo_Helmet.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 8944,
+  "ns": 0,
+  "title": "Metchnikoff's Notes+Gandhara Statue+Receiving the Envoy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Metchnikoff%27s_Notes%2BGandhara_Statue%2BReceiving_the_Envoy",
+  "touched": "2025-08-11T11:15:58Z",
+  "length": 167,
+  "lastrevid": 35163,
+  "revision": {
+    "revid": 35163,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:18:39Z",
+    "sha1": "08e16e50ecb6b80975c059e234f7434d5c1e7643",
+    "size": 167
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "543",
+        "relics": "Metchnikoff's Notes,Gandhara Statue,Receiving the Envoy",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Snail Leadership +8"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Metchnikoff_s_Notes_Gandhara_Statue_Receiving_the_Envoy.wiki",
+  "markdown_path": "markdown/Metchnikoff_s_Notes_Gandhara_Statue_Receiving_the_Envoy.md"
+}

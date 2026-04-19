@@ -1,0 +1,47 @@
+{
+  "pageid": 10927,
+  "ns": 0,
+  "title": "Magic Gaiba Egg",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Magic_Gaiba_Egg",
+  "touched": "2025-08-11T11:05:51Z",
+  "length": 794,
+  "lastrevid": 38876,
+  "revision": {
+    "revid": 38876,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:05:51Z",
+    "sha1": "ae44238446f9438940ede4652e773b6bb9886077",
+    "size": 794
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Magic Gaiba Egg",
+        "class_id": "20357",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "To better conceal Scissor Seven's operations, Ruster invented this versatile item. The user can picture in mind what to become and then smash the egg to complete the transformation. But the new form only contains all physical appearance without any practical function.<br>",
+        "fame": "14",
+        "art": "17",
+        "fth": "15",
+        "civ": "16",
+        "tech": "28",
+        "ss1": "Per 5 Avatars activated, Snail DEF +1<br>Avatars Activated: 150/150",
+        "ss2": "Per 5 Avatars activated, Snail DEF +2<br>Avatars Activated: 150/150",
+        "ss3": "Per 5 Avatars activated, Snail DEF +3<br>Avatars Activated: 150/150",
+        "ss4": "Per 5 Avatars activated, Snail DEF +3<br>Avatars Activated: 150/150",
+        "ss7": "Per 5 Avatars activated, Snail DEF +3<br>Avatars Activated: 150/150<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Magic_Gaiba_Egg.wiki",
+  "markdown_path": "markdown/Magic_Gaiba_Egg.md"
+}

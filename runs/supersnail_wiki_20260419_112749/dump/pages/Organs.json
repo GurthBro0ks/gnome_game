@@ -1,0 +1,26 @@
+{
+  "pageid": 678,
+  "ns": 0,
+  "title": "Organs",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Organs",
+  "touched": "2025-10-04T09:47:10Z",
+  "length": 11176,
+  "lastrevid": 35211,
+  "revision": {
+    "revid": 35211,
+    "parentid": 35210,
+    "timestamp": "2025-06-17T21:06:04Z",
+    "sha1": "7a4ff34446f2f13252f46b3cfda61d81dfb0875e",
+    "size": 11176
+  },
+  "categories": [
+    "Missing Info",
+    "Organs",
+    "Pages using Tabber parser tag",
+    "Pages with broken file links"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Organs.wiki",
+  "markdown_path": "markdown/Organs.md"
+}

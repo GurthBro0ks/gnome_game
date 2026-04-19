@@ -1,0 +1,25 @@
+{
+  "pageid": 7102,
+  "ns": 0,
+  "title": "Guide:How to edit the Wiki",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Guide:How_to_edit_the_Wiki",
+  "touched": "2025-03-05T08:07:01Z",
+  "length": 11058,
+  "lastrevid": 32082,
+  "revision": {
+    "revid": 32082,
+    "parentid": 30452,
+    "timestamp": "2024-12-04T05:02:36Z",
+    "sha1": "0832ea3fbdf9d5eb04667cd58eeab55bf4fd79aa",
+    "size": 11058
+  },
+  "categories": [
+    "Editor",
+    "Guides",
+    "Notice templates"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Guide_How_to_edit_the_Wiki.wiki",
+  "markdown_path": "markdown/Guide_How_to_edit_the_Wiki.md"
+}

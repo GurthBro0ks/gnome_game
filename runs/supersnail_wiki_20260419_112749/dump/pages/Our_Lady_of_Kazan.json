@@ -1,0 +1,55 @@
+{
+  "pageid": 1814,
+  "ns": 0,
+  "title": "Our Lady of Kazan",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Our_Lady_of_Kazan",
+  "touched": "2024-09-06T09:57:52Z",
+  "length": 1409,
+  "lastrevid": 27639,
+  "revision": {
+    "revid": 27639,
+    "parentid": 20337,
+    "timestamp": "2024-06-01T03:12:43Z",
+    "sha1": "8c9bba353c946e781bdb3ecb9ed309deb0783550",
+    "size": 1409
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue FTH Relics",
+    "Blue Relics",
+    "FTH Boost",
+    "FTH Relics",
+    "Monkey Prayer Boost",
+    "Offering Speed Boost",
+    "Quarry Output Boost",
+    "Relics",
+    "Snail Arena Compass Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Our Lady of Kazan",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "08-20",
+        "source": "Lottery Machine (0.36%), Novice Scrolls (5%), Wishing (10.6%)",
+        "description": "On Aug 20, 1904, this national treasure of Russia was stolen and was almost destroyed.\n\nThe ancient statue of Our Lady of Kazan in St. Petersburg is the greatest icon of the Russian Orthodox Church. It represents Virgin Mary as the patron saint of Kazan City. In Russia, the replica of this statue is also highly respected among the Catholics. The statue of Our Lady of Kazan is regarded as the guardian of Russia and has existed for centuries.",
+        "fame": "22",
+        "art": "31",
+        "fth": "46",
+        "civ": "24",
+        "tech": "31",
+        "ss1": "Claim 1 Monkey Prayer Bonus for Snail ATK +2<br>Monkey Prayer Bonus Claimed: 20/20",
+        "ss2": "Claim 1 Monkey Prayer Bonus for Snail ATK +4<br>Monkey Prayer Bonus Claimed: 20/20",
+        "ss3": "Claim 1 Monkey Prayer Bonus for Snail ATK +6<br>Monkey Prayer Bonus Claimed: 20/20",
+        "ss4": "Claim 1 Monkey Prayer Bonus for Snail ATK +10<br>Monkey Prayer Bonus Claimed: 20/20",
+        "ss7": "Claim 1 Monkey Prayer Bonus for Snail ATK +10<br>Monkey Prayer Bonus Claimed: 20/20<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Arena skill I.png|50px]] Place in Snail Arena Compass: In Snail Arena, this Relic's FTH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Our_Lady_of_Kazan.wiki",
+  "markdown_path": "markdown/Our_Lady_of_Kazan.md"
+}

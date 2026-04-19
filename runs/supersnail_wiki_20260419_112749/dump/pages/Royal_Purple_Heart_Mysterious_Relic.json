@@ -1,0 +1,35 @@
+{
+  "pageid": 6226,
+  "ns": 0,
+  "title": "Royal Purple Heart+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Royal_Purple_Heart%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 298,
+  "lastrevid": 24941,
+  "revision": {
+    "revid": 24941,
+    "parentid": 0,
+    "timestamp": "2024-04-07T00:02:26Z",
+    "sha1": "4518b104b91e1bf74ef2f0f494687b7f77e239d5",
+    "size": 298
+  },
+  "categories": [
+    "Minion",
+    "Priest-Snail Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Royal Purple Heart,Mysterious Relic",
+        "rank": "purple",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 2,000 Prarie Sanctum Rating Pts, Priest-Snail Assistance DMG +48; Prarie Sanctum Rating Pts: 100,000/100,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Royal_Purple_Heart_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Royal_Purple_Heart_Mysterious_Relic.md"
+}

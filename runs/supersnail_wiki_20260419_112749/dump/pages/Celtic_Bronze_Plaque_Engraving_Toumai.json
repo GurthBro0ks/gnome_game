@@ -1,0 +1,35 @@
+{
+  "pageid": 7949,
+  "ns": 0,
+  "title": "Celtic Bronze Plaque Engraving+Toumai",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Celtic_Bronze_Plaque_Engraving%2BToumai",
+  "touched": "2025-02-22T17:25:56Z",
+  "length": 205,
+  "lastrevid": 33400,
+  "revision": {
+    "revid": 33400,
+    "parentid": 0,
+    "timestamp": "2025-02-21T20:04:29Z",
+    "sha1": "72f7c5cf7c8447f4e7102292c15f906c599ebaf6",
+    "size": 205
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Celtic Bronze Plaque Engraving,Toumai",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Celtic_Bronze_Plaque_Engraving_Toumai.wiki",
+  "markdown_path": "markdown/Celtic_Bronze_Plaque_Engraving_Toumai.md"
+}

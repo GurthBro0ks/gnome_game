@@ -1,0 +1,35 @@
+{
+  "pageid": 7974,
+  "ns": 0,
+  "title": "Ishtar Gate+The Social Contract+A Sunday Afternoon on the Island of La Grande Jatte+TCP",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ishtar_Gate%2BThe_Social_Contract%2BA_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte%2BTCP",
+  "touched": "2025-03-23T18:36:52Z",
+  "length": 354,
+  "lastrevid": 33427,
+  "revision": {
+    "revid": 33427,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:19:50Z",
+    "sha1": "1eb4290be3b618c9880594b948d2d954de5991a2",
+    "size": 354
+  },
+  "categories": [
+    "Bedrock Power Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Ishtar Gate,The Social Contract,A Sunday Afternoon on the Island of La Grande Jatte,TCP",
+        "rank": "orange",
+        "amount": "4",
+        "category": "Self",
+        "description": "Per 50 Kemet Soul Nail of Profanity Reforge, Snail Bedrock Power +9; Kemet Soul Nail of Profanity Reforged: 3,000/3,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ishtar_Gate_The_Social_Contract_A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte_TCP.wiki",
+  "markdown_path": "markdown/Ishtar_Gate_The_Social_Contract_A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte_TCP.md"
+}

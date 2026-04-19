@@ -1,0 +1,62 @@
+{
+  "pageid": 1791,
+  "ns": 0,
+  "title": "Hannibal's Cup",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hannibal%27s_Cup",
+  "touched": "2025-04-13T22:37:28Z",
+  "length": 1962,
+  "lastrevid": 33963,
+  "revision": {
+    "revid": 33963,
+    "parentid": 26268,
+    "timestamp": "2025-04-13T22:36:24Z",
+    "sha1": "f0f97fc27e797c0f8e0f26fe3dc00fcb85a5da95",
+    "size": 1962
+  },
+  "categories": [
+    "ATK Boost",
+    "Ancient Wood Boost",
+    "Baby Bud Boost",
+    "Enhanced by Power",
+    "FAME Relics",
+    "Koryeon Snail Boost",
+    "Lumber Camp Output Boost",
+    "Lumber Camp Skill",
+    "Power Boost",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "Relics",
+    "Tadpole Pond Output Boost",
+    "Zombie Gene Cost Reduction",
+    "Zombie Minion RUSH Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Hannibal's Cup",
+        "rank": "AA",
+        "affct": "FAME",
+        "birthday": "07-04",
+        "source": "Expert Scrolls (0.95%), Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.35%)",
+        "description": "On Jul 4, 182 BC, Hannibal, a famous general of Carthage, drank the poison and died.\n\nAfter the defeat of the Second Punic War, Hannibal fled his hometown. Out of desperation, he took poison and killed himself in a foreign land. Before his death, he looked back on his life with a myriad of emotions. He thought of when he raised a wine glass and spoke vigorously, \"If you can't make his soul surrender, then break the vessel of his soul!\" Many years later when Rome defeated Carthage, Hannibal picke …",
+        "fame": "69",
+        "art": "43",
+        "fth": "36",
+        "civ": "45",
+        "tech": "35",
+        "ss1": "Per 30 Zombie Minions in battle, Troop RUSH +4<br>Zombie Gene Research B-tad Cost -1.2%",
+        "ss2": "Per 30 Zombie Minions in battle, Troop RUSH +8<br>Zombie Gene Research B-tad Cost -1.8%",
+        "ss3": "Per 30 Zombie Minions in battle, Troop RUSH +12<br>Zombie Gene Research B-tad Cost -2.4%",
+        "ss4": "Per 30 Zombie Minions in battle, Troop RUSH +20<br>Zombie Gene Research B-tad Cost -3.6%",
+        "ss5": "Per 30 Zombie Minions in battle, Troop RUSH +28<br>Zombie Gene Research B-tad Cost -4.8%",
+        "ss7": "Per 30 Zombie Minions in battle, Troop RUSH +28<br>Zombie Gene Research B-tad Cost -4.8%<br>Zombie Gene Research B-tad Cost -4.2% (Awakened)",
+        "skill1": "[[File:Lumbercamp skill II.png|50px]] Place in Lumber Camp: Lumber Max Cap +15%",
+        "skill2": "[[File:Lumbercamp skill II.png|50px]] Place in Lumber Camp: Find Ancient Wood by +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hannibal_s_Cup.wiki",
+  "markdown_path": "markdown/Hannibal_s_Cup.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4708,
+  "ns": 0,
+  "title": "Hedwig Glass+Aeschylus Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hedwig_Glass%2BAeschylus_Statue",
+  "touched": "2025-06-19T23:56:47Z",
+  "length": 134,
+  "lastrevid": 35705,
+  "revision": {
+    "revid": 35705,
+    "parentid": 18570,
+    "timestamp": "2025-06-19T23:56:47Z",
+    "sha1": "35fc1f0c3be88f37ac85c04f42e94d9091348780",
+    "size": 134
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "319",
+        "relics": "Hedwig Glass,Aeschylus Statue",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail RUSH +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hedwig_Glass_Aeschylus_Statue.wiki",
+  "markdown_path": "markdown/Hedwig_Glass_Aeschylus_Statue.md"
+}

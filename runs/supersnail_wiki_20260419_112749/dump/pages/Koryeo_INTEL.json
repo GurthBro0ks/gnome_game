@@ -1,0 +1,34 @@
+{
+  "pageid": 2322,
+  "ns": 0,
+  "title": "Koryeo INTEL",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Koryeo_INTEL",
+  "touched": "2025-10-14T15:17:17Z",
+  "length": 10908,
+  "lastrevid": 41307,
+  "revision": {
+    "revid": 41307,
+    "parentid": 41306,
+    "timestamp": "2025-10-14T15:17:17Z",
+    "sha1": "3056ba07e2e41765afac8a6bfdabd5dc8220fd4a",
+    "size": 10908
+  },
+  "categories": [
+    "Koryeo",
+    "Locations",
+    "Realm"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Realm",
+        "3": "Gas Mask"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Koryeo_INTEL.wiki",
+  "markdown_path": "markdown/Koryeo_INTEL.md"
+}

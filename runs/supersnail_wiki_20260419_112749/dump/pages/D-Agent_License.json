@@ -1,0 +1,47 @@
+{
+  "pageid": 6702,
+  "ns": 0,
+  "title": "D-Agent License",
+  "fullurl": "https://supersnail.wiki.gg/wiki/D-Agent_License",
+  "touched": "2025-08-11T11:12:32Z",
+  "length": 632,
+  "lastrevid": 39165,
+  "revision": {
+    "revid": 39165,
+    "parentid": 27402,
+    "timestamp": "2025-08-11T11:12:32Z",
+    "sha1": "860c1b985f8fa089fbf311999010e7dee7d2ae49",
+    "size": 632
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "D-Agent License",
+        "class_id": "20379",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The license-holder is a dimension agent of the investigation bureau who is granted law enforcement power by federal law. Please be cooperative when you are questioned and frisked, as the dimension agent has the right to use force! (Stamped)",
+        "fame": "13",
+        "art": "16",
+        "fth": "15",
+        "civ": "15",
+        "tech": "31",
+        "ss1": "Defeated Dimension Agents drop +10 W-tads",
+        "ss2": "Defeated Dimension Agents drop +20 W-tads",
+        "ss3": "Defeated Dimension Agents drop +30 W-tads",
+        "ss4": "Defeated Dimension Agents drop +30 W-tads",
+        "ss7": "Defeated Dimension Agents drop +30 W-tads<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/D-Agent_License.wiki",
+  "markdown_path": "markdown/D-Agent_License.md"
+}

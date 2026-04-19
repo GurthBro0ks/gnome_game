@@ -1,0 +1,58 @@
+{
+  "pageid": 2235,
+  "ns": 0,
+  "title": "Edict of Milan",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Edict_of_Milan",
+  "touched": "2024-09-06T09:57:24Z",
+  "length": 2022,
+  "lastrevid": 18681,
+  "revision": {
+    "revid": 18681,
+    "parentid": 17368,
+    "timestamp": "2023-11-14T14:36:09Z",
+    "sha1": "9ed11d96d48134bf5c67ab3d40d7e2980623b941",
+    "size": 2022
+  },
+  "categories": [
+    "ATK Boost",
+    "Britland Exploration Boost",
+    "Britland Museum Boost",
+    "DEF Boost",
+    "Enhanced by DNA Strength",
+    "FAME Boost",
+    "FAME Relics",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "Relics",
+    "Wonder Fungus Output"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Edict of Milan",
+        "rank": "AAA",
+        "affct": "FAME",
+        "birthday": "07-19",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)",
+        "description": "On Jul 19, AD 313, Rome issued the Edict of Milan, the most important document in Christian history.\n\nAfter this edict was issued, Christianity became the main religion of Rome. When Constantine the Great was in power, he discovered that there was an organization within the Christian community which even had a great influence outside the Roman Empire. The Constantine the Great decided to make use of this organization to strengthen his ruling power and issued this edict to promote the status of C …",
+        "fame": "73",
+        "art": "47",
+        "fth": "48",
+        "civ": "34",
+        "tech": "41",
+        "ss1": "Snail DEF +30<br>The Fungus Farm has a +6% chance to produce Wonder Fungi",
+        "ss2": "Snail DEF +40<br>The Fungus Farm has a +8% chance to produce Wonder Fungi",
+        "ss3": "Snail DEF +50<br>The Fungus Farm has a +10% chance to produce Wonder Fungi",
+        "ss4": "Snail DEF +70<br>The Fungus Farm has a +14% chance to produce Wonder Fungi",
+        "ss5": "Snail DEF +90<br>The Fungus Farm has a +18% chance to produce Wonder Fungi",
+        "ss7": "Snail DEF +90<br>The Fungus Farm has a +18% chance to produce Wonder Fungi<br>The Fungus Farm has a +14% chance to produce Wonder Fungi (Awakened)",
+        "skill1": "[[File:Britann skill II.png|50px]] Place in Britland Museum: In Britland, Snail ATK +60",
+        "skill2": "[[File:Britann skill II.png|50px]] Place in Britland Museum: This Relic's FAME +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Edict_of_Milan.wiki",
+  "markdown_path": "markdown/Edict_of_Milan.md"
+}

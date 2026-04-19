@@ -1,0 +1,33 @@
+{
+  "pageid": 3793,
+  "ns": 0,
+  "title": "Winged Victory+Lyre of Hermes+Horn of Heimdall",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Winged_Victory%2BLyre_of_Hermes%2BHorn_of_Heimdall",
+  "touched": "2025-07-02T09:43:20Z",
+  "length": 199,
+  "lastrevid": 37082,
+  "revision": {
+    "revid": 37082,
+    "parentid": 13691,
+    "timestamp": "2025-07-02T09:43:20Z",
+    "sha1": "3e9e31b17d6dba81c429187bf966f11d4b6b687f",
+    "size": 199
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "239",
+        "relics": "Winged Victory,Lyre of Hermes,Horn of Heimdall",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 1k DNA Strength, Snail RUSH +5;DNA Strength: 48000/48000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Winged_Victory_Lyre_of_Hermes_Horn_of_Heimdall.wiki",
+  "markdown_path": "markdown/Winged_Victory_Lyre_of_Hermes_Horn_of_Heimdall.md"
+}

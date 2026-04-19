@@ -1,0 +1,57 @@
+{
+  "pageid": 1154,
+  "ns": 0,
+  "title": "Meditations",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Meditations",
+  "touched": "2024-09-06T09:57:24Z",
+  "length": 2043,
+  "lastrevid": 17720,
+  "revision": {
+    "revid": 17720,
+    "parentid": 13467,
+    "timestamp": "2023-11-12T01:19:19Z",
+    "sha1": "49d39f303aed7a67a9fed69b898a54ef3163ca46",
+    "size": 2043
+  },
+  "categories": [
+    "ATK Boost",
+    "Britland Museum Boost",
+    "CIV Relics",
+    "HP Boost",
+    "Lumber Camp Boost",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Quarry Boost",
+    "Relics",
+    "Snail Arena Compass Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Meditations",
+        "rank": "A",
+        "affct": "CIV",
+        "birthday": "11-08",
+        "source": "Fragment Crafting (29.9%), Lottery Machine (0.66%), Wishing (2.7%), Expert Scrolls (7.6%)",
+        "description": "On Nov 8, 1820, Alphonse de Lamartine published his first collection of poems.\n\n\"Meditations\" is a collection of poems mourning the passing of his young lover. The poet wrote about love and death, and that life was all about loss and pain. He believed that hope came from departures and the idea of heaven, and that one could seek comfort from nature. Lamartine's poems were mainly expressions of feelings, creating a feeling of lightness and elegance with simple language. His poems paved the way fo …",
+        "fame": "32",
+        "art": "35",
+        "fth": "41",
+        "civ": "64",
+        "tech": "41",
+        "ss1": "Snail HP +100<br>Per 20 Chores completed, Snail ATK +2<br>Chores Completed: 300/300",
+        "ss2": "Snail HP +200<br>Per 20 Chores completed, Snail ATK +4<br>Chores Completed: 300/300",
+        "ss3": "Snail HP +300<br>Per 20 Chores completed, Snail ATK +6<br>Chores Completed: 300/300",
+        "ss4": "Snail HP +500<br>Per 20 Chores completed, Snail ATK +10<br>Chores Completed: 300/300",
+        "ss5": "Snail HP +700<br>Per 20 Chores completed, Snail ATK +14<br>Chores Completed: 300/300",
+        "ss7": "Snail HP +700<br>Per 20 Chores completed, Snail ATK +14<br>Chores Completed: 300/300<br>Snail HP +700 (Awakened)",
+        "skill1": "[[File:Britland skill II.png|50px]] Place in Britland Museum: This Relic's CIV +10",
+        "skill2": "[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, Snail RUSH +30"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Meditations.wiki",
+  "markdown_path": "markdown/Meditations.md"
+}

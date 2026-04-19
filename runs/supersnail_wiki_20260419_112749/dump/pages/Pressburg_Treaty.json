@@ -1,0 +1,54 @@
+{
+  "pageid": 1957,
+  "ns": 0,
+  "title": "Pressburg Treaty",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pressburg_Treaty",
+  "touched": "2024-09-06T09:56:26Z",
+  "length": 1168,
+  "lastrevid": 22449,
+  "revision": {
+    "revid": 22449,
+    "parentid": 16376,
+    "timestamp": "2024-02-21T03:16:07Z",
+    "sha1": "c8d5b1c513272cdbdcd1750c5c437d3ee667ad98",
+    "size": 1168
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue FAME Relics",
+    "Blue Relics",
+    "Enhanced by Lottery Draws",
+    "Exploration Card Drop Boost",
+    "FAME Relics",
+    "HP Boost",
+    "Relics",
+    "Snail Arena Compass Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Pressburg Treaty",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "09-04",
+        "source": "Lottery Machine (0.36%), Wish Machine (15.5%), Club Chest (2%), Novice Scrolls (5%)",
+        "description": "On Sep 4, 1805, Austria signed a peace treaty after losing the war against France. The treaty stated that the territories of the Tyrol and Vorarlberg must be ceded to the Elector of Bavaria. This included ceding Breisgau and other former Austrian regions to Baden and Wurttemberg. The signing of the treaty also marked the collapse of the Third Coalition.",
+        "fame": "45",
+        "art": "31",
+        "fth": "22",
+        "civ": "24",
+        "tech": "32",
+        "ss1": "If you're in a club, Snail HP +120",
+        "ss2": "If you're in a club, Snail HP +240",
+        "ss3": "If you're in a club, Snail HP +360",
+        "ss4": "If you're in a club, Snail HP +600",
+        "ss7": "If you're in a club, Snail HP +600<br>If you're in a club, Snail HP +600 (Awakened)",
+        "skill1": "[[File:Arena skill I.png|50px]]Place in Snail Arena: Snail HP +200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pressburg_Treaty.wiki",
+  "markdown_path": "markdown/Pressburg_Treaty.md"
+}

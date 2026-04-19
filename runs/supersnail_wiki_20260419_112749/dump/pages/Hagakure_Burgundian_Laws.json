@@ -1,0 +1,33 @@
+{
+  "pageid": 4981,
+  "ns": 0,
+  "title": "Hagakure+Burgundian Laws",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hagakure%2BBurgundian_Laws",
+  "touched": "2025-06-20T00:01:29Z",
+  "length": 130,
+  "lastrevid": 35790,
+  "revision": {
+    "revid": 35790,
+    "parentid": 18604,
+    "timestamp": "2025-06-20T00:01:29Z",
+    "sha1": "3a80e2d5274eaea60855c979149210cfbce64e39",
+    "size": 130
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "381",
+        "relics": "Hagakure,Burgundian Laws",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hagakure_Burgundian_Laws.wiki",
+  "markdown_path": "markdown/Hagakure_Burgundian_Laws.md"
+}

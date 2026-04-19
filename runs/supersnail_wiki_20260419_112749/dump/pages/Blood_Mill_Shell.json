@@ -1,0 +1,29 @@
+{
+  "pageid": 3018,
+  "ns": 0,
+  "title": "Blood Mill Shell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Blood_Mill_Shell",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 508,
+  "lastrevid": 12234,
+  "revision": {
+    "revid": 12234,
+    "parentid": 12080,
+    "timestamp": "2023-09-15T00:48:51Z",
+    "sha1": "11a2e59232fbb6f91021dd9a7884388824b2b2e3",
+    "size": 508
+  },
+  "categories": [
+    "CIV Shells",
+    "DEF Boost",
+    "Earth DMG Boost",
+    "Kemet",
+    "Mutant Form",
+    "RUSH Boost",
+    "Shells"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Blood_Mill_Shell.wiki",
+  "markdown_path": "markdown/Blood_Mill_Shell.md"
+}

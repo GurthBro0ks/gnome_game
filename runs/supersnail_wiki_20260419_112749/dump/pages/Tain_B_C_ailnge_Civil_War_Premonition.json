@@ -1,0 +1,35 @@
+{
+  "pageid": 8333,
+  "ns": 0,
+  "title": "Tain Bó Cúailnge+Civil War Premonition",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tain_B%C3%B3_C%C3%BAailnge%2BCivil_War_Premonition",
+  "touched": "2025-05-03T22:29:22Z",
+  "length": 266,
+  "lastrevid": 34140,
+  "revision": {
+    "revid": 34140,
+    "parentid": 0,
+    "timestamp": "2025-04-22T03:23:37Z",
+    "sha1": "e790503e7c12fd2c69cd78993e382d518e49be70",
+    "size": 266
+  },
+  "categories": [
+    "ATK Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Tain Bó Cúailnge,Civil War Premonition",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Recruitment Incident completed, Snail ATK +7; Completed Recruitment Incidents: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tain_B_C_ailnge_Civil_War_Premonition.wiki",
+  "markdown_path": "markdown/Tain_B_C_ailnge_Civil_War_Premonition.md"
+}

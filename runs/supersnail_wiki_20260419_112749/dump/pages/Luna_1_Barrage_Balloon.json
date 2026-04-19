@@ -1,0 +1,33 @@
+{
+  "pageid": 8437,
+  "ns": 0,
+  "title": "Luna 1+Barrage Balloon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Luna_1%2BBarrage_Balloon",
+  "touched": "2025-06-20T00:13:08Z",
+  "length": 147,
+  "lastrevid": 35966,
+  "revision": {
+    "revid": 35966,
+    "parentid": 34307,
+    "timestamp": "2025-06-20T00:13:08Z",
+    "sha1": "e967b3eea03aa3b6fc581775e65ac28b28980b8e",
+    "size": 147
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "618",
+        "relics": "Luna 1,Barrage Balloon",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Domain Cabin, deployable robots +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Luna_1_Barrage_Balloon.wiki",
+  "markdown_path": "markdown/Luna_1_Barrage_Balloon.md"
+}

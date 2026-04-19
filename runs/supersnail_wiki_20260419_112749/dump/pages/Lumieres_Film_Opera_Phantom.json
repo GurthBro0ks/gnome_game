@@ -1,0 +1,34 @@
+{
+  "pageid": 3285,
+  "ns": 0,
+  "title": "Lumieres' Film+Opera Phantom",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lumieres%27_Film%2BOpera_Phantom",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 189,
+  "lastrevid": 11955,
+  "revision": {
+    "revid": 11955,
+    "parentid": 0,
+    "timestamp": "2023-09-12T17:06:01Z",
+    "sha1": "b370b0e9398bc1d41ed860621bc857548002c09f",
+    "size": 189
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Lumieres' Film,Opera Phantom",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1k Power, Snail ATK +3<br>Power10,000/10,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lumieres_Film_Opera_Phantom.wiki",
+  "markdown_path": "markdown/Lumieres_Film_Opera_Phantom.md"
+}

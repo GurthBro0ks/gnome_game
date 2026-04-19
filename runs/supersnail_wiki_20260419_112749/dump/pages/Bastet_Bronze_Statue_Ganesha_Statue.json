@@ -1,0 +1,33 @@
+{
+  "pageid": 4723,
+  "ns": 0,
+  "title": "Bastet Bronze Statue+Ganesha Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bastet_Bronze_Statue%2BGanesha_Statue",
+  "touched": "2025-06-19T23:54:40Z",
+  "length": 180,
+  "lastrevid": 35687,
+  "revision": {
+    "revid": 35687,
+    "parentid": 18588,
+    "timestamp": "2025-06-19T23:54:40Z",
+    "sha1": "890bbfea47aefb12f5e96093968ccbbf35f4dac7",
+    "size": 180
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "323",
+        "relics": "Bastet Bronze Statue,Ganesha Statue",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 3 Incense used, Snail ATK +5;Incense Used: 150/150"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bastet_Bronze_Statue_Ganesha_Statue.wiki",
+  "markdown_path": "markdown/Bastet_Bronze_Statue_Ganesha_Statue.md"
+}

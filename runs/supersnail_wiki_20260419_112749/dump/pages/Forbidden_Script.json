@@ -1,0 +1,47 @@
+{
+  "pageid": 10568,
+  "ns": 0,
+  "title": "Forbidden Script",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Forbidden_Script",
+  "touched": "2025-08-11T10:55:07Z",
+  "length": 1044,
+  "lastrevid": 38410,
+  "revision": {
+    "revid": 38410,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:55:07Z",
+    "sha1": "7d9d3ef401cafa0c72e5c1d39401a9d497e4d2e3",
+    "size": 1044
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Forbidden Script",
+        "class_id": "20555",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "It consists of excerpts from forbidden scrolls from the otherworld. Although they are not as effective as their original forms, they hold immeasurable value in the field of spell research. There's even a rumor that these transcriptions have propelled the Surf Clams to achieve results in a few months that would typically take decades...",
+        "fame": "20",
+        "art": "13",
+        "fth": "12",
+        "civ": "30",
+        "tech": "15",
+        "ss1": "Against Surf Clams,<br>Troop DMG toward heroes +1%<br>Against Surf Clams,<br>Troop DMG toward heroes +1%",
+        "ss2": "Against Surf Clams,<br>Troop DMG toward heroes +2%<br>Against Surf Clams,<br>Troop DMG toward heroes +2%",
+        "ss3": "Against Surf Clams,<br>Troop DMG toward heroes +3%<br>Against Surf Clams,<br>Troop DMG toward heroes +3%",
+        "ss4": "Against Surf Clams,<br>Troop DMG toward heroes +3%<br>Against Surf Clams,<br>Troop DMG toward heroes +3%",
+        "ss7": "Against Surf Clams,<br>Troop DMG toward heroes +3%<br>Against Surf Clams,<br>Troop DMG toward heroes +3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Forbidden_Script.wiki",
+  "markdown_path": "markdown/Forbidden_Script.md"
+}

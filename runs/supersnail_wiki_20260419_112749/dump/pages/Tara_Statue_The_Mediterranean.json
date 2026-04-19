@@ -1,0 +1,33 @@
+{
+  "pageid": 9252,
+  "ns": 0,
+  "title": "Tara Statue+The Mediterranean",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tara_Statue%2BThe_Mediterranean",
+  "touched": "2025-06-20T00:15:42Z",
+  "length": 151,
+  "lastrevid": 36073,
+  "revision": {
+    "revid": 36073,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:15:42Z",
+    "sha1": "d8e76395376f4ad2be9b5a75bf5897285184ff97",
+    "size": 151
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "610",
+        "relics": "Tara Statue,The Mediterranean",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Protomon Snail assist DMG + 400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tara_Statue_The_Mediterranean.wiki",
+  "markdown_path": "markdown/Tara_Statue_The_Mediterranean.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 10003,
+  "ns": 0,
+  "title": "Cancer Zodiac+Virgo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cancer_Zodiac%2BVirgo",
+  "touched": "2025-08-11T10:37:31Z",
+  "length": 125,
+  "lastrevid": 37529,
+  "revision": {
+    "revid": 37529,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:34:42Z",
+    "sha1": "a0b2564703b895e562e994ae1444dccdac086ddd",
+    "size": 125
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "284",
+        "relics": "Cancer Zodiac,Virgo",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cancer_Zodiac_Virgo.wiki",
+  "markdown_path": "markdown/Cancer_Zodiac_Virgo.md"
+}

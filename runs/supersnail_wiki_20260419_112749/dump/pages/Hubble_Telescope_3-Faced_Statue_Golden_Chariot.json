@@ -1,0 +1,34 @@
+{
+  "pageid": 3792,
+  "ns": 0,
+  "title": "Hubble Telescope+3-Faced Statue+Golden Chariot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hubble_Telescope%2B3-Faced_Statue%2BGolden_Chariot",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 234,
+  "lastrevid": 13690,
+  "revision": {
+    "revid": 13690,
+    "parentid": 0,
+    "timestamp": "2023-10-02T10:28:59Z",
+    "sha1": "20f77e9ad3b6ea56ae1f550f4271dfb4e9e923aa",
+    "size": 234
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Hubble Telescope,3-Faced Statue,Golden Chariot",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per Divine Dragon Descent, Snail DEF +32<br>Divine Dragon Descents: 20/20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hubble_Telescope_3-Faced_Statue_Golden_Chariot.wiki",
+  "markdown_path": "markdown/Hubble_Telescope_3-Faced_Statue_Golden_Chariot.md"
+}

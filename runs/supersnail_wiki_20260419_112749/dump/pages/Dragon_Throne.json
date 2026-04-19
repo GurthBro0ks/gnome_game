@@ -1,0 +1,47 @@
+{
+  "pageid": 10030,
+  "ns": 0,
+  "title": "Dragon Throne",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dragon_Throne",
+  "touched": "2025-08-11T10:35:35Z",
+  "length": 924,
+  "lastrevid": 37572,
+  "revision": {
+    "revid": 37572,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:35:35Z",
+    "sha1": "5a14a0e39f1e0c425321be3721969e555bb4f9ee",
+    "size": 924
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dragon Throne",
+        "class_id": "20540",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This dragon throne is an ancient artifact that bears witness to the lives of ancient emperors. Despite having endured the passage of countless years, the inherent dignity it holds remains undiminished. Instead, it appears even more solemn when juxtaposed with traces of wind and frost.",
+        "fame": "15",
+        "art": "15",
+        "fth": "14",
+        "civ": "30",
+        "tech": "16",
+        "ss1": "All ELMT DMG +1<br>Per Divine Dragon Descent, Snail ATK +3<br>Divine Dragon Descents: 20/20",
+        "ss2": "All ELMT DMG +2<br>Per Divine Dragon Descent, Snail ATK +6<br>Divine Dragon Descents: 20/20",
+        "ss3": "All ELMT DMG +3<br>Per Divine Dragon Descent, Snail ATK +9<br>Divine Dragon Descents: 20/20",
+        "ss4": "All ELMT DMG +3<br>Per Divine Dragon Descent, Snail ATK +9<br>Divine Dragon Descents: 20/20",
+        "ss7": "All ELMT DMG +3<br>Per Divine Dragon Descent, Snail ATK +9<br>Divine Dragon Descents: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dragon_Throne.wiki",
+  "markdown_path": "markdown/Dragon_Throne.md"
+}

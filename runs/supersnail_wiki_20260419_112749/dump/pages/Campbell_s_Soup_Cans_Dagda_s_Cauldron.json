@@ -1,0 +1,33 @@
+{
+  "pageid": 8504,
+  "ns": 0,
+  "title": "Campbell's Soup Cans+Dagda's Cauldron",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Campbell%27s_Soup_Cans%2BDagda%27s_Cauldron",
+  "touched": "2025-06-20T00:13:47Z",
+  "length": 202,
+  "lastrevid": 35999,
+  "revision": {
+    "revid": 35999,
+    "parentid": 34388,
+    "timestamp": "2025-06-20T00:13:47Z",
+    "sha1": "f12f652e146c5cfbfc0eea0902277276b414f517",
+    "size": 202
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "589",
+        "relics": "Campbell's Soup Cans,Dagda's Cauldron",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Mythic Protodex Stars, Snail RUSH +15;Mythic Protodex Stars: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Campbell_s_Soup_Cans_Dagda_s_Cauldron.wiki",
+  "markdown_path": "markdown/Campbell_s_Soup_Cans_Dagda_s_Cauldron.md"
+}

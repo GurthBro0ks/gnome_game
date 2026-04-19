@@ -1,0 +1,33 @@
+{
+  "pageid": 8508,
+  "ns": 0,
+  "title": "Ohmmeter+Flywheel Battery",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ohmmeter%2BFlywheel_Battery",
+  "touched": "2025-06-20T00:13:57Z",
+  "length": 153,
+  "lastrevid": 36008,
+  "revision": {
+    "revid": 36008,
+    "parentid": 34392,
+    "timestamp": "2025-06-20T00:13:57Z",
+    "sha1": "90e5491637a9dd4d65e6dada09769526a2bfc097",
+    "size": 153
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "616",
+        "relics": "Ohmmeter,Flywheel Battery",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Demon God Cabin, deployable robots +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ohmmeter_Flywheel_Battery.wiki",
+  "markdown_path": "markdown/Ohmmeter_Flywheel_Battery.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 1278,
+  "ns": 0,
+  "title": "Niten Ichi Ryu",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Niten_Ichi_Ryu",
+  "touched": "2025-08-11T10:42:53Z",
+  "length": 504,
+  "lastrevid": 37877,
+  "revision": {
+    "revid": 37877,
+    "parentid": 12690,
+    "timestamp": "2025-08-11T10:42:53Z",
+    "sha1": "95a024d360c8d22c0de2a663c98d5982e7ad62f3",
+    "size": 504
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Niten Ichi Ryu",
+        "class_id": "20045",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Niten Ichi Ryu is the dual-wielding style of Mushashi. Niten refers to the sun and the moon, the Yin and the Yang, while Niten Ichi means wielding the two swords as one. Practitioners typically hold a katana on their right and a wakizashi on their left.",
+        "fame": "29",
+        "art": "13",
+        "fth": "17",
+        "civ": "16",
+        "tech": "15",
+        "ss1": "Snail ATK +10",
+        "ss2": "Snail ATK +20",
+        "ss3": "Snail ATK +30",
+        "ss4": "Snail ATK +30",
+        "ss7": "Snail ATK +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Niten_Ichi_Ryu.wiki",
+  "markdown_path": "markdown/Niten_Ichi_Ryu.md"
+}

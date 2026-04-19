@@ -1,0 +1,25 @@
+{
+  "pageid": 63,
+  "ns": 0,
+  "title": "Rocket",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rocket",
+  "touched": "2025-10-28T22:06:00Z",
+  "length": 26732,
+  "lastrevid": 41674,
+  "revision": {
+    "revid": 41674,
+    "parentid": 41663,
+    "timestamp": "2025-10-28T22:06:00Z",
+    "sha1": "d28d438c7ce6985f05a48cf016abc6c0de200b75",
+    "size": 26732
+  },
+  "categories": [
+    "Missing Info",
+    "Pages with broken file links",
+    "Rocket"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Rocket.wiki",
+  "markdown_path": "markdown/Rocket.md"
+}

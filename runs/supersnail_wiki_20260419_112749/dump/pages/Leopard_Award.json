@@ -1,0 +1,47 @@
+{
+  "pageid": 6819,
+  "ns": 0,
+  "title": "Leopard Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Leopard_Award",
+  "touched": "2025-08-11T10:59:44Z",
+  "length": 576,
+  "lastrevid": 38611,
+  "revision": {
+    "revid": 38611,
+    "parentid": 28005,
+    "timestamp": "2025-08-11T10:59:44Z",
+    "sha1": "c9fc44013f56033bdc415ea9beeedfe0b6848818",
+    "size": 576
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Leopard Award",
+        "class_id": "20090",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The Locarno International Film Festival, the world's oldest film festival, is known as the prince of film festivals. Its highest award is the Leopard Award, which is primarily presented to films that explore human nature and have outstanding artistic merit.",
+        "fame": "16",
+        "art": "14",
+        "fth": "17",
+        "civ": "29",
+        "tech": "14",
+        "ss1": "All Minion HARD Stats +1.2%",
+        "ss2": "All Minion HARD Stats +1.4%",
+        "ss3": "All Minion HARD Stats +1.6%",
+        "ss4": "All Minion HARD Stats +1.6%",
+        "ss7": "All Minion HARD Stats +1.6%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Leopard_Award.wiki",
+  "markdown_path": "markdown/Leopard_Award.md"
+}

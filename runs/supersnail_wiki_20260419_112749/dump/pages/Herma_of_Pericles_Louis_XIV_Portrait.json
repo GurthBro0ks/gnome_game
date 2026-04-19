@@ -1,0 +1,33 @@
+{
+  "pageid": 4242,
+  "ns": 0,
+  "title": "Herma of Pericles+Louis XIV Portrait",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Herma_of_Pericles%2BLouis_XIV_Portrait",
+  "touched": "2025-07-02T09:43:56Z",
+  "length": 192,
+  "lastrevid": 37101,
+  "revision": {
+    "revid": 37101,
+    "parentid": 31573,
+    "timestamp": "2025-07-02T09:43:56Z",
+    "sha1": "64e19bdbe3fda2801eefa3eb9cfd0ca9b41da4c6",
+    "size": 192
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "491",
+        "relics": "Herma of Pericles,Louis XIV Portrait",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 ART Pistils Used, Snail HP +70;Art Pistils Used: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Herma_of_Pericles_Louis_XIV_Portrait.wiki",
+  "markdown_path": "markdown/Herma_of_Pericles_Louis_XIV_Portrait.md"
+}

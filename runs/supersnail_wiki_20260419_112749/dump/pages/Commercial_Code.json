@@ -1,0 +1,54 @@
+{
+  "pageid": 1104,
+  "ns": 0,
+  "title": "Commercial Code",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Commercial_Code",
+  "touched": "2024-09-06T09:58:24Z",
+  "length": 1209,
+  "lastrevid": 26359,
+  "revision": {
+    "revid": 26359,
+    "parentid": 26284,
+    "timestamp": "2024-05-08T11:29:48Z",
+    "sha1": "1e88eb74e841bbcef28ccf1be2ac98899db4cfe4",
+    "size": 1209
+  },
+  "categories": [
+    "Blue FAME Relics",
+    "Blue Relics",
+    "DEF Boost",
+    "Dragon Gene Speedup Boost",
+    "FAME Relics",
+    "HP Boost",
+    "Lumber Camp Output Boost",
+    "Lumber Camp Skill",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Commercial Code",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "04-10",
+        "source": "* Club Chest (2%), Lottery Machine (0.07%), Novice Scrolls (1%), Wishing (3.1%)\n* [[Peter Jr.]] - [[Rare Rent]]",
+        "description": "On Apr 10, 1673, the French commercial law war issued, which is the origin of the current commercial law system.\n\nIn the past, people mostly carried out business practices based on customs, which were also the basis to resolve disputes. This law created a reliable code of practice to resolve disputes in trades.",
+        "fame": "44",
+        "art": "29",
+        "fth": "21",
+        "civ": "30",
+        "tech": "30",
+        "ss1": "Per 20 Chores completed, Snail DEF +2<br>Chores Completed: 300/300",
+        "ss2": "Per 20 Chores completed, Snail DEF +4<br>Chores Completed: 300/300",
+        "ss3": "Per 20 Chores completed, Snail DEF +6<br>Chores Completed: 300/300",
+        "ss4": "Per 20 Chores completed, Snail DEF +10<br>Chores Completed: 300/300",
+        "ss7": "Per 20 Chores completed, Snail DEF +10<br>Chores Completed: 300/300<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Lumbercamp skill I.png|frameless|50x50px]] Place in Lumber Camp: Lumber Max Cap +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Commercial_Code.wiki",
+  "markdown_path": "markdown/Commercial_Code.md"
+}

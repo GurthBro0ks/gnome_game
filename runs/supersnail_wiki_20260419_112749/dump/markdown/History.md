@@ -1,0 +1,6 @@
+|3name=Miltiades|3rec=393.70M|3atk=912644|3defense=516754|3hp=229186863|3weak=68807
+|4name=Darius|4rec=496.36M|4atk=1085356|4defense=609115|4hp=388514212|4weak=74866
+|5name=Leonida|5rec=652.59M|5atk=1439359|5defense=749406|5hp=626189776|5weak=82978
+|6name=Xerxes|6rec=888.60M|6atk=2174287|6defense=1002534|6hp=1089717930|6weak=93359
+|Arec=1284.71M|Aatk=3276285|Adefense=1390319|Ahp=1986184278|Aweak=106024
+}}}}

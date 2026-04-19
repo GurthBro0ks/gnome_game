@@ -1,0 +1,33 @@
+{
+  "pageid": 4056,
+  "ns": 0,
+  "title": "Medium Rune+Ludovisi Ares",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Medium_Rune%2BLudovisi_Ares",
+  "touched": "2025-06-20T00:09:27Z",
+  "length": 161,
+  "lastrevid": 35916,
+  "revision": {
+    "revid": 35916,
+    "parentid": 18416,
+    "timestamp": "2025-06-20T00:09:27Z",
+    "sha1": "1174a656ff6b43ad972f025a9cfff9c36222d13c",
+    "size": 161
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "504",
+        "relics": "Medium Rune,Ludovisi Ares",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop Wind DMG +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Medium_Rune_Ludovisi_Ares.wiki",
+  "markdown_path": "markdown/Medium_Rune_Ludovisi_Ares.md"
+}

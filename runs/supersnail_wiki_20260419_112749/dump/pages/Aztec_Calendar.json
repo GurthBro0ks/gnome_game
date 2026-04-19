@@ -1,0 +1,55 @@
+{
+  "pageid": 1383,
+  "ns": 0,
+  "title": "Aztec Calendar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Aztec_Calendar",
+  "touched": "2024-09-06T09:56:44Z",
+  "length": 1313,
+  "lastrevid": 26278,
+  "revision": {
+    "revid": 26278,
+    "parentid": 17230,
+    "timestamp": "2024-05-07T16:24:19Z",
+    "sha1": "cc612256d2f013e3b5ab8e7a8d0ccfe6124badaf",
+    "size": 1313
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue Relics",
+    "Blue TECH Relics",
+    "DNA Boost",
+    "Mecha Gene Speedup Boost",
+    "Relics",
+    "Snail Arena Compass Boost",
+    "TECH Boost",
+    "TECH Relics",
+    "Tadpole Pond Output Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Aztec Calendar",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "06-04",
+        "source": "Lottery Machine (0.03%), Time Chest (2%), Wishing (1.1%)",
+        "description": "On Jun 4, 1760, the ancient Aztec solar calendar was dug up near Mexico's main plaza.\n\nThe Aztec is a lunar calendar that consists of 18 months a year, 20 days a month, and five inauspicious days at the end of the year, which is a total of 365 days. There was also another type of calendar which consists of 260 days a year. These two calendars were used together and formed a 52-year cycle. Every 52 years, the Aztecs would hold a fire ceremony. \n\n[About the Solar Calendar Stone]\nEra: Around 14th c …",
+        "fame": "31",
+        "art": "31",
+        "fth": "25",
+        "civ": "21",
+        "tech": "46",
+        "ss1": "Free Gene Speedup (Mecha) +6m",
+        "ss2": "Free Gene Speedup (Mecha) +12m",
+        "ss3": "Free Gene Speedup (Mecha) +18m",
+        "ss4": "Free Gene Speedup (Mecha) +30m",
+        "ss7": "Free Gene Speedup (Mecha) +30m<br>Free Gene Speedup (Mecha) +30m (Awakened)",
+        "skill1": "[[File:Arena skill I.png|50px]] Place in Snail Arena Compass: In Snail Arena, this Relic's TECH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Aztec_Calendar.wiki",
+  "markdown_path": "markdown/Aztec_Calendar.md"
+}

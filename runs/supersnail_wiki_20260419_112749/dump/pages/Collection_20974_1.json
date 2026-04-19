@@ -1,0 +1,47 @@
+{
+  "pageid": 10156,
+  "ns": 0,
+  "title": "Collection@20974 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20974_1",
+  "touched": "2025-08-11T10:40:47Z",
+  "length": 457,
+  "lastrevid": 37789,
+  "revision": {
+    "revid": 37789,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:40:47Z",
+    "sha1": "7aef26ece043202bccdabc0a716495bed9df4cd6",
+    "size": 457
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20974_1",
+        "class_id": "20974",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "collection@20974_2",
+        "fame": "33",
+        "art": "12",
+        "fth": "18",
+        "civ": "14",
+        "tech": "13",
+        "ss1": "All ELMT DMG +7<br>Dragon Minion HARD Stats +0.4%",
+        "ss2": "All ELMT DMG +14<br>Dragon Minion HARD Stats +0.8%",
+        "ss3": "All ELMT DMG +21<br>Dragon Minion HARD Stats +1.2%",
+        "ss4": "All ELMT DMG +21<br>Dragon Minion HARD Stats +1.2%",
+        "ss7": "All ELMT DMG +21<br>Dragon Minion HARD Stats +1.2%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20974_1.wiki",
+  "markdown_path": "markdown/Collection_20974_1.md"
+}

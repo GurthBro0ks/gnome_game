@@ -1,0 +1,33 @@
+{
+  "pageid": 8542,
+  "ns": 0,
+  "title": "Testament of Flamel+The Book of Raziel+Book of Enoch+Oracle of Delphi+Intro to Golden Elixir+Seal of the Ancients",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Testament_of_Flamel%2BThe_Book_of_Raziel%2BBook_of_Enoch%2BOracle_of_Delphi%2BIntro_to_Golden_Elixir%2BSeal_of_the_Ancients",
+  "touched": "2025-06-16T21:00:32Z",
+  "length": 217,
+  "lastrevid": 34438,
+  "revision": {
+    "revid": 34438,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:22:29Z",
+    "sha1": "690c8f83eaf1392d4ff043360295b098de76a166",
+    "size": 217
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "651",
+        "relics": "Testament of Flamel,The Book of Raziel,Book of Enoch,Oracle of Delphi,Intro to Golden Elixir,Seal of the Ancients",
+        "rank": "blue",
+        "amount": "6",
+        "category": "self",
+        "description": "Snail ATK +90"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Testament_of_Flamel_The_Book_of_Raziel_Book_of_Enoch_Oracle_of_Delphi_Intro_to_Golden_Elixir_Seal_of_the_Ancients.wiki",
+  "markdown_path": "markdown/Testament_of_Flamel_The_Book_of_Raziel_Book_of_Enoch_Oracle_of_Delphi_Intro_to_Golden_Elixir_Seal_of_the_Ancients.md"
+}

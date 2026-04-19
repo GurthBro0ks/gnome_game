@@ -1,0 +1,36 @@
+{
+  "pageid": 7998,
+  "ns": 0,
+  "title": "Ajanta Caves Paintings+Godel's Incompleteness Theorems",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ajanta_Caves_Paintings%2BGodel%27s_Incompleteness_Theorems",
+  "touched": "2025-03-23T18:30:16Z",
+  "length": 317,
+  "lastrevid": 33451,
+  "revision": {
+    "revid": 33451,
+    "parentid": 0,
+    "timestamp": "2025-02-22T03:01:27Z",
+    "sha1": "91c0ce959087961ae04ba23ba16ecbb424570091",
+    "size": 317
+  },
+  "categories": [
+    "Enhanced by Distinct Souls Offered",
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Ajanta Caves Paintings,Godel's Incompleteness Theorems",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 6 distinct Souls offered, Snail RUSH +7; Distinct Souls Offered: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ajanta_Caves_Paintings_Godel_s_Incompleteness_Theorems.wiki",
+  "markdown_path": "markdown/Ajanta_Caves_Paintings_Godel_s_Incompleteness_Theorems.md"
+}

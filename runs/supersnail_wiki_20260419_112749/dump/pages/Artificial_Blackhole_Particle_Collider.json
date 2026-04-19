@@ -1,0 +1,34 @@
+{
+  "pageid": 3742,
+  "ns": 0,
+  "title": "Artificial Blackhole+Particle Collider",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Artificial_Blackhole%2BParticle_Collider",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 215,
+  "lastrevid": 13640,
+  "revision": {
+    "revid": 13640,
+    "parentid": 0,
+    "timestamp": "2023-10-01T09:53:25Z",
+    "sha1": "f44e1e1ed627db66ad6467df699c51138eb776e4",
+    "size": 215
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Artificial Blackhole,Particle Collider",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 30 Fissure LVLs, Snail RUSH +7<br>Fissure LVL: 1,200/1,200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Artificial_Blackhole_Particle_Collider.wiki",
+  "markdown_path": "markdown/Artificial_Blackhole_Particle_Collider.md"
+}

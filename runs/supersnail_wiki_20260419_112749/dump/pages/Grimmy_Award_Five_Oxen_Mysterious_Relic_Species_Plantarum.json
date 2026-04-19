@@ -1,0 +1,35 @@
+{
+  "pageid": 4177,
+  "ns": 0,
+  "title": "Grimmy Award+Five Oxen+Mysterious Relic+Species Plantarum",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Grimmy_Award%2BFive_Oxen%2BMysterious_Relic%2BSpecies_Plantarum",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 224,
+  "lastrevid": 27776,
+  "revision": {
+    "revid": 27776,
+    "parentid": 27775,
+    "timestamp": "2024-06-08T13:34:06Z",
+    "sha1": "987e5f4bfd06cfb2c403ebcb9dd4157781213d85",
+    "size": 224
+  },
+  "categories": [
+    "Minion",
+    "Minion HP Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Grimmy Award,Five Oxen,Mysterious Relic,Species Plantarum",
+        "rank": "orange",
+        "amount": "4",
+        "category": "minion",
+        "description": "All Minion HP +1.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Grimmy_Award_Five_Oxen_Mysterious_Relic_Species_Plantarum.wiki",
+  "markdown_path": "markdown/Grimmy_Award_Five_Oxen_Mysterious_Relic_Species_Plantarum.md"
+}

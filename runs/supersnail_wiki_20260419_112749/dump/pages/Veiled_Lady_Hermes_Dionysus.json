@@ -1,0 +1,33 @@
+{
+  "pageid": 4162,
+  "ns": 0,
+  "title": "Veiled Lady+Hermes & Dionysus",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Veiled_Lady%2BHermes_%26_Dionysus",
+  "touched": "2025-06-20T00:10:38Z",
+  "length": 142,
+  "lastrevid": 35948,
+  "revision": {
+    "revid": 35948,
+    "parentid": 18388,
+    "timestamp": "2025-06-20T00:10:38Z",
+    "sha1": "b849ed61308f16ee8ba364ce59c91cc11dbc5036",
+    "size": 142
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "461",
+        "relics": "Veiled Lady,Hermes & Dionysus",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Mutant Minion MAX +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Veiled_Lady_Hermes_Dionysus.wiki",
+  "markdown_path": "markdown/Veiled_Lady_Hermes_Dionysus.md"
+}

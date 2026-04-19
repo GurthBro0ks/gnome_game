@@ -1,0 +1,33 @@
+{
+  "pageid": 9819,
+  "ns": 0,
+  "title": "Zeno’s Paradoxes+Cangjie’s Glyph Stele",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Zeno%E2%80%99s_Paradoxes%2BCangjie%E2%80%99s_Glyph_Stele",
+  "touched": "2025-07-02T09:47:53Z",
+  "length": 154,
+  "lastrevid": 37148,
+  "revision": {
+    "revid": 37148,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:47:53Z",
+    "sha1": "eb7b2f63af9186d8309e9503a5d8d7dd544b34b6",
+    "size": 154
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "900",
+        "relics": "Zeno’s Paradoxes,Cangjie’s Glyph Stele",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Zeno_s_Paradoxes_Cangjie_s_Glyph_Stele.wiki",
+  "markdown_path": "markdown/Zeno_s_Paradoxes_Cangjie_s_Glyph_Stele.md"
+}

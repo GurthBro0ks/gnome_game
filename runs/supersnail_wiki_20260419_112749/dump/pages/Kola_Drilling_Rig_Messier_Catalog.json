@@ -1,0 +1,33 @@
+{
+  "pageid": 10083,
+  "ns": 0,
+  "title": "Kola Drilling Rig+Messier Catalog",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kola_Drilling_Rig%2BMessier_Catalog",
+  "touched": "2025-08-11T10:37:46Z",
+  "length": 178,
+  "lastrevid": 37666,
+  "revision": {
+    "revid": 37666,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:37:46Z",
+    "sha1": "e54e8c55aa8fe5d8722c73655916f3bfb553a91c",
+    "size": 178
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "524",
+        "relics": "Kola Drilling Rig,Messier Catalog",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Mecha Minions in battle: Troop HARD Stats +21"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kola_Drilling_Rig_Messier_Catalog.wiki",
+  "markdown_path": "markdown/Kola_Drilling_Rig_Messier_Catalog.md"
+}

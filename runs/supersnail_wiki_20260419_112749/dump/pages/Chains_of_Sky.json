@@ -1,0 +1,47 @@
+{
+  "pageid": 6725,
+  "ns": 0,
+  "title": "Chains of Sky",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Chains_of_Sky",
+  "touched": "2025-08-11T11:06:09Z",
+  "length": 640,
+  "lastrevid": 38891,
+  "revision": {
+    "revid": 38891,
+    "parentid": 28929,
+    "timestamp": "2025-08-11T11:06:09Z",
+    "sha1": "4d9c957d7fea2376345f359b271d05b4daca3c00",
+    "size": 640
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Chains of Sky",
+        "class_id": "20481",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The chains that Epic of Gilgamesh wields, but Tiamat took them away in their showdown battle. They have wedges on the two ends. For ordinary people, there's no difference between them and the regular chains, however, the chains can seal Gods' divine power, without Gilgamesh's permission, no one can be unsealed, but Tiamat is an exception.",
+        "fame": "28",
+        "art": "15",
+        "fth": "15",
+        "civ": "14",
+        "tech": "18",
+        "ss1": "Paralyze enemy by +0.2%",
+        "ss2": "Paralyze enemy by +0.4%",
+        "ss3": "Paralyze enemy by +0.6%",
+        "ss4": "Paralyze enemy by +0.6%",
+        "ss7": "Paralyze enemy by +0.6%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Chains_of_Sky.wiki",
+  "markdown_path": "markdown/Chains_of_Sky.md"
+}

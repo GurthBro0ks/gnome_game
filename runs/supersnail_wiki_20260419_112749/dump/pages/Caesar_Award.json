@@ -1,0 +1,47 @@
+{
+  "pageid": 6820,
+  "ns": 0,
+  "title": "Caesar Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Caesar_Award",
+  "touched": "2025-08-11T10:56:31Z",
+  "length": 608,
+  "lastrevid": 38470,
+  "revision": {
+    "revid": 38470,
+    "parentid": 28004,
+    "timestamp": "2025-08-11T10:56:31Z",
+    "sha1": "d0f7c9d5491e93129cb1216849e369bbfe61102d",
+    "size": 608
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Caesar Award",
+        "class_id": "20091",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The Caesar Award is the highest honor for French films, jointly organized by the French Film Art Association and French TV Channel 2. Since its inception, it has unearthed countless top-notch movies and elevated French films to a prestigious position globally.",
+        "fame": "14",
+        "art": "13",
+        "fth": "17",
+        "civ": "30",
+        "tech": "16",
+        "ss1": "All Rocket Cabin production +1.2%",
+        "ss2": "All Rocket Cabin production +1.4%",
+        "ss3": "All Rocket Cabin production +1.6%",
+        "ss4": "All Rocket Cabin production +1.6%",
+        "ss7": "All Rocket Cabin production +1.6%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Caesar_Award.wiki",
+  "markdown_path": "markdown/Caesar_Award.md"
+}

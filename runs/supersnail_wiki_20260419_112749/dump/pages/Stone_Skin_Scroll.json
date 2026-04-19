@@ -1,0 +1,47 @@
+{
+  "pageid": 4072,
+  "ns": 0,
+  "title": "Stone Skin Scroll",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Stone_Skin_Scroll",
+  "touched": "2025-08-11T11:03:00Z",
+  "length": 746,
+  "lastrevid": 38753,
+  "revision": {
+    "revid": 38753,
+    "parentid": 25485,
+    "timestamp": "2025-08-11T11:03:00Z",
+    "sha1": "e2536bce950b72afb81884257d0782acd94d3f55",
+    "size": 746
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Stone Skin Scroll",
+        "class_id": "20220",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "After activating this spell, you obtain a rock shell that can absorb up to 1,000 DMG, lasting 40 seconds and reflecting damage. Note: The effect is halved on the summoned creatures!",
+        "fame": "11",
+        "art": "18",
+        "fth": "31",
+        "civ": "12",
+        "tech": "18",
+        "ss1": "Per 4 Novice Scrolls opened, Snail DEF +1<br>Novice Scrolls opened: 120/120",
+        "ss2": "Per 4 Novice Scrolls opened, Snail DEF +2<br>Novice Scrolls opened: 120/120",
+        "ss3": "Per 4 Novice Scrolls opened, Snail DEF +3<br>Novice Scrolls opened: 120/120",
+        "ss4": "Per 4 Novice Scrolls opened, Snail DEF +3<br>Novice Scrolls opened: 120/120",
+        "ss7": "Per 4 Novice Scrolls opened, Snail DEF +3<br>Novice Scrolls opened: 120/120<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Stone_Skin_Scroll.wiki",
+  "markdown_path": "markdown/Stone_Skin_Scroll.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4555,
+  "ns": 0,
+  "title": "Spencer's Microwave+Roentgen Ray Photo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Spencer%27s_Microwave%2BRoentgen_Ray_Photo",
+  "touched": "2025-06-19T23:59:24Z",
+  "length": 159,
+  "lastrevid": 35725,
+  "revision": {
+    "revid": 35725,
+    "parentid": 18452,
+    "timestamp": "2025-06-19T23:59:24Z",
+    "sha1": "cda19185b30a4139c9200057495a725b24590adb",
+    "size": 159
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "342",
+        "relics": "Spencer's Microwave,Roentgen Ray Photo",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Free Gene Speedup (Mecha) +30m"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Spencer_s_Microwave_Roentgen_Ray_Photo.wiki",
+  "markdown_path": "markdown/Spencer_s_Microwave_Roentgen_Ray_Photo.md"
+}

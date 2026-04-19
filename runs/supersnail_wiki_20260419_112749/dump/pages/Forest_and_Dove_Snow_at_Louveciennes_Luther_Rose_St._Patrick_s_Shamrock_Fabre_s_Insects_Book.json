@@ -1,0 +1,33 @@
+{
+  "pageid": 8442,
+  "ns": 0,
+  "title": "Forest and Dove+Snow at Louveciennes+Luther Rose+St. Patrick's Shamrock+Fabre's Insects Book",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Forest_and_Dove%2BSnow_at_Louveciennes%2BLuther_Rose%2BSt._Patrick%27s_Shamrock%2BFabre%27s_Insects_Book",
+  "touched": "2025-06-20T00:13:16Z",
+  "length": 261,
+  "lastrevid": 35972,
+  "revision": {
+    "revid": 35972,
+    "parentid": 34313,
+    "timestamp": "2025-06-20T00:13:16Z",
+    "sha1": "01dab9c2ad3bbfe6908e66d3e411226d010ad485",
+    "size": 261
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "648",
+        "relics": "Forest and Dove,Snow at Louveciennes,Luther Rose,St. Patrick's Shamrock,Fabre's Insects Book",
+        "rank": "blue",
+        "amount": "5",
+        "category": "self",
+        "description": "Per 10 Protolith Chests opened, Snail RUSH +8;Opened Protolith Chests: 500/500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Forest_and_Dove_Snow_at_Louveciennes_Luther_Rose_St._Patrick_s_Shamrock_Fabre_s_Insects_Book.wiki",
+  "markdown_path": "markdown/Forest_and_Dove_Snow_at_Louveciennes_Luther_Rose_St._Patrick_s_Shamrock_Fabre_s_Insects_Book.md"
+}

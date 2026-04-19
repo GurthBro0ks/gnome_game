@@ -1,0 +1,60 @@
+{
+  "pageid": 2179,
+  "ns": 0,
+  "title": "Glass Coffin",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Glass_Coffin",
+  "touched": "2024-09-06T09:58:43Z",
+  "length": 1873,
+  "lastrevid": 22414,
+  "revision": {
+    "revid": 22414,
+    "parentid": 21790,
+    "timestamp": "2024-02-21T02:47:58Z",
+    "sha1": "bcfcb2c220bd162ffee541cd06a9b039ffb13c8b",
+    "size": 1873
+  },
+  "categories": [
+    "Demon Minion Cloning Speed Boost",
+    "Demon Minion HP Boost",
+    "Enhanced by Lottery Draws",
+    "FTH Relics",
+    "Mutant Gene Speedup Boost",
+    "Purple FTH Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relics",
+    "Snail Arena Compass Boost",
+    "Wind DMG Boost",
+    "Wind RES Boost",
+    "Wraith Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Glass Coffin",
+        "rank": "AA",
+        "affct": "FTH",
+        "birthday": "01-25",
+        "source": "Fragment Crafting (3.8%), Lottery Machine (0.08%), Wishing (0.35%), Soul Chest (1.5%), Expert Scrolls (0.95%)",
+        "description": "On Jan 25, 3000 BC, Hades, the King of Underworld, kept his Queen Persephone in a crystal coffin. \n\nAs everything in the world was drying up, Demeter, the goddess of Abundance, had to meet the Queen of the Underworld. To make her stay, Hades hid his queen in a crystal coffin. But Demeter found the crystal coffin and took her away by using 6 pomegranates. After the Queen left the underworld and returned to the world, living things revived and grew, and mankind could live happily.",
+        "fame": "44",
+        "art": "44",
+        "fth": "68",
+        "civ": "41",
+        "tech": "31",
+        "ss1": "Demon Minion Cloning SPD +2%<br>Per 30 Demon Minions in battle, Troop HP +40",
+        "ss2": "Demon Minion Cloning SPD +3%<br>Per 30 Demon Minions in battle, Troop HP +80",
+        "ss3": "Demon Minion Cloning SPD +4%<br>Per 30 Demon Minions in battle, Troop HP +120",
+        "ss4": "Demon Minion Cloning SPD +6%<br>Per 30 Demon Minions in battle, Troop HP +200",
+        "ss5": "Demon Minion Cloning SPD +8%<br>Per 30 Demon Minions in battle, Troop HP +280",
+        "ss7": "Demon Minion Cloning SPD +8%<br>Per 30 Demon Minions in battle, Troop HP +280<br>Demon Minion Cloning SPD +7% (Awakened)",
+        "skill1": "[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, Wind RES +15",
+        "skill2": "[[File:Arena skill II.png|50px]] Place in Snail Arena Compass: In Snail Arena, Wind DMG +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Glass_Coffin.wiki",
+  "markdown_path": "markdown/Glass_Coffin.md"
+}

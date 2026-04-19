@@ -1,0 +1,33 @@
+{
+  "pageid": 3607,
+  "ns": 0,
+  "title": "Jormungandr Scale+Lionheart",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jormungandr_Scale%2BLionheart",
+  "touched": "2025-08-11T11:08:53Z",
+  "length": 133,
+  "lastrevid": 39009,
+  "revision": {
+    "revid": 39009,
+    "parentid": 13186,
+    "timestamp": "2025-08-11T11:08:53Z",
+    "sha1": "fa60ecd6f6b46d107474b8235ef2de8b9eaf74b1",
+    "size": 133
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "104",
+        "relics": "Jormungandr Scale,Lionheart",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jormungandr_Scale_Lionheart.wiki",
+  "markdown_path": "markdown/Jormungandr_Scale_Lionheart.md"
+}

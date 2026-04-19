@@ -1,0 +1,33 @@
+{
+  "pageid": 3737,
+  "ns": 0,
+  "title": "Gutenberg's Press+Turin Papyrus",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gutenberg%27s_Press%2BTurin_Papyrus",
+  "touched": "2025-07-02T09:50:05Z",
+  "length": 188,
+  "lastrevid": 37220,
+  "revision": {
+    "revid": 37220,
+    "parentid": 13635,
+    "timestamp": "2025-07-02T09:50:05Z",
+    "sha1": "3158de8c6934b83817e3473d59dae99b9bd52a22",
+    "size": 188
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "162",
+        "relics": "Gutenberg's Press,Turin Papyrus",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 RUSH-Fungi eaten, Snail RUSH +7;RUSH-Fungi Eaten: 500/500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gutenberg_s_Press_Turin_Papyrus.wiki",
+  "markdown_path": "markdown/Gutenberg_s_Press_Turin_Papyrus.md"
+}

@@ -1,0 +1,55 @@
+{
+  "pageid": 2202,
+  "ns": 0,
+  "title": "Sleeping Gypsy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sleeping_Gypsy",
+  "touched": "2024-11-04T01:11:06Z",
+  "length": 1399,
+  "lastrevid": 28747,
+  "revision": {
+    "revid": 28747,
+    "parentid": 26355,
+    "timestamp": "2024-08-12T17:13:15Z",
+    "sha1": "9a42643f54783e82b45270ff815eaf1725c43059",
+    "size": 1399
+  },
+  "categories": [
+    "ART Relics",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Exploration INTEL Boost",
+    "Indigent Nobleman Relics",
+    "Lottery Bead Color Change",
+    "Mutant Gene Speedup Boost",
+    "Relics",
+    "Tadpole Pond Output Boost",
+    "Tadpole Pond Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Sleeping Gypsy",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "08-21",
+        "source": "* Lottery Machine (0.03%), Wishing (1.2%)\n* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})\n* [[Kim Chi-yum]] - [[Rare Rent]]",
+        "description": "On Aug 21, 1997, Henri Rousseau created this exotic piece.\n\nIn this painting, a dark-skinned gypsy in a colorful costume was sleeping under the moonlight. She remained sleeping even when a dangerous lion approached. The painting is tranquil and poetic. This painting features sharp contours, bright colors, and beautiful lines. the color tones and composition have been carefully designed to create a harmonious and beautiful piece. Viewers can easily get immersed into the story, like they are walki …",
+        "fame": "29",
+        "art": "45",
+        "fth": "26",
+        "civ": "33",
+        "tech": "21",
+        "ss1": "Free Gene Speedup (Mutant) +6m",
+        "ss2": "Free Gene Speedup (Mutant) +12m",
+        "ss3": "Free Gene Speedup (Mutant) +18m",
+        "ss4": "Free Gene Speedup (Mutant) +30m",
+        "ss7": "Free Gene Speedup (Mutant) +30m<br>Free Gene Speedup (Mutant) +30m (Awakened)",
+        "skill1": "[[File:Tadpolepond skill I.png|50px]]Place in Tadpole Pond: Max Cap +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sleeping_Gypsy.wiki",
+  "markdown_path": "markdown/Sleeping_Gypsy.md"
+}

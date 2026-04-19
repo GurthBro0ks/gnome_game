@@ -1,0 +1,33 @@
+{
+  "pageid": 10861,
+  "ns": 0,
+  "title": "Wild Pansy's Juice+Treasure Island",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wild_Pansy%27s_Juice%2BTreasure_Island",
+  "touched": "2025-08-11T11:03:52Z",
+  "length": 148,
+  "lastrevid": 38790,
+  "revision": {
+    "revid": 38790,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:03:52Z",
+    "sha1": "55f4ec144d1843c4efc0e2296c4e7a8455c89ce3",
+    "size": 148
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "405",
+        "relics": "Wild Pansy's Juice,Treasure Island",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Gaia Cabin Output +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wild_Pansy_s_Juice_Treasure_Island.wiki",
+  "markdown_path": "markdown/Wild_Pansy_s_Juice_Treasure_Island.md"
+}

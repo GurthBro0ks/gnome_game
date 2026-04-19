@@ -1,0 +1,47 @@
+{
+  "pageid": 1337,
+  "ns": 0,
+  "title": "Agent Permit A-VII",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Agent_Permit_A-VII",
+  "touched": "2025-08-11T10:50:00Z",
+  "length": 824,
+  "lastrevid": 38191,
+  "revision": {
+    "revid": 38191,
+    "parentid": 20050,
+    "timestamp": "2025-08-11T10:50:00Z",
+    "sha1": "b15c76130f97796cf2e23f48c1c09a5668429182",
+    "size": 824
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Agent Permit A-VII",
+        "class_id": "20330",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The holder of the card is a senior agent of the Bureau of Investigation and has law enforcement powers in accordance with federal statutes. Please cooperate with their inquiries and searches, otherwise the agent has the right to use force! —Bureau of Investigation (Stamp)",
+        "fame": "11",
+        "art": "13",
+        "fth": "19",
+        "civ": "17",
+        "tech": "30",
+        "ss1": "Per Senior Agent defeated, Snail HP +30<br>Senior Agents Defeated: 20/20",
+        "ss2": "Per Senior Agent defeated, Snail HP +60<br>Senior Agents Defeated: 20/20",
+        "ss3": "Per Senior Agent defeated, Snail HP +90<br>Senior Agents Defeated: 20/20",
+        "ss4": "Per Senior Agent defeated, Snail HP +90<br>Senior Agents Defeated: 20/20",
+        "ss7": "Per Senior Agent defeated, Snail HP +90<br>Senior Agents Defeated: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Agent_Permit_A-VII.wiki",
+  "markdown_path": "markdown/Agent_Permit_A-VII.md"
+}

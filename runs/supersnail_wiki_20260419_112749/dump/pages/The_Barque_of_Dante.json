@@ -1,0 +1,51 @@
+{
+  "pageid": 8702,
+  "ns": 0,
+  "title": "The Barque of Dante",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Barque_of_Dante",
+  "touched": "2025-06-16T20:54:19Z",
+  "length": 944,
+  "lastrevid": 34671,
+  "revision": {
+    "revid": 34671,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:54:19Z",
+    "sha1": "f0f257e746caa9f70786779381242ed14d73bf13",
+    "size": 944
+  },
+  "categories": [
+    "ART Relics",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Barque of Dante",
+        "class_id": "22436",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "07-24",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Jul 24, 1822 AD, Delacroix created the oil painting The Barque of Dante.<br>This oil painting is a masterpiece of the Romantic painter Delacroix. Its content is based on the Divine Comedy, depicting the scene of Virgil leading the poet Dante across the river Styx in a small boat, where the souls of the dead crowded around them. The painting, using Romantic techniques, depicts people tortured by passion and death threats, making the painting a landmark of the Romantic movement.",
+        "fame": "18",
+        "art": "44",
+        "fth": "29",
+        "civ": "35",
+        "tech": "28",
+        "ss1": "Demon Minion ATK +1%",
+        "ss2": "Demon Minion ATK +2%",
+        "ss3": "Demon Minion ATK +3%",
+        "ss4": "Demon Minion ATK +5%",
+        "ss7": "Demon Minion ATK +5%<br>Demon Minion ATK +5% (Awakened)",
+        "skill1": "[[File:Desertsanctum skill I.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Barque_of_Dante.wiki",
+  "markdown_path": "markdown/The_Barque_of_Dante.md"
+}

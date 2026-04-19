@@ -1,0 +1,33 @@
+{
+  "pageid": 3948,
+  "ns": 0,
+  "title": "Charlemagne Statue+Alexander the Great",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Charlemagne_Statue%2BAlexander_the_Great",
+  "touched": "2025-08-11T11:11:11Z",
+  "length": 197,
+  "lastrevid": 39105,
+  "revision": {
+    "revid": 39105,
+    "parentid": 14499,
+    "timestamp": "2025-08-11T11:11:11Z",
+    "sha1": "d4506c0098a4f7a58c1c4fb8058e870254fa1821",
+    "size": 197
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "292",
+        "relics": "Charlemagne Statue,Alexander the Great",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 20 Orange Orbs drawn, Snail ATK +14;Orange Orbs Drawn: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Charlemagne_Statue_Alexander_the_Great.wiki",
+  "markdown_path": "markdown/Charlemagne_Statue_Alexander_the_Great.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 342,
+  "ns": 0,
+  "title": "SpongeRob",
+  "fullurl": "https://supersnail.wiki.gg/wiki/SpongeRob",
+  "touched": "2025-08-11T11:03:22Z",
+  "length": 880,
+  "lastrevid": 38769,
+  "revision": {
+    "revid": 38769,
+    "parentid": 11511,
+    "timestamp": "2025-08-11T11:03:22Z",
+    "sha1": "c9dcc485a13ea0b3214f06f34205d82529817e94",
+    "size": 880
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "SpongeRob",
+        "class_id": "20418",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This sponge is indigenous to the remote part of Bibini Bottom, the home to many marine life! The sponge is the most unique presence among them... As the most primitive multicellular creature, it has neither limbs, nervous systems, nor organs, and comes off looking like an insignificant piece of collagen!",
+        "fame": "29",
+        "art": "10",
+        "fth": "14",
+        "civ": "18",
+        "tech": "19",
+        "ss1": "Per Sea Area conquered, Snail HP +50<br>Areas of Mysterious Sea Conquered: 6/6",
+        "ss2": "Per Sea Area conquered, Snail HP +100<br>Areas of Mysterious Sea Conquered: 6/6",
+        "ss3": "Per Sea Area conquered, Snail HP +150<br>Areas of Mysterious Sea Conquered: 6/6",
+        "ss4": "Per Sea Area conquered, Snail HP +150<br>Areas of Mysterious Sea Conquered: 6/6",
+        "ss7": "Per Sea Area conquered, Snail HP +150<br>Areas of Mysterious Sea Conquered: 6/6<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/SpongeRob.wiki",
+  "markdown_path": "markdown/SpongeRob.md"
+}

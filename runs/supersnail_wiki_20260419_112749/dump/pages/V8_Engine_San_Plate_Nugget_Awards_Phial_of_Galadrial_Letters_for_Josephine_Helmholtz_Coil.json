@@ -1,0 +1,33 @@
+{
+  "pageid": 9986,
+  "ns": 0,
+  "title": "V8 Engine+San Plate+Nugget Awards+Phial of Galadrial+Letters for Josephine+Helmholtz Coil",
+  "fullurl": "https://supersnail.wiki.gg/wiki/V8_Engine%2BSan_Plate%2BNugget_Awards%2BPhial_of_Galadrial%2BLetters_for_Josephine%2BHelmholtz_Coil",
+  "touched": "2025-08-11T10:34:01Z",
+  "length": 202,
+  "lastrevid": 37497,
+  "revision": {
+    "revid": 37497,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:34:01Z",
+    "sha1": "b5770d2595d55c70820d4b0fe9051001769bb0c1",
+    "size": 202
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "451",
+        "relics": "V8 Engine,San Plate,Nugget Awards,Phial of Galadrial,Letters for Josephine,Helmholtz Coil",
+        "rank": "purple",
+        "amount": "6",
+        "category": "self",
+        "description": "Snail Leadership +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/V8_Engine_San_Plate_Nugget_Awards_Phial_of_Galadrial_Letters_for_Josephine_Helmholtz_Coil.wiki",
+  "markdown_path": "markdown/V8_Engine_San_Plate_Nugget_Awards_Phial_of_Galadrial_Letters_for_Josephine_Helmholtz_Coil.md"
+}

@@ -1,0 +1,51 @@
+{
+  "pageid": 8860,
+  "ns": 0,
+  "title": "Luther Rose",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Luther_Rose",
+  "touched": "2025-06-16T21:01:10Z",
+  "length": 955,
+  "lastrevid": 34849,
+  "revision": {
+    "revid": 34849,
+    "parentid": 0,
+    "timestamp": "2025-06-16T21:01:06Z",
+    "sha1": "93066bc9325f260b1e93e8794d4bda06900d63ed",
+    "size": 955
+  },
+  "categories": [
+    "Blue FAITH Relics",
+    "Blue Relics",
+    "FAITH Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Luther Rose",
+        "class_id": "22457",
+        "rank": "Blue",
+        "affct": "FAITH",
+        "birthday": "12-04",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Dec 4, 1516 AD, Martin Luther designed this famous emblem.<br>The Luther Rose, an emblem of Lutheranism, was designed by its founder, Martin Luther. He combined symbolic elements of Christianity such as the black cross, red heart, and white rose to create this emblem. The Luther Rose represents his reinterpretation of ancient doctrine and emergence of new theological theories. Today, due to the significant influence of Martin Luther and the Reformation, the Luther Rose is still highly revered …",
+        "fame": "27",
+        "art": "34",
+        "fth": "45",
+        "civ": "20",
+        "tech": "28",
+        "ss1": "Angel Minion ATK +1%",
+        "ss2": "Angel Minion ATK +2%",
+        "ss3": "Angel Minion ATK +3%",
+        "ss4": "Angel Minion ATK +5%",
+        "ss7": "Angel Minion ATK +5%<br>Angel Minion ATK +5% (Awakened)",
+        "skill1": "[[File:Desertsanctum skill I.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Luther_Rose.wiki",
+  "markdown_path": "markdown/Luther_Rose.md"
+}

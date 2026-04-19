@@ -1,0 +1,33 @@
+{
+  "pageid": 3898,
+  "ns": 0,
+  "title": "Outer Space Treaty+Lincoln Statue+Dragonspine Medal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Outer_Space_Treaty%2BLincoln_Statue%2BDragonspine_Medal",
+  "touched": "2025-08-11T10:42:12Z",
+  "length": 209,
+  "lastrevid": 37847,
+  "revision": {
+    "revid": 37847,
+    "parentid": 31548,
+    "timestamp": "2025-08-11T10:42:12Z",
+    "sha1": "a8ba4a88bc25f568242c0c3fe654c77625feff9d",
+    "size": 209
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "542",
+        "relics": "Outer Space Treaty,Lincoln Statue,Dragonspine Medal",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 5 Rocket Tech LVLs, Snail HP +160;Rocket Tech Upgraded: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Outer_Space_Treaty_Lincoln_Statue_Dragonspine_Medal.wiki",
+  "markdown_path": "markdown/Outer_Space_Treaty_Lincoln_Statue_Dragonspine_Medal.md"
+}

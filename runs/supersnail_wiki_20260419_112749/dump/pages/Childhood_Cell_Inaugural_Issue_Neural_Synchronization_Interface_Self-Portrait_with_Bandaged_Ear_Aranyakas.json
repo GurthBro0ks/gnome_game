@@ -1,0 +1,35 @@
+{
+  "pageid": 7960,
+  "ns": 0,
+  "title": "Childhood+Cell Inaugural Issue+Neural Synchronization Interface+Self-Portrait with Bandaged Ear+Aranyakas",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Childhood%2BCell_Inaugural_Issue%2BNeural_Synchronization_Interface%2BSelf-Portrait_with_Bandaged_Ear%2BAranyakas",
+  "touched": "2025-02-22T17:24:44Z",
+  "length": 290,
+  "lastrevid": 33412,
+  "revision": {
+    "revid": 33412,
+    "parentid": 0,
+    "timestamp": "2025-02-22T01:48:53Z",
+    "sha1": "e91fc98a5d06e57e94ba95d744f0f613275be668",
+    "size": 290
+  },
+  "categories": [
+    "Home",
+    "Wormhole Refinement SPD Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Childhood,Cell Inaugural Issue,Neural Synchronization Interface,Self-Portrait with Bandaged Ear,Aranyakas",
+        "rank": "orange",
+        "amount": "5",
+        "category": "home",
+        "description": "Wormhole Refinement SPD +4%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Childhood_Cell_Inaugural_Issue_Neural_Synchronization_Interface_Self-Portrait_with_Bandaged_Ear_Aranyakas.wiki",
+  "markdown_path": "markdown/Childhood_Cell_Inaugural_Issue_Neural_Synchronization_Interface_Self-Portrait_with_Bandaged_Ear_Aranyakas.md"
+}

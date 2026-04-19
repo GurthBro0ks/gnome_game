@@ -1,0 +1,45 @@
+{
+  "pageid": 2015,
+  "ns": 0,
+  "title": "Shinkage Ryu Shift",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Shinkage_Ryu_Shift",
+  "touched": "2024-09-06T14:48:44Z",
+  "length": 515,
+  "lastrevid": 16480,
+  "revision": {
+    "revid": 16480,
+    "parentid": 11595,
+    "timestamp": "2023-11-07T09:29:15Z",
+    "sha1": "7ee8ddedd3ac4737a7a6763d36ced48ff6fc50a2",
+    "size": 515
+  },
+  "categories": [
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Shinkage Ryu Shift",
+        "rank": "Green",
+        "affct": "FTH",
+        "source": "[[Yamato Domain]]",
+        "description": "In the fourth year of Henroku, Fencer Kamiizumi mastered the Shadow Swordsmanship, from which he created the New Shadow Technique. Compared with the former skill, the new skill requires bamboo swords in practice. By giving up the intention of killing can one realize the sword's spirit!",
+        "fame": "18",
+        "art": "12",
+        "fth": "31",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Fungus Farm Output +2%",
+        "ss2": "Fungus Farm Output +4%",
+        "ss3": "Fungus Farm Output +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Shinkage_Ryu_Shift.wiki",
+  "markdown_path": "markdown/Shinkage_Ryu_Shift.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 10902,
+  "ns": 0,
+  "title": "Collection@20977 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20977_1",
+  "touched": "2025-08-11T11:05:06Z",
+  "length": 643,
+  "lastrevid": 38841,
+  "revision": {
+    "revid": 38841,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:05:06Z",
+    "sha1": "2cc2ebaf40ebe3f9ae46606ab40d7f19877b43b5",
+    "size": 643
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20977_1",
+        "class_id": "20977",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "collection@20977_2",
+        "fame": "31",
+        "art": "17",
+        "fth": "16",
+        "civ": "15",
+        "tech": "11",
+        "ss1": "Snail HP +100<br>Per 5 Cathay INTEL LVLs, Snail RUSH +1<br>LVL of Cathay INTEL: 100/100",
+        "ss2": "Snail HP +200<br>Per 5 Cathay INTEL LVLs, Snail RUSH +2<br>LVL of Cathay INTEL: 100/100",
+        "ss3": "Snail HP +300<br>Per 5 Cathay INTEL LVLs, Snail RUSH +3<br>LVL of Cathay INTEL: 100/100",
+        "ss4": "Snail HP +300<br>Per 5 Cathay INTEL LVLs, Snail RUSH +3<br>LVL of Cathay INTEL: 100/100",
+        "ss7": "Snail HP +300<br>Per 5 Cathay INTEL LVLs, Snail RUSH +3<br>LVL of Cathay INTEL: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20977_1.wiki",
+  "markdown_path": "markdown/Collection_20977_1.md"
+}

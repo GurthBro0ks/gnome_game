@@ -1,0 +1,47 @@
+{
+  "pageid": 10979,
+  "ns": 0,
+  "title": "Gemologist Certificate",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gemologist_Certificate",
+  "touched": "2025-08-11T11:07:43Z",
+  "length": 1012,
+  "lastrevid": 38962,
+  "revision": {
+    "revid": 38962,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:07:43Z",
+    "sha1": "5f912b67d6b150732b0c653050d0e6e7e5df13b8",
+    "size": 1012
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gemologist Certificate",
+        "class_id": "20160",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This certificate is the proof of one's master-level gem identification skills, and it can only be issued after one passes extremely strict assessments and gets the approval from the experts in the industry. Those who hold this certificate are given the authority of gem-pricing and gem-trade across the world!",
+        "fame": "15",
+        "art": "31",
+        "fth": "14",
+        "civ": "16",
+        "tech": "14",
+        "ss1": "New Mirage Gem added to Relic Forge<br>Per Gem Resonance LVL, Snail ATK +2<br>Gem Resonance LVL: 80/80",
+        "ss2": "New Mirage Gem added to Relic Forge<br>Per Gem Resonance LVL, Snail ATK +4<br>Gem Resonance LVL: 80/80",
+        "ss3": "New Mirage Gem added to Relic Forge<br>Per Gem Resonance LVL, Snail ATK +6<br>Gem Resonance LVL: 80/80",
+        "ss4": "New Mirage Gem added to Relic Forge<br>Per Gem Resonance LVL, Snail ATK +6<br>Gem Resonance LVL: 80/80",
+        "ss7": "New Mirage Gem added to Relic Forge<br>Per Gem Resonance LVL, Snail ATK +6<br>Gem Resonance LVL: 80/80<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gemologist_Certificate.wiki",
+  "markdown_path": "markdown/Gemologist_Certificate.md"
+}

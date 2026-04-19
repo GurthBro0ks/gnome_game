@@ -1,0 +1,58 @@
+{
+  "pageid": 5131,
+  "ns": 0,
+  "title": "Magdeberg Hemispheres",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Magdeberg_Hemispheres",
+  "touched": "2024-09-06T09:58:22Z",
+  "length": 1265,
+  "lastrevid": 24000,
+  "revision": {
+    "revid": 24000,
+    "parentid": 23591,
+    "timestamp": "2024-03-16T09:03:35Z",
+    "sha1": "5c63fd3fd6a3a748c0b868c4362f73e8abc2017d",
+    "size": 1265
+  },
+  "categories": [
+    "DEF Boost",
+    "Dragon Minion ATK Boost",
+    "Enhanced by Gaia Tech Points",
+    "Gaia Cabin Output Boost",
+    "HP Boost",
+    "Missing Info",
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "Rift Exploration Boost",
+    "Rift Museum Boost",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Magdeberg Hemispheres",
+        "rank": "AA",
+        "affct": "TECH",
+        "birthday": "09-19",
+        "source": "Lottery Machine No. 2 (0.12%)",
+        "fame": "43",
+        "art": "32",
+        "fth": "46",
+        "civ": "39",
+        "tech": "68",
+        "ss1": "Gaia Cabin Output +2%<br>Per 1.2k Gaia Tech Pts, Snail HP +20<br>Gaia TECH Pts: 60,000/60,000",
+        "ss2": "Gaia Cabin Output +3%<br>Per 1.2k Gaia Tech Pts, Snail HP +30<br>Gaia TECH Pts: 60,000/60,000",
+        "ss3": "Gaia Cabin Output +4%<br>Per 1.2k Gaia Tech Pts, Snail HP +40<br>Gaia TECH Pts: 60,000/60,000",
+        "ss4": "Gaia Cabin Output +6%<br>Per 1.2k Gaia Tech Pts, Snail HP +60<br>Gaia TECH Pts: 60,000/60,000",
+        "ss5": "Gaia Cabin Output +8%<br>Per 1.2k Gaia Tech Pts, Snail HP +80<br>Gaia TECH Pts: 60,000/60,000",
+        "ss7": "Gaia Cabin Output +8%<br>Per 1.2k Gaia Tech Pts, Snail HP +80<br>Gaia TECH Pts: 60,000/60,000<br>Gaia Cabin Output +7% (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]] Place in Rift Museum: In the Rift, Snail TECH +400",
+        "skill2": "[[File:Rift skill II.png|50px]] Place in Rift Museum: In the Rift, 2x Green Reagent Drops +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Magdeberg_Hemispheres.wiki",
+  "markdown_path": "markdown/Magdeberg_Hemispheres.md"
+}

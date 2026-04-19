@@ -1,0 +1,33 @@
+{
+  "pageid": 8868,
+  "ns": 0,
+  "title": "Iliad & Odyssey+Arthur's Roundtable+St. Louisa Goblet+Swan Lake+Ode to Joy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Iliad_%26_Odyssey%2BArthur%27s_Roundtable%2BSt._Louisa_Goblet%2BSwan_Lake%2BOde_to_Joy",
+  "touched": "2025-06-19T23:54:15Z",
+  "length": 226,
+  "lastrevid": 35670,
+  "revision": {
+    "revid": 35670,
+    "parentid": 34862,
+    "timestamp": "2025-06-19T23:54:15Z",
+    "sha1": "2150d7c20048f2aa29c8e5bb749d093b99182dd8",
+    "size": 226
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "265",
+        "relics": "Iliad & Odyssey,Arthur's Roundtable,St. Louisa Goblet,Swan Lake,Ode to Joy",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "Per 1k DNA Strength, Snail ATK +5;DNA Strength: 60000/60000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Iliad_Odyssey_Arthur_s_Roundtable_St._Louisa_Goblet_Swan_Lake_Ode_to_Joy.wiki",
+  "markdown_path": "markdown/Iliad_Odyssey_Arthur_s_Roundtable_St._Louisa_Goblet_Swan_Lake_Ode_to_Joy.md"
+}

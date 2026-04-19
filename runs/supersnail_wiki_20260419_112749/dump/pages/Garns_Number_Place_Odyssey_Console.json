@@ -1,0 +1,33 @@
+{
+  "pageid": 9278,
+  "ns": 0,
+  "title": "Garns Number Place+Odyssey Console",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Garns_Number_Place%2BOdyssey_Console",
+  "touched": "2025-06-20T00:18:33Z",
+  "length": 145,
+  "lastrevid": 36138,
+  "revision": {
+    "revid": 36138,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:18:33Z",
+    "sha1": "72cd7e41eefe8c87e295cd2eab26fc923fb5974d",
+    "size": 145
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "599",
+        "relics": "Garns Number Place,Odyssey Console",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HARD Stats +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Garns_Number_Place_Odyssey_Console.wiki",
+  "markdown_path": "markdown/Garns_Number_Place_Odyssey_Console.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 10553,
+  "ns": 0,
+  "title": "Broken Crown",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Broken_Crown",
+  "touched": "2025-08-11T10:54:36Z",
+  "length": 759,
+  "lastrevid": 38388,
+  "revision": {
+    "revid": 38388,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:54:36Z",
+    "sha1": "fe7dee2907bffccd767800c192fee65cededf979",
+    "size": 759
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Broken Crown",
+        "class_id": "20101",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Gastric juice dissolved all of the crown's ornaments, but its main body remains intact. Shining under the sun's rays, its shimmering body makes it seem extraordinary.",
+        "fame": "12",
+        "art": "15",
+        "fth": "14",
+        "civ": "32",
+        "tech": "17",
+        "ss1": "Snail HP +200<br>Per 5 CIV Pistils Used, Snail ATK +1<br>CIV Pistils Used: 100/100",
+        "ss2": "Snail HP +400<br>Per 5 CIV Pistils Used, Snail ATK +2<br>CIV Pistils Used: 100/100",
+        "ss3": "Snail HP +600<br>Per 5 CIV Pistils Used, Snail ATK +3<br>CIV Pistils Used: 100/100",
+        "ss4": "Snail HP +600<br>Per 5 CIV Pistils Used, Snail ATK +3<br>CIV Pistils Used: 100/100",
+        "ss7": "Snail HP +600<br>Per 5 CIV Pistils Used, Snail ATK +3<br>CIV Pistils Used: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Broken_Crown.wiki",
+  "markdown_path": "markdown/Broken_Crown.md"
+}

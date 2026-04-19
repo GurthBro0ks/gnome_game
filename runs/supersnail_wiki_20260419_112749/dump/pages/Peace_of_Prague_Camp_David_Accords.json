@@ -1,0 +1,33 @@
+{
+  "pageid": 8445,
+  "ns": 0,
+  "title": "Peace of Prague+Camp David Accords",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Peace_of_Prague%2BCamp_David_Accords",
+  "touched": "2025-06-20T00:13:21Z",
+  "length": 138,
+  "lastrevid": 35976,
+  "revision": {
+    "revid": 35976,
+    "parentid": 34318,
+    "timestamp": "2025-06-20T00:13:21Z",
+    "sha1": "a752bdbe7cc7bafb605e822abd260c00f712f4bd",
+    "size": 138
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "605",
+        "relics": "Peace of Prague,Camp David Accords",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Peace_of_Prague_Camp_David_Accords.wiki",
+  "markdown_path": "markdown/Peace_of_Prague_Camp_David_Accords.md"
+}

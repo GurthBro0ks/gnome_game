@@ -1,0 +1,34 @@
+{
+  "pageid": 3284,
+  "ns": 0,
+  "title": "Marseilles Statue+Benin Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Marseilles_Statue%2BBenin_Statue",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 156,
+  "lastrevid": 11954,
+  "revision": {
+    "revid": 11954,
+    "parentid": 0,
+    "timestamp": "2023-09-12T17:04:03Z",
+    "sha1": "2cb984e4653c477e746c6680a7ed53daf75f73c6",
+    "size": 156
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Marseilles Statue,Benin Statue",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Marseilles_Statue_Benin_Statue.wiki",
+  "markdown_path": "markdown/Marseilles_Statue_Benin_Statue.md"
+}

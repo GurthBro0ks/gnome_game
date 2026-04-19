@@ -1,0 +1,46 @@
+{
+  "pageid": 10372,
+  "ns": 0,
+  "title": "Gift from Leeku",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gift_from_Leeku",
+  "touched": "2025-08-11T10:48:35Z",
+  "length": 251,
+  "lastrevid": 38125,
+  "revision": {
+    "revid": 38125,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:48:35Z",
+    "sha1": "80fae20ac858975da82a016cede8932f7add2163",
+    "size": 251
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gift from Leeku",
+        "class_id": "20007",
+        "rank": "Green",
+        "affct": "CIV",
+        "fame": "18",
+        "art": "13",
+        "fth": "18",
+        "civ": "28",
+        "tech": "13",
+        "ss1": "Snail HP +100",
+        "ss2": "Snail HP +200",
+        "ss3": "Snail HP +300",
+        "ss4": "Snail HP +300",
+        "ss7": "Snail HP +300<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gift_from_Leeku.wiki",
+  "markdown_path": "markdown/Gift_from_Leeku.md"
+}

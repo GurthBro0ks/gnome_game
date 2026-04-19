@@ -1,0 +1,33 @@
+{
+  "pageid": 4594,
+  "ns": 0,
+  "title": "Earthly Delight Garden+The Blue Marble",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Earthly_Delight_Garden%2BThe_Blue_Marble",
+  "touched": "2025-06-20T00:01:21Z",
+  "length": 173,
+  "lastrevid": 35785,
+  "revision": {
+    "revid": 35785,
+    "parentid": 18337,
+    "timestamp": "2025-06-20T00:01:21Z",
+    "sha1": "d82a21d14023ecdb70588c94a3a2b5c3782225af",
+    "size": 173
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "312",
+        "relics": "Earthly Delight Garden,The Blue Marble",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Angel Minions in battle: Troop DEF +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Earthly_Delight_Garden_The_Blue_Marble.wiki",
+  "markdown_path": "markdown/Earthly_Delight_Garden_The_Blue_Marble.md"
+}

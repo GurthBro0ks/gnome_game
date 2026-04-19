@@ -1,0 +1,53 @@
+{
+  "pageid": 10186,
+  "ns": 0,
+  "title": "Eiffel Tower Blueprints",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Eiffel_Tower_Blueprints",
+  "touched": "2025-08-11T10:42:08Z",
+  "length": 1917,
+  "lastrevid": 37845,
+  "revision": {
+    "revid": 37845,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:42:08Z",
+    "sha1": "06136b3ed46dd2c13b58b1f731ccbcac5b205131",
+    "size": 1917
+  },
+  "categories": [
+    "FAME Relics",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Eiffel Tower Blueprints",
+        "class_id": "21037",
+        "rank": "SSS",
+        "affct": "FAME",
+        "description": "A radical fusion of industrial mathematics and Art Nouveau audacity, these 1889 drawings birthed Paris’ iron icon. Gustave Eiffel’s team defied gravity (and critics) with 18,038 interlocking parts—transforming steel into a lattice of pure ambition. More than construction plans, they became the DNA of steampunk fantasy, their geometric poetry still shaping skylines from Vegas to anime cities.",
+        "fame": "107",
+        "art": "54",
+        "fth": "57",
+        "civ": "69",
+        "tech": "75",
+        "ss1": "Snail Leadership +3<br>Per tier up for Epochbough, Snail HP + 60<br>Per tier up for Epochbough, Snail Murky Power + 6<br>Epochbough: T30/30",
+        "ss2": "Snail Leadership +4<br>Per tier up for Epochbough, Snail HP + 80<br>Per tier up for Epochbough, Snail Murky Power + 8<br>Epochbough: T30/30",
+        "ss3": "Snail Leadership +5<br>Per tier up for Epochbough, Snail HP + 100<br>Per tier up for Epochbough, Snail Murky Power + 10<br>Epochbough: T30/30",
+        "ss4": "Snail Leadership +7<br>Per tier up for Epochbough, Snail HP + 140<br>Per tier up for Epochbough, Snail Murky Power + 14<br>Epochbough: T30/30",
+        "ss5": "Snail Leadership +9<br>Per tier up for Epochbough, Snail HP + 180<br>Per tier up for Epochbough, Snail Murky Power + 18<br>Epochbough: T30/30",
+        "ss6": "Snail Leadership +12<br>Per tier up for Epochbough, Snail HP + 240<br>Per tier up for Epochbough, Snail Murky Power + 24<br>Epochbough: T30/30",
+        "ss7": "Snail Leadership +12<br>Per tier up for Epochbough, Snail HP + 240<br>Per tier up for Epochbough, Snail Murky Power + 24<br>Epochbough: T30/30<br>Snail Leadership +5 (Awakened)",
+        "skill1": "[[File:Murkyglen skill III.png|50px]]Placed in Murky Glen:Murky Glen, Wish Coin output speed+30%",
+        "skill2": "[[File:Murkyglen skill III.png|50px]]Placed in Murky Glen:Murky Glen, Relic FAME +15",
+        "skill3": "[[File:Murkyglen skill III.png|50px]]Placed in Murky Glen:Murky Glen, Zone SUP effect reduced by 30%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Eiffel_Tower_Blueprints.wiki",
+  "markdown_path": "markdown/Eiffel_Tower_Blueprints.md"
+}

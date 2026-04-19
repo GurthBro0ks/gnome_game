@@ -1,0 +1,34 @@
+{
+  "pageid": 3729,
+  "ns": 0,
+  "title": "The Last Supper+Holy Loaves",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Last_Supper%2BHoly_Loaves",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 155,
+  "lastrevid": 13627,
+  "revision": {
+    "revid": 13627,
+    "parentid": 0,
+    "timestamp": "2023-10-01T09:31:03Z",
+    "sha1": "26db89a6151399d62eabd7f2a38316581f26d089",
+    "size": 155
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Last Supper,Holy Loaves",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Last_Supper_Holy_Loaves.wiki",
+  "markdown_path": "markdown/The_Last_Supper_Holy_Loaves.md"
+}

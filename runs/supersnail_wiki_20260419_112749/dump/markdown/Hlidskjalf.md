@@ -1,0 +1,5 @@
+|3name=Baldr|3rec=489.29M|3atk=1072291|3defense=602756|3hp=391611381|3weak=74481
+|4name=dungeon_event@2419_1|4rec=611.85M|4atk=1339833|4defense=713013|4hp=586307086|4weak=80989
+|5name=Odin|5rec=831.15M|5atk=1973267|5defense=940913|5hp=984667605|5weak=91343
+|Arec=1204.34M|Aatk=3054889|Adefense=1312762|Ahp=1864380348|Aweak=103498
+}}}}

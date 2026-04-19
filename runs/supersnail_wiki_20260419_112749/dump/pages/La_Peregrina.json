@@ -1,0 +1,52 @@
+{
+  "pageid": 5052,
+  "ns": 0,
+  "title": "La Peregrina",
+  "fullurl": "https://supersnail.wiki.gg/wiki/La_Peregrina",
+  "touched": "2025-06-20T00:10:43Z",
+  "length": 1649,
+  "lastrevid": 35951,
+  "revision": {
+    "revid": 35951,
+    "parentid": 35168,
+    "timestamp": "2025-06-20T00:10:43Z",
+    "sha1": "dc24a2566a6136674502699b278e8eba0fa08640",
+    "size": 1649
+  },
+  "categories": [
+    "ART Relics",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "La Peregrina",
+        "class_id": "22142",
+        "rank": "AAA",
+        "affct": "ART",
+        "birthday": "08-16",
+        "source": "Lottery Machine No.2 (0.06%), Wishing (0.02%)",
+        "description": "On Aug 16, 1513 AD, La Peregrinawas given to the Spanish King by a viceroy.<br>La Peregrina is a perfectly shaped, fifty-carat teardrop pearl with a fascinating history that has spanned over four centuries and traveled through the royal houses of France, Spain, and England. While many of its contemporaries have been lost, this pearl has been preserved in all its beauty.",
+        "fame": "34",
+        "art": "73",
+        "fth": "43",
+        "civ": "50",
+        "tech": "43",
+        "ss1": "When converting cards in Species Wars, B-tads gained +3%<br>Per 1.5k Tadpole Points, Snail HP +30<br>Tadpole Points: 45000/45000",
+        "ss2": "When converting cards in Species Wars, B-tads gained +4%<br>Per 1.5k Tadpole Points, Snail HP +40<br>Tadpole Points: 45000/45000",
+        "ss3": "When converting cards in Species Wars, B-tads gained +5%<br>Per 1.5k Tadpole Points, Snail HP +50<br>Tadpole Points: 45000/45000",
+        "ss4": "When converting cards in Species Wars, B-tads gained +7%<br>Per 1.5k Tadpole Points, Snail HP +70<br>Tadpole Points: 45000/45000",
+        "ss5": "When converting cards in Species Wars, B-tads gained +9%<br>Per 1.5k Tadpole Points, Snail HP +90<br>Tadpole Points: 45000/45000",
+        "ss7": "When converting cards in Species Wars, B-tads gained +9%<br>Per 1.5k Tadpole Points, Snail HP +90<br>Tadpole Points: 45000/45000<br>When converting cards in Species Wars, B-tads gained +7% (Awakened)",
+        "skill1": "[[File:Compass skill II.png|50px]]Place in Exploration Compass: Snail ATK +60",
+        "skill2": "[[File:Compass skill II.png|50px]]Place in Exploration Compass: In explorations, 2x Purple Reagent Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/La_Peregrina.wiki",
+  "markdown_path": "markdown/La_Peregrina.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 3790,
+  "ns": 0,
+  "title": "Shahnameh+The Art of War+Faust",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Shahnameh%2BThe_Art_of_War%2BFaust",
+  "touched": "2025-06-20T00:05:31Z",
+  "length": 163,
+  "lastrevid": 35876,
+  "revision": {
+    "revid": 35876,
+    "parentid": 13688,
+    "timestamp": "2025-06-20T00:05:31Z",
+    "sha1": "a3659510f8b09a62f9e04c1a7a3add851bce4245",
+    "size": 163
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "235",
+        "relics": "Shahnameh,The Art of War,Faust",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per Orange+ Gear equipped, Snail DEF +16"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Shahnameh_The_Art_of_War_Faust.wiki",
+  "markdown_path": "markdown/Shahnameh_The_Art_of_War_Faust.md"
+}

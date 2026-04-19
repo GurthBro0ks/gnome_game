@@ -1,0 +1,33 @@
+{
+  "pageid": 8932,
+  "ns": 0,
+  "title": "Geiger Counter+Murders in Rue Morgue+Maitreya in Meditation+Murder On The Train",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Geiger_Counter%2BMurders_in_Rue_Morgue%2BMaitreya_in_Meditation%2BMurder_On_The_Train",
+  "touched": "2025-06-20T00:05:42Z",
+  "length": 216,
+  "lastrevid": 35881,
+  "revision": {
+    "revid": 35881,
+    "parentid": 35072,
+    "timestamp": "2025-06-20T00:05:42Z",
+    "sha1": "d828e7f4434b9c788b87d644cb3a33ffd080aee3",
+    "size": 216
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "361",
+        "relics": "Geiger Counter,Murders in Rue Morgue,Maitreya in Meditation,Murder On The Train",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 10 Dragon Minions in battle: Troop RUSH +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Geiger_Counter_Murders_in_Rue_Morgue_Maitreya_in_Meditation_Murder_On_The_Train.wiki",
+  "markdown_path": "markdown/Geiger_Counter_Murders_in_Rue_Morgue_Maitreya_in_Meditation_Murder_On_The_Train.md"
+}

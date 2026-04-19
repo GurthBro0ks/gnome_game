@@ -1,0 +1,35 @@
+{
+  "pageid": 7946,
+  "ns": 0,
+  "title": "Deucalion's Stone+Forbes List",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Deucalion%27s_Stone%2BForbes_List",
+  "touched": "2025-02-21T20:02:07Z",
+  "length": 197,
+  "lastrevid": 33397,
+  "revision": {
+    "revid": 33397,
+    "parentid": 0,
+    "timestamp": "2025-02-21T20:02:07Z",
+    "sha1": "aaf098a0241942c704a6bc661f42905fb9753c2a",
+    "size": 197
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Deucalion's Stone,Forbes List",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Deucalion_s_Stone_Forbes_List.wiki",
+  "markdown_path": "markdown/Deucalion_s_Stone_Forbes_List.md"
+}

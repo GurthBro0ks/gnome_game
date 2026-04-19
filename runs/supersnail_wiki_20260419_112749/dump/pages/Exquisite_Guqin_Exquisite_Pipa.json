@@ -1,0 +1,33 @@
+{
+  "pageid": 9271,
+  "ns": 0,
+  "title": "Exquisite Guqin+Exquisite Pipa",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Exquisite_Guqin%2BExquisite_Pipa",
+  "touched": "2025-06-20T00:16:33Z",
+  "length": 192,
+  "lastrevid": 36110,
+  "revision": {
+    "revid": 36110,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:16:33Z",
+    "sha1": "66ec757b5a4d0a4dad48628e473fef43be05e883",
+    "size": 192
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "656",
+        "relics": "Exquisite Guqin,Exquisite Pipa",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Tribal Chief defeated, Snail HP +60;Tribal Chiefs Defeated: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Exquisite_Guqin_Exquisite_Pipa.wiki",
+  "markdown_path": "markdown/Exquisite_Guqin_Exquisite_Pipa.md"
+}

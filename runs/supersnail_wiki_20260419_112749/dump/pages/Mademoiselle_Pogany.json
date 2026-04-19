@@ -1,0 +1,51 @@
+{
+  "pageid": 8457,
+  "ns": 0,
+  "title": "Mademoiselle Pogany",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mademoiselle_Pogany",
+  "touched": "2025-06-20T00:13:32Z",
+  "length": 1092,
+  "lastrevid": 35986,
+  "revision": {
+    "revid": 35986,
+    "parentid": 34454,
+    "timestamp": "2025-06-20T00:13:32Z",
+    "sha1": "d6ff33ee4cfa95e7ab44185fc86f02c7214e3d40",
+    "size": 1092
+  },
+  "categories": [
+    "ART Relics",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mademoiselle Pogany",
+        "class_id": "22432",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "02-20",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Feb 20, 1920 AD, Brancusi completed his famous work, Mademoiselle Pogany.<br>This sculpture is the work of modernist sculptor Brancusi. He used the female painter Pogany as the model, extracted the characteristic elements of her appearance, and then exaggerated them, creating this highly simplified and abstract sculpture and establishing his position in art history.",
+        "fame": "21",
+        "art": "48",
+        "fth": "26",
+        "civ": "33",
+        "tech": "26",
+        "ss1": "Per 5 Mythic Protodex Stars, Snail DEF +3<br>Mythic Protodex Stars: 100/100",
+        "ss2": "Per 5 Mythic Protodex Stars, Snail DEF +6<br>Mythic Protodex Stars: 100/100",
+        "ss3": "Per 5 Mythic Protodex Stars, Snail DEF +9<br>Mythic Protodex Stars: 100/100",
+        "ss4": "Per 5 Mythic Protodex Stars, Snail DEF +15<br>Mythic Protodex Stars: 100/100",
+        "ss7": "Per 5 Mythic Protodex Stars, Snail DEF +15<br>Mythic Protodex Stars: 100/100<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Quantumamp  skill I.png|50px]]Place in a Quantum Amp: Quantum Amp production +2.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mademoiselle_Pogany.wiki",
+  "markdown_path": "markdown/Mademoiselle_Pogany.md"
+}

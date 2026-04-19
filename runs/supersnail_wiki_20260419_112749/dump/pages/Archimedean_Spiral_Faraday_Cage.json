@@ -1,0 +1,33 @@
+{
+  "pageid": 9249,
+  "ns": 0,
+  "title": "Archimedean Spiral+Faraday Cage",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Archimedean_Spiral%2BFaraday_Cage",
+  "touched": "2025-06-20T00:15:33Z",
+  "length": 180,
+  "lastrevid": 36067,
+  "revision": {
+    "revid": 36067,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:15:33Z",
+    "sha1": "b34fd646d720dff1906ff024be8ed8da71dbb97b",
+    "size": 180
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "661",
+        "relics": "Archimedean Spiral,Faraday Cage",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 3 basic fusions, Snail DEF +6;Basic Fusions: 150/150"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Archimedean_Spiral_Faraday_Cage.wiki",
+  "markdown_path": "markdown/Archimedean_Spiral_Faraday_Cage.md"
+}

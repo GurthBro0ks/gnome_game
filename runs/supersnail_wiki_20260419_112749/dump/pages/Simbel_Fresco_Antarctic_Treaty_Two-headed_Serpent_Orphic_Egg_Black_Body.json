@@ -1,0 +1,33 @@
+{
+  "pageid": 8896,
+  "ns": 0,
+  "title": "Simbel Fresco+Antarctic Treaty+Two-headed Serpent+Orphic Egg+Black Body",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Simbel_Fresco%2BAntarctic_Treaty%2BTwo-headed_Serpent%2BOrphic_Egg%2BBlack_Body",
+  "touched": "2025-08-11T10:56:00Z",
+  "length": 223,
+  "lastrevid": 35742,
+  "revision": {
+    "revid": 35742,
+    "parentid": 34930,
+    "timestamp": "2025-06-20T00:00:18Z",
+    "sha1": "cdf91d4cdaef9f0dc012bdb3f222a0f7e7ccdde9",
+    "size": 223
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "559",
+        "relics": "Simbel Fresco,Antarctic Treaty,Two-headed Serpent,Orphic Egg,Black Body",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "In the Demon God Rocket Cabin: All device base effects +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Simbel_Fresco_Antarctic_Treaty_Two-headed_Serpent_Orphic_Egg_Black_Body.wiki",
+  "markdown_path": "markdown/Simbel_Fresco_Antarctic_Treaty_Two-headed_Serpent_Orphic_Egg_Black_Body.md"
+}

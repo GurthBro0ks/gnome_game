@@ -1,0 +1,33 @@
+{
+  "pageid": 3279,
+  "ns": 0,
+  "title": "Herbal Anesthetic+Dewar Flask",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Herbal_Anesthetic%2BDewar_Flask",
+  "touched": "2025-06-20T00:09:49Z",
+  "length": 181,
+  "lastrevid": 35927,
+  "revision": {
+    "revid": 35927,
+    "parentid": 18549,
+    "timestamp": "2025-06-20T00:09:49Z",
+    "sha1": "58ae498047a643a5ff4dd24710952c412ed8080b",
+    "size": 181
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "301",
+        "relics": "Herbal Anesthetic,Dewar Flask",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 50 Minions healed, Snail HP +50;Minions healed: 2000/2000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Herbal_Anesthetic_Dewar_Flask.wiki",
+  "markdown_path": "markdown/Herbal_Anesthetic_Dewar_Flask.md"
+}

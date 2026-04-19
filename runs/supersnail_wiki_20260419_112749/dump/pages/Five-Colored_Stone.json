@@ -1,0 +1,54 @@
+{
+  "pageid": 10252,
+  "ns": 0,
+  "title": "Five-Colored Stone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Five-Colored_Stone",
+  "touched": "2025-09-21T18:01:36Z",
+  "length": 2543,
+  "lastrevid": 37958,
+  "revision": {
+    "revid": 37958,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:44:43Z",
+    "sha1": "174a5912001db758d7d34c44f0a95bbdd13e5da2",
+    "size": 2543
+  },
+  "categories": [
+    "CIV Relics",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Five-Colored Stone",
+        "class_id": "22358",
+        "rank": "SSS",
+        "affct": "CIV",
+        "birthday": "02-29",
+        "description": "On February 29, 448 BCE, a loud noise was heard from the peak of Flower Fruit Mountain in the Eastern Victory Continent.<br>At the beginning of heaven and earth, when chaos was yet to be divided, there was a five-colored divine stone. It was embedded at the peak of Flower Fruit Mountain, absorbing the essence of the sun and moon, nurtured by the purity of heaven and earth, and after a long time, it gained spiritual awareness. Within the five-colored stone, a celestial embryo was nurtured, and on …",
+        "fame": "57",
+        "art": "74",
+        "fth": "66",
+        "civ": "107",
+        "tech": "58",
+        "ss1": "prop@53191_2<br>Snail Leadership +3<br>prop@53193_2<br>prop@53192_2<br>Total Unknown Flying Objects shot down: 100/100",
+        "ss2": "prop@53191_2<br>Snail Leadership +4<br>prop@53193_2<br>prop@53192_2<br>Total Unknown Flying Objects shot down: 100/100",
+        "ss3": "prop@53191_2<br>Snail Leadership +5<br>prop@53193_2<br>prop@53192_2<br>Total Unknown Flying Objects shot down: 100/100",
+        "ss4": "prop@53191_2<br>Snail Leadership +7<br>prop@53193_2<br>prop@53192_2<br>Total Unknown Flying Objects shot down: 100/100",
+        "ss5": "prop@53191_2<br>Snail Leadership +9<br>prop@53193_2<br>prop@53192_2<br>Total Unknown Flying Objects shot down: 100/100",
+        "ss6": "prop@53191_2<br>Snail Leadership +12<br>prop@53193_2<br>prop@53192_2<br>Total Unknown Flying Objects shot down: 100/100",
+        "ss7": "prop@53191_2<br>Snail Leadership +12<br>prop@53193_2<br>prop@53192_2<br>Total Unknown Flying Objects shot down: 100/100<br>prop@53194_2 (Awakened)",
+        "skill1": "[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: CRIT DMG +30%",
+        "skill2": "[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's CIV +15",
+        "skill3": "[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: Earth DMG +600",
+        "mirage": "{{Mirage|name=dungeon@22358_1|reward={{RewardIconWithLink|Iridescent Ticket, +5|orange}}\n|3name=White Monke|3rec=259.80M|3atk=639314|3defense=396292|3hp=181824781|3weak=63125\n|4name=Yellow Monke|4rec=374.20M|4atk=795833|4defense=499213|4hp=313582019|4weak=69159\n|5name=dungeon_event@2584_1|5rec=523.07M|5atk=1001441|5defense=633144|5hp=513130149|5weak=75116\n|6name=Black Monke|6rec=703.39M|6atk=1266262|6defense=803894|6hp=761715374|6weak=81006\n|Arec=902.49M|Aatk=1600531|Adefense=1017426|Ahp=1105366 …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Five-Colored_Stone.wiki",
+  "markdown_path": "markdown/Five-Colored_Stone.md"
+}

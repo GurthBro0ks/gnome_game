@@ -1,0 +1,47 @@
+{
+  "pageid": 2146,
+  "ns": 0,
+  "title": "Dragon Radar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dragon_Radar",
+  "touched": "2025-08-11T11:11:17Z",
+  "length": 546,
+  "lastrevid": 39110,
+  "revision": {
+    "revid": 39110,
+    "parentid": 27615,
+    "timestamp": "2025-08-11T11:11:17Z",
+    "sha1": "d4e428c7b2bf5fa6bb02ea1406399604630fce3e",
+    "size": 546
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dragon Radar",
+        "class_id": "20038",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The radar was developed by the D. Dragon and can search for traces of dragons in the infinite space, making it easier to contact the Divine dragon. Anyone deemed a key client can get this cost-effective item from the D. Dragon!",
+        "fame": "17",
+        "art": "14",
+        "fth": "17",
+        "civ": "13",
+        "tech": "29",
+        "ss1": "Dragon Orb Offering SPD +3%",
+        "ss2": "Dragon Orb Offering SPD +6%",
+        "ss3": "Dragon Orb Offering SPD +9%",
+        "ss4": "Dragon Orb Offering SPD +9%",
+        "ss7": "Dragon Orb Offering SPD +9%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dragon_Radar.wiki",
+  "markdown_path": "markdown/Dragon_Radar.md"
+}

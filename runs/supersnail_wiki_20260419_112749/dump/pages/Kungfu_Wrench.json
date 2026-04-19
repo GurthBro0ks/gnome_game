@@ -1,0 +1,47 @@
+{
+  "pageid": 11177,
+  "ns": 0,
+  "title": "Kungfu Wrench",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kungfu_Wrench",
+  "touched": "2025-08-11T11:15:06Z",
+  "length": 816,
+  "lastrevid": 39279,
+  "revision": {
+    "revid": 39279,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:15:06Z",
+    "sha1": "d4ba1b172ccdd687639d02804e053834f755caac",
+    "size": 816
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Kungfu Wrench",
+        "class_id": "20752",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "As a martial artist, it’s perfectly reasonable to carry a wrench around. When someone's muscles are sore, you can use it to massage their legs or pound their backs. Of course, it’s definitely not meant to bonk your opponent’s head in the middle of a match… definitely not.",
+        "fame": "15",
+        "art": "14",
+        "fth": "33",
+        "civ": "17",
+        "tech": "11",
+        "ss1": "Snail DEF +10<br>Per Incense used, Snail HP +10<br>Incense Used: 40/40",
+        "ss2": "Snail DEF +20<br>Per Incense used, Snail HP +20<br>Incense Used: 40/40",
+        "ss3": "Snail DEF +30<br>Per Incense used, Snail HP +30<br>Incense Used: 40/40",
+        "ss4": "Snail DEF +30<br>Per Incense used, Snail HP +30<br>Incense Used: 40/40",
+        "ss7": "Snail DEF +30<br>Per Incense used, Snail HP +30<br>Incense Used: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kungfu_Wrench.wiki",
+  "markdown_path": "markdown/Kungfu_Wrench.md"
+}

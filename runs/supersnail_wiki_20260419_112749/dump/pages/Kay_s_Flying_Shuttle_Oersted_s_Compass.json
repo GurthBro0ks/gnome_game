@@ -1,0 +1,33 @@
+{
+  "pageid": 4596,
+  "ns": 0,
+  "title": "Kay's Flying Shuttle+Oersted's Compass",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kay%27s_Flying_Shuttle%2BOersted%27s_Compass",
+  "touched": "2025-06-19T23:54:24Z",
+  "length": 173,
+  "lastrevid": 35676,
+  "revision": {
+    "revid": 35676,
+    "parentid": 18371,
+    "timestamp": "2025-06-19T23:54:24Z",
+    "sha1": "46a4f8255bca87be6d69d3aef057dfff6116a9a1",
+    "size": 173
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "346",
+        "relics": "Kay's Flying Shuttle,Oersted's Compass",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Mecha Minions in battle: Troop ATK +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kay_s_Flying_Shuttle_Oersted_s_Compass.wiki",
+  "markdown_path": "markdown/Kay_s_Flying_Shuttle_Oersted_s_Compass.md"
+}

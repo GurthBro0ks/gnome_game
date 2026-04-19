@@ -1,0 +1,54 @@
+{
+  "pageid": 10625,
+  "ns": 0,
+  "title": "Temple Pediment",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Temple_Pediment",
+  "touched": "2025-09-21T17:23:08Z",
+  "length": 2730,
+  "lastrevid": 38481,
+  "revision": {
+    "revid": 38481,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:56:46Z",
+    "sha1": "e32b4d813e99b8993eb5d946afa1772d8e3db6bd",
+    "size": 2730
+  },
+  "categories": [
+    "FAITH Relics",
+    "Orange FAITH Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Temple Pediment",
+        "class_id": "22833",
+        "rank": "SS",
+        "affct": "FAITH",
+        "description": "The temple pediment is usually located on the gable part of a temple or important building, in a triangular shape, supported by columns or pilasters. It originated from the Lion Gate form of the Mycenaean era. The temple pediment at the Roman Baths Museum in Bath, UK, is one of the museum's famous collections. It is supported by four fifteen-meter-high Corinthian columns, with the central carving featuring the head of the snake-haired monster Gorgon, symbolizing the temple's majesty. Additionall …",
+        "fame": "60",
+        "art": "66",
+        "fth": "104",
+        "civ": "50",
+        "tech": "67",
+        "ss1": "All Sanctum Glorium Output +0.8%<br>Tribal Amber output +4%<br>Per Godhood Tier, Protomon Snail assist DMG +80<br>Godhood LVL: 10/10",
+        "ss2": "All Sanctum Glorium Output +1.2%<br>Tribal Amber output +6%<br>Per Godhood Tier, Protomon Snail assist DMG +120<br>Godhood LVL: 10/10",
+        "ss3": "All Sanctum Glorium Output +1.6%<br>Tribal Amber output +8%<br>Per Godhood Tier, Protomon Snail assist DMG +160<br>Godhood LVL: 10/10",
+        "ss4": "All Sanctum Glorium Output +2.4%<br>Tribal Amber output +12%<br>Per Godhood Tier, Protomon Snail assist DMG +240<br>Godhood LVL: 10/10",
+        "ss5": "All Sanctum Glorium Output +3.2%<br>Tribal Amber output +16%<br>Per Godhood Tier, Protomon Snail assist DMG +320<br>Godhood LVL: 10/10",
+        "ss6": "All Sanctum Glorium Output +4.4%<br>Tribal Amber output +22%<br>Per Godhood Tier, Protomon Snail assist DMG +440<br>Godhood LVL: 10/10",
+        "ss7": "All Sanctum Glorium Output +4.4%<br>Tribal Amber output +22%<br>Per Godhood Tier, Protomon Snail assist DMG +440<br>Godhood LVL: 10/10<br>All Sanctum Glorium Output +4% (Awakened)",
+        "skill1": "[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: This Relic's FTH +15",
+        "skill2": "[[File:Frostsanctum skill III.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Cap +30%",
+        "skill3": "[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +30%",
+        "mirage": "{{Mirage|name=Temple Guard|reward={{RewardIconWithLink|Fluorite, +5|orange}}\n|3name=Temple Maid|3rec=7.36M|3atk=70395|3defense=46095|3hp=1278397|3weak=13999\n|4name=Temple Guard|4rec=12.68M|4atk=94312|4defense=61756|4hp=2130942|4weak=17504\n|5name=Chief Priest|5rec=25.92M|5atk=122725|5defense=80361|5hp=3373495|5weak=20165\n|Arec=41.32M|Aatk=155814|Adefense=102028|Ahp=5183328|Aweak=25432\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Temple_Pediment.wiki",
+  "markdown_path": "markdown/Temple_Pediment.md"
+}

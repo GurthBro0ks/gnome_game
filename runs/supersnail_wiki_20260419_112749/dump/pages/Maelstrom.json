@@ -1,0 +1,29 @@
+{
+  "pageid": 6252,
+  "ns": 0,
+  "title": "Maelstrom",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Maelstrom",
+  "touched": "2025-02-06T19:34:31Z",
+  "length": 558,
+  "lastrevid": 24979,
+  "revision": {
+    "revid": 24979,
+    "parentid": 0,
+    "timestamp": "2024-04-07T17:24:08Z",
+    "sha1": "8f699d2484f59133f562c5d1df3bb9cdb9b8bb49",
+    "size": 558
+  },
+  "categories": [
+    "ART Shells",
+    "ATK Boost",
+    "Dragon Form",
+    "RUSH Boost",
+    "Shells",
+    "Time Rift",
+    "Wind DMG Boost"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Maelstrom.wiki",
+  "markdown_path": "markdown/Maelstrom.md"
+}

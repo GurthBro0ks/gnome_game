@@ -1,0 +1,33 @@
+{
+  "pageid": 8388,
+  "ns": 0,
+  "title": "Turing Award+Apollo and Daphne",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Turing_Award%2BApollo_and_Daphne",
+  "touched": "2025-07-02T09:49:37Z",
+  "length": 166,
+  "lastrevid": 37204,
+  "revision": {
+    "revid": 37204,
+    "parentid": 34217,
+    "timestamp": "2025-07-02T09:49:37Z",
+    "sha1": "fa9fb21d8f902708d8a4be2a4eac17fc5491528d",
+    "size": 166
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "755",
+        "relics": "Turing Award,Apollo and Daphne",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "In Follower Recruitment, 2x Amber Drops +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Turing_Award_Apollo_and_Daphne.wiki",
+  "markdown_path": "markdown/Turing_Award_Apollo_and_Daphne.md"
+}

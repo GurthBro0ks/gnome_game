@@ -1,0 +1,29 @@
+{
+  "pageid": 3025,
+  "ns": 0,
+  "title": "Light Bulb",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Light_Bulb",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 395,
+  "lastrevid": 12433,
+  "revision": {
+    "revid": 12433,
+    "parentid": 11653,
+    "timestamp": "2023-09-15T15:30:38Z",
+    "sha1": "972f1a1805d9fc80669caf62168090bf7bcd8a9a",
+    "size": 395
+  },
+  "categories": [
+    "Cathay",
+    "FAME Shells",
+    "HP Boost",
+    "RUSH Boost",
+    "Shells",
+    "Wind DMG Boost",
+    "Zombie Form"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Light_Bulb.wiki",
+  "markdown_path": "markdown/Light_Bulb.md"
+}

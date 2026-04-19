@@ -1,0 +1,68 @@
+{
+  "pageid": 610,
+  "ns": 0,
+  "title": "Devol's Robot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Devol%27s_Robot",
+  "touched": "2024-11-04T01:11:03Z",
+  "length": 2804,
+  "lastrevid": 31008,
+  "revision": {
+    "revid": 31008,
+    "parentid": 31007,
+    "timestamp": "2024-10-29T21:44:21Z",
+    "sha1": "b0373a5877b10bd581fd149c45c54d9f9a7c3c15",
+    "size": 2804
+  },
+  "categories": [
+    "ATK Boost",
+    "Angel Gene Cost Reduction",
+    "DEF Boost",
+    "Enhanced by Fissure LVL",
+    "Enhanced by TECH Relics",
+    "Exploration Card Drop Boost",
+    "Exploration Compass Boost",
+    "Fissure Boost",
+    "Indigent Nobleman Relics",
+    "Koryeo Museum Boost",
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Quarry Skill",
+    "RUSH Boost",
+    "Relic Boost",
+    "Relics",
+    "TECH Boost",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Devol's Robot",
+        "rank": "S",
+        "affct": "TECH",
+        "birthday": "12-30",
+        "source": "* Ad Chest (3%), Fragment Crafting (17.8%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), TECH Master Scrolls (31.5%), Wishing (0.65%)\n* [[Indigent Nobleman]] (570k {{RewardIconWithText|B-Tad}})",
+        "description": "On Dec 30, 1957, DeVore invented the world's first robot.\nDevore and Engelberg first met at a cocktail party, and the two bonded over a shared interest in science fiction. From then on, R&D funding was provided by Engelberg, while DeVore focused on inventing the \"programmed object transfer,\" which was programmed to repeat the delicate tasks of grabbing and lifting. Before long, DeVore captured the world's attention by having a robot demonstrate making a goal, conducting a band, opening and pouri …",
+        "fame": "57",
+        "art": "65",
+        "fth": "67",
+        "civ": "46",
+        "tech": "97",
+        "ss1": "Snail RUSH +10<br>Per 3 TECH Relics gained, Snail ATK +4<br>Per 3 TECH Relics gained, Snail RUSH +4<br>TECH Relics: 60/60",
+        "ss2": "Snail RUSH +20<br>Per 3 TECH Relics gained, Snail ATK +8<br>Per 3 TECH Relics gained, Snail RUSH +8<br>TECH Relics: 60/60",
+        "ss3": "Snail RUSH +30<br>Per 3 TECH Relics gained, Snail ATK +12<br>Per 3 TECH Relics gained, Snail RUSH +12<br>TECH Relics: 60/60",
+        "ss4": "Snail RUSH +50<br>Per 3 TECH Relics gained, Snail ATK +20<br>Per 3 TECH Relics gained, Snail RUSH +20<br>TECH Relics: 60/60",
+        "ss5": "Snail RUSH +70<br>Per 3 TECH Relics gained, Snail ATK +28<br>Per 3 TECH Relics gained, Snail RUSH +28<br>TECH Relics: 60/60",
+        "ss6": "Snail RUSH +100<br>Per 3 TECH Relics gained, Snail ATK +40<br>Per 3 TECH Relics gained, Snail RUSH +40<br>TECH Relics: 60/60",
+        "ss7": "Snail RUSH +100<br>Per 3 TECH Relics gained, Snail ATK +40<br>Per 3 TECH Relics gained, Snail RUSH +40<br>TECH Relics: 60/60<br>Snail RUSH +100",
+        "skill1": "[[File:Compass skill III.png|50x50px]]Place in Exploration Compass: In any Realm, 2x Purple Card Drops +15%",
+        "skill2": "[[File:Quarry skill III.png|50x50px]]Place in Quarry: This Relic's TECH +15",
+        "skill3": "[[File:Koryeo skill III.png|50x50px]]Place in Koryeon Museum: This Relic's TECH +15",
+        "mirage": "{{Mirage|name=Automation|reward={{RewardIconWithLink|Orange Coating, +20|orange}}\n|3name=Sweeping Robot|3rec=332k|3atk=9356|3def=6183|3hp=33764|3weak=4980\n|6name=DogBot|6rec=1.36M|6atk=29493|6def=19492|6hp=315132|6weak=9412\n|Arec=4.49M|Aatk=63930|Adef=42251|Ahp=1238620|Aweak=15232\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Devol_s_Robot.wiki",
+  "markdown_path": "markdown/Devol_s_Robot.md"
+}

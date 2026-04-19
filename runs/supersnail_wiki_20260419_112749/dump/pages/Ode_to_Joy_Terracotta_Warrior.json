@@ -1,0 +1,33 @@
+{
+  "pageid": 3850,
+  "ns": 0,
+  "title": "Ode to Joy+Terracotta Warrior",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ode_to_Joy%2BTerracotta_Warrior",
+  "touched": "2025-06-19T23:54:14Z",
+  "length": 182,
+  "lastrevid": 35669,
+  "revision": {
+    "revid": 35669,
+    "parentid": 13959,
+    "timestamp": "2025-06-19T23:54:14Z",
+    "sha1": "3621bb5d5886dae5969f71eeae2f21d0858ed079",
+    "size": 182
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "190",
+        "relics": "Ode to Joy,Terracotta Warrior",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Fungus Farm LVLs, Snail HP +280;Fungus Farm LVL: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ode_to_Joy_Terracotta_Warrior.wiki",
+  "markdown_path": "markdown/Ode_to_Joy_Terracotta_Warrior.md"
+}

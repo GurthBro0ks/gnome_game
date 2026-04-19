@@ -1,0 +1,35 @@
+{
+  "pageid": 5347,
+  "ns": 0,
+  "title": "Pakal's Sarcophagus+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pakal%27s_Sarcophagus%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 201,
+  "lastrevid": 19621,
+  "revision": {
+    "revid": 19621,
+    "parentid": 0,
+    "timestamp": "2023-11-21T01:35:26Z",
+    "sha1": "5206ec64505092619b76e1002a3df11e39600033",
+    "size": 201
+  },
+  "categories": [
+    "Domain Cabin Output Boost",
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Pakal's Sarcophagus,Mysterious Relic",
+        "rank": "purple",
+        "amount": "2",
+        "category": "home",
+        "description": "Domain Cabin Output +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pakal_s_Sarcophagus_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Pakal_s_Sarcophagus_Mysterious_Relic.md"
+}

@@ -1,0 +1,51 @@
+{
+  "pageid": 8418,
+  "ns": 0,
+  "title": "Barrage Balloon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Barrage_Balloon",
+  "touched": "2025-06-16T20:57:56Z",
+  "length": 1111,
+  "lastrevid": 34446,
+  "revision": {
+    "revid": 34446,
+    "parentid": 34306,
+    "timestamp": "2025-06-16T20:48:00Z",
+    "sha1": "04fd830c23f58d7ac9f96f1e7c97d76a1c459030",
+    "size": 1111
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Pages with broken file links",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Barrage Balloon",
+        "class_id": "22492",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "12-24",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Dec 24, 1940 AD, in order to prevent the German bombing of London, the British deployed barrage balloons over the British Isles.<br>A barrage balloon is a military tethered balloon that first appeared during World War I. To deal with German air raids, the British covered the skies over the British Isles with barrage balloons. They made an indelible contribution to defending Britain. After the war, due to the peculiar role of balloons in the war, many countries used them as air defense weapons …",
+        "fame": "31",
+        "art": "18",
+        "fth": "37",
+        "civ": "22",
+        "tech": "46",
+        "ss1": "Species War Cabin Output +1%",
+        "ss2": "Species War Cabin Output +2%",
+        "ss3": "Species War Cabin Output +3%",
+        "ss4": "Species War Cabin Output +5%",
+        "ss7": "Species War Cabin Output +5%<br>Species War Cabin Output +5% (Awakened)",
+        "skill1": "[[File:Surfclam skill I.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Fire DMG +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Barrage_Balloon.wiki",
+  "markdown_path": "markdown/Barrage_Balloon.md"
+}

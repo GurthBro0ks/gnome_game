@@ -1,0 +1,34 @@
+{
+  "pageid": 3789,
+  "ns": 0,
+  "title": "Africa Star+Ragnarok+Double Helix DNA",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Africa_Star%2BRagnarok%2BDouble_Helix_DNA",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 213,
+  "lastrevid": 13687,
+  "revision": {
+    "revid": 13687,
+    "parentid": 0,
+    "timestamp": "2023-10-02T10:00:40Z",
+    "sha1": "16d9d2762c4193d5771633e4c4ff3ae4e9cc0063",
+    "size": 213
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Africa Star,Ragnarok,Double Helix DNA",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per Altar God Descent, Snail ATK +16<br>Gods Descended: 30/30"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Africa_Star_Ragnarok_Double_Helix_DNA.wiki",
+  "markdown_path": "markdown/Africa_Star_Ragnarok_Double_Helix_DNA.md"
+}

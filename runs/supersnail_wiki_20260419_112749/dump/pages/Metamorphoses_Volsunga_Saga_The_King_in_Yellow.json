@@ -1,0 +1,33 @@
+{
+  "pageid": 10117,
+  "ns": 0,
+  "title": "Metamorphoses+Volsunga Saga+The King in Yellow",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Metamorphoses%2BVolsunga_Saga%2BThe_King_in_Yellow",
+  "touched": "2025-08-11T10:46:38Z",
+  "length": 164,
+  "lastrevid": 37718,
+  "revision": {
+    "revid": 37718,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:39:02Z",
+    "sha1": "1049d16753640980dd1fe1ff283f4ef83c243220",
+    "size": 164
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "766",
+        "relics": "Metamorphoses,Volsunga Saga,The King in Yellow",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "All minion skins ATK +80%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Metamorphoses_Volsunga_Saga_The_King_in_Yellow.wiki",
+  "markdown_path": "markdown/Metamorphoses_Volsunga_Saga_The_King_in_Yellow.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 7379,
+  "ns": 0,
+  "title": "Turnip Lamp",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Turnip_Lamp",
+  "touched": "2025-08-11T10:47:58Z",
+  "length": 872,
+  "lastrevid": 38098,
+  "revision": {
+    "revid": 38098,
+    "parentid": 30920,
+    "timestamp": "2025-08-11T10:47:58Z",
+    "sha1": "9a4a2ceec3c391247a560f9d9e571c52c8822151",
+    "size": 872
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Turnip Lamp",
+        "class_id": "20968",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "People used to carve turnips in Halloween. However, since pumpkins were easier to carve, turnips were gradually forgotten on this special occasion. This turnip is just sitting here. Lonely, it seems to be staring at you, as if warning you never to forget about the sacrifices of the turnips.",
+        "fame": "31",
+        "art": "14",
+        "fth": "16",
+        "civ": "15",
+        "tech": "14",
+        "ss1": "Snail DEF +10<br>Per 5 Fungus Farm LVLs, Snail HP +40<br>Fungus Farm LVL: 50/50",
+        "ss2": "Snail DEF +20<br>Per 5 Fungus Farm LVLs, Snail HP +80<br>Fungus Farm LVL: 50/50",
+        "ss3": "Snail DEF +30<br>Per 5 Fungus Farm LVLs, Snail HP +120<br>Fungus Farm LVL: 50/50",
+        "ss4": "Snail DEF +30<br>Per 5 Fungus Farm LVLs, Snail HP +120<br>Fungus Farm LVL: 50/50",
+        "ss7": "Snail DEF +30<br>Per 5 Fungus Farm LVLs, Snail HP +120<br>Fungus Farm LVL: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Turnip_Lamp.wiki",
+  "markdown_path": "markdown/Turnip_Lamp.md"
+}

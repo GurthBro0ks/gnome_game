@@ -1,0 +1,46 @@
+{
+  "pageid": 11396,
+  "ns": 0,
+  "title": "Golden Fish Head",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Fish_Head",
+  "touched": "2025-08-12T23:07:32Z",
+  "length": 630,
+  "lastrevid": 39616,
+  "revision": {
+    "revid": 39616,
+    "parentid": 39614,
+    "timestamp": "2025-08-12T23:07:32Z",
+    "sha1": "d155e34e51a9dcfc6b7cb2d9d6c664f24ed3fc63",
+    "size": 630
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "HP Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Golden Fish Head",
+        "rank": "Green",
+        "affct": "CIV",
+        "source": "Reward for completing the Four-Headed Fish [[Mailbox]] storyline.",
+        "description": "A relic from the Four-Colored Fish civilization’s golden age, when their golden empire spanned the ocean depths.",
+        "fame": "16",
+        "art": "12",
+        "fth": "18",
+        "civ": "30",
+        "tech": "14",
+        "ss1": "Per type of food collected, Snail HP +10 <br> Types of Food Collected: 60/60",
+        "ss2": "Per type of food collected, Snail HP +20 <br> Types of Food Collected: 60/60",
+        "ss3": "Per type of food collected, Snail HP +30 <br> Types of Food Collected: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Fish_Head.wiki",
+  "markdown_path": "markdown/Golden_Fish_Head.md"
+}

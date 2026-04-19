@@ -1,0 +1,47 @@
+{
+  "pageid": 3096,
+  "ns": 0,
+  "title": "Goldfish Specimen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Goldfish_Specimen",
+  "touched": "2025-08-11T10:37:57Z",
+  "length": 743,
+  "lastrevid": 37674,
+  "revision": {
+    "revid": 37674,
+    "parentid": 32203,
+    "timestamp": "2025-08-11T10:37:57Z",
+    "sha1": "a572bb191d3dc6e6f75660d888d7e8163a0de602",
+    "size": 743
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Goldfish Specimen",
+        "class_id": "20445",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This lifelike specimen is the preserved carcass of a goldfish from the species war. It's an incidental result of the snails' research on Goldfish physiology. It's not just an accurate replica of the goldfish exterior, but a graphic presentation of the internal organs of goldfish, which helps snails understand goldfish better and develop better strategies against goldfish!",
+        "fame": "31",
+        "art": "14",
+        "fth": "20",
+        "civ": "13",
+        "tech": "11",
+        "ss1": "Against Goldfish, Troop Casualty -1%",
+        "ss2": "Against Goldfish, Troop Casualty -2%",
+        "ss3": "Against Goldfish, Troop Casualty -3%",
+        "ss4": "Against Goldfish, Troop Casualty -3%",
+        "ss7": "Against Goldfish, Troop Casualty -3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Goldfish_Specimen.wiki",
+  "markdown_path": "markdown/Goldfish_Specimen.md"
+}

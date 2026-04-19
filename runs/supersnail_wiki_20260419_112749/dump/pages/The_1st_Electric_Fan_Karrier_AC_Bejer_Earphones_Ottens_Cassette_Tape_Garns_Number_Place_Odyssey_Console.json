@@ -1,0 +1,33 @@
+{
+  "pageid": 9279,
+  "ns": 0,
+  "title": "The 1st Electric Fan+Karrier AC+Bejer Earphones+Ottens Cassette Tape+Garns Number Place+Odyssey Console",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_1st_Electric_Fan%2BKarrier_AC%2BBejer_Earphones%2BOttens_Cassette_Tape%2BGarns_Number_Place%2BOdyssey_Console",
+  "touched": "2025-06-20T00:18:34Z",
+  "length": 239,
+  "lastrevid": 36139,
+  "revision": {
+    "revid": 36139,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:18:34Z",
+    "sha1": "829161fccc2766b2ea384d255391adc1597905c4",
+    "size": 239
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "655",
+        "relics": "The 1st Electric Fan,Karrier AC,Bejer Earphones,Ottens Cassette Tape,Garns Number Place,Odyssey Console",
+        "rank": "blue",
+        "amount": "6",
+        "category": "self",
+        "description": "Catalyzed White Spores turn to Green by +0.9%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_1st_Electric_Fan_Karrier_AC_Bejer_Earphones_Ottens_Cassette_Tape_Garns_Number_Place_Odyssey_Console.wiki",
+  "markdown_path": "markdown/The_1st_Electric_Fan_Karrier_AC_Bejer_Earphones_Ottens_Cassette_Tape_Garns_Number_Place_Odyssey_Console.md"
+}

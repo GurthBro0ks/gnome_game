@@ -1,0 +1,50 @@
+{
+  "pageid": 4662,
+  "ns": 0,
+  "title": "Innsmouth Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Innsmouth_Statue",
+  "touched": "2025-06-16T23:10:47Z",
+  "length": 971,
+  "lastrevid": 34951,
+  "revision": {
+    "revid": 34951,
+    "parentid": 33971,
+    "timestamp": "2025-06-16T23:10:47Z",
+    "sha1": "d85db4a7c4fa7c0f56aca938e4416c4fd2db04ce",
+    "size": 971
+  },
+  "categories": [
+    "Blue FAITH Relics",
+    "Blue Relics",
+    "FAITH Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Innsmouth Statue",
+        "class_id": "22049",
+        "rank": "Blue",
+        "affct": "FAITH",
+        "birthday": "10-22",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Oct 22, 1917 AD, the indescribable statue appeared in Innsmouth.<br>This statue has a unique appearance, assemble of a mixture of an Octopus, a giant dragon, and a human, and it is very bloated and stout, making the spectators uneasy. It is surrounded by a gloomy and evil aura, strong enough to make the bravest people tremble. If you keep staring at it, you will feel like staring straight into the abyss. Even so, countless people are still crazy about this statue, vowing to explore its myster …",
+        "fame": "27",
+        "art": "31",
+        "fth": "44",
+        "civ": "21",
+        "tech": "31",
+        "ss1": "Demon Minion HP +1%",
+        "ss2": "Demon Minion HP +2%",
+        "ss3": "Demon Minion HP +3%",
+        "ss4": "Demon Minion HP +5%",
+        "ss7": "Demon Minion HP +5%<br>Demon Minion HP +5% (Awakened)",
+        "skill1": "[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, All Minion RUSH +1.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Innsmouth_Statue.wiki",
+  "markdown_path": "markdown/Innsmouth_Statue.md"
+}

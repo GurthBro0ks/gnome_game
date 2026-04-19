@@ -1,0 +1,53 @@
+{
+  "pageid": 8748,
+  "ns": 0,
+  "title": "Night on Bald Mountain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Night_on_Bald_Mountain",
+  "touched": "2025-09-28T09:32:31Z",
+  "length": 2065,
+  "lastrevid": 40223,
+  "revision": {
+    "revid": 40223,
+    "parentid": 36241,
+    "timestamp": "2025-09-28T08:55:04Z",
+    "sha1": "5e689e5d282f6ef1e413f60a7d0eec30c4e3c666",
+    "size": 2065
+  },
+  "categories": [
+    "ART Relics",
+    "Pages with broken file links",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Night on Bald Mountain",
+        "class_id": "22529",
+        "rank": "AA",
+        "affct": "ART",
+        "birthday": "01-11",
+        "source": "Lottery Machine No.3 (0.12%)",
+        "description": "On Jan 11, 1867 AD, Mussorgsky completed the composition of Night on Bald Mountain.<br>The Night on Bald Mountain is a symphonic tone poem based on Russian folklore, composed by Mussorgsky. Using notes as his brushstrokes, the composer depicts a scene of demons reveling in the midnight hours, creating a hellish atmosphere, followed by the sound of church bells as daybreak approaches, causing the devils to scatter in all directions, and the sun shining upon the earth. The work vividly showcases t …",
+        "fame": "31",
+        "art": "69",
+        "fth": "39",
+        "civ": "49",
+        "tech": "40",
+        "ss1": "Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +48<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +48<br>Mythic Protodex Stars: 100/100",
+        "ss2": "Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +72<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +72<br>Mythic Protodex Stars: 100/100",
+        "ss3": "Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +96<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +96<br>Mythic Protodex Stars: 100/100",
+        "ss4": "Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +144<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +144<br>Mythic Protodex Stars: 100/100",
+        "ss5": "Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +192<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +192<br>Mythic Protodex Stars: 100/100",
+        "ss7": "Per 5 Mythic Protodex Stars, Priest-Snail Assistance DMG +192<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +192<br>Mythic Protodex Stars: 100/100<br>Protomon Snail assist DMG + 560 (Awakened)",
+        "skill1": "[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: This Relic's ART +10",
+        "skill2": "[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: In Minion Sims, Troop Water DMG +30"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Night_on_Bald_Mountain.wiki",
+  "markdown_path": "markdown/Night_on_Bald_Mountain.md"
+}

@@ -1,0 +1,50 @@
+{
+  "pageid": 4668,
+  "ns": 0,
+  "title": "Grignard Reagent",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Grignard_Reagent",
+  "touched": "2025-06-16T23:16:53Z",
+  "length": 1271,
+  "lastrevid": 35119,
+  "revision": {
+    "revid": 35119,
+    "parentid": 32007,
+    "timestamp": "2025-06-16T23:16:53Z",
+    "sha1": "1fa0ef76debb2b061e7c943e1152ec6de873def1",
+    "size": 1271
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Grignard Reagent",
+        "class_id": "22097",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "04-02",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Apr 2, 1901 AD, the French chemist Grignard formulated the Grignard Reagent during the experiment.<br>Grignard Reagent was discovered by a French chemist named Grignard. It is an organometallic compound containing magnesium halide, a kind of nucleophile, as it contains carbanion. Grignard reagents are for various reactions such as coupling, addition, and substitution and have considerable application value in the organic synthesis. But it should be noted that the Grignard reagent will react w …",
+        "fame": "32",
+        "art": "20",
+        "fth": "33",
+        "civ": "21",
+        "tech": "48",
+        "ss1": "In the Gaia Rocket Cabin:<br>> Gamma Ray Base Effect +8%",
+        "ss2": "In the Gaia Rocket Cabin:<br>> Gamma Ray Base Effect +16%",
+        "ss3": "In the Gaia Rocket Cabin:<br>> Gamma Ray Base Effect +24%",
+        "ss4": "In the Gaia Rocket Cabin:<br>> Gamma Ray Base Effect +40%",
+        "ss7": "In the Gaia Rocket Cabin:<br>> Gamma Ray Base Effect +40%<br>In the Gaia Rocket Cabin:<br>> Gamma Ray Base Effect +40% (Awakened)",
+        "skill1": "[[File:Biozilla skill I.png|50px]]Place in a Biozilla: This Relic's TECH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Grignard_Reagent.wiki",
+  "markdown_path": "markdown/Grignard_Reagent.md"
+}

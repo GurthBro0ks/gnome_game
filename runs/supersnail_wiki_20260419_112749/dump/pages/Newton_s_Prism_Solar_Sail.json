@@ -1,0 +1,33 @@
+{
+  "pageid": 4978,
+  "ns": 0,
+  "title": "Newton's Prism+Solar Sail",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Newton%27s_Prism%2BSolar_Sail",
+  "touched": "2025-06-19T23:54:48Z",
+  "length": 181,
+  "lastrevid": 35693,
+  "revision": {
+    "revid": 35693,
+    "parentid": 18616,
+    "timestamp": "2025-06-19T23:54:48Z",
+    "sha1": "2f88ce5596676507d1120bbb46570b0104206329",
+    "size": 181
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "421",
+        "relics": "Newton's Prism,Solar Sail",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1.2k Gaia Tech Pts, Snail ATK +6;Gaia Tech Pts: 60000/60000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Newton_s_Prism_Solar_Sail.wiki",
+  "markdown_path": "markdown/Newton_s_Prism_Solar_Sail.md"
+}

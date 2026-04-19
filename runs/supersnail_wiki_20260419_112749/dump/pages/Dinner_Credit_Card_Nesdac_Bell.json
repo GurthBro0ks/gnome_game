@@ -1,0 +1,33 @@
+{
+  "pageid": 3894,
+  "ns": 0,
+  "title": "Dinner Credit Card+Nesdac Bell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dinner_Credit_Card%2BNesdac_Bell",
+  "touched": "2025-08-11T10:52:06Z",
+  "length": 183,
+  "lastrevid": 38281,
+  "revision": {
+    "revid": 38281,
+    "parentid": 14170,
+    "timestamp": "2025-08-11T10:52:06Z",
+    "sha1": "14623f67e3b4a5a98556eccb183671c468a039e5",
+    "size": 183
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "276",
+        "relics": "Dinner Credit Card,Nesdac Bell",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Supreme Points, Snail DEF +10;Supreme Points: 3000/3000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dinner_Credit_Card_Nesdac_Bell.wiki",
+  "markdown_path": "markdown/Dinner_Credit_Card_Nesdac_Bell.md"
+}

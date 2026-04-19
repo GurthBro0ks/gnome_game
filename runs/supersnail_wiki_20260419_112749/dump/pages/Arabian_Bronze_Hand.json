@@ -1,0 +1,61 @@
+{
+  "pageid": 5102,
+  "ns": 0,
+  "title": "Arabian Bronze Hand",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Arabian_Bronze_Hand",
+  "touched": "2025-09-30T21:41:03Z",
+  "length": 1844,
+  "lastrevid": 40380,
+  "revision": {
+    "revid": 40380,
+    "parentid": 40309,
+    "timestamp": "2025-09-30T21:41:03Z",
+    "sha1": "dfd02222db704de02bef0da7e1f845d02b1a4fbb",
+    "size": 1844
+  },
+  "categories": [
+    "ATK Boost",
+    "DEF Boost",
+    "Enhanced by Organs",
+    "FTH Relics",
+    "Organ Boost",
+    "Purple FTH Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relics",
+    "Rift Exploration Boost",
+    "Rift Museum Boost",
+    "Zombie Minion HP Boost",
+    "Zombie Minion MAX Cap Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Arabian Bronze Hand",
+        "class_id": "22155",
+        "rank": "AAA",
+        "affct": "FTH",
+        "birthday": "08-30",
+        "source": "Lottery Machine No.2 (0.06%), Wishing (0.02%)",
+        "description": "On Aug 30, 622 BC, the Arabian Bronze Hand was created by a group of craftsmen and offered at the altar of the god.<br>This bronze hand was cast by a craftsman from more than 2,600 years ago. From the posture of the fingers to the folds of the knuckles, every detail is extremely realistic. Ancient inscriptions engraved on the back of the hand note that the owner of the hand was named Wahabitarabu. He commissioned the craftsman to make this bronze hand based on his own right hand so that he could …",
+        "fame": "43",
+        "art": "46",
+        "fth": "73",
+        "civ": "32",
+        "tech": "49",
+        "ss1": "Per Organ implanted, Snail ATK +3<br>Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40",
+        "ss2": "Per Organ implanted, Snail ATK +4<br>Per Organ implanted, Snail DEF +4<br>Organs Implanted: 40/40",
+        "ss3": "Per Organ implanted, Snail ATK +5<br>Per Organ implanted, Snail DEF +5<br>Organs Implanted: 40/40",
+        "ss4": "Per Organ implanted, Snail ATK +7<br>Per Organ implanted, Snail DEF +7<br>Organs Implanted: 40/40",
+        "ss5": "Per Organ implanted, Snail ATK +9<br>Per Organ implanted, Snail DEF +9<br>Organs Implanted: 40/40",
+        "ss7": "Per Organ implanted, Snail ATK +9<br>Per Organ implanted, Snail DEF +9<br>Organs Implanted: 40/40<br>Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail RUSH +60",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Arabian_Bronze_Hand.wiki",
+  "markdown_path": "markdown/Arabian_Bronze_Hand.md"
+}

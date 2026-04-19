@@ -1,0 +1,33 @@
+{
+  "pageid": 3779,
+  "ns": 0,
+  "title": "Antimatter Bomb+Nuclear Bomb",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Antimatter_Bomb%2BNuclear_Bomb",
+  "touched": "2025-08-11T11:06:16Z",
+  "length": 167,
+  "lastrevid": 38896,
+  "revision": {
+    "revid": 38896,
+    "parentid": 13677,
+    "timestamp": "2025-08-11T11:06:16Z",
+    "sha1": "4a36be509ba3f299a854ae03305baa38f093a44b",
+    "size": 167
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "216",
+        "relics": "Antimatter Bomb,Nuclear Bomb",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "In explorations, 2x Orange Reagent Drops +2.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Antimatter_Bomb_Nuclear_Bomb.wiki",
+  "markdown_path": "markdown/Antimatter_Bomb_Nuclear_Bomb.md"
+}

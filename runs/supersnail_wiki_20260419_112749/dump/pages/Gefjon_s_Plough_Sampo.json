@@ -1,0 +1,33 @@
+{
+  "pageid": 4441,
+  "ns": 0,
+  "title": "Gefjon's Plough+Sampo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gefjon%27s_Plough%2BSampo",
+  "touched": "2025-06-19T23:58:59Z",
+  "length": 135,
+  "lastrevid": 35713,
+  "revision": {
+    "revid": 35713,
+    "parentid": 19529,
+    "timestamp": "2025-06-19T23:58:59Z",
+    "sha1": "499f84d1357c02529ee80bf2c3cfa98c86ff4efe",
+    "size": 135
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "328",
+        "relics": "Gefjon's Plough,Sampo",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Domain Cabin Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gefjon_s_Plough_Sampo.wiki",
+  "markdown_path": "markdown/Gefjon_s_Plough_Sampo.md"
+}

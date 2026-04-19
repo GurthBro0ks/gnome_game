@@ -1,0 +1,36 @@
+{
+  "pageid": 7978,
+  "ns": 0,
+  "title": "Jupiter and Thetis+Torlonia Marble Caryatid+Dancers on Stage",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jupiter_and_Thetis%2BTorlonia_Marble_Caryatid%2BDancers_on_Stage",
+  "touched": "2025-03-23T18:37:19Z",
+  "length": 323,
+  "lastrevid": 33431,
+  "revision": {
+    "revid": 33431,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:27:31Z",
+    "sha1": "d78444221537f15e4f1a5997195e949f2fed7fb5",
+    "size": 323
+  },
+  "categories": [
+    "Bedrock Power Boost",
+    "Enhanced by CIV Relics",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Jupiter and Thetis,Torlonia Marble Caryatid,Dancers on Stage",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 3 CIV Relics awakened, Snail Bedrock Power +8; CIV Relics Awakened: 180/180"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jupiter_and_Thetis_Torlonia_Marble_Caryatid_Dancers_on_Stage.wiki",
+  "markdown_path": "markdown/Jupiter_and_Thetis_Torlonia_Marble_Caryatid_Dancers_on_Stage.md"
+}

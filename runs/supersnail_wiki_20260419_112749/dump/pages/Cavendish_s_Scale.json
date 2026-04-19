@@ -1,0 +1,59 @@
+{
+  "pageid": 40,
+  "ns": 0,
+  "title": "Cavendish's Scale",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cavendish%27s_Scale",
+  "touched": "2024-09-06T09:57:24Z",
+  "length": 2103,
+  "lastrevid": 26281,
+  "revision": {
+    "revid": 26281,
+    "parentid": 26280,
+    "timestamp": "2024-05-07T16:27:54Z",
+    "sha1": "75bc7330fb1a61684893a1b6cc5de9c10cabe588",
+    "size": 2103
+  },
+  "categories": [
+    "ATK Boost",
+    "Ancient Wood Boost",
+    "Britland Exploration Boost",
+    "Britland Museum Boost",
+    "Exploration B-tad Drop Boost",
+    "Gene Research Speedup Boost",
+    "Lumber Camp Boost",
+    "Purple Relics",
+    "Purple TECH Relics",
+    "RUSH Boost",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Cavendish's Scale",
+        "rank": "AAA",
+        "affct": "TECH",
+        "birthday": "06-20",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)",
+        "description": "On Jun 20, 1789, Cavendish used a torsion balance to measure the gravitational constant.\n\nCavendish placed a high-density iron ball and a low-density iron ball at both ends of the torsion scale. In the middle of the scale, a tough wire was tied to the stand and a small mirror. A laser beam was fired to the mirror and reflected to somewhere in a distance. The location of the laser point was then recorded. Two iron balls of the same density were placed near each of the balls on the scale. The scal …",
+        "fame": "37",
+        "art": "44",
+        "fth": "42",
+        "civ": "47",
+        "tech": "73",
+        "ss1": "Lumber Camp produces Ancient Wood by +6%<br>Per 5 Lumber Camp LVLs, Snail ATK +12<br>Lumber Camp LVL: 50/50",
+        "ss2": "Lumber Camp produces Ancient Wood by +8%<br>Per 5 Lumber Camp LVLs, Snail ATK +16<br>Lumber Camp LVL: 50/50",
+        "ss3": "Lumber Camp produces Ancient Wood by +10%<br>Per 5 Lumber Camp LVLs, Snail ATK +20<br>Lumber Camp LVL: 50/50",
+        "ss4": "Lumber Camp produces Ancient Wood by +14%<br>Per 5 Lumber Camp LVLs, Snail ATK +28<br>Lumber Camp LVL: 50/50",
+        "ss5": "Lumber Camp produces Ancient Wood by +18%<br>Per 5 Lumber Camp LVLs, Snail ATK +36<br>Lumber Camp LVL: 50/50",
+        "ss7": "Lumber Camp produces Ancient Wood by +18%<br>Per 5 Lumber Camp LVLs, Snail ATK +36<br>Lumber Camp LVL: 50/50<br>Lumber Camp produces Ancient Wood by +14% (Awakened)",
+        "skill1": "[[File:Britland skill II.png|50px]] Place in Britland Museum: In Britland, 2x B-tad Drops +7.5%",
+        "skill2": "[[File:Britland skill II.png|50px]] Place in Britland Museum: In Britland, B-tads gained +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cavendish_s_Scale.wiki",
+  "markdown_path": "markdown/Cavendish_s_Scale.md"
+}

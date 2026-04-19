@@ -1,0 +1,48 @@
+{
+  "pageid": 11055,
+  "ns": 0,
+  "title": "AI Disturbance Detector",
+  "fullurl": "https://supersnail.wiki.gg/wiki/AI_Disturbance_Detector",
+  "touched": "2025-11-08T11:20:01Z",
+  "length": 754,
+  "lastrevid": 41740,
+  "revision": {
+    "revid": 41740,
+    "parentid": 41739,
+    "timestamp": "2025-11-08T11:20:01Z",
+    "sha1": "6479326f3742a762fad6441a1ee9409a0db95e15",
+    "size": 754
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "AI Disturbance Detector",
+        "class_id": "20851",
+        "rank": "Green",
+        "affct": "TECH",
+        "source": "Club Store",
+        "description": "Your trusted companion for getting lost in prospection! Uses cutting-edge algorithms to misinterpret threats, crash during critical scans, and blame human error. Perfect for researchers who love surprise adrenaline rushes.",
+        "fame": "19",
+        "art": "14",
+        "fth": "14",
+        "civ": "14",
+        "tech": "29",
+        "ss1": "Prospector Kit gives Troop Casualty -4%<br>Prospector Kit gives Resource Gathering SPD +1%",
+        "ss2": "Prospector Kit gives Troop Casualty -7%<br>Prospector Kit gives Resource Gathering SPD +2%",
+        "ss3": "Prospector Kit gives Troop Casualty -10%<br>Prospector Kit gives Resource Gathering SPD +3%",
+        "ss4": "prop@56036_2<br>prop@56035_2",
+        "ss7": "prop@56036_2<br>prop@56035_2<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/AI_Disturbance_Detector.wiki",
+  "markdown_path": "markdown/AI_Disturbance_Detector.md"
+}

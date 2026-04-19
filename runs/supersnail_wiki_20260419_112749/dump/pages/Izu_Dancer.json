@@ -1,0 +1,55 @@
+{
+  "pageid": 246,
+  "ns": 0,
+  "title": "Izu Dancer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Izu_Dancer",
+  "touched": "2024-09-06T09:58:44Z",
+  "length": 1452,
+  "lastrevid": 19400,
+  "revision": {
+    "revid": 19400,
+    "parentid": 17275,
+    "timestamp": "2023-11-20T04:19:51Z",
+    "sha1": "da94e0de9dfc0eac058af373761f333881d8d467",
+    "size": 1452
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "DNA Boost",
+    "Exploration B-tad Drop Boost",
+    "Fungus Farm Skill",
+    "Mutant Cell Drop Boost",
+    "RUSH Boost",
+    "Relics",
+    "Wonder Fungus Output"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Izu Dancer",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "04-09",
+        "source": "Lottery Machine (0.03%), Wishing (0.82%)",
+        "description": "On Apr, 1926, Yasunari Kawabata completed this early masterpiece of work, Izu Dancer.\n\nThe Izu Dancer tells the story of a youth from Tokyo. He met a troupe of traveling musicians and were attracted by an innocent and beautiful young dancer, Kaoru. He then developed a romantic yet ambiguous feeling for the young dancer. From Shuzenji to Yushima, Yuno arrived at Shimoda Port at the southern tip of Izu Peninsula. There, he said goodbye to the dancer and was saddened by the parting. This poignant l …",
+        "fame": "24",
+        "art": "20",
+        "fth": "31",
+        "civ": "45",
+        "tech": "34",
+        "ss1": "When exploring, Mutant Cells gained +1%",
+        "ss2": "When exploring, Mutant Cells gained +2%",
+        "ss3": "When exploring, Mutant Cells gained +3%",
+        "ss4": "When exploring, Mutant Cells gained +5%",
+        "ss7": "When exploring, Mutant Cells gained +5%<br>When exploring, Mutant Cells gained +5% (Awakened)",
+        "skill1": "[[File:Fungusfarm skill I.png|50px]]Place in Fungus Farm: Grow Wonder Fungus by +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Izu_Dancer.wiki",
+  "markdown_path": "markdown/Izu_Dancer.md"
+}

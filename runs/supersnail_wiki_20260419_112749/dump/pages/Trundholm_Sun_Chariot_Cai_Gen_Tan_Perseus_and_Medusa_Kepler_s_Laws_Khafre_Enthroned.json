@@ -1,0 +1,35 @@
+{
+  "pageid": 7971,
+  "ns": 0,
+  "title": "Trundholm Sun Chariot+Cai Gen Tan+Perseus and Medusa+Kepler's Laws+Khafre Enthroned",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Trundholm_Sun_Chariot%2BCai_Gen_Tan%2BPerseus_and_Medusa%2BKepler%27s_Laws%2BKhafre_Enthroned",
+  "touched": "2025-06-16T02:30:44Z",
+  "length": 307,
+  "lastrevid": 33423,
+  "revision": {
+    "revid": 33423,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:12:20Z",
+    "sha1": "e288be11171d12d804308b8d8dbba2ad2e4f36d9",
+    "size": 307
+  },
+  "categories": [
+    "DEF Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Trundholm Sun Chariot,Cai Gen Tan,Perseus and Medusa,Kepler's Laws,Khafre Enthroned",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "Per red reward from turning the Pendulum, Snail DEF +10; Red reward(s) obtained: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Trundholm_Sun_Chariot_Cai_Gen_Tan_Perseus_and_Medusa_Kepler_s_Laws_Khafre_Enthroned.wiki",
+  "markdown_path": "markdown/Trundholm_Sun_Chariot_Cai_Gen_Tan_Perseus_and_Medusa_Kepler_s_Laws_Khafre_Enthroned.md"
+}

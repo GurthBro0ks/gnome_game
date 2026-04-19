@@ -1,0 +1,47 @@
+{
+  "pageid": 2027,
+  "ns": 0,
+  "title": "Gang Cadre",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gang_Cadre",
+  "touched": "2025-08-11T10:44:10Z",
+  "length": 527,
+  "lastrevid": 37935,
+  "revision": {
+    "revid": 37935,
+    "parentid": 14409,
+    "timestamp": "2025-08-11T10:44:10Z",
+    "sha1": "53b95b40354b51947ad6bc024d1db1b9209b70d4",
+    "size": 527
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gang Cadre",
+        "class_id": "20077",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This is a short wooden stick with a long history. There are many traces of insect bites on it. For some people, this stick is a symbol of status and power! In the days when info couldn't travel so fast, such objects were often used as tokens to prove the identity of the possessor!",
+        "fame": "15",
+        "art": "17",
+        "fth": "10",
+        "civ": "29",
+        "tech": "19",
+        "ss1": "Snail ATK +20",
+        "ss2": "Snail ATK +40",
+        "ss3": "Snail ATK +60",
+        "ss4": "Snail ATK +60",
+        "ss7": "Snail ATK +60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gang_Cadre.wiki",
+  "markdown_path": "markdown/Gang_Cadre.md"
+}

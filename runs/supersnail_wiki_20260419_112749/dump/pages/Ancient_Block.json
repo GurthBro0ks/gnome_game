@@ -1,0 +1,56 @@
+{
+  "pageid": 2149,
+  "ns": 0,
+  "title": "Ancient Block",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ancient_Block",
+  "touched": "2024-09-06T09:56:26Z",
+  "length": 1320,
+  "lastrevid": 26276,
+  "revision": {
+    "revid": 26276,
+    "parentid": 22255,
+    "timestamp": "2024-05-07T15:37:27Z",
+    "sha1": "767b1df09f0ff822926a75bee9b59f57862db47c",
+    "size": 1320
+  },
+  "categories": [
+    "Bharata Exploration Boost",
+    "Bharata Museum Boost",
+    "Blue FTH Relics",
+    "Blue Relics",
+    "DEF Boost",
+    "Exploration Card Drop Boost",
+    "FTH Relics",
+    "Mummy Boost",
+    "Relics",
+    "Wishing Boost",
+    "Zombie Gene Speedup Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ancient Block",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "02-19",
+        "source": "Lottery Machine (0.07%), Novice Scrolls (1%), Soul Chest (2%), Wishing (2.1%)",
+        "description": "On Feb 19, 1001 BC, Pharaoh sealed himself and Zoke into this mysterious building block.\n\nZoke launched a rebellion to help his son take the throne. The Pharaoh sacrificed himself and broke the millennium blocks to seal Zoke and his own soul within. The seal requires the King's name and memories to be unlocked. The Pharaoh lost his memory and his soul wandered in reality, while the Zoke could not be resurrected because his soul was sealed.",
+        "fame": "19",
+        "art": "28",
+        "fth": "46",
+        "civ": "33",
+        "tech": "28",
+        "ss1": "Per 40 wishes made, Snail DEF +4<br>Wishes Made: 400/400",
+        "ss2": "Per 40 wishes made, Snail DEF +8<br>Wishes Made: 400/400",
+        "ss3": "Per 40 wishes made, Snail DEF +12<br>Wishes Made: 400/400",
+        "ss4": "Per 40 wishes made, Snail DEF +20<br>Wishes Made: 400/400",
+        "ss7": "Per 40 wishes made, Snail DEF +20<br>Wishes Made: 400/400<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Bharata skill I.png|50px]]Place in Bharata Museum: In Bharata, Snail DEF +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ancient_Block.wiki",
+  "markdown_path": "markdown/Ancient_Block.md"
+}

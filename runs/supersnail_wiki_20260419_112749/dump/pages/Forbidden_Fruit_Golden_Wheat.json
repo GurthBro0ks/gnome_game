@@ -1,0 +1,34 @@
+{
+  "pageid": 3710,
+  "ns": 0,
+  "title": "Forbidden Fruit+Golden Wheat",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Forbidden_Fruit%2BGolden_Wheat",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 205,
+  "lastrevid": 13604,
+  "revision": {
+    "revid": 13604,
+    "parentid": 0,
+    "timestamp": "2023-10-01T07:53:41Z",
+    "sha1": "d5c6e4769c101deea526a0f4b49eb63bab15b377",
+    "size": 205
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Forbidden Fruit,Golden Wheat",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 HP-Fungi eaten, Snail HP +70<br>HP-Fungi Eaten: 500/500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Forbidden_Fruit_Golden_Wheat.wiki",
+  "markdown_path": "markdown/Forbidden_Fruit_Golden_Wheat.md"
+}

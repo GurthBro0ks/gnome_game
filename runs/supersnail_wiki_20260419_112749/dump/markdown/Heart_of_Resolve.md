@@ -1,0 +1,15 @@
+|image=.png
+|description=The Snail Shell was actually a part of Earth's Will, but all divinity within has been lost after corruption by demonic power, relegating it to a plain Snail Shell...
+|affct=FTH
+|hard=HP
+|source=Defeat Heart of Gaia
+|color=purple
+|earth=8
+|water=6
+|fire=6
+|wind=6
+|form=Angel
+|element=Earth
+|realm=Rift
+|orangehard=HP
+}}

@@ -1,0 +1,47 @@
+{
+  "pageid": 10722,
+  "ns": 0,
+  "title": "Special Mouse Trap",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Special_Mouse_Trap",
+  "touched": "2025-08-11T10:59:39Z",
+  "length": 728,
+  "lastrevid": 38607,
+  "revision": {
+    "revid": 38607,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:59:39Z",
+    "sha1": "0708afa06e7ee7638d67a071ed60e59c3940d4cb",
+    "size": 728
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Special Mouse Trap",
+        "class_id": "20493",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "A collectible of Hitman No.95 and a period piece. It's said that this mouse trap was a witness to the grudges between No.95 and No.96 but it also documented the memory of them making peace with each other before forming a precious brotherhood.",
+        "fame": "29",
+        "art": "16",
+        "fth": "13",
+        "civ": "17",
+        "tech": "16",
+        "ss1": "Per 3 Shrine Rat Zaps, Snail ATK +1<br>Rats Killed: 150/150",
+        "ss2": "Per 3 Shrine Rat Zaps, Snail ATK +2<br>Rats Killed: 150/150",
+        "ss3": "Per 3 Shrine Rat Zaps, Snail ATK +3<br>Rats Killed: 150/150",
+        "ss4": "Per 3 Shrine Rat Zaps, Snail ATK +3<br>Rats Killed: 150/150",
+        "ss7": "Per 3 Shrine Rat Zaps, Snail ATK +3<br>Rats Killed: 150/150<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Special_Mouse_Trap.wiki",
+  "markdown_path": "markdown/Special_Mouse_Trap.md"
+}

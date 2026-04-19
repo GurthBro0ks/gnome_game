@@ -1,0 +1,50 @@
+{
+  "pageid": 4476,
+  "ns": 0,
+  "title": "The Fall of Phaethon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Fall_of_Phaethon",
+  "touched": "2025-06-16T23:15:51Z",
+  "length": 1511,
+  "lastrevid": 35087,
+  "revision": {
+    "revid": 35087,
+    "parentid": 28764,
+    "timestamp": "2025-06-16T23:15:51Z",
+    "sha1": "310ea40e3985083bfbfc439305ee47dfb4da9b2f",
+    "size": 1511
+  },
+  "categories": [
+    "ART Relics",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Fall of Phaethon",
+        "class_id": "22040",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "01-22",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Jan 22, 1604 AD, Rubens was inspired by Greek mythology and created The Fall of Phaeton.<br>The Fall of Phaethon is an oil painting on canvas by Billie's painter Rubens, which depicts the scene of the fall of Phaethon, the son of the sun god. Legend has it that Phaethon cried to his father Apollo, wanting to get the proof that he was the son of the sun god. After obtaining his father's promise to realize his wish, he asked to drive the sun carriage alone to venture out. But in the end, the ho …",
+        "fame": "18",
+        "art": "47",
+        "fth": "36",
+        "civ": "30",
+        "tech": "23",
+        "ss1": "In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +8%",
+        "ss2": "In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +16%",
+        "ss3": "In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +24%",
+        "ss4": "In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +40%",
+        "ss7": "In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +40%<br>In the Demon God Rocket Cabin:<br>> Gravity Propeller Base Effect +40% (Awakened)",
+        "skill1": "[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, All Minion ATK +1.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Fall_of_Phaethon.wiki",
+  "markdown_path": "markdown/The_Fall_of_Phaethon.md"
+}

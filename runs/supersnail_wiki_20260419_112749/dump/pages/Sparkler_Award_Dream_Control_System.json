@@ -1,0 +1,33 @@
+{
+  "pageid": 4791,
+  "ns": 0,
+  "title": "Sparkler Award+Dream Control System",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sparkler_Award%2BDream_Control_System",
+  "touched": "2025-08-11T10:52:34Z",
+  "length": 194,
+  "lastrevid": 38301,
+  "revision": {
+    "revid": 38301,
+    "parentid": 18623,
+    "timestamp": "2025-08-11T10:52:34Z",
+    "sha1": "b71bc113bf068a27fdd8b7ca31c7a03dcc7307bb",
+    "size": 194
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "426",
+        "relics": "Sparkler Award,Dream Control System",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 6 Mirage Gems gained, Snail ATK +6;Mirage Gems Gained: 420/420"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sparkler_Award_Dream_Control_System.wiki",
+  "markdown_path": "markdown/Sparkler_Award_Dream_Control_System.md"
+}

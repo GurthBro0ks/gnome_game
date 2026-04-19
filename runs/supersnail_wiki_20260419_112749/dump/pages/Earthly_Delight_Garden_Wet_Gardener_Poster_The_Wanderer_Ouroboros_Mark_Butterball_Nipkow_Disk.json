@@ -1,0 +1,33 @@
+{
+  "pageid": 8909,
+  "ns": 0,
+  "title": "Earthly Delight Garden+Wet Gardener Poster+The Wanderer+Ouroboros Mark+Butterball+Nipkow Disk",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Earthly_Delight_Garden%2BWet_Gardener_Poster%2BThe_Wanderer%2BOuroboros_Mark%2BButterball%2BNipkow_Disk",
+  "touched": "2025-06-16T23:11:28Z",
+  "length": 217,
+  "lastrevid": 34972,
+  "revision": {
+    "revid": 34972,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:11:28Z",
+    "sha1": "b88bc209396a8f35253f5b9e8356fb88e4ec5c21",
+    "size": 217
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "373",
+        "relics": "Earthly Delight Garden,Wet Gardener Poster,The Wanderer,Ouroboros Mark,Butterball,Nipkow Disk",
+        "rank": "blue",
+        "amount": "6",
+        "category": "self",
+        "description": "All Rocket Cabin production +2.7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Earthly_Delight_Garden_Wet_Gardener_Poster_The_Wanderer_Ouroboros_Mark_Butterball_Nipkow_Disk.wiki",
+  "markdown_path": "markdown/Earthly_Delight_Garden_Wet_Gardener_Poster_The_Wanderer_Ouroboros_Mark_Butterball_Nipkow_Disk.md"
+}

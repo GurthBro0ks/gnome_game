@@ -1,0 +1,50 @@
+{
+  "pageid": 4482,
+  "ns": 0,
+  "title": "The Walking Man",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Walking_Man",
+  "touched": "2025-06-16T23:11:12Z",
+  "length": 901,
+  "lastrevid": 34963,
+  "revision": {
+    "revid": 34963,
+    "parentid": 23831,
+    "timestamp": "2025-06-16T23:11:12Z",
+    "sha1": "5fbf9f06cbbba3c5be07e8b73448deae34eb9721",
+    "size": 901
+  },
+  "categories": [
+    "ART Relics",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Walking Man",
+        "class_id": "22023",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "06-05",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Jun 5, 1961 AD, the master sculptor Giacometti completed the Walking Man.<br>The Walking Man, one of the most iconic sculptures of the 20th century, is a masterpiece by Swedish sculptor Giacometti. It is the most well-known piece in the series and is viewed as a symbol of modern art. In 2010, the sculpture was sold for a staggering 65 million British pounds at an auction, making it one of the most expensive sculptures in the world.",
+        "fame": "23",
+        "art": "45",
+        "fth": "27",
+        "civ": "30",
+        "tech": "29",
+        "ss1": "Zombie Minion RUSH +1%",
+        "ss2": "Zombie Minion RUSH +2%",
+        "ss3": "Zombie Minion RUSH +3%",
+        "ss4": "Zombie Minion RUSH +5%",
+        "ss7": "Zombie Minion RUSH +5%<br>Zombie Minion RUSH +5% (Awakened)",
+        "skill1": "[[File:Tadpolepond skill I.png|50px]]Place in Tadpole Pond: B-tad Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Walking_Man.wiki",
+  "markdown_path": "markdown/The_Walking_Man.md"
+}

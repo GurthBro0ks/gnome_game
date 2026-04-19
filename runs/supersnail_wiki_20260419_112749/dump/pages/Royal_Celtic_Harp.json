@@ -1,0 +1,68 @@
+{
+  "pageid": 3895,
+  "ns": 0,
+  "title": "Royal Celtic Harp",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Royal_Celtic_Harp",
+  "touched": "2025-04-07T07:45:51Z",
+  "length": 2585,
+  "lastrevid": 29866,
+  "revision": {
+    "revid": 29866,
+    "parentid": 29865,
+    "timestamp": "2024-10-15T12:39:22Z",
+    "sha1": "a86b7a01960e0050e83cee902eb17bb44d09df0c",
+    "size": 2585
+  },
+  "categories": [
+    "ATK Boost",
+    "Angel Cell Drop Boost",
+    "Demon Cell Drop Boost",
+    "Exploration Cell Drop Boost",
+    "FTH Relics",
+    "HP Boost",
+    "Hellas Exploration Boost",
+    "Hellas Museum Boost",
+    "Mirage Gem Boost",
+    "Offering Speed Boost",
+    "Orange FTH Relics",
+    "Orange Relics",
+    "Relics",
+    "Rewards Wish Coin",
+    "Stan Boost",
+    "Tadpole Pond W-Tad Output Boost",
+    "Zombie Cell Drop Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Royal Celtic Harp",
+        "available": "1",
+        "rank": "SSS",
+        "affct": "FTH",
+        "birthday": "12-14",
+        "source": "Grandmaster Scrolls (0.76%), Lottery Machine (0.09%), Wishing (0.06%)",
+        "description": "On Dec 14, 1071 AD, the Royal Celtic Harp appeared in Ireland for the first time. Royal Celtic Harp is a large polyphonic stringed instrument. It can be played solo or as a part of an ensemble. According to legend, King David once ordered a harp made out of pure gold. When played solo, it exhibits a soft lyrical cadenza.<br>[Classic Works]<br>Concerto for Flute and Harp by Mozart. Harp Concerto by Greer and Hindemith. Waltz of Flowers by Tchaikovsky.",
+        "fame": "55",
+        "art": "76",
+        "fth": "109",
+        "civ": "67",
+        "tech": "55",
+        "ss1": "In explorations, Cells collected +%<br>Per 5 Mirage Gems gained, Snail HP +<br>Per 5 Mirage Gems gained, Snail ATK +<br>Mirage Gems Gained: 300/300",
+        "ss2": "In explorations, Cells collected +%<br>Per 5 Mirage Gems gained, Snail HP +<br>Per 5 Mirage Gems gained, Snail ATK +<br>Mirage Gems Gained: 300/300",
+        "ss3": "In explorations, Cells collected +%<br>Per 5 Mirage Gems gained, Snail HP +<br>Per 5 Mirage Gems gained, Snail ATK +<br>Mirage Gems Gained: 300/300",
+        "ss4": "In explorations, Cells collected +%<br>Per 5 Mirage Gems gained, Snail HP +<br>Per 5 Mirage Gems gained, Snail ATK +<br>Mirage Gems Gained: 300/300",
+        "ss5": "In explorations, Cells collected +%<br>Per 5 Mirage Gems gained, Snail HP +<br>Per 5 Mirage Gems gained, Snail ATK +<br>Mirage Gems Gained: 300/300",
+        "ss6": "In explorations, Cells collected +7.2%<br>Per 5 Mirage Gems gained, Snail HP +120<br>Per 5 Mirage Gems gained, Snail ATK +12<br>Mirage Gems Gained: 300/300",
+        "ss7": "In explorations, Cells collected +7.2%<br>Per 5 Mirage Gems gained, Snail HP +120<br>Per 5 Mirage Gems gained, Snail ATK +12<br>Mirage Gems Gained: 300/300<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Zombie Cells gained +30%",
+        "skill2": "[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Demon Cells gained +30%",
+        "skill3": "[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Angel Cells gained +30%",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Royal_Celtic_Harp.wiki",
+  "markdown_path": "markdown/Royal_Celtic_Harp.md"
+}

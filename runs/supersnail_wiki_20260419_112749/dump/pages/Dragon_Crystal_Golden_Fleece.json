@@ -1,0 +1,33 @@
+{
+  "pageid": 3287,
+  "ns": 0,
+  "title": "Dragon Crystal+Golden Fleece",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dragon_Crystal%2BGolden_Fleece",
+  "touched": "2025-08-11T10:34:23Z",
+  "length": 178,
+  "lastrevid": 37515,
+  "revision": {
+    "revid": 37515,
+    "parentid": 11957,
+    "timestamp": "2025-08-11T10:34:23Z",
+    "sha1": "ed40c1b192a34cfde7c8a261d0afc98edba39bfb",
+    "size": 178
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "30",
+        "relics": "Dragon Crystal,Golden Fleece",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 400 Relic Points, Snail DEF +3;Relic Points: 10000/10000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dragon_Crystal_Golden_Fleece.wiki",
+  "markdown_path": "markdown/Dragon_Crystal_Golden_Fleece.md"
+}

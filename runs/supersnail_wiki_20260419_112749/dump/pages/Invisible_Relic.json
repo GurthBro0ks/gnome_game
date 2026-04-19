@@ -1,0 +1,47 @@
+{
+  "pageid": 1966,
+  "ns": 0,
+  "title": "Invisible Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Invisible_Relic",
+  "touched": "2025-08-11T10:42:41Z",
+  "length": 468,
+  "lastrevid": 37869,
+  "revision": {
+    "revid": 37869,
+    "parentid": 32218,
+    "timestamp": "2025-08-11T10:42:41Z",
+    "sha1": "838feb94c9c7e87d031fb3382e37c27d7cd11b9d",
+    "size": 468
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Invisible Relic",
+        "class_id": "20138",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "The image and stats of this Relic are invisible because its former owner is also invisible. The former owner naturally passed the trait on to this Relic, but you still need a slot to store it!",
+        "fame": "20",
+        "art": "41",
+        "fth": "27",
+        "civ": "24",
+        "tech": "28",
+        "ss1": "Effects unknown...",
+        "ss2": "Effects unknown...",
+        "ss3": "Effects unknown...",
+        "ss4": "Effects unknown...",
+        "ss7": "Effects unknown...<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Invisible_Relic.wiki",
+  "markdown_path": "markdown/Invisible_Relic.md"
+}

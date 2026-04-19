@@ -1,0 +1,33 @@
+{
+  "pageid": 4714,
+  "ns": 0,
+  "title": "Earth Magnetic Field+Chain Reaction Model",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Earth_Magnetic_Field%2BChain_Reaction_Model",
+  "touched": "2025-06-19T23:59:06Z",
+  "length": 145,
+  "lastrevid": 35719,
+  "revision": {
+    "revid": 35719,
+    "parentid": 18458,
+    "timestamp": "2025-06-19T23:59:06Z",
+    "sha1": "99751a5e796169e23a74b18448c83d32f684c435",
+    "size": 145
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "344",
+        "relics": "Earth Magnetic Field,Chain Reaction Model",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Earth_Magnetic_Field_Chain_Reaction_Model.wiki",
+  "markdown_path": "markdown/Earth_Magnetic_Field_Chain_Reaction_Model.md"
+}

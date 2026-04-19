@@ -1,0 +1,36 @@
+{
+  "pageid": 8297,
+  "ns": 0,
+  "title": "Woman with a Veil+Primavera+King Menkaure & Queen+Sorrows of Werther",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Woman_with_a_Veil%2BPrimavera%2BKing_Menkaure_%26_Queen%2BSorrows_of_Werther",
+  "touched": "2025-05-05T00:35:04Z",
+  "length": 282,
+  "lastrevid": 34081,
+  "revision": {
+    "revid": 34081,
+    "parentid": 0,
+    "timestamp": "2025-04-21T03:02:58Z",
+    "sha1": "8af9baa22d3619d2e37a4ef20cd17b6b34e83204",
+    "size": 282
+  },
+  "categories": [
+    "Dragon Minion HARD Boost",
+    "Minion",
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Woman with a Veil,Primavera,King Menkaure & Queen,Sorrows of Werther",
+        "rank": "orange",
+        "amount": "4",
+        "category": "minion",
+        "description": "Per 60 T7+ Dragon Minions in battle: Troop HARD Stats +90"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Woman_with_a_Veil_Primavera_King_Menkaure_Queen_Sorrows_of_Werther.wiki",
+  "markdown_path": "markdown/Woman_with_a_Veil_Primavera_King_Menkaure_Queen_Sorrows_of_Werther.md"
+}

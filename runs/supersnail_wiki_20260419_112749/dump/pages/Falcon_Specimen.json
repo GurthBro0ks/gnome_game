@@ -1,0 +1,47 @@
+{
+  "pageid": 88,
+  "ns": 0,
+  "title": "Falcon Specimen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Falcon_Specimen",
+  "touched": "2025-08-11T10:32:00Z",
+  "length": 747,
+  "lastrevid": 37409,
+  "revision": {
+    "revid": 37409,
+    "parentid": 25258,
+    "timestamp": "2025-08-11T10:32:00Z",
+    "sha1": "7dc1e81a83a64f518f967318dfd86f054c3619cd",
+    "size": 747
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Falcon Specimen",
+        "class_id": "20146",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "The lifelike stuffed falcon is still soaring with its wings spread open. It used to be a witch's partner, accompanying her throughout countless combats. The witch passed away, but her loyal follower is still on the side of its master...",
+        "fame": "10",
+        "art": "31",
+        "fth": "17",
+        "civ": "14",
+        "tech": "18",
+        "ss1": "Per Crow Sashimi used, Snail HP +3<br>Crow Sashimi Eaten: 200/200",
+        "ss2": "Per Crow Sashimi used, Snail HP +6<br>Crow Sashimi Eaten: 200/200",
+        "ss3": "Per Crow Sashimi used, Snail HP +9<br>Crow Sashimi Eaten: 200/200",
+        "ss4": "Per Crow Sashimi used, Snail HP +9<br>Crow Sashimi Eaten: 200/200",
+        "ss7": "Per Crow Sashimi used, Snail HP +9<br>Crow Sashimi Eaten: 200/200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Falcon_Specimen.wiki",
+  "markdown_path": "markdown/Falcon_Specimen.md"
+}

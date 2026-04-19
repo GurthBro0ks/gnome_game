@@ -1,0 +1,33 @@
+{
+  "pageid": 9317,
+  "ns": 0,
+  "title": "Nazca Lines+Guiguzi Descends the Mountain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nazca_Lines%2BGuiguzi_Descends_the_Mountain",
+  "touched": "2025-08-11T10:44:07Z",
+  "length": 174,
+  "lastrevid": 36252,
+  "revision": {
+    "revid": 36252,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:22:49Z",
+    "sha1": "aff137d461dd636cc8694f09d7f31b93494c0137",
+    "size": 174
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "887",
+        "relics": "Nazca Lines,Guiguzi Descends the Mountain",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop RUSH +63"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nazca_Lines_Guiguzi_Descends_the_Mountain.wiki",
+  "markdown_path": "markdown/Nazca_Lines_Guiguzi_Descends_the_Mountain.md"
+}

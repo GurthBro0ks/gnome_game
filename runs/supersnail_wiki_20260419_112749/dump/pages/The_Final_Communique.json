@@ -1,0 +1,50 @@
+{
+  "pageid": 4635,
+  "ns": 0,
+  "title": "The Final Communique",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Final_Communique",
+  "touched": "2025-06-16T23:12:06Z",
+  "length": 1117,
+  "lastrevid": 34992,
+  "revision": {
+    "revid": 34992,
+    "parentid": 28710,
+    "timestamp": "2025-06-16T23:12:06Z",
+    "sha1": "a2b952476c91da0708d7e3bee030c179c49a10c0",
+    "size": 1117
+  },
+  "categories": [
+    "Blue FAME Relics",
+    "Blue Relics",
+    "FAME Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Final Communique",
+        "class_id": "22011",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "04-16",
+        "source": "Lottery Machine No.2 (0.26%), Wishing (0.14%)",
+        "description": "On Apr 16, 1955 AD, the leaders of all attending countries signed this important document.<br>The Final Communique is published at the end of the Bandung Conference. It means that the attendees reached an agreement on their common interests. It also detailed the attendees' wish to work together, resist colonialism, and their agreement on peace, economy, and culture. The communique encouraged the people to seek peace and independence and had a deep impact on international politics. It is consider …",
+        "fame": "45",
+        "art": "27",
+        "fth": "19",
+        "civ": "28",
+        "tech": "35",
+        "ss1": "If you're in a club, Snail RUSH +20",
+        "ss2": "If you're in a club, Snail RUSH +40",
+        "ss3": "If you're in a club, Snail RUSH +60",
+        "ss4": "If you're in a club, Snail RUSH +100",
+        "ss7": "If you're in a club, Snail RUSH +100<br>If you're in a club, Snail RUSH +100 (Awakened)",
+        "skill1": "[[File:Compass skill I.png|50px]]Place in Exploration Compass: In explorations, 2x INTEL Drops +2.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Final_Communique.wiki",
+  "markdown_path": "markdown/The_Final_Communique.md"
+}

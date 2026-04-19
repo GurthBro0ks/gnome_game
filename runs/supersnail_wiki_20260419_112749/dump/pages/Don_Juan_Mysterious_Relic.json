@@ -1,0 +1,35 @@
+{
+  "pageid": 8405,
+  "ns": 0,
+  "title": "Don Juan+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Don_Juan%2BMysterious_Relic",
+  "touched": "2025-04-25T04:05:43Z",
+  "length": 224,
+  "lastrevid": 34239,
+  "revision": {
+    "revid": 34239,
+    "parentid": 0,
+    "timestamp": "2025-04-25T04:05:43Z",
+    "sha1": "f03ddc10ccf6d6f0ec8b7b41eb16cb70e4267455",
+    "size": 224
+  },
+  "categories": [
+    "ATK Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Don Juan,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per devotee appointed, Snail ATK +7; Devotee Appointed: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Don_Juan_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Don_Juan_Mysterious_Relic.md"
+}

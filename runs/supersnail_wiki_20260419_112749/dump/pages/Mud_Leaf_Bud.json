@@ -1,0 +1,47 @@
+{
+  "pageid": 10545,
+  "ns": 0,
+  "title": "Mud Leaf Bud",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mud_Leaf_Bud",
+  "touched": "2025-08-11T10:54:26Z",
+  "length": 927,
+  "lastrevid": 38380,
+  "revision": {
+    "revid": 38380,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:54:26Z",
+    "sha1": "0c6fe3e4dd935f1ebd5ff370239ee694ca945cba",
+    "size": 927
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mud Leaf Bud",
+        "class_id": "20954",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The sprouting sapling carries the hope of HP, symbolizing the harmonious coexistence between humanity and nature, reminding us to cherish and protect the environment we depend on for survival. To Creation a fresher, healthier world for future generations, let us together guard our green home.",
+        "fame": "32",
+        "art": "15",
+        "fth": "18",
+        "civ": "13",
+        "tech": "12",
+        "ss1": "Snail HP +200<br>Per 5 Sunny Plant Food Fed, Snail ATK +1<br>Sunny Plant Food Fed: 200/200",
+        "ss2": "Snail HP +400<br>Per 5 Sunny Plant Food Fed, Snail ATK +2<br>Sunny Plant Food Fed: 200/200",
+        "ss3": "Snail HP +600<br>Per 5 Sunny Plant Food Fed, Snail ATK +3<br>Sunny Plant Food Fed: 200/200",
+        "ss4": "Snail HP +600<br>Per 5 Sunny Plant Food Fed, Snail ATK +3<br>Sunny Plant Food Fed: 200/200",
+        "ss7": "Snail HP +600<br>Per 5 Sunny Plant Food Fed, Snail ATK +3<br>Sunny Plant Food Fed: 200/200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mud_Leaf_Bud.wiki",
+  "markdown_path": "markdown/Mud_Leaf_Bud.md"
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 3678,
+  "ns": 0,
+  "title": "Tesla Coil+The Starry Night+Voynich Script+Corinthian Pillar+Gordian Knot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tesla_Coil%2BThe_Starry_Night%2BVoynich_Script%2BCorinthian_Pillar%2BGordian_Knot",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 275,
+  "lastrevid": 28241,
+  "revision": {
+    "revid": 28241,
+    "parentid": 22422,
+    "timestamp": "2024-06-22T11:07:33Z",
+    "sha1": "25020d17fa3a8118fe76bfe33cd9174e3cacfaf9",
+    "size": 275
+  },
+  "categories": [
+    "Lottery Bead Color Change",
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Tesla Coil,The Starry Night,Voynich Manuscript,Corinthian Pillar,Gordian Knot",
+        "rank": "purple",
+        "amount": "5",
+        "category": "other",
+        "description": "Lottery Blue Beads turn to Purple by +1.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tesla_Coil_The_Starry_Night_Voynich_Script_Corinthian_Pillar_Gordian_Knot.wiki",
+  "markdown_path": "markdown/Tesla_Coil_The_Starry_Night_Voynich_Script_Corinthian_Pillar_Gordian_Knot.md"
+}

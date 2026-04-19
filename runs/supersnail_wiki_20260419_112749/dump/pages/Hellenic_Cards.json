@@ -1,0 +1,58 @@
+{
+  "pageid": 5689,
+  "ns": 0,
+  "title": "Hellenic Cards",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hellenic_Cards",
+  "touched": "2024-09-06T09:56:04Z",
+  "length": 4454,
+  "lastrevid": 21656,
+  "revision": {
+    "revid": 21656,
+    "parentid": 21619,
+    "timestamp": "2024-01-03T04:39:14Z",
+    "sha1": "9c5c6f4f1aa3d0568ddf453091162e23e18e7953",
+    "size": 4454
+  },
+  "categories": [
+    "Hellas",
+    "Locations",
+    "Realm"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "white",
+        "2": "Exploration",
+        "3": "Javelin"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "white",
+        "2": "Exploration",
+        "3": "Bronze Helmet"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "green",
+        "2": "Exploration",
+        "3": "Heavy Infantry Helmet"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "blue",
+        "2": "Exploration",
+        "3": "Spartan Shield"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hellenic_Cards.wiki",
+  "markdown_path": "markdown/Hellenic_Cards.md"
+}

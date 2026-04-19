@@ -1,0 +1,34 @@
+{
+  "pageid": 3619,
+  "ns": 0,
+  "title": "Deity Quetzalcoatl+Mars Rover",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Deity_Quetzalcoatl%2BMars_Rover",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 158,
+  "lastrevid": 13201,
+  "revision": {
+    "revid": 13201,
+    "parentid": 0,
+    "timestamp": "2023-09-22T15:56:00Z",
+    "sha1": "41467e5679d744d0550bbc713fa1354a703a1808",
+    "size": 158
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Deity Quetzalcoatl,Mars Rover",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail RUSH +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Deity_Quetzalcoatl_Mars_Rover.wiki",
+  "markdown_path": "markdown/Deity_Quetzalcoatl_Mars_Rover.md"
+}

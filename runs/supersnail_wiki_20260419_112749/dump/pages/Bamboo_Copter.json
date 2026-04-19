@@ -1,0 +1,47 @@
+{
+  "pageid": 2098,
+  "ns": 0,
+  "title": "Bamboo Copter",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bamboo_Copter",
+  "touched": "2025-08-11T11:14:03Z",
+  "length": 697,
+  "lastrevid": 39232,
+  "revision": {
+    "revid": 39232,
+    "parentid": 20053,
+    "timestamp": "2025-08-11T11:14:03Z",
+    "sha1": "ee470911e83bf7fffef6b2e22244e5e4abf9418f",
+    "size": 697
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bamboo Copter",
+        "class_id": "20300",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "This is a headgear enabling the wearer to fly and control the flight mentally. The propeller actually generates an anti-gravity field around the body to lift the user off the ground. Emm, the air is so fresh here!",
+        "fame": "20",
+        "art": "15",
+        "fth": "12",
+        "civ": "16",
+        "tech": "27",
+        "ss1": "Per new Realm entered, Snail RUSH +5<br>Realms Reached: 8/8",
+        "ss2": "Per new Realm entered, Snail RUSH +10<br>Realms Reached: 8/8",
+        "ss3": "Per new Realm entered, Snail RUSH +15<br>Realms Reached: 8/8",
+        "ss4": "Per new Realm entered, Snail RUSH +15<br>Realms Reached: 8/8",
+        "ss7": "Per new Realm entered, Snail RUSH +15<br>Realms Reached: 8/8<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bamboo_Copter.wiki",
+  "markdown_path": "markdown/Bamboo_Copter.md"
+}

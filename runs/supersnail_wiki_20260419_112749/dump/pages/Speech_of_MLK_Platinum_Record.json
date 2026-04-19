@@ -1,0 +1,35 @@
+{
+  "pageid": 3646,
+  "ns": 0,
+  "title": "Speech of MLK+Platinum Record",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Speech_of_MLK%2BPlatinum_Record",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 219,
+  "lastrevid": 18435,
+  "revision": {
+    "revid": 18435,
+    "parentid": 17761,
+    "timestamp": "2023-11-13T21:47:13Z",
+    "sha1": "0419b1ff94376ae57638823328790dc0c6110f08",
+    "size": 219
+  },
+  "categories": [
+    "Minion",
+    "Minion RUSH Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Speech of MLK,Platinum Record",
+        "rank": "purple",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 30 Minions in battle: Troop RUSH +24"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Speech_of_MLK_Platinum_Record.wiki",
+  "markdown_path": "markdown/Speech_of_MLK_Platinum_Record.md"
+}

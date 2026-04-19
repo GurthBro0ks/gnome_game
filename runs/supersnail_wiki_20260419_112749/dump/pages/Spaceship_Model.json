@@ -1,0 +1,47 @@
+{
+  "pageid": 325,
+  "ns": 0,
+  "title": "Spaceship Model",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Spaceship_Model",
+  "touched": "2025-08-11T11:17:47Z",
+  "length": 805,
+  "lastrevid": 39393,
+  "revision": {
+    "revid": 39393,
+    "parentid": 11662,
+    "timestamp": "2025-08-11T11:17:47Z",
+    "sha1": "bad8a6dc4f5b89067af0a612f2b833544bef68f8",
+    "size": 805
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Spaceship Model",
+        "class_id": "20062",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This is a spaceship model made of resin. It's rich in details and has photoelectric effects to simulate space flight to the highest extent. Because of the high cost, only a small batch was released worldwide, granting them high collection value!",
+        "fame": "14",
+        "art": "9",
+        "fth": "19",
+        "civ": "29",
+        "tech": "19",
+        "ss1": "Per 5 Mecha Gene LVLs, Snail RUSH +2<br>Mecha Gene LVLs Researched: 150/150",
+        "ss2": "Per 5 Mecha Gene LVLs, Snail RUSH +4<br>Mecha Gene LVLs Researched: 150/150",
+        "ss3": "Per 5 Mecha Gene LVLs, Snail RUSH +6<br>Mecha Gene LVLs Researched: 150/150",
+        "ss4": "Per 5 Mecha Gene LVLs, Snail RUSH +6<br>Mecha Gene LVLs Researched: 150/150",
+        "ss7": "Per 5 Mecha Gene LVLs, Snail RUSH +6<br>Mecha Gene LVLs Researched: 150/150<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Spaceship_Model.wiki",
+  "markdown_path": "markdown/Spaceship_Model.md"
+}

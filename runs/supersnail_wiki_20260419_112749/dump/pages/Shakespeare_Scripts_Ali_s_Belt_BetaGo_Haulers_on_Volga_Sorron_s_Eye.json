@@ -1,0 +1,34 @@
+{
+  "pageid": 3676,
+  "ns": 0,
+  "title": "Shakespeare Scripts+Ali's Belt+BetaGo+Haulers on Volga+Sorron's Eye",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Shakespeare_Scripts%2BAli%27s_Belt%2BBetaGo%2BHaulers_on_Volga%2BSorron%27s_Eye",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 224,
+  "lastrevid": 13282,
+  "revision": {
+    "revid": 13282,
+    "parentid": 0,
+    "timestamp": "2023-09-24T17:48:16Z",
+    "sha1": "ed8d3c99bc96a2f370a888038c47d9a3f3708c5c",
+    "size": 224
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Shakespeare Scripts,Ali's Belt,BetaGo,Haulers on Volga,Sorron's Eye",
+        "rank": "purple",
+        "amount": "5",
+        "category": "other",
+        "description": "In any Realm, 2x Purple Card Drops +3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Shakespeare_Scripts_Ali_s_Belt_BetaGo_Haulers_on_Volga_Sorron_s_Eye.wiki",
+  "markdown_path": "markdown/Shakespeare_Scripts_Ali_s_Belt_BetaGo_Haulers_on_Volga_Sorron_s_Eye.md"
+}

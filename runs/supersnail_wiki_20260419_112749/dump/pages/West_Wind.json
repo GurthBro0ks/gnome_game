@@ -1,0 +1,47 @@
+{
+  "pageid": 2476,
+  "ns": 0,
+  "title": "West Wind",
+  "fullurl": "https://supersnail.wiki.gg/wiki/West_Wind",
+  "touched": "2025-08-11T11:10:39Z",
+  "length": 865,
+  "lastrevid": 39082,
+  "revision": {
+    "revid": 39082,
+    "parentid": 14429,
+    "timestamp": "2025-08-11T11:10:39Z",
+    "sha1": "67abb98fdf363d58fd474c6086494c3a3bd10710",
+    "size": 865
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "West Wind",
+        "class_id": "20248",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This mahjong tile-shaped armor is a part of the outfit for West Wind, a senior cadre in Cathay. It features jade, platinum, and obsidian as main components. Crafted through unknown techniques, it is magnificent, durable, lightweight, and befitting of the revered status of West Wind.",
+        "fame": "13",
+        "art": "14",
+        "fth": "31",
+        "civ": "13",
+        "tech": "19",
+        "ss1": "Per 4 Gacha Gawd Packs claimed, Snail RUSH +2<br>Gacha Gawd Packs Claimed: 40/40",
+        "ss2": "Per 4 Gacha Gawd Packs claimed, Snail RUSH +4<br>Gacha Gawd Packs Claimed: 40/40",
+        "ss3": "Per 4 Gacha Gawd Packs claimed, Snail RUSH +6<br>Gacha Gawd Packs Claimed: 40/40",
+        "ss4": "Per 4 Gacha Gawd Packs claimed, Snail RUSH +6<br>Gacha Gawd Packs Claimed: 40/40",
+        "ss7": "Per 4 Gacha Gawd Packs claimed, Snail RUSH +6<br>Gacha Gawd Packs Claimed: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/West_Wind.wiki",
+  "markdown_path": "markdown/West_Wind.md"
+}

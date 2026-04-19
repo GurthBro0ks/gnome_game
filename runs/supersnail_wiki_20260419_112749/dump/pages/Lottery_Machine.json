@@ -1,0 +1,41 @@
+{
+  "pageid": 657,
+  "ns": 0,
+  "title": "Lottery Machine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lottery_Machine",
+  "touched": "2025-11-07T16:08:08Z",
+  "length": 13580,
+  "lastrevid": 41734,
+  "revision": {
+    "revid": 41734,
+    "parentid": 41733,
+    "timestamp": "2025-11-07T16:08:08Z",
+    "sha1": "448d1b45de3e73a598335fdcf6b9ad114b54c4ed",
+    "size": 13580
+  },
+  "categories": [
+    "Events",
+    "Lottery Machine",
+    "Missing Info",
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Relic",
+      "params": {
+        "image1": "File:Lotto location.png"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Heaven Wings"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lottery_Machine.wiki",
+  "markdown_path": "markdown/Lottery_Machine.md"
+}

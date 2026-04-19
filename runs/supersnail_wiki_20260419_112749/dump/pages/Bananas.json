@@ -1,0 +1,29 @@
+{
+  "pageid": 8199,
+  "ns": 0,
+  "title": "Bananas",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bananas",
+  "touched": "2025-04-04T18:54:05Z",
+  "length": 552,
+  "lastrevid": 33865,
+  "revision": {
+    "revid": 33865,
+    "parentid": 0,
+    "timestamp": "2025-04-04T18:54:05Z",
+    "sha1": "9ca3548cafc1958bb77ce8b8a662e87e4ff1b7b4",
+    "size": 552
+  },
+  "categories": [
+    "ATK Boost",
+    "Dragon Form",
+    "Earth DMG Boost",
+    "FAME Shells",
+    "HP Boost",
+    "Shells",
+    "Time Rift"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Bananas.wiki",
+  "markdown_path": "markdown/Bananas.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 3099,
+  "ns": 0,
+  "title": "White Crystal Ball",
+  "fullurl": "https://supersnail.wiki.gg/wiki/White_Crystal_Ball",
+  "touched": "2025-08-11T11:17:48Z",
+  "length": 754,
+  "lastrevid": 39394,
+  "revision": {
+    "revid": 39394,
+    "parentid": 32206,
+    "timestamp": "2025-08-11T11:17:48Z",
+    "sha1": "f24975e1dbf1bedc4e8ab89cc6dd8f560c5a6004",
+    "size": 754
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "White Crystal Ball",
+        "class_id": "20252",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "White Crystal Ball is a magic weapon created with several gems and a unique ice technology of the Surf Clams. On top of the flawless appearance, the sphere is always enveloped in faint mist due to extremely low internal temperature, as if it was artwork from a fairyland. The excellent compatibility with the ice element makes it an excellent artifact and a priceless item.",
+        "fame": "16",
+        "art": "16",
+        "fth": "31",
+        "civ": "13",
+        "tech": "14",
+        "ss1": "Against Surf Clams, Troop Casualty -1%",
+        "ss2": "Against Surf Clams, Troop Casualty -2%",
+        "ss3": "Against Surf Clams, Troop Casualty -3%",
+        "ss4": "Against Surf Clams, Troop Casualty -3%",
+        "ss7": "Against Surf Clams, Troop Casualty -3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/White_Crystal_Ball.wiki",
+  "markdown_path": "markdown/White_Crystal_Ball.md"
+}

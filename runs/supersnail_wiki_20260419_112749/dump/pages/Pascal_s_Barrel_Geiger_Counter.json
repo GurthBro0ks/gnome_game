@@ -1,0 +1,33 @@
+{
+  "pageid": 4591,
+  "ns": 0,
+  "title": "Pascal's Barrel+Geiger Counter",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pascal%27s_Barrel%2BGeiger_Counter",
+  "touched": "2025-06-19T23:56:38Z",
+  "length": 165,
+  "lastrevid": 35699,
+  "revision": {
+    "revid": 35699,
+    "parentid": 18374,
+    "timestamp": "2025-06-19T23:56:38Z",
+    "sha1": "4f6af4d26f58586c568c9595d7bd070e4d973186",
+    "size": 165
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "341",
+        "relics": "Pascal's Barrel,Geiger Counter",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Mecha Minions in battle: Troop DEF +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pascal_s_Barrel_Geiger_Counter.wiki",
+  "markdown_path": "markdown/Pascal_s_Barrel_Geiger_Counter.md"
+}

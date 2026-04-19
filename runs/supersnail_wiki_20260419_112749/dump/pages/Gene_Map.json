@@ -1,0 +1,58 @@
+{
+  "pageid": 635,
+  "ns": 0,
+  "title": "Gene Map",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gene_Map",
+  "touched": "2024-09-06T09:59:03Z",
+  "length": 1857,
+  "lastrevid": 18193,
+  "revision": {
+    "revid": 18193,
+    "parentid": 17722,
+    "timestamp": "2023-11-13T05:01:36Z",
+    "sha1": "4a4735af6baa064db1fa9b0d280f057de0535feb",
+    "size": 1857
+  },
+  "categories": [
+    "ATK Boost",
+    "Cloning Cost Reduction",
+    "DEF Boost",
+    "Enhanced by Cloning Tank LVL",
+    "Enhanced by Lottery Draws",
+    "Fungus Farm Boost",
+    "Gene Simulation Compass Boost",
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gene Map",
+        "rank": "AAA",
+        "affct": "TECH",
+        "birthday": "06-13",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Evolution Chest (1.5%), Relic Forge (80 Relic RF)",
+        "description": "On Jun 13, 1985, the Human Genome Project was first proposed to study the base pairs of human DNA.\n\nThe significance of Gene Map: Discovering the entire sequence of 3 billion base pairs in the human genome, the position of chromosomes, all human genetic information, and understanding humans at the molecular level for the treatment of diseases.",
+        "fame": "49",
+        "art": "37",
+        "fth": "41",
+        "civ": "44",
+        "tech": "72",
+        "ss1": "Per 5 Cloning Tank LVLs, Snail ATK +12<br>Per 5 Cloning Tank LVLs, Snail DEF +12<br> Cloning Tank LVL:50/50",
+        "ss2": "Per 5 Cloning Tank LVLs, Snail ATK +16<br>Per 5 Cloning Tank LVLs, Snail DEF +16<br> Cloning Tank LVL:50/50",
+        "ss3": "Per 5 Cloning Tank LVLs, Snail ATK +20<br>Per 5 Cloning Tank LVLs, Snail DEF +20<br> Cloning Tank LVL:50/50",
+        "ss4": "Per 5 Cloning Tank LVLs, Snail ATK +28<br>Per 5 Cloning Tank LVLs, Snail DEF +28<br> Cloning Tank LVL:50/50",
+        "ss5": "Per 5 Cloning Tank LVLs, Snail ATK +36<br>Per 5 Cloning Tank LVLs, Snail DEF +36<br> Cloning Tank LVL:50/50",
+        "ss7": "Per 5 Cloning Tank LVLs, Snail ATK +36<br>Per 5 Cloning Tank LVLs, Snail DEF +36<br> Cloning Tank LVL:50/50<br>Minion Cloning B-tad Cost -2.8% (Awakened)",
+        "skill1": "[[File:Genesim skill II.png|50px]] Place in the Gene Sim Device: Wind DMG +60",
+        "skill2": "[[File:Genesim skill II.png|50px]] Place in the Gene Sim Device: Power Checks in Gene Simulations -5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gene_Map.wiki",
+  "markdown_path": "markdown/Gene_Map.md"
+}

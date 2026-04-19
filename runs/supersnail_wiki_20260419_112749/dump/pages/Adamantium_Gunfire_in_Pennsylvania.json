@@ -1,0 +1,35 @@
+{
+  "pageid": 8005,
+  "ns": 0,
+  "title": "Adamantium+Gunfire in Pennsylvania",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Adamantium%2BGunfire_in_Pennsylvania",
+  "touched": "2025-03-23T18:27:58Z",
+  "length": 238,
+  "lastrevid": 33458,
+  "revision": {
+    "revid": 33458,
+    "parentid": 0,
+    "timestamp": "2025-02-22T03:11:23Z",
+    "sha1": "08277f2af52484b9813e0f5f19f7a96ba3710864",
+    "size": 238
+  },
+  "categories": [
+    "DEF Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Adamantium,Gunfire in Pennsylvania",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 3 Dorm Decors gained, Snail DEF +7; Dorm Decor Gained: 150/150"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Adamantium_Gunfire_in_Pennsylvania.wiki",
+  "markdown_path": "markdown/Adamantium_Gunfire_in_Pennsylvania.md"
+}

@@ -1,0 +1,36 @@
+{
+  "pageid": 3613,
+  "ns": 0,
+  "title": "No. 23's Ball+Kapa's Camera",
+  "fullurl": "https://supersnail.wiki.gg/wiki/No._23%27s_Ball%2BKapa%27s_Camera",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 269,
+  "lastrevid": 18580,
+  "revision": {
+    "revid": 18580,
+    "parentid": 18497,
+    "timestamp": "2023-11-14T01:18:40Z",
+    "sha1": "5f380b9f7524763519d6f329cca3a97f711bd6b2",
+    "size": 269
+  },
+  "categories": [
+    "Enhanced by Relic Points",
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "No. 23's Ball,Kapa's Camera",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2k Relic Points, Snail RUSH +4<br>Relic Points: 60,000/60,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/No._23_s_Ball_Kapa_s_Camera.wiki",
+  "markdown_path": "markdown/No._23_s_Ball_Kapa_s_Camera.md"
+}

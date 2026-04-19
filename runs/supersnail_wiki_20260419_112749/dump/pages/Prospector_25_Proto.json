@@ -1,0 +1,47 @@
+{
+  "pageid": 10793,
+  "ns": 0,
+  "title": "Prospector 25 Proto",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Prospector_25_Proto",
+  "touched": "2025-08-11T11:01:47Z",
+  "length": 871,
+  "lastrevid": 38701,
+  "revision": {
+    "revid": 38701,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:01:47Z",
+    "sha1": "78d0cf163931f1c95f1b882e4e3c415f38f7e8cf",
+    "size": 871
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Prospector 25 Proto",
+        "class_id": "20359",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "This machine is designed by the Snail Clan to maximize the exploration of underground resources, each having the ability of digging hundreds of meters underground. Due to its lack of functional stability and relatively high cost, it is difficult to deploy it in actual practice. Since then, based on the data of this prototype machine, the Snail Clan successfully developed a new type of prospecting machine with good versatility. And the prototype it has since become a neglectable collectible in mu …",
+        "fame": "16",
+        "art": "19",
+        "fth": "16",
+        "civ": "13",
+        "tech": "26",
+        "ss1": "B-tads collected from Drill Rig +3%",
+        "ss2": "B-tads collected from Drill Rig +6%",
+        "ss3": "B-tads collected from Drill Rig +9%",
+        "ss4": "B-tads collected from Drill Rig +9%",
+        "ss7": "B-tads collected from Drill Rig +9%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Prospector_25_Proto.wiki",
+  "markdown_path": "markdown/Prospector_25_Proto.md"
+}

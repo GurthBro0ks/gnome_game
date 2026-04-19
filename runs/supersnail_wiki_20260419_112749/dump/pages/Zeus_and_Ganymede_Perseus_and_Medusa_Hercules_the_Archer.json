@@ -1,0 +1,33 @@
+{
+  "pageid": 8764,
+  "ns": 0,
+  "title": "Zeus and Ganymede+Perseus and Medusa+Hercules the Archer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Zeus_and_Ganymede%2BPerseus_and_Medusa%2BHercules_the_Archer",
+  "touched": "2025-06-16T20:58:30Z",
+  "length": 180,
+  "lastrevid": 34739,
+  "revision": {
+    "revid": 34739,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:58:30Z",
+    "sha1": "e5d679d93cefb722372902f8f3fcba0113e07047",
+    "size": 180
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "696",
+        "relics": "Zeus and Ganymede,Perseus and Medusa,Hercules the Archer",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Protomon Snail assist DMG + 560"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Zeus_and_Ganymede_Perseus_and_Medusa_Hercules_the_Archer.wiki",
+  "markdown_path": "markdown/Zeus_and_Ganymede_Perseus_and_Medusa_Hercules_the_Archer.md"
+}

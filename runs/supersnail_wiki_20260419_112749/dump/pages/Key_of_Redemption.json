@@ -1,0 +1,47 @@
+{
+  "pageid": 4007,
+  "ns": 0,
+  "title": "Key of Redemption",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Key_of_Redemption",
+  "touched": "2025-08-11T11:17:37Z",
+  "length": 655,
+  "lastrevid": 39386,
+  "revision": {
+    "revid": 39386,
+    "parentid": 19405,
+    "timestamp": "2025-08-11T11:17:37Z",
+    "sha1": "b2bf17e5677355fe5c2105d79b5e7855a7f9abb6",
+    "size": 655
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Key of Redemption",
+        "class_id": "20222",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This antique key holds an unimaginable power of faith, and if you listen closely, you can hear the prayers of believers, \"Lord, please give us what we have dreamed of...\"",
+        "fame": "13",
+        "art": "17",
+        "fth": "31",
+        "civ": "18",
+        "tech": "13",
+        "ss1": "Per Angel Form Tier, Snail HP +100<br>Angel Form Tiers: 9/9",
+        "ss2": "Per Angel Form Tier, Snail HP +200<br>Angel Form Tiers: 9/9",
+        "ss3": "Per Angel Form Tier, Snail HP +300<br>Angel Form Tiers: 9/9",
+        "ss4": "Per Angel Form Tier, Snail HP +300<br>Angel Form Tiers: 9/9",
+        "ss7": "Per Angel Form Tier, Snail HP +300<br>Angel Form Tiers: 9/9<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Key_of_Redemption.wiki",
+  "markdown_path": "markdown/Key_of_Redemption.md"
+}

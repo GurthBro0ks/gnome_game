@@ -1,0 +1,47 @@
+{
+  "pageid": 4023,
+  "ns": 0,
+  "title": "Amusement Park Master",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Amusement_Park_Master",
+  "touched": "2025-08-11T10:48:12Z",
+  "length": 770,
+  "lastrevid": 38107,
+  "revision": {
+    "revid": 38107,
+    "parentid": 30850,
+    "timestamp": "2025-08-11T10:48:12Z",
+    "sha1": "f59b18cde34df292b78f143127b69fd1bb6c4d7b",
+    "size": 770
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Amusement Park Master",
+        "class_id": "20472",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Only the one who successfully challenged all the projects in the amusement park is qualified to get this certificate. The certificate comes with certain privileges, for example, sitting while waiting in the queue.",
+        "fame": "31",
+        "art": "16",
+        "fth": "16",
+        "civ": "14",
+        "tech": "13",
+        "ss1": "Per 5 Orange Museum Promos, Snail RUSH +7<br>Orange Museum Promos: 50/50",
+        "ss2": "Per 5 Orange Museum Promos, Snail RUSH +14<br>Orange Museum Promos: 50/50",
+        "ss3": "Per 5 Orange Museum Promos, Snail RUSH +21<br>Orange Museum Promos: 50/50",
+        "ss4": "Per 5 Orange Museum Promos, Snail RUSH +21<br>Orange Museum Promos: 50/50",
+        "ss7": "Per 5 Orange Museum Promos, Snail RUSH +21<br>Orange Museum Promos: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Amusement_Park_Master.wiki",
+  "markdown_path": "markdown/Amusement_Park_Master.md"
+}

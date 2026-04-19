@@ -1,0 +1,67 @@
+{
+  "pageid": 911,
+  "ns": 0,
+  "title": "Ship in a Bottle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ship_in_a_Bottle",
+  "touched": "2024-11-04T01:11:03Z",
+  "length": 2483,
+  "lastrevid": 30120,
+  "revision": {
+    "revid": 30120,
+    "parentid": 27275,
+    "timestamp": "2024-10-15T15:46:02Z",
+    "sha1": "c9a62210f8b6198ed68ef9e1536ae754eec04196",
+    "size": 2483
+  },
+  "categories": [
+    "ART Relics",
+    "DEF Boost",
+    "Exploration B-tad Drop Boost",
+    "FAME-Fungi Boost",
+    "Fungus Farm Output Boost",
+    "God Descent Boost",
+    "HP Boost",
+    "Murika Exploration Boost",
+    "Murika Museum Boost",
+    "Nanosaur Boost",
+    "Orange ART Relics",
+    "Orange Relics",
+    "RUSH Boost",
+    "Relics",
+    "Tadpole Pond Output Boost",
+    "Tadpole Pond Skill",
+    "Tadpole Pond W-Tad Output Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ship in a Bottle",
+        "rank": "SS",
+        "affct": "ART",
+        "birthday": "08-12",
+        "source": "Fragment Crafting (4%), Grandmaster Scrolls (1.5%), Lottery Machine (0.18%), Wishing (0.15%)",
+        "description": "On Aug 12, AD 1600, this mighty ship of the Caribbean Sea was put in a small bottle. \n\nShip in a bottle, also known as the Black Pearl, is a four-masted vessel contained in a small bottle floating in the Caribbean Sea. It used to be a trade ship of the East India Company before becoming a pirate ship. Thereafter, it was cursed after the captain secretly released more than 200 captives. The captain and sailors would turn into immortal monsters every moonlit night. It was until this bottle showed  …",
+        "fame": "70",
+        "art": "101",
+        "fth": "62",
+        "civ": "64",
+        "tech": "50",
+        "ss1": "Snail RUSH +20<br>Per 10 FAME-Fungi eaten, Snail DEF +2<br>Per 10 FAME-Fungi eaten Snail RUSH +2<br>FAME-Fungi Eaten: 500/500",
+        "ss2": "Snail RUSH +30<br>Per 10 FAME-Fungi eaten, Snail DEF +3<br>Per 10 FAME-Fungi eaten Snail RUSH +3<br>FAME-Fungi Eaten: 500/500",
+        "ss3": "Snail RUSH +40<br>Per 10 FAME-Fungi eaten, Snail DEF +4<br>Per 10 FAME-Fungi eaten Snail RUSH +4<br>FAME-Fungi Eaten: 500/500",
+        "ss4": "Snail RUSH +60<br>Per 10 FAME-Fungi eaten, Snail DEF +6<br>Per 10 FAME-Fungi eaten Snail RUSH +6<br>FAME-Fungi Eaten: 500/500",
+        "ss5": "Snail RUSH +80<br>Per 10 FAME-Fungi eaten, Snail DEF +8<br>Per 10 FAME-Fungi eaten Snail RUSH +8<br>FAME-Fungi Eaten: 500/500",
+        "ss6": "Snail RUSH +110<br>Per 10 FAME-Fungi eaten, Snail DEF +11<br>Per 10 FAME-Fungi eaten Snail RUSH +11<br>FAME-Fungi Eaten: 500/500",
+        "ss7": "Snail RUSH +110<br>Per 10 FAME-Fungi eaten, Snail DEF +11<br>Per 10 FAME-Fungi eaten Snail RUSH +11<br>FAME-Fungi Eaten: 500/500<br>Snail RUSH +100 (Awakened)",
+        "skill1": "[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: B-tad Output +30%",
+        "skill2": "[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Generate W-tads by +30%",
+        "skill3": "[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x B-tad Drops +15%",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ship_in_a_Bottle.wiki",
+  "markdown_path": "markdown/Ship_in_a_Bottle.md"
+}

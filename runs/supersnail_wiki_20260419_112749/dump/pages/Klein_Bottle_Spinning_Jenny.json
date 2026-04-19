@@ -1,0 +1,35 @@
+{
+  "pageid": 3313,
+  "ns": 0,
+  "title": "Klein Bottle+Spinning Jenny",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Klein_Bottle%2BSpinning_Jenny",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 221,
+  "lastrevid": 22418,
+  "revision": {
+    "revid": 22418,
+    "parentid": 12050,
+    "timestamp": "2024-02-21T02:50:40Z",
+    "sha1": "91662a34c3ff281e0c5bde7aeef391d531683028",
+    "size": 221
+  },
+  "categories": [
+    "Lottery Bead Color Change",
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Klein Bottle,Spinning Jenny",
+        "rank": "blue",
+        "amount": "2",
+        "category": "other",
+        "description": "Lottery White Beads turn to Green by +1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Klein_Bottle_Spinning_Jenny.wiki",
+  "markdown_path": "markdown/Klein_Bottle_Spinning_Jenny.md"
+}

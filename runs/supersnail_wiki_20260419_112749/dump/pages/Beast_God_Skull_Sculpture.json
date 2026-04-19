@@ -1,0 +1,46 @@
+{
+  "pageid": 10344,
+  "ns": 0,
+  "title": "Beast God Skull Sculpture",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Beast_God_Skull_Sculpture",
+  "touched": "2025-09-30T22:44:51Z",
+  "length": 876,
+  "lastrevid": 40416,
+  "revision": {
+    "revid": 40416,
+    "parentid": 40399,
+    "timestamp": "2025-09-30T22:44:51Z",
+    "sha1": "9dab20242d0b38a68cd1b341c6bfcf9bfa37cf59",
+    "size": 876
+  },
+  "categories": [
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Missing Info",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Beast God Skull Sculpture",
+        "class_id": "20297",
+        "rank": "Green",
+        "affct": "FTH",
+        "description": "Upon learning of the fall of the Beast God, Earth's Will commissioned the creation of a series of statues based on its skull's design. These sculptures serve two purposes: to commemorate the historic moment of overcoming formidable enemies and to be gifted to extraordinary time travelers, allowing them to share the joy of this victory together!",
+        "fame": "18",
+        "art": "13",
+        "fth": "34",
+        "civ": "14",
+        "tech": "12",
+        "ss1": "Snail Leadership +1<br>Per Demon God Sculpture owned, Snail ATK +50<br>Demon God Sculptures Owned: 8/8",
+        "ss2": "Snail Leadership +2<br>Per Demon God Sculpture owned, Snail ATK +100<br>Demon God Sculptures Owned: 8/8",
+        "ss3": "Snail Leadership +3<br>Per Demon God Sculpture owned, Snail ATK +150<br>Demon God Sculptures Owned: 8/8"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Beast_God_Skull_Sculpture.wiki",
+  "markdown_path": "markdown/Beast_God_Skull_Sculpture.md"
+}

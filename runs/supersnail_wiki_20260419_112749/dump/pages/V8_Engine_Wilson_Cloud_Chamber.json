@@ -1,0 +1,33 @@
+{
+  "pageid": 5063,
+  "ns": 0,
+  "title": "V8 Engine+Wilson Cloud Chamber",
+  "fullurl": "https://supersnail.wiki.gg/wiki/V8_Engine%2BWilson_Cloud_Chamber",
+  "touched": "2025-08-11T11:06:06Z",
+  "length": 186,
+  "lastrevid": 38888,
+  "revision": {
+    "revid": 38888,
+    "parentid": 18584,
+    "timestamp": "2025-08-11T11:06:06Z",
+    "sha1": "69523439542d3e87d86cddd8bbb2bc02aa5a495d",
+    "size": 186
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "424",
+        "relics": "V8 Engine,Wilson Cloud Chamber",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Time Machine LVLs, Snail RUSH +18;Time Machine LVL: 90/90"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/V8_Engine_Wilson_Cloud_Chamber.wiki",
+  "markdown_path": "markdown/V8_Engine_Wilson_Cloud_Chamber.md"
+}

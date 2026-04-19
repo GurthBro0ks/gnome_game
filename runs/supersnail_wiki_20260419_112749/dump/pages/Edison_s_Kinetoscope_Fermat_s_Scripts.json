@@ -1,0 +1,33 @@
+{
+  "pageid": 3735,
+  "ns": 0,
+  "title": "Edison's Kinetoscope+Fermat's Scripts",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Edison%27s_Kinetoscope%2BFermat%27s_Scripts",
+  "touched": "2025-07-02T09:42:20Z",
+  "length": 192,
+  "lastrevid": 37042,
+  "revision": {
+    "revid": 37042,
+    "parentid": 13633,
+    "timestamp": "2025-07-02T09:42:20Z",
+    "sha1": "5a29e15e4cbd212eab6b1ca62b98cfd216f3d31e",
+    "size": 192
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "227",
+        "relics": "Edison's Kinetoscope,Fermat's Scripts",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10k Relic Points, Snail DEF +5;Relic Points: 420000/420000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Edison_s_Kinetoscope_Fermat_s_Scripts.wiki",
+  "markdown_path": "markdown/Edison_s_Kinetoscope_Fermat_s_Scripts.md"
+}

@@ -1,0 +1,36 @@
+{
+  "pageid": 3715,
+  "ns": 0,
+  "title": "Da Vinci's Notes+Relativity Scripts",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Da_Vinci%27s_Notes%2BRelativity_Scripts",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 272,
+  "lastrevid": 18592,
+  "revision": {
+    "revid": 18592,
+    "parentid": 18288,
+    "timestamp": "2023-11-14T01:22:15Z",
+    "sha1": "1ebbfaf5872623ab76da218a00c6fb4e61bf9e16",
+    "size": 272
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by ATK Fungi",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Da Vinci's Notes,Relativity Scripts",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 ATK-Fungi eaten, Snail ATK +7<br>ATK-Fungi Eaten: 500/500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Da_Vinci_s_Notes_Relativity_Scripts.wiki",
+  "markdown_path": "markdown/Da_Vinci_s_Notes_Relativity_Scripts.md"
+}

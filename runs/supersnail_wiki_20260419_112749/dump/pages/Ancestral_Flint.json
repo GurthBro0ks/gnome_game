@@ -1,0 +1,47 @@
+{
+  "pageid": 11086,
+  "ns": 0,
+  "title": "Ancestral Flint",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ancestral_Flint",
+  "touched": "2025-08-11T11:11:54Z",
+  "length": 904,
+  "lastrevid": 39137,
+  "revision": {
+    "revid": 39137,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:11:54Z",
+    "sha1": "0f3431f97c01b2ecc517ab346444361b47670a59",
+    "size": 904
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ancestral Flint",
+        "class_id": "20857",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Flint, commonly known as firestone, is a dense, hard sedimentary rock containing silicon dioxide, usually light gray to dark brown, often found in limestone, and was an important early tool for making fire, witnessing the development of human civilization.",
+        "fame": "12",
+        "art": "15",
+        "fth": "18",
+        "civ": "13",
+        "tech": "32",
+        "ss1": "In Species War, Troop DMG to Heroes +0.5%<br>In Species War, Troop DMG against soldiers +0.5%",
+        "ss2": "In Species War, Troop DMG to Heroes +1%<br>In Species War, Troop DMG against soldiers +1%",
+        "ss3": "In Species War, Troop DMG to Heroes +1.5%<br>In Species War, Troop DMG against soldiers +1.5%",
+        "ss4": "In Species War, Troop DMG to Heroes +1.5%<br>In Species War, Troop DMG against soldiers +1.5%",
+        "ss7": "In Species War, Troop DMG to Heroes +1.5%<br>In Species War, Troop DMG against soldiers +1.5%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ancestral_Flint.wiki",
+  "markdown_path": "markdown/Ancestral_Flint.md"
+}

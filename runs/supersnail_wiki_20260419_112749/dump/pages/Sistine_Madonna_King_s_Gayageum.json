@@ -1,0 +1,33 @@
+{
+  "pageid": 3711,
+  "ns": 0,
+  "title": "Sistine Madonna+King's Gayageum",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sistine_Madonna%2BKing%27s_Gayageum",
+  "touched": "2025-07-02T09:43:02Z",
+  "length": 183,
+  "lastrevid": 37071,
+  "revision": {
+    "revid": 37071,
+    "parentid": 13605,
+    "timestamp": "2025-07-02T09:43:02Z",
+    "sha1": "8e7119b2e296234db2270a23e966c1d849874ba3",
+    "size": 183
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "198",
+        "relics": "Sistine Madonna,King's Gayageum",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1k DNA Strength, Snail HP +50;DNA Strength: 42000/42000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sistine_Madonna_King_s_Gayageum.wiki",
+  "markdown_path": "markdown/Sistine_Madonna_King_s_Gayageum.md"
+}

@@ -1,0 +1,36 @@
+{
+  "pageid": 5066,
+  "ns": 0,
+  "title": "Phial of Galadrial+Valaroma",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Phial_of_Galadrial%2BValaroma",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 280,
+  "lastrevid": 18557,
+  "revision": {
+    "revid": 18557,
+    "parentid": 18481,
+    "timestamp": "2023-11-14T01:11:53Z",
+    "sha1": "77ca44284083ddfa2058e2040cc9ee1f11295f7c",
+    "size": 280
+  },
+  "categories": [
+    "Enhanced by Snail Shells",
+    "HP Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Phial of Galadrial,Valaroma",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1 Red Snail Shell upgraded, Snail HP +120; Red Snail Shell Upgraded: 20/20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Phial_of_Galadrial_Valaroma.wiki",
+  "markdown_path": "markdown/Phial_of_Galadrial_Valaroma.md"
+}

@@ -1,0 +1,6 @@
+|3name=Bohr|3rec=284.62M|3atk=737076|3defense=418623|3hp=119046548|3weak=61760
+|4name=Rosen|4rec=362.41M|4atk=861865|4defense=488609|4hp=187293552|4weak=66863
+|5name=dungeon_event@4858_1|5rec=477.99M|5atk=1053209|5defense=592587|5hp=343839613|5weak=73818
+|6name=Einstein|6rec=627.57M|6atk=1378520|6defense=727156|6hp=570016295|6weak=81768
+|Arec=852.85M|Aatk=2047776|Adefense=964191|Ahp=971930399|Aweak=92110
+}}}}

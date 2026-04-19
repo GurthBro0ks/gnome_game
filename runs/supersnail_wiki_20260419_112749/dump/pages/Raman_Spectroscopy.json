@@ -1,0 +1,53 @@
+{
+  "pageid": 8517,
+  "ns": 0,
+  "title": "Raman Spectroscopy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Raman_Spectroscopy",
+  "touched": "2025-09-28T09:32:31Z",
+  "length": 2016,
+  "lastrevid": 40220,
+  "revision": {
+    "revid": 40220,
+    "parentid": 36043,
+    "timestamp": "2025-09-28T08:52:50Z",
+    "sha1": "acb06a1a260ab387fd2d3a907f662ced07ee9045",
+    "size": 2016
+  },
+  "categories": [
+    "Pages with broken file links",
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Raman Spectroscopy",
+        "class_id": "22591",
+        "rank": "AA",
+        "affct": "TECH",
+        "birthday": "07-26",
+        "source": "Lottery Machine No.3 (0.12%)",
+        "description": "On Jul 26, 1928 AD, the Indian physicist Raman made a new discovery in his experiments.<br>In experiments, Raman discovered that light passing through a transparent medium would be scattered by molecules, causing a change in the frequency of the light. Raman found that the frequency of the scattered light is symmetrically distributed on both sides of the incident light frequency in the scattering spectrum. This discovery revealed the energy change that occurs when photons refract and has great v …",
+        "fame": "39",
+        "art": "32",
+        "fth": "49",
+        "civ": "42",
+        "tech": "66",
+        "ss1": "Per 3,000 Tribe Prosperity, Priest-Snail Assistance DMG +16<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +16<br>Tribe Prosperity: 150000/150000",
+        "ss2": "Per 3,000 Tribe Prosperity, Priest-Snail Assistance DMG +24<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +24<br>Tribe Prosperity: 150000/150000",
+        "ss3": "Per 3,000 Tribe Prosperity, Priest-Snail Assistance DMG +32<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +32<br>Tribe Prosperity: 150000/150000",
+        "ss4": "Per 3,000 Tribe Prosperity, Priest-Snail Assistance DMG +48<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +48<br>Tribe Prosperity: 150000/150000",
+        "ss5": "Per 3,000 Tribe Prosperity, Priest-Snail Assistance DMG +64<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +64<br>Tribe Prosperity: 150000/150000",
+        "ss7": "Per 3,000 Tribe Prosperity, Priest-Snail Assistance DMG +64<br>Per 3,000 Tribe Prosperity, Priest-Troop Assistance DMG +64<br>Tribe Prosperity: 150000/150000<br>Protomon Snail assist DMG + 560 (Awakened)",
+        "skill1": "[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: This Relic's TECH +10",
+        "skill2": "[[File:Minion Sim Skill II.png|50px]]Place in Minion Sims: In Minion Sims, Troop CRIT +4.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Raman_Spectroscopy.wiki",
+  "markdown_path": "markdown/Raman_Spectroscopy.md"
+}

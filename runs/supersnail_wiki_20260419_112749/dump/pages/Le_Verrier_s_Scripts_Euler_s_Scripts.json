@@ -1,0 +1,33 @@
+{
+  "pageid": 4847,
+  "ns": 0,
+  "title": "Le Verrier's Scripts+Euler's Scripts",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Le_Verrier%27s_Scripts%2BEuler%27s_Scripts",
+  "touched": "2025-06-19T23:54:38Z",
+  "length": 170,
+  "lastrevid": 35685,
+  "revision": {
+    "revid": 35685,
+    "parentid": 17652,
+    "timestamp": "2025-06-19T23:54:38Z",
+    "sha1": "8e0f5b1b1ff513346e07a12df7148e201413172d",
+    "size": 170
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "419",
+        "relics": "Le Verrier's Scripts,Euler's Scripts",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Wormhole Shards from Wormhole Refiner +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Le_Verrier_s_Scripts_Euler_s_Scripts.wiki",
+  "markdown_path": "markdown/Le_Verrier_s_Scripts_Euler_s_Scripts.md"
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 3644,
+  "ns": 0,
+  "title": "Prehistoric Fossil+Koryeon Sutra",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Prehistoric_Fossil%2BKoryeon_Sutra",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 219,
+  "lastrevid": 18429,
+  "revision": {
+    "revid": 18429,
+    "parentid": 17753,
+    "timestamp": "2023-11-13T21:44:19Z",
+    "sha1": "c2973d717dfc746972f6d2173e39a21a82835c06",
+    "size": 219
+  },
+  "categories": [
+    "Minion",
+    "Minion HP Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Prehistoric Fossil,Koryeon Sutra",
+        "rank": "purple",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 30 Minions in battle: Troop HP +240"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Prehistoric_Fossil_Koryeon_Sutra.wiki",
+  "markdown_path": "markdown/Prehistoric_Fossil_Koryeon_Sutra.md"
+}

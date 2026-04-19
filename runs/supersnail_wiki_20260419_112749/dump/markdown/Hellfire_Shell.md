@@ -1,0 +1,15 @@
+|image=.png
+|description=A dying Snail signed a pact with demons to serve hell in exchange for immortality. They became a messenger running errands and buying coffee for them. The transformation code is: Beware of burning candles at night!
+|affct=CIV
+|hard=ATK
+|source=Bionic Part Value Pack II ($49.99)
+|color=purple
+|earth=6
+|water=6
+|fire=7
+|wind=7
+|form=Dragon
+|element=Fire
+|realm=Murika
+|orangehard=HP
+}}

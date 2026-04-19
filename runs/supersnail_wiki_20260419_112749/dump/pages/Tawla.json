@@ -1,0 +1,50 @@
+{
+  "pageid": 4567,
+  "ns": 0,
+  "title": "Tawla",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tawla",
+  "touched": "2025-06-16T23:11:22Z",
+  "length": 1008,
+  "lastrevid": 34968,
+  "revision": {
+    "revid": 34968,
+    "parentid": 24419,
+    "timestamp": "2025-06-16T23:11:22Z",
+    "sha1": "c8c4ca43b3fd2a2d1d768d91fb913e7dcc08f1cf",
+    "size": 1008
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Tawla",
+        "class_id": "22082",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "07-09",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Jul 9, 1253 AD, King Louis IX of France issued a decree prohibiting officials from playing Tawla.<br>Tawla, the Arabic backgammon, originated from the ancient Egyptian Seinet chess over 3,000 BC and was improved by the Arabs into today's Arabic backgammon. In the eleventh century, backgammon was taken to France, and soon became the French people's favorite method of entertainment. From hawkers to princes and nobles, they were all addicted to it. As a last resort, Louis IX issued a decree in 1 …",
+        "fame": "31",
+        "art": "31",
+        "fth": "27",
+        "civ": "47",
+        "tech": "18",
+        "ss1": "Mecha Minion ATK +1%",
+        "ss2": "Mecha Minion ATK +2%",
+        "ss3": "Mecha Minion ATK +3%",
+        "ss4": "Mecha Minion ATK +5%",
+        "ss7": "Mecha Minion ATK +5%<br>Mecha Minion ATK +5% (Awakened)",
+        "skill1": "[[File:Surfclam skill I.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion DEF +1.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tawla.wiki",
+  "markdown_path": "markdown/Tawla.md"
+}

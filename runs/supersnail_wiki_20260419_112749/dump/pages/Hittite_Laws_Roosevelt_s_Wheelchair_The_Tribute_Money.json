@@ -1,0 +1,33 @@
+{
+  "pageid": 8547,
+  "ns": 0,
+  "title": "Hittite Laws+Roosevelt's Wheelchair+The Tribute Money",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hittite_Laws%2BRoosevelt%27s_Wheelchair%2BThe_Tribute_Money",
+  "touched": "2025-06-16T20:52:52Z",
+  "length": 182,
+  "lastrevid": 34443,
+  "revision": {
+    "revid": 34443,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:33:10Z",
+    "sha1": "d8494a96969b2c649bbdf14f93d4a093bcf7bd37",
+    "size": 182
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "699",
+        "relics": "Hittite Laws,Roosevelt's Wheelchair,The Tribute Money",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Prairie Sanctum, Glorium Output +14%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hittite_Laws_Roosevelt_s_Wheelchair_The_Tribute_Money.wiki",
+  "markdown_path": "markdown/Hittite_Laws_Roosevelt_s_Wheelchair_The_Tribute_Money.md"
+}

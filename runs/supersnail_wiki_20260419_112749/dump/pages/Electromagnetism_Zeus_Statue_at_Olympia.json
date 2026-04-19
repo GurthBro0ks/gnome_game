@@ -1,0 +1,33 @@
+{
+  "pageid": 8407,
+  "ns": 0,
+  "title": "Electromagnetism+Zeus Statue at Olympia",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Electromagnetism%2BZeus_Statue_at_Olympia",
+  "touched": "2025-08-11T10:42:54Z",
+  "length": 178,
+  "lastrevid": 37878,
+  "revision": {
+    "revid": 37878,
+    "parentid": 34241,
+    "timestamp": "2025-08-11T10:42:54Z",
+    "sha1": "918df8fc41ccd75874cb180085d4569638fc9fef",
+    "size": 178
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "767",
+        "relics": "Electromagnetism,Zeus Statue at Olympia",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "In Follower Recruitment, 2x Follower Drops +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Electromagnetism_Zeus_Statue_at_Olympia.wiki",
+  "markdown_path": "markdown/Electromagnetism_Zeus_Statue_at_Olympia.md"
+}

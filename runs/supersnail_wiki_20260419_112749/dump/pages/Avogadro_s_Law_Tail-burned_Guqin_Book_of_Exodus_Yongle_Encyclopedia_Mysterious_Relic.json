@@ -1,0 +1,35 @@
+{
+  "pageid": 6166,
+  "ns": 0,
+  "title": "Avogadro's Law+Tail-burned Guqin+Book of Exodus+Yongle Encyclopedia+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Avogadro%27s_Law%2BTail-burned_Guqin%2BBook_of_Exodus%2BYongle_Encyclopedia%2BMysterious_Relic",
+  "touched": "2024-12-21T16:42:10Z",
+  "length": 274,
+  "lastrevid": 32381,
+  "revision": {
+    "revid": 32381,
+    "parentid": 32380,
+    "timestamp": "2024-12-21T16:28:13Z",
+    "sha1": "d1aa455d3f1c37109f2bbeca7c9cdd0058ab5391",
+    "size": 274
+  },
+  "categories": [
+    "Home",
+    "Spore Color Change"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Avogadro's Law,Tail-burned Guqin,Book of Exodus,Yongle Encyclopedia,Mysterious Relic",
+        "rank": "orange",
+        "amount": "5",
+        "category": "home",
+        "description": "Catalyzed Blue Spores turn to Purple by +1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Avogadro_s_Law_Tail-burned_Guqin_Book_of_Exodus_Yongle_Encyclopedia_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Avogadro_s_Law_Tail-burned_Guqin_Book_of_Exodus_Yongle_Encyclopedia_Mysterious_Relic.md"
+}

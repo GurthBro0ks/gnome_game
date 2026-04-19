@@ -1,0 +1,67 @@
+{
+  "pageid": 320,
+  "ns": 0,
+  "title": "Pandora's Box",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pandora%27s_Box",
+  "touched": "2025-04-07T07:45:51Z",
+  "length": 2666,
+  "lastrevid": 30407,
+  "revision": {
+    "revid": 30407,
+    "parentid": 30079,
+    "timestamp": "2024-10-17T17:46:14Z",
+    "sha1": "d717e8d3a8272e19ec5588bc79062470f5833f93",
+    "size": 2666
+  },
+  "categories": [
+    "ATK Boost",
+    "DEF Boost",
+    "Demon Cell Drop Boost",
+    "Distinct Souls Boost",
+    "Exploration Cell Drop Boost",
+    "Exploration Reagent Drop Boost",
+    "FAME Relics",
+    "Medal Boost",
+    "Minorino Boost",
+    "Murika Exploration Boost",
+    "Murika Museum Boost",
+    "Offering Speed Boost",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "RUSH Boost",
+    "Relics",
+    "Tadpole Pond Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Pandora's Box",
+        "rank": "SS",
+        "affct": "FAME",
+        "birthday": "06-08",
+        "source": "Grandmaster Scrolls (1%), Lottery Machine (0.12%), Relic Forge (100 Relic RF), Soul Chest(1%), Wishing (0.11%)",
+        "description": "On Jun 8, 1600 BC, Pandora's Box was opened and brought a calamity to the world. On this day, Zeus gave Pandora a sealed treasure box studded with precious gems. Besides, the gods also gave Pandora an insatiable curiosity. Unable to restrain herself, she opened the box and unleashed disease, disaster, and war into the world, which forever disrupted the peace of humanity.\n\n[The most famous Pandora's Box in history]\n\nIn the 11th century, General Hong released 108 demons. In the 14th century, Mongo …",
+        "fame": "108",
+        "art": "66",
+        "fth": "61",
+        "civ": "71",
+        "tech": "56",
+        "ss1": "Snail ATK +30<br>Per 3 kinds of souls offered, Snail DEF +3<br>Per 3 kinds of souls offered, Snail RUSH +3<br>Distinct Souls Offered: 300/300",
+        "ss2": "Snail ATK +40<br>Per 3 kinds of souls offered, Snail DEF +4<br>Per 3 kinds of souls offered, Snail RUSH +4<br>Distinct Souls Offered: 300/300",
+        "ss3": "Snail ATK +50<br>Per 3 kinds of souls offered, Snail DEF +5<br>Per 3 kinds of souls offered, Snail RUSH +5<br>Distinct Souls Offered: 300/300",
+        "ss4": "Snail ATK +70<br>Per 3 kinds of souls offered, Snail DEF +7<br>Per 3 kinds of souls offered, Snail RUSH +7<br>Distinct Souls Offered: 300/300",
+        "ss5": "Snail ATK +90<br>Per 3 kinds of souls offered, Snail DEF +9<br>Per 3 kinds of souls offered, Snail RUSH +9<br>Distinct Souls Offered: 300/300",
+        "ss6": "Snail ATK +120<br>Per 3 kinds of souls offered, Snail DEF +12<br>Per 3 kinds of souls offered, Snail RUSH +12<br>Distinct Souls Offered: 300/300",
+        "ss7": "Snail ATK +120<br>Per 3 kinds of souls offered, Snail DEF +12<br>Per 3 kinds of souls offered, Snail RUSH +12<br>Distinct Souls Offered: 300/300<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Murika skill III.png|50px]]Place in Murikan Museum: Medal Output +30",
+        "skill2": "[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Blue Reagent Drops +15%",
+        "skill3": "[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Demon Cells gained +30%",
+        "mirage": "{{#invoke:snailDB|parseMirage|Pandora's Box}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pandora_s_Box.wiki",
+  "markdown_path": "markdown/Pandora_s_Box.md"
+}

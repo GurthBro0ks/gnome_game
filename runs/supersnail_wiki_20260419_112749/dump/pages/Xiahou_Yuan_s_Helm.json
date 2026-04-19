@@ -1,0 +1,47 @@
+{
+  "pageid": 11138,
+  "ns": 0,
+  "title": "Xiahou Yuan's Helm",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Xiahou_Yuan%27s_Helm",
+  "touched": "2025-08-11T11:13:55Z",
+  "length": 658,
+  "lastrevid": 39226,
+  "revision": {
+    "revid": 39226,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:13:55Z",
+    "sha1": "8de1bd49795be0ff2094b4411b528aeedb4c574b",
+    "size": 658
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Xiahou Yuan's Helm",
+        "class_id": "20766",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "Passed down after Xiahou D ascended to the Domain. Now worn by his little brother guarding the Cyclops Domain. Family tradition: getting stuck with big bro's old gear.",
+        "fame": "13",
+        "art": "16",
+        "fth": "31",
+        "civ": "17",
+        "tech": "13",
+        "ss1": "Per Organ implanted, Snail DEF +1<br>Organs Implanted: 40/40",
+        "ss2": "Per Organ implanted, Snail DEF +2<br>Organs Implanted: 40/40",
+        "ss3": "Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40",
+        "ss4": "Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40",
+        "ss7": "Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Xiahou_Yuan_s_Helm.wiki",
+  "markdown_path": "markdown/Xiahou_Yuan_s_Helm.md"
+}

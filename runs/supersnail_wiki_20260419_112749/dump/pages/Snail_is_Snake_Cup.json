@@ -1,0 +1,47 @@
+{
+  "pageid": 10955,
+  "ns": 0,
+  "title": "Snail is Snake Cup",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Snail_is_Snake_Cup",
+  "touched": "2025-08-11T11:07:08Z",
+  "length": 1143,
+  "lastrevid": 38936,
+  "revision": {
+    "revid": 38936,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:07:08Z",
+    "sha1": "54ab3cc8da051c2de26542ddff5f367dc70de542",
+    "size": 1143
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Snail is Snake Cup",
+        "class_id": "20978",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This idea comes from player Lu Hao, who demonstrated his outstanding linguistic talent during the Year of the Snake, proving the close relationship between snails and the snake cup, with bird players agreeing, saying it's true!",
+        "fame": "58",
+        "art": "8",
+        "fth": "8",
+        "civ": "8",
+        "tech": "8",
+        "ss1": "Per 7 Sign-Ins, Snail HP +10<br>Per 7 Sign-Ins, Snail ATK +1<br>Per 7 Sign-Ins, Snail DEF +1<br>Per 7 Sign-Ins, Snail RUSH +1<br>Sign-Ins: 364/364",
+        "ss2": "Per 7 Sign-Ins, Snail HP +20<br>Per 7 Sign-Ins, Snail ATK +2<br>Per 7 Sign-Ins, Snail DEF +2<br>Per 7 Sign-Ins, Snail RUSH +2<br>Sign-Ins: 364/364",
+        "ss3": "Per 7 Sign-Ins, Snail HP +30<br>Per 7 Sign-Ins, Snail ATK +3<br>Per 7 Sign-Ins, Snail DEF +3<br>Per 7 Sign-Ins, Snail RUSH +3<br>Sign-Ins: 364/364",
+        "ss4": "Per 7 Sign-Ins, Snail HP +30<br>Per 7 Sign-Ins, Snail ATK +3<br>Per 7 Sign-Ins, Snail DEF +3<br>Per 7 Sign-Ins, Snail RUSH +3<br>Sign-Ins: 364/364",
+        "ss7": "Per 7 Sign-Ins, Snail HP +30<br>Per 7 Sign-Ins, Snail ATK +3<br>Per 7 Sign-Ins, Snail DEF +3<br>Per 7 Sign-Ins, Snail RUSH +3<br>Sign-Ins: 364/364<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Snail_is_Snake_Cup.wiki",
+  "markdown_path": "markdown/Snail_is_Snake_Cup.md"
+}

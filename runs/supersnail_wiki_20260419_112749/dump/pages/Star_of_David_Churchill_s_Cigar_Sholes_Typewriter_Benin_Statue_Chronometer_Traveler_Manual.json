@@ -1,0 +1,33 @@
+{
+  "pageid": 11009,
+  "ns": 0,
+  "title": "Star of David+Churchill's Cigar+Sholes' Typewriter+Benin Statue+Chronometer+Traveler Manual",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Star_of_David%2BChurchill%27s_Cigar%2BSholes%27_Typewriter%2BBenin_Statue%2BChronometer%2BTraveler_Manual",
+  "touched": "2025-08-11T11:08:58Z",
+  "length": 220,
+  "lastrevid": 39013,
+  "revision": {
+    "revid": 39013,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:08:58Z",
+    "sha1": "0e67fec9915db83a7dd605546ff88d07cda716b4",
+    "size": 220
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "74",
+        "relics": "Star of David,Churchill's Cigar,Sholes' Typewriter,Benin Statue,Chronometer,Traveler Manual",
+        "rank": "blue",
+        "amount": "6",
+        "category": "self",
+        "description": "Time Machine Travel Speedup Output +18%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Star_of_David_Churchill_s_Cigar_Sholes_Typewriter_Benin_Statue_Chronometer_Traveler_Manual.wiki",
+  "markdown_path": "markdown/Star_of_David_Churchill_s_Cigar_Sholes_Typewriter_Benin_Statue_Chronometer_Traveler_Manual.md"
+}

@@ -1,0 +1,36 @@
+{
+  "pageid": 3977,
+  "ns": 0,
+  "title": "Terracotta Warrior+Caesar Statue+Impression, Sunrise+Portrait of Peter I+Along the River",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Terracotta_Warrior%2BCaesar_Statue%2BImpression,_Sunrise%2BPortrait_of_Peter_I%2BAlong_the_River",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 316,
+  "lastrevid": 18626,
+  "revision": {
+    "revid": 18626,
+    "parentid": 18321,
+    "timestamp": "2023-11-14T01:30:44Z",
+    "sha1": "acc27ff469c582e8bbf9b178ae1a1877922612aa",
+    "size": 316
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Relic Points",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Terracotta Warrior,Caesar Statue,Impression Sunrise,Portrait of Peter I,Along the River",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "Per 10k Relic Points, Snail ATK +5; Relic Points: 600,000/600,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Terracotta_Warrior_Caesar_Statue_Impression_Sunrise_Portrait_of_Peter_I_Along_the_River.wiki",
+  "markdown_path": "markdown/Terracotta_Warrior_Caesar_Statue_Impression_Sunrise_Portrait_of_Peter_I_Along_the_River.md"
+}

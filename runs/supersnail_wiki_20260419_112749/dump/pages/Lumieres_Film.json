@@ -1,0 +1,53 @@
+{
+  "pageid": 350,
+  "ns": 0,
+  "title": "Lumieres' Film",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lumieres%27_Film",
+  "touched": "2024-09-06T14:44:58Z",
+  "length": 1271,
+  "lastrevid": 16380,
+  "revision": {
+    "revid": 16380,
+    "parentid": 12910,
+    "timestamp": "2023-11-07T05:19:20Z",
+    "sha1": "ae408561d0bc0951ea509381881903cad6d4e3a1",
+    "size": 1271
+  },
+  "categories": [
+    "ART Relics",
+    "ATK Boost",
+    "Blue ART Relics",
+    "Blue Relics",
+    "DEF Boost",
+    "Gene Simulation Compass Boost",
+    "Reagent Crafting Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Lumieres' Film",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "01-02",
+        "source": "Lottery Machine (0.03%), Wishing (1.2%)",
+        "description": "On Jan 2, 1895, the world's first film was screened at the Grand Cafe in Paris.\n\n\"Workers Leaving The Lumiere Factory,\" this movie was filmed by the Lumiere brothers and it captures workers getting off work. This was the highest-quality movie filmed at the time. It was so realistic that a female viewer even left her seat after watching a carriage running towards the screen. Some viewers even opened their umbrellas upon watching the raining scene.",
+        "fame": "25",
+        "art": "46",
+        "fth": "31",
+        "civ": "24",
+        "tech": "28",
+        "ss1": "Per 5 Ads watched, Snail DEF +1<br>Ads Watched: 100/100",
+        "ss2": "Per 5 Ads watched, Snail DEF +2<br>Ads Watched: 100/100",
+        "ss3": "Per 5 Ads watched, Snail DEF +3<br>Ads Watched: 100/100",
+        "ss4": "Per 5 Ads watched, Snail DEF +5<br>Ads Watched: 100/100",
+        "ss7": "Per 5 Ads watched, Snail DEF +5<br>Ads Watched: 100/100<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Genesim skill I.png|50px]]Place in Gene Sim Device: This Relic's ART +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lumieres_Film.wiki",
+  "markdown_path": "markdown/Lumieres_Film.md"
+}

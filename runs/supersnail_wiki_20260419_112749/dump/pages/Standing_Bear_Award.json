@@ -1,0 +1,47 @@
+{
+  "pageid": 1952,
+  "ns": 0,
+  "title": "Standing Bear Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Standing_Bear_Award",
+  "touched": "2025-08-11T10:54:38Z",
+  "length": 739,
+  "lastrevid": 38389,
+  "revision": {
+    "revid": 38389,
+    "parentid": 25150,
+    "timestamp": "2025-08-11T10:54:38Z",
+    "sha1": "16d0c05ee138f0298626b31025e9a56410c12a9b",
+    "size": 739
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Standing Bear Award",
+        "class_id": "20070",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The highest award of the Burlin International Film Festival. The trophy is a statue of a bear with its arms raised to greet people. The main awards include Best Feature Film, Best Documentary, Best Science and Education Film, and Best Art Film.",
+        "fame": "13",
+        "art": "18",
+        "fth": "14",
+        "civ": "28",
+        "tech": "17",
+        "ss1": "Per 100 Avatar Score, Snail HP +10<br>Avatar Score: 5000/5000",
+        "ss2": "Per 100 Avatar Score, Snail HP +20<br>Avatar Score: 5000/5000",
+        "ss3": "Per 100 Avatar Score, Snail HP +30<br>Avatar Score: 5000/5000",
+        "ss4": "Per 100 Avatar Score, Snail HP +30<br>Avatar Score: 5000/5000",
+        "ss7": "Per 100 Avatar Score, Snail HP +30<br>Avatar Score: 5000/5000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Standing_Bear_Award.wiki",
+  "markdown_path": "markdown/Standing_Bear_Award.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 47,
+  "ns": 0,
+  "title": "Agent Permit S-II",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Agent_Permit_S-II",
+  "touched": "2025-08-11T10:50:10Z",
+  "length": 816,
+  "lastrevid": 38198,
+  "revision": {
+    "revid": 38198,
+    "parentid": 11783,
+    "timestamp": "2025-08-11T10:50:10Z",
+    "sha1": "9f2111b9d12e310a6d8e27983b63fc2b0f7ce2e9",
+    "size": 816
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Agent Permit S-II",
+        "class_id": "20206",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The holder of the card is a super agent of the Bureau of Investigation and has law enforcement powers in accordance with federal statutes. Please cooperate with their inquiries and searches, otherwise the agent has the right to use force! —Bureau of Investigation (Stamp)",
+        "fame": "10",
+        "art": "15",
+        "fth": "18",
+        "civ": "17",
+        "tech": "30",
+        "ss1": "Per Super Agent defeated, Snail ATK +5<br>Super Agents Defeated: 20/20",
+        "ss2": "Per Super Agent defeated, Snail ATK +10<br>Super Agents Defeated: 20/20",
+        "ss3": "Per Super Agent defeated, Snail ATK +15<br>Super Agents Defeated: 20/20",
+        "ss4": "Per Super Agent defeated, Snail ATK +15<br>Super Agents Defeated: 20/20",
+        "ss7": "Per Super Agent defeated, Snail ATK +15<br>Super Agents Defeated: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Agent_Permit_S-II.wiki",
+  "markdown_path": "markdown/Agent_Permit_S-II.md"
+}

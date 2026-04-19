@@ -1,0 +1,47 @@
+{
+  "pageid": 7734,
+  "ns": 0,
+  "title": "Coral Fossil",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Coral_Fossil",
+  "touched": "2025-08-11T11:19:30Z",
+  "length": 810,
+  "lastrevid": 39468,
+  "revision": {
+    "revid": 39468,
+    "parentid": 32514,
+    "timestamp": "2025-08-11T11:19:30Z",
+    "sha1": "e205b846babfb462277a93dbb4742a2a4f6c0816",
+    "size": 810
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Coral Fossil",
+        "class_id": "20495",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The coral is a marine multicellular invertebrate that could secrete calcium carbonate and form a hard skeleton in its body. With a tough body, it was often mistaken for a rock. As its body comprises many small individual corals, the surface of the stone-like outer shell was filled with holes of different sizes. Those with trypophobia, you've been warned.",
+        "fame": "29",
+        "art": "17",
+        "fth": "16",
+        "civ": "14",
+        "tech": "14",
+        "ss1": "Snail ATK +40<br>Quarry produces Ancient Fossil by +1%",
+        "ss2": "Snail ATK +60<br>Quarry produces Ancient Fossil by +2%",
+        "ss3": "Snail ATK +80<br>Quarry produces Ancient Fossil by +3%",
+        "ss4": "Snail ATK +80<br>Quarry produces Ancient Fossil by +3%",
+        "ss7": "Snail ATK +80<br>Quarry produces Ancient Fossil by +3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Coral_Fossil.wiki",
+  "markdown_path": "markdown/Coral_Fossil.md"
+}

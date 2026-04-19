@@ -1,0 +1,56 @@
+{
+  "pageid": 1999,
+  "ns": 0,
+  "title": "Pumpkin Coach",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pumpkin_Coach",
+  "touched": "2024-09-06T14:44:58Z",
+  "length": 1415,
+  "lastrevid": 26084,
+  "revision": {
+    "revid": 26084,
+    "parentid": 22408,
+    "timestamp": "2024-05-01T08:43:28Z",
+    "sha1": "86e67ddddf9aeaa177fad314909bb3d7ff28ee19",
+    "size": 1415
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "CIV-Fungi Boost",
+    "DEF Boost",
+    "Gene Simulation Compass Boost",
+    "Lottery Bead Color Change",
+    "Mutant Gene Speedup Boost",
+    "Nanosaur Boost",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Pumpkin Coach",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "08-28",
+        "source": "Lottery Machine (0.07%), Novice Scrolls (1%), Wishing (2.1%)",
+        "description": "On Aug 28, AD 651, Cinderella took this carriage and attended the ball. Cinderella was invited to the prince's ball, but was hindered by her stepmother and two step-sisters. The fairy godmother cast magic on Cinderella so that no one could recognize her, and turned a pumpkin into a carriage as her transportation to the ball. This gave the helpless Cinderella a chance to attend the ball. On the next day, the dumb prince finally found her through the glass slipper. Since then, they have lived happ …",
+        "fame": "33",
+        "art": "30",
+        "fth": "27",
+        "civ": "44",
+        "tech": "20",
+        "ss1": "Per 10 CIV-Fungi eaten, Snail RUSH +1<br>CIV-Fungi Eaten: 500/500",
+        "ss2": "Per 10 CIV-Fungi eaten, Snail RUSH +2<br>CIV-Fungi Eaten: 500/500",
+        "ss3": "Per 10 CIV-Fungi eaten, Snail RUSH +3<br>CIV-Fungi Eaten: 500/500",
+        "ss4": "Per 10 CIV-Fungi eaten, Snail RUSH +5<br>CIV-Fungi Eaten: 500/500",
+        "ss7": "Per 10 CIV-Fungi eaten, Snail RUSH +5<br>CIV-Fungi Eaten: 500/500<br>Snail RUSH +50 (Awakened)",
+        "skill1": "[[File:Genesim skill I.png|50px]]Place in Gene Sim Device: Snail DEF +10 each round"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pumpkin_Coach.wiki",
+  "markdown_path": "markdown/Pumpkin_Coach.md"
+}

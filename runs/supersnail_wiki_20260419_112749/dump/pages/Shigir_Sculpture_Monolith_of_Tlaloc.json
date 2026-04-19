@@ -1,0 +1,33 @@
+{
+  "pageid": 8509,
+  "ns": 0,
+  "title": "Shigir Sculpture+Monolith of Tlaloc",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Shigir_Sculpture%2BMonolith_of_Tlaloc",
+  "touched": "2025-06-20T00:13:59Z",
+  "length": 147,
+  "lastrevid": 36009,
+  "revision": {
+    "revid": 36009,
+    "parentid": 34393,
+    "timestamp": "2025-06-20T00:13:59Z",
+    "sha1": "a15e6af4e615295ad611115f116a994d08a08d4f",
+    "size": 147
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "669",
+        "relics": "Shigir Sculpture,Monolith of Tlaloc",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail Leadership +4"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Shigir_Sculpture_Monolith_of_Tlaloc.wiki",
+  "markdown_path": "markdown/Shigir_Sculpture_Monolith_of_Tlaloc.md"
+}

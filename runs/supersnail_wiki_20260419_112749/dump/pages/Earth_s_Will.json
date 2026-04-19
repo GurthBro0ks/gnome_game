@@ -1,0 +1,47 @@
+{
+  "pageid": 10746,
+  "ns": 0,
+  "title": "Earth's Will",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Earth%27s_Will",
+  "touched": "2025-08-11T11:00:23Z",
+  "length": 932,
+  "lastrevid": 38638,
+  "revision": {
+    "revid": 38638,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:00:23Z",
+    "sha1": "ed8b3df470575bab69d63f3c2677c3e141266f91",
+    "size": 932
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Earth's Will",
+        "class_id": "20261",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "Legend has it, to kill time, Earth's Will made this sculpture taking their own image for reference. To make the image look more original, they also spent a few minutes of precious time on research. Afterward, out of the principle of making the best use of everything, they sent people to carefully package these statues as special gifts for some lucky ones!",
+        "fame": "14",
+        "art": "13",
+        "fth": "32",
+        "civ": "13",
+        "tech": "18",
+        "ss1": "Per 5 Earth's Will descents, Snail ATK +1<br>Earth's Will Descended: 1500/1500",
+        "ss2": "Per 5 Earth's Will descents, Snail ATK +2<br>Earth's Will Descended: 1500/1500",
+        "ss3": "Per 5 Earth's Will descents, Snail ATK +3<br>Earth's Will Descended: 1500/1500",
+        "ss4": "Per 5 Earth's Will descents, Snail ATK +3<br>Earth's Will Descended: 1500/1500",
+        "ss7": "Per 5 Earth's Will descents, Snail ATK +3<br>Earth's Will Descended: 1500/1500<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Earth_s_Will.wiki",
+  "markdown_path": "markdown/Earth_s_Will.md"
+}

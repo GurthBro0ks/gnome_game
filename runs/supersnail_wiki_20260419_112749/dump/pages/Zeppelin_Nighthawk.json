@@ -1,0 +1,35 @@
+{
+  "pageid": 8359,
+  "ns": 0,
+  "title": "Zeppelin+Nighthawk",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Zeppelin%2BNighthawk",
+  "touched": "2025-06-16T20:58:47Z",
+  "length": 220,
+  "lastrevid": 34171,
+  "revision": {
+    "revid": 34171,
+    "parentid": 0,
+    "timestamp": "2025-04-22T03:59:44Z",
+    "sha1": "e49c9043362060aaff01c8b9d967a080e04fe140",
+    "size": 220
+  },
+  "categories": [
+    "ATK Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Zeppelin,Nighthawk",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 advanced fusions, Snail ATK +7; Advanced Fusions: 500/500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Zeppelin_Nighthawk.wiki",
+  "markdown_path": "markdown/Zeppelin_Nighthawk.md"
+}

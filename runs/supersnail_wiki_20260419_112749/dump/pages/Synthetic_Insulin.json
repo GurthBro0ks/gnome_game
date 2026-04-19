@@ -1,0 +1,48 @@
+{
+  "pageid": 1596,
+  "ns": 0,
+  "title": "Synthetic Insulin",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Synthetic_Insulin",
+  "touched": "2025-11-07T23:01:00Z",
+  "length": 819,
+  "lastrevid": 41737,
+  "revision": {
+    "revid": 41737,
+    "parentid": 37843,
+    "timestamp": "2025-11-07T23:01:00Z",
+    "sha1": "a046e7a294cc585fe122a016204b14ab89bd83d8",
+    "size": 819
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Synthetic Insulin",
+        "class_id": "20343",
+        "rank": "Green",
+        "affct": "TECH",
+        "source": "Unlock the 5th [[Nursery#Cloning_Tank|Cloning Tank]]",
+        "description": "The amino acid sequence of the protein hormone produced by genetic recombination is the closest to the insulin in the snail, which can effectively improve its metabolism of fat and has a very significant impact on the conversion of glucose in the blood!",
+        "fame": "16",
+        "art": "13",
+        "fth": "16",
+        "civ": "15",
+        "tech": "30",
+        "ss1": "Per 5 Cloning Tank LVLs, Snail RUSH +1<br>Cloning Tank LVL: 50/50",
+        "ss2": "Per 5 Cloning Tank LVLs, Snail RUSH +2<br>Cloning Tank LVL: 50/50",
+        "ss3": "Per 5 Cloning Tank LVLs, Snail RUSH +3<br>Cloning Tank LVL: 50/50",
+        "ss4": "Per 5 Cloning Tank LVLs, Snail RUSH +3<br>Cloning Tank LVL: 50/50",
+        "ss7": "Per 5 Cloning Tank LVLs, Snail RUSH +3<br>Cloning Tank LVL: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Synthetic_Insulin.wiki",
+  "markdown_path": "markdown/Synthetic_Insulin.md"
+}

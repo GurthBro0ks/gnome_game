@@ -1,0 +1,33 @@
+{
+  "pageid": 9791,
+  "ns": 0,
+  "title": "Wuthering Heights+Alexander's Sarcophagus",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wuthering_Heights%2BAlexander%27s_Sarcophagus",
+  "touched": "2025-07-02T09:49:26Z",
+  "length": 147,
+  "lastrevid": 37074,
+  "revision": {
+    "revid": 37074,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:43:07Z",
+    "sha1": "4a76902b38519bd19b2188f5dc258f51270bcbce",
+    "size": 147
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "867",
+        "relics": "Wuthering Heights,Alexander's Sarcophagus",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wuthering_Heights_Alexander_s_Sarcophagus.wiki",
+  "markdown_path": "markdown/Wuthering_Heights_Alexander_s_Sarcophagus.md"
+}

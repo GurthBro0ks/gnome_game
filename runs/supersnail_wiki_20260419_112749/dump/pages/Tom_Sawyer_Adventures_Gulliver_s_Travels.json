@@ -1,0 +1,33 @@
+{
+  "pageid": 4720,
+  "ns": 0,
+  "title": "Tom Sawyer Adventures+Gulliver's Travels",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tom_Sawyer_Adventures%2BGulliver%27s_Travels",
+  "touched": "2025-06-20T00:07:57Z",
+  "length": 144,
+  "lastrevid": 35912,
+  "revision": {
+    "revid": 35912,
+    "parentid": 18632,
+    "timestamp": "2025-06-20T00:07:57Z",
+    "sha1": "fc4bf28424102db4663da0e43cf5125a3235a77c",
+    "size": 144
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "331",
+        "relics": "Tom Sawyer Adventures,Gulliver's Travels",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tom_Sawyer_Adventures_Gulliver_s_Travels.wiki",
+  "markdown_path": "markdown/Tom_Sawyer_Adventures_Gulliver_s_Travels.md"
+}

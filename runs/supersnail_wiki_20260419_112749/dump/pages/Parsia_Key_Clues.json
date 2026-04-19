@@ -1,0 +1,64 @@
+{
+  "pageid": 11403,
+  "ns": 0,
+  "title": "Parsia Key Clues",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Parsia_Key_Clues",
+  "touched": "2025-10-20T03:50:11Z",
+  "length": 15246,
+  "lastrevid": 39926,
+  "revision": {
+    "revid": 39926,
+    "parentid": 39759,
+    "timestamp": "2025-09-21T22:25:16Z",
+    "sha1": "28b36cf2668081d06e10cc84e581c8bfb93de53d",
+    "size": 15246
+  },
+  "categories": [
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "green",
+        "2": "realm",
+        "3": "Bishkabz"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "blue",
+        "2": "realm",
+        "3": "Shamshir"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "purple",
+        "2": "realm",
+        "3": "Gold-Chased Urumi"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "orange",
+        "2": "realm",
+        "3": "Arrow of Arash"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "red",
+        "2": "realm",
+        "3": "Mithraic Bow & Spear"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Parsia_Key_Clues.wiki",
+  "markdown_path": "markdown/Parsia_Key_Clues.md"
+}

@@ -1,0 +1,59 @@
+{
+  "pageid": 1738,
+  "ns": 0,
+  "title": "Deity Quetzalcoatl",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Deity_Quetzalcoatl",
+  "touched": "2025-04-13T22:44:25Z",
+  "length": 1882,
+  "lastrevid": 33975,
+  "revision": {
+    "revid": 33975,
+    "parentid": 17686,
+    "timestamp": "2025-04-13T22:44:25Z",
+    "sha1": "179c73897d431a82c81bfb777a5c488f3fc89755",
+    "size": 1882
+  },
+  "categories": [
+    "Bharata Exploration Boost",
+    "Bharata Museum Boost",
+    "Dragon Minion Cloning Speed Boost",
+    "Dragon Minion RUSH Boost",
+    "Exploration B-tad Drop Boost",
+    "Exploration Reagent Drop Boost",
+    "FTH Relics",
+    "Purple FTH Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relics",
+    "Roachikun Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Deity Quetzalcoatl",
+        "rank": "AAA",
+        "affct": "FTH",
+        "birthday": "02-22",
+        "source": "Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)",
+        "description": "On Feb 22, AD 1237, the Maya held a sacrifice ceremony for the feathered snake. \n\nDeity Quetzalcoaltl, also known as Kukulkan, was the Maya God of weather, harvest, and life. The priest was praying in the pyramid as usual, with wheat, meat, and blood of the enemy on the altar. Just as the prayer was about to end, the winged feathered snake entered the pyramid from the top, and took away all the offerings. Then the king was more certain that it could bless the people.",
+        "fame": "34",
+        "art": "38",
+        "fth": "72",
+        "civ": "49",
+        "tech": "50",
+        "ss1": "Dragon Minion Cloning SPD +3%<br>Per 30 Dragon Minions in battle, Troop RUSH +4",
+        "ss2": "Dragon Minion Cloning SPD +4%<br>Per 30 Dragon Minions in battle, Troop RUSH +8",
+        "ss3": "Dragon Minion Cloning SPD +5%<br>Per 30 Dragon Minions in battle, Troop RUSH +12",
+        "ss4": "Dragon Minion Cloning SPD +7%<br>Per 30 Dragon Minions in battle, Troop RUSH +20",
+        "ss5": "Dragon Minion Cloning SPD +9%<br>Per 30 Dragon Minions in battle, Troop RUSH +28",
+        "ss7": "Dragon Minion Cloning SPD +9%<br>Per 30 Dragon Minions in battle, Troop RUSH +28<br>Dragon Minion Cloning SPD +7% (Awakened)",
+        "skill1": "[[File:Bharata skill II.png|50px]] Place in Bharata Museum: In Bharata, 2x Blue Reagent Drops +7.5%",
+        "skill2": "[[File:Bharata skill II.png|50px]] Place in Bharata Museum: In Bharata, 2x Purple Reagent Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Deity_Quetzalcoatl.wiki",
+  "markdown_path": "markdown/Deity_Quetzalcoatl.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4910,
+  "ns": 0,
+  "title": "Bird on a Rock+La Peregrina",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bird_on_a_Rock%2BLa_Peregrina",
+  "touched": "2025-06-19T23:59:04Z",
+  "length": 140,
+  "lastrevid": 35717,
+  "revision": {
+    "revid": 35717,
+    "parentid": 18385,
+    "timestamp": "2025-06-19T23:59:04Z",
+    "sha1": "3a348a6a58c9e8034437bb934b3d39e409ad8491",
+    "size": 140
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "386",
+        "relics": "Bird on a Rock,La Peregrina",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Mutant Minion HP +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bird_on_a_Rock_La_Peregrina.wiki",
+  "markdown_path": "markdown/Bird_on_a_Rock_La_Peregrina.md"
+}

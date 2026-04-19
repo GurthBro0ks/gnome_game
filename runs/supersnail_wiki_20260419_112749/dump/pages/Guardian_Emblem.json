@@ -1,0 +1,47 @@
+{
+  "pageid": 3463,
+  "ns": 0,
+  "title": "Guardian Emblem",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Guardian_Emblem",
+  "touched": "2025-08-11T11:17:11Z",
+  "length": 805,
+  "lastrevid": 39367,
+  "revision": {
+    "revid": 39367,
+    "parentid": 22527,
+    "timestamp": "2025-08-11T11:17:11Z",
+    "sha1": "d7ceef828a314d53a0727f219b6ac81bc1689a10",
+    "size": 805
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Guardian Emblem",
+        "class_id": "20234",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "With the superior firepower of the three pyramids, the snail finally crushed the Demon God after a tough battle. Tens of thousands of minions in Kemet were swept away. To recognize the snail's contribution, Earth's Will presented this emblem and gave the snail the title of the Guardian.",
+        "fame": "18",
+        "art": "12",
+        "fth": "31",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Per Ma'at Tablet LVL, Snail DEF +1<br>Ma'at Tablet Upgraded: 30/30",
+        "ss2": "Per Ma'at Tablet LVL, Snail DEF +2<br>Ma'at Tablet Upgraded: 30/30",
+        "ss3": "Per Ma'at Tablet LVL, Snail DEF +3<br>Ma'at Tablet Upgraded: 30/30",
+        "ss4": "Per Ma'at Tablet LVL, Snail DEF +3<br>Ma'at Tablet Upgraded: 30/30",
+        "ss7": "Per Ma'at Tablet LVL, Snail DEF +3<br>Ma'at Tablet Upgraded: 30/30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Guardian_Emblem.wiki",
+  "markdown_path": "markdown/Guardian_Emblem.md"
+}

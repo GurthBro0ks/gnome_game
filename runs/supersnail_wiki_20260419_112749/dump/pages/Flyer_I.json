@@ -1,0 +1,56 @@
+{
+  "pageid": 1089,
+  "ns": 0,
+  "title": "Flyer I",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Flyer_I",
+  "touched": "2024-09-06T09:56:26Z",
+  "length": 1562,
+  "lastrevid": 22448,
+  "revision": {
+    "revid": 22448,
+    "parentid": 22326,
+    "timestamp": "2024-02-21T03:15:33Z",
+    "sha1": "65171e4ba44d333fc65e38dda985ad56269ddc14",
+    "size": 1562
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "DEF Boost",
+    "Enhanced by Lottery Draws",
+    "Murika Exploration Boost",
+    "Murika Museum Boost",
+    "RUSH Boost",
+    "Relics",
+    "Snail Mech Boost",
+    "TECH Relics",
+    "Travel Speed Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Flyer I",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "09-11",
+        "source": "Lottery Machine (0.03%), Wishing (1.1%)",
+        "description": "On Sep 11, 1903, the world's first aircraft had a successful test flight.\n\nWright brothers realized mankind's dream of flying. They built a rudimentary two-winged aircraft for a test flight in North Carolina. In the first test, Flyer 1 only stayed in the sky for 12 seconds, and it traveled only about 30 m. But it proved that the idea of powered aircraft can work. In the following years, people quickly made progress in this area and transformed the way of transportation.\n\n[Wright Test data]\n\n1st  …",
+        "fame": "27",
+        "art": "30",
+        "fth": "27",
+        "civ": "22",
+        "tech": "48",
+        "ss1": "Per 5 Rocket Tech LVLs, Snail RUSH +4<br>Rocket Tech Upgraded: 50/50",
+        "ss2": "Per 5 Rocket Tech LVLs, Snail RUSH +8<br>Rocket Tech Upgraded: 50/50",
+        "ss3": "Per 5 Rocket Tech LVLs, Snail RUSH +12<br>Rocket Tech Upgraded: 50/50",
+        "ss4": "Per 5 Rocket Tech LVLs, Snail RUSH +20<br>Rocket Tech Upgraded: 50/50",
+        "ss7": "Per 5 Rocket Tech LVLs, Snail RUSH +20<br>Rocket Tech Upgraded: 50/50<br>Snail RUSH +50 (Awakened)",
+        "skill1": "[[File:Murika skill I.png|50px]]Place in Murikan Museum: In Murika, TECH Checks -5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Flyer_I.wiki",
+  "markdown_path": "markdown/Flyer_I.md"
+}

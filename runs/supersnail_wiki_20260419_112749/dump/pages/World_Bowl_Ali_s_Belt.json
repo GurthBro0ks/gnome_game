@@ -1,0 +1,34 @@
+{
+  "pageid": 3655,
+  "ns": 0,
+  "title": "World Bowl+Ali's Belt",
+  "fullurl": "https://supersnail.wiki.gg/wiki/World_Bowl%2BAli%27s_Belt",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 185,
+  "lastrevid": 13254,
+  "revision": {
+    "revid": 13254,
+    "parentid": 0,
+    "timestamp": "2023-09-23T16:02:44Z",
+    "sha1": "f086862ddbe53893e340cd58f1cf382f2f0d4f92",
+    "size": 185
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "World Bowl,Ali's Belt",
+        "rank": "purple",
+        "amount": "2",
+        "category": "other",
+        "description": "Purple Bead draws give +1 Lucky Voucher by +30%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/World_Bowl_Ali_s_Belt.wiki",
+  "markdown_path": "markdown/World_Bowl_Ali_s_Belt.md"
+}

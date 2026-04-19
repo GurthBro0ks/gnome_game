@@ -1,0 +1,34 @@
+{
+  "pageid": 4368,
+  "ns": 0,
+  "title": "Susan's Horn+Neptune the Sea God+Innocent III Armorial",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Susan%27s_Horn%2BNeptune_the_Sea_God%2BInnocent_III_Armorial",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 229,
+  "lastrevid": 16070,
+  "revision": {
+    "revid": 16070,
+    "parentid": 0,
+    "timestamp": "2023-11-06T03:21:58Z",
+    "sha1": "70e2269442143d30b5d77ded77433e4f177d1e32",
+    "size": 229
+  },
+  "categories": [
+    "Resource Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Susan's Horn,Neptune the Sea God,Innocent III Armorial",
+        "rank": "blue",
+        "amount": "3",
+        "category": "Resource Boost",
+        "description": "Novice Scrolls drop +1 Blue Reagent by +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Susan_s_Horn_Neptune_the_Sea_God_Innocent_III_Armorial.wiki",
+  "markdown_path": "markdown/Susan_s_Horn_Neptune_the_Sea_God_Innocent_III_Armorial.md"
+}

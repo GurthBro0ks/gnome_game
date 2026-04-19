@@ -1,0 +1,63 @@
+{
+  "pageid": 957,
+  "ns": 0,
+  "title": "Chinchorro Mummy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Chinchorro_Mummy",
+  "touched": "2024-09-06T09:58:50Z",
+  "length": 2020,
+  "lastrevid": 22258,
+  "revision": {
+    "revid": 22258,
+    "parentid": 21791,
+    "timestamp": "2024-02-17T15:34:10Z",
+    "sha1": "349925ce4d581fda2cc22131a2763e9e642a34f2",
+    "size": 2020
+  },
+  "categories": [
+    "ATK Boost",
+    "DEF Boost",
+    "DNA Boost",
+    "Enhanced by DNA Strength",
+    "FTH Boost",
+    "FTH Relics",
+    "Kemet Exploration Boost",
+    "Kemet Museum Boost",
+    "Mummy Boost",
+    "Mutant Gene Speedup Boost",
+    "Purple FTH Relics",
+    "Purple Relics",
+    "Relics",
+    "Wraith Boost",
+    "Zombie Minion Cloning Speed Boost",
+    "Zombie Minion DEF Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Chinchorro Mummy",
+        "rank": "AA",
+        "affct": "FTH",
+        "birthday": "04-12",
+        "source": "[[Koryeon Domain]], Fragment Crafting (3.8%), Lottery Machine (0.08%), Wishing (0.36%), Soul Chest (1.5%), Expert Scrolls (0.95%)",
+        "description": "On Apr 12, 5050 BC, the New Crow people made the first Mummy, more than 1,000 years earlier than ancient Egyptian did.\n\nNew Crow people would usually begin making mummies right after worshiping the dead. Unlike the Egyptians who only make mummies for the nobles, the New Crow people made mummies for their family members. The mummies they made have retained some of the characteristics of the deceased to show their respect. They believe that if bodies buried in the Atacama Desert have not disappear …",
+        "fame": "33",
+        "art": "37",
+        "fth": "69",
+        "civ": "47",
+        "tech": "42",
+        "ss1": "Zombie Minion Cloning SPD +2%<br>Per 30 Zombie Minions in battle, Troop DEF +4",
+        "ss2": "Zombie Minion Cloning SPD +3%<br>Per 30 Zombie Minions in battle, Troop DEF +8",
+        "ss3": "Zombie Minion Cloning SPD +4%<br>Per 30 Zombie Minions in battle, Troop DEF +12",
+        "ss4": "Zombie Minion Cloning SPD +6%<br>Per 30 Zombie Minions in battle, Troop DEF +20",
+        "ss5": "Zombie Minion Cloning SPD +8%<br>Per 30 Zombie Minions in battle, Troop DEF +28",
+        "ss7": "Zombie Minion Cloning SPD +8%<br>Per 30 Zombie Minions in battle, Troop DEF +28<br>Zombie Minion Cloning SPD +7% (Awakened)",
+        "skill1": "[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: This Relic's FTH +10",
+        "skill2": "[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: In Kemetic, Snail DEF +30"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Chinchorro_Mummy.wiki",
+  "markdown_path": "markdown/Chinchorro_Mummy.md"
+}

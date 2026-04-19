@@ -1,0 +1,47 @@
+{
+  "pageid": 7472,
+  "ns": 0,
+  "title": "Dark Lord's Diary",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dark_Lord%27s_Diary",
+  "touched": "2025-08-11T10:48:32Z",
+  "length": 758,
+  "lastrevid": 38123,
+  "revision": {
+    "revid": 38123,
+    "parentid": 31212,
+    "timestamp": "2025-08-11T10:48:32Z",
+    "sha1": "7a119a01278e7697bfa38ada0bbc2e59b6b9ceff",
+    "size": 758
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dark Lord's Diary",
+        "class_id": "20100",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "As the Dark Lord believes that he will rule the world one day, keeping a diary has become an unbreakable ritual. As he penned down all his thoughts honestly and injected his spirit into the diary, those who have a weak mind may turn into a believer upon reading it!",
+        "fame": "13",
+        "art": "14",
+        "fth": "14",
+        "civ": "33",
+        "tech": "16",
+        "ss1": "Against King of Light, Deal +1000% DMG<br>Snail Leadership +1",
+        "ss2": "Against King of Light, Deal +1000% DMG<br>Snail Leadership +2",
+        "ss3": "Against King of Light, Deal +1000% DMG<br>Snail Leadership +3",
+        "ss4": "Against King of Light, Deal +1000% DMG<br>Snail Leadership +3",
+        "ss7": "Against King of Light, Deal +1000% DMG<br>Snail Leadership +3<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dark_Lord_s_Diary.wiki",
+  "markdown_path": "markdown/Dark_Lord_s_Diary.md"
+}

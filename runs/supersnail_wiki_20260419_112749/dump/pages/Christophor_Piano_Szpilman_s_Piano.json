@@ -1,0 +1,33 @@
+{
+  "pageid": 9294,
+  "ns": 0,
+  "title": "Christophor Piano+Szpilman's Piano",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Christophor_Piano%2BSzpilman%27s_Piano",
+  "touched": "2025-06-20T00:19:34Z",
+  "length": 174,
+  "lastrevid": 36181,
+  "revision": {
+    "revid": 36181,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:19:34Z",
+    "sha1": "6f1baf8ae071ea47bc642cf039824f7b7d88c6b3",
+    "size": 174
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "579",
+        "relics": "Christophor Piano,Szpilman's Piano",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Godhood LVL, Snail HP +300;Godhood LVL: 10/10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Christophor_Piano_Szpilman_s_Piano.wiki",
+  "markdown_path": "markdown/Christophor_Piano_Szpilman_s_Piano.md"
+}

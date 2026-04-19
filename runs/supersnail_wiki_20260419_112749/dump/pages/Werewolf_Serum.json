@@ -1,0 +1,47 @@
+{
+  "pageid": 5780,
+  "ns": 0,
+  "title": "Werewolf Serum",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Werewolf_Serum",
+  "touched": "2025-08-11T10:40:08Z",
+  "length": 738,
+  "lastrevid": 37761,
+  "revision": {
+    "revid": 37761,
+    "parentid": 22115,
+    "timestamp": "2025-08-11T10:40:08Z",
+    "sha1": "2d5dcbcbff0530cdbf398f56c59e7b5ca636e040",
+    "size": 738
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Werewolf Serum",
+        "class_id": "20834",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Extracted serum from a werewolf-infected patient, laden with potent lycanthropy toxin, it is said that a single drop can infect dozens of healthy adults!",
+        "fame": "15",
+        "art": "14",
+        "fth": "17",
+        "civ": "13",
+        "tech": "31",
+        "ss1": "Snail HP +100<br>Per 5k DNA Strength, Snail ATK +5<br>DNA Strength: 50000/50000",
+        "ss2": "Snail HP +200<br>Per 5k DNA Strength, Snail ATK +10<br>DNA Strength: 50000/50000",
+        "ss3": "Snail HP +300<br>Per 5k DNA Strength, Snail ATK +15<br>DNA Strength: 50000/50000",
+        "ss4": "Snail HP +300<br>Per 5k DNA Strength, Snail ATK +15<br>DNA Strength: 50000/50000",
+        "ss7": "Snail HP +300<br>Per 5k DNA Strength, Snail ATK +15<br>DNA Strength: 50000/50000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Werewolf_Serum.wiki",
+  "markdown_path": "markdown/Werewolf_Serum.md"
+}

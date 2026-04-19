@@ -1,0 +1,33 @@
+{
+  "pageid": 8933,
+  "ns": 0,
+  "title": "Hagakure+Ambika Statue+Popol Vuh+Moon Plum Teapot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hagakure%2BAmbika_Statue%2BPopol_Vuh%2BMoon_Plum_Teapot",
+  "touched": "2025-06-16T23:15:24Z",
+  "length": 164,
+  "lastrevid": 35074,
+  "revision": {
+    "revid": 35074,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:15:24Z",
+    "sha1": "de38bf803684827a3bd5881accee7285eb744659",
+    "size": 164
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "436",
+        "relics": "Hagakure,Ambika Statue,Popol Vuh,Moon Plum Teapot",
+        "rank": "purple",
+        "amount": "4",
+        "category": "self",
+        "description": "Dragon Minion RUSH +8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hagakure_Ambika_Statue_Popol_Vuh_Moon_Plum_Teapot.wiki",
+  "markdown_path": "markdown/Hagakure_Ambika_Statue_Popol_Vuh_Moon_Plum_Teapot.md"
+}

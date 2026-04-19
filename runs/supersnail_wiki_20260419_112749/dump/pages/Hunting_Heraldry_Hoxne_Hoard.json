@@ -1,0 +1,33 @@
+{
+  "pageid": 4976,
+  "ns": 0,
+  "title": "Hunting Heraldry+Hoxne Hoard",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hunting_Heraldry%2BHoxne_Hoard",
+  "touched": "2025-06-20T00:04:31Z",
+  "length": 194,
+  "lastrevid": 35844,
+  "revision": {
+    "revid": 35844,
+    "parentid": 18531,
+    "timestamp": "2025-06-20T00:04:31Z",
+    "sha1": "d4e929908b47daf622844d8438ceb619c1ad3994",
+    "size": 194
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "412",
+        "relics": "Hunting Heraldry,Hoxne Hoard",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 20 Expert Scrolls used, Snail DEF +6;Expert Scrolls opened: 1000/1000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hunting_Heraldry_Hoxne_Hoard.wiki",
+  "markdown_path": "markdown/Hunting_Heraldry_Hoxne_Hoard.md"
+}

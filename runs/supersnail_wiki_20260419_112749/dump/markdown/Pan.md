@@ -1,0 +1,15 @@
+|image=.png
+|description=Biochemical plant doctor David uses it to defend himself. After his thorough enhancement, it can protect him from a variety of experiments.
+|affct=FAME
+|hard=ATK
+|source=Maneater Value Pack
+|color=green
+|earth=1
+|water=2
+|fire=0
+|wind=3
+|form=Zombie
+|element=Water
+|realm=Murika
+|orangehard=ATK
+}}

@@ -1,0 +1,34 @@
+{
+  "pageid": 3774,
+  "ns": 0,
+  "title": "Golden Scarab+Shroud of Turin",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Scarab%2BShroud_of_Turin",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 179,
+  "lastrevid": 13672,
+  "revision": {
+    "revid": 13672,
+    "parentid": 0,
+    "timestamp": "2023-10-02T08:56:19Z",
+    "sha1": "8d7b2199f997b8aa5c8ae0d353e2df5f39d77f03",
+    "size": 179
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Golden Scarab,Shroud of Turin",
+        "rank": "orange",
+        "amount": "2",
+        "category": "other",
+        "description": "B-tad rewards from offering +2.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Scarab_Shroud_of_Turin.wiki",
+  "markdown_path": "markdown/Golden_Scarab_Shroud_of_Turin.md"
+}

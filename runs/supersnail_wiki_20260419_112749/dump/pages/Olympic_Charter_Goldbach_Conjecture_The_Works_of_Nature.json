@@ -1,0 +1,33 @@
+{
+  "pageid": 8936,
+  "ns": 0,
+  "title": "Olympic Charter+Goldbach Conjecture+The Works of Nature",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Olympic_Charter%2BGoldbach_Conjecture%2BThe_Works_of_Nature",
+  "touched": "2025-06-20T00:07:31Z",
+  "length": 216,
+  "lastrevid": 35898,
+  "revision": {
+    "revid": 35898,
+    "parentid": 35097,
+    "timestamp": "2025-06-20T00:07:31Z",
+    "sha1": "c9017d045d0f6255e5391cc24c9b86f9a0517be3",
+    "size": 216
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "545",
+        "relics": "Olympic Charter,Goldbach Conjecture,The Works of Nature",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 10 Lucky Coins gained, Snail RUSH +8;Lucky Coins Gained: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Olympic_Charter_Goldbach_Conjecture_The_Works_of_Nature.wiki",
+  "markdown_path": "markdown/Olympic_Charter_Goldbach_Conjecture_The_Works_of_Nature.md"
+}

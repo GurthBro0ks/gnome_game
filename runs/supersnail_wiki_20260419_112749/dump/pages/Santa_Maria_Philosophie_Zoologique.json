@@ -1,0 +1,35 @@
+{
+  "pageid": 6111,
+  "ns": 0,
+  "title": "Santa Maria+Philosophie Zoologique",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Santa_Maria%2BPhilosophie_Zoologique",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 226,
+  "lastrevid": 23315,
+  "revision": {
+    "revid": 23315,
+    "parentid": 0,
+    "timestamp": "2024-03-09T18:19:00Z",
+    "sha1": "c693438aad4dd26bb5ba78585207efd1a310403c",
+    "size": 226
+  },
+  "categories": [
+    "Minion",
+    "Minion DEF Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Santa Maria,Philosophie Zoologique",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 60 T7+ Minions in battle: Troop DEF +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Santa_Maria_Philosophie_Zoologique.wiki",
+  "markdown_path": "markdown/Santa_Maria_Philosophie_Zoologique.md"
+}

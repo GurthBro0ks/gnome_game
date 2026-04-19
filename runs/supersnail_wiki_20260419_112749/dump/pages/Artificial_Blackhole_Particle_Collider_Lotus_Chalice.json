@@ -1,0 +1,34 @@
+{
+  "pageid": 3796,
+  "ns": 0,
+  "title": "Artificial Blackhole+Particle Collider+Lotus Chalice",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Artificial_Blackhole%2BParticle_Collider%2BLotus_Chalice",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 206,
+  "lastrevid": 13694,
+  "revision": {
+    "revid": 13694,
+    "parentid": 0,
+    "timestamp": "2023-10-02T12:09:08Z",
+    "sha1": "bc21d1ac5d350d31a69f3fa2cc5d10ad9fae8d4c",
+    "size": 206
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Artificial Blackhole,Particle Collider,Lotus Chalice",
+        "rank": "orange",
+        "amount": "3",
+        "category": "home",
+        "description": "Time Machine Travel Speedup Output +16%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Artificial_Blackhole_Particle_Collider_Lotus_Chalice.wiki",
+  "markdown_path": "markdown/Artificial_Blackhole_Particle_Collider_Lotus_Chalice.md"
+}

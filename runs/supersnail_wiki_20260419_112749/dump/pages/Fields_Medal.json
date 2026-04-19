@@ -1,0 +1,47 @@
+{
+  "pageid": 499,
+  "ns": 0,
+  "title": "Fields Medal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fields_Medal",
+  "touched": "2025-08-11T10:49:42Z",
+  "length": 848,
+  "lastrevid": 38177,
+  "revision": {
+    "revid": 38177,
+    "parentid": 11531,
+    "timestamp": "2025-08-11T10:49:42Z",
+    "sha1": "f7259167e93382305e945d56f5cf4d5b86b5a1d7",
+    "size": 848
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Fields Medal",
+        "class_id": "20132",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "The Fields Medal is awarded every four years at the Congress of the International Mathematical Union. Candidates for the award are selected by a special group that could reward work that is already done or to be done in the future. The union may award up to four medals per session.",
+        "fame": "13",
+        "art": "31",
+        "fth": "16",
+        "civ": "18",
+        "tech": "12",
+        "ss1": "Per 20 Research Manuals used, Snail ATK +4<br>Research Manuals Used: 300/300",
+        "ss2": "Per 20 Research Manuals used, Snail ATK +8<br>Research Manuals Used: 300/300",
+        "ss3": "Per 20 Research Manuals used, Snail ATK +12<br>Research Manuals Used: 300/300",
+        "ss4": "Per 20 Research Manuals used, Snail ATK +12<br>Research Manuals Used: 300/300",
+        "ss7": "Per 20 Research Manuals used, Snail ATK +12<br>Research Manuals Used: 300/300<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fields_Medal.wiki",
+  "markdown_path": "markdown/Fields_Medal.md"
+}

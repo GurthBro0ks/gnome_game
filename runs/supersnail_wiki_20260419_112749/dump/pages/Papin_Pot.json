@@ -1,0 +1,47 @@
+{
+  "pageid": 10787,
+  "ns": 0,
+  "title": "Papin Pot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Papin_Pot",
+  "touched": "2025-08-11T11:01:35Z",
+  "length": 1019,
+  "lastrevid": 38692,
+  "revision": {
+    "revid": 38692,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:01:35Z",
+    "sha1": "2095831ae8528885075673cd30cffae0dbbfe3f8",
+    "size": 1019
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Papin Pot",
+        "class_id": "20824",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The pressure cooker, the world's first, was invented by physicist Papin. He discovered that the boiling point of water changes with air pressure – the higher the pressure, the higher the boiling point. Therefore, he designed and created a sealed container to trap steam generated from heating water, creating a high-temperature, high-pressure environment that accelerated cooking efficiency.",
+        "fame": "18",
+        "art": "13",
+        "fth": "15",
+        "civ": "12",
+        "tech": "32",
+        "ss1": "Per Master Chef's Legacy activated, Snail ATK +1<br>Master Chef's Legacy activated: 60/60",
+        "ss2": "Per Master Chef's Legacy activated, Snail ATK +2<br>Master Chef's Legacy activated: 60/60",
+        "ss3": "Per Master Chef's Legacy activated, Snail ATK +3<br>Master Chef's Legacy activated: 60/60",
+        "ss4": "Per Master Chef's Legacy activated, Snail ATK +3<br>Master Chef's Legacy activated: 60/60",
+        "ss7": "Per Master Chef's Legacy activated, Snail ATK +3<br>Master Chef's Legacy activated: 60/60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Papin_Pot.wiki",
+  "markdown_path": "markdown/Papin_Pot.md"
+}

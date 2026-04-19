@@ -1,0 +1,34 @@
+{
+  "pageid": 3749,
+  "ns": 0,
+  "title": "Notre Dame Bell+The Pieta",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Notre_Dame_Bell%2BThe_Pieta",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 163,
+  "lastrevid": 13647,
+  "revision": {
+    "revid": 13647,
+    "parentid": 0,
+    "timestamp": "2023-10-02T08:09:41Z",
+    "sha1": "cc10008c8af60c5e48c161e5c9aa522c382b4da0",
+    "size": 163
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Notre Dame Bell,The Pieta",
+        "rank": "orange",
+        "amount": "2",
+        "category": "home",
+        "description": "Lumber Camp Output +14%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Notre_Dame_Bell_The_Pieta.wiki",
+  "markdown_path": "markdown/Notre_Dame_Bell_The_Pieta.md"
+}

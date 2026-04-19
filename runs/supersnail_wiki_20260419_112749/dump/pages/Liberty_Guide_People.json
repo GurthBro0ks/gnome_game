@@ -1,0 +1,63 @@
+{
+  "pageid": 2144,
+  "ns": 0,
+  "title": "Liberty Guide People",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Liberty_Guide_People",
+  "touched": "2024-11-04T01:10:54Z",
+  "length": 2688,
+  "lastrevid": 30035,
+  "revision": {
+    "revid": 30035,
+    "parentid": 27597,
+    "timestamp": "2024-10-15T15:41:29Z",
+    "sha1": "3afba49bc2d7e835c203a37eec00366ee5fa649b",
+    "size": 2688
+  },
+  "categories": [
+    "ART Boost",
+    "ART Relics",
+    "ATK Boost",
+    "DEF Boost",
+    "Divine Chaos Chest Drop Boost",
+    "Exploration Compass Boost",
+    "Orange ART Relics",
+    "Orange Relics",
+    "RUSH Boost",
+    "Relics",
+    "Rewards Lottery Ticket",
+    "Snail Arena Compass Boost",
+    "Time Chest Output"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Liberty Guide People",
+        "rank": "SS",
+        "affct": "ART",
+        "birthday": "01-26",
+        "source": "ART Master Scrolls (10.2%), Dragon Chest (5%), Fragment Crafting (5.3%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), Wishing (0.2%)",
+        "description": "On Jan 26, 1830, Delacroix created this painting to commemorate the July Revolution.\n\nOn this day, Delacroix finalized the painting on the hundreds of sketches of the street battles of the July Revolution. It shows the citizens of Paris in an uprising to overthrow the Bourbon dynasty. In this battle, a girl named Lessing first raised the tricolor flag, which symbolizes the French republic, on the barricade. The whole painting takes the form of a vertical composition. The fallen corpses, the figh …",
+        "fame": "64",
+        "art": "103",
+        "fth": "52",
+        "civ": "55",
+        "tech": "73",
+        "ss1": "Snail ATK +20<br>Per 2k Value Points, Snail DEF +4<br>Per 2k Value Points, Snail RUSH +4<br>Value Points:20,000/20,000",
+        "ss2": "Snail ATK +30<br>Per 2k Value Points, Snail DEF +4<br>Per 2k Value Points, Snail RUSH +4<br>Value Points:30,000/30,000",
+        "ss3": "Snail ATK +40<br>Per 2k Value Points, Snail DEF +4<br>Per 2k Value Points, Snail RUSH +4<br>Value Points:40,000/40,000",
+        "ss4": "Snail ATK +60<br>Per 2k Value Points, Snail DEF +4<br>Per 2k Value Points, Snail RUSH +4<br>Value Points: 60,000/60,000",
+        "ss5": "Snail ATK +80<br>Per 2k Value Points, Snail DEF +4<br>Per 2k Value Points, Snail RUSH +4<br>Value Points: 80,000/80,000",
+        "ss6": "Snail ATK +110<br>Per 2k Value Points, Snail DEF +4<br>Per 2k Value Points, Snail RUSH +4<br>Value Points:110,000/110,000",
+        "ss7": "Snail ATK +110<br>Per 2k Value Points, Snail DEF +4<br>Per 2k Value Points, Snail RUSH +4<br>Value Points: 110,000/110,000<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail DEF +600",
+        "skill2": "[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: This Relic's ART +15",
+        "skill3": "[[File:Compass skill III.png|50px]]Place in Exploration Compass: This Relic's ART +15",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Liberty_Guide_People.wiki",
+  "markdown_path": "markdown/Liberty_Guide_People.md"
+}

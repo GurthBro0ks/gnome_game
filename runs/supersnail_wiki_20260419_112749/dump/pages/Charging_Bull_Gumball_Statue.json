@@ -1,0 +1,36 @@
+{
+  "pageid": 4313,
+  "ns": 0,
+  "title": "Charging Bull+Gumball Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Charging_Bull%2BGumball_Statue",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 268,
+  "lastrevid": 18545,
+  "revision": {
+    "revid": 18545,
+    "parentid": 18325,
+    "timestamp": "2023-11-14T01:08:57Z",
+    "sha1": "a2ff7131f52d100e0bd00fd4278ef2ece6b11f59",
+    "size": 268
+  },
+  "categories": [
+    "Enhanced by Supreme Relics",
+    "HP Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Charging Bull,Gumball Statue",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Supreme Relic gained, Snail HP +1000; Supreme Relics: 20/20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Charging_Bull_Gumball_Statue.wiki",
+  "markdown_path": "markdown/Charging_Bull_Gumball_Statue.md"
+}

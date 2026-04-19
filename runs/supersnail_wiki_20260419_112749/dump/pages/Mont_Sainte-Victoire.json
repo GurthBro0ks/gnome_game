@@ -1,0 +1,53 @@
+{
+  "pageid": 9848,
+  "ns": 0,
+  "title": "Mont Sainte-Victoire",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mont_Sainte-Victoire",
+  "touched": "2025-08-11T11:17:32Z",
+  "length": 2008,
+  "lastrevid": 39382,
+  "revision": {
+    "revid": 39382,
+    "parentid": 37226,
+    "timestamp": "2025-08-11T11:17:32Z",
+    "sha1": "9f7b89934182940cd9d1a2a1bc4e293f2864ee59",
+    "size": 2008
+  },
+  "categories": [
+    "ART Relics",
+    "Orange ART Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mont Sainte-Victoire",
+        "class_id": "21137",
+        "rank": "SSS",
+        "affct": "ART",
+        "description": "Cézanne’s geometric deconstruction pioneered Cubism. Flaming pines and prismatic rocks shattered Renaissance perspective forever.",
+        "fame": "50",
+        "art": "107",
+        "fth": "72",
+        "civ": "78",
+        "tech": "55",
+        "ss1": "Per 60 T8+ Minions deployed, Troop DEF +36<br>Per 1 Mutation Hub Lv upgraded, SnailATK +3<br>Per 1 Mutation Hub Lv upgraded, Priest-Snail Assistance DMG +24<br>Mutation Hub Upgraded: 60/60",
+        "ss2": "Per 60 T8+ Minions deployed, Troop DEF +48<br>Per 1 Mutation Hub Lv upgraded, SnailATK +4<br>Per 1 Mutation Hub Lv upgraded, Priest-Snail Assistance DMG +32<br>Mutation Hub Upgraded: 60/60",
+        "ss3": "Per 60 T8+ Minions deployed, Troop DEF +60<br>Per 1 Mutation Hub Lv upgraded, SnailATK +5<br>Per 1 Mutation Hub Lv upgraded, Priest-Snail Assistance DMG +40<br>Mutation Hub Upgraded: 60/60",
+        "ss4": "Per 60 T8+ Minions deployed, Troop DEF +84<br>Per 1 Mutation Hub Lv upgraded, SnailATK +7<br>Per 1 Mutation Hub Lv upgraded, Priest-Snail Assistance DMG +56<br>Mutation Hub Upgraded: 60/60",
+        "ss5": "Per 60 T8+ Minions deployed, Troop DEF +108<br>Per 1 Mutation Hub Lv upgraded, SnailATK +9<br>Per 1 Mutation Hub Lv upgraded, Priest-Snail Assistance DMG +72<br>Mutation Hub Upgraded: 60/60",
+        "ss6": "Per 60 T8+ Minions deployed, Troop DEF +144<br>Per 1 Mutation Hub Lv upgraded, SnailATK +12<br>Per 1 Mutation Hub Lv upgraded, Priest-Snail Assistance DMG +96<br>Mutation Hub Upgraded: 60/60",
+        "ss7": "Per 60 T8+ Minions deployed, Troop DEF +144<br>Per 1 Mutation Hub Lv upgraded, SnailATK +12<br>Per 1 Mutation Hub Lv upgraded, Priest-Snail Assistance DMG +96<br>Mutation Hub Upgraded: 60/60<br>Per 60 T8+ Minions deployed, Troop DEF +120 (Awakened)",
+        "skill1": "[[File:Murkyglen skill III.png|50px]]Placed in Murky Glen:Murky Glen, Void Monolith output speed+30%",
+        "skill2": "[[File:Murkyglen skill III.png|50px]]Placed in Murky Glen:Murky Glen, Zone SUP effect reduced by 30%",
+        "skill3": "[[File:Murkyglen skill III.png|50px]]Placed in Murky Glen:Murky Glen, Relic ART +15"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mont_Sainte-Victoire.wiki",
+  "markdown_path": "markdown/Mont_Sainte-Victoire.md"
+}

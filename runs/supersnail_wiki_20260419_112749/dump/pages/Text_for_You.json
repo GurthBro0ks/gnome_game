@@ -1,0 +1,47 @@
+{
+  "pageid": 7912,
+  "ns": 0,
+  "title": "Text for You",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Text_for_You",
+  "touched": "2025-08-11T11:11:47Z",
+  "length": 775,
+  "lastrevid": 39132,
+  "revision": {
+    "revid": 39132,
+    "parentid": 33352,
+    "timestamp": "2025-08-11T11:11:47Z",
+    "sha1": "e612c510b9b7e221acf8c33488ba526f874d8004",
+    "size": 775
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Text for You",
+        "class_id": "20856",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "This smartphone is like a vault of spicy secrets. Each text is a playful tease, filled with the thrill of forbidden whispers.\n*Just remember to keep it hidden from your better half!",
+        "fame": "17",
+        "art": "14",
+        "fth": "13",
+        "civ": "16",
+        "tech": "30",
+        "ss1": "Snail ATK +10<br>Per Hitman intercepted, Snail HP +10<br>Hitmen Intercepted: 40/40",
+        "ss2": "Snail ATK +20<br>Per Hitman intercepted, Snail HP +20<br>Hitmen Intercepted: 40/40",
+        "ss3": "Snail ATK +30<br>Per Hitman intercepted, Snail HP +30<br>Hitmen Intercepted: 40/40",
+        "ss4": "Snail ATK +30<br>Per Hitman intercepted, Snail HP +30<br>Hitmen Intercepted: 40/40",
+        "ss7": "Snail ATK +30<br>Per Hitman intercepted, Snail HP +30<br>Hitmen Intercepted: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Text_for_You.wiki",
+  "markdown_path": "markdown/Text_for_You.md"
+}

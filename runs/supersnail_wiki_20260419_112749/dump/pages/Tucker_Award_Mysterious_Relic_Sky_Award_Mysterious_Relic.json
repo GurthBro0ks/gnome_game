@@ -1,0 +1,35 @@
+{
+  "pageid": 7556,
+  "ns": 0,
+  "title": "Tucker Award+Mysterious Relic+Sky Award+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tucker_Award%2BMysterious_Relic%2BSky_Award%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:54Z",
+  "length": 249,
+  "lastrevid": 31610,
+  "revision": {
+    "revid": 31610,
+    "parentid": 0,
+    "timestamp": "2024-11-09T20:36:56Z",
+    "sha1": "e3d406fce3798b326e86ea72cab0b293f0d2d5d5",
+    "size": 249
+  },
+  "categories": [
+    "Decor Coin Boost",
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Tucker Award,Mysterious Relic,Sky Award,Mysterious Relic",
+        "rank": "orange",
+        "amount": "4",
+        "category": "home",
+        "description": "Home Decor Inc, Series C Decor Coin Dividend +9%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tucker_Award_Mysterious_Relic_Sky_Award_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Tucker_Award_Mysterious_Relic_Sky_Award_Mysterious_Relic.md"
+}

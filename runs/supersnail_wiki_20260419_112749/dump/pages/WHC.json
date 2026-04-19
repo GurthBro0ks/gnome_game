@@ -1,0 +1,54 @@
+{
+  "pageid": 7916,
+  "ns": 0,
+  "title": "WHC",
+  "fullurl": "https://supersnail.wiki.gg/wiki/WHC",
+  "touched": "2025-08-11T11:18:21Z",
+  "length": 2910,
+  "lastrevid": 39417,
+  "revision": {
+    "revid": 39417,
+    "parentid": 33952,
+    "timestamp": "2025-08-11T11:18:21Z",
+    "sha1": "32716fd47a4a1189a056d4a4d2b0d633db10cf85",
+    "size": 2910
+  },
+  "categories": [
+    "FAME Relics",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "WHC",
+        "class_id": "22616",
+        "rank": "SSS",
+        "affct": "FAME",
+        "birthday": "07-14",
+        "description": "On Jul 14, 1972 AD, the WHC was proposed at the United Nations General Assembly.<br>Due to factors such as time and socio-economic conditions, the world's major cultural and natural heritage sites are increasingly being damaged. In order to prevent the loss of heritage and to avoid a future of depleted world heritage, the United Nations adopted the World Heritage Convention (WHC), aimed at encouraging participating countries to protect their own heritage and providing technical assistance to wea …",
+        "fame": "106",
+        "art": "53",
+        "fth": "75",
+        "civ": "59",
+        "tech": "69",
+        "ss1": "Common Contract Signing SPD +3%<br>Per 1k visitor received, Snail HP +30<br>Per 1k visitor received, Snail ATK +3<br>Tourists Received: 40000/40000",
+        "ss2": "Common Contract Signing SPD +4%<br>Per 1k visitor received, Snail HP +40<br>Per 1k visitor received, Snail ATK +4<br>Tourists Received: 40000/40000",
+        "ss3": "Common Contract Signing SPD +5%<br>Per 1k visitor received, Snail HP +50<br>Per 1k visitor received, Snail ATK +5<br>Tourists Received: 40000/40000",
+        "ss4": "Common Contract Signing SPD +7%<br>Per 1k visitor received, Snail HP +70<br>Per 1k visitor received, Snail ATK +7<br>Tourists Received: 40000/40000",
+        "ss5": "Common Contract Signing SPD +9%<br>Per 1k visitor received, Snail HP +90<br>Per 1k visitor received, Snail ATK +9<br>Tourists Received: 40000/40000",
+        "ss6": "Common Contract Signing SPD +12%<br>Per 1k visitor received, Snail HP +120<br>Per 1k visitor received, Snail ATK +12<br>Tourists Received: 40000/40000",
+        "ss7": "Common Contract Signing SPD +12%<br>Per 1k visitor received, Snail HP +120<br>Per 1k visitor received, Snail ATK +12<br>Tourists Received: 40000/40000<br>Common Contract Signing SPD +10% (Awakened)",
+        "skill1": "[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop DMG REDUC +6%",
+        "skill2": "[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, Troop Water DMG +60",
+        "skill3": "[[File:Mantis skill III.png|50px]]Place in Mantis Biozilla: In Species War, All Minion DEF +9%",
+        "mirage": "{{Mirage|name=Cultural Transmission|reward={{RewardIconWithLink|Grandmaster Scroll, +40|orange}}\n|3name=Natural Heritage|3rec=106.81M|3atk=291038|3defense=194163|3hp=20192115|3weak=35688\n|4name=Cultural Heritage|4rec=136.69M|4atk=354063|4defense=236210|4hp=28290273|4weak=39782\n|5name=Industrial Heritage|5rec=170.83M|5atk=426052|5defense=284236|5hp=38388463|5weak=45607\n|6name=20th Century Heritage|6rec=209.74M|6atk=508126|6defense=338991|6hp=51563056|6weak=51418\n|Arec=264.44M|Aatk=600283|Adefense …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/WHC.wiki",
+  "markdown_path": "markdown/WHC.md"
+}

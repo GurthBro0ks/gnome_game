@@ -1,0 +1,33 @@
+{
+  "pageid": 10940,
+  "ns": 0,
+  "title": "Atenism+Manhattan Project+Freeing Andromeda+The Art of Poetry",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Atenism%2BManhattan_Project%2BFreeing_Andromeda%2BThe_Art_of_Poetry",
+  "touched": "2025-08-11T11:06:25Z",
+  "length": 181,
+  "lastrevid": 38903,
+  "revision": {
+    "revid": 38903,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:06:25Z",
+    "sha1": "19372f32aa6667a34bd46d9967b6760e217a4a29",
+    "size": 181
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "842",
+        "relics": "Atenism,Manhattan Project,Freeing Andromeda,The Art of Poetry",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "All Domains, Seal output+9%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Atenism_Manhattan_Project_Freeing_Andromeda_The_Art_of_Poetry.wiki",
+  "markdown_path": "markdown/Atenism_Manhattan_Project_Freeing_Andromeda_The_Art_of_Poetry.md"
+}

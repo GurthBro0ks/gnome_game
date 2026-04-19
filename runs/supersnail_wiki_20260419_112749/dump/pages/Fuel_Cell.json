@@ -1,0 +1,47 @@
+{
+  "pageid": 31,
+  "ns": 0,
+  "title": "Fuel Cell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fuel_Cell",
+  "touched": "2025-08-11T10:52:43Z",
+  "length": 422,
+  "lastrevid": 38308,
+  "revision": {
+    "revid": 38308,
+    "parentid": 11800,
+    "timestamp": "2025-08-11T10:52:43Z",
+    "sha1": "11f1cdf6fba8f4dcbc19c20e2ff421b9829afb07",
+    "size": 422
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Fuel Cell",
+        "class_id": "20301",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Also called an Electrochemical Generator, it converts chemical energy from fuel into electricity cleanly and efficiently.",
+        "fame": "16",
+        "art": "14",
+        "fth": "13",
+        "civ": "20",
+        "tech": "27",
+        "ss1": "Minion Cloning SPD +0.6%",
+        "ss2": "Minion Cloning SPD +1.2%",
+        "ss3": "Minion Cloning SPD +1.8%",
+        "ss4": "Minion Cloning SPD +1.8%",
+        "ss7": "Minion Cloning SPD +1.8%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fuel_Cell.wiki",
+  "markdown_path": "markdown/Fuel_Cell.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 9778,
+  "ns": 0,
+  "title": "The Principia+Death of the Virgin+Don Juan+Space Elevator+Draupnir+Ram in a Thicket",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Principia%2BDeath_of_the_Virgin%2BDon_Juan%2BSpace_Elevator%2BDraupnir%2BRam_in_a_Thicket",
+  "touched": "2025-07-02T09:42:24Z",
+  "length": 196,
+  "lastrevid": 37045,
+  "revision": {
+    "revid": 37045,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:42:24Z",
+    "sha1": "b40c4105ee09ac9f955e51832b6b60d58bdb1fe8",
+    "size": 196
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "810",
+        "relics": "The Principia,Death of the Virgin,Don Juan,Space Elevator,Draupnir,Ram in a Thicket",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Snail Leadership +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Principia_Death_of_the_Virgin_Don_Juan_Space_Elevator_Draupnir_Ram_in_a_Thicket.wiki",
+  "markdown_path": "markdown/The_Principia_Death_of_the_Virgin_Don_Juan_Space_Elevator_Draupnir_Ram_in_a_Thicket.md"
+}

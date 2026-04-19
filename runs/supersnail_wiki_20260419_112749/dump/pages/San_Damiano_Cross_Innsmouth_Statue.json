@@ -1,0 +1,33 @@
+{
+  "pageid": 4362,
+  "ns": 0,
+  "title": "San Damiano Cross+Innsmouth Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/San_Damiano_Cross%2BInnsmouth_Statue",
+  "touched": "2025-06-20T00:00:44Z",
+  "length": 169,
+  "lastrevid": 35760,
+  "revision": {
+    "revid": 35760,
+    "parentid": 18347,
+    "timestamp": "2025-06-20T00:00:44Z",
+    "sha1": "173ca35d5bde0fdbf6fc24bb52cd235f6d3d3b57",
+    "size": 169
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "322",
+        "relics": "San Damiano Cross,Innsmouth Statue",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Demon Minions in battle: Troop ATK +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/San_Damiano_Cross_Innsmouth_Statue.wiki",
+  "markdown_path": "markdown/San_Damiano_Cross_Innsmouth_Statue.md"
+}

@@ -1,0 +1,28 @@
+1. Yamato
+An island country that features both the alluring Sakura and the intimidating sword.
+
+Welcome to Yamato. Mt. Huji, Sky Tree, Naniwa Castle, Cat Island, and Lake Toya are good spots to visit! A small reminder: Do not trust low-price cosmetics or accomodation recommendations, and please think twice before purchasing smart toilet seats, rice cookers, ninjutsu scrolls, Demon Fruits, etc.
+
+Yamato is the 2nd of 8 Realms.
+
+[WIKITABLE OMITTED]
+
+1. INTEL
+See Yamato INTEL for INTEL tables.
+
+1. Apostles
+See Yamato Apostles' for each Apostles' stats.
+
+1. Card Conversions
+See Yamato Cards for a list of all limited cards in Yamato and what they can be redeemed for.
+
+1. Key Clue Records
+See Yamato Key Clues for a list of all Key Clues in Yamato, how to complete them, and what they reward.
+
+1. Ninjutsu
+See Ninjutsu for a breakdown of what Ninjutsu is, its stats and costs, and how to get Mirror Fragments.
+
+1. Realm Trait - Sacred Mirror
+See Sacred Mirror for information on cost, stats, and unsealing. 
+
+Category:RealmCategory:Yamato

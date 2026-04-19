@@ -1,0 +1,6 @@
+|3name=Stone|3rec=242.50M|3atk=668914|3defense=380727|3hp=92598703|3weak=58739
+|4name=Forest|4rec=311.38M|4atk=780037|4defense=442696|4hp=139597373|4weak=63593
+|5name=Mountain|5rec=416.56M|5atk=950684|5defense=537324|5hp=251927270|5weak=70232
+|6name=Water|6rec=548.25M|6atk=1176652|6defense=655802|6hp=448926296|6weak=77668
+|Arec=726.04M|Aatk=1651390|Adefense=828186|Ahp=727125856|Aweak=86845
+}}}}

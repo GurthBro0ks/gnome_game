@@ -1,0 +1,33 @@
+{
+  "pageid": 3662,
+  "ns": 0,
+  "title": "Sword Throne+Marquis Bell+Lennon's Guitar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sword_Throne%2BMarquis_Bell%2BLennon%27s_Guitar",
+  "touched": "2025-08-11T11:13:16Z",
+  "length": 174,
+  "lastrevid": 39196,
+  "revision": {
+    "revid": 39196,
+    "parentid": 13265,
+    "timestamp": "2025-08-11T11:13:16Z",
+    "sha1": "5c674f2f97a2b9bafbcb76badf84095a0e1643ce",
+    "size": 174
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "131",
+        "relics": "Sword Throne,Marquis Bell,Lennon's Guitar",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "In explorations, Mutant Cells gained +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sword_Throne_Marquis_Bell_Lennon_s_Guitar.wiki",
+  "markdown_path": "markdown/Sword_Throne_Marquis_Bell_Lennon_s_Guitar.md"
+}

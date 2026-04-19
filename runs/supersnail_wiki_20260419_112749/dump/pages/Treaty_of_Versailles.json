@@ -1,0 +1,60 @@
+{
+  "pageid": 1437,
+  "ns": 0,
+  "title": "Treaty of Versailles",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Treaty_of_Versailles",
+  "touched": "2024-09-06T14:44:37Z",
+  "length": 1977,
+  "lastrevid": 26326,
+  "revision": {
+    "revid": 26326,
+    "parentid": 18141,
+    "timestamp": "2024-05-08T00:01:55Z",
+    "sha1": "8549b1ede4a692e62d03bc36e4e2c4f0055f0b7d",
+    "size": 1977
+  },
+  "categories": [
+    "AFFCT Boost",
+    "Enhanced by Museum Promos",
+    "FAME Relics",
+    "Gene Simulation Compass Boost",
+    "HP Boost",
+    "Mecha Gene Speedup Boost",
+    "Museum Promo Boost",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relics",
+    "Travel Speed Boost",
+    "Water DMG Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Treaty of Versailles",
+        "rank": "AAA",
+        "affct": "FAME",
+        "birthday": "06-28",
+        "source": "Club Chest (1.5%), Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)",
+        "description": "On Jun 28, 1919, the Allied Powers signed a treaty at the Palace of Versailles in Paris. This day marks the end of World War I. The negotiation is initiated by a ten-man committee consisting of the government leaders and foreign ministers from five victorious nations. After six months of negotiation, a treaty was signed to impose sanctions on Germany. The treaty has 15 parts and 440 items. The partitioning of Germany's overseas colonies harmed the interest of China, so the Chinese representative …",
+        "fame": "72",
+        "art": "32",
+        "fth": "49",
+        "civ": "44",
+        "tech": "46",
+        "ss1": "Per purple Museum Promo, Snail HP +150<br>Per Purple Museum Promo, Snail RUSH +15<br>Purple Museum Promos: 5/5",
+        "ss2": "Per purple Museum Promo, Snail HP +200<br>Per Purple Museum Promo, Snail RUSH +20<br>Purple Museum Promos: 5/5",
+        "ss3": "Per purple Museum Promo, Snail HP +250<br>Per Purple Museum Promo, Snail RUSH +25<br>Purple Museum Promos: 5/5",
+        "ss4": "Per purple Museum Promo, Snail HP +350<br>Per Purple Museum Promo, Snail RUSH +35<br>Purple Museum Promos: 5/5",
+        "ss5": "Per Purple Museum Promo, Snail HP +450<br>Per Purple Museum Promo, Snail RUSH +45<br>Purple Museum Promos: 5/5",
+        "ss7": "Per Purple Museum Promo, Snail HP +450<br>Per Purple Museum Promo, Snail RUSH +45<br>Purple Museum Promos: 5/5<br>Snail RUSH +70 (Awakened)",
+        "skill1": "[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: Water DMG +60",
+        "skill2": "[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: Power Checks in Gene Simulations -5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Treaty_of_Versailles.wiki",
+  "markdown_path": "markdown/Treaty_of_Versailles.md"
+}

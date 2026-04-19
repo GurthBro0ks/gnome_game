@@ -1,0 +1,34 @@
+{
+  "pageid": 3421,
+  "ns": 0,
+  "title": "BetaGo+Polonium",
+  "fullurl": "https://supersnail.wiki.gg/wiki/BetaGo%2BPolonium",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 143,
+  "lastrevid": 12356,
+  "revision": {
+    "revid": 12356,
+    "parentid": 0,
+    "timestamp": "2023-09-15T09:43:23Z",
+    "sha1": "dbbbb4c68e55b1dc7ded1dd8820c2a3d1dba9689",
+    "size": 143
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "BetaGo,Polonium",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HP +600"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/BetaGo_Polonium.wiki",
+  "markdown_path": "markdown/BetaGo_Polonium.md"
+}

@@ -1,0 +1,6 @@
+|3name=Ceto|3rec=290.47M|3atk=746426|3defense=423887|3hp=123342180|3weak=62163
+|4name=Phineus|4rec=369.50M|4atk=873201|4defense=494983|4hp=194032493|4weak=67297
+|5name=Andromeda|5rec=486.28M|5atk=1067078|5defense=600044|5hp=359830266|5weak=74309
+|6name=Perseus|6rec=640.46M|6atk=1410835|6defense=738753|6hp=587469757|6weak=82400
+|Arec=872.20M|Aatk=2115659|Adefense=984941|Ahp=1013324610|Aweak=92783
+}}}}

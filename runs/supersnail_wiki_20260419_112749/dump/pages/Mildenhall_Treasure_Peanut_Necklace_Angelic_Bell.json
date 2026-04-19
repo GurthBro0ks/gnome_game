@@ -1,0 +1,33 @@
+{
+  "pageid": 9261,
+  "ns": 0,
+  "title": "Mildenhall Treasure+Peanut Necklace+Angelic Bell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mildenhall_Treasure%2BPeanut_Necklace%2BAngelic_Bell",
+  "touched": "2025-06-20T00:16:00Z",
+  "length": 158,
+  "lastrevid": 36087,
+  "revision": {
+    "revid": 36087,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:16:00Z",
+    "sha1": "ff755a1e3f301e5210d220dbfbb93ff80f783867",
+    "size": 158
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "634",
+        "relics": "Mildenhall Treasure,Peanut Necklace,Angelic Bell",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Snail Leadership +4"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mildenhall_Treasure_Peanut_Necklace_Angelic_Bell.wiki",
+  "markdown_path": "markdown/Mildenhall_Treasure_Peanut_Necklace_Angelic_Bell.md"
+}

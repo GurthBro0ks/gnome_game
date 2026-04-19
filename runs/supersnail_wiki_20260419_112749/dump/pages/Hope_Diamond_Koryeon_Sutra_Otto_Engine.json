@@ -1,0 +1,35 @@
+{
+  "pageid": 3661,
+  "ns": 0,
+  "title": "Hope Diamond+Koryeon Sutra+Otto Engine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hope_Diamond%2BKoryeon_Sutra%2BOtto_Engine",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 233,
+  "lastrevid": 18424,
+  "revision": {
+    "revid": 18424,
+    "parentid": 17750,
+    "timestamp": "2023-11-13T21:42:58Z",
+    "sha1": "e28027d92dc6959dd32e2c475a4c6ea75b3f4884",
+    "size": 233
+  },
+  "categories": [
+    "Minion",
+    "Minion HARD Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Hope Diamond,Koryeon Sutra,Otto Engine",
+        "rank": "purple",
+        "amount": "3",
+        "category": "minion",
+        "description": "Per 30 Minions in battle: Troop HARD Stats +9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hope_Diamond_Koryeon_Sutra_Otto_Engine.wiki",
+  "markdown_path": "markdown/Hope_Diamond_Koryeon_Sutra_Otto_Engine.md"
+}

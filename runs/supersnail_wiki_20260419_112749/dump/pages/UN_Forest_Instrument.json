@@ -1,0 +1,54 @@
+{
+  "pageid": 10917,
+  "ns": 0,
+  "title": "UN Forest Instrument",
+  "fullurl": "https://supersnail.wiki.gg/wiki/UN_Forest_Instrument",
+  "touched": "2025-08-11T11:18:40Z",
+  "length": 2803,
+  "lastrevid": 38863,
+  "revision": {
+    "revid": 38863,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:05:34Z",
+    "sha1": "a07906fb83dc68533599a02ee2fa22a098c4dff7",
+    "size": 2803
+  },
+  "categories": [
+    "FAME Relics",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "UN Forest Instrument",
+        "class_id": "22637",
+        "rank": "SSS",
+        "affct": "FAME",
+        "birthday": "11-30",
+        "description": "On Nov 30, 2012, the United Nations General Assembly officially proclaimed International Day of Forests!<br>The United Nations Forest Instrument is a principled declaration on forest issues adopted by the United Nations Conference on Environment and Development. The document establishes four major global forest goals, including sustainable management and restoration of forests, enhancing the economic, social, and environmental benefits of forests, increasing the area of protected forest land wor …",
+        "fame": "109",
+        "art": "60",
+        "fth": "51",
+        "civ": "76",
+        "tech": "66",
+        "ss1": "All minion skins RUSH +10%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +4<br>Per 5 Calculation LVLs, Snail ATK +3<br>Calculation: 250/250",
+        "ss2": "All minion skins RUSH +20%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +8<br>Per 5 Calculation LVLs, Snail ATK +4<br>Calculation: 250/250",
+        "ss3": "All minion skins RUSH +30%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +12<br>Per 5 Calculation LVLs, Snail ATK +5<br>Calculation: 250/250",
+        "ss4": "All minion skins RUSH +50%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +20<br>Per 5 Calculation LVLs, Snail ATK +7<br>Calculation: 250/250",
+        "ss5": "All minion skins RUSH +70%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +28<br>Per 5 Calculation LVLs, Snail ATK +9<br>Calculation: 250/250",
+        "ss6": "All minion skins RUSH +100%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40<br>Per 5 Calculation LVLs, Snail ATK +12<br>Calculation: 250/250",
+        "ss7": "All minion skins RUSH +100%<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40<br>Per 5 Calculation LVLs, Snail ATK +12<br>Calculation: 250/250<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40 (Awakened)",
+        "skill1": "[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, Troop Earth DMG +60",
+        "skill2": "[[File:Hamster skill III.png|50px]]Place in Hamster Biozilla: In Species War, All Minion ATK +9%",
+        "skill3": "[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FAME +15",
+        "mirage": "{{Mirage|name=Green Great Wall|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}\n|3name=Palm|3rec=207.13M|3atk=546296|3defense=335307|3hp=42031927|3weak=44573\n|4name=Cactus|4rec=325.22M|4atk=763793|4defense=455153|4hp=83785217|4weak=52541\n|5name=White Poplar|5rec=455.55M|5atk=983657|5defense=572400|5hp=143036690|5weak=58260\n|6name=Cedar|6rec=651.17M|6atk=1327996|6defense=747886|6hp=315830358|6weak=66923\n|Arec=779.74M|Aatk=1567894|Adefense=885780|Ahp=448935020|Aweak=76463\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/UN_Forest_Instrument.wiki",
+  "markdown_path": "markdown/UN_Forest_Instrument.md"
+}

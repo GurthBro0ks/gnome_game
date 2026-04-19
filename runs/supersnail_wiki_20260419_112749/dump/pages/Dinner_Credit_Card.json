@@ -1,0 +1,48 @@
+{
+  "pageid": 1427,
+  "ns": 0,
+  "title": "Dinner Credit Card",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dinner_Credit_Card",
+  "touched": "2025-08-11T11:10:40Z",
+  "length": 1026,
+  "lastrevid": 39083,
+  "revision": {
+    "revid": 39083,
+    "parentid": 29302,
+    "timestamp": "2025-08-11T11:10:40Z",
+    "sha1": "61568e011413ce5397f1c9625c3eef6cbcc859de",
+    "size": 1026
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dinner Credit Card",
+        "class_id": "20523",
+        "rank": "Blue",
+        "affct": "CIV",
+        "description": "Dinner Credit Card was the first plastic charge card, which eventually became an international credit card. As the oldest credit card in the world, it features a classic cover which makes it a possible collectible. In many regions, joining the Dinner Club was a status symbol.",
+        "fame": "27",
+        "art": "36",
+        "fth": "19",
+        "civ": "48",
+        "tech": "28",
+        "ss1": "W-tads gained from VIP Gem Card +50<br>Travel Speedups gained from VIP Gem Card +30m",
+        "ss2": "W-tads gained from VIP Gem Card +50<br>Travel Speedups gained from VIP Gem Card +30m",
+        "ss3": "W-tads gained from VIP Gem Card +50<br>Travel Speedups gained from VIP Gem Card +30m",
+        "ss4": "W-tads gained from VIP Gem Card +50<br>Travel Speedups gained from VIP Gem Card +30m",
+        "ss7": "W-tads gained from VIP Gem Card +50<br>Travel Speedups gained from VIP Gem Card +30m<br>W-tads gained from VIP Gem Card +50 (Awakened)",
+        "skill1": "[[File:Compass skill I.png|50px]]Place in Exploration Compass: In explorations, INTEL gained +2.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dinner_Credit_Card.wiki",
+  "markdown_path": "markdown/Dinner_Credit_Card.md"
+}

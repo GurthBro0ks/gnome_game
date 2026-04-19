@@ -1,0 +1,33 @@
+{
+  "pageid": 8783,
+  "ns": 0,
+  "title": "Agamemnon Ambassadors+Venetian Mask",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Agamemnon_Ambassadors%2BVenetian_Mask",
+  "touched": "2025-06-20T00:21:11Z",
+  "length": 214,
+  "lastrevid": 36232,
+  "revision": {
+    "revid": 36232,
+    "parentid": 34761,
+    "timestamp": "2025-06-20T00:21:11Z",
+    "sha1": "db3755b64c96ca3439007c8b178a31539d55afed",
+    "size": 214
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "585",
+        "relics": "Agamemnon Ambassadors,Venetian Mask",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Recruitment Incident completed, Snail RUSH +5;Completed Recruitment Incidents: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Agamemnon_Ambassadors_Venetian_Mask.wiki",
+  "markdown_path": "markdown/Agamemnon_Ambassadors_Venetian_Mask.md"
+}

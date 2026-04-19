@@ -1,0 +1,45 @@
+{
+  "pageid": 12176,
+  "ns": 0,
+  "title": "Indestructible Body",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Indestructible_Body",
+  "touched": "2025-11-10T20:29:13Z",
+  "length": 571,
+  "lastrevid": 41751,
+  "revision": {
+    "revid": 41751,
+    "parentid": 0,
+    "timestamp": "2025-11-10T20:29:13Z",
+    "sha1": "0e6aa801e558113b212002eb840eb4e25896e1da",
+    "size": 571
+  },
+  "categories": [
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Indestructible Body",
+        "rank": "Green",
+        "affct": "FTH",
+        "source": "Defeating Frog Vajra",
+        "description": "After years of training, the Milk Dragon forged an invincible golden form... though it still has unexpected weaknesses.",
+        "fame": "14",
+        "art": "15",
+        "fth": "29",
+        "civ": "14",
+        "tech": "18",
+        "ss1": "Each round, Ri-Ribbit DEF +1<br>Per 3 Shrine Frog Zaps, Ri-Ribbit DEF +1<br>Frogs Killed: 30/30",
+        "ss2": "Each round, Ri-Ribbit DEF +2<br>Per 3 Shrine Frog Zaps, Ri-Ribbit DEF +2<br>Frogs Killed: 30/30",
+        "ss3": "Each round, Ri-Ribbit DEF +3<br>Per 3 Shrine Frog Zaps, Ri-Ribbit DEF +3<br>Frogs Killed: 30/30"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Indestructible_Body.wiki",
+  "markdown_path": "markdown/Indestructible_Body.md"
+}

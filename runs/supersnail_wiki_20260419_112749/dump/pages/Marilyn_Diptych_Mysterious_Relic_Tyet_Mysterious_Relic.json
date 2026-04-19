@@ -1,0 +1,35 @@
+{
+  "pageid": 6632,
+  "ns": 0,
+  "title": "Marilyn Diptych+Mysterious Relic+Tyet+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Marilyn_Diptych%2BMysterious_Relic%2BTyet%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:54Z",
+  "length": 246,
+  "lastrevid": 27085,
+  "revision": {
+    "revid": 27085,
+    "parentid": 0,
+    "timestamp": "2024-05-20T00:55:21Z",
+    "sha1": "0f1b1b4616e6035bd9114c9695b93c059970aff5",
+    "size": 246
+  },
+  "categories": [
+    "Home",
+    "Spore Color Change"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Marilyn Diptych,Mysterious Relic,Tyet,Mysterious Relic",
+        "rank": "orange",
+        "amount": "4",
+        "category": "home",
+        "description": "Catalyzed Blue Spores turn to Purple by +0.9%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Marilyn_Diptych_Mysterious_Relic_Tyet_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Marilyn_Diptych_Mysterious_Relic_Tyet_Mysterious_Relic.md"
+}

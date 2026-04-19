@@ -1,0 +1,33 @@
+{
+  "pageid": 8540,
+  "ns": 0,
+  "title": "Fountain+La mer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fountain%2BLa_mer",
+  "touched": "2025-06-16T20:53:43Z",
+  "length": 121,
+  "lastrevid": 34435,
+  "revision": {
+    "revid": 34435,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:22:23Z",
+    "sha1": "2b18299ddf1ccde0740bf6f2dcff3523fe9c7819",
+    "size": 121
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "682",
+        "relics": "Fountain,La mer",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fountain_La_mer.wiki",
+  "markdown_path": "markdown/Fountain_La_mer.md"
+}

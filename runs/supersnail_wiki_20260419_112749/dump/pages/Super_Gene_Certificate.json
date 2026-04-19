@@ -1,0 +1,47 @@
+{
+  "pageid": 1396,
+  "ns": 0,
+  "title": "Super Gene Certificate",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Super_Gene_Certificate",
+  "touched": "2025-08-11T10:53:02Z",
+  "length": 744,
+  "lastrevid": 38321,
+  "revision": {
+    "revid": 38321,
+    "parentid": 11513,
+    "timestamp": "2025-08-11T10:53:02Z",
+    "sha1": "09c22a643d1b100743394f88d216c89905f12af2",
+    "size": 744
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Super Gene Certificate",
+        "class_id": "20491",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "For people who have the Super Gene, life is a walk in the park. Super Gene Corp favors Travelers with exceptional talents. Tailoring a specific set of personal growth project, seeking to best increase their DNA during every stage, paving a solid foundation for their exorcism!",
+        "fame": "30",
+        "art": "14",
+        "fth": "17",
+        "civ": "15",
+        "tech": "14",
+        "ss1": "Per Form Unlocked, Snail ATK +6<br>Forms Unlocked: 6/6",
+        "ss2": "Per Form Unlocked, Snail ATK +12<br>Forms Unlocked: 6/6",
+        "ss3": "Per Form Unlocked, Snail ATK +18<br>Forms Unlocked: 6/6",
+        "ss4": "Per Form Unlocked, Snail ATK +18<br>Forms Unlocked: 6/6",
+        "ss7": "Per Form Unlocked, Snail ATK +18<br>Forms Unlocked: 6/6<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Super_Gene_Certificate.wiki",
+  "markdown_path": "markdown/Super_Gene_Certificate.md"
+}

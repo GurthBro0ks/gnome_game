@@ -1,0 +1,47 @@
+{
+  "pageid": 10148,
+  "ns": 0,
+  "title": "Collection@20741 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20741_1",
+  "touched": "2025-08-11T10:40:17Z",
+  "length": 429,
+  "lastrevid": 37767,
+  "revision": {
+    "revid": 37767,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:40:17Z",
+    "sha1": "b2fd70a6b928756e7ceee5fe94af0bb535a84070",
+    "size": 429
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20741_1",
+        "class_id": "20741",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "collection@20741_2",
+        "fame": "19",
+        "art": "13",
+        "fth": "29",
+        "civ": "14",
+        "tech": "15",
+        "ss1": "Per 10 Minions in battle:<br>> Troop ATK +10",
+        "ss2": "Per 10 Minions in battle:<br>> Troop ATK +20",
+        "ss3": "Per 10 Minions in battle:<br>> Troop ATK +30",
+        "ss4": "Per 10 Minions in battle:<br>> Troop ATK +30",
+        "ss7": "Per 10 Minions in battle:<br>> Troop ATK +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20741_1.wiki",
+  "markdown_path": "markdown/Collection_20741_1.md"
+}

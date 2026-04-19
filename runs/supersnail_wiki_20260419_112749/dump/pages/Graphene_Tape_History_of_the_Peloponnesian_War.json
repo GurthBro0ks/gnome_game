@@ -1,0 +1,35 @@
+{
+  "pageid": 7985,
+  "ns": 0,
+  "title": "Graphene Tape+History of the Peloponnesian War",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Graphene_Tape%2BHistory_of_the_Peloponnesian_War",
+  "touched": "2025-03-23T18:30:57Z",
+  "length": 293,
+  "lastrevid": 33438,
+  "revision": {
+    "revid": 33438,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:38:53Z",
+    "sha1": "18272dd16d9319477668ff1dd6edf0152a8d4074",
+    "size": 293
+  },
+  "categories": [
+    "Primeval Power Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Graphene Tape,History of the Peloponnesian War",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Master Chef's Legacy activated, Snail Primeval Power +7; Master Chef's Legacy activated: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Graphene_Tape_History_of_the_Peloponnesian_War.wiki",
+  "markdown_path": "markdown/Graphene_Tape_History_of_the_Peloponnesian_War.md"
+}

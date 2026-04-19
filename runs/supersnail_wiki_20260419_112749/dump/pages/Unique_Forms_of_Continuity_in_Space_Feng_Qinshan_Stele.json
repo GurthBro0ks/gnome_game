@@ -1,0 +1,35 @@
+{
+  "pageid": 7959,
+  "ns": 0,
+  "title": "Unique Forms of Continuity in Space+Feng Qinshan Stele",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Unique_Forms_of_Continuity_in_Space%2BFeng_Qinshan_Stele",
+  "touched": "2025-02-22T17:25:55Z",
+  "length": 245,
+  "lastrevid": 33410,
+  "revision": {
+    "revid": 33410,
+    "parentid": 0,
+    "timestamp": "2025-02-21T20:14:49Z",
+    "sha1": "1b3b7d0f740f685ded5a585c58b180bd6d77134c",
+    "size": 245
+  },
+  "categories": [
+    "Minion",
+    "Minion ATK Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Unique Forms of Continuity in Space,Feng Qinshan Stele",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 60 T8+ Minions deployed, Troop ATK +84"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Unique_Forms_of_Continuity_in_Space_Feng_Qinshan_Stele.wiki",
+  "markdown_path": "markdown/Unique_Forms_of_Continuity_in_Space_Feng_Qinshan_Stele.md"
+}

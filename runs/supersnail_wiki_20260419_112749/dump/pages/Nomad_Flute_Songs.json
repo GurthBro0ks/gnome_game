@@ -1,0 +1,51 @@
+{
+  "pageid": 4833,
+  "ns": 0,
+  "title": "Nomad Flute Songs",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nomad_Flute_Songs",
+  "touched": "2025-08-11T11:01:53Z",
+  "length": 1230,
+  "lastrevid": 38705,
+  "revision": {
+    "revid": 38705,
+    "parentid": 33591,
+    "timestamp": "2025-08-11T11:01:53Z",
+    "sha1": "f8662a0716e3e1e2fbb51785a4d6f11b9ffe2044",
+    "size": 1230
+  },
+  "categories": [
+    "ART Relics",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Nomad Flute Songs",
+        "class_id": "22143",
+        "rank": "AAA",
+        "affct": "ART",
+        "birthday": "08-01",
+        "description": "On Aug 1, 208 AD, Cao Cao sent an envoy to ransom Cai Wenji from the Xiongnu with gold and jade.<br>Nomad Flute Songs are a series of Chinese songs and poems composed by Cai Yan. It narrates the story about the life of Han Dynasty poet Cai Wenji, including her capture by native tribes, and reflects the turmoil and grief of those years. By merging various musical styles from the region and achieving a smooth and harmonious tone, this ambitious lyrical poem is a masterpiece of music.",
+        "fame": "38",
+        "art": "73",
+        "fth": "46",
+        "civ": "45",
+        "tech": "41",
+        "ss1": "Snail ATK +30<br>Refine +1 White Demon God Material +3%",
+        "ss2": "Snail ATK +40<br>Refine +1 White Demon God Material +4%",
+        "ss3": "Snail ATK +50<br>Refine +1 White Demon God Material +5%",
+        "ss4": "Snail ATK +70<br>Refine +1 White Demon God Material +7%",
+        "ss5": "Snail ATK +90<br>Refine +1 White Demon God Material +9%",
+        "ss7": "Snail ATK +90<br>Refine +1 White Demon God Material +9%<br>Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +300",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Reagent Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nomad_Flute_Songs.wiki",
+  "markdown_path": "markdown/Nomad_Flute_Songs.md"
+}

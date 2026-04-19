@@ -1,0 +1,67 @@
+{
+  "pageid": 167,
+  "ns": 0,
+  "title": "Koh-i-Noor Diamond",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Koh-i-Noor_Diamond",
+  "touched": "2024-11-04T01:11:03Z",
+  "length": 2110,
+  "lastrevid": 30026,
+  "revision": {
+    "revid": 30026,
+    "parentid": 27270,
+    "timestamp": "2024-10-15T15:41:06Z",
+    "sha1": "5a368373452a742aa2dfe3a4ee2ef83d94066f8d",
+    "size": 2110
+  },
+  "categories": [
+    "ART Relics",
+    "Britland Exploration Boost",
+    "Britland Museum Boost",
+    "DEF Boost",
+    "DEF-Fungi Boost",
+    "Exploration Card Drop Boost",
+    "Exploration Compass Boost",
+    "Exploration Reagent Drop Boost",
+    "Gear Boost",
+    "HP Boost",
+    "Minorino Boost",
+    "Orange ART Relics",
+    "Orange Relics",
+    "RUSH Boost",
+    "Relics",
+    "Time Machine Output Boost",
+    "Time Machine Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Koh-i-Noor Diamond",
+        "rank": "S",
+        "affct": "ART",
+        "birthday": "07-29",
+        "source": "ART Master Scrolls (34.7%), Fragment Crafting (18.1%), Lottery Machine (0.81%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), Wishing (0.68%)",
+        "description": "On Jul 29, 1895, Queen Victoria set this diamond on the Crown of Queen Elizabeth The Queen Mother.\n\nThis massive diamond inlaid on the Crown of Queen Elizabeth, the Koh-i-Noor, is a cursed one. Any man who owns it will rule the world but be cursed with terrible luck. Only a god or a woman can wear it and be safe. The Persian Emperor Nader Shah was assassinated after getting the diamond. Later, King George VI acquired it and died soon after!\n\n[Basic Info]\n\nOrigin: Kola Mine, India<br>Type: Diamon …",
+        "fame": "59",
+        "art": "98",
+        "fth": "65",
+        "civ": "62",
+        "tech": "48",
+        "ss1": "Snail HP +100<br>Snail DEF +10<br>Snail RUSH +10",
+        "ss2": "Snail HP +200<br>Snail DEF +20<br>Snail RUSH +20",
+        "ss3": "Snail HP +300<br>Snail DEF +30<br>Snail RUSH +30",
+        "ss4": "Snail HP +500<br>Snail DEF +50<br>Snail RUSH +50",
+        "ss5": "Snail HP +700<br>Snail DEF +70<br>Snail RUSH +70",
+        "ss6": "Snail HP + 1,000<br>Snail DEF +100<br>Snail RUSH +100",
+        "ss7": "Snail HP +1,000<br>Snail DEF +100<br>Snail RUSH +100<br>Snail DEF +100",
+        "skill1": "[[File:Britland skill III.png|frameless|52x52px]]Place in Britland Museum: In Britland, 2x Blue Card Drops +15%",
+        "skill2": "[[File:Compass skill III.png|frameless|53x53px]]Place in Exploration Compass: When exploring, 2x Blue Reagent Drops +15%",
+        "skill3": "[[File:Timemachine skill III.png|frameless|53x53px]]Place in Time Machine: Time Machine Max Cap +30%",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Koh-i-Noor_Diamond.wiki",
+  "markdown_path": "markdown/Koh-i-Noor_Diamond.md"
+}

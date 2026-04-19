@@ -1,0 +1,33 @@
+{
+  "pageid": 4581,
+  "ns": 0,
+  "title": "George VI's Speech+Ariadne's Thread",
+  "fullurl": "https://supersnail.wiki.gg/wiki/George_VI%27s_Speech%2BAriadne%27s_Thread",
+  "touched": "2025-06-20T00:04:25Z",
+  "length": 171,
+  "lastrevid": 35841,
+  "revision": {
+    "revid": 35841,
+    "parentid": 18343,
+    "timestamp": "2025-06-20T00:04:25Z",
+    "sha1": "a786a180f940749d3fafee685cac887c21692ad5",
+    "size": 171
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "336",
+        "relics": "George VI's Speech,Ariadne's Thread",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Angel Minions in battle: Troop RUSH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/George_VI_s_Speech_Ariadne_s_Thread.wiki",
+  "markdown_path": "markdown/George_VI_s_Speech_Ariadne_s_Thread.md"
+}

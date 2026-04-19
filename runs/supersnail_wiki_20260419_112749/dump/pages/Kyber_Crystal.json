@@ -1,0 +1,47 @@
+{
+  "pageid": 6737,
+  "ns": 0,
+  "title": "Kyber Crystal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kyber_Crystal",
+  "touched": "2024-10-22T07:10:09Z",
+  "length": 715,
+  "lastrevid": 30422,
+  "revision": {
+    "revid": 30422,
+    "parentid": 28450,
+    "timestamp": "2024-10-22T07:03:00Z",
+    "sha1": "a71891bfd6dd387ba7b308711e6b3abc9877f358",
+    "size": 715
+  },
+  "categories": [
+    "ATK Boost",
+    "Green Relics",
+    "Green TECH Relics",
+    "Mecha Gene Cost Reduction",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Kyber crystal",
+        "rank": "Green",
+        "affct": "TECH",
+        "source": "Defeat [[Fugitives#Fugitives|King of the Dark Fugitive]]",
+        "description": "A living creature without awareness. It releases plasma after being injected with energy. It is also one of its features to amplify the Force, thus, it is one of the crucial materials in the making of Strength Sword. Legend has it, it turns the weak ones who attempt to control it into its food.",
+        "fame": "15",
+        "art": "13",
+        "fth": "18",
+        "civ": "13",
+        "tech": "31",
+        "ss1": "Snail ATK +20<br>Mecha Gene Research B-tad cost -0.6%",
+        "ss2": "Snail ATK +40<br>Mecha Gene Research B-tad cost -1.2%",
+        "ss3": "Snail ATK +60<br>Mecha Gene Research B-tad cost -1.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kyber_Crystal.wiki",
+  "markdown_path": "markdown/Kyber_Crystal.md"
+}

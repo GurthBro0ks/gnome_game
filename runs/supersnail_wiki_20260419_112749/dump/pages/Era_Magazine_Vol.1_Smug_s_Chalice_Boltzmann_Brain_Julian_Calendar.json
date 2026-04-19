@@ -1,0 +1,34 @@
+{
+  "pageid": 3817,
+  "ns": 0,
+  "title": "Era Magazine Vol.1+Smug's Chalice+Boltzmann Brain+Julian Calendar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Era_Magazine_Vol.1%2BSmug%27s_Chalice%2BBoltzmann_Brain%2BJulian_Calendar",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 222,
+  "lastrevid": 13737,
+  "revision": {
+    "revid": 13737,
+    "parentid": 0,
+    "timestamp": "2023-10-03T08:13:46Z",
+    "sha1": "5aa9cd1045feb6fb861f1e1b8c7002922ab145d4",
+    "size": 222
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Era Magazine Vol.1,Smug's Chalice,Boltzmann Brain,Julian Calendar",
+        "rank": "orange",
+        "amount": "4",
+        "category": "other",
+        "description": "In any Realm, 2x Purple Card Drops +3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Era_Magazine_Vol.1_Smug_s_Chalice_Boltzmann_Brain_Julian_Calendar.wiki",
+  "markdown_path": "markdown/Era_Magazine_Vol.1_Smug_s_Chalice_Boltzmann_Brain_Julian_Calendar.md"
+}

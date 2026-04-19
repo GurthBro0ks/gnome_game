@@ -1,0 +1,34 @@
+{
+  "pageid": 3741,
+  "ns": 0,
+  "title": "Sunflowers+Mona Lisa",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sunflowers%2BMona_Lisa",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 201,
+  "lastrevid": 13639,
+  "revision": {
+    "revid": 13639,
+    "parentid": 0,
+    "timestamp": "2023-10-01T09:52:14Z",
+    "sha1": "1df28ef63fb6a446f3a09d5d5fe3671e8e784d82",
+    "size": 201
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Sunflowers,Mona Lisa",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 3 Orange Relics gained, Snail RUSH +28<br>Orange Relics: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sunflowers_Mona_Lisa.wiki",
+  "markdown_path": "markdown/Sunflowers_Mona_Lisa.md"
+}

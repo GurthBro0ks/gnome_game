@@ -1,0 +1,50 @@
+{
+  "pageid": 8722,
+  "ns": 0,
+  "title": "The 1st Electric Fan",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_1st_Electric_Fan",
+  "touched": "2025-06-16T20:54:48Z",
+  "length": 946,
+  "lastrevid": 34691,
+  "revision": {
+    "revid": 34691,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:54:48Z",
+    "sha1": "517dc9552e18c851b5f92d6caad8158542a912cc",
+    "size": 946
+  },
+  "categories": [
+    "Blue FAME Relics",
+    "Blue Relics",
+    "FAME Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The 1st Electric Fan",
+        "class_id": "22407",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "12-17",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Dec 17, 1880 AD, Schule successfully made the world's first electric fan.<br>An engineer named Byron created a spring-driven mechanical fan 50 years before the electric fan was invented. This fan is considered the prototype for the electric fan. Later, Schule improved it by replacing the spring with a motor, which officially introduced the electric fan and gave people relief from the summer heat.",
+        "fame": "44",
+        "art": "27",
+        "fth": "22",
+        "civ": "30",
+        "tech": "31",
+        "ss1": "Refine +1 White Rebel Material +1%",
+        "ss2": "Refine +1 White Rebel Material +2%",
+        "ss3": "Refine +1 White Rebel Material +3%",
+        "ss4": "Refine +1 White Rebel Material +5%",
+        "ss7": "Refine +1 White Rebel Material +5%<br>Refine +1 White Rebel Material +5% (Awakened)",
+        "skill1": "[[File:Goldfish skill I.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Fire DMG +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_1st_Electric_Fan.wiki",
+  "markdown_path": "markdown/The_1st_Electric_Fan.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4561,
+  "ns": 0,
+  "title": "Wet Gardener Poster+Gertie the Dinosaur",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wet_Gardener_Poster%2BGertie_the_Dinosaur",
+  "touched": "2025-06-20T00:04:40Z",
+  "length": 161,
+  "lastrevid": 35848,
+  "revision": {
+    "revid": 35848,
+    "parentid": 18455,
+    "timestamp": "2025-06-20T00:04:40Z",
+    "sha1": "232e00b36563adccacdfaab79af9b3f03e4becf6",
+    "size": 161
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "303",
+        "relics": "Wet Gardener Poster,Gertie the Dinosaur",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Free Gene Speedup (Dragon) +30m"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wet_Gardener_Poster_Gertie_the_Dinosaur.wiki",
+  "markdown_path": "markdown/Wet_Gardener_Poster_Gertie_the_Dinosaur.md"
+}

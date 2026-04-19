@@ -1,0 +1,34 @@
+{
+  "pageid": 3292,
+  "ns": 0,
+  "title": "Holmes' Pipe+Sholes' Typewriter",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Holmes%27_Pipe%2BSholes%27_Typewriter",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 167,
+  "lastrevid": 12027,
+  "revision": {
+    "revid": 12027,
+    "parentid": 12026,
+    "timestamp": "2023-09-13T07:21:05Z",
+    "sha1": "eadfa11815bab20a18f9352aaf111534950b0b12",
+    "size": 167
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Holmes' Pipe,Sholes' Typewriter",
+        "rank": "blue",
+        "amount": "2",
+        "category": "home",
+        "description": "Lumber Camp Output +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Holmes_Pipe_Sholes_Typewriter.wiki",
+  "markdown_path": "markdown/Holmes_Pipe_Sholes_Typewriter.md"
+}

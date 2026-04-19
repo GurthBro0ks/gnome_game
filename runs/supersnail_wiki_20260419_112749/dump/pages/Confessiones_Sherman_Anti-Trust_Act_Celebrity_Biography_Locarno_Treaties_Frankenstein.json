@@ -1,0 +1,35 @@
+{
+  "pageid": 8279,
+  "ns": 0,
+  "title": "Confessiones+Sherman Anti-Trust Act+Celebrity Biography+Locarno Treaties+Frankenstein",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Confessiones%2BSherman_Anti-Trust_Act%2BCelebrity_Biography%2BLocarno_Treaties%2BFrankenstein",
+  "touched": "2025-05-03T22:17:29Z",
+  "length": 271,
+  "lastrevid": 34060,
+  "revision": {
+    "revid": 34060,
+    "parentid": 0,
+    "timestamp": "2025-04-21T02:34:36Z",
+    "sha1": "7af9d5af92d302463322e8d6d511e4e0089c33eb",
+    "size": 271
+  },
+  "categories": [
+    "Home",
+    "Stardust Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Confessiones,Sherman Anti-Trust Act,Celebrity Biography,Locarno Treaties,Frankenstein",
+        "rank": "orange",
+        "amount": "5",
+        "category": "home",
+        "description": "Merge 1 Orange Stardust: Gain 1 more by 10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Confessiones_Sherman_Anti-Trust_Act_Celebrity_Biography_Locarno_Treaties_Frankenstein.wiki",
+  "markdown_path": "markdown/Confessiones_Sherman_Anti-Trust_Act_Celebrity_Biography_Locarno_Treaties_Frankenstein.md"
+}

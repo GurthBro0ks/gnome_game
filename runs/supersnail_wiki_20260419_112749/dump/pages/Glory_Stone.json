@@ -1,0 +1,47 @@
+{
+  "pageid": 10480,
+  "ns": 0,
+  "title": "Glory Stone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Glory_Stone",
+  "touched": "2025-08-11T10:51:59Z",
+  "length": 652,
+  "lastrevid": 38276,
+  "revision": {
+    "revid": 38276,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:51:59Z",
+    "sha1": "997ea096a5ebaa4f07b226218077b5fd741551be",
+    "size": 652
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Glory Stone",
+        "class_id": "20723",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "Before travelers arrived, certain protomons had possessed extraordinary Glory. However, due to changing environments, these creatures have vanished, leaving only these stone tablets with records about them...",
+        "fame": "15",
+        "art": "14",
+        "fth": "31",
+        "civ": "17",
+        "tech": "13",
+        "ss1": "For each Divine Form obtained, get 30 Form Emblem(s)",
+        "ss2": "For each Divine Form obtained, get 40 Form Emblem(s)",
+        "ss3": "For each Divine Form obtained, get 50 Form Emblem(s)",
+        "ss4": "For each Divine Form obtained, get 50 Form Emblem(s)",
+        "ss7": "For each Divine Form obtained, get 50 Form Emblem(s)<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Glory_Stone.wiki",
+  "markdown_path": "markdown/Glory_Stone.md"
+}

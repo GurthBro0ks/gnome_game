@@ -1,0 +1,33 @@
+{
+  "pageid": 8820,
+  "ns": 0,
+  "title": "Celestial Mechanics+UN Forest Instrument",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Celestial_Mechanics%2BUN_Forest_Instrument",
+  "touched": "2025-08-11T11:05:35Z",
+  "length": 215,
+  "lastrevid": 36287,
+  "revision": {
+    "revid": 36287,
+    "parentid": 34804,
+    "timestamp": "2025-06-20T00:24:15Z",
+    "sha1": "acef8ee85c9892d9ec7f2f7ce6ee8f9dce049e5f",
+    "size": 215
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "780",
+        "relics": "Celestial Mechanics,UN Forest Instrument",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2 fully unlocked Tactical Logs, Snail RUSH +7;Tactical Logs unlocked: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Celestial_Mechanics_UN_Forest_Instrument.wiki",
+  "markdown_path": "markdown/Celestial_Mechanics_UN_Forest_Instrument.md"
+}

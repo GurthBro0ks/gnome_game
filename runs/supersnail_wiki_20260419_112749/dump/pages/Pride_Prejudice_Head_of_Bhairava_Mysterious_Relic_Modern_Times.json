@@ -1,0 +1,36 @@
+{
+  "pageid": 4233,
+  "ns": 0,
+  "title": "Pride & Prejudice+Head of Bhairava+Mysterious Relic+Modern Times",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pride_%26_Prejudice%2BHead_of_Bhairava%2BMysterious_Relic%2BModern_Times",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 298,
+  "lastrevid": 18619,
+  "revision": {
+    "revid": 18619,
+    "parentid": 18313,
+    "timestamp": "2023-11-14T01:28:50Z",
+    "sha1": "0bc3c4d88496b377ef19943661de764065d5272e",
+    "size": 298
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by CIV Wishes",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Pride & Prejudice,Head of Bhairava,Mysterious Relic,Modern Times",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 20 CIV Wishes made, Snail ATK +9; Wishes Made: 1000/1000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pride_Prejudice_Head_of_Bhairava_Mysterious_Relic_Modern_Times.wiki",
+  "markdown_path": "markdown/Pride_Prejudice_Head_of_Bhairava_Mysterious_Relic_Modern_Times.md"
+}

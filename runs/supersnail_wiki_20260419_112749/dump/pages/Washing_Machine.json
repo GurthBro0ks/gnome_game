@@ -1,0 +1,29 @@
+{
+  "pageid": 2980,
+  "ns": 0,
+  "title": "Washing Machine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Washing_Machine",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 480,
+  "lastrevid": 12858,
+  "revision": {
+    "revid": 12858,
+    "parentid": 12413,
+    "timestamp": "2023-09-17T21:34:15Z",
+    "sha1": "42e8cdab280ec028592f5b21644477a498d16e82",
+    "size": 480
+  },
+  "categories": [
+    "DEF Boost",
+    "FAME Shells",
+    "Fire DMG Boost",
+    "Hellas",
+    "RUSH Boost",
+    "Shells",
+    "Zombie Form"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Washing_Machine.wiki",
+  "markdown_path": "markdown/Washing_Machine.md"
+}

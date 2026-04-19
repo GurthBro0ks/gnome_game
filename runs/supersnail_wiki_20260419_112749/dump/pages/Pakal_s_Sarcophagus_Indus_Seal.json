@@ -1,0 +1,33 @@
+{
+  "pageid": 10154,
+  "ns": 0,
+  "title": "Pakal's Sarcophagus+Indus Seal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pakal%27s_Sarcophagus%2BIndus_Seal",
+  "touched": "2025-08-11T10:40:41Z",
+  "length": 146,
+  "lastrevid": 37784,
+  "revision": {
+    "revid": 37784,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:40:41Z",
+    "sha1": "9274c0723f4dd0af31e6ec21a7b0d5d606416240",
+    "size": 146
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "416",
+        "relics": "Pakal's Sarcophagus,Indus Seal",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Domain Cabin Output +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pakal_s_Sarcophagus_Indus_Seal.wiki",
+  "markdown_path": "markdown/Pakal_s_Sarcophagus_Indus_Seal.md"
+}

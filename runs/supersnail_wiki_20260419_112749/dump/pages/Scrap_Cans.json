@@ -1,0 +1,47 @@
+{
+  "pageid": 1673,
+  "ns": 0,
+  "title": "Scrap Cans",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Scrap_Cans",
+  "touched": "2025-08-11T11:11:31Z",
+  "length": 834,
+  "lastrevid": 39120,
+  "revision": {
+    "revid": 39120,
+    "parentid": 11508,
+    "timestamp": "2025-08-11T11:11:31Z",
+    "sha1": "5322d17d188dd3c8f89dc99af9c28147bf1dc2ed",
+    "size": 834
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Scrap Cans",
+        "class_id": "20428",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Following the world's destruction, what currency will dominate the economic system? One opinion we got is Nuka-Cola bottle cap, and our own answer is the aluminum can! As for why they are both part of the packaging for carbonated drinks... Well, that's a story for another day!",
+        "fame": "29",
+        "art": "15",
+        "fth": "16",
+        "civ": "19",
+        "tech": "11",
+        "ss1": "Per Premium Cat Food bought, Snail HP +10<br>Premium Cat Food Bought: 20/20",
+        "ss2": "Per Premium Cat Food bought, Snail HP +20<br>Premium Cat Food Bought: 20/20",
+        "ss3": "Per Premium Cat Food bought, Snail HP +30<br>Premium Cat Food Bought: 20/20",
+        "ss4": "Per Premium Cat Food bought, Snail HP +30<br>Premium Cat Food Bought: 20/20",
+        "ss7": "Per Premium Cat Food bought, Snail HP +30<br>Premium Cat Food Bought: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Scrap_Cans.wiki",
+  "markdown_path": "markdown/Scrap_Cans.md"
+}

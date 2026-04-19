@@ -1,0 +1,34 @@
+{
+  "pageid": 3314,
+  "ns": 0,
+  "title": "Costa Rica Stone+Atilla Horseshoe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Costa_Rica_Stone%2BAtilla_Horseshoe",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 194,
+  "lastrevid": 12051,
+  "revision": {
+    "revid": 12051,
+    "parentid": 0,
+    "timestamp": "2023-09-13T08:10:03Z",
+    "sha1": "c74bb2726e319ad025f24389ac0e0133c7fac6a0",
+    "size": 194
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Costa Rica Stone,Atilla Horseshoe",
+        "rank": "blue",
+        "amount": "2",
+        "category": "other",
+        "description": "Green Bead draws give +1 Lucky Voucher by +25%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Costa_Rica_Stone_Atilla_Horseshoe.wiki",
+  "markdown_path": "markdown/Costa_Rica_Stone_Atilla_Horseshoe.md"
+}

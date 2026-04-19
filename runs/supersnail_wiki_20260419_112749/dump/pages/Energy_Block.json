@@ -1,0 +1,47 @@
+{
+  "pageid": 11090,
+  "ns": 0,
+  "title": "Energy Block",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Energy_Block",
+  "touched": "2025-08-11T11:12:01Z",
+  "length": 794,
+  "lastrevid": 39142,
+  "revision": {
+    "revid": 39142,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:12:01Z",
+    "sha1": "d25e371b35fd87baff81df50e16c008ff93768dd",
+    "size": 794
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Energy Block",
+        "class_id": "20858",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Energy Blocks represent a potent energy source, synthesized through specialized refinement processes from a rare mineral. This mineral is exclusively found on a distant planetary body where, according to reports, all indigenous lifeforms exhibit mechanical characteristics...",
+        "fame": "19",
+        "art": "14",
+        "fth": "14",
+        "civ": "13",
+        "tech": "30",
+        "ss1": "Per 5 Rocket Tech LVLs, Snail HP +50<br>Rocket Tech Upgraded: 50/50",
+        "ss2": "Per 5 Rocket Tech LVLs, Snail HP +55<br>Rocket Tech Upgraded: 50/50",
+        "ss3": "Per 5 Rocket Tech LVLs, Snail HP +60<br>Rocket Tech Upgraded: 50/50",
+        "ss4": "Per 5 Rocket Tech LVLs, Snail HP +60<br>Rocket Tech Upgraded: 50/50",
+        "ss7": "Per 5 Rocket Tech LVLs, Snail HP +60<br>Rocket Tech Upgraded: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Energy_Block.wiki",
+  "markdown_path": "markdown/Energy_Block.md"
+}

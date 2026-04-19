@@ -1,0 +1,47 @@
+{
+  "pageid": 1501,
+  "ns": 0,
+  "title": "Hunter License",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hunter_License",
+  "touched": "2025-08-11T10:47:14Z",
+  "length": 786,
+  "lastrevid": 38065,
+  "revision": {
+    "revid": 38065,
+    "parentid": 25443,
+    "timestamp": "2025-08-11T10:47:14Z",
+    "sha1": "f8d25719b16a448ee5ccd187071ad1b279dbddd8",
+    "size": 786
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Hunter License",
+        "class_id": "20002",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "There's a group of people called Hunters that persistently pursue precious and rare items. To become a Hunter, one must pass a rigorous examination and obtain a license, which will grant all kinds of privileges.",
+        "fame": "20",
+        "art": "16",
+        "fth": "14",
+        "civ": "30",
+        "tech": "14",
+        "ss1": "Per 1k Power, Snail ATK +3<br>Per 1k Power, Snail DEF +3<br>Power: 40000/40000",
+        "ss2": "Per 1k Power, Snail ATK +3<br>Per 1k Power, Snail DEF +3<br>Power: 40000/40000",
+        "ss3": "Per 1k Power, Snail ATK +3<br>Per 1k Power, Snail DEF +3<br>Power: 40000/40000",
+        "ss4": "Per 1k Power, Snail ATK +3<br>Per 1k Power, Snail DEF +3<br>Power: 40000/40000",
+        "ss7": "Per 1k Power, Snail ATK +3<br>Per 1k Power, Snail DEF +3<br>Power: 40000/40000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hunter_License.wiki",
+  "markdown_path": "markdown/Hunter_License.md"
+}

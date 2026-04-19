@@ -1,0 +1,33 @@
+{
+  "pageid": 3770,
+  "ns": 0,
+  "title": "Boltzmann Brain+Mind Controller",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Boltzmann_Brain%2BMind_Controller",
+  "touched": "2025-08-11T10:44:03Z",
+  "length": 164,
+  "lastrevid": 37929,
+  "revision": {
+    "revid": 37929,
+    "parentid": 18432,
+    "timestamp": "2025-08-11T10:44:03Z",
+    "sha1": "2a822637aca6de0f35dba1418d3a6c2880561704",
+    "size": 164
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "212",
+        "relics": "Boltzmann Brain,Mind Controller",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop RUSH +63"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Boltzmann_Brain_Mind_Controller.wiki",
+  "markdown_path": "markdown/Boltzmann_Brain_Mind_Controller.md"
+}

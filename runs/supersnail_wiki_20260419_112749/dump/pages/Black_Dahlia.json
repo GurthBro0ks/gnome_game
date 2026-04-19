@@ -1,0 +1,29 @@
+{
+  "pageid": 5231,
+  "ns": 0,
+  "title": "Black Dahlia",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Black_Dahlia",
+  "touched": "2025-02-06T19:34:34Z",
+  "length": 518,
+  "lastrevid": 29426,
+  "revision": {
+    "revid": 29426,
+    "parentid": 29425,
+    "timestamp": "2024-09-27T18:31:08Z",
+    "sha1": "4b7a32f1a72a2eaa178d445311e0c92dd2bd896a",
+    "size": 518
+  },
+  "categories": [
+    "ART Shells",
+    "ATK Boost",
+    "Demon Form",
+    "RUSH Boost",
+    "Shells",
+    "Time Rift",
+    "Wind DMG Boost"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Black_Dahlia.wiki",
+  "markdown_path": "markdown/Black_Dahlia.md"
+}

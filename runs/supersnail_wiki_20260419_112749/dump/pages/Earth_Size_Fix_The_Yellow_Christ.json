@@ -1,0 +1,33 @@
+{
+  "pageid": 6339,
+  "ns": 0,
+  "title": "Earth Size Fix+The Yellow Christ",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Earth_Size_Fix%2BThe_Yellow_Christ",
+  "touched": "2025-08-11T11:05:19Z",
+  "length": 207,
+  "lastrevid": 38851,
+  "revision": {
+    "revid": 38851,
+    "parentid": 27046,
+    "timestamp": "2025-08-11T11:05:19Z",
+    "sha1": "147adee801dd2af83c9c2185256bf35097774194",
+    "size": 207
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "850",
+        "relics": "Earth Size Fix,The Yellow Christ",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Incubator Files fully restored, Snail RUSH +21;Files fully restored: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Earth_Size_Fix_The_Yellow_Christ.wiki",
+  "markdown_path": "markdown/Earth_Size_Fix_The_Yellow_Christ.md"
+}

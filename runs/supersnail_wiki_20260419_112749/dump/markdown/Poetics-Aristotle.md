@@ -1,0 +1,6 @@
+|3name=dungeon_event@4626_1|3rec=392.18M|3atk=910126|3defense=515391|3hp=227186518|3weak=68705
+|4name=dungeon_event@4627_1|4rec=494.24M|4atk=1081429|4defense=607207|4hp=385683002|4weak=74758
+|5name=dungeon_event@4628_1|5rec=649.23M|5atk=1431971|5defense=746642|5hp=622004359|5weak=82823
+|6name=dungeon_event@4629_1|6rec=883.97M|6atk=2157650|6defense=997572|6hp=1079072137|6weak=93207
+|Arec=1277.57M|Aatk=3256373|Adefense=1383433|Ahp=1971522090|Aweak=105793
+}}}}

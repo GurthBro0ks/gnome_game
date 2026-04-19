@@ -1,0 +1,67 @@
+{
+  "pageid": 11384,
+  "ns": 0,
+  "title": "Parsia Cards",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Parsia_Cards",
+  "touched": "2025-11-29T23:15:40Z",
+  "length": 8124,
+  "lastrevid": 41807,
+  "revision": {
+    "revid": 41807,
+    "parentid": 39745,
+    "timestamp": "2025-11-29T23:15:40Z",
+    "sha1": "846856ffc44806dde19dee3aa0b0ed2eb9477278",
+    "size": 8124
+  },
+  "categories": [
+    "Missing Info",
+    "Pages using Tabber parser tag",
+    "Pages with broken file links",
+    "Parsia"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "white",
+        "2": "Exploration",
+        "3": "Parsian Pike"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "white",
+        "2": "Exploration",
+        "3": "Parsian Kite Shield"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "green",
+        "2": "Exploration",
+        "3": "Bichaq"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "blue",
+        "2": "Exploration",
+        "3": "War Spikes"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "purple",
+        "2": "Exploration",
+        "3": "Assassin's Gauntlet"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Parsia_Cards.wiki",
+  "markdown_path": "markdown/Parsia_Cards.md"
+}

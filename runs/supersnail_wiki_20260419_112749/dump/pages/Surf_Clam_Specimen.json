@@ -1,0 +1,47 @@
+{
+  "pageid": 3098,
+  "ns": 0,
+  "title": "Surf Clam Specimen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Surf_Clam_Specimen",
+  "touched": "2025-08-11T10:35:17Z",
+  "length": 738,
+  "lastrevid": 37558,
+  "revision": {
+    "revid": 37558,
+    "parentid": 32205,
+    "timestamp": "2025-08-11T10:35:17Z",
+    "sha1": "c679cb168ead54d68e71a8af9487d06416f557cd",
+    "size": 738
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Surf Clam Specimen",
+        "class_id": "20447",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This lifelike specimen is made through splicing captured Surf Clam's soft body and carapace gained in the species war. Although Surf Clam physiology is relatively simple, this highly accurate replica still contributed a lot to the snails' research. Therefore, the researchers have put it in a safe and marked it with bright red paint: No eating the specimen!",
+        "fame": "31",
+        "art": "12",
+        "fth": "18",
+        "civ": "16",
+        "tech": "12",
+        "ss1": "Against Surf Clams, Troop Casualty -1%",
+        "ss2": "Against Surf Clams, Troop Casualty -2%",
+        "ss3": "Against Surf Clams, Troop Casualty -3%",
+        "ss4": "Against Surf Clams, Troop Casualty -3%",
+        "ss7": "Against Surf Clams, Troop Casualty -3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Surf_Clam_Specimen.wiki",
+  "markdown_path": "markdown/Surf_Clam_Specimen.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4915,
+  "ns": 0,
+  "title": "Carmen Lucia Ruby+Isabella",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Carmen_Lucia_Ruby%2BIsabella",
+  "touched": "2025-06-20T00:09:51Z",
+  "length": 140,
+  "lastrevid": 35928,
+  "revision": {
+    "revid": 35928,
+    "parentid": 18344,
+    "timestamp": "2025-06-20T00:09:51Z",
+    "sha1": "9e7b9a037310b25cacb6398e59d988e38f90481d",
+    "size": 140
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "388",
+        "relics": "Carmen Lucia Ruby,Isabella",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Angel Minion RUSH +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Carmen_Lucia_Ruby_Isabella.wiki",
+  "markdown_path": "markdown/Carmen_Lucia_Ruby_Isabella.md"
+}

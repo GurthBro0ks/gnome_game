@@ -1,0 +1,36 @@
+{
+  "pageid": 3667,
+  "ns": 0,
+  "title": "Wealth of Nations+Killing Stone+Observatory+Jade Burial Suit",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wealth_of_Nations%2BKilling_Stone%2BObservatory%2BJade_Burial_Suit",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 299,
+  "lastrevid": 18560,
+  "revision": {
+    "revid": 18560,
+    "parentid": 18331,
+    "timestamp": "2023-11-14T01:12:37Z",
+    "sha1": "ea13935d9f3487a4df38637ee11fb010b241e33c",
+    "size": 299
+  },
+  "categories": [
+    "Enhanced by Relic Points",
+    "HP Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Wealth of Nations,Killing Stone,Observatory,Jade Burial Suit",
+        "rank": "purple",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 2k Relic Points, Snail HP +40<br>Relic Points: 80,000/80,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wealth_of_Nations_Killing_Stone_Observatory_Jade_Burial_Suit.wiki",
+  "markdown_path": "markdown/Wealth_of_Nations_Killing_Stone_Observatory_Jade_Burial_Suit.md"
+}

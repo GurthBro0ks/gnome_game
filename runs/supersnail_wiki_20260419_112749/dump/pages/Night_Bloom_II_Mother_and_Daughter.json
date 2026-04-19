@@ -1,0 +1,33 @@
+{
+  "pageid": 4908,
+  "ns": 0,
+  "title": "Night Bloom II+Mother and Daughter",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Night_Bloom_II%2BMother_and_Daughter",
+  "touched": "2025-06-20T00:10:25Z",
+  "length": 147,
+  "lastrevid": 35942,
+  "revision": {
+    "revid": 35942,
+    "parentid": 18346,
+    "timestamp": "2025-06-20T00:10:25Z",
+    "sha1": "e750f4c6ade572c534ebe0e8d8fb38ebfd6703b6",
+    "size": 147
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "392",
+        "relics": "Night Bloom II,Mother and Daughter",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Demon Minion ATK +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Night_Bloom_II_Mother_and_Daughter.wiki",
+  "markdown_path": "markdown/Night_Bloom_II_Mother_and_Daughter.md"
+}

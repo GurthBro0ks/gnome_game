@@ -1,0 +1,97 @@
+{
+  "pageid": 2826,
+  "ns": 0,
+  "title": "Value Packs",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Value_Packs",
+  "touched": "2025-10-20T06:42:33Z",
+  "length": 30803,
+  "lastrevid": 41436,
+  "revision": {
+    "revid": 41436,
+    "parentid": 41085,
+    "timestamp": "2025-10-16T18:58:15Z",
+    "sha1": "fa086af4ef0255247d1f40e20774d025986c4205",
+    "size": 30803
+  },
+  "categories": [
+    "Missing Info",
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "War",
+        "3": "Shield of Fafnir"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Instrument",
+        "3": "B-Tadpole Sword"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "War",
+        "3": "Spectral Whip"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "War",
+        "3": "Cowhide Boots"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "War",
+        "3": "Crimson Cloak"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "War",
+        "3": "Fang Necklace"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "War",
+        "3": "Raider Armor"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "War",
+        "3": "Commander Armor"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "War",
+        "3": "HULC 01"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Value_Packs.wiki",
+  "markdown_path": "markdown/Value_Packs.md"
+}

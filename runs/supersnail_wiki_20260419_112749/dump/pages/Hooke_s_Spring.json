@@ -1,0 +1,51 @@
+{
+  "pageid": 8804,
+  "ns": 0,
+  "title": "Hooke's Spring",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hooke%27s_Spring",
+  "touched": "2025-06-16T21:00:30Z",
+  "length": 891,
+  "lastrevid": 34785,
+  "revision": {
+    "revid": 34785,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:59:34Z",
+    "sha1": "f4e2adf4659eda72c3622a7f4b5332f633331298",
+    "size": 891
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Pages with broken file links",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Hooke's Spring",
+        "class_id": "22501",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "04-09",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Apr 9, 1676 AD, the spring scale using a helical compression spring was invented.<br>Hooke's law is a fundamental principle of elasticity in mechanics, which states that the force acting on a solid material is proportional to the deformation of the material. Hooke's discovery directly led to the creation of the spring scale, which is the basic tool for measuring force and is still widely used in modern physics laboratories.",
+        "fame": "30",
+        "art": "22",
+        "fth": "32",
+        "civ": "25",
+        "tech": "45",
+        "ss1": "Mecha Minion RUSH +1%",
+        "ss2": "Mecha Minion RUSH +2%",
+        "ss3": "Mecha Minion RUSH +3%",
+        "ss4": "Mecha Minion RUSH +5%",
+        "ss7": "Mecha Minion RUSH +5%<br>Mecha Minion RUSH +5% (Awakened)",
+        "skill1": "[[File:Luckyegg skill I.png|50px]]Place in Lucky Egg: Green rewards from this egg turn Blue by 1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hooke_s_Spring.wiki",
+  "markdown_path": "markdown/Hooke_s_Spring.md"
+}

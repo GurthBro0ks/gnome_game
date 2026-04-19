@@ -1,0 +1,34 @@
+{
+  "pageid": 3312,
+  "ns": 0,
+  "title": "Penicillin Sample+Stela of Djet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Penicillin_Sample%2BStela_of_Djet",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 187,
+  "lastrevid": 12049,
+  "revision": {
+    "revid": 12049,
+    "parentid": 0,
+    "timestamp": "2023-09-13T08:07:42Z",
+    "sha1": "43607eb2385a7efc043fceb37c3852d039e2a5c8",
+    "size": 187
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Penicillin Sample,Stela of Djet",
+        "rank": "blue",
+        "amount": "2",
+        "category": "other",
+        "description": "In any Realm, +2% chance to gain 2x INTEL"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Penicillin_Sample_Stela_of_Djet.wiki",
+  "markdown_path": "markdown/Penicillin_Sample_Stela_of_Djet.md"
+}

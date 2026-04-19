@@ -1,0 +1,47 @@
+{
+  "pageid": 10227,
+  "ns": 0,
+  "title": "Collection@20763 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20763_1",
+  "touched": "2025-08-11T10:43:42Z",
+  "length": 674,
+  "lastrevid": 37914,
+  "revision": {
+    "revid": 37914,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:43:42Z",
+    "sha1": "ad76bd24379e8008d211021dafa631136c7fc5ba",
+    "size": 674
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20763_1",
+        "class_id": "20763",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "collection@20763_2",
+        "fame": "16",
+        "art": "16",
+        "fth": "29",
+        "civ": "15",
+        "tech": "14",
+        "ss1": "Snail Leadership +2<br>Per 20 Lucky Star gained, Snail HP +10<br>Lucky Star Gained: 4500/4500",
+        "ss2": "Snail Leadership +4<br>Per 20 Lucky Star gained, Snail HP +20<br>Lucky Star Gained: 4500/4500",
+        "ss3": "Snail Leadership +6<br>Per 20 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 4500/4500",
+        "ss4": "Snail Leadership +6<br>Per 20 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 4500/4500",
+        "ss7": "Snail Leadership +6<br>Per 20 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 4500/4500<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20763_1.wiki",
+  "markdown_path": "markdown/Collection_20763_1.md"
+}

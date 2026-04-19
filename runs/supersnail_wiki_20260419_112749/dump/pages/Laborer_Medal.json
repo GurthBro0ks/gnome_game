@@ -1,0 +1,47 @@
+{
+  "pageid": 11156,
+  "ns": 0,
+  "title": "Laborer Medal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Laborer_Medal",
+  "touched": "2025-08-11T11:14:27Z",
+  "length": 812,
+  "lastrevid": 39249,
+  "revision": {
+    "revid": 39249,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:14:27Z",
+    "sha1": "350b4335c1891a4f72a6c99ef439803e15a98f4e",
+    "size": 812
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Laborer Medal",
+        "class_id": "20488",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The glorious Laborer Medal was designed to commend builders who made outstanding contributions to a better society. It is due to their hard work that everyone could enjoy a better life, and it was right to commend their effort!",
+        "fame": "31",
+        "art": "14",
+        "fth": "15",
+        "civ": "14",
+        "tech": "16",
+        "ss1": "Snail ATK +20<br>Per 30 Fissure Floors, Snail ATK +1<br>Fissure Floor: 1200/1200",
+        "ss2": "Snail ATK +40<br>Per 30 Fissure Floors, Snail ATK +2<br>Fissure Floor: 1200/1200",
+        "ss3": "Snail ATK +60<br>Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200",
+        "ss4": "Snail ATK +60<br>Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200",
+        "ss7": "Snail ATK +60<br>Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Laborer_Medal.wiki",
+  "markdown_path": "markdown/Laborer_Medal.md"
+}

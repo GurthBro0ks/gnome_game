@@ -1,0 +1,47 @@
+{
+  "pageid": 10915,
+  "ns": 0,
+  "title": "C++: From Hello World to Goodbye Cruel World",
+  "fullurl": "https://supersnail.wiki.gg/wiki/C%2B%2B:_From_Hello_World_to_Goodbye_Cruel_World",
+  "touched": "2025-09-28T10:08:12Z",
+  "length": 949,
+  "lastrevid": 40241,
+  "revision": {
+    "revid": 40241,
+    "parentid": 40240,
+    "timestamp": "2025-09-28T10:08:12Z",
+    "sha1": "b7f004395a18530a40da72a9474f69146ecf0a99",
+    "size": 949
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "C++- From Hello World to Goodbye Cruel World",
+        "class_id": "20853",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The only book where the segmentation faults teach you life lessons! Features:\nMemory leaks that mirror your existential dread\nTemplate metaprogramming to numb your soul\n[404's Notes]\nif (code_works) {dont_touch_it(); } else { blame_python(); }",
+        "fame": "18",
+        "art": "14",
+        "fth": "13",
+        "civ": "16",
+        "tech": "29",
+        "ss1": "Resolver: Mutagen Serum +100<br>Per 1.2k Gaia Tech Pts, Snail HP +10<br>Gaia Tech Pts: 60000/60000",
+        "ss2": "Resolver: Mutagen Serum +200<br>Per 1.2k Gaia Tech Pts, Snail HP +20<br>Gaia Tech Pts: 60000/60000",
+        "ss3": "Resolver: Mutagen Serum +300<br>Per 1.2k Gaia Tech Pts, Snail HP +30<br>Gaia Tech Pts: 60000/60000",
+        "ss4": "Resolver: Mutagen Serum +300<br>Per 1.2k Gaia Tech Pts, Snail HP +30<br>Gaia Tech Pts: 60000/60000",
+        "ss7": "Resolver: Mutagen Serum +300<br>Per 1.2k Gaia Tech Pts, Snail HP +30<br>Gaia Tech Pts: 60000/60000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/C_From_Hello_World_to_Goodbye_Cruel_World.wiki",
+  "markdown_path": "markdown/C_From_Hello_World_to_Goodbye_Cruel_World.md"
+}

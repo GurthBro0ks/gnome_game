@@ -1,0 +1,34 @@
+{
+  "pageid": 3709,
+  "ns": 0,
+  "title": "Era Magazine Vol.1+Epic of Gilgamesh",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Era_Magazine_Vol.1%2BEpic_of_Gilgamesh",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 164,
+  "lastrevid": 13603,
+  "revision": {
+    "revid": 13603,
+    "parentid": 0,
+    "timestamp": "2023-10-01T07:51:34Z",
+    "sha1": "91274f65c9087bce84ae3ab36795b21dfd74a6b4",
+    "size": 164
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Era Magazine Vol.1,Epic of Gilgamesh",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HP +700"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Era_Magazine_Vol.1_Epic_of_Gilgamesh.wiki",
+  "markdown_path": "markdown/Era_Magazine_Vol.1_Epic_of_Gilgamesh.md"
+}

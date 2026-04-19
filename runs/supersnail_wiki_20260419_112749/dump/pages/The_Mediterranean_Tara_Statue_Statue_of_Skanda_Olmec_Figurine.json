@@ -1,0 +1,33 @@
+{
+  "pageid": 9253,
+  "ns": 0,
+  "title": "The Mediterranean+Tara Statue+Statue of Skanda+Olmec Figurine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Mediterranean%2BTara_Statue%2BStatue_of_Skanda%2BOlmec_Figurine",
+  "touched": "2025-06-20T00:15:43Z",
+  "length": 221,
+  "lastrevid": 36074,
+  "revision": {
+    "revid": 36074,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:15:43Z",
+    "sha1": "651998403ac286d13f4736fb7807fda3c47b41eb",
+    "size": 221
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "640",
+        "relics": "The Mediterranean,Tara Statue,Statue of Skanda,Olmec Figurine",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Per Tribal Chief defeated, Snail ATK +7;Tribal Chiefs Defeated: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Mediterranean_Tara_Statue_Statue_of_Skanda_Olmec_Figurine.wiki",
+  "markdown_path": "markdown/The_Mediterranean_Tara_Statue_Statue_of_Skanda_Olmec_Figurine.md"
+}

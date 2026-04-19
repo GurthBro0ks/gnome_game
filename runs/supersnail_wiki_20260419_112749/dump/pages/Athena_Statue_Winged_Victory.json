@@ -1,0 +1,33 @@
+{
+  "pageid": 3718,
+  "ns": 0,
+  "title": "Athena Statue+Winged Victory",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Athena_Statue%2BWinged_Victory",
+  "touched": "2025-07-02T09:43:21Z",
+  "length": 169,
+  "lastrevid": 37083,
+  "revision": {
+    "revid": 37083,
+    "parentid": 13615,
+    "timestamp": "2025-07-02T09:43:21Z",
+    "sha1": "30b846f5c92209ece9af5652529f4c957e97724c",
+    "size": 169
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "191",
+        "relics": "Athena Statue,Winged Victory",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10k Power, Snail ATK +5;Power: 420000/420000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Athena_Statue_Winged_Victory.wiki",
+  "markdown_path": "markdown/Athena_Statue_Winged_Victory.md"
+}

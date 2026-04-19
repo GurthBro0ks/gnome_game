@@ -1,0 +1,34 @@
+{
+  "pageid": 3317,
+  "ns": 0,
+  "title": "Portland Vase+Costa Rica Stone+1982 Wine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Portland_Vase%2BCosta_Rica_Stone%2B1982_Wine",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 203,
+  "lastrevid": 12054,
+  "revision": {
+    "revid": 12054,
+    "parentid": 0,
+    "timestamp": "2023-09-13T08:17:45Z",
+    "sha1": "9f72df89c2aa5df453f541a1f18bf524fb28dacd",
+    "size": 203
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Portland Vase,Costa Rica Stone,1982 Wine",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 1k Power, Snail HP +30<br>Power: 12,000/12,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Portland_Vase_Costa_Rica_Stone_1982_Wine.wiki",
+  "markdown_path": "markdown/Portland_Vase_Costa_Rica_Stone_1982_Wine.md"
+}

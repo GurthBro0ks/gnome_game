@@ -1,0 +1,53 @@
+{
+  "pageid": 1571,
+  "ns": 0,
+  "title": "Horoscope",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Horoscope",
+  "touched": "2024-09-06T09:58:12Z",
+  "length": 1520,
+  "lastrevid": 27620,
+  "revision": {
+    "revid": 27620,
+    "parentid": 17223,
+    "timestamp": "2024-06-01T02:47:53Z",
+    "sha1": "a8b9fab9db1f51ff3b2ddc8c0b89e81f894d4539",
+    "size": 1520
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue FTH Relics",
+    "Blue Relics",
+    "FTH Relics",
+    "Gene Simulation Compass Boost",
+    "HP Boost",
+    "Offering Reward Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Horoscope",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "02-20",
+        "source": "Lottery Machine (0.07%), Nebula Chest (2%), Novice Scrolls (1%), Wishing (2.1%)",
+        "description": "On Feb 20, 1459 BC, the Old Babylonian Empire drew this early astronomical map.\n\nBabylonian priest, Sarikranu, discovered a dazzling star in the west and engraved what he saw on the stone for divination and prophecy. THe prophecy said a holy king would be born in the west. A few years later, traveling merchants from Greece delivered the news that on the day when the star appeared, a new Mycenaean prince was born. His name was Agamemnon. \n\n[Calculation System]\n\nHouse system: Each horoscope sits i …",
+        "fame": "27",
+        "art": "32",
+        "fth": "47",
+        "civ": "29",
+        "tech": "19",
+        "ss1": "Wood rewards from offering +0.4%",
+        "ss2": "Wood rewards from offering +0.8%",
+        "ss3": "Wood rewards from offering +1.2%",
+        "ss4": "Wood rewards from offering +2%",
+        "ss7": "Wood rewards from offering +2%<br>Wood rewards from offering +2% (Awakened)",
+        "skill1": "[[File:Genesim skill I.png|50px]] Place in Gene Sim Device: This Relic's FTH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Horoscope.wiki",
+  "markdown_path": "markdown/Horoscope.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 1147,
+  "ns": 0,
+  "title": "Blower",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Blower",
+  "touched": "2025-08-11T10:51:31Z",
+  "length": 636,
+  "lastrevid": 38257,
+  "revision": {
+    "revid": 38257,
+    "parentid": 29572,
+    "timestamp": "2025-08-11T10:51:31Z",
+    "sha1": "54d7fadbc34272f8c31bb1ec684a86b65354129f",
+    "size": 636
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Blower",
+        "class_id": "20304",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "This pig-head-shaped hair dryer consists of a set of heating coils and a small high-speed fan. When it is turned on, the air from the fan blows through the heated coil to become warm jets. If only the small fan spins and the coil is not hot, it produces only cool air.",
+        "fame": "15",
+        "art": "14",
+        "fth": "17",
+        "civ": "13",
+        "tech": "31",
+        "ss1": "Time Machine Travel Speedup Output +2%",
+        "ss2": "Time Machine Travel Speedup Output +4%",
+        "ss3": "Time Machine Travel Speedup Output +6%",
+        "ss4": "Time Machine Travel Speedup Output +6%",
+        "ss7": "Time Machine Travel Speedup Output +6%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Blower.wiki",
+  "markdown_path": "markdown/Blower.md"
+}

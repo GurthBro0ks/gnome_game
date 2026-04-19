@@ -1,0 +1,33 @@
+{
+  "pageid": 3734,
+  "ns": 0,
+  "title": "Nautilus+Dyson Sphere",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nautilus%2BDyson_Sphere",
+  "touched": "2025-07-02T09:50:01Z",
+  "length": 172,
+  "lastrevid": 37218,
+  "revision": {
+    "revid": 37218,
+    "parentid": 13632,
+    "timestamp": "2025-07-02T09:50:01Z",
+    "sha1": "e3c723bcb7f33c473042a5f9e24b5e77731bb2b5",
+    "size": 172
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "221",
+        "relics": "Nautilus,Dyson Sphere",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Altar God Descent, Snail DEF +14;Gods Descended: 30/30"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nautilus_Dyson_Sphere.wiki",
+  "markdown_path": "markdown/Nautilus_Dyson_Sphere.md"
+}

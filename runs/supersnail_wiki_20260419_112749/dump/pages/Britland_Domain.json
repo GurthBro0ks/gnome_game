@@ -1,0 +1,33 @@
+{
+  "pageid": 5805,
+  "ns": 0,
+  "title": "Britland Domain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Britland_Domain",
+  "touched": "2025-10-28T22:32:19Z",
+  "length": 22849,
+  "lastrevid": 41683,
+  "revision": {
+    "revid": 41683,
+    "parentid": 41682,
+    "timestamp": "2025-10-28T22:32:19Z",
+    "sha1": "05662bbc1960ce15fd33e286900f8163fcd6af07",
+    "size": 22849
+  },
+  "categories": [
+    "Britland Domain",
+    "Pages using Tabber parser tag"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Britland_Domain.wiki",
+  "markdown_path": "markdown/Britland_Domain.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 11031,
+  "ns": 0,
+  "title": "Toad Kung Fu",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Toad_Kung_Fu",
+  "touched": "2025-08-11T11:09:41Z",
+  "length": 415,
+  "lastrevid": 39043,
+  "revision": {
+    "revid": 39043,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:09:41Z",
+    "sha1": "325677334338fb1ee029b9fbc5d39efd86859ad6",
+    "size": 415
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Toad Kung Fu",
+        "class_id": "20995",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "A toad-inspired combat art. Uses reverse breathing to store energy, then explosive release.",
+        "fame": "30",
+        "art": "14",
+        "fth": "18",
+        "civ": "13",
+        "tech": "15",
+        "ss1": "prop@66642_2<br>prop@66642_3",
+        "ss2": "prop@66642_2<br>prop@66642_3",
+        "ss3": "prop@66642_2<br>prop@66642_3",
+        "ss4": "prop@66642_2<br>prop@66642_3",
+        "ss7": "prop@66642_2<br>prop@66642_3<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Toad_Kung_Fu.wiki",
+  "markdown_path": "markdown/Toad_Kung_Fu.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 10018,
+  "ns": 0,
+  "title": "Azoth+Lion-dogs Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Azoth%2BLion-dogs_Statue",
+  "touched": "2025-08-11T10:35:12Z",
+  "length": 135,
+  "lastrevid": 37554,
+  "revision": {
+    "revid": 37554,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:35:12Z",
+    "sha1": "9f7f63654f0a530579a7a2ab9169e4f3107caad0",
+    "size": 135
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "406",
+        "relics": "Azoth,Lion-dogs Statue",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Mecha Minion DEF +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Azoth_Lion-dogs_Statue.wiki",
+  "markdown_path": "markdown/Azoth_Lion-dogs_Statue.md"
+}

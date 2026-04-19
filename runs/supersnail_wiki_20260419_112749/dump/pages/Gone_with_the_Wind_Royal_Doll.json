@@ -1,0 +1,33 @@
+{
+  "pageid": 3303,
+  "ns": 0,
+  "title": "Gone with the Wind+Royal Doll",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gone_with_the_Wind%2BRoyal_Doll",
+  "touched": "2025-08-11T10:40:03Z",
+  "length": 148,
+  "lastrevid": 37757,
+  "revision": {
+    "revid": 37757,
+    "parentid": 12038,
+    "timestamp": "2025-08-11T10:40:03Z",
+    "sha1": "6217597f9a24d5612253044cf36a9c802165f5f4",
+    "size": 148
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "8",
+        "relics": "Gone with the Wind,Royal Doll",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Wood rewards from offering +2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gone_with_the_Wind_Royal_Doll.wiki",
+  "markdown_path": "markdown/Gone_with_the_Wind_Royal_Doll.md"
+}

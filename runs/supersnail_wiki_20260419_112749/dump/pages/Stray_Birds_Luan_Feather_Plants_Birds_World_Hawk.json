@@ -1,0 +1,34 @@
+{
+  "pageid": 4190,
+  "ns": 0,
+  "title": "Stray Birds+Luan Feather+Plants & Birds+World Hawk",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Stray_Birds%2BLuan_Feather%2BPlants_%26_Birds%2BWorld_Hawk",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 198,
+  "lastrevid": 31658,
+  "revision": {
+    "revid": 31658,
+    "parentid": 31657,
+    "timestamp": "2024-11-10T02:58:20Z",
+    "sha1": "d5e9867b3a7da2f39d2f401fe8369e275698fa1f",
+    "size": 198
+  },
+  "categories": [
+    "Egg Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Stray Birds,Luan Feather,Plants & Birds,World Hawk",
+        "rank": "orange",
+        "amount": "4",
+        "category": "Egg Boost",
+        "description": "Egg hatching rate +3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Stray_Birds_Luan_Feather_Plants_Birds_World_Hawk.wiki",
+  "markdown_path": "markdown/Stray_Birds_Luan_Feather_Plants_Birds_World_Hawk.md"
+}

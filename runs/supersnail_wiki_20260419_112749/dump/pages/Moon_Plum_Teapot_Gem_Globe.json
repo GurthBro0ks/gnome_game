@@ -1,0 +1,33 @@
+{
+  "pageid": 4850,
+  "ns": 0,
+  "title": "Moon Plum Teapot+Gem Globe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Moon_Plum_Teapot%2BGem_Globe",
+  "touched": "2025-06-20T00:04:54Z",
+  "length": 152,
+  "lastrevid": 35856,
+  "revision": {
+    "revid": 35856,
+    "parentid": 17455,
+    "timestamp": "2025-06-20T00:04:54Z",
+    "sha1": "cbc65015d812ef1ad1017979323591ea0976498c",
+    "size": 152
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "393",
+        "relics": "Moon Plum Teapot,Gem Globe",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Refine +1 White Gaia Material +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Moon_Plum_Teapot_Gem_Globe.wiki",
+  "markdown_path": "markdown/Moon_Plum_Teapot_Gem_Globe.md"
+}

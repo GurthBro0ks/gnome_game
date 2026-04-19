@@ -1,0 +1,48 @@
+{
+  "pageid": 11266,
+  "ns": 0,
+  "title": "Action Synchronizer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Action_Synchronizer",
+  "touched": "2025-11-08T11:21:38Z",
+  "length": 731,
+  "lastrevid": 41741,
+  "revision": {
+    "revid": 41741,
+    "parentid": 39429,
+    "timestamp": "2025-11-08T11:21:38Z",
+    "sha1": "f55b5db9dcf8203120e0020c97ecb17809f47949",
+    "size": 731
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Action Synchronizer",
+        "class_id": "20850",
+        "rank": "Green",
+        "affct": "TECH",
+        "source": "Club Store",
+        "description": "Precision-engineered for underground mining tragedies! Our patented AI ensures your limbs move in sync... mostly. Whether fighting rocks or your own muscle spasms - at least you'll look coordinated doing it!",
+        "fame": "18",
+        "art": "13",
+        "fth": "14",
+        "civ": "15",
+        "tech": "30",
+        "ss1": "Vanguard Kit gives Resource Gathering SPD +1%<br>Vanguard Kit gives Extra Daily Drills +3",
+        "ss2": "Vanguard Kit gives Resource Gathering SPD +2%<br>Vanguard Kit gives Extra Daily Drills +4",
+        "ss3": "Vanguard Kit gives Resource Gathering SPD +3%<br>Vanguard Kit gives Extra Daily Drills +5",
+        "ss4": "prop@56031_2<br>prop@56032_2",
+        "ss7": "prop@56031_2<br>prop@56032_2<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Action_Synchronizer.wiki",
+  "markdown_path": "markdown/Action_Synchronizer.md"
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 5230,
+  "ns": 0,
+  "title": "Witch's Pot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Witch%27s_Pot",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 389,
+  "lastrevid": 30853,
+  "revision": {
+    "revid": 30853,
+    "parentid": 19304,
+    "timestamp": "2024-10-28T21:40:23Z",
+    "sha1": "c9a07a09cc3bc35580d2406a9efa453c997990db",
+    "size": 389
+  },
+  "categories": [
+    "ATK Boost",
+    "Dragon Form",
+    "FTH Shells",
+    "HP Boost",
+    "Poison DMG Boost",
+    "Shells",
+    "Time Rift"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Witch_s_Pot.wiki",
+  "markdown_path": "markdown/Witch_s_Pot.md"
+}

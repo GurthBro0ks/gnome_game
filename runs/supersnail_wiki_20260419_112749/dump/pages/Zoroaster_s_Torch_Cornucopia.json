@@ -1,0 +1,34 @@
+{
+  "pageid": 3629,
+  "ns": 0,
+  "title": "Zoroaster's Torch+Cornucopia",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Zoroaster%27s_Torch%2BCornucopia",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 181,
+  "lastrevid": 26230,
+  "revision": {
+    "revid": 26230,
+    "parentid": 13211,
+    "timestamp": "2024-05-07T13:29:08Z",
+    "sha1": "061477b27661463409a4efe4a2e174fba31a1f8b",
+    "size": 181
+  },
+  "categories": [
+    "DNA"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Zoroaster's Torch,Cornucopia",
+        "rank": "purple",
+        "amount": "2",
+        "category": "dna",
+        "description": "Angel Gene Research Cells consumed -3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Zoroaster_s_Torch_Cornucopia.wiki",
+  "markdown_path": "markdown/Zoroaster_s_Torch_Cornucopia.md"
+}

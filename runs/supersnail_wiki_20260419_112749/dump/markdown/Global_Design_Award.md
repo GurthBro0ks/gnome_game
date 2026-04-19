@@ -1,0 +1,6 @@
+|3name=Paxia|3rec=185.76M|3atk=502140|3defense=305244|3hp=96917527|3weak=55834
+|4name=Cayley|4rec=231.87M|4atk=599839|4defense=370118|4hp=153109650|4weak=61277
+|5name=Marcel|5rec=335.67M|5atk=742892|5defense=464550|5hp=267129465|5weak=67306
+|6name=Stark|6rec=473.30M|6atk=932356|6defense=588371|6hp=448426840|6weak=73274
+|Arec=649.84M|Aatk=1178109|Adefense=747195|Ahp=673898477|Aweak=79234
+}}}}

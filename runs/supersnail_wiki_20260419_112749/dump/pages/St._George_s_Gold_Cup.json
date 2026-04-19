@@ -1,0 +1,47 @@
+{
+  "pageid": 2728,
+  "ns": 0,
+  "title": "St. George's Gold Cup",
+  "fullurl": "https://supersnail.wiki.gg/wiki/St._George%27s_Gold_Cup",
+  "touched": "2025-08-11T10:41:40Z",
+  "length": 924,
+  "lastrevid": 37825,
+  "revision": {
+    "revid": 37825,
+    "parentid": 30697,
+    "timestamp": "2025-08-11T10:41:40Z",
+    "sha1": "e45e3fbc4d83fcb34deba590343f9403b1f21f03",
+    "size": 924
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "St. George's Gold Cup",
+        "class_id": "20079",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Legend says that St. George used the golden cup he carried to hold the dragon's blood after slaying the dragon. The once ordinary item then gained a magical effect: After being put in the cup for a while, water will turn into an elixir!",
+        "fame": "15",
+        "art": "17",
+        "fth": "10",
+        "civ": "29",
+        "tech": "19",
+        "ss1": "Per Dragon Form Tier, Snail HP +40<br>Per Dragon Form Tier, Snail ATK +4<br>Dragon Form Tiers: 9/9",
+        "ss2": "Per Dragon Form Tier, Snail HP +80<br>Per Dragon Form Tier, Snail ATK +8<br>Dragon Form Tiers: 9/9",
+        "ss3": "Per Dragon Form Tier, Snail HP +120<br>Per Dragon Form Tier, Snail ATK +12<br>Dragon Form Tiers: 9/9",
+        "ss4": "Per Dragon Form Tier, Snail HP +120<br>Per Dragon Form Tier, Snail ATK +12<br>Dragon Form Tiers: 9/9",
+        "ss7": "Per Dragon Form Tier, Snail HP +120<br>Per Dragon Form Tier, Snail ATK +12<br>Dragon Form Tiers: 9/9<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/St._George_s_Gold_Cup.wiki",
+  "markdown_path": "markdown/St._George_s_Gold_Cup.md"
+}

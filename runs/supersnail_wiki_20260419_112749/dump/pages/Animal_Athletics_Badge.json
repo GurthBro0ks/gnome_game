@@ -1,0 +1,47 @@
+{
+  "pageid": 10293,
+  "ns": 0,
+  "title": "Animal Athletics Badge",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Animal_Athletics_Badge",
+  "touched": "2025-08-11T10:45:54Z",
+  "length": 781,
+  "lastrevid": 38010,
+  "revision": {
+    "revid": 38010,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:45:54Z",
+    "sha1": "d41568aacad8376ffe760e9bdba693a38e547c3a",
+    "size": 781
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Animal Athletics Badge",
+        "class_id": "20497",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This badge is awarded by the Animal Athletics Association for young animal trainers. It not only symbolizes the association's recognition of their training skills but also provides conveniences such as free access to association facilities for the badge holders!",
+        "fame": "31",
+        "art": "14",
+        "fth": "15",
+        "civ": "14",
+        "tech": "16",
+        "ss1": "Per Apostle dominated, Snail RUSH +1<br>Apostles Dominated: 40/40",
+        "ss2": "Per Apostle dominated, Snail RUSH +2<br>Apostles Dominated: 40/40",
+        "ss3": "Per Apostle dominated, Snail RUSH +3<br>Apostles Dominated: 40/40",
+        "ss4": "Per Apostle dominated, Snail RUSH +3<br>Apostles Dominated: 40/40",
+        "ss7": "Per Apostle dominated, Snail RUSH +3<br>Apostles Dominated: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Animal_Athletics_Badge.wiki",
+  "markdown_path": "markdown/Animal_Athletics_Badge.md"
+}

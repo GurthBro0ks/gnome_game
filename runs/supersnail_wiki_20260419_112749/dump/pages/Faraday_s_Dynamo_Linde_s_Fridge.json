@@ -1,0 +1,33 @@
+{
+  "pageid": 3295,
+  "ns": 0,
+  "title": "Faraday's Dynamo+Linde's Fridge",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Faraday%27s_Dynamo%2BLinde%27s_Fridge",
+  "touched": "2025-08-11T10:41:49Z",
+  "length": 148,
+  "lastrevid": 37831,
+  "revision": {
+    "revid": 37831,
+    "parentid": 12030,
+    "timestamp": "2025-08-11T10:41:49Z",
+    "sha1": "a300d61d2d394a88c6bacdf5d2beaf9f048db017",
+    "size": 148
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "33",
+        "relics": "Faraday's Dynamo,Linde's Fridge",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Angel Gene Research SPD +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Faraday_s_Dynamo_Linde_s_Fridge.wiki",
+  "markdown_path": "markdown/Faraday_s_Dynamo_Linde_s_Fridge.md"
+}

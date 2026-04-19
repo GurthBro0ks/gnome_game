@@ -1,0 +1,33 @@
+{
+  "pageid": 4558,
+  "ns": 0,
+  "title": "Instant Noodle Recipe+Appert's Glass Bottle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Instant_Noodle_Recipe%2BAppert%27s_Glass_Bottle",
+  "touched": "2025-06-20T00:00:47Z",
+  "length": 165,
+  "lastrevid": 35762,
+  "revision": {
+    "revid": 35762,
+    "parentid": 18450,
+    "timestamp": "2025-06-20T00:00:47Z",
+    "sha1": "da636323715205cc5d20e58ee02c7a295d74e417",
+    "size": 165
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "302",
+        "relics": "Instant Noodle Recipe,Appert's Glass Bottle",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Free Gene Speedup (Zombie) +30m"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Instant_Noodle_Recipe_Appert_s_Glass_Bottle.wiki",
+  "markdown_path": "markdown/Instant_Noodle_Recipe_Appert_s_Glass_Bottle.md"
+}

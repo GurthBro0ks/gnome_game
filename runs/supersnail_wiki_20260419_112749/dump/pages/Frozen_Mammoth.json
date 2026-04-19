@@ -1,0 +1,47 @@
+{
+  "pageid": 1694,
+  "ns": 0,
+  "title": "Frozen Mammoth",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Frozen_Mammoth",
+  "touched": "2025-08-11T10:52:32Z",
+  "length": 742,
+  "lastrevid": 38300,
+  "revision": {
+    "revid": 38300,
+    "parentid": 26843,
+    "timestamp": "2025-08-11T10:52:32Z",
+    "sha1": "479afcab696206ec65e0a890d605dccbacb6fd62",
+    "size": 742
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Frozen Mammoth",
+        "class_id": "20072",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This majestic mammoth didn't survive the harsh Ice Age! To pay homage to the giant beast at the top of the prehistoric food chain, the dev team unearthed it from the Siberian wilderness and placed it as an Easter egg in the mini-game Civilization Boom!",
+        "fame": "15",
+        "art": "16",
+        "fth": "16",
+        "civ": "31",
+        "tech": "12",
+        "ss1": "Per Mutant Form Tier, Snail HP +100<br>Mutant Form Tiers: 9/9",
+        "ss2": "Per Mutant Form Tier, Snail HP +200<br>Mutant Form Tiers: 9/9",
+        "ss3": "Per Mutant Form Tier, Snail HP +300<br>Mutant Form Tiers: 9/9",
+        "ss4": "Per Mutant Form Tier, Snail HP +300<br>Mutant Form Tiers: 9/9",
+        "ss7": "Per Mutant Form Tier, Snail HP +300<br>Mutant Form Tiers: 9/9<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Frozen_Mammoth.wiki",
+  "markdown_path": "markdown/Frozen_Mammoth.md"
+}

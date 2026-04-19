@@ -1,0 +1,33 @@
+{
+  "pageid": 3281,
+  "ns": 0,
+  "title": "Matsushima Pot+Basse Yutz Flagons",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Matsushima_Pot%2BBasse_Yutz_Flagons",
+  "touched": "2025-06-20T00:12:33Z",
+  "length": 137,
+  "lastrevid": 35961,
+  "revision": {
+    "revid": 35961,
+    "parentid": 11951,
+    "timestamp": "2025-06-20T00:12:33Z",
+    "sha1": "d6068dac76a30de364675f1ec6baa35a275b5d8c",
+    "size": 137
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "335",
+        "relics": "Matsushima Pot,Basse Yutz Flagons",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HP +500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Matsushima_Pot_Basse_Yutz_Flagons.wiki",
+  "markdown_path": "markdown/Matsushima_Pot_Basse_Yutz_Flagons.md"
+}

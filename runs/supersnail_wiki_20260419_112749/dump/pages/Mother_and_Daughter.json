@@ -1,0 +1,52 @@
+{
+  "pageid": 2671,
+  "ns": 0,
+  "title": "Mother and Daughter",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mother_and_Daughter",
+  "touched": "2025-06-16T23:18:27Z",
+  "length": 1567,
+  "lastrevid": 35157,
+  "revision": {
+    "revid": 35157,
+    "parentid": 28751,
+    "timestamp": "2025-06-16T23:18:27Z",
+    "sha1": "630a65cb8a6f481d590ba274347a4efb468d53e3",
+    "size": 1567
+  },
+  "categories": [
+    "ART Relics",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mother and Daughter",
+        "class_id": "22133",
+        "rank": "AA",
+        "affct": "ART",
+        "birthday": "05-03",
+        "source": "Lottery Machine No.2 (0.12%), Wishing (0.03%)",
+        "description": "On May 3, 630 AD, Songtsan Gampo used his own blood to paint the auspicious Mother and Daughter thangka.<br>This thangka belongs to Songtsen Gampo. According to the records, Songtsan Gampo drew the auspicious Mother and Daughter Statue with his blood in a dream. And this drawing is considered to be the earliest thangka. Later, thangkas all had religious themes. Due to the use of precious minerals and plants as pigments, painted thangkas can still maintain their bright color even after a hundred  …",
+        "fame": "28",
+        "art": "68",
+        "fth": "43",
+        "civ": "47",
+        "tech": "42",
+        "ss1": "Mutant Minion DEF +2%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +16%",
+        "ss2": "Mutant Minion DEF +3%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +24%",
+        "ss3": "Mutant Minion DEF +4%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +32%",
+        "ss4": "Mutant Minion DEF +6%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +48%",
+        "ss5": "Mutant Minion DEF +8%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +64%",
+        "ss7": "Mutant Minion DEF +8%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +64%<br>In the Rebel Rocket Cabin:<br>> Dark Matter Reactor Base Effect +56% (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Demon Cells gained +7.5%",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's ART +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mother_and_Daughter.wiki",
+  "markdown_path": "markdown/Mother_and_Daughter.md"
+}

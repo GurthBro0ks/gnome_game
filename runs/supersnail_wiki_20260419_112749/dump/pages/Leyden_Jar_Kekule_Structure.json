@@ -1,0 +1,33 @@
+{
+  "pageid": 4974,
+  "ns": 0,
+  "title": "Leyden Jar+Kekule Structure",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Leyden_Jar%2BKekule_Structure",
+  "touched": "2025-06-19T23:54:54Z",
+  "length": 133,
+  "lastrevid": 35696,
+  "revision": {
+    "revid": 35696,
+    "parentid": 18528,
+    "timestamp": "2025-06-19T23:54:54Z",
+    "sha1": "4fa252becc8854900d829ba524b1b6f4bc68c526",
+    "size": 133
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "418",
+        "relics": "Leyden Jar,Kekule Structure",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Leyden_Jar_Kekule_Structure.wiki",
+  "markdown_path": "markdown/Leyden_Jar_Kekule_Structure.md"
+}

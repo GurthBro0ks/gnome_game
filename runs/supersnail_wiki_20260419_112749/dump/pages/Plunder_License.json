@@ -1,0 +1,47 @@
+{
+  "pageid": 2157,
+  "ns": 0,
+  "title": "Plunder License",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Plunder_License",
+  "touched": "2025-08-11T10:44:14Z",
+  "length": 668,
+  "lastrevid": 37938,
+  "revision": {
+    "revid": 37938,
+    "parentid": 21494,
+    "timestamp": "2025-08-11T10:44:14Z",
+    "sha1": "e27a948c0d11cde1e88a18633e5b4529a1709c38",
+    "size": 668
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Plunder License",
+        "class_id": "20046",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The Plunder License was a government license that authorizes individuals to attack or plunder ships of other nations. They were used to legalize mistakes made by private individuals in order to make them fight wars for their country by any means necessary!",
+        "fame": "30",
+        "art": "17",
+        "fth": "13",
+        "civ": "16",
+        "tech": "15",
+        "ss1": "In explorations, INTEL gained per victory +30",
+        "ss2": "In explorations, INTEL gained per victory +30",
+        "ss3": "In explorations, INTEL gained per victory +30",
+        "ss4": "In explorations, INTEL gained per victory +30",
+        "ss7": "In explorations, INTEL gained per victory +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Plunder_License.wiki",
+  "markdown_path": "markdown/Plunder_License.md"
+}

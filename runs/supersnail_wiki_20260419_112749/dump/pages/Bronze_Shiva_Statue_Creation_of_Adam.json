@@ -1,0 +1,33 @@
+{
+  "pageid": 4059,
+  "ns": 0,
+  "title": "Bronze Shiva Statue+Creation of Adam",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bronze_Shiva_Statue%2BCreation_of_Adam",
+  "touched": "2025-08-11T10:53:14Z",
+  "length": 168,
+  "lastrevid": 38330,
+  "revision": {
+    "revid": 38330,
+    "parentid": 18400,
+    "timestamp": "2025-08-11T10:53:14Z",
+    "sha1": "81347c924ba5dab898325b5bf1663425d818b34e",
+    "size": 168
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "197",
+        "relics": "Bronze Shiva Statue,Creation of Adam",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop ATK +63"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bronze_Shiva_Statue_Creation_of_Adam.wiki",
+  "markdown_path": "markdown/Bronze_Shiva_Statue_Creation_of_Adam.md"
+}

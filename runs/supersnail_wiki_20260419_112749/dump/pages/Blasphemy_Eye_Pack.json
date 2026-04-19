@@ -1,0 +1,32 @@
+{
+  "pageid": 7146,
+  "ns": 0,
+  "title": "Blasphemy Eye Pack",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Blasphemy_Eye_Pack",
+  "touched": "2024-11-16T01:42:18Z",
+  "length": 358,
+  "lastrevid": 30800,
+  "revision": {
+    "revid": 30800,
+    "parentid": 30236,
+    "timestamp": "2024-10-28T18:52:45Z",
+    "sha1": "872d8e2e8c96befd91e1ae36b09e3669794c5317",
+    "size": 358
+  },
+  "categories": [
+    "Reward Pack"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Blasphemy Eye"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Blasphemy_Eye_Pack.wiki",
+  "markdown_path": "markdown/Blasphemy_Eye_Pack.md"
+}

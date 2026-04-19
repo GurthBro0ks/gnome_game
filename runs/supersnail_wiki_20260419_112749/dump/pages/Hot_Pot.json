@@ -1,0 +1,47 @@
+{
+  "pageid": 5229,
+  "ns": 0,
+  "title": "Hot Pot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hot_Pot",
+  "touched": "2025-08-11T10:53:47Z",
+  "length": 839,
+  "lastrevid": 38354,
+  "revision": {
+    "revid": 38354,
+    "parentid": 19317,
+    "timestamp": "2025-08-11T10:53:47Z",
+    "sha1": "4647f962f55a91fb2205a71c248480dc1f45973d",
+    "size": 839
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Hot Pot",
+        "class_id": "20426",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This hot pot was Killer No.48 before its demise and was known as a Loser League. Demon God fused several previous failed assassins together to make it, but for unknown reasons, he chose hot pot as the vessel. Judging from combat records, this patchwork was obviously another abject failure!",
+        "fame": "28",
+        "art": "14",
+        "fth": "16",
+        "civ": "18",
+        "tech": "14",
+        "ss1": "Per type of food collected, Snail HP +10<br>Types of Food Collected: 60/60",
+        "ss2": "Per type of food collected, Snail HP +20<br>Types of Food Collected: 60/60",
+        "ss3": "Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60",
+        "ss4": "Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60",
+        "ss7": "Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hot_Pot.wiki",
+  "markdown_path": "markdown/Hot_Pot.md"
+}

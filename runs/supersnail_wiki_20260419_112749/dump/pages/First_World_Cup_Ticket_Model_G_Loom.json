@@ -1,0 +1,33 @@
+{
+  "pageid": 4725,
+  "ns": 0,
+  "title": "First World Cup Ticket+Model G Loom",
+  "fullurl": "https://supersnail.wiki.gg/wiki/First_World_Cup_Ticket%2BModel_G_Loom",
+  "touched": "2025-06-20T00:03:17Z",
+  "length": 139,
+  "lastrevid": 35814,
+  "revision": {
+    "revid": 35814,
+    "parentid": 18602,
+    "timestamp": "2025-06-20T00:03:17Z",
+    "sha1": "40e158a653b65d352b8363c9b46da9a5f10218d8",
+    "size": 139
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "306",
+        "relics": "First World Cup Ticket,Model G Loom",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/First_World_Cup_Ticket_Model_G_Loom.wiki",
+  "markdown_path": "markdown/First_World_Cup_Ticket_Model_G_Loom.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 9930,
+  "ns": 0,
+  "title": "Gold Illusion Card",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gold_Illusion_Card",
+  "touched": "2025-08-11T10:31:55Z",
+  "length": 668,
+  "lastrevid": 37405,
+  "revision": {
+    "revid": 37405,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:31:55Z",
+    "sha1": "c80db9f218875d50921f5c193285505a5a5414c3",
+    "size": 668
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gold Illusion Card",
+        "class_id": "20549",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Made of pure gold, the magical card is of great value, even if you don't recognize the exquisite patterns on it, just feel its weight.",
+        "fame": "13",
+        "art": "16",
+        "fth": "15",
+        "civ": "31",
+        "tech": "15",
+        "ss1": "Per Kaleido Valley participation, Snail ATK +3<br>Participated: 40/40",
+        "ss2": "Per Kaleido Valley participation, Snail ATK +6<br>Participated: 40/40",
+        "ss3": "Per Kaleido Valley participation, Snail ATK +9<br>Participated: 40/40",
+        "ss4": "Per Kaleido Valley participation, Snail ATK +9<br>Participated: 40/40",
+        "ss7": "Per Kaleido Valley participation, Snail ATK +9<br>Participated: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gold_Illusion_Card.wiki",
+  "markdown_path": "markdown/Gold_Illusion_Card.md"
+}

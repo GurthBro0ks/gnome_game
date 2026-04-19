@@ -1,0 +1,23 @@
+{
+  "pageid": 3013,
+  "ns": 0,
+  "title": "Snail Shell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Snail_Shell",
+  "touched": "2024-02-23T23:43:25Z",
+  "length": 680,
+  "lastrevid": 22590,
+  "revision": {
+    "revid": 22590,
+    "parentid": 22589,
+    "timestamp": "2024-02-23T23:43:25Z",
+    "sha1": "cae628f4e125daeff78ce31a95f23a20b1703fa8",
+    "size": 680
+  },
+  "categories": [
+    "Shells"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Snail_Shell.wiki",
+  "markdown_path": "markdown/Snail_Shell.md"
+}

@@ -1,0 +1,64 @@
+{
+  "pageid": 1244,
+  "ns": 0,
+  "title": "Lotus Chalice",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lotus_Chalice",
+  "touched": "2024-11-04T01:11:03Z",
+  "length": 2742,
+  "lastrevid": 30038,
+  "revision": {
+    "revid": 30038,
+    "parentid": 26071,
+    "timestamp": "2024-10-15T15:41:37Z",
+    "sha1": "2e70ea8ff05ed64c92f3454357afd24db092217a",
+    "size": 2742
+  },
+  "categories": [
+    "ART Relics",
+    "ATK Boost",
+    "HP Boost",
+    "Koryeon Snail Boost",
+    "Lottery Bead Color Change",
+    "Orange ART Relics",
+    "Orange Relics",
+    "Realm Boost",
+    "Relics",
+    "Rewards Wish Coin",
+    "Tadpole Pond Output Boost",
+    "Tadpole Pond Skill",
+    "Tadpole Pond W-Tad Output Boost",
+    "Time Machine Output Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Lotus Chalice",
+        "rank": "SSS",
+        "affct": "ART",
+        "birthday": "12-29",
+        "source": "Grandmaster Scrolls (0.81%), Kemetic Treasure Chests (0.01%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.08%)",
+        "description": "On Dec 29, 1922 AD, this chalice, created by Pharaoh for the gods, fulfilled one last wish. \n\nHoward, an archaeologist from Britain, devoted his life to exploring the tombs of Egyptian pharaohs. His life goal was to find the largest tomb. When he entered the pharaoh's tomb, there was an alabaster cup at the center of the hall. Howard picked up the cup and red the text inscribed on the inner edge, \"If you turn and face the northern wind, you will attain happiness for years to come.\" Over the year …",
+        "fame": "58",
+        "art": "107",
+        "fth": "66",
+        "civ": "67",
+        "tech": "64",
+        "ss1": "Lottery Blue Beads turn to Purple by +0.6%<br>Per 20 Purple Beads drawn, Snail HP +60<br>Per 20 Purple Beads drawn, Snail ATK +6<br> Purple Beads Drawn: 300/300",
+        "ss2": "Lottery Blue Beads turn to Purple by +0.8%<br>Per 20 Purple Beads drawn, Snail HP +80<br>Per 20 Purple Beads drawn, Snail ATK +8<br> Purple Beads Drawn: 300/300",
+        "ss3": "Lottery Blue Beads turn to Purple by +1%<br>Per 20 Purple Beads drawn, Snail HP +100<br>Per 20 Purple Beads drawn, Snail ATK +10<br> Purple Beads Drawn: 300/300",
+        "ss4": "Lottery Blue Beads turn to Purple by +1.4%<br>Per 20 Purple Beads drawn, Snail HP +140<br>Per 20 Purple Beads drawn, Snail ATK +14<br> Purple Beads Drawn: 300/300",
+        "ss5": "Lottery Blue Beads turn to Purple by +1.8%<br>Per 20 Purple Beads drawn, Snail HP +180<br>Per 20 Purple Beads drawn, Snail ATK +18<br> Purple Beads Drawn: 300/300",
+        "ss6": "Lottery Blue Beads turn to Purple by +2.4%<br>Per 20 Purple Beads drawn, Snail HP +240<br>Per 20 Purple Beads drawn, Snail ATK +24<br> Purple Beads Drawn: 300/300",
+        "ss7": "Lottery Blue Beads turn to Purple by +2.4%<br>Per 20 Purple Beads drawn, Snail HP +240<br>Per 20 Purple Beads drawn, Snail ATK +24<br> Purple Beads Drawn: 300/300<br>Lottery Blue Beads turn to Purple by +1% (Awakened)",
+        "skill1": "[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: B-tad Output +30%",
+        "skill2": "[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Max Cap +30%",
+        "skill3": "[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Generate W-tads by +30%",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lotus_Chalice.wiki",
+  "markdown_path": "markdown/Lotus_Chalice.md"
+}

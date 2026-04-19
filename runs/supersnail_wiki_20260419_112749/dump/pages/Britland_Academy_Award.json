@@ -1,0 +1,47 @@
+{
+  "pageid": 2297,
+  "ns": 0,
+  "title": "Britland Academy Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Britland_Academy_Award",
+  "touched": "2025-08-11T11:13:52Z",
+  "length": 736,
+  "lastrevid": 39224,
+  "revision": {
+    "revid": 39224,
+    "parentid": 25154,
+    "timestamp": "2025-08-11T11:13:52Z",
+    "sha1": "57e984af7a80ebe5669ece05bc69d53c91676e7e",
+    "size": 736
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Britland Academy Award",
+        "class_id": "20068",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The award was originally given by the Britland Film Academy to domestic and foreign films performed by actors and actresses from Britland. However, in recent years, any film officially released in Britland can also be nominated, and the award became available to films from all over the world.",
+        "fame": "12",
+        "art": "15",
+        "fth": "18",
+        "civ": "30",
+        "tech": "15",
+        "ss1": "Per 10 Minions in battle:<br>> Troop HARD Stats +1",
+        "ss2": "Per 10 Minions in battle:<br>> Troop HARD Stats +2",
+        "ss3": "Per 10 Minions in battle:<br>> Troop HARD Stats +3",
+        "ss4": "Per 10 Minions in battle:<br>> Troop HARD Stats +3",
+        "ss7": "Per 10 Minions in battle:<br>> Troop HARD Stats +3<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Britland_Academy_Award.wiki",
+  "markdown_path": "markdown/Britland_Academy_Award.md"
+}

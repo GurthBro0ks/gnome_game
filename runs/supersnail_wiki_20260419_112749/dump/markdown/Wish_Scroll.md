@@ -1,0 +1,13 @@
+6000 W-Tads
+|description=Fate's mercy wove a mortal's lost soul into parchment - write in blood, and desires manifest. But beware: every granted wish is a gamble with destiny, for all gifts come with a hidden price.
+|fame=30
+|art=15
+|fth=15
+|civ=15
+|tech=15
+|ss1=Snail ATK +20<br>Unlock RNG TEst, daily test attempts +1<br>Unlock Blue Wish Reward
+|ss2=Snail ATK +40<br>Unlock RNG TEst, daily test attempts +1<br>Unlock Blue Wish Reward
+|ss3=Snail ATK +60<br>Unlock RNG TEst, daily test attempts +1<br>Unlock Blue Wish Reward
+|ss4=Snail ATK +60<br>Unlock RNG TEst, daily test attempts +1<br>Unlock Blue Wish Reward
+|ss7=Snail ATK +60<br>Unlock RNG TEst, daily test attempts +1<br>Unlock Blue Wish Reward<br> (Awakened)
+}}

@@ -1,0 +1,33 @@
+{
+  "pageid": 8911,
+  "ns": 0,
+  "title": "The Kiss+Veiled Lady+Hevelius Chart",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Kiss%2BVeiled_Lady%2BHevelius_Chart",
+  "touched": "2025-06-20T00:01:30Z",
+  "length": 191,
+  "lastrevid": 35791,
+  "revision": {
+    "revid": 35791,
+    "parentid": 34978,
+    "timestamp": "2025-06-20T00:01:30Z",
+    "sha1": "fdf6efb0ef85eb73e44da1f643c995167d32d0e8",
+    "size": 191
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "531",
+        "relics": "The Kiss,Veiled Lady,Hevelius Chart",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "In the Rebel Rocket Cabin: Anti-Gravity Device Base Effect +64%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Kiss_Veiled_Lady_Hevelius_Chart.wiki",
+  "markdown_path": "markdown/The_Kiss_Veiled_Lady_Hevelius_Chart.md"
+}

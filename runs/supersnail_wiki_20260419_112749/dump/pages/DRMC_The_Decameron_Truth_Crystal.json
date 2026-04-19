@@ -1,0 +1,34 @@
+{
+  "pageid": 3657,
+  "ns": 0,
+  "title": "DRMC+The Decameron+Truth Crystal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/DRMC%2BThe_Decameron%2BTruth_Crystal",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 160,
+  "lastrevid": 13260,
+  "revision": {
+    "revid": 13260,
+    "parentid": 0,
+    "timestamp": "2023-09-23T20:44:43Z",
+    "sha1": "bd1868d6ce7139398bd7afbcb1a732381ee6dcf5",
+    "size": 160
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "DRMC,The Decameron,Truth Crystal",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Snail ATK +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/DRMC_The_Decameron_Truth_Crystal.wiki",
+  "markdown_path": "markdown/DRMC_The_Decameron_Truth_Crystal.md"
+}

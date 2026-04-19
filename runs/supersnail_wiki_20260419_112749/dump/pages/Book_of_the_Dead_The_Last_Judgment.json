@@ -1,0 +1,33 @@
+{
+  "pageid": 9767,
+  "ns": 0,
+  "title": "Book of the Dead+The Last Judgment",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Book_of_the_Dead%2BThe_Last_Judgment",
+  "touched": "2025-07-02T09:41:47Z",
+  "length": 183,
+  "lastrevid": 37021,
+  "revision": {
+    "revid": 37021,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:41:47Z",
+    "sha1": "045a5c7d69783db4604fb19f5314f9595dd40512",
+    "size": 183
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "502",
+        "relics": "Book of the Dead,The Last Judgment",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Divinations, Snail ATK +21;Divinations: 1200/1200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Book_of_the_Dead_The_Last_Judgment.wiki",
+  "markdown_path": "markdown/Book_of_the_Dead_The_Last_Judgment.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 6597,
+  "ns": 0,
+  "title": "Golden Horse Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Horse_Award",
+  "touched": "2025-08-11T11:17:00Z",
+  "length": 796,
+  "lastrevid": 39360,
+  "revision": {
+    "revid": 39360,
+    "parentid": 26977,
+    "timestamp": "2025-08-11T11:17:00Z",
+    "sha1": "b06d335183e666f422e58a11f4ebd1bef760175b",
+    "size": 796
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Golden Horse Award",
+        "class_id": "20089",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The Golden Horse Award is the most prestigious honor bestowed by the Pan-African Film Festival of Ouagadougou. Its goal is to foster the African film industry, promote indigenous film culture, and showcase African cinema to the world.",
+        "fame": "16",
+        "art": "15",
+        "fth": "13",
+        "civ": "30",
+        "tech": "16",
+        "ss1": "Per Rift Apostle dominated, Snail ATK +6<br>Rift Apostles Dominated: 40/40",
+        "ss2": "Per Rift Apostle dominated, Snail ATK +8<br>Rift Apostles Dominated: 40/40",
+        "ss3": "Per Rift Apostle dominated, Snail ATK +10<br>Rift Apostles Dominated: 40/40",
+        "ss4": "Per Rift Apostle dominated, Snail ATK +10<br>Rift Apostles Dominated: 40/40",
+        "ss7": "Per Rift Apostle dominated, Snail ATK +10<br>Rift Apostles Dominated: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Horse_Award.wiki",
+  "markdown_path": "markdown/Golden_Horse_Award.md"
+}

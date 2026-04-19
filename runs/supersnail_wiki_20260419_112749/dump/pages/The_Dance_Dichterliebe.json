@@ -1,0 +1,33 @@
+{
+  "pageid": 8506,
+  "ns": 0,
+  "title": "The Dance+Dichterliebe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Dance%2BDichterliebe",
+  "touched": "2025-06-20T00:13:53Z",
+  "length": 129,
+  "lastrevid": 36005,
+  "revision": {
+    "revid": 36005,
+    "parentid": 34390,
+    "timestamp": "2025-06-20T00:13:53Z",
+    "sha1": "423253c0c6f90a2738d0c865e506b5639d36f0ce",
+    "size": 129
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "683",
+        "relics": "The Dance,Dichterliebe",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail RUSH +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Dance_Dichterliebe.wiki",
+  "markdown_path": "markdown/The_Dance_Dichterliebe.md"
+}

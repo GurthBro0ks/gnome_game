@@ -1,0 +1,29 @@
+{
+  "pageid": 3141,
+  "ns": 0,
+  "title": "Nesting Doll",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nesting_Doll",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 318,
+  "lastrevid": 20133,
+  "revision": {
+    "revid": 20133,
+    "parentid": 12414,
+    "timestamp": "2023-12-06T01:45:01Z",
+    "sha1": "6a411430a5510ade227dc229a0550fd486686bff",
+    "size": 318
+  },
+  "categories": [
+    "CIV Shells",
+    "DEF Boost",
+    "HP Boost",
+    "Hellas",
+    "Mutant Form",
+    "Shells",
+    "Water DMG Boost"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Nesting_Doll.wiki",
+  "markdown_path": "markdown/Nesting_Doll.md"
+}

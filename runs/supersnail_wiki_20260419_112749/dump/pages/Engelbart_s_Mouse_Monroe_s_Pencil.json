@@ -1,0 +1,33 @@
+{
+  "pageid": 4712,
+  "ns": 0,
+  "title": "Engelbart's Mouse+Monroe's Pencil",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Engelbart%27s_Mouse%2BMonroe%27s_Pencil",
+  "touched": "2025-06-19T23:59:09Z",
+  "length": 188,
+  "lastrevid": 35721,
+  "revision": {
+    "revid": 35721,
+    "parentid": 18573,
+    "timestamp": "2025-06-19T23:59:09Z",
+    "sha1": "95f095152ae26a02443799454667b079c30258ba",
+    "size": 188
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "300",
+        "relics": "Engelbart's Mouse,Monroe's Pencil",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Wormhole Refines, Snail RUSH +5;Wormhole Refines: 500/500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Engelbart_s_Mouse_Monroe_s_Pencil.wiki",
+  "markdown_path": "markdown/Engelbart_s_Mouse_Monroe_s_Pencil.md"
+}

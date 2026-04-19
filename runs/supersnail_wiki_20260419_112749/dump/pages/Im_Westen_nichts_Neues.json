@@ -1,0 +1,52 @@
+{
+  "pageid": 10913,
+  "ns": 0,
+  "title": "Im Westen nichts Neues",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Im_Westen_nichts_Neues",
+  "touched": "2025-08-11T11:05:28Z",
+  "length": 2213,
+  "lastrevid": 38858,
+  "revision": {
+    "revid": 38858,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:05:28Z",
+    "sha1": "67f496627714f66b449151ccc981929710fc0c09",
+    "size": 2213
+  },
+  "categories": [
+    "FAME Relics",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Im Westen nichts Neues",
+        "class_id": "22796",
+        "rank": "SSS",
+        "affct": "FAME",
+        "description": "A novel by German writer Erich Maria Remarque, portraying the harsh reality of war through the experiences of the protagonist, Paul, and his comrades. Those who once had high hopes of serving their country and gaining honor on the battlefield gradually understand the cruelty of war after experiencing fear, death, and despair. Through the eyes of these ordinary soldiers, the author reveals the true nature of war, prompting readers to reflect on its terrible consequences and calling for humanity a …",
+        "fame": "108",
+        "art": "56",
+        "fth": "54",
+        "civ": "71",
+        "tech": "73",
+        "ss1": "Snail Leadership +3<br>Weekly combat supplies, Legion Coins +15<br>For every 3 levels of Base Station cleared, Snail ATK +3<br>Base Station LVLs Cleared: 150/150",
+        "ss2": "Snail Leadership +4<br>Weekly combat supplies, Legion Coins +20<br>For every 3 levels of Base Station cleared, Snail ATK +4<br>Base Station LVLs Cleared: 150/150",
+        "ss3": "Snail Leadership +5<br>Weekly combat supplies, Legion Coins +25<br>For every 3 levels of Base Station cleared, Snail ATK +5<br>Base Station LVLs Cleared: 150/150",
+        "ss4": "Snail Leadership +7<br>Weekly combat supplies, Legion Coins +35<br>For every 3 levels of Base Station cleared, Snail ATK +7<br>Base Station LVLs Cleared: 150/150",
+        "ss5": "Snail Leadership +9<br>Weekly combat supplies, Legion Coins +45<br>For every 3 levels of Base Station cleared, Snail ATK +9<br>Base Station LVLs Cleared: 150/150",
+        "ss6": "Snail Leadership +12<br>Weekly combat supplies, Legion Coins +60<br>For every 3 levels of Base Station cleared, Snail ATK +12<br>Base Station LVLs Cleared: 150/150",
+        "ss7": "Snail Leadership +12<br>Weekly combat supplies, Legion Coins +60<br>For every 3 levels of Base Station cleared, Snail ATK +12<br>Base Station LVLs Cleared: 150/150<br>Weekly combat supplies, Legion Coins +50 (Awakened)",
+        "skill1": "[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, Snail HP +6000",
+        "skill2": "[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: This Relic's FAME +15",
+        "skill3": "[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: B-tad output +3000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Im_Westen_nichts_Neues.wiki",
+  "markdown_path": "markdown/Im_Westen_nichts_Neues.md"
+}

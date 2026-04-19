@@ -1,0 +1,47 @@
+{
+  "pageid": 9962,
+  "ns": 0,
+  "title": "Yayoi's Light",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Yayoi%27s_Light",
+  "touched": "2025-08-11T10:33:12Z",
+  "length": 801,
+  "lastrevid": 37461,
+  "revision": {
+    "revid": 37461,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:33:12Z",
+    "sha1": "93f07e171bf10474003d614100cfef6743c50c1b",
+    "size": 801
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Yayoi's Light",
+        "class_id": "20550",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The third principle of the natural cycle: The best time to sow hope and work hard is when all things revive, striving for a bountiful harvest in autumn!",
+        "fame": "12",
+        "art": "15",
+        "fth": "14",
+        "civ": "33",
+        "tech": "16",
+        "ss1": "Snail Leadership +2<br>Per 10 Lucky Star gained, Snail ATK +1<br>Lucky Star Gained: 2400/2400",
+        "ss2": "Snail Leadership +4<br>Per 10 Lucky Star gained, Snail ATK +2<br>Lucky Star Gained: 2400/2400",
+        "ss3": "Snail Leadership +6<br>Per 10 Lucky Star gained, Snail ATK +3<br>Lucky Star Gained: 2400/2400",
+        "ss4": "Snail Leadership +6<br>Per 10 Lucky Star gained, Snail ATK +3<br>Lucky Star Gained: 2400/2400",
+        "ss7": "Snail Leadership +6<br>Per 10 Lucky Star gained, Snail ATK +3<br>Lucky Star Gained: 2400/2400<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Yayoi_s_Light.wiki",
+  "markdown_path": "markdown/Yayoi_s_Light.md"
+}

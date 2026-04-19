@@ -1,0 +1,47 @@
+{
+  "pageid": 10519,
+  "ns": 0,
+  "title": "Lunar Spirit Stone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lunar_Spirit_Stone",
+  "touched": "2025-08-11T10:53:22Z",
+  "length": 744,
+  "lastrevid": 38337,
+  "revision": {
+    "revid": 38337,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:53:22Z",
+    "sha1": "73cf6eee665d4fe6ad937388e06c955b76e3329f",
+    "size": 744
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Lunar Spirit Stone",
+        "class_id": "20631",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "A wondrous ore with a colorful luster, capable of absorbing and converting the energy released during the crystallization process into various valuable substances. It is a rare treasure in the Moon Palace.",
+        "fame": "16",
+        "art": "30",
+        "fth": "17",
+        "civ": "16",
+        "tech": "16",
+        "ss1": "Per 5 Mirage Gems gained, Snail RUSH +1<br>Mirage Gems Gained: 200/200",
+        "ss2": "Per 5 Mirage Gems gained, Snail RUSH +2<br>Mirage Gems Gained: 200/200",
+        "ss3": "Per 5 Mirage Gems gained, Snail RUSH +3<br>Mirage Gems Gained: 200/200",
+        "ss4": "Per 5 Mirage Gems gained, Snail RUSH +3<br>Mirage Gems Gained: 200/200",
+        "ss7": "Per 5 Mirage Gems gained, Snail RUSH +3<br>Mirage Gems Gained: 200/200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lunar_Spirit_Stone.wiki",
+  "markdown_path": "markdown/Lunar_Spirit_Stone.md"
+}

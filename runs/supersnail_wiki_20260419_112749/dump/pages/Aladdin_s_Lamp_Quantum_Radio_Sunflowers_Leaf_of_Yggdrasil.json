@@ -1,0 +1,36 @@
+{
+  "pageid": 3813,
+  "ns": 0,
+  "title": "Aladdin's Lamp+Quantum Radio+Sunflowers+Leaf of Yggdrasil",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Aladdin%27s_Lamp%2BQuantum_Radio%2BSunflowers%2BLeaf_of_Yggdrasil",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 265,
+  "lastrevid": 27789,
+  "revision": {
+    "revid": 27789,
+    "parentid": 27788,
+    "timestamp": "2024-06-08T17:47:47Z",
+    "sha1": "a66d2e81ac900c12f290f27dc3e51a3b8ab73ba7",
+    "size": 265
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Gear",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Aladdin's Lamp,Quantum Radio,Sunflowers,Leaf of Yggdrasil",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per Orange+ Gear equipped, Snail ATK +18"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Aladdin_s_Lamp_Quantum_Radio_Sunflowers_Leaf_of_Yggdrasil.wiki",
+  "markdown_path": "markdown/Aladdin_s_Lamp_Quantum_Radio_Sunflowers_Leaf_of_Yggdrasil.md"
+}

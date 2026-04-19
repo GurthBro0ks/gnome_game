@@ -1,0 +1,33 @@
+{
+  "pageid": 10387,
+  "ns": 0,
+  "title": "Flying Horse of Gansu+Burghers of Calais+Pro Juventute+Pnakotic Manuscripts+Ramsar Convention+Epitaph of Sikelos",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Flying_Horse_of_Gansu%2BBurghers_of_Calais%2BPro_Juventute%2BPnakotic_Manuscripts%2BRamsar_Convention%2BEpitaph_of_Sikelos",
+  "touched": "2025-08-11T11:18:32Z",
+  "length": 225,
+  "lastrevid": 38145,
+  "revision": {
+    "revid": 38145,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:49:02Z",
+    "sha1": "1b1cc1b255864ad1b4332b3dbf576064136bae31",
+    "size": 225
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "818",
+        "relics": "Flying Horse of Gansu,Burghers of Calais,Pro Juventute,Pnakotic Manuscripts,Ramsar Convention,Epitaph of Sikelos",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "All Minion ATK +2.4%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Flying_Horse_of_Gansu_Burghers_of_Calais_Pro_Juventute_Pnakotic_Manuscripts_Ramsar_Convention_Epitaph_of_Sikelos.wiki",
+  "markdown_path": "markdown/Flying_Horse_of_Gansu_Burghers_of_Calais_Pro_Juventute_Pnakotic_Manuscripts_Ramsar_Convention_Epitaph_of_Sikelos.md"
+}

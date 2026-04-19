@@ -1,0 +1,33 @@
+{
+  "pageid": 9264,
+  "ns": 0,
+  "title": "Cassegrain Antenna+Fly-By-Wire",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cassegrain_Antenna%2BFly-By-Wire",
+  "touched": "2025-06-20T00:16:13Z",
+  "length": 172,
+  "lastrevid": 36096,
+  "revision": {
+    "revid": 36096,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:16:13Z",
+    "sha1": "f194774d1ffe8c37ab6cb31a95096f7e1785d6b6",
+    "size": 172
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "592",
+        "relics": "Cassegrain Antenna,Fly-By-Wire",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Mecha Minions in battle: Troop HARD Stats +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cassegrain_Antenna_Fly-By-Wire.wiki",
+  "markdown_path": "markdown/Cassegrain_Antenna_Fly-By-Wire.md"
+}

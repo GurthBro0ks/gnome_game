@@ -1,0 +1,33 @@
+{
+  "pageid": 8478,
+  "ns": 0,
+  "title": "Webb Space Telescope+Rods from God+Poetic Edda+St. Matthew Passion+Investiture of Gods+The Myth of Etana",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Webb_Space_Telescope%2BRods_from_God%2BPoetic_Edda%2BSt._Matthew_Passion%2BInvestiture_of_Gods%2BThe_Myth_of_Etana",
+  "touched": "2025-06-20T00:14:26Z",
+  "length": 244,
+  "lastrevid": 36022,
+  "revision": {
+    "revid": 36022,
+    "parentid": 34358,
+    "timestamp": "2025-06-20T00:14:26Z",
+    "sha1": "e3d89cf88749b645f1df1f96db29c4a1e5bb5176",
+    "size": 244
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "752",
+        "relics": "Webb Space Telescope,Rods from God,Poetic Edda,St. Matthew Passion,Investiture of Gods,The Myth of Etana",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Catalyzed Purple Spores turn to Orange by +1.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Webb_Space_Telescope_Rods_from_God_Poetic_Edda_St._Matthew_Passion_Investiture_of_Gods_The_Myth_of_Etana.wiki",
+  "markdown_path": "markdown/Webb_Space_Telescope_Rods_from_God_Poetic_Edda_St._Matthew_Passion_Investiture_of_Gods_The_Myth_of_Etana.md"
+}

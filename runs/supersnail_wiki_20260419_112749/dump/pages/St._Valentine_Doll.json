@@ -1,0 +1,47 @@
+{
+  "pageid": 10696,
+  "ns": 0,
+  "title": "St. Valentine Doll",
+  "fullurl": "https://supersnail.wiki.gg/wiki/St._Valentine_Doll",
+  "touched": "2025-08-11T10:58:53Z",
+  "length": 896,
+  "lastrevid": 38573,
+  "revision": {
+    "revid": 38573,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:58:53Z",
+    "sha1": "b1cf513e6bd6a0544081346827457a09b57eed47",
+    "size": 896
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "St. Valentine Doll",
+        "class_id": "20725",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "A mascot doll created for Valentine's Day, modeled after the guardian saint of lovers, Saint Valentine. Its benevolent and adorable appearance has garnered praise, and some even claim that it has guided them to find love, adding value to their lives.",
+        "fame": "15",
+        "art": "14",
+        "fth": "32",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Snail ATK +10<br>Per 4 Costumes fully ascended, Snail DEF +2<br>Costumes Perfected: 160/160",
+        "ss2": "Snail ATK +20<br>Per 4 Costumes fully ascended, Snail DEF +3<br>Costumes Perfected: 160/160",
+        "ss3": "Snail ATK +30<br>Per 4 Costumes fully ascended, Snail DEF +4<br>Costumes Perfected: 160/160",
+        "ss4": "Snail ATK +30<br>Per 4 Costumes fully ascended, Snail DEF +4<br>Costumes Perfected: 160/160",
+        "ss7": "Snail ATK +30<br>Per 4 Costumes fully ascended, Snail DEF +4<br>Costumes Perfected: 160/160<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/St._Valentine_Doll.wiki",
+  "markdown_path": "markdown/St._Valentine_Doll.md"
+}

@@ -1,0 +1,34 @@
+{
+  "pageid": 3297,
+  "ns": 0,
+  "title": "Ranjyatai Incense+Ancient Block",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ranjyatai_Incense%2BAncient_Block",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 170,
+  "lastrevid": 12032,
+  "revision": {
+    "revid": 12032,
+    "parentid": 0,
+    "timestamp": "2023-09-13T07:30:27Z",
+    "sha1": "d184f42c6b93a398c1c174cd9dbb8c385c40081f",
+    "size": 170
+  },
+  "categories": [
+    "DNA"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Ranjyatai Incense,Ancient Block",
+        "rank": "blue",
+        "amount": "2",
+        "category": "dna",
+        "description": "Zombie Gene Research SPD +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ranjyatai_Incense_Ancient_Block.wiki",
+  "markdown_path": "markdown/Ranjyatai_Incense_Ancient_Block.md"
+}

@@ -1,0 +1,48 @@
+{
+  "pageid": 359,
+  "ns": 0,
+  "title": "Ascension's Proof",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ascension%27s_Proof",
+  "touched": "2025-09-30T22:40:46Z",
+  "length": 537,
+  "lastrevid": 40414,
+  "revision": {
+    "revid": 40414,
+    "parentid": 40383,
+    "timestamp": "2025-09-30T22:40:46Z",
+    "sha1": "35b20450b44ddc2d8d37f57c906c4aed7ee75bd9",
+    "size": 537
+  },
+  "categories": [
+    "ATK Boost",
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Minigames",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ascension's Proof",
+        "class_id": "20262",
+        "rank": "Green",
+        "affct": "FTH",
+        "source": "[[Minigames|Unlimited Space 2 minigame]]",
+        "description": "This proof provided by Unknown Existence is a reward for those who have passed the trial of the reincarnation world, and it is also a proof of their experience and strength, as well as the key to the next world to continue the journey of cultivation.",
+        "fame": "15",
+        "art": "11",
+        "fth": "28",
+        "civ": "18",
+        "tech": "18",
+        "ss1": "Snail ATK +10",
+        "ss2": "Snail ATK +20",
+        "ss3": "Snail ATK +30"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ascension_s_Proof.wiki",
+  "markdown_path": "markdown/Ascension_s_Proof.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 10576,
+  "ns": 0,
+  "title": "Monkey Medal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Monkey_Medal",
+  "touched": "2025-08-11T10:55:17Z",
+  "length": 936,
+  "lastrevid": 38418,
+  "revision": {
+    "revid": 38418,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:55:17Z",
+    "sha1": "10173194b97226bdd1cccd4d8dba0ac76ed14c69",
+    "size": 936
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Monkey Medal",
+        "class_id": "20059",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The Yunnan Snub-nosed Monkey Conservation Medal is an honorary award established to recognize individuals and organizations that have made outstanding contributions to the conservation of the Yunnan snub-nosed monkey. The medal is instituted by the Yunnan Green Environment Development Foundation with the aim of raising public awareness about this species.",
+        "fame": "30",
+        "art": "15",
+        "fth": "15",
+        "civ": "17",
+        "tech": "13",
+        "ss1": "Snail RUSH +20<br>Per 5 Minions Cloned, Snail ATK +2<br>Minions Cloned: 100/100",
+        "ss2": "Snail RUSH +40<br>Per 5 Minions Cloned, Snail ATK +4<br>Minions Cloned: 100/100",
+        "ss3": "Snail RUSH +60<br>Per 5 Minions Cloned, Snail ATK +6<br>Minions Cloned: 100/100",
+        "ss4": "Snail RUSH +60<br>Per 5 Minions Cloned, Snail ATK +6<br>Minions Cloned: 100/100",
+        "ss7": "Snail RUSH +60<br>Per 5 Minions Cloned, Snail ATK +6<br>Minions Cloned: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Monkey_Medal.wiki",
+  "markdown_path": "markdown/Monkey_Medal.md"
+}

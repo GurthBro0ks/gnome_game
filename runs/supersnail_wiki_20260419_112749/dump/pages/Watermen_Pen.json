@@ -1,0 +1,50 @@
+{
+  "pageid": 8690,
+  "ns": 0,
+  "title": "Watermen Pen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Watermen_Pen",
+  "touched": "2025-06-20T00:20:30Z",
+  "length": 1188,
+  "lastrevid": 36213,
+  "revision": {
+    "revid": 36213,
+    "parentid": 34658,
+    "timestamp": "2025-06-20T00:20:30Z",
+    "sha1": "4c70f32a2386ccf05a85f84f41dd783ce758cae0",
+    "size": 1188
+  },
+  "categories": [
+    "Blue FAME Relics",
+    "Blue Relics",
+    "FAME Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Watermen Pen",
+        "class_id": "22404",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "05-15",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On May 15, 1884 AD, Waterman invented a revolutionary new type of fountain pen.<br>Early fountain pens were divided into two types: the inconvenient reservoir pen, which relied on a piston to supply ink, and the specially processed nib pen, which had a better writing experience but required dipping in ink constantly. Waterman successfully combined the advantages of both by supplying ink through capillary tubes, greatly improving the practicality of pens and earning himself the title of the fathe …",
+        "fame": "48",
+        "art": "25",
+        "fth": "18",
+        "civ": "30",
+        "tech": "33",
+        "ss1": "Per 10 advanced fusions, Snail ATK +1<br>Advanced Fusions: 500/500",
+        "ss2": "Per 10 advanced fusions, Snail ATK +2<br>Advanced Fusions: 500/500",
+        "ss3": "Per 10 advanced fusions, Snail ATK +3<br>Advanced Fusions: 500/500",
+        "ss4": "Per 10 advanced fusions, Snail ATK +5<br>Advanced Fusions: 500/500",
+        "ss7": "Per 10 advanced fusions, Snail ATK +5<br>Advanced Fusions: 500/500<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Murika skill I.png|50px]]Place in Murikan Museum: In Murika, 2x Green Reagent Drops +2.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Watermen_Pen.wiki",
+  "markdown_path": "markdown/Watermen_Pen.md"
+}

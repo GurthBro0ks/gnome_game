@@ -1,0 +1,33 @@
+{
+  "pageid": 8660,
+  "ns": 0,
+  "title": "100 Years of Solitude+Hamlet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/100_Years_of_Solitude%2BHamlet",
+  "touched": "2025-06-20T00:19:47Z",
+  "length": 202,
+  "lastrevid": 36190,
+  "revision": {
+    "revid": 36190,
+    "parentid": 34622,
+    "timestamp": "2025-06-20T00:19:47Z",
+    "sha1": "271c630628ea43b952608a54c2b34800e70cd188",
+    "size": 202
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "719",
+        "relics": "100 Years of Solitude,Hamlet",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 Recruit Tokens consumed, Snail RUSH +7;Consumed Recruit Tokens: 5000/5000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/100_Years_of_Solitude_Hamlet.wiki",
+  "markdown_path": "markdown/100_Years_of_Solitude_Hamlet.md"
+}

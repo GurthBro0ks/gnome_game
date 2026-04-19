@@ -1,0 +1,52 @@
+{
+  "pageid": 6636,
+  "ns": 0,
+  "title": "Aurelius on Horse",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Aurelius_on_Horse",
+  "touched": "2025-08-11T11:12:36Z",
+  "length": 2133,
+  "lastrevid": 39168,
+  "revision": {
+    "revid": 39168,
+    "parentid": 27089,
+    "timestamp": "2025-08-11T11:12:36Z",
+    "sha1": "9ac67754e1c69bbafaff4b356ff9c21e5c042b85",
+    "size": 2133
+  },
+  "categories": [
+    "ART Relics",
+    "Orange ART Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Aurelius on Horse",
+        "class_id": "22826",
+        "rank": "SSS",
+        "affct": "ART",
+        "description": "This bronze statue is a tribute to the Roman Emperor and philosopher Marcus Aurelius. The statue depicts Aurelius in military attire, with his right hand raised, mounted on a warhorse. Unlike a posture that displays military glory, his expression is thoughtful, revealing a profound philosophical essence, reflecting his identity as a Stoic philosopher. The statue has weathered many changes over time; it was once mistakenly identified as a statue of Emperor Constantine and had been altered in colo …",
+        "fame": "49",
+        "art": "108",
+        "fth": "70",
+        "civ": "73",
+        "tech": "62",
+        "ss1": "Snail Leadership +3<br>Demon Minion RUSH +3%<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +72<br>ART Relics Awakened: 100/100",
+        "ss2": "Snail Leadership +4<br>Demon Minion RUSH +4%<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +96<br>ART Relics Awakened: 100/100",
+        "ss3": "Snail Leadership +5<br>Demon Minion RUSH +5%<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +120<br>ART Relics Awakened: 100/100",
+        "ss4": "Snail Leadership +7<br>Demon Minion RUSH +7%<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +168<br>ART Relics Awakened: 100/100",
+        "ss5": "Snail Leadership +9<br>Demon Minion RUSH +9%<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +216<br>ART Relics Awakened: 100/100",
+        "ss6": "Snail Leadership +12<br>Demon Minion RUSH +12%<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +288<br>ART Relics Awakened: 100/100",
+        "ss7": "Snail Leadership +12<br>Demon Minion RUSH +12%<br>Per 5 ART Relics awakened, Priest-Snail Assistance DMG +288<br>ART Relics Awakened: 100/100<br>Protomon Troop assist DMG + 800 (Awakened)",
+        "skill1": "[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x INTEL Drops +15%",
+        "skill2": "[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, 2x Orange Reagent Drops +15%",
+        "skill3": "[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: Medal Output +30"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Aurelius_on_Horse.wiki",
+  "markdown_path": "markdown/Aurelius_on_Horse.md"
+}

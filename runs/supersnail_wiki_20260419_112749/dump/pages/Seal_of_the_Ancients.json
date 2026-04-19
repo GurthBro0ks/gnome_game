@@ -1,0 +1,51 @@
+{
+  "pageid": 8564,
+  "ns": 0,
+  "title": "Seal of the Ancients",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Seal_of_the_Ancients",
+  "touched": "2025-06-16T21:00:32Z",
+  "length": 824,
+  "lastrevid": 34509,
+  "revision": {
+    "revid": 34509,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:50:09Z",
+    "sha1": "a4914864da704d8128fc78b583ffb109b623ed1f",
+    "size": 824
+  },
+  "categories": [
+    "Blue FAITH Relics",
+    "Blue Relics",
+    "FAITH Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Seal of the Ancients",
+        "class_id": "22455",
+        "rank": "Blue",
+        "affct": "FAITH",
+        "birthday": "01-01",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Jan 1, 1932 AD, the Seal of the Old God was discovered.<br>The Seal of the Old God is an ancient deity's symbol that requires a specific activation ritual and a suitable vessel for stabilization. This seal instills disgust and fear in evil creatures, making it a highly prized talisman for many.",
+        "fame": "24",
+        "art": "31",
+        "fth": "48",
+        "civ": "22",
+        "tech": "29",
+        "ss1": "All Sanctum Glorium Output +0.4%",
+        "ss2": "All Sanctum Glorium Output +0.8%",
+        "ss3": "All Sanctum Glorium Output +1.2%",
+        "ss4": "All Sanctum Glorium Output +2%",
+        "ss7": "All Sanctum Glorium Output +2%<br>All Sanctum Glorium Output +2% (Awakened)",
+        "skill1": "[[File:Frostsanctum skill I.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Seal_of_the_Ancients.wiki",
+  "markdown_path": "markdown/Seal_of_the_Ancients.md"
+}

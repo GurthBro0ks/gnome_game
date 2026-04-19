@@ -1,0 +1,33 @@
+{
+  "pageid": 4705,
+  "ns": 0,
+  "title": "Engelbart's Mouse+Tom Sawyer Adventures+Book of Soyga",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Engelbart%27s_Mouse%2BTom_Sawyer_Adventures%2BBook_of_Soyga",
+  "touched": "2025-06-20T00:05:34Z",
+  "length": 213,
+  "lastrevid": 35878,
+  "revision": {
+    "revid": 35878,
+    "parentid": 18527,
+    "timestamp": "2025-06-20T00:05:34Z",
+    "sha1": "683187fd9a8993b799f49aa7981841d688f6a475",
+    "size": 213
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "352",
+        "relics": "Engelbart's Mouse,Tom Sawyer Adventures,Book of Soyga",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 30 Tool Chests opened, Snail DEF +6;Tool Chests Opened: 1500/1500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Engelbart_s_Mouse_Tom_Sawyer_Adventures_Book_of_Soyga.wiki",
+  "markdown_path": "markdown/Engelbart_s_Mouse_Tom_Sawyer_Adventures_Book_of_Soyga.md"
+}

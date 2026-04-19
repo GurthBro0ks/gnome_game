@@ -1,0 +1,33 @@
+{
+  "pageid": 9300,
+  "ns": 0,
+  "title": "The King and Queen+Plume Brooch",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_King_and_Queen%2BPlume_Brooch",
+  "touched": "2025-06-20T00:19:57Z",
+  "length": 180,
+  "lastrevid": 36196,
+  "revision": {
+    "revid": 36196,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:19:57Z",
+    "sha1": "2120644dd3516b810104d144e8261dd4e737307c",
+    "size": 180
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "672",
+        "relics": "The King and Queen,Plume Brooch",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 30 T7+ Zombie Minions in battle:Troop HARD Stats +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_King_and_Queen_Plume_Brooch.wiki",
+  "markdown_path": "markdown/The_King_and_Queen_Plume_Brooch.md"
+}

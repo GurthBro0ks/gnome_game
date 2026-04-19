@@ -1,0 +1,33 @@
+{
+  "pageid": 4194,
+  "ns": 0,
+  "title": "Suger's Eagle+Two-headed Serpent",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Suger%27s_Eagle%2BTwo-headed_Serpent",
+  "touched": "2025-06-20T00:03:37Z",
+  "length": 213,
+  "lastrevid": 35827,
+  "revision": {
+    "revid": 35827,
+    "parentid": 15694,
+    "timestamp": "2025-06-20T00:03:37Z",
+    "sha1": "a3903c58dd1577668491be06a2dd44b5955830d2",
+    "size": 213
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "458",
+        "relics": "Suger's Eagle,Two-headed Serpent",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "When refining, there exists a +7% chance for Blue Building Materials to turn into Purple"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Suger_s_Eagle_Two-headed_Serpent.wiki",
+  "markdown_path": "markdown/Suger_s_Eagle_Two-headed_Serpent.md"
+}

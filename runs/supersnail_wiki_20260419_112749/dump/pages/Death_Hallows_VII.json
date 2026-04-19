@@ -1,0 +1,47 @@
+{
+  "pageid": 823,
+  "ns": 0,
+  "title": "Death Hallows VII",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Death_Hallows_VII",
+  "touched": "2025-08-11T10:45:01Z",
+  "length": 1133,
+  "lastrevid": 37971,
+  "revision": {
+    "revid": 37971,
+    "parentid": 27633,
+    "timestamp": "2025-08-11T10:45:01Z",
+    "sha1": "60d2b1fbe923f0066517dcd7304d214c8043e0df",
+    "size": 1133
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Death Hallows VII",
+        "class_id": "20202",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This object was created by a dark sorcerer. To evade the inevitable death, the sorcerer decided to cheat Death. So he used his lifetime knowledge to create several Death Hallows! It is said that the complete collection can put Death down.",
+        "fame": "20",
+        "art": "16",
+        "fth": "29",
+        "civ": "14",
+        "tech": "11",
+        "ss1": "Soul Offering SPD +0.4%<br>Against the Dark Lord, Snail ATK +5k<br>Against the Dark Lord, Snail RUSH +5k<br>Against the Dark Lord, DMG +2000%",
+        "ss2": "Soul Offering SPD +0.8%<br>Against the Dark Lord, Snail ATK +5k<br>Against the Dark Lord, Snail RUSH +5k<br>Against the Dark Lord, DMG +2000%",
+        "ss3": "Soul Offering SPD +1.2%<br>Against the Dark Lord, Snail ATK +5k<br>Against the Dark Lord, Snail RUSH +5k<br>Against the Dark Lord, DMG +2000%",
+        "ss4": "Soul Offering SPD +1.2%<br>Against the Dark Lord, Snail ATK +5k<br>Against the Dark Lord, Snail RUSH +5k<br>Against the Dark Lord, DMG +2000%",
+        "ss7": "Soul Offering SPD +1.2%<br>Against the Dark Lord, Snail ATK +5k<br>Against the Dark Lord, Snail RUSH +5k<br>Against the Dark Lord, DMG +2000%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Death_Hallows_VII.wiki",
+  "markdown_path": "markdown/Death_Hallows_VII.md"
+}

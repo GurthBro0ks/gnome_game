@@ -1,0 +1,35 @@
+{
+  "pageid": 9292,
+  "ns": 0,
+  "title": "Cooper's Mobile Phone+Tull's Seed Drill",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cooper%27s_Mobile_Phone%2BTull%27s_Seed_Drill",
+  "touched": "2025-06-20T00:19:30Z",
+  "length": 145,
+  "lastrevid": 36178,
+  "revision": {
+    "revid": 36178,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:19:30Z",
+    "sha1": "d38f8ede01cc8819da09fec4ddab52aeb979c742",
+    "size": 145
+  },
+  "categories": [
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "676",
+        "relics": "Cooper's Mobile Phone,Tull's Seed Drill",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HP +600"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cooper_s_Mobile_Phone_Tull_s_Seed_Drill.wiki",
+  "markdown_path": "markdown/Cooper_s_Mobile_Phone_Tull_s_Seed_Drill.md"
+}

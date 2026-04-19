@@ -1,0 +1,33 @@
+{
+  "pageid": 9302,
+  "ns": 0,
+  "title": "Rameau's Nephew+Kurgan Stelae",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rameau%27s_Nephew%2BKurgan_Stelae",
+  "touched": "2025-06-20T00:20:10Z",
+  "length": 134,
+  "lastrevid": 36203,
+  "revision": {
+    "revid": 36203,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:20:10Z",
+    "sha1": "f6217816d24a964f592b1bc9d89dc7c101138db1",
+    "size": 134
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "607",
+        "relics": "Rameau's Nephew,Kurgan Stelae",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail RUSH +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Rameau_s_Nephew_Kurgan_Stelae.wiki",
+  "markdown_path": "markdown/Rameau_s_Nephew_Kurgan_Stelae.md"
+}

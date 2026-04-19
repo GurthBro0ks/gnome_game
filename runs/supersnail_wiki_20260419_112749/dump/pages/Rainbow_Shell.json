@@ -1,0 +1,28 @@
+{
+  "pageid": 3055,
+  "ns": 0,
+  "title": "Rainbow Shell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rainbow_Shell",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 575,
+  "lastrevid": 12237,
+  "revision": {
+    "revid": 12237,
+    "parentid": 12192,
+    "timestamp": "2023-09-15T00:49:24Z",
+    "sha1": "b3518fc4b53831b3111058e8acaf9ebfa0528445",
+    "size": 575
+  },
+  "categories": [
+    "CIV Shells",
+    "DEF Boost",
+    "Dragon Form",
+    "Missing Info",
+    "Shells",
+    "Wind DMG Boost"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Rainbow_Shell.wiki",
+  "markdown_path": "markdown/Rainbow_Shell.md"
+}

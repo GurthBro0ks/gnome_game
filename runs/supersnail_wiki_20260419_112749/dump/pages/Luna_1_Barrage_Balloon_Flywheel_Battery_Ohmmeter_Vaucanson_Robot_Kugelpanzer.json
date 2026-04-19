@@ -1,0 +1,35 @@
+{
+  "pageid": 8438,
+  "ns": 0,
+  "title": "Luna 1+Barrage Balloon+Flywheel Battery+Ohmmeter+Vaucanson Robot+Kugelpanzer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Luna_1%2BBarrage_Balloon%2BFlywheel_Battery%2BOhmmeter%2BVaucanson_Robot%2BKugelpanzer",
+  "touched": "2025-06-20T00:13:10Z",
+  "length": 191,
+  "lastrevid": 35967,
+  "revision": {
+    "revid": 35967,
+    "parentid": 34308,
+    "timestamp": "2025-06-20T00:13:10Z",
+    "sha1": "83705f56ad9b1fda530d08e4a77b6cbb7e2dee82",
+    "size": 191
+  },
+  "categories": [
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "652",
+        "relics": "Luna 1,Barrage Balloon,Flywheel Battery,Ohmmeter,Vaucanson Robot,Kugelpanzer",
+        "rank": "blue",
+        "amount": "6",
+        "category": "self",
+        "description": "All minion skins HP +90%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Luna_1_Barrage_Balloon_Flywheel_Battery_Ohmmeter_Vaucanson_Robot_Kugelpanzer.wiki",
+  "markdown_path": "markdown/Luna_1_Barrage_Balloon_Flywheel_Battery_Ohmmeter_Vaucanson_Robot_Kugelpanzer.md"
+}

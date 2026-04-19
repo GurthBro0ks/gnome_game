@@ -1,0 +1,50 @@
+{
+  "pageid": 1324,
+  "ns": 0,
+  "title": "Peacock Throne",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Peacock_Throne",
+  "touched": "2025-08-11T10:51:23Z",
+  "length": 1439,
+  "lastrevid": 38251,
+  "revision": {
+    "revid": 38251,
+    "parentid": 21660,
+    "timestamp": "2025-08-11T10:51:23Z",
+    "sha1": "b4721842f43a1849f564e0e28c6ac99aec0d2462",
+    "size": 1439
+  },
+  "categories": [
+    "ART Relics",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Peacock Throne",
+        "class_id": "21122",
+        "rank": "AAA",
+        "affct": "ART",
+        "description": "The Peacock Throne is the seat of the emperors of the Mughal Empire. It features two peacock-shaped decorations at the back of the throne inlaid with various precious gems. As a symbol of power, it witnessed the rise and fall of the Mughal Empire.",
+        "fame": "43",
+        "art": "75",
+        "fth": "36",
+        "civ": "44",
+        "tech": "45",
+        "ss1": "Snail DEF +100<br>Home Facility Resource Outputs +5%<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +10%",
+        "ss2": "Snail DEF +100<br>Home Facility Resource Outputs +5%<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +10%",
+        "ss3": "Snail DEF +100<br>Home Facility Resource Outputs +5%<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +10%",
+        "ss4": "Snail DEF +100<br>Home Facility Resource Outputs +5%<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +10%",
+        "ss5": "Snail DEF +100<br>Home Facility Resource Outputs +5%<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +10%",
+        "ss7": "Snail DEF +100<br>Home Facility Resource Outputs +5%<br>Vending Machine B-tad purchases +1<br>When buying B-tads, B-tads gained +10%<br>Home Facility Resource Outputs +5% (Awakened)",
+        "skill1": "[[File:Tadpolepond skill II.png|50px]]Place in Tadpole Pond: This Relic's ART +10",
+        "skill2": "[[File:Tadpolepond skill II.png|50px]]Place in Tadpole Pond: B-tad Output +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Peacock_Throne.wiki",
+  "markdown_path": "markdown/Peacock_Throne.md"
+}

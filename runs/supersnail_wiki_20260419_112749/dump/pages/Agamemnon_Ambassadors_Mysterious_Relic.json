@@ -1,0 +1,35 @@
+{
+  "pageid": 6236,
+  "ns": 0,
+  "title": "Agamemnon Ambassadors+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Agamemnon_Ambassadors%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 264,
+  "lastrevid": 24952,
+  "revision": {
+    "revid": 24952,
+    "parentid": 0,
+    "timestamp": "2024-04-07T00:16:09Z",
+    "sha1": "fc946f182b507cf762ba4099fac803408ae3b75a",
+    "size": 264
+  },
+  "categories": [
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Agamemnon Ambassadors,Mysterious Relic",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Recruitment Incident completed, Snail RUSH +5; Completed Recruitment Incidents: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Agamemnon_Ambassadors_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Agamemnon_Ambassadors_Mysterious_Relic.md"
+}

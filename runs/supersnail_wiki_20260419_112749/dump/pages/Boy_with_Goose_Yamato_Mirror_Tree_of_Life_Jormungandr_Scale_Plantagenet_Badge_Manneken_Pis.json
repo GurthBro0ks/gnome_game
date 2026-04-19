@@ -1,0 +1,33 @@
+{
+  "pageid": 11006,
+  "ns": 0,
+  "title": "Boy with Goose+Yamato Mirror+Tree of Life+Jormungandr Scale+Plantagenet Badge+Manneken Pis",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Boy_with_Goose%2BYamato_Mirror%2BTree_of_Life%2BJormungandr_Scale%2BPlantagenet_Badge%2BManneken_Pis",
+  "touched": "2025-08-11T11:08:52Z",
+  "length": 245,
+  "lastrevid": 39008,
+  "revision": {
+    "revid": 39008,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:08:52Z",
+    "sha1": "d6a699bf7092df362b88efb4dd6c79026544b040",
+    "size": 245
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "152",
+        "relics": "Boy with Goose,Yamato Mirror,Tree of Life,Jormungandr Scale,Plantagenet Badge,Manneken Pis",
+        "rank": "purple",
+        "amount": "6",
+        "category": "self",
+        "description": "Per 3 Purple Relics gained, Snail ATK +40;Purple Relics: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Boy_with_Goose_Yamato_Mirror_Tree_of_Life_Jormungandr_Scale_Plantagenet_Badge_Manneken_Pis.wiki",
+  "markdown_path": "markdown/Boy_with_Goose_Yamato_Mirror_Tree_of_Life_Jormungandr_Scale_Plantagenet_Badge_Manneken_Pis.md"
+}

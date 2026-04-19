@@ -1,0 +1,47 @@
+{
+  "pageid": 5493,
+  "ns": 0,
+  "title": "Rejuvenation Scroll",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rejuvenation_Scroll",
+  "touched": "2025-08-11T11:06:59Z",
+  "length": 883,
+  "lastrevid": 38929,
+  "revision": {
+    "revid": 38929,
+    "parentid": 21159,
+    "timestamp": "2025-08-11T11:06:59Z",
+    "sha1": "b8b576f5abe7092033258640d09e9bb1e9788da8",
+    "size": 883
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Rejuvenation Scroll",
+        "class_id": "20218",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "Rejuvenation spell is one of the most unfathomable dark magic. The caster needs to chant, establish a connection with the deceased's soul, and summon it into a well-kept corpse. The resurrected often suffer from loss of consciousness, self-judgment, and cognition, and will eventually be reduced to a walking corpse.",
+        "fame": "17",
+        "art": "13",
+        "fth": "28",
+        "civ": "15",
+        "tech": "17",
+        "ss1": "Per 4 Novice Scrolls opened, Snail HP +10<br>Novice Scrolls opened: 120/120",
+        "ss2": "Per 4 Novice Scrolls opened, Snail HP +20<br>Novice Scrolls opened: 120/120",
+        "ss3": "Per 4 Novice Scrolls opened, Snail HP +30<br>Novice Scrolls opened: 120/120",
+        "ss4": "Per 4 Novice Scrolls opened, Snail HP +30<br>Novice Scrolls opened: 120/120",
+        "ss7": "Per 4 Novice Scrolls opened, Snail HP +30<br>Novice Scrolls opened: 120/120<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Rejuvenation_Scroll.wiki",
+  "markdown_path": "markdown/Rejuvenation_Scroll.md"
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 6227,
+  "ns": 0,
+  "title": "Royal Purple Heart+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Royal_Purple_Heart%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 267,
+  "lastrevid": 24942,
+  "revision": {
+    "revid": 24942,
+    "parentid": 0,
+    "timestamp": "2024-04-07T00:03:40Z",
+    "sha1": "aafdbe71b25e1c37ec51f160f753ea9b3db7e798",
+    "size": 267
+  },
+  "categories": [
+    "ATK Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Royal Purple Heart,Mysterious Relic,Mysterious Relic",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 3 Blue Brand Cases opened, Snail ATK +7; Blue Brand Cases Opened: 150/150"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Royal_Purple_Heart_Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Royal_Purple_Heart_Mysterious_Relic_Mysterious_Relic.md"
+}

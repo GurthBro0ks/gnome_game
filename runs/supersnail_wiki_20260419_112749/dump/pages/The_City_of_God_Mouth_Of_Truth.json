@@ -1,0 +1,33 @@
+{
+  "pageid": 8683,
+  "ns": 0,
+  "title": "The City of God+Mouth Of Truth",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_City_of_God%2BMouth_Of_Truth",
+  "touched": "2025-06-20T00:18:30Z",
+  "length": 230,
+  "lastrevid": 36136,
+  "revision": {
+    "revid": 36136,
+    "parentid": 34649,
+    "timestamp": "2025-06-20T00:18:30Z",
+    "sha1": "874b1df4af37e480e1706f276d71b4f02ca42f9a",
+    "size": 230
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "687",
+        "relics": "The City of God,Mouth Of Truth",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +48;Swamp Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_City_of_God_Mouth_Of_Truth.wiki",
+  "markdown_path": "markdown/The_City_of_God_Mouth_Of_Truth.md"
+}

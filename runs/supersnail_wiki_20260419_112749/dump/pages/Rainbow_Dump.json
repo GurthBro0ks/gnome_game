@@ -1,0 +1,47 @@
+{
+  "pageid": 11158,
+  "ns": 0,
+  "title": "Rainbow Dump",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rainbow_Dump",
+  "touched": "2025-08-11T11:14:29Z",
+  "length": 874,
+  "lastrevid": 39251,
+  "revision": {
+    "revid": 39251,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:14:29Z",
+    "sha1": "bc4a6ca7c4c42222c90977f91b964821fbe3b886",
+    "size": 874
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Rainbow Dump",
+        "class_id": "20147",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This substance with a dazzling rainbow luster contains the essence and strong life force of some unknown creature. According to the sample analysis, its rainbow luster comes from a trace substance that exists only in the cores of rare divine beasts, which is vital to their living!",
+        "fame": "13",
+        "art": "29",
+        "fth": "18",
+        "civ": "14",
+        "tech": "16",
+        "ss1": "Per 50 Mystery Gloops claimed, Snail DEF +1<br>Mysterious Gloop Claimed: 2000/2000",
+        "ss2": "Per 50 Mystery Gloops claimed, Snail DEF +2<br>Mysterious Gloop Claimed: 2000/2000",
+        "ss3": "Per 50 Mystery Gloops claimed, Snail DEF +3<br>Mysterious Gloop Claimed: 2000/2000",
+        "ss4": "Per 50 Mystery Gloops claimed, Snail DEF +3<br>Mysterious Gloop Claimed: 2000/2000",
+        "ss7": "Per 50 Mystery Gloops claimed, Snail DEF +3<br>Mysterious Gloop Claimed: 2000/2000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Rainbow_Dump.wiki",
+  "markdown_path": "markdown/Rainbow_Dump.md"
+}

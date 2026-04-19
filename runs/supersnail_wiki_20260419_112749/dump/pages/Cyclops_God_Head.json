@@ -1,0 +1,47 @@
+{
+  "pageid": 7620,
+  "ns": 0,
+  "title": "Cyclops God Head",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cyclops_God_Head",
+  "touched": "2025-08-11T10:58:11Z",
+  "length": 792,
+  "lastrevid": 38542,
+  "revision": {
+    "revid": 38542,
+    "parentid": 31852,
+    "timestamp": "2025-08-11T10:58:11Z",
+    "sha1": "4917c795a3892ca16addf7c8e247c20c2c97ac59",
+    "size": 792
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Cyclops God Head",
+        "class_id": "20263",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This large, one-eyed skull came from an exceptionally powerful Cyclops. According to the information collected in his Domain, he was undoubtedly a god. However, an unknown energy struck him when he was dining. The god died on the spot. Eventually, his head was taken away, becoming part of a collection.",
+        "fame": "13",
+        "art": "16",
+        "fth": "31",
+        "civ": "17",
+        "tech": "13",
+        "ss1": "Per Organ implanted, Snail DEF +1<br>Organs Implanted: 40/40",
+        "ss2": "Per Organ implanted, Snail DEF +2<br>Organs Implanted: 40/40",
+        "ss3": "Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40",
+        "ss4": "Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40",
+        "ss7": "Per Organ implanted, Snail DEF +3<br>Organs Implanted: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cyclops_God_Head.wiki",
+  "markdown_path": "markdown/Cyclops_God_Head.md"
+}

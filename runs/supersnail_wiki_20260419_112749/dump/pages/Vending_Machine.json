@@ -1,0 +1,121 @@
+{
+  "pageid": 839,
+  "ns": 0,
+  "title": "Vending Machine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Vending_Machine",
+  "touched": "2025-10-28T22:36:18Z",
+  "length": 11726,
+  "lastrevid": 41314,
+  "revision": {
+    "revid": 41314,
+    "parentid": 41259,
+    "timestamp": "2025-10-14T15:41:36Z",
+    "sha1": "ac44afd9f6b166bfeb84c7a2a1de785b9c1e22f4",
+    "size": 11726
+  },
+  "categories": [
+    "Home Base",
+    "Missing Info"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Instrument",
+        "3": "Crystal Lens"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Instrument",
+        "3": "Battle Detector"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Know-It-All Device"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Instrument",
+        "3": "Fresnal Lens"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Instrument",
+        "3": "Battle Detector"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Know-It-All Device"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "Instrument",
+        "3": "Infrared Lens"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Instrument",
+        "3": "Battle Detector"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Know-It-All Device"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Instrument",
+        "3": "Holographic Lens"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Instrument",
+        "3": "Battle Detector"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "red",
+        "2": "Instrument",
+        "3": "Know-It-All Device"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Vending_Machine.wiki",
+  "markdown_path": "markdown/Vending_Machine.md"
+}

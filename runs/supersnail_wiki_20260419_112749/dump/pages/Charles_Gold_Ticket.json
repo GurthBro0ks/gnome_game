@@ -1,0 +1,52 @@
+{
+  "pageid": 5125,
+  "ns": 0,
+  "title": "Charles' Gold Ticket",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Charles%27_Gold_Ticket",
+  "touched": "2025-06-20T00:05:08Z",
+  "length": 1918,
+  "lastrevid": 35862,
+  "revision": {
+    "revid": 35862,
+    "parentid": 35053,
+    "timestamp": "2025-06-20T00:05:08Z",
+    "sha1": "f797fae9526679670daab4d58ad3373673baef06",
+    "size": 1918
+  },
+  "categories": [
+    "CIV Relics",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Charles' Gold Ticket",
+        "class_id": "22172",
+        "rank": "AA",
+        "affct": "CIV",
+        "birthday": "08-15",
+        "source": "Lottery Machine No.2 (0.12%), Wishing (0.03%)",
+        "description": "On Aug 15, 1985 AD, Charles found this golden voucher within the chocolate he bought with the money he picked up.<br>Golden vouchers were issued by Willy Wonk, owner of the Wonk Chocolate Factory. Anyone lucky enough to get one would be eligible to visit the factory. Charles, a poor boy who got this golden voucher by chance, embarked on his dream tour of the factory. After many wondrous experiences, the other 4 children on the tour with Charles had to leave early due to their greed. That is when …",
+        "fame": "49",
+        "art": "41",
+        "fth": "38",
+        "civ": "66",
+        "tech": "34",
+        "ss1": "Per 4 Gacha Gawd Packs claimed, Snail ATK +4<br>Per 4 Gacha Gawd Packs claimed, Snail RUSH +4<br>Gacha Gawd Packs Claimed: 80/80",
+        "ss2": "Per 4 Gacha Gawd Packs claimed, Snail ATK +6<br>Per 4 Gacha Gawd Packs claimed, Snail RUSH +6<br>Gacha Gawd Packs Claimed: 80/80",
+        "ss3": "Per 4 Gacha Gawd Packs claimed, Snail ATK +8<br>Per 4 Gacha Gawd Packs claimed, Snail RUSH +8<br>Gacha Gawd Packs Claimed: 80/80",
+        "ss4": "Per 4 Gacha Gawd Packs claimed, Snail ATK +12<br>Per 4 Gacha Gawd Packs claimed, Snail RUSH +12<br>Gacha Gawd Packs Claimed: 80/80",
+        "ss5": "Per 4 Gacha Gawd Packs claimed, Snail ATK +16<br>Per 4 Gacha Gawd Packs claimed, Snail RUSH +16<br>Gacha Gawd Packs Claimed: 80/80",
+        "ss7": "Per 4 Gacha Gawd Packs claimed, Snail ATK +16<br>Per 4 Gacha Gawd Packs claimed, Snail RUSH +16<br>Gacha Gawd Packs Claimed: 80/80<br>Snail RUSH +70 (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's CIV +10",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Mutant Cells gained +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Charles_Gold_Ticket.wiki",
+  "markdown_path": "markdown/Charles_Gold_Ticket.md"
+}

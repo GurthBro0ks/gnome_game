@@ -1,0 +1,33 @@
+{
+  "pageid": 10184,
+  "ns": 0,
+  "title": "Othello+The Literary Mind",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Othello%2BThe_Literary_Mind",
+  "touched": "2025-08-11T10:42:31Z",
+  "length": 161,
+  "lastrevid": 37841,
+  "revision": {
+    "revid": 37841,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:42:03Z",
+    "sha1": "c71215a1891ef32f3fc02910f460f451517491a3",
+    "size": 161
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "877",
+        "relics": "Othello,The Literary Mind",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 T7+ Minions in battle: Troop ATK +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Othello_The_Literary_Mind.wiki",
+  "markdown_path": "markdown/Othello_The_Literary_Mind.md"
+}

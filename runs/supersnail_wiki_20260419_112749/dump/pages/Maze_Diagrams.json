@@ -1,0 +1,47 @@
+{
+  "pageid": 467,
+  "ns": 0,
+  "title": "Maze Diagrams",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Maze_Diagrams",
+  "touched": "2025-08-11T10:57:10Z",
+  "length": 671,
+  "lastrevid": 38497,
+  "revision": {
+    "revid": 38497,
+    "parentid": 11582,
+    "timestamp": "2025-08-11T10:57:10Z",
+    "sha1": "6453a3a22ea7379416fb20f33659cc484c63d6a4",
+    "size": 671
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Maze Diagrams",
+        "class_id": "20200",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "Advisor Zhuge learned the Art of War and created this diagram. It contains eight formations: Overlaying Sky, Loading Ground, Blowing Wind, Hanging Cloud, Flying Dragon, Tiger Wing, Flying Bird, and Coiling Snake. Each corresponds to the method of attack and defense in different situations.",
+        "fame": "12",
+        "art": "18",
+        "fth": "30",
+        "civ": "16",
+        "tech": "14",
+        "ss1": "When you Wish, get 1 Taichi Fish by +3%",
+        "ss2": "When you Wish, get 1 Taichi Fish by +4%",
+        "ss3": "When you Wish, get 1 Taichi Fish by +5%",
+        "ss4": "When you Wish, get 1 Taichi Fish by +5%",
+        "ss7": "When you Wish, get 1 Taichi Fish by +5%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Maze_Diagrams.wiki",
+  "markdown_path": "markdown/Maze_Diagrams.md"
+}

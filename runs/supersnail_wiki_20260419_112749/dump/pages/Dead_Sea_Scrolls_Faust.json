@@ -1,0 +1,33 @@
+{
+  "pageid": 3716,
+  "ns": 0,
+  "title": "Dead Sea Scrolls+Faust",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dead_Sea_Scrolls%2BFaust",
+  "touched": "2025-07-02T09:44:02Z",
+  "length": 181,
+  "lastrevid": 37105,
+  "revision": {
+    "revid": 37105,
+    "parentid": 13612,
+    "timestamp": "2025-07-02T09:44:02Z",
+    "sha1": "4a3162fe126f5752935ffa7fb652cb3181b15518",
+    "size": 181
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "176",
+        "relics": "Dead Sea Scrolls,Faust",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 20 Orange Orbs drawn, Snail ATK +14;Orange Orbs Drawn: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dead_Sea_Scrolls_Faust.wiki",
+  "markdown_path": "markdown/Dead_Sea_Scrolls_Faust.md"
+}

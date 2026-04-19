@@ -1,0 +1,36 @@
+{
+  "pageid": 5337,
+  "ns": 0,
+  "title": "Science Magazine Vol.1+Wealth Magazine Vol.1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Science_Magazine_Vol.1%2BWealth_Magazine_Vol.1",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 278,
+  "lastrevid": 19565,
+  "revision": {
+    "revid": 19565,
+    "parentid": 0,
+    "timestamp": "2023-11-21T00:50:14Z",
+    "sha1": "2b2b783a5f0fc8868fe86fbca85aa677db3fd106",
+    "size": 278
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Tadpole Points",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Science Magazine Vol.1,Wealth Magazine Vol.1",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1.5k Tadpole Points, Snail ATK +7; Tadpole Points: 45,000/45,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Science_Magazine_Vol.1_Wealth_Magazine_Vol.1.wiki",
+  "markdown_path": "markdown/Science_Magazine_Vol.1_Wealth_Magazine_Vol.1.md"
+}

@@ -1,0 +1,24 @@
+{
+  "pageid": 240,
+  "ns": 0,
+  "title": "HS Iris",
+  "fullurl": "https://supersnail.wiki.gg/wiki/HS_Iris",
+  "touched": "2025-06-21T12:29:57Z",
+  "length": 402,
+  "lastrevid": 36785,
+  "revision": {
+    "revid": 36785,
+    "parentid": 35417,
+    "timestamp": "2025-06-21T12:29:57Z",
+    "sha1": "e9464a5ebed4de9d1ca64c3c69f994f332d55b8b",
+    "size": 402
+  },
+  "categories": [
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/HS_Iris.wiki",
+  "markdown_path": "markdown/HS_Iris.md"
+}

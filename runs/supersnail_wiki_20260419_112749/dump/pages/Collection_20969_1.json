@@ -1,0 +1,47 @@
+{
+  "pageid": 9966,
+  "ns": 0,
+  "title": "Collection@20969 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20969_1",
+  "touched": "2025-08-11T10:33:19Z",
+  "length": 643,
+  "lastrevid": 37466,
+  "revision": {
+    "revid": 37466,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:33:19Z",
+    "sha1": "0a7574d2a210555946c83e9e7ea720da7b4e6a61",
+    "size": 643
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20969_1",
+        "class_id": "20969",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "collection@20969_2",
+        "fame": "29",
+        "art": "16",
+        "fth": "12",
+        "civ": "19",
+        "tech": "14",
+        "ss1": "In explorations, 2x Green Card Drops +0.2%<br>In explorations, 2x Blue Card Drops +0.2%",
+        "ss2": "In explorations, 2x Green Card Drops +0.4%<br>In explorations, 2x Blue Card Drops +0.4%",
+        "ss3": "In explorations, 2x Green Card Drops +0.6%<br>In explorations, 2x Blue Card Drops +0.6%",
+        "ss4": "In explorations, 2x Green Card Drops +0.6%<br>In explorations, 2x Blue Card Drops +0.6%",
+        "ss7": "In explorations, 2x Green Card Drops +0.6%<br>In explorations, 2x Blue Card Drops +0.6%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20969_1.wiki",
+  "markdown_path": "markdown/Collection_20969_1.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 8923,
+  "ns": 0,
+  "title": "Rutherford Model+Olympic Torch+La Marseillaise+Avesta+Don Quixote+Parker Solar Probe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rutherford_Model%2BOlympic_Torch%2BLa_Marseillaise%2BAvesta%2BDon_Quixote%2BParker_Solar_Probe",
+  "touched": "2025-06-16T23:13:16Z",
+  "length": 204,
+  "lastrevid": 35017,
+  "revision": {
+    "revid": 35017,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:13:16Z",
+    "sha1": "50b378a30abe517a015d98f57dcf0a62d74e0c30",
+    "size": 204
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "565",
+        "relics": "Rutherford Model,Olympic Torch,La Marseillaise,Avesta,Don Quixote,Parker Solar Probe",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "All Minion HARD Stats +1.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Rutherford_Model_Olympic_Torch_La_Marseillaise_Avesta_Don_Quixote_Parker_Solar_Probe.wiki",
+  "markdown_path": "markdown/Rutherford_Model_Olympic_Torch_La_Marseillaise_Avesta_Don_Quixote_Parker_Solar_Probe.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 11164,
+  "ns": 0,
+  "title": "Collection@20860 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20860_1",
+  "touched": "2025-08-11T11:14:40Z",
+  "length": 521,
+  "lastrevid": 39259,
+  "revision": {
+    "revid": 39259,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:14:40Z",
+    "sha1": "dd9904138ffed209e1ee654289b983bcec1d4b1c",
+    "size": 521
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20860_1",
+        "class_id": "20860",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "collection@20860_2",
+        "fame": "18",
+        "art": "9",
+        "fth": "18",
+        "civ": "16",
+        "tech": "29",
+        "ss1": "Per 5k DNA Strength, Snail ATK +5<br>DNA Strength: 50000/50000",
+        "ss2": "Per 5k DNA Strength, Snail ATK +10<br>DNA Strength: 50000/50000",
+        "ss3": "Per 5k DNA Strength, Snail ATK +15<br>DNA Strength: 50000/50000",
+        "ss4": "Per 5k DNA Strength, Snail ATK +15<br>DNA Strength: 50000/50000",
+        "ss7": "Per 5k DNA Strength, Snail ATK +15<br>DNA Strength: 50000/50000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20860_1.wiki",
+  "markdown_path": "markdown/Collection_20860_1.md"
+}

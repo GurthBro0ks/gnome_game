@@ -1,0 +1,48 @@
+{
+  "pageid": 1170,
+  "ns": 0,
+  "title": "Wooden Ox",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wooden_Ox",
+  "touched": "2025-11-17T14:49:36Z",
+  "length": 622,
+  "lastrevid": 41762,
+  "revision": {
+    "revid": 41762,
+    "parentid": 39046,
+    "timestamp": "2025-11-17T14:49:36Z",
+    "sha1": "e489224ab88336e0b88db8b0c3801c1cbe00abff",
+    "size": 622
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Wooden Ox",
+        "class_id": "20035",
+        "rank": "Green",
+        "affct": "TECH",
+        "source": "Upgrade Madam Huang Wanzhen to T9 in [[Cathay Generals]].",
+        "description": "This means of transport was invented by Advisor Zhuge. In the eyes of modern science, it's a human-powered wooden vehicle suitable for mountain terrain with swinging cargo boxes for granular. It's shaped like an ox so that people will have the illusion of being pulled, thus saving a lot of effort!",
+        "fame": "17",
+        "art": "11",
+        "fth": "19",
+        "civ": "16",
+        "tech": "27",
+        "ss1": "Meal Box Cap +100",
+        "ss2": "Meal Box Cap +200",
+        "ss3": "Meal Box Cap +300",
+        "ss4": "Meal Box Cap +300",
+        "ss7": "Meal Box Cap +300<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wooden_Ox.wiki",
+  "markdown_path": "markdown/Wooden_Ox.md"
+}

@@ -1,0 +1,55 @@
+{
+  "pageid": 1289,
+  "ns": 0,
+  "title": "Dendera Tablet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dendera_Tablet",
+  "touched": "2024-09-06T09:56:09Z",
+  "length": 1316,
+  "lastrevid": 27614,
+  "revision": {
+    "revid": 27614,
+    "parentid": 22256,
+    "timestamp": "2024-06-01T02:43:14Z",
+    "sha1": "6a5cef19c2b2fb02696c1b2e99864f796d2b82a8",
+    "size": 1316
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue FTH Relics",
+    "Blue Relics",
+    "Exploration Card Drop Boost",
+    "FTH Relics",
+    "Kemet Exploration Boost",
+    "Kemet Museum Boost",
+    "Mummy Boost",
+    "Offering Reward Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dendera Tablet",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "08-07",
+        "source": "Lottery Machine (0.03%), Wishing (0.85%), Kemetic Treasure Maps (20%)",
+        "description": "On Aug 7, 525 BC, Dendera Tablet was created. It is the most important Egyptian masterpiece of astronomy and calendar. The Dendera Temple on the west of the Nile was illuminated. Scholars from Egypt, Greece, and Persia gathered around a huge sandstone slab and engraved the star map based on their own observation. The priest annotated it by using hieroglyphs, allowing the future people to decipher it and observe most of the constellations between Egypt and Mesopotamia.\n\n[Basic Info]\n\nEra: 11th Dy …",
+        "fame": "27",
+        "art": "28",
+        "fth": "48",
+        "civ": "31",
+        "tech": "20",
+        "ss1": "Stone rewards from offering +0.4%",
+        "ss2": "Stone rewards from offering +0.8%",
+        "ss3": "Stone rewards from offering +1.2%",
+        "ss4": "Stone rewards from offering +2%",
+        "ss7": "Stone rewards from offering +2%<br>Stone rewards from offering +2% (Awakened)",
+        "skill1": "[[File:Kemet skill I.png|50px]]Place in Kemetic Museum: In Kemet, Snail HP +200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dendera_Tablet.wiki",
+  "markdown_path": "markdown/Dendera_Tablet.md"
+}

@@ -1,0 +1,1 @@
+Bought in the Minion Sim Shop for 600 .

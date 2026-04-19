@@ -1,0 +1,33 @@
+{
+  "pageid": 9996,
+  "ns": 0,
+  "title": "Flyer I+Bellum Gallicum+Gone with the Wind+Storyteller+Dragon Crystal+Atomic Clock",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Flyer_I%2BBellum_Gallicum%2BGone_with_the_Wind%2BStoryteller%2BDragon_Crystal%2BAtomic_Clock",
+  "touched": "2025-08-11T10:34:25Z",
+  "length": 188,
+  "lastrevid": 37516,
+  "revision": {
+    "revid": 37516,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:34:25Z",
+    "sha1": "937e58ebd1ece3b51380178741c2adf17b39ee94",
+    "size": 188
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "77",
+        "relics": "Flyer I,Bellum Gallicum,Gone with the Wind,Storyteller,Dragon Crystal,Atomic Clock",
+        "rank": "blue",
+        "amount": "6",
+        "category": "self",
+        "description": "Travel SPD +1.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Flyer_I_Bellum_Gallicum_Gone_with_the_Wind_Storyteller_Dragon_Crystal_Atomic_Clock.wiki",
+  "markdown_path": "markdown/Flyer_I_Bellum_Gallicum_Gone_with_the_Wind_Storyteller_Dragon_Crystal_Atomic_Clock.md"
+}

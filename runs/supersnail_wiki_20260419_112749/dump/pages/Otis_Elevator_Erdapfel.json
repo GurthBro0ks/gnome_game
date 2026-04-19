@@ -1,0 +1,33 @@
+{
+  "pageid": 4984,
+  "ns": 0,
+  "title": "Otis Elevator+Erdapfel",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Otis_Elevator%2BErdapfel",
+  "touched": "2025-06-20T00:10:20Z",
+  "length": 128,
+  "lastrevid": 35940,
+  "revision": {
+    "revid": 35940,
+    "parentid": 18556,
+    "timestamp": "2025-06-20T00:10:20Z",
+    "sha1": "6d85b8375d860369ba7b0ef87d0dc98c2d6b1afd",
+    "size": 128
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "379",
+        "relics": "Otis Elevator,Erdapfel",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HP +600"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Otis_Elevator_Erdapfel.wiki",
+  "markdown_path": "markdown/Otis_Elevator_Erdapfel.md"
+}

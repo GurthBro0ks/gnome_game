@@ -1,0 +1,49 @@
+{
+  "pageid": 976,
+  "ns": 0,
+  "title": "Star of David",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Star_of_David",
+  "touched": "2025-08-11T11:17:13Z",
+  "length": 1327,
+  "lastrevid": 39369,
+  "revision": {
+    "revid": 39369,
+    "parentid": 22280,
+    "timestamp": "2025-08-11T11:17:13Z",
+    "sha1": "5c5f73805cca5b67572d9a4d64f0df9f4a008b80",
+    "size": 1327
+  },
+  "categories": [
+    "Blue FAITH Relics",
+    "Blue Relics",
+    "FAITH Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Star of David",
+        "class_id": "20718",
+        "rank": "Blue",
+        "affct": "FAITH",
+        "birthday": "09-25",
+        "description": "On Sep 25, 1354 AD, King Charles IV of Bohemia selected the Star of David flag as the symbol of the Jews.<br>The Star of David is a symbol of the Jews. It is a hexagonal star composed of 2 triangles intersecting and overlapping each other. The upright triangle represents King David, while the upside-down triangle represents his descendants. It's said that this symbol also appeared on King David's shield which made it magical and indestructible.",
+        "fame": "28",
+        "art": "28",
+        "fth": "47",
+        "civ": "26",
+        "tech": "25",
+        "ss1": "Per 5 Angel Gene LVLs, Snail HP +20<br>Per 5 Angel Gene LVLs, Snail RUSH +2<br>Angel Gene LVLs Researched: 150/150",
+        "ss2": "Per 5 Angel Gene LVLs, Snail HP +40<br>Per 5 Angel Gene LVLs, Snail RUSH +4<br>Angel Gene LVLs Researched: 150/150",
+        "ss3": "Per 5 Angel Gene LVLs, Snail HP +60<br>Per 5 Angel Gene LVLs, Snail RUSH +6<br>Angel Gene LVLs Researched: 150/150",
+        "ss4": "Per 5 Angel Gene LVLs, Snail HP +100<br>Per 5 Angel Gene LVLs, Snail RUSH +10<br>Angel Gene LVLs Researched: 150/150",
+        "ss7": "Per 5 Angel Gene LVLs, Snail HP +100<br>Per 5 Angel Gene LVLs, Snail RUSH +10<br>Angel Gene LVLs Researched: 150/150<br>Snail RUSH +50 (Awakened)",
+        "skill1": "[[File:Murika skill I.png|50px]]Place in Murikan Museum: In Murika, Snail DEF +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Star_of_David.wiki",
+  "markdown_path": "markdown/Star_of_David.md"
+}

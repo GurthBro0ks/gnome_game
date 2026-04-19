@@ -1,0 +1,47 @@
+{
+  "pageid": 10348,
+  "ns": 0,
+  "title": "Dragon Emblem",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dragon_Emblem",
+  "touched": "2025-08-11T10:47:33Z",
+  "length": 896,
+  "lastrevid": 38080,
+  "revision": {
+    "revid": 38080,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:47:33Z",
+    "sha1": "334925f072f26ab2a75a60140b282c53034f7f30",
+    "size": 896
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dragon Emblem",
+        "class_id": "20266",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This emblem symbolizes the ultimate Divine Dragon and can only be obtained by its trusted believers. Those who get this emblem will be favored by the Divine Dragon and bring themselves good luck!",
+        "fame": "13",
+        "art": "15",
+        "fth": "31",
+        "civ": "15",
+        "tech": "16",
+        "ss1": "Activate Ultimate Divine Dragon avatar<br>Per Dragon Form Tier, Snail ATK +20<br>Dragon Form Tiers: 9/9",
+        "ss2": "Activate Ultimate Divine Dragon avatar<br>Per Dragon Form Tier, Snail ATK +40<br>Dragon Form Tiers: 9/9",
+        "ss3": "Activate Ultimate Divine Dragon avatar<br>Per Dragon Form Tier, Snail ATK +60<br>Dragon Form Tiers: 9/9",
+        "ss4": "Activate Ultimate Divine Dragon avatar<br>Per Dragon Form Tier, Snail ATK +60<br>Dragon Form Tiers: 9/9",
+        "ss7": "Activate Ultimate Divine Dragon avatar<br>Per Dragon Form Tier, Snail ATK +60<br>Dragon Form Tiers: 9/9<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dragon_Emblem.wiki",
+  "markdown_path": "markdown/Dragon_Emblem.md"
+}

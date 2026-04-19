@@ -1,0 +1,35 @@
+{
+  "pageid": 8004,
+  "ns": 0,
+  "title": "Vacuum Tube+Agris Gold Helmet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Vacuum_Tube%2BAgris_Gold_Helmet",
+  "touched": "2025-02-22T17:19:02Z",
+  "length": 241,
+  "lastrevid": 33457,
+  "revision": {
+    "revid": 33457,
+    "parentid": 0,
+    "timestamp": "2025-02-22T03:10:03Z",
+    "sha1": "9c63f67f1b954906f35836b6da18ac6ffd77d3d8",
+    "size": 241
+  },
+  "categories": [
+    "DEF Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Vacuum Tube,Agris Gold Helmet",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 Constellation LVLs, Snail DEF +14; Constellation LVLs: 3,000/3,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Vacuum_Tube_Agris_Gold_Helmet.wiki",
+  "markdown_path": "markdown/Vacuum_Tube_Agris_Gold_Helmet.md"
+}

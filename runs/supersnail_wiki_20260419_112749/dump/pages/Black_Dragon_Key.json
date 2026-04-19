@@ -1,0 +1,46 @@
+{
+  "pageid": 11047,
+  "ns": 0,
+  "title": "Black Dragon Key",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Black_Dragon_Key",
+  "touched": "2025-09-30T22:12:28Z",
+  "length": 618,
+  "lastrevid": 40405,
+  "revision": {
+    "revid": 40405,
+    "parentid": 40343,
+    "timestamp": "2025-09-30T22:12:28Z",
+    "sha1": "9b0e32bcbf5af91a1466fd1f6be58e659ebe426d",
+    "size": 618
+  },
+  "categories": [
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Missing Info",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Black Dragon Key",
+        "class_id": "20223",
+        "rank": "Green",
+        "affct": "FTH",
+        "description": "Since the last Rezero War, the fallen tribe of Black Dragon has been hiding in the underground world. It is said that they have built a huge Dragon City there, and only those with the key can find the entrance to the city.",
+        "fame": "18",
+        "art": "13",
+        "fth": "27",
+        "civ": "13",
+        "tech": "19",
+        "ss1": "Per Dragon Form Tier, Snail ATK +10<br>Dragon Form Tiers: 9/9",
+        "ss2": "Per Dragon Form Tier, Snail ATK +20<br>Dragon Form Tiers: 9/9",
+        "ss3": "Per Dragon Form Tier, Snail ATK +30<br>Dragon Form Tiers: 9/9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Black_Dragon_Key.wiki",
+  "markdown_path": "markdown/Black_Dragon_Key.md"
+}

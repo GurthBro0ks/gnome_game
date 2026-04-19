@@ -1,0 +1,55 @@
+{
+  "pageid": 1277,
+  "ns": 0,
+  "title": "Viking Horn",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Viking_Horn",
+  "touched": "2024-09-06T09:58:05Z",
+  "length": 1542,
+  "lastrevid": 22451,
+  "revision": {
+    "revid": 22451,
+    "parentid": 17232,
+    "timestamp": "2024-02-21T03:16:50Z",
+    "sha1": "4234b6e4422c5269ef4ce286e60313a04ea355a4",
+    "size": 1542
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Dragon Minion HARD Boost",
+    "Enhanced by Lottery Draws",
+    "Murika Exploration Boost",
+    "Murika Museum Boost",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Viking Horn",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "11-27",
+        "source": "Lottery Machine (0.03%), Wishing (0.82%)",
+        "description": "On Nov 27, 2014, the Viking Horn, which can awaken the sleeping gods, was blown again. \n\nThe Viking Horn is made of gold and dragon horns. Its sound is so loud that it can shake the earth. Only a person with breath deep enough can blow it. This time, it is blown again to awaken the son of Odin and the gods to join the battlefield. This means that all moralities of the human world will be disregarded and wars will soon break out all over the world. Skoll and Hati, the wolves, will devour the sun  …",
+        "fame": "28",
+        "art": "28",
+        "fth": "29",
+        "civ": "45",
+        "tech": "24",
+        "ss1": "Per 10 Dragon Minions in battle, Troop HARD Stats +1",
+        "ss2": "Per 10 Dragon Minions in battle, Troop HARD Stats +2",
+        "ss3": "Per 10 Dragon Minions in battle, Troop HARD Stats +3",
+        "ss4": "Per 10 Dragon Minions in battle, Troop HARD Stats +5",
+        "ss7": "Per 10 Dragon Minions in battle, Troop HARD Stats +5<br>Per 10 Dragon Minions in battle, Troop HARD Stats +3 (Awakened)",
+        "skill1": "[[File:Murika skill I.png|50px]] Place in Murikan Museum: In Murika, Snail ATK +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Viking_Horn.wiki",
+  "markdown_path": "markdown/Viking_Horn.md"
+}

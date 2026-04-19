@@ -1,0 +1,33 @@
+{
+  "pageid": 10564,
+  "ns": 0,
+  "title": "Marconi Telegraph+Speech of MLK+Dream Top+Codex Leicester",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Marconi_Telegraph%2BSpeech_of_MLK%2BDream_Top%2BCodex_Leicester",
+  "touched": "2025-08-11T10:54:58Z",
+  "length": 210,
+  "lastrevid": 38403,
+  "revision": {
+    "revid": 38403,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:54:58Z",
+    "sha1": "0026e8b40c1b3ba31736fee56473f4927d13945b",
+    "size": 210
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "138",
+        "relics": "Marconi Telegraph,Speech of MLK,Dream Top,Codex Leicester",
+        "rank": "purple",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 500 DNA Strength, Snail HP +40;DNA Strength: 20000/20000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Marconi_Telegraph_Speech_of_MLK_Dream_Top_Codex_Leicester.wiki",
+  "markdown_path": "markdown/Marconi_Telegraph_Speech_of_MLK_Dream_Top_Codex_Leicester.md"
+}

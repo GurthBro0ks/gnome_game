@@ -1,0 +1,47 @@
+{
+  "pageid": 1143,
+  "ns": 0,
+  "title": "Treasure Gourd",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Treasure_Gourd",
+  "touched": "2025-08-11T10:53:27Z",
+  "length": 740,
+  "lastrevid": 38340,
+  "revision": {
+    "revid": 38340,
+    "parentid": 19414,
+    "timestamp": "2025-08-11T10:53:27Z",
+    "sha1": "207a9c41dfdf05d864bcbae497b3db8224956780",
+    "size": 740
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Treasure Gourd",
+        "class_id": "20228",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This gourd is a treasure carried by the God of Fortune. At the beginning of the cosmos, there was an immortal vine. After years of evolution, the vine bore seven gourds, each having the power to shape the world. This gourd is one of them, but no one knows the magic spells to activate it!",
+        "fame": "14",
+        "art": "16",
+        "fth": "31",
+        "civ": "18",
+        "tech": "13",
+        "ss1": "Per Incense used, Snail DEF +1<br>Incense Used: 20/20",
+        "ss2": "Per Incense used, Snail DEF +2<br>Incense Used: 20/20",
+        "ss3": "Per Incense used, Snail DEF +3<br>Incense Used: 20/20",
+        "ss4": "Per Incense used, Snail DEF +3<br>Incense Used: 20/20",
+        "ss7": "Per Incense used, Snail DEF +3<br>Incense Used: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Treasure_Gourd.wiki",
+  "markdown_path": "markdown/Treasure_Gourd.md"
+}

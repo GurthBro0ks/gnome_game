@@ -1,0 +1,33 @@
+{
+  "pageid": 4310,
+  "ns": 0,
+  "title": "Leo+Virgo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Leo%2BVirgo",
+  "touched": "2025-08-11T10:34:43Z",
+  "length": 115,
+  "lastrevid": 37530,
+  "revision": {
+    "revid": 37530,
+    "parentid": 15986,
+    "timestamp": "2025-08-11T10:34:43Z",
+    "sha1": "9f10f45035fcb089e4f66d43e70cdb3068c1031d",
+    "size": 115
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "285",
+        "relics": "Leo,Virgo",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Leo_Virgo.wiki",
+  "markdown_path": "markdown/Leo_Virgo.md"
+}

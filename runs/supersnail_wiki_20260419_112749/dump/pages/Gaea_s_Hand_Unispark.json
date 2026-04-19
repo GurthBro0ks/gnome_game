@@ -1,0 +1,35 @@
+{
+  "pageid": 3752,
+  "ns": 0,
+  "title": "Gaea's Hand+Unispark",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gaea%27s_Hand%2BUnispark",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 153,
+  "lastrevid": 13650,
+  "revision": {
+    "revid": 13650,
+    "parentid": 0,
+    "timestamp": "2023-10-02T08:17:08Z",
+    "sha1": "35a084f6e5c9b643b46ee311c82387f76abebbfc",
+    "size": 153
+  },
+  "categories": [
+    "Home",
+    "home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Gaea's Hand,Unispark",
+        "rank": "orange",
+        "amount": "2",
+        "category": "home",
+        "description": "Quarry Output +14%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gaea_s_Hand_Unispark.wiki",
+  "markdown_path": "markdown/Gaea_s_Hand_Unispark.md"
+}

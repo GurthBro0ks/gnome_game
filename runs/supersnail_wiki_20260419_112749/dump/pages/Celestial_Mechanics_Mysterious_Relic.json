@@ -1,0 +1,35 @@
+{
+  "pageid": 8289,
+  "ns": 0,
+  "title": "Celestial Mechanics+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Celestial_Mechanics%2BMysterious_Relic",
+  "touched": "2025-04-21T02:50:48Z",
+  "length": 263,
+  "lastrevid": 34071,
+  "revision": {
+    "revid": 34071,
+    "parentid": 0,
+    "timestamp": "2025-04-21T02:50:48Z",
+    "sha1": "0320c15f42a61b3aebe25b395c322cab7d99ea01",
+    "size": 263
+  },
+  "categories": [
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Celestial Mechanics,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2 fully unlocked Tactical Logs, Snail RUSH +7; Fully Unlocked Tactical Logs: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Celestial_Mechanics_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Celestial_Mechanics_Mysterious_Relic.md"
+}

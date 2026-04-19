@@ -1,0 +1,33 @@
+{
+  "pageid": 3282,
+  "ns": 0,
+  "title": "Nipkow Disk+Atomic Spectroscopy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nipkow_Disk%2BAtomic_Spectroscopy",
+  "touched": "2025-06-20T00:00:21Z",
+  "length": 135,
+  "lastrevid": 35744,
+  "revision": {
+    "revid": 35744,
+    "parentid": 11952,
+    "timestamp": "2025-06-20T00:00:21Z",
+    "sha1": "8ec6b7fef7d5d873c63cac084dd118cf73d2c3d8",
+    "size": 135
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "347",
+        "relics": "Nipkow Disk,Atomic Spectroscopy",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HP +500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nipkow_Disk_Atomic_Spectroscopy.wiki",
+  "markdown_path": "markdown/Nipkow_Disk_Atomic_Spectroscopy.md"
+}

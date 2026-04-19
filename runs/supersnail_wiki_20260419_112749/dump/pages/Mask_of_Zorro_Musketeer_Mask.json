@@ -1,0 +1,35 @@
+{
+  "pageid": 3301,
+  "ns": 0,
+  "title": "Mask of Zorro+Musketeer Mask",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mask_of_Zorro%2BMusketeer_Mask",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 225,
+  "lastrevid": 18334,
+  "revision": {
+    "revid": 18334,
+    "parentid": 17764,
+    "timestamp": "2023-11-13T20:57:15Z",
+    "sha1": "5d38758a8d6197617beb9125dae9b64d87e28e75",
+    "size": 225
+  },
+  "categories": [
+    "Angel Minion ATK Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Mask of Zorro,Musketeer Mask",
+        "rank": "blue",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 10 Angel Minions in battle: Troop ATK +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mask_of_Zorro_Musketeer_Mask.wiki",
+  "markdown_path": "markdown/Mask_of_Zorro_Musketeer_Mask.md"
+}

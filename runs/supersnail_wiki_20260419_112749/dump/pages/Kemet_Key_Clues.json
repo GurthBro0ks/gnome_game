@@ -1,0 +1,74 @@
+{
+  "pageid": 3418,
+  "ns": 0,
+  "title": "Kemet Key Clues",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kemet_Key_Clues",
+  "touched": "2025-10-04T09:47:10Z",
+  "length": 12548,
+  "lastrevid": 32407,
+  "revision": {
+    "revid": 32407,
+    "parentid": 28682,
+    "timestamp": "2024-12-22T12:42:48Z",
+    "sha1": "cab2cccf296b0dd3ef025e8a31c2eef0418f8e04",
+    "size": 12548
+  },
+  "categories": [
+    "Kemet",
+    "Locations",
+    "Realm"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "green",
+        "2": "Exploration",
+        "3": "Duckbill Axe"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "blue",
+        "2": "Exploration",
+        "3": "Guardian Longsword"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "purple",
+        "2": "Exploration",
+        "3": "Scimitar"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "orange",
+        "2": "Exploration",
+        "3": "Horse Helmet"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "red",
+        "2": "Exploration",
+        "3": "Lion King's Sword"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "purple",
+        "2": "Material",
+        "3": "Abyss Amulet"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kemet_Key_Clues.wiki",
+  "markdown_path": "markdown/Kemet_Key_Clues.md"
+}

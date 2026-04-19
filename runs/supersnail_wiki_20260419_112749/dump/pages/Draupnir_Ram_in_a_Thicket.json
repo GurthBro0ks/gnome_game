@@ -1,0 +1,33 @@
+{
+  "pageid": 6548,
+  "ns": 0,
+  "title": "Draupnir+Ram in a Thicket",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Draupnir%2BRam_in_a_Thicket",
+  "touched": "2025-07-02T09:42:25Z",
+  "length": 161,
+  "lastrevid": 37046,
+  "revision": {
+    "revid": 37046,
+    "parentid": 27053,
+    "timestamp": "2025-07-02T09:42:25Z",
+    "sha1": "57fdadfc6cf0429f7ff8941d12618ed4210f485a",
+    "size": 161
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "866",
+        "relics": "Draupnir,Ram in a Thicket",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 T7+ Minions in battle: Troop DEF +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Draupnir_Ram_in_a_Thicket.wiki",
+  "markdown_path": "markdown/Draupnir_Ram_in_a_Thicket.md"
+}

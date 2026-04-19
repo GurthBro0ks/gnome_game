@@ -1,0 +1,47 @@
+{
+  "pageid": 205,
+  "ns": 0,
+  "title": "Curse of President",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Curse_of_President",
+  "touched": "2025-08-11T10:32:17Z",
+  "length": 652,
+  "lastrevid": 37421,
+  "revision": {
+    "revid": 37421,
+    "parentid": 32198,
+    "timestamp": "2025-08-11T10:32:17Z",
+    "sha1": "676bcfccf7e14d82637809e240666a143208db10",
+    "size": 652
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Curse of President",
+        "class_id": "20022",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "The Koryeon Commissioner's residence is cursed. Every past commissioner has suffered an ill fate. This evil curse has eventually embodied itself into this Relic.",
+        "fame": "15",
+        "art": "19",
+        "fth": "27",
+        "civ": "19",
+        "tech": "10",
+        "ss1": "Per Altar God Descent, Snail ATK +2<br>Gods Descended: 30/30",
+        "ss2": "Per Altar God Descent, Snail ATK +4<br>Gods Descended: 30/30",
+        "ss3": "Per Altar God Descent, Snail ATK +6<br>Gods Descended: 30/30",
+        "ss4": "Per Altar God Descent, Snail ATK +6<br>Gods Descended: 30/30",
+        "ss7": "Per Altar God Descent, Snail ATK +6<br>Gods Descended: 30/30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Curse_of_President.wiki",
+  "markdown_path": "markdown/Curse_of_President.md"
+}

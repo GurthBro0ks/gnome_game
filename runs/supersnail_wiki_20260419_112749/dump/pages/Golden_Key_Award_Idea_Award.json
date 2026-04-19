@@ -1,0 +1,33 @@
+{
+  "pageid": 8125,
+  "ns": 0,
+  "title": "Golden Key Award+Idea Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Key_Award%2BIdea_Award",
+  "touched": "2025-08-11T11:01:28Z",
+  "length": 180,
+  "lastrevid": 38686,
+  "revision": {
+    "revid": 38686,
+    "parentid": 33729,
+    "timestamp": "2025-08-11T11:01:28Z",
+    "sha1": "0833a8abc45752075904b8b1966f1fdf47eea02e",
+    "size": 180
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "770",
+        "relics": "Golden Key Award,Idea Award",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Dorm Decor gained, Snail DEF +7;Dorm Decor Gained: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Key_Award_Idea_Award.wiki",
+  "markdown_path": "markdown/Golden_Key_Award_Idea_Award.md"
+}

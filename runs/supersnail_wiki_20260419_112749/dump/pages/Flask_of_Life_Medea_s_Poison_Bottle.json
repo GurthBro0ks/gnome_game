@@ -1,0 +1,33 @@
+{
+  "pageid": 6232,
+  "ns": 0,
+  "title": "Flask of Life+Medea's Poison Bottle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Flask_of_Life%2BMedea%27s_Poison_Bottle",
+  "touched": "2025-06-20T00:20:06Z",
+  "length": 201,
+  "lastrevid": 36201,
+  "revision": {
+    "revid": 36201,
+    "parentid": 24948,
+    "timestamp": "2025-06-20T00:20:06Z",
+    "sha1": "13ee92f2892480c903e6b093b9831e2255d1ae2e",
+    "size": 201
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "624",
+        "relics": "Flask of Life,Medea's Poison Bottle",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "When you receive Green Spores from Catalysis: Gain +1 Spore Voucher by +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Flask_of_Life_Medea_s_Poison_Bottle.wiki",
+  "markdown_path": "markdown/Flask_of_Life_Medea_s_Poison_Bottle.md"
+}

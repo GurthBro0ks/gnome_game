@@ -1,0 +1,33 @@
+{
+  "pageid": 9801,
+  "ns": 0,
+  "title": "The Kiss+World Trade Agreement+Kinkaku-ji Model+Jin Hou Bird Zun+Zeno’s Paradoxes+Cangjie’s Glyph Stele",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Kiss%2BWorld_Trade_Agreement%2BKinkaku-ji_Model%2BJin_Hou_Bird_Zun%2BZeno%E2%80%99s_Paradoxes%2BCangjie%E2%80%99s_Glyph_Stele",
+  "touched": "2025-07-02T09:49:35Z",
+  "length": 277,
+  "lastrevid": 37094,
+  "revision": {
+    "revid": 37094,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:43:44Z",
+    "sha1": "c39cc7bc766f80ca6f351c6232fd985334c21d82",
+    "size": 277
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "901",
+        "relics": "The Kiss,World Trade Agreement,Kinkaku-ji Model,Jin Hou Bird Zun,Zeno’s Paradoxes,Cangjie’s Glyph Stele",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Per Orange Brand Cases opened, Snail ATK +12;Orange Brand Cases Opened: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Kiss_World_Trade_Agreement_Kinkaku-ji_Model_Jin_Hou_Bird_Zun_Zeno_s_Paradoxes_Cangjie_s_Glyph_Stele.wiki",
+  "markdown_path": "markdown/The_Kiss_World_Trade_Agreement_Kinkaku-ji_Model_Jin_Hou_Bird_Zun_Zeno_s_Paradoxes_Cangjie_s_Glyph_Stele.md"
+}

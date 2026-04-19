@@ -1,0 +1,33 @@
+{
+  "pageid": 3761,
+  "ns": 0,
+  "title": "Noah's Ark+Einstein's Brain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Noah%27s_Ark%2BEinstein%27s_Brain",
+  "touched": "2025-08-11T10:50:38Z",
+  "length": 156,
+  "lastrevid": 38217,
+  "revision": {
+    "revid": 38217,
+    "parentid": 13659,
+    "timestamp": "2025-08-11T10:50:38Z",
+    "sha1": "f5cf37b7a8dbfdefaceb43b0acc52bf8aa17dc9b",
+    "size": 156
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "229",
+        "relics": "Noah's Ark,Einstein's Brain",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Mutant Gene research Cell cost -4.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Noah_s_Ark_Einstein_s_Brain.wiki",
+  "markdown_path": "markdown/Noah_s_Ark_Einstein_s_Brain.md"
+}

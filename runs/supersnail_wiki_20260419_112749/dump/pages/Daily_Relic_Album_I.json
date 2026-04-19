@@ -1,0 +1,35 @@
+{
+  "pageid": 9821,
+  "ns": 0,
+  "title": "Daily Relic Album I",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Daily_Relic_Album_I",
+  "touched": "2025-07-02T09:53:52Z",
+  "length": 2618,
+  "lastrevid": 37236,
+  "revision": {
+    "revid": 37236,
+    "parentid": 37196,
+    "timestamp": "2025-07-02T09:53:52Z",
+    "sha1": "83e4c5042cd57c446bf6fe92612ccd36ac768c53",
+    "size": 2618
+  },
+  "categories": [
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "#cargo_query:table=Relics",
+      "params": {
+        "fields": "name, source, affct, rank, ss3, ss7, fame, art, fth, civ, tech, skill1,skill2,skill3, source",
+        "where": "source LIKE '%Daily Relic Album I %'",
+        "order by": "source",
+        "format": "template",
+        "template": "RelicSourceTableRow",
+        "named args": "yes"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Daily_Relic_Album_I.wiki",
+  "markdown_path": "markdown/Daily_Relic_Album_I.md"
+}

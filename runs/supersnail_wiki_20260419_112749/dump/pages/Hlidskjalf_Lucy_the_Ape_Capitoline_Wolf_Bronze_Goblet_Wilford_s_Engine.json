@@ -1,0 +1,33 @@
+{
+  "pageid": 8899,
+  "ns": 0,
+  "title": "Hlidskjalf+Lucy the Ape+Capitoline Wolf+Bronze Goblet+Wilford's Engine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hlidskjalf%2BLucy_the_Ape%2BCapitoline_Wolf%2BBronze_Goblet%2BWilford%27s_Engine",
+  "touched": "2025-08-11T10:57:21Z",
+  "length": 237,
+  "lastrevid": 35755,
+  "revision": {
+    "revid": 35755,
+    "parentid": 34941,
+    "timestamp": "2025-06-20T00:00:36Z",
+    "sha1": "0cedc50ecfb73a870c71551b9f99745205601c0a",
+    "size": 237
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "556",
+        "relics": "Hlidskjalf,Lucy the Ape,Capitoline Wolf,Bronze Goblet,Wilford's Engine",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "Per 7 Mutant Gene LVLs, Snail ATK +20;Mutant Gene LVLs Researched: 210/210"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hlidskjalf_Lucy_the_Ape_Capitoline_Wolf_Bronze_Goblet_Wilford_s_Engine.wiki",
+  "markdown_path": "markdown/Hlidskjalf_Lucy_the_Ape_Capitoline_Wolf_Bronze_Goblet_Wilford_s_Engine.md"
+}

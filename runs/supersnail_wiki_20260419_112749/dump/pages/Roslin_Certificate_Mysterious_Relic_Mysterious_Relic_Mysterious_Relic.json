@@ -1,0 +1,35 @@
+{
+  "pageid": 7725,
+  "ns": 0,
+  "title": "Roslin Certificate+Mysterious Relic+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Roslin_Certificate%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2024-12-24T21:56:49Z",
+  "length": 242,
+  "lastrevid": 32451,
+  "revision": {
+    "revid": 32451,
+    "parentid": 0,
+    "timestamp": "2024-12-24T21:53:00Z",
+    "sha1": "db31c6c1246d41545093c5cb9bdb51dd98295ffc",
+    "size": 242
+  },
+  "categories": [
+    "Home",
+    "Resolver Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Roslin Certificate,Mysterious Relic,Mysterious Relic,Mysterious Relic",
+        "rank": "orange",
+        "amount": "4",
+        "category": "home",
+        "description": "Resolver: W-tads extracted +45"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Roslin_Certificate_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Roslin_Certificate_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic.md"
+}

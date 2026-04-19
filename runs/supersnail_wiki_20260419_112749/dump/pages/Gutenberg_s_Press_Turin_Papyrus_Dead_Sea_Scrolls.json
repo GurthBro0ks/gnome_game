@@ -1,0 +1,33 @@
+{
+  "pageid": 3803,
+  "ns": 0,
+  "title": "Gutenberg's Press+Turin Papyrus+Dead Sea Scrolls",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gutenberg%27s_Press%2BTurin_Papyrus%2BDead_Sea_Scrolls",
+  "touched": "2025-07-02T09:44:03Z",
+  "length": 186,
+  "lastrevid": 37106,
+  "revision": {
+    "revid": 37106,
+    "parentid": 13702,
+    "timestamp": "2025-07-02T09:44:03Z",
+    "sha1": "8513ace219aa4e7bdf34f84fcf8b088eb4f9eaca",
+    "size": 186
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "248",
+        "relics": "Gutenberg's Press,Turin Papyrus,Dead Sea Scrolls",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "In explorations, 3.2% chance to gain 2x INTEL"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gutenberg_s_Press_Turin_Papyrus_Dead_Sea_Scrolls.wiki",
+  "markdown_path": "markdown/Gutenberg_s_Press_Turin_Papyrus_Dead_Sea_Scrolls.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 660,
+  "ns": 0,
+  "title": "King Sejong's Portrait",
+  "fullurl": "https://supersnail.wiki.gg/wiki/King_Sejong%27s_Portrait",
+  "touched": "2025-08-11T11:11:36Z",
+  "length": 771,
+  "lastrevid": 39124,
+  "revision": {
+    "revid": 39124,
+    "parentid": 11644,
+    "timestamp": "2025-08-11T11:11:36Z",
+    "sha1": "b62fd4a0a85c46fe558b85b87288621ee6fc2906",
+    "size": 771
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "King Sejong's Portrait",
+        "class_id": "20074",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "As the greatest monarch in Korean history, King Sejong has always been highly respected by the people. According to records, the real portrait of King Sejong was burned during wars. What is shown now is the imaginary work of later generations.",
+        "fame": "18",
+        "art": "12",
+        "fth": "13",
+        "civ": "30",
+        "tech": "17",
+        "ss1": "Per 5 Avatars activated, Snail ATK +1<br>Avatars Activated: 100/100",
+        "ss2": "Per 5 Avatars activated, Snail ATK +2<br>Avatars Activated: 100/100",
+        "ss3": "Per 5 Avatars activated, Snail ATK +3<br>Avatars Activated: 100/100",
+        "ss4": "Per 5 Avatars activated, Snail ATK +3<br>Avatars Activated: 100/100",
+        "ss7": "Per 5 Avatars activated, Snail ATK +3<br>Avatars Activated: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/King_Sejong_s_Portrait.wiki",
+  "markdown_path": "markdown/King_Sejong_s_Portrait.md"
+}

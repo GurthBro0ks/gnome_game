@@ -1,0 +1,33 @@
+{
+  "pageid": 6100,
+  "ns": 0,
+  "title": "Ship of Theseus+Mendel's Manuscript",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ship_of_Theseus%2BMendel%27s_Manuscript",
+  "touched": "2025-08-11T10:52:57Z",
+  "length": 192,
+  "lastrevid": 38317,
+  "revision": {
+    "revid": 38317,
+    "parentid": 31663,
+    "timestamp": "2025-08-11T10:52:57Z",
+    "sha1": "fff26e2d66149774c1676740764ce97a75de2299",
+    "size": 192
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "523",
+        "relics": "Ship of Theseus,Mendel's Manuscript",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Rift Apostle defeated, Snail ATK +7;Apostles Defeated: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ship_of_Theseus_Mendel_s_Manuscript.wiki",
+  "markdown_path": "markdown/Ship_of_Theseus_Mendel_s_Manuscript.md"
+}

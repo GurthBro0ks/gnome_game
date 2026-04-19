@@ -1,0 +1,33 @@
+{
+  "pageid": 3315,
+  "ns": 0,
+  "title": "Bronze Bird+Twelve Tables",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bronze_Bird%2BTwelve_Tables",
+  "touched": "2025-08-11T10:44:20Z",
+  "length": 146,
+  "lastrevid": 37942,
+  "revision": {
+    "revid": 37942,
+    "parentid": 12052,
+    "timestamp": "2025-08-11T10:44:20Z",
+    "sha1": "299a706051fd3da35922a32af2a532173fb6bf53",
+    "size": 146
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "46",
+        "relics": "Bronze Bird,Twelve Tables",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "B-tad rewards from offering +2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bronze_Bird_Twelve_Tables.wiki",
+  "markdown_path": "markdown/Bronze_Bird_Twelve_Tables.md"
+}

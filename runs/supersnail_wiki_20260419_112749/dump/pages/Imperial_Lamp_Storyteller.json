@@ -1,0 +1,34 @@
+{
+  "pageid": 3293,
+  "ns": 0,
+  "title": "Imperial Lamp+Storyteller",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Imperial_Lamp%2BStoryteller",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 179,
+  "lastrevid": 12028,
+  "revision": {
+    "revid": 12028,
+    "parentid": 0,
+    "timestamp": "2023-09-13T07:21:58Z",
+    "sha1": "a1dafc88b783595befc845125c7028f9a4efa7d0",
+    "size": 179
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Imperial Lamp,Storyteller",
+        "rank": "blue",
+        "amount": "2",
+        "category": "home",
+        "description": "Lumber Camp produces Ancient Wood by +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Imperial_Lamp_Storyteller.wiki",
+  "markdown_path": "markdown/Imperial_Lamp_Storyteller.md"
+}

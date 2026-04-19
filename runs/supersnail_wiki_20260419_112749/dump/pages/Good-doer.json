@@ -1,0 +1,47 @@
+{
+  "pageid": 10325,
+  "ns": 0,
+  "title": "Good-doer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Good-doer",
+  "touched": "2025-08-11T10:46:57Z",
+  "length": 662,
+  "lastrevid": 38053,
+  "revision": {
+    "revid": 38053,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:46:57Z",
+    "sha1": "164a180b6d77861c38f252a75401d5fd61f26cf1",
+    "size": 662
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Good-doer",
+        "class_id": "20471",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The Good-doer certificate is a way to thank the kind-hearted ones, also, it encourages everybody to do good. Every small action of kindness may touch people's hearts.",
+        "fame": "29",
+        "art": "17",
+        "fth": "14",
+        "civ": "16",
+        "tech": "14",
+        "ss1": "Per 100 Badges gained, Snail ATK +3<br>Badges Gained: 2000/2000",
+        "ss2": "Per 100 Badges gained, Snail ATK +4<br>Badges Gained: 2000/2000",
+        "ss3": "Per 100 Badges gained, Snail ATK +5<br>Badges Gained: 2000/2000",
+        "ss4": "Per 100 Badges gained, Snail ATK +5<br>Badges Gained: 2000/2000",
+        "ss7": "Per 100 Badges gained, Snail ATK +5<br>Badges Gained: 2000/2000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Good-doer.wiki",
+  "markdown_path": "markdown/Good-doer.md"
+}

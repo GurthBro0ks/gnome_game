@@ -1,0 +1,35 @@
+{
+  "pageid": 6223,
+  "ns": 0,
+  "title": "Mouth Of Truth+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mouth_Of_Truth%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 292,
+  "lastrevid": 24938,
+  "revision": {
+    "revid": 24938,
+    "parentid": 0,
+    "timestamp": "2024-04-06T23:59:16Z",
+    "sha1": "9a47e71318a88b092280569746b98b2623d8d4e1",
+    "size": 292
+  },
+  "categories": [
+    "Minion",
+    "Priest-Snail Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Mouth Of Truth,Mysterious Relic",
+        "rank": "purple",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 2,000 Swamp Sanctum Rating Pts, Priest-Snail Assistance DMG +48; Swamp Sanctum Rating Pts: 100,000/100,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mouth_Of_Truth_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Mouth_Of_Truth_Mysterious_Relic.md"
+}

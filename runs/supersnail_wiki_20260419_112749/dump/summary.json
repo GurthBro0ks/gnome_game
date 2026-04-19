@@ -1,0 +1,268 @@
+{
+  "api": "https://supersnail.wiki.gg/api.php",
+  "namespaces": [
+    0
+  ],
+  "pages_indexed": 4125,
+  "pages_fetched": 4125,
+  "likely_item_pages": 3508,
+  "unique_categories": 562,
+  "top_categories": [
+    [
+      "Relics",
+      2294
+    ],
+    [
+      "Green Relics",
+      731
+    ],
+    [
+      "Orange Relics",
+      728
+    ],
+    [
+      "FAME Relics",
+      465
+    ],
+    [
+      "TECH Relics",
+      427
+    ],
+    [
+      "Purple Relics",
+      418
+    ],
+    [
+      "CIV Relics",
+      398
+    ],
+    [
+      "Pages with broken file links",
+      395
+    ],
+    [
+      "ART Relics",
+      373
+    ],
+    [
+      "Blue Relics",
+      355
+    ],
+    [
+      "ATK Boost",
+      326
+    ],
+    [
+      "FAITH Relics",
+      315
+    ],
+    [
+      "Clones",
+      226
+    ],
+    [
+      "Self",
+      222
+    ],
+    [
+      "HP Boost",
+      211
+    ],
+    [
+      "DEF Boost",
+      206
+    ],
+    [
+      "Green FAME Relics",
+      190
+    ],
+    [
+      "RUSH Boost",
+      186
+    ],
+    [
+      "Green TECH Relics",
+      155
+    ],
+    [
+      "Orange FAME Relics",
+      140
+    ],
+    [
+      "Orange CIV Relics",
+      137
+    ],
+    [
+      "Orange ART Relics",
+      137
+    ],
+    [
+      "Orange TECH Relics",
+      136
+    ],
+    [
+      "Shells",
+      133
+    ],
+    [
+      "Green FAITH Relics",
+      131
+    ],
+    [
+      "Missing Info",
+      123
+    ],
+    [
+      "Green CIV Relics",
+      122
+    ],
+    [
+      "Minion",
+      121
+    ],
+    [
+      "FTH Relics",
+      111
+    ],
+    [
+      "Orange Clones",
+      100
+    ],
+    [
+      "Green ART Relics",
+      96
+    ],
+    [
+      "Orange FAITH Relics",
+      90
+    ],
+    [
+      "Purple ART Relics",
+      75
+    ],
+    [
+      "Purple FAME Relics",
+      72
+    ],
+    [
+      "Purple CIV Relics",
+      72
+    ],
+    [
+      "Purple TECH Relics",
+      72
+    ],
+    [
+      "Blue CIV Relics",
+      67
+    ],
+    [
+      "Blue ART Relics",
+      64
+    ],
+    [
+      "Blue TECH Relics",
+      64
+    ],
+    [
+      "Blue FAME Relics",
+      63
+    ],
+    [
+      "Red Relics",
+      61
+    ],
+    [
+      "Home",
+      57
+    ],
+    [
+      "Realm",
+      56
+    ],
+    [
+      "Locations",
+      55
+    ],
+    [
+      "Purple FAITH Relics",
+      53
+    ],
+    [
+      "Purple Clones",
+      50
+    ],
+    [
+      "Blue Clones",
+      50
+    ],
+    [
+      "Exploration Card Drop Boost",
+      46
+    ],
+    [
+      "Exploration Reagent Drop Boost",
+      45
+    ],
+    [
+      "Exploration B-tad Drop Boost",
+      43
+    ]
+  ],
+  "top_infobox_templates": [
+    [
+      "CargoRelic",
+      2088
+    ],
+    [
+      "CargoRelicResonance",
+      1142
+    ],
+    [
+      "gearrow",
+      422
+    ],
+    [
+      "RewardIconWithGearlink",
+      215
+    ],
+    [
+      "Miniongearrow",
+      87
+    ],
+    [
+      "Gearlink",
+      55
+    ],
+    [
+      "CargoRelicSkills",
+      18
+    ],
+    [
+      "#cargo_query:table=Relics",
+      8
+    ],
+    [
+      "IconExampleRowWithGearlink",
+      4
+    ],
+    [
+      "SupremeRelic",
+      1
+    ],
+    [
+      "Relic",
+      1
+    ],
+    [
+      "#cargo_query:table=Relic_Resonance",
+      1
+    ]
+  ],
+  "namespaces_seen": {
+    "0": 4125
+  },
+  "cargo_enabled": false,
+  "cargo_rows": 0,
+  "cargo_error": null
+}

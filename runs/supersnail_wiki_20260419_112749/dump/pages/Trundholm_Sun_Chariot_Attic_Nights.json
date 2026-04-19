@@ -1,0 +1,35 @@
+{
+  "pageid": 7948,
+  "ns": 0,
+  "title": "Trundholm Sun Chariot+Attic Nights",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Trundholm_Sun_Chariot%2BAttic_Nights",
+  "touched": "2025-02-21T20:03:42Z",
+  "length": 202,
+  "lastrevid": 33399,
+  "revision": {
+    "revid": 33399,
+    "parentid": 0,
+    "timestamp": "2025-02-21T20:03:42Z",
+    "sha1": "28e0e28ff7ef73a0649a4eab37d070124f22dcd7",
+    "size": 202
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Trundholm Sun Chariot,Attic Nights",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Trundholm_Sun_Chariot_Attic_Nights.wiki",
+  "markdown_path": "markdown/Trundholm_Sun_Chariot_Attic_Nights.md"
+}

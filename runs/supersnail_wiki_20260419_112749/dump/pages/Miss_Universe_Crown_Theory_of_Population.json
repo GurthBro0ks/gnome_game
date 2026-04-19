@@ -1,0 +1,33 @@
+{
+  "pageid": 4905,
+  "ns": 0,
+  "title": "Miss Universe Crown+Theory of Population",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Miss_Universe_Crown%2BTheory_of_Population",
+  "touched": "2025-06-19T23:54:55Z",
+  "length": 154,
+  "lastrevid": 35697,
+  "revision": {
+    "revid": 35697,
+    "parentid": 18392,
+    "timestamp": "2025-06-19T23:54:55Z",
+    "sha1": "ebcd07aa2f4b0241954132ffdf4ce6bedf1c469f",
+    "size": 154
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "378",
+        "relics": "Miss Universe Crown,Theory of Population",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Zombie Minion ATK +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Miss_Universe_Crown_Theory_of_Population.wiki",
+  "markdown_path": "markdown/Miss_Universe_Crown_Theory_of_Population.md"
+}

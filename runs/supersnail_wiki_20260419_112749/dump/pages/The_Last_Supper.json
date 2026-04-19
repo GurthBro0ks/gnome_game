@@ -1,0 +1,64 @@
+{
+  "pageid": 731,
+  "ns": 0,
+  "title": "The Last Supper",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Last_Supper",
+  "touched": "2025-01-07T11:14:51Z",
+  "length": 2610,
+  "lastrevid": 30153,
+  "revision": {
+    "revid": 30153,
+    "parentid": 21446,
+    "timestamp": "2024-10-15T15:47:42Z",
+    "sha1": "a00b5a6901237749c7f19ca02492417e73588532",
+    "size": 2610
+  },
+  "categories": [
+    "ART Boost",
+    "ART Relics",
+    "ATK Boost",
+    "DEF Boost",
+    "Fungus Farm Boost",
+    "Fungus Farm Output Boost",
+    "Fungus Farm Skill",
+    "Lumber Camp Skill",
+    "Orange ART Relics",
+    "Orange Relics",
+    "Organ Boost",
+    "Relics",
+    "Tadpole Pond Output Boost",
+    "Tadpole Pond Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Last Supper",
+        "rank": "S",
+        "affct": "ART",
+        "birthday": "03-09",
+        "source": "Fragment Crafting (18.1%), Lottery Machine (0.81%), Wishing (0.68%), Relic Forge (90 Relic RF)",
+        "description": "On Mar 9, AD 1498, Leonardo da Vinci completed the most important masterpiece of the Renaissance.\n\nIn the Santa Maria Delle Grazie, Leonardo da Vinci created a fresco themed on the Last Supper where Jesus shared his final meal with the Twelve Apostles. Jesus is seen sitting in the middle alone with the Twelve Apostles placed on either side. The bright light emanating from the windows behind him illuminates his solemn and sober face. The strong contrast of the background draws all focal points to …",
+        "fame": "66",
+        "art": "100",
+        "fth": "51",
+        "civ": "62",
+        "tech": "53",
+        "ss1": "Fungus Farm Output +2%<br>Fungus Farm Max Cap +2%<br>Per 5 Fungus Farm LVLs, Snail DEF +4<br>Fungus Farm LVL: 50/50",
+        "ss2": "Fungus Farm Output +4%<br>Fungus Farm Max Cap +4%<br>Per 5 Fungus Farm LVLs, Snail DEF +8<br>Fungus Farm LVL: 50/50",
+        "ss3": "Fungus Farm Output +6%<br>Fungus Farm Max Cap +6%<br>Per 5 Fungus Farm LVLs, Snail DEF +12<br>Fungus Farm LVL: 50/50",
+        "ss4": "Fungus Farm Output +10%<br>Fungus Farm Max Cap +10%<br>Per 5 Fungus Farm LVLs, Snail DEF +20<br>Fungus Farm LVL: 50/50",
+        "ss5": "Fungus Farm Output +14%<br>Fungus Farm Max Cap +14%<br>Per 5 Fungus Farm LVLs, Snail DEF +28<br>Fungus Farm LVL: 50/50",
+        "ss6": "Fungus Farm Output +20%<br>Fungus Farm Max Cap +20%<br>Per 5 Fungus Farm LVLs, Snail DEF +40<br>Fungus Farm LVL: 50/50",
+        "ss7": "Fungus Farm Output +20%<br>Fungus Farm Max Cap +20%<br>Per 5 Fungus Farm LVLs, Snail DEF +40<br>Fungus Farm LVL: 50/50<br>Fungus Farm Output +20% (Awakened)",
+        "skill1": "{{Skills|tadpolepond|btad output|30}}",
+        "skill2": "{{Skills|fungusfarm|art|15}}",
+        "skill3": "{{Skills|lumbercamp|art|15}}",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Last_Supper.wiki",
+  "markdown_path": "markdown/The_Last_Supper.md"
+}

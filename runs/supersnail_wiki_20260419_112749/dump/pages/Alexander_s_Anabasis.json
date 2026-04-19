@@ -1,0 +1,47 @@
+{
+  "pageid": 5450,
+  "ns": 0,
+  "title": "Alexander's Anabasis",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Alexander%27s_Anabasis",
+  "touched": "2025-08-11T11:14:58Z",
+  "length": 758,
+  "lastrevid": 39273,
+  "revision": {
+    "revid": 39273,
+    "parentid": 21584,
+    "timestamp": "2025-08-11T11:14:58Z",
+    "sha1": "15e215f84a97a6a7ef255b613b3e17f4e8b5203d",
+    "size": 758
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Alexander's Anabasis",
+        "class_id": "20081",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This book, written by the ancient Greek philosopher Arrian, records the legendary exploits of Alexander the Great, who led his armies across the Achaemenid Empire, from Egypt to Bharata, expanded his territory and, established the Macedonian Empire spanning Europe, Asia, and Africa.",
+        "fame": "14",
+        "art": "16",
+        "fth": "14",
+        "civ": "31",
+        "tech": "15",
+        "ss1": "Snail ATK +10<br>After conquering Bharata, leadership +5",
+        "ss2": "Snail ATK +20<br>After conquering Bharata, leadership +10",
+        "ss3": "Snail ATK +30<br>After conquering Bharata, leadership +15",
+        "ss4": "Snail ATK +30<br>After conquering Bharata, leadership +15",
+        "ss7": "Snail ATK +30<br>After conquering Bharata, leadership +15<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Alexander_s_Anabasis.wiki",
+  "markdown_path": "markdown/Alexander_s_Anabasis.md"
+}

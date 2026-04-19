@@ -1,0 +1,47 @@
+{
+  "pageid": 10478,
+  "ns": 0,
+  "title": "Blooming Spring Beauty",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Blooming_Spring_Beauty",
+  "touched": "2025-08-11T10:51:55Z",
+  "length": 958,
+  "lastrevid": 38273,
+  "revision": {
+    "revid": 38273,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:51:55Z",
+    "sha1": "17a973d9c78a3843e58e65091ace71db7260c26e",
+    "size": 958
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Blooming Spring Beauty",
+        "class_id": "20626",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "Selected from a competition among a thousand flower artists from eight countries, this floral artwork captivates with its blooming beauty. The fragrance of flowers fills the air, as if dancing dragons swirl in the breeze. Under the brilliant spring sunlight, the colorful flowers shine and compete in a vibrant spectacle, showcasing their most beautiful forms.",
+        "fame": "16",
+        "art": "31",
+        "fth": "13",
+        "civ": "15",
+        "tech": "15",
+        "ss1": "Snail HP +100<br>Per 10 HP Pistils Used, Snail ATK +1<br>HP Pistils Used: 400/400",
+        "ss2": "Snail HP +200<br>Per 10 HP Pistils Used, Snail ATK +2<br>HP Pistils Used: 400/400",
+        "ss3": "Snail HP +300<br>Per 10 HP Pistils Used, Snail ATK +3<br>HP Pistils Used: 400/400",
+        "ss4": "Snail HP +300<br>Per 10 HP Pistils Used, Snail ATK +3<br>HP Pistils Used: 400/400",
+        "ss7": "Snail HP +300<br>Per 10 HP Pistils Used, Snail ATK +3<br>HP Pistils Used: 400/400<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Blooming_Spring_Beauty.wiki",
+  "markdown_path": "markdown/Blooming_Spring_Beauty.md"
+}

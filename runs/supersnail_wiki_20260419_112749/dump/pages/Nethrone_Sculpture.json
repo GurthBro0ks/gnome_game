@@ -1,0 +1,47 @@
+{
+  "pageid": 10376,
+  "ns": 0,
+  "title": "Nethrone Sculpture",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nethrone_Sculpture",
+  "touched": "2025-08-11T10:48:41Z",
+  "length": 1008,
+  "lastrevid": 38130,
+  "revision": {
+    "revid": 38130,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:48:41Z",
+    "sha1": "3d2c85a68fc89e7b89e10ce12ebbde99728bf383",
+    "size": 1008
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Nethrone Sculpture",
+        "class_id": "20736",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "Upon learning of Nethrone's demise, Earth's Will had a batch of statues crafted in the likeness of its head. One purpose was to commemorate the historic moment of triumph over a formidable foe, and the other was to gift these to the distinguished Travelers, allowing them to share in the Joy of victory!",
+        "fame": "12",
+        "art": "15",
+        "fth": "29",
+        "civ": "18",
+        "tech": "16",
+        "ss1": "Snail Leadership +1<br>Per Demon God Sculpture owned, Snail DEF +50<br>Demon God Sculptures Owned: 8/8",
+        "ss2": "Snail Leadership +2<br>Per Demon God Sculpture owned, Snail DEF +100<br>Demon God Sculptures Owned: 8/8",
+        "ss3": "Snail Leadership +3<br>Per Demon God Sculpture owned, Snail DEF +150<br>Demon God Sculptures Owned: 8/8",
+        "ss4": "Snail Leadership +3<br>Per Demon God Sculpture owned, Snail DEF +150<br>Demon God Sculptures Owned: 8/8",
+        "ss7": "Snail Leadership +3<br>Per Demon God Sculpture owned, Snail DEF +150<br>Demon God Sculptures Owned: 8/8<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nethrone_Sculpture.wiki",
+  "markdown_path": "markdown/Nethrone_Sculpture.md"
+}

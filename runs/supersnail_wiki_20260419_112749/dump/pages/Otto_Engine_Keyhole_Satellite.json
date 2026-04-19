@@ -1,0 +1,34 @@
+{
+  "pageid": 3611,
+  "ns": 0,
+  "title": "Otto Engine+Keyhole Satellite",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Otto_Engine%2BKeyhole_Satellite",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 157,
+  "lastrevid": 13191,
+  "revision": {
+    "revid": 13191,
+    "parentid": 0,
+    "timestamp": "2023-09-22T15:10:43Z",
+    "sha1": "1ce8062605e465a560edc255062ef2c4890de4aa",
+    "size": 157
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Otto Engine,Keyhole Satellite",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Otto_Engine_Keyhole_Satellite.wiki",
+  "markdown_path": "markdown/Otto_Engine_Keyhole_Satellite.md"
+}

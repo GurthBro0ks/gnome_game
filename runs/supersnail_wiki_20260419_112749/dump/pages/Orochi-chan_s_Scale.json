@@ -1,0 +1,51 @@
+{
+  "pageid": 7037,
+  "ns": 0,
+  "title": "Orochi-chan's Scale",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Orochi-chan%27s_Scale",
+  "touched": "2024-12-26T11:25:07Z",
+  "length": 676,
+  "lastrevid": 32509,
+  "revision": {
+    "revid": 32509,
+    "parentid": 29364,
+    "timestamp": "2024-12-26T11:25:07Z",
+    "sha1": "c64631f4e08e3b34407f59fd96686913f139fc3c",
+    "size": 676
+  },
+  "categories": [
+    "ATK Boost",
+    "DEF Boost",
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "HARD Stat Boosts",
+    "HP Boost",
+    "Missing Info",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Orochi-chan's Scale",
+        "rank": "Green",
+        "affct": "FTH",
+        "source": "\"one of the ninja events\"",
+        "description": "On the inverted scales under the Orochi-chan's neck, you can sense the divine flowing light with a faint sound of wind and thunder. The essence of its whole body is concentrated on the spot. Even its close ones may be severy harmed if they accidentally touch scale.",
+        "fame": "14",
+        "art": "16",
+        "fth": "29",
+        "civ": "15",
+        "tech": "16",
+        "ss1": "Orochi-chan HARD Stats +1%",
+        "ss2": "Orochi-chan HARD Stats +2%",
+        "ss3": "Orochi-chan HARD Stats +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Orochi-chan_s_Scale.wiki",
+  "markdown_path": "markdown/Orochi-chan_s_Scale.md"
+}

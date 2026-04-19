@@ -1,0 +1,61 @@
+{
+  "pageid": 1429,
+  "ns": 0,
+  "title": "Plantagenet Badge",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Plantagenet_Badge",
+  "touched": "2024-11-04T01:11:06Z",
+  "length": 2044,
+  "lastrevid": 28727,
+  "revision": {
+    "revid": 28727,
+    "parentid": 26239,
+    "timestamp": "2024-08-12T16:55:40Z",
+    "sha1": "9984c62cc01eef3131a0afceab7db4ebc60318c8",
+    "size": 2044
+  },
+  "categories": [
+    "ATK Boost",
+    "Britland Exploration Boost",
+    "Britland Museum Boost",
+    "Demon Gene Cost Reduction",
+    "Enhanced by Purple Relics",
+    "Exploration Food Drop Boost",
+    "FAME Relics",
+    "HP Boost",
+    "Indigent Nobleman Relics",
+    "Lumber Camp Upgrade Cost Reduction",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "Relic Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Plantagenet Badge",
+        "rank": "AAA",
+        "affct": "FAME",
+        "birthday": "04-25",
+        "source": "* Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)\n* [[Indigent Nobleman]] (210k {{RewardIconWithText|B-Tad}})",
+        "description": "On Apr 25, AD 1154, England's House of Anjou designed its own emblem.\n\nWhen the House of Anjou was established, the King used this badge as their emblem. The name of the dynasty is taken from the nickname of Henry II's father, Count Geoffrey V. It is said that Geoffrey had Plantagenets on his hat. It is customary for royals to make family emblems and the House of Anjou used small branches of Plantagenets to design the family emblem. Hence, it is also commonly known as the House of Plantagenet.\n\n …",
+        "fame": "71",
+        "art": "43",
+        "fth": "44",
+        "civ": "47",
+        "tech": "38",
+        "ss1": "Lumber Camp upgrade Stone Cost -3%<br>Lumber Camp upgrade B-tad Cost -3%",
+        "ss2": "Lumber Camp upgrade Stone Cost -4%<br>Lumber Camp upgrade B-tad Cost -4%",
+        "ss3": "Lumber Camp upgrade Stone Cost -5%<br>Lumber Camp upgrade B-tad Cost -5%",
+        "ss4": "Lumber Camp upgrade Stone Cost -7%<br>Lumber Camp upgrade B-tad Cost -7%",
+        "ss5": "Lumber Camp upgrade Stone Cost -9%<br>Lumber Camp upgrade B-tad Cost -9%",
+        "ss7": "Lumber Camp upgrade Stone Cost -9%<br>Lumber Camp upgrade B-tad Cost -9%<br>Lumber Camp upgrade Stone Cost -7% (Awakened)",
+        "skill1": "[[File:Britann skill II.png|50px]] Place in Britland Museum: In Britland, 2x Food Drops +7.5%",
+        "skill2": "[[File:Britann skill II.png|50px]] Place in Britland Museum: In Britland, Snail HP +300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Plantagenet_Badge.wiki",
+  "markdown_path": "markdown/Plantagenet_Badge.md"
+}

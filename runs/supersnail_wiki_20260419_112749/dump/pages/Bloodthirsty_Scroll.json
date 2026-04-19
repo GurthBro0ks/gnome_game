@@ -1,0 +1,47 @@
+{
+  "pageid": 4068,
+  "ns": 0,
+  "title": "Bloodthirsty Scroll",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bloodthirsty_Scroll",
+  "touched": "2025-09-30T22:27:57Z",
+  "length": 577,
+  "lastrevid": 40411,
+  "revision": {
+    "revid": 40411,
+    "parentid": 40349,
+    "timestamp": "2025-09-30T22:27:57Z",
+    "sha1": "0062b718cedbbe0eb71c4e97cc5704580d5ec4ba",
+    "size": 577
+  },
+  "categories": [
+    "ATK Boost",
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bloodthirsty Scroll",
+        "class_id": "20217",
+        "rank": "Green",
+        "affct": "FTH",
+        "source": "[[Must-Not-Name]] Rent",
+        "description": "Bloodthirsty Spell was used by the Orc Shamans and can inflict fanaticism on an allied unit, boosting attack and movement speed for 20 seconds.",
+        "fame": "18",
+        "art": "13",
+        "fth": "29",
+        "civ": "12",
+        "tech": "18",
+        "ss1": "Per 4 Novice Scrolls opened, Snail ATK +1<br>Novice Scrolls opened: 120/120",
+        "ss2": "Per 4 Novice Scrolls opened, Snail ATK +2<br>Novice Scrolls opened: 120/120",
+        "ss3": "Per 4 Novice Scrolls opened, Snail ATK +3<br>Novice Scrolls opened: 120/120"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bloodthirsty_Scroll.wiki",
+  "markdown_path": "markdown/Bloodthirsty_Scroll.md"
+}

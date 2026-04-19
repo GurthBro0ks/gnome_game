@@ -1,0 +1,47 @@
+{
+  "pageid": 1162,
+  "ns": 0,
+  "title": "Noble Family Crest",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Noble_Family_Crest",
+  "touched": "2025-08-11T11:19:08Z",
+  "length": 779,
+  "lastrevid": 39451,
+  "revision": {
+    "revid": 39451,
+    "parentid": 28723,
+    "timestamp": "2025-08-11T11:19:08Z",
+    "sha1": "efea953d016ecf02c5ed8dd461c69a9318093e96",
+    "size": 779
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Noble Family Crest",
+        "class_id": "20021",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This is the crest of a noble family that once belonged to the House of Habsburg. Its ancestor made great achievements on the battlefield and was awarded the title of Count by the emperor. The pattern on the crest is the embodiment of their warrior spirit.",
+        "fame": "12",
+        "art": "26",
+        "fth": "20",
+        "civ": "13",
+        "tech": "19",
+        "ss1": "Per 1k Tadpole Points, Snail RUSH +1<br>Tadpole Points: 20000/20000",
+        "ss2": "Per 1k Tadpole Points, Snail RUSH +2<br>Tadpole Points: 20000/20000",
+        "ss3": "Per 1k Tadpole Points, Snail RUSH +3<br>Tadpole Points: 20000/20000",
+        "ss4": "Per 1k Tadpole Points, Snail RUSH +3<br>Tadpole Points: 20000/20000",
+        "ss7": "Per 1k Tadpole Points, Snail RUSH +3<br>Tadpole Points: 20000/20000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Noble_Family_Crest.wiki",
+  "markdown_path": "markdown/Noble_Family_Crest.md"
+}

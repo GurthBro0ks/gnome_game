@@ -1,0 +1,47 @@
+{
+  "pageid": 7641,
+  "ns": 0,
+  "title": "Horn of Abundance",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Horn_of_Abundance",
+  "touched": "2025-08-11T11:04:59Z",
+  "length": 904,
+  "lastrevid": 38836,
+  "revision": {
+    "revid": 38836,
+    "parentid": 32698,
+    "timestamp": "2025-08-11T11:04:59Z",
+    "sha1": "e670495925789462e5a887bc82403d22c8f8be93",
+    "size": 904
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Horn of Abundance",
+        "class_id": "20558",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "On the dining table is something in the shape of a ram's horn. The horn emits a soft radiance, filling the air with a sense of abundance and joy. You see many fruits in the horn: glimmering grapes, golden apples and luscious oranges. You also notice people closing their eyes in prayer, seeking blessings, as if their words will be heard by some eye in the sky.",
+        "fame": "18",
+        "art": "16",
+        "fth": "12",
+        "civ": "32",
+        "tech": "12",
+        "ss1": "Snail ATK +10<br>Per Incense used, Snail RUSH +1<br>Incense Used: 20/20",
+        "ss2": "Snail ATK +20<br>Per Incense used, Snail RUSH +2<br>Incense Used: 20/20",
+        "ss3": "Snail ATK +30<br>Per Incense used, Snail RUSH +3<br>Incense Used: 20/20",
+        "ss4": "Snail ATK +30<br>Per Incense used, Snail RUSH +3<br>Incense Used: 20/20",
+        "ss7": "Snail ATK +30<br>Per Incense used, Snail RUSH +3<br>Incense Used: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Horn_of_Abundance.wiki",
+  "markdown_path": "markdown/Horn_of_Abundance.md"
+}

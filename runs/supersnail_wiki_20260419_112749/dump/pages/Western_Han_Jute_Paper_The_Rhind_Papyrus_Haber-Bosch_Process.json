@@ -1,0 +1,35 @@
+{
+  "pageid": 9277,
+  "ns": 0,
+  "title": "Western Han Jute Paper+The Rhind Papyrus+Haber-Bosch Process",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Western_Han_Jute_Paper%2BThe_Rhind_Papyrus%2BHaber-Bosch_Process",
+  "touched": "2025-06-20T00:18:29Z",
+  "length": 225,
+  "lastrevid": 36135,
+  "revision": {
+    "revid": 36135,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:18:29Z",
+    "sha1": "33c02e5c061093ccf591ebf60cb8493e81447431",
+    "size": 225
+  },
+  "categories": [
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "694",
+        "relics": "Western Han Jute Paper,The Rhind Papyrus,Haber-Bosch Process",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 3,000 Tribe Prosperity, Snail HP +70;Tribe Prosperity: 150000/150000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Western_Han_Jute_Paper_The_Rhind_Papyrus_Haber-Bosch_Process.wiki",
+  "markdown_path": "markdown/Western_Han_Jute_Paper_The_Rhind_Papyrus_Haber-Bosch_Process.md"
+}

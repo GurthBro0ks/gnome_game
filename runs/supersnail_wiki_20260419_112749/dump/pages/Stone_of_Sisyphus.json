@@ -1,0 +1,50 @@
+{
+  "pageid": 10476,
+  "ns": 0,
+  "title": "Stone of Sisyphus",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Stone_of_Sisyphus",
+  "touched": "2025-08-11T10:51:52Z",
+  "length": 1907,
+  "lastrevid": 38271,
+  "revision": {
+    "revid": 38271,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:51:52Z",
+    "sha1": "84c620a5fa1dd96dfed180ad269de36c65522741",
+    "size": 1907
+  },
+  "categories": [
+    "FAITH Relics",
+    "Purple FAITH Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Stone of Sisyphus",
+        "class_id": "21747",
+        "rank": "AAA",
+        "affct": "FAITH",
+        "description": "Sisyphus was the first king of Corinth, known for his cunning and wit. However, he angered the gods, especially Zeus, by deceiving the Grim Reaper. After the death of Sisyphus, Zeus decided to punish him by pushing a huge stone up the mountain. Whenever the stone approached the top, it would roll back to the foot of the mountain, forcing Sisyphus to start this arduous task again. The story of the Stone of Sisyphus has had a profound impact in the fields of literature and philosophy, reminding pe …",
+        "fame": "41",
+        "art": "47",
+        "fth": "72",
+        "civ": "34",
+        "tech": "49",
+        "ss1": "Per 30 T7+ Minions in battle:<br>> Troop RUSH +12<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +72<br>Mythic Protodex Stars: 100/100",
+        "ss2": "Per 30 T7+ Minions in battle:<br>> Troop RUSH +16<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +96<br>Mythic Protodex Stars: 100/100",
+        "ss3": "Per 30 T7+ Minions in battle:<br>> Troop RUSH +20<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +120<br>Mythic Protodex Stars: 100/100",
+        "ss4": "Per 30 T7+ Minions in battle:<br>> Troop RUSH +28<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +168<br>Mythic Protodex Stars: 100/100",
+        "ss5": "Per 30 T7+ Minions in battle:<br>> Troop RUSH +36<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +216<br>Mythic Protodex Stars: 100/100",
+        "ss7": "Per 30 T7+ Minions in battle:<br>> Troop RUSH +36<br>Per 5 Mythic Protodex Stars, Priest-Troop Assistance DMG +216<br>Mythic Protodex Stars: 100/100<br>Per 30 T7+ Minions in battle:<br>> Troop RUSH +28 (Awakened)",
+        "skill1": "[[File:Hellas skill II.png|50px]]Place in Hellenic Museum: In Hellas, Snail ATK +60",
+        "skill2": "[[File:Hellas skill II.png|50px]]Place in Hellenic Museum: In Hellas, 2x Orange Card Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Stone_of_Sisyphus.wiki",
+  "markdown_path": "markdown/Stone_of_Sisyphus.md"
+}

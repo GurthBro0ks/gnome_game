@@ -1,0 +1,33 @@
+{
+  "pageid": 8726,
+  "ns": 0,
+  "title": "The Myth of Etana+The Triumph of Bacchus",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Myth_of_Etana%2BThe_Triumph_of_Bacchus",
+  "touched": "2025-06-20T00:21:04Z",
+  "length": 183,
+  "lastrevid": 36228,
+  "revision": {
+    "revid": 36228,
+    "parentid": 34695,
+    "timestamp": "2025-06-20T00:21:04Z",
+    "sha1": "4dac1e7c813072806dd209e45b941195ef85e60a",
+    "size": 183
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "713",
+        "relics": "The Myth of Etana,The Triumph of Bacchus",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Godhood LVL, Snail RUSH +42;Godhood LVL: 10/10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Myth_of_Etana_The_Triumph_of_Bacchus.wiki",
+  "markdown_path": "markdown/The_Myth_of_Etana_The_Triumph_of_Bacchus.md"
+}

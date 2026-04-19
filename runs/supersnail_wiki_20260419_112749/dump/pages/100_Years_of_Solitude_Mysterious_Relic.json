@@ -1,0 +1,35 @@
+{
+  "pageid": 8290,
+  "ns": 0,
+  "title": "100 Years of Solitude+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/100_Years_of_Solitude%2BMysterious_Relic",
+  "touched": "2025-04-21T02:52:07Z",
+  "length": 259,
+  "lastrevid": 34072,
+  "revision": {
+    "revid": 34072,
+    "parentid": 0,
+    "timestamp": "2025-04-21T02:52:07Z",
+    "sha1": "61887cd3b9140d15adc8caa06dc0d8f21195a027",
+    "size": 259
+  },
+  "categories": [
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "100 Years of Solitude,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 Recruit Tokens consumed, Snail RUSH +7; Consumed Recruit Tokens: 5000/5000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/100_Years_of_Solitude_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/100_Years_of_Solitude_Mysterious_Relic.md"
+}

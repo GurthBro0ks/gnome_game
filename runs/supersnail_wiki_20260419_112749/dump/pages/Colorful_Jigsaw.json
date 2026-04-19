@@ -1,0 +1,47 @@
+{
+  "pageid": 10689,
+  "ns": 0,
+  "title": "Colorful Jigsaw",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Colorful_Jigsaw",
+  "touched": "2025-08-11T10:58:38Z",
+  "length": 887,
+  "lastrevid": 38563,
+  "revision": {
+    "revid": 38563,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:58:38Z",
+    "sha1": "a22053bb2481cbfce42342bae6f157145ca6ec57",
+    "size": 887
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Colorful Jigsaw",
+        "class_id": "20058",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "In the beginning, a puzzle only has a bare background that no one can fully see. When each piece begins to connect and combine, the blurry picture gradually becomes clear, and the puzzle reveals its true face. We hope that everyone can use the fragments of life to piece together a colorful life!",
+        "fame": "16",
+        "art": "30",
+        "fth": "18",
+        "civ": "15",
+        "tech": "11",
+        "ss1": "Snail DEF +20<br>Per 50 Minions healed, Snail ATK +1<br>Minions healed: 2000/2000",
+        "ss2": "Snail DEF +40<br>Per 50 Minions healed, Snail ATK +2<br>Minions healed: 2000/2000",
+        "ss3": "Snail DEF +60<br>Per 50 Minions healed, Snail ATK +3<br>Minions healed: 2000/2000",
+        "ss4": "Snail DEF +60<br>Per 50 Minions healed, Snail ATK +3<br>Minions healed: 2000/2000",
+        "ss7": "Snail DEF +60<br>Per 50 Minions healed, Snail ATK +3<br>Minions healed: 2000/2000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Colorful_Jigsaw.wiki",
+  "markdown_path": "markdown/Colorful_Jigsaw.md"
+}

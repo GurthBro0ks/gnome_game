@@ -1,0 +1,47 @@
+{
+  "pageid": 1511,
+  "ns": 0,
+  "title": "Noble Brooch",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Noble_Brooch",
+  "touched": "2025-08-11T11:16:17Z",
+  "length": 755,
+  "lastrevid": 39328,
+  "revision": {
+    "revid": 39328,
+    "parentid": 28722,
+    "timestamp": "2025-08-11T11:16:17Z",
+    "sha1": "fee45d9a1e8939bb45f59e6a57fe807f8880fc3d",
+    "size": 755
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Noble Brooch",
+        "class_id": "20018",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This brooch once belonged to a nobleman whose ancestor was a Count of the House of Habsburg. The Countess had a large number of precious jewelry, including thousands of brooches which were enough for future generations to live on for decades!",
+        "fame": "14",
+        "art": "28",
+        "fth": "20",
+        "civ": "12",
+        "tech": "16",
+        "ss1": "Per 1k Tadpole Points, Snail DEF +1<br>Tadpole Points: 20000/20000",
+        "ss2": "Per 1k Tadpole Points, Snail DEF +2<br>Tadpole Points: 20000/20000",
+        "ss3": "Per 1k Tadpole Points, Snail DEF +3<br>Tadpole Points: 20000/20000",
+        "ss4": "Per 1k Tadpole Points, Snail DEF +3<br>Tadpole Points: 20000/20000",
+        "ss7": "Per 1k Tadpole Points, Snail DEF +3<br>Tadpole Points: 20000/20000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Noble_Brooch.wiki",
+  "markdown_path": "markdown/Noble_Brooch.md"
+}

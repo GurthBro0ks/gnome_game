@@ -1,0 +1,33 @@
+{
+  "pageid": 4172,
+  "ns": 0,
+  "title": "SSB Trophy+Maya Mural",
+  "fullurl": "https://supersnail.wiki.gg/wiki/SSB_Trophy%2BMaya_Mural",
+  "touched": "2025-06-19T23:59:57Z",
+  "length": 157,
+  "lastrevid": 35734,
+  "revision": {
+    "revid": 35734,
+    "parentid": 33157,
+    "timestamp": "2025-06-19T23:59:57Z",
+    "sha1": "f0a13c69079a3bed0a85d86dbef99179ff961e3e",
+    "size": 157
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "516",
+        "relics": "SSB Trophy,Maya Mural",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop Fire RES +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/SSB_Trophy_Maya_Mural.wiki",
+  "markdown_path": "markdown/SSB_Trophy_Maya_Mural.md"
+}

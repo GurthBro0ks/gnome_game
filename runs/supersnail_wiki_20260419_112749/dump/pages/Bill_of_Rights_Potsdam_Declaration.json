@@ -1,0 +1,33 @@
+{
+  "pageid": 5269,
+  "ns": 0,
+  "title": "Bill of Rights+Potsdam Declaration",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bill_of_Rights%2BPotsdam_Declaration",
+  "touched": "2025-08-11T10:36:48Z",
+  "length": 165,
+  "lastrevid": 37625,
+  "revision": {
+    "revid": 37625,
+    "parentid": 19257,
+    "timestamp": "2025-08-11T10:36:48Z",
+    "sha1": "4d98547598012530fce4e04373d473814b4b962e",
+    "size": 165
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "484",
+        "relics": "Bill of Rights,Potsdam Declaration",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "In Minion Sims, Troop HARD Stats +1.4%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bill_of_Rights_Potsdam_Declaration.wiki",
+  "markdown_path": "markdown/Bill_of_Rights_Potsdam_Declaration.md"
+}

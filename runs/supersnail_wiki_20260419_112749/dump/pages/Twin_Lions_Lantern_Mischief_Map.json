@@ -1,0 +1,33 @@
+{
+  "pageid": 5130,
+  "ns": 0,
+  "title": "Twin Lions Lantern+Mischief Map",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Twin_Lions_Lantern%2BMischief_Map",
+  "touched": "2025-08-11T10:40:31Z",
+  "length": 167,
+  "lastrevid": 37777,
+  "revision": {
+    "revid": 37777,
+    "parentid": 18420,
+    "timestamp": "2025-08-11T10:40:31Z",
+    "sha1": "159dba0b368a41fe5300e717904766c2d3476fd4",
+    "size": 167
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "383",
+        "relics": "Twin Lions Lantern,Mischief Map",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop Fire DMG +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Twin_Lions_Lantern_Mischief_Map.wiki",
+  "markdown_path": "markdown/Twin_Lions_Lantern_Mischief_Map.md"
+}

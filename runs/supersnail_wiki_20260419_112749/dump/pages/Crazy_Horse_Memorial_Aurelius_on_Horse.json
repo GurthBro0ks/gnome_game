@@ -1,0 +1,33 @@
+{
+  "pageid": 11065,
+  "ns": 0,
+  "title": "Crazy Horse Memorial+Aurelius on Horse",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Crazy_Horse_Memorial%2BAurelius_on_Horse",
+  "touched": "2025-08-11T11:11:02Z",
+  "length": 220,
+  "lastrevid": 39098,
+  "revision": {
+    "revid": 39098,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:11:02Z",
+    "sha1": "6f591108bb089f610aa03691ea97b182a8fd7cc1",
+    "size": 220
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "853",
+        "relics": "Crazy Horse Memorial,Aurelius on Horse",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1,000 Hellas Disciples advanced, Snail ATK +21;Hellas Disciples Advanced: 20000/20000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Crazy_Horse_Memorial_Aurelius_on_Horse.wiki",
+  "markdown_path": "markdown/Crazy_Horse_Memorial_Aurelius_on_Horse.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 9262,
+  "ns": 0,
+  "title": "Enheduanna Plaque+Kunyu Wanguo Quantu",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Enheduanna_Plaque%2BKunyu_Wanguo_Quantu",
+  "touched": "2025-06-20T00:16:03Z",
+  "length": 239,
+  "lastrevid": 36089,
+  "revision": {
+    "revid": 36089,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:16:03Z",
+    "sha1": "8e7e7139dba400d0ed155114af1c9233c91496ae",
+    "size": 239
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "686",
+        "relics": "Enheduanna Plaque,Kunyu Wanguo Quantu",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2,000 Desert Sanctum Rating Pts, Priest-Snail Assistance DMG +48;Desert Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Enheduanna_Plaque_Kunyu_Wanguo_Quantu.wiki",
+  "markdown_path": "markdown/Enheduanna_Plaque_Kunyu_Wanguo_Quantu.md"
+}

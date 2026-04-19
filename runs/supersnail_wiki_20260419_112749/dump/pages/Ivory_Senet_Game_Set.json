@@ -1,0 +1,54 @@
+{
+  "pageid": 10971,
+  "ns": 0,
+  "title": "Ivory Senet Game Set",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ivory_Senet_Game_Set",
+  "touched": "2025-08-11T11:07:29Z",
+  "length": 2711,
+  "lastrevid": 38952,
+  "revision": {
+    "revid": 38952,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:07:29Z",
+    "sha1": "6d5cf8232e744a601289f0eb6dc173b369e5a9cd",
+    "size": 2711
+  },
+  "categories": [
+    "CIV Relics",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ivory Senet Game Set",
+        "class_id": "22864",
+        "rank": "SS",
+        "affct": "CIV",
+        "description": "The Ivory Senet Game Set is a precious artifact from the New Kingdom period of ancient Egypt, currently housed in the Metropolitan Museum of Art in New York. It is part of the popular Senet game in ancient Egypt, typically consisting of a board, pieces, and dice. The dice include elongated stick shapes and knucklebone shapes, using their different four-sided shapes to determine the movement of the pieces. The Senet game was not only a form of entertainment but also held religious and divinatory  …",
+        "fame": "71",
+        "art": "62",
+        "fth": "59",
+        "civ": "103",
+        "tech": "52",
+        "ss1": "Lottery Green Orbs turn to Blue by +0.4%<br>Green Orb draws give +1 Lucky Voucher by +8%<br>Per 10 Lotteries drawn, Snail DEF +4<br>Lotteries Drawn: 200/200",
+        "ss2": "Lottery Green Orbs turn to Blue by +0.6%<br>Green Orb draws give +1 Lucky Voucher by +12%<br>Per 10 Lotteries drawn, Snail DEF +6<br>Lotteries Drawn: 200/200",
+        "ss3": "Lottery Green Orbs turn to Blue by +0.8%<br>Green Orb draws give +1 Lucky Voucher by +16%<br>Per 10 Lotteries drawn, Snail DEF +8<br>Lotteries Drawn: 200/200",
+        "ss4": "Lottery Green Orbs turn to Blue by +1.2%<br>Green Orb draws give +1 Lucky Voucher by +24%<br>Per 10 Lotteries drawn, Snail DEF +12<br>Lotteries Drawn: 200/200",
+        "ss5": "Lottery Green Orbs turn to Blue by +1.6%<br>Green Orb draws give +1 Lucky Voucher by +32%<br>Per 10 Lotteries drawn, Snail DEF +16<br>Lotteries Drawn: 200/200",
+        "ss6": "Lottery Green Orbs turn to Blue by +2.2%<br>Green Orb draws give +1 Lucky Voucher by +44%<br>Per 10 Lotteries drawn, Snail DEF +22<br>Lotteries Drawn: 200/200",
+        "ss7": "Lottery Green Orbs turn to Blue by +2.2%<br>Green Orb draws give +1 Lucky Voucher by +44%<br>Per 10 Lotteries drawn, Snail DEF +22<br>Lotteries Drawn: 200/200<br>Lottery Green Orbs turn to Blue by +2% (Awakened)",
+        "skill1": "[[File:Quary skill III.png|50px]]Place in Quarry: Quarry Max Cap +30%",
+        "skill2": "[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: This Relic's CIV +15",
+        "skill3": "[[File:Koryeo skill III.png|50px]]Place in Koryeon Museum: In Koryeo, Snail ATK +600",
+        "mirage": "{{Mirage|name=Chess Family|reward={{RewardIconWithLink|Lottery Ticket, +5|orange}}\n|3name=Shogi|3rec=1.07M|3atk=22214|3defense=14757|3hp=178324|3weak=5913\n|4name=Chess|4rec=2.84M|4atk=40709|4defense=27043|4hp=492999|4weak=10187\n|5name=Chinese Chess|5rec=6.44M|5atk=64509|5defense=42853|5hp=1084762|5weak=13415\n|Arec=13.45M|Aatk=95930|Adefense=63726|Ahp=2154950|Aweak=17835\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ivory_Senet_Game_Set.wiki",
+  "markdown_path": "markdown/Ivory_Senet_Game_Set.md"
+}

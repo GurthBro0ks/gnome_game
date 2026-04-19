@@ -1,0 +1,47 @@
+{
+  "pageid": 10323,
+  "ns": 0,
+  "title": "Patriotic Family Medal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Patriotic_Family_Medal",
+  "touched": "2025-08-11T10:46:53Z",
+  "length": 725,
+  "lastrevid": 38050,
+  "revision": {
+    "revid": 38050,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:46:53Z",
+    "sha1": "1ce59fea40f895c1edcdb3e76bbb5a965b5cba90",
+    "size": 725
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Patriotic Family Medal",
+        "class_id": "20405",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "What is the greatest crisis in modern society? Aging population and declining birthrate! A country full of elderlies faces stagnation, so, boosting the birth rate is a high priority! Let's have more kids running on the street!",
+        "fame": "30",
+        "art": "12",
+        "fth": "20",
+        "civ": "13",
+        "tech": "15",
+        "ss1": "Per 5 Minions Cloned, Snail DEF +2<br>Minions Cloned: 100/100",
+        "ss2": "Per 5 Minions Cloned, Snail DEF +4<br>Minions Cloned: 100/100",
+        "ss3": "Per 5 Minions Cloned, Snail DEF +6<br>Minions Cloned: 100/100",
+        "ss4": "Per 5 Minions Cloned, Snail DEF +6<br>Minions Cloned: 100/100",
+        "ss7": "Per 5 Minions Cloned, Snail DEF +6<br>Minions Cloned: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Patriotic_Family_Medal.wiki",
+  "markdown_path": "markdown/Patriotic_Family_Medal.md"
+}

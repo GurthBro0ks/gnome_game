@@ -1,0 +1,33 @@
+{
+  "pageid": 8872,
+  "ns": 0,
+  "title": "Thermometer+Instant Noodle Recipe+Sulawesi Cloth+Rose Cross+Hina Doll+Torricelli's Barometer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Thermometer%2BInstant_Noodle_Recipe%2BSulawesi_Cloth%2BRose_Cross%2BHina_Doll%2BTorricelli%27s_Barometer",
+  "touched": "2025-06-16T23:08:32Z",
+  "length": 196,
+  "lastrevid": 34872,
+  "revision": {
+    "revid": 34872,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:08:32Z",
+    "sha1": "f177e5c60f832d193a54472443de19d5de6521e7",
+    "size": 196
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "372",
+        "relics": "Thermometer,Instant Noodle Recipe,Sulawesi Cloth,Rose Cross,Hina Doll,Torricelli's Barometer",
+        "rank": "blue",
+        "amount": "6",
+        "category": "self",
+        "description": "Snail ATK +90"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Thermometer_Instant_Noodle_Recipe_Sulawesi_Cloth_Rose_Cross_Hina_Doll_Torricelli_s_Barometer.wiki",
+  "markdown_path": "markdown/Thermometer_Instant_Noodle_Recipe_Sulawesi_Cloth_Rose_Cross_Hina_Doll_Torricelli_s_Barometer.md"
+}

@@ -1,0 +1,55 @@
+{
+  "pageid": 442,
+  "ns": 0,
+  "title": "Imperial Lamp",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Imperial_Lamp",
+  "touched": "2024-09-06T09:57:19Z",
+  "length": 1651,
+  "lastrevid": 19160,
+  "revision": {
+    "revid": 19160,
+    "parentid": 18236,
+    "timestamp": "2023-11-16T23:08:03Z",
+    "sha1": "96617fd3a1d48b023b119d959092799d5dc39908",
+    "size": 1651
+  },
+  "categories": [
+    "ART Relics",
+    "ATK Boost",
+    "Ancient Wood Boost",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Cathay Exploration Boost",
+    "Cathay Museum Boost",
+    "Offering Reward Boost",
+    "Relics",
+    "Zombie Cell Drop Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Imperial Lamp",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "02-26",
+        "source": "Lottery Machine (0.07%), Wishing (3%), Novice Scrolls (1%)",
+        "description": "On Feb 26, 1968, the famous Imperial Lamp was found in the tomb of Dou Wan.\n\nWhen the Imperial Lamp was first unearthed, its fragments were scattered all over the ground. It took several months to fully restore the lamp, including the head, base, and lampshade were repaired. The entire lamp was covered with brilliant and gorgeous gilt. It is 14 inches tall and weighs 30 catties. It also features a unique design. The palace maid can hold the lamp in one hand and cover it using her other sleeve to …",
+        "fame": "27",
+        "art": "48",
+        "fth": "23",
+        "civ": "25",
+        "tech": "31",
+        "ss1": "In explorations, Zombie Cells gained +1%",
+        "ss2": "In explorations, Zombie Cells gained +2%",
+        "ss3": "In explorations, Zombie Cells gained +3%",
+        "ss4": "In explorations, Zombie Cells gained +5%",
+        "ss7": "In explorations, Zombie Cells gained +5%<br>In explorations, Zombie Cells gained +5% (Awakened)",
+        "skill1": "[[File:Cathay skill I.png|50px]] Place in Cathay Museum: In Cathay, Snail ATK +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Imperial_Lamp.wiki",
+  "markdown_path": "markdown/Imperial_Lamp.md"
+}

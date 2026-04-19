@@ -1,0 +1,33 @@
+{
+  "pageid": 3316,
+  "ns": 0,
+  "title": "Enigma Machine+Quantum Cat",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Enigma_Machine%2BQuantum_Cat",
+  "touched": "2025-08-11T10:40:27Z",
+  "length": 161,
+  "lastrevid": 37774,
+  "revision": {
+    "revid": 37774,
+    "parentid": 12053,
+    "timestamp": "2025-08-11T10:40:27Z",
+    "sha1": "ab49ffe52ed35c51a754e711e8af2f58024b46a0",
+    "size": 161
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "41",
+        "relics": "Enigma Machine,Quantum Cat",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "White Orb draws give +1 Lucky Voucher by +25%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Enigma_Machine_Quantum_Cat.wiki",
+  "markdown_path": "markdown/Enigma_Machine_Quantum_Cat.md"
+}

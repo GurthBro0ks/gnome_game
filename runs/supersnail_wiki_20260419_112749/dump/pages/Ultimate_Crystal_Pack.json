@@ -1,0 +1,40 @@
+{
+  "pageid": 6640,
+  "ns": 0,
+  "title": "Ultimate Crystal Pack",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ultimate_Crystal_Pack",
+  "touched": "2024-11-16T01:42:16Z",
+  "length": 471,
+  "lastrevid": 31309,
+  "revision": {
+    "revid": 31309,
+    "parentid": 30797,
+    "timestamp": "2024-11-04T13:13:52Z",
+    "sha1": "6e16ddfc6c6281c6934dd991098464a17b927de4",
+    "size": 471
+  },
+  "categories": [
+    "Reward Pack"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Demon God Crystal"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ultimate_Crystal_Pack.wiki",
+  "markdown_path": "markdown/Ultimate_Crystal_Pack.md"
+}

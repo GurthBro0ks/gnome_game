@@ -1,0 +1,54 @@
+{
+  "pageid": 1567,
+  "ns": 0,
+  "title": "Atomic Clock",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Atomic_Clock",
+  "touched": "2024-09-06T09:56:50Z",
+  "length": 1424,
+  "lastrevid": 26354,
+  "revision": {
+    "revid": 26354,
+    "parentid": 22187,
+    "timestamp": "2024-05-08T11:24:50Z",
+    "sha1": "b2ffee123cc545a2a367a54ac3d1727983c32003",
+    "size": 1424
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "HP Boost",
+    "Mecha Minion HARD Boost",
+    "Relics",
+    "TECH Relics",
+    "Time Chest Output",
+    "Time Machine Skill",
+    "Travel Speed Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Atomic Clock",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "06-05",
+        "source": "* Lottery Machine (0.03%), Wishing (1.1%)\n* [[Taoraemon]] - [[Rare Rent]]",
+        "description": "On Jun 5, 1954, Jerrold Zacharias and MIT built this atomic clock.\n\nThe Atomic Clock uses the electrons of the atoms to radiate electromagnetic waves and control the electron oscillator and the movement of the clock. In the past, the definition of time was based on the orbital time of Earth, but as people did the calculation and measurement of the orbit, a need for a more precise and reliable definition of time appeared. Louis Essen redefined the concept of seconds based on the transition period …",
+        "fame": "24",
+        "art": "32",
+        "fth": "23",
+        "civ": "31",
+        "tech": "44",
+        "ss1": "Per 10 Mecha Minions in battle: Troop HARD Stats +1",
+        "ss2": "Per 10 Mecha Minions in battle: Troop HARD Stats +2",
+        "ss3": "Per 10 Mecha Minions in battle: Troop HARD Stats +3",
+        "ss4": "Per 10 Mecha Minions in battle: Troop HARD Stats +5",
+        "ss7": "Per 10 Mecha Minions in battle: Troop HARD Stats +5<br>Per 10 Mecha Minions in battle: Troop HARD Stats +3 (Awakened)",
+        "skill1": "[[File:Timemachine skill I.png|50px]] Place in Time Machine: Generate Time Chests by +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Atomic_Clock.wiki",
+  "markdown_path": "markdown/Atomic_Clock.md"
+}

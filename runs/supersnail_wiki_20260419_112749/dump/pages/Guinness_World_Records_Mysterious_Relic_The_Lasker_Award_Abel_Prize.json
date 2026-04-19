@@ -1,0 +1,35 @@
+{
+  "pageid": 8295,
+  "ns": 0,
+  "title": "Guinness World Records+Mysterious Relic+The Lasker Award+Abel Prize",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Guinness_World_Records%2BMysterious_Relic%2BThe_Lasker_Award%2BAbel_Prize",
+  "touched": "2025-06-16T20:52:34Z",
+  "length": 235,
+  "lastrevid": 34079,
+  "revision": {
+    "revid": 34079,
+    "parentid": 34078,
+    "timestamp": "2025-04-21T02:59:34Z",
+    "sha1": "a3c7d250cb9f3b641db4d56cfab113ef4587461c",
+    "size": 235
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Guinness World Records,Mysterious Relic,The Lasker Award,Abel Prize",
+        "rank": "orange",
+        "amount": "4",
+        "category": "minion",
+        "description": "Snail Leadership +9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Guinness_World_Records_Mysterious_Relic_The_Lasker_Award_Abel_Prize.wiki",
+  "markdown_path": "markdown/Guinness_World_Records_Mysterious_Relic_The_Lasker_Award_Abel_Prize.md"
+}

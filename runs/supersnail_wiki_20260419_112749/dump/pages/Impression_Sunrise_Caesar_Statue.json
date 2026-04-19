@@ -1,0 +1,35 @@
+{
+  "pageid": 10328,
+  "ns": 0,
+  "title": "Impression+ Sunrise+Caesar Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Impression%2B_Sunrise%2BCaesar_Statue",
+  "touched": "2025-08-11T10:47:04Z",
+  "length": 174,
+  "lastrevid": 38057,
+  "revision": {
+    "revid": 38057,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:47:04Z",
+    "sha1": "3a747a2ac52bfcb2771640e9b6c3cfb77d9a6a81",
+    "size": 174
+  },
+  "categories": [
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "196",
+        "relics": "Impression, Sunrise,Caesar Statue",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10k Power, Snail ATK +5;Power: 420000/420000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Impression_Sunrise_Caesar_Statue.wiki",
+  "markdown_path": "markdown/Impression_Sunrise_Caesar_Statue.md"
+}

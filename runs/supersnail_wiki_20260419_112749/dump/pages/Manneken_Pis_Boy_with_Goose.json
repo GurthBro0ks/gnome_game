@@ -1,0 +1,34 @@
+{
+  "pageid": 3628,
+  "ns": 0,
+  "title": "Manneken Pis+Boy with Goose",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Manneken_Pis%2BBoy_with_Goose",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 165,
+  "lastrevid": 13210,
+  "revision": {
+    "revid": 13210,
+    "parentid": 0,
+    "timestamp": "2023-09-22T16:23:57Z",
+    "sha1": "088fb3b433df9d3c18be1778ef46b0423ddb00d7",
+    "size": 165
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Manneken Pis,Boy with Goose",
+        "rank": "purple",
+        "amount": "2",
+        "category": "home",
+        "description": "Fungus Farm Output +12%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Manneken_Pis_Boy_with_Goose.wiki",
+  "markdown_path": "markdown/Manneken_Pis_Boy_with_Goose.md"
+}

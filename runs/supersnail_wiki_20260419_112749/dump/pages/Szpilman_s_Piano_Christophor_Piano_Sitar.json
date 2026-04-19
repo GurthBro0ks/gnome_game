@@ -1,0 +1,33 @@
+{
+  "pageid": 8450,
+  "ns": 0,
+  "title": "Szpilman's Piano+Christophor Piano+Sitar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Szpilman%27s_Piano%2BChristophor_Piano%2BSitar",
+  "touched": "2025-06-20T00:13:30Z",
+  "length": 191,
+  "lastrevid": 35984,
+  "revision": {
+    "revid": 35984,
+    "parentid": 34325,
+    "timestamp": "2025-06-20T00:13:30Z",
+    "sha1": "b403c2b3db6b7c217d4a2d63df0a0963a0445830",
+    "size": 191
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "632",
+        "relics": "Szpilman's Piano,Christophor Piano,Sitar",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Per devotee appointed, Snail DEF +6;Devotee Appointed: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Szpilman_s_Piano_Christophor_Piano_Sitar.wiki",
+  "markdown_path": "markdown/Szpilman_s_Piano_Christophor_Piano_Sitar.md"
+}

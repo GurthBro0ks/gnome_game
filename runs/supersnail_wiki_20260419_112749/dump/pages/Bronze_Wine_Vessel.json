@@ -1,0 +1,52 @@
+{
+  "pageid": 8854,
+  "ns": 0,
+  "title": "Bronze Wine Vessel",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bronze_Wine_Vessel",
+  "touched": "2025-06-20T00:24:55Z",
+  "length": 1700,
+  "lastrevid": 36307,
+  "revision": {
+    "revid": 36307,
+    "parentid": 34843,
+    "timestamp": "2025-06-20T00:24:55Z",
+    "sha1": "b13e489a09d9af14da6c8437b56605fc114e25a2",
+    "size": 1700
+  },
+  "categories": [
+    "ART Relics",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bronze Wine Vessel",
+        "class_id": "22534",
+        "rank": "AAA",
+        "affct": "ART",
+        "birthday": "04-04",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Apr 4, 1978 AD, the Bronze Wine Vessel was excavated from the Zenghouyi Tomb in Hubei.<br>This bronze vessel dates back to the early Warring States period and is the most complex and exquisite of all the bronze artifacts excavated from that period. It consists of a vessel and a plate, both with intricate hollowed-out patterns, over a dozen intertwined dragon and chimaera decorations, and an inscription displaying its owner's identity. Due to its complex patterns and the lack of forging marks, …",
+        "fame": "34",
+        "art": "73",
+        "fth": "54",
+        "civ": "46",
+        "tech": "36",
+        "ss1": "B-tads collected from Drill Rig +3%<br>Per 100 catalysis, Snail DEF +3<br>Catalysis: 5000/5000",
+        "ss2": "B-tads collected from Drill Rig +4%<br>Per 100 catalysis, Snail DEF +4<br>Catalysis: 5000/5000",
+        "ss3": "B-tads collected from Drill Rig +5%<br>Per 100 catalysis, Snail DEF +5<br>Catalysis: 5000/5000",
+        "ss4": "B-tads collected from Drill Rig +7%<br>Per 100 catalysis, Snail DEF +7<br>Catalysis: 5000/5000",
+        "ss5": "B-tads collected from Drill Rig +9%<br>Per 100 catalysis, Snail DEF +9<br>Catalysis: 5000/5000",
+        "ss7": "B-tads collected from Drill Rig +9%<br>Per 100 catalysis, Snail DEF +9<br>Catalysis: 5000/5000<br>B-tads collected from Drill Rig +7% (Awakened)",
+        "skill1": "[[File:Hamster skill II.png|50px]]Place in Hamster Biozilla: In Species War, All Minion HP +4.5%",
+        "skill2": "[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's ART +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bronze_Wine_Vessel.wiki",
+  "markdown_path": "markdown/Bronze_Wine_Vessel.md"
+}

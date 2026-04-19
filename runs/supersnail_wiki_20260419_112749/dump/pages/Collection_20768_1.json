@@ -1,0 +1,47 @@
+{
+  "pageid": 10420,
+  "ns": 0,
+  "title": "Collection@20768 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20768_1",
+  "touched": "2025-08-11T10:49:58Z",
+  "length": 339,
+  "lastrevid": 38190,
+  "revision": {
+    "revid": 38190,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:49:58Z",
+    "sha1": "1c46b2f50ad6d26e04428ab75e1e805f7ddf05c6",
+    "size": 339
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20768_1",
+        "class_id": "20768",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "collection@20768_2",
+        "fame": "17",
+        "art": "20",
+        "fth": "28",
+        "civ": "12",
+        "tech": "13",
+        "ss1": "prop@1065_2<br>prop@1060_2",
+        "ss2": "prop@1065_2<br>prop@1060_2",
+        "ss3": "prop@1065_2<br>prop@1060_2",
+        "ss4": "prop@1065_2<br>prop@1060_2",
+        "ss7": "prop@1065_2<br>prop@1060_2<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20768_1.wiki",
+  "markdown_path": "markdown/Collection_20768_1.md"
+}

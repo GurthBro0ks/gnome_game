@@ -1,0 +1,36 @@
+{
+  "pageid": 5044,
+  "ns": 0,
+  "title": "The Last Judgement+Book of the Dead",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Last_Judgement%2BBook_of_the_Dead",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 243,
+  "lastrevid": 18627,
+  "revision": {
+    "revid": 18627,
+    "parentid": 18320,
+    "timestamp": "2023-11-14T01:30:57Z",
+    "sha1": "878260c84600f984f19877189e48e30f6711fc3c",
+    "size": 243
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Divinations",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Last Judgement,Book of the Dead",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Divinations, Snail ATK +21"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Last_Judgement_Book_of_the_Dead.wiki",
+  "markdown_path": "markdown/The_Last_Judgement_Book_of_the_Dead.md"
+}

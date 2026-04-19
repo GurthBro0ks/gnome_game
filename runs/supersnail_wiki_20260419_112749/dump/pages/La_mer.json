@@ -1,0 +1,53 @@
+{
+  "pageid": 8680,
+  "ns": 0,
+  "title": "La mer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/La_mer",
+  "touched": "2025-06-20T00:20:13Z",
+  "length": 1612,
+  "lastrevid": 36205,
+  "revision": {
+    "revid": 36205,
+    "parentid": 34645,
+    "timestamp": "2025-06-20T00:20:13Z",
+    "sha1": "bf56dafbf80311ff2b369bfb04d3b12f465d8561",
+    "size": 1612
+  },
+  "categories": [
+    "ART Relics",
+    "Pages with broken file links",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "La mer",
+        "class_id": "22538",
+        "rank": "AAA",
+        "affct": "ART",
+        "birthday": "03-14",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Mar 14, 1905 AD, Debussy's La Mer was first introduced to the world.<br>La Mer is the largest symphonic music work by the famous composer Debussy. He used his memories of the sea as inspiration to create this impressionistic piece, using notes to describe vivid scenes of the sea. Due to its rich expressiveness, it was nicknamed Symphonic Sketches and has been praised by people for generations.",
+        "fame": "36",
+        "art": "71",
+        "fth": "42",
+        "civ": "47",
+        "tech": "47",
+        "ss1": "Purple Reagents collected from Drill Rig +3<br>Per +30F in Minion Sims Record, Snail DEF +3<br>Minion Sims record: 1500/1500F",
+        "ss2": "Purple Reagents collected from Drill Rig +4<br>Per +30F in Minion Sims Record, Snail DEF +4<br>Minion Sims record: 1500/1500F",
+        "ss3": "Purple Reagents collected from Drill Rig +5<br>Per +30F in Minion Sims Record, Snail DEF +5<br>Minion Sims record: 1500/1500F",
+        "ss4": "Purple Reagents collected from Drill Rig +7<br>Per +30F in Minion Sims Record, Snail DEF +7<br>Minion Sims record: 1500/1500F",
+        "ss5": "Purple Reagents collected from Drill Rig +9<br>Per +30F in Minion Sims Record, Snail DEF +9<br>Minion Sims record: 1500/1500F",
+        "ss7": "Purple Reagents collected from Drill Rig +9<br>Per +30F in Minion Sims Record, Snail DEF +9<br>Minion Sims record: 1500/1500F<br>Purple Reagents collected from Drill Rig +7 (Awakened)",
+        "skill1": "[[File:Frostsanctum skill II.png|50px]]Place in Frost Sanctum: This Relic's ART +10",
+        "skill2": "[[File:Frostsanctum skill II.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Cap +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/La_mer.wiki",
+  "markdown_path": "markdown/La_mer.md"
+}

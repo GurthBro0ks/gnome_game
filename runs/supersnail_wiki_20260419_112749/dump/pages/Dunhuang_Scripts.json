@@ -1,0 +1,31 @@
+{
+  "pageid": 1728,
+  "ns": 0,
+  "title": "Dunhuang Scripts",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dunhuang_Scripts",
+  "touched": "2024-09-06T09:59:37Z",
+  "length": 327,
+  "lastrevid": 20871,
+  "revision": {
+    "revid": 20871,
+    "parentid": 19851,
+    "timestamp": "2023-12-15T00:11:52Z",
+    "sha1": "06660b2ed2170e6224616ec8658c63e516c90308",
+    "size": 327
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dunhuang Scripts",
+        "rank": "sss",
+        "affct": "fth",
+        "birthday": "not this? 03-12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dunhuang_Scripts.wiki",
+  "markdown_path": "markdown/Dunhuang_Scripts.md"
+}

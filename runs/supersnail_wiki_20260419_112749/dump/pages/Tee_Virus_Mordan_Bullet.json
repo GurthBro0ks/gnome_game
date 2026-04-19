@@ -1,0 +1,33 @@
+{
+  "pageid": 3266,
+  "ns": 0,
+  "title": "Tee Virus+Mordan Bullet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tee_Virus%2BMordan_Bullet",
+  "touched": "2025-08-11T10:35:50Z",
+  "length": 126,
+  "lastrevid": 37582,
+  "revision": {
+    "revid": 37582,
+    "parentid": 11923,
+    "timestamp": "2025-08-11T10:35:50Z",
+    "sha1": "dfc516d02980176302c621a66addb5f716b28582",
+    "size": 126
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "35",
+        "relics": "Tee Virus,Mordan Bullet",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tee_Virus_Mordan_Bullet.wiki",
+  "markdown_path": "markdown/Tee_Virus_Mordan_Bullet.md"
+}

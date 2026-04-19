@@ -1,0 +1,33 @@
+{
+  "pageid": 10579,
+  "ns": 0,
+  "title": "Pandora's Box+Maya Slate+Arkanrock+True Cross+Royal Celtic Harp",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pandora%27s_Box%2BMaya_Slate%2BArkanrock%2BTrue_Cross%2BRoyal_Celtic_Harp",
+  "touched": "2025-08-11T10:55:23Z",
+  "length": 177,
+  "lastrevid": 38422,
+  "revision": {
+    "revid": 38422,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:55:23Z",
+    "sha1": "a316a43775dddd79eed6293f63094e76212cc4bc",
+    "size": 177
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "268",
+        "relics": "Pandora's Box,Maya Slate,Arkanrock,True Cross,Royal Celtic Harp",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "Soul Offering SPD +4%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pandora_s_Box_Maya_Slate_Arkanrock_True_Cross_Royal_Celtic_Harp.wiki",
+  "markdown_path": "markdown/Pandora_s_Box_Maya_Slate_Arkanrock_True_Cross_Royal_Celtic_Harp.md"
+}

@@ -1,0 +1,50 @@
+{
+  "pageid": 4643,
+  "ns": 0,
+  "title": "Warren Cup",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Warren_Cup",
+  "touched": "2025-06-16T23:19:52Z",
+  "length": 1101,
+  "lastrevid": 35197,
+  "revision": {
+    "revid": 35197,
+    "parentid": 23817,
+    "timestamp": "2025-06-16T23:19:52Z",
+    "sha1": "247fb4570767871df63bfe3a181fe9687d0f7dda",
+    "size": 1101
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Warren Cup",
+        "class_id": "22070",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "02-19",
+        "source": "Lottery Machine No.2 (0.07%), Wishing (0.03%)",
+        "description": "On Feb 19, 1999 AD, the Warren Cup was collected by the British Museum.<br>The Warren Cup is a silver drinking cup made in ancient Rome. It takes its name from its first owner in the modern era, Warren, the collector. The main body of this cup is hammered from the inside to the outside, and the outer layer is decorated with the embossment of characters. The rim, base, and other parts of the cup are also made of a full bar of silver. Its craftsmanship style is similar to some cultural relics in P …",
+        "fame": "36",
+        "art": "27",
+        "fth": "23",
+        "civ": "44",
+        "tech": "24",
+        "ss1": "Snail HP +100",
+        "ss2": "Snail HP +200",
+        "ss3": "Snail HP +300",
+        "ss4": "Snail HP +500",
+        "ss7": "Snail HP +500<br>Snail HP +500 (Awakened)",
+        "skill1": "[[File:Fungusfarm skill I.png|50px]]Place in Fungus Farm: Grow Wonder Fungus by +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Warren_Cup.wiki",
+  "markdown_path": "markdown/Warren_Cup.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 10080,
+  "ns": 0,
+  "title": "Silver Treaty+Red Dot Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Silver_Treaty%2BRed_Dot_Award",
+  "touched": "2025-08-11T10:37:34Z",
+  "length": 157,
+  "lastrevid": 37659,
+  "revision": {
+    "revid": 37659,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:37:34Z",
+    "sha1": "935128f007e9b64e7f4ce4a4196257fefeee59c3",
+    "size": 157
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "385",
+        "relics": "Silver Treaty,Red Dot Award",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Military Merits gives +120 Star Coins"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Silver_Treaty_Red_Dot_Award.wiki",
+  "markdown_path": "markdown/Silver_Treaty_Red_Dot_Award.md"
+}

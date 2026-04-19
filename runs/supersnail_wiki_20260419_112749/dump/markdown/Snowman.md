@@ -1,0 +1,15 @@
+|image=.png
+|description=The wearer of Snail Shell is protected from the cold and will be able to unleash a freezing beam to fight their enemies.
+|affct=ART
+|hard=DEF
+|source=Divine Chaos Chest (0.4%)
+|color=blue
+|earth=5
+|water=3
+|fire=2
+|wind=4
+|form=Demon
+|element=Fire
+|realm=Koreyo
+|orangehard=DEF
+}}

@@ -1,0 +1,47 @@
+{
+  "pageid": 1752,
+  "ns": 0,
+  "title": "Koryeon Postcard",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Koryeon_Postcard",
+  "touched": "2025-08-11T10:48:08Z",
+  "length": 556,
+  "lastrevid": 38105,
+  "revision": {
+    "revid": 38105,
+    "parentid": 32177,
+    "timestamp": "2025-08-11T10:48:08Z",
+    "sha1": "b2b350716d17b259f6aa6cdf3f291c388bdb1d63",
+    "size": 556
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Koryeon Postcard",
+        "class_id": "20406",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "While scouting for info about the Demon God in Koryeo, the snail also recorded a lot of local customs, which were brought together in this postcard. You can read it to kill time and post it online to get many likes!",
+        "fame": "18",
+        "art": "26",
+        "fth": "14",
+        "civ": "15",
+        "tech": "17",
+        "ss1": "Koryeon Museum Medal Output +5",
+        "ss2": "Koryeon Museum Medal Output +10",
+        "ss3": "Koryeon Museum Medal Output +15",
+        "ss4": "Koryeon Museum Medal Output +15",
+        "ss7": "Koryeon Museum Medal Output +15<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Koryeon_Postcard.wiki",
+  "markdown_path": "markdown/Koryeon_Postcard.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 6342,
+  "ns": 0,
+  "title": "History of Time+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/History_of_Time%2BMysterious_Relic",
+  "touched": "2025-08-11T11:06:35Z",
+  "length": 168,
+  "lastrevid": 38912,
+  "revision": {
+    "revid": 38912,
+    "parentid": 25774,
+    "timestamp": "2025-08-11T11:06:35Z",
+    "sha1": "d3039eec53cf5df8841ca069b8596414c853347b",
+    "size": 168
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "847",
+        "relics": "History of Time,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 T7+ Minions in battle: Troop DEF +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/History_of_Time_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/History_of_Time_Mysterious_Relic.md"
+}

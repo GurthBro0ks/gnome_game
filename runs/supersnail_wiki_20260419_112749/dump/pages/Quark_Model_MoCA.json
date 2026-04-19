@@ -1,0 +1,33 @@
+{
+  "pageid": 4246,
+  "ns": 0,
+  "title": "Quark Model+MoCA",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Quark_Model%2BMoCA",
+  "touched": "2025-06-20T00:05:11Z",
+  "length": 176,
+  "lastrevid": 35863,
+  "revision": {
+    "revid": 35863,
+    "parentid": 18533,
+    "timestamp": "2025-06-20T00:05:11Z",
+    "sha1": "628c26a1afb2bce1b8e58a193d7638d135e6a1fa",
+    "size": 176
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "520",
+        "relics": "Quark Model,MoCA",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Lucky Coins gained, Snail DEF +7;Lucky Coins Gained: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Quark_Model_MoCA.wiki",
+  "markdown_path": "markdown/Quark_Model_MoCA.md"
+}

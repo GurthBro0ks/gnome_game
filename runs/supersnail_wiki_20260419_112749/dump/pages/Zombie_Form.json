@@ -1,0 +1,52 @@
+{
+  "pageid": 1052,
+  "ns": 0,
+  "title": "Zombie Form",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Zombie_Form",
+  "touched": "2025-10-14T14:57:12Z",
+  "length": 19923,
+  "lastrevid": 41277,
+  "revision": {
+    "revid": 41277,
+    "parentid": 41271,
+    "timestamp": "2025-10-14T11:54:22Z",
+    "sha1": "c5f67fe18c4b4158151f6f5c73f8eb6f3ba3ba3a",
+    "size": 19923
+  },
+  "categories": [
+    "Evolution",
+    "Pages using Tabber parser tag",
+    "Pages with broken file links",
+    "Works in Progress",
+    "Zombie Form"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Material",
+        "3": "Black Pearl"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "blue",
+        "2": "Form",
+        "3": "Undead Staff"
+      }
+    },
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "green",
+        "2": "Material",
+        "3": "Black Pearl"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Zombie_Form.wiki",
+  "markdown_path": "markdown/Zombie_Form.md"
+}

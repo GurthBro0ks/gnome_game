@@ -1,0 +1,36 @@
+{
+  "pageid": 3659,
+  "ns": 0,
+  "title": "Armstrong's Footprint+Mermaid Statue+Frigga's Wheel",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Armstrong%27s_Footprint%2BMermaid_Statue%2BFrigga%27s_Wheel",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 292,
+  "lastrevid": 18524,
+  "revision": {
+    "revid": 18524,
+    "parentid": 18322,
+    "timestamp": "2023-11-14T01:02:33Z",
+    "sha1": "f419ac04f05a1a3f10ebb8507ab976eadbba00c1",
+    "size": 292
+  },
+  "categories": [
+    "DEF Boost",
+    "Enhanced by DNA Strength",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Armstrong's Footprint,Mermaid Statue,Frigga's Wheel",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 500 DNA Strength, Snail DEF +4<br>DNA Strength: 17,500/17,500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Armstrong_s_Footprint_Mermaid_Statue_Frigga_s_Wheel.wiki",
+  "markdown_path": "markdown/Armstrong_s_Footprint_Mermaid_Statue_Frigga_s_Wheel.md"
+}

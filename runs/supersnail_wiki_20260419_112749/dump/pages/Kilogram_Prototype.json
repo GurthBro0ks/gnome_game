@@ -1,0 +1,55 @@
+{
+  "pageid": 270,
+  "ns": 0,
+  "title": "Kilogram Prototype",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kilogram_Prototype",
+  "touched": "2024-09-06T09:56:44Z",
+  "length": 1337,
+  "lastrevid": 17133,
+  "revision": {
+    "revid": 17133,
+    "parentid": 16598,
+    "timestamp": "2023-11-09T12:13:26Z",
+    "sha1": "4580000812b81d2fe3b7344fc8407f7d042c9148",
+    "size": 1337
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "DEF Boost",
+    "DNA Boost",
+    "Hellas Museum Boost",
+    "Reagent Crafting Boost",
+    "Relics",
+    "TECH Boost",
+    "TECH Relics",
+    "Tadpole Pond Output Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Kilogram Prototype",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "01-09",
+        "source": "Lottery Machine (0.03%), Wishing (1.1%), Fungus Chest (2%)",
+        "description": "On Jan 9, 1889, the first world-recognized standard weight system was created.\n\nThe standard measurement system was invented on this day which is regarded as an important standardization process of mankind. Composed of platinum and iridium, it has a high density and corrosion resistance. As the technology kept improving, it had been under constant recast until it was no longer used to measure kg.",
+        "fame": "32",
+        "art": "29",
+        "fth": "21",
+        "civ": "28",
+        "tech": "44",
+        "ss1": "Per 200 DNA Strength, Snail DEF +3<br>DNA Strength: 800/800",
+        "ss2": "Per 200 DNA Strength, Snail DEF +3<br>DNA Strength: 1,600/1,600",
+        "ss3": "Per 200 DNA Strength, Snail DEF +3<br>DNA Strength: 2,400/2,400",
+        "ss4": "Per 200 DNA Strength, Snail DEF +3<br>DNA Strength: 4,000/4,000",
+        "ss7": "Per 200 DNA Strength, Snail DEF +3<br>DNA Strength: 4,000/4,000<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Hellas skill I.png|50px]] Place in Hellenic Museum: This Relic's TECH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kilogram_Prototype.wiki",
+  "markdown_path": "markdown/Kilogram_Prototype.md"
+}

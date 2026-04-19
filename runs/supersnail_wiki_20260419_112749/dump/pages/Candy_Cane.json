@@ -1,0 +1,47 @@
+{
+  "pageid": 7814,
+  "ns": 0,
+  "title": "Candy Cane",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Candy_Cane",
+  "touched": "2025-08-11T10:39:05Z",
+  "length": 890,
+  "lastrevid": 37721,
+  "revision": {
+    "revid": 37721,
+    "parentid": 32761,
+    "timestamp": "2025-08-11T10:39:05Z",
+    "sha1": "e356398a814da9c761af6135bd98341c12b9fab9",
+    "size": 890
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Candy Cane",
+        "class_id": "20973",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Its shape resembles shepherd's crook. Legend has it that when Jesus was born, the shepherd guarding the flock in the fields of Bethlehem heard the news of his birth announced by an angel and immediately went to worship. As a result, the shepherd became one of the symbols of Jesus...",
+        "fame": "33",
+        "art": "12",
+        "fth": "18",
+        "civ": "14",
+        "tech": "13",
+        "ss1": "Snail HP +100<br>Per 5 Wonder Fungi eaten, Snail ATK +1<br>Wonder Fungi used: 200/200",
+        "ss2": "Snail HP +200<br>Per 5 Wonder Fungi eaten, Snail ATK +2<br>Wonder Fungi used: 200/200",
+        "ss3": "Snail HP +300<br>Per 5 Wonder Fungi eaten, Snail ATK +3<br>Wonder Fungi used: 200/200",
+        "ss4": "Snail HP +300<br>Per 5 Wonder Fungi eaten, Snail ATK +3<br>Wonder Fungi used: 200/200",
+        "ss7": "Snail HP +300<br>Per 5 Wonder Fungi eaten, Snail ATK +3<br>Wonder Fungi used: 200/200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Candy_Cane.wiki",
+  "markdown_path": "markdown/Candy_Cane.md"
+}

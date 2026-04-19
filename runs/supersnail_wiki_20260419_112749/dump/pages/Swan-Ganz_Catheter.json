@@ -1,0 +1,51 @@
+{
+  "pageid": 9920,
+  "ns": 0,
+  "title": "Swan-Ganz Catheter",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Swan-Ganz_Catheter",
+  "touched": "2025-08-11T10:25:31Z",
+  "length": 1163,
+  "lastrevid": 37394,
+  "revision": {
+    "revid": 37394,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:25:31Z",
+    "sha1": "31ebcec015e6cda235d36e185417c9de4a435cfb",
+    "size": 1163
+  },
+  "categories": [
+    "FAME Relics",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Swan-Ganz Catheter",
+        "class_id": "22523",
+        "rank": "AAA",
+        "affct": "FAME",
+        "birthday": "07-18",
+        "description": "On Jul 18, 1929 AD, Forssmann completed the first cardiac catheterization surgery in history on himself.<br>Inspired by the venous catheterization surgery, the 25-year-old Forssmann completed the first cardiac catheterization on himself. With the encouragement of his mentor, he completed his thesis based on the data from this experiment and won the Nobel Prize decades later. Despite facing significant resistance in the early years and making little progress, his groundbreaking invention undoubte …",
+        "fame": "75",
+        "art": "38",
+        "fth": "37",
+        "civ": "46",
+        "tech": "47",
+        "ss1": "Snail HP +300<br>Dragon Minion HP +3%",
+        "ss2": "Snail HP +400<br>Dragon Minion HP +4%",
+        "ss3": "Snail HP +500<br>Dragon Minion HP +5%",
+        "ss4": "Snail HP +700<br>Dragon Minion HP +7%",
+        "ss5": "Snail HP +900<br>Dragon Minion HP +9%",
+        "ss7": "Snail HP +900<br>Dragon Minion HP +9%<br>Snail HP +700 (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +300",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's FAME +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Swan-Ganz_Catheter.wiki",
+  "markdown_path": "markdown/Swan-Ganz_Catheter.md"
+}

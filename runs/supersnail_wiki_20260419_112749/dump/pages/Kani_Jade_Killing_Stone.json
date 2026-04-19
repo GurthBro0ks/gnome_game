@@ -1,0 +1,33 @@
+{
+  "pageid": 3653,
+  "ns": 0,
+  "title": "Kani Jade+Killing Stone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kani_Jade%2BKilling_Stone",
+  "touched": "2025-08-11T11:06:03Z",
+  "length": 151,
+  "lastrevid": 38886,
+  "revision": {
+    "revid": 38886,
+    "parentid": 13252,
+    "timestamp": "2025-08-11T11:06:03Z",
+    "sha1": "29116fbc50ee5e4005507787631d624ae476e81d",
+    "size": 151
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "100",
+        "relics": "Kani Jade,Killing Stone",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "In explorations, INTEL gained +3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kani_Jade_Killing_Stone.wiki",
+  "markdown_path": "markdown/Kani_Jade_Killing_Stone.md"
+}

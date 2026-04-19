@@ -1,0 +1,51 @@
+{
+  "pageid": 10362,
+  "ns": 0,
+  "title": "The Tale of the Shipwrecked Sailor",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Tale_of_the_Shipwrecked_Sailor",
+  "touched": "2025-08-11T10:48:14Z",
+  "length": 1094,
+  "lastrevid": 38109,
+  "revision": {
+    "revid": 38109,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:48:14Z",
+    "sha1": "29a40b986ca1d9e6af55c166533b4f0c58fa5faf",
+    "size": 1094
+  },
+  "categories": [
+    "CIV Relics",
+    "Pages with broken file links",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Tale of the Shipwrecked Sailor",
+        "class_id": "21356",
+        "rank": "AAA",
+        "affct": "CIV",
+        "description": "This is a literary work from ancient Egypt, one of the earliest novels using a nested narrative technique. The story tells of an officer's failed expedition on the Nile River, and upon returning to the capital, he fears the king's punishment. His deputy comforts him by recounting his own story of shipwreck on a mysterious island and eventual rescue. As a representative work of early maritime literature, it had a profound impact on later literature. It pioneered the narrative tradition of maritim …",
+        "fame": "47",
+        "art": "47",
+        "fth": "44",
+        "civ": "72",
+        "tech": "33",
+        "ss1": "Snail ATK +10<br>Snail DEF +10",
+        "ss2": "Snail ATK +20<br>Snail DEF +20",
+        "ss3": "Snail ATK +30<br>Snail DEF +30",
+        "ss4": "Snail ATK +50<br>Snail DEF +50",
+        "ss5": "Snail ATK +70<br>Snail DEF +70",
+        "ss7": "Snail ATK +70<br>Snail DEF +70<br>Snail HP +1000 (Awakened)",
+        "skill1": "[[File:Skill skill II.png|50px]]??? (Coming soon)",
+        "skill2": "[[File:Skill skill II.png|50px]]??? (Coming soon)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Tale_of_the_Shipwrecked_Sailor.wiki",
+  "markdown_path": "markdown/The_Tale_of_the_Shipwrecked_Sailor.md"
+}

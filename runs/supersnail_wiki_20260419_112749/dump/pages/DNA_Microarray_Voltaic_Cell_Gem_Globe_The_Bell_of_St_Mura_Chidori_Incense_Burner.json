@@ -1,0 +1,33 @@
+{
+  "pageid": 8904,
+  "ns": 0,
+  "title": "DNA Microarray+Voltaic Cell+Gem Globe+The Bell of St Mura+Chidori Incense Burner",
+  "fullurl": "https://supersnail.wiki.gg/wiki/DNA_Microarray%2BVoltaic_Cell%2BGem_Globe%2BThe_Bell_of_St_Mura%2BChidori_Incense_Burner",
+  "touched": "2025-06-16T23:10:43Z",
+  "length": 192,
+  "lastrevid": 34949,
+  "revision": {
+    "revid": 34949,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:10:43Z",
+    "sha1": "802fd4c487128a530b289822be01038ee7d5febe",
+    "size": 192
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "447",
+        "relics": "DNA Microarray,Voltaic Cell,Gem Globe,The Bell of St Mura,Chidori Incense Burner",
+        "rank": "purple",
+        "amount": "5",
+        "category": "self",
+        "description": "Mecha Minion MAX +9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/DNA_Microarray_Voltaic_Cell_Gem_Globe_The_Bell_of_St_Mura_Chidori_Incense_Burner.wiki",
+  "markdown_path": "markdown/DNA_Microarray_Voltaic_Cell_Gem_Globe_The_Bell_of_St_Mura_Chidori_Incense_Burner.md"
+}

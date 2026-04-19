@@ -1,0 +1,33 @@
+{
+  "pageid": 4440,
+  "ns": 0,
+  "title": "Butterball+Camellias Lady",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Butterball%2BCamellias_Lady",
+  "touched": "2025-06-20T00:07:34Z",
+  "length": 144,
+  "lastrevid": 35900,
+  "revision": {
+    "revid": 35900,
+    "parentid": 19546,
+    "timestamp": "2025-06-20T00:07:34Z",
+    "sha1": "2eb6b464b087bf6ed3b97e43a7e0e37cb45e54bd",
+    "size": 144
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "337",
+        "relics": "Butterball,Camellias Lady",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Species War Cabin Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Butterball_Camellias_Lady.wiki",
+  "markdown_path": "markdown/Butterball_Camellias_Lady.md"
+}

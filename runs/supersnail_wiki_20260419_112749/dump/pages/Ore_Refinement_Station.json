@@ -1,0 +1,47 @@
+{
+  "pageid": 10654,
+  "ns": 0,
+  "title": "Ore Refinement Station",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ore_Refinement_Station",
+  "touched": "2025-08-11T10:57:39Z",
+  "length": 500,
+  "lastrevid": 38519,
+  "revision": {
+    "revid": 38519,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:57:39Z",
+    "sha1": "99e21294798baa43d6c796d12381fd6299469481",
+    "size": 500
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ore Refinement Station",
+        "class_id": "20852",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Revolutionary!\nFaster ore processing\nDoubles as a shelter (if your definition includes screaming into reinforced steel)\nFDA-approved for creating workplace grievances",
+        "fame": "18",
+        "art": "16",
+        "fth": "14",
+        "civ": "13",
+        "tech": "29",
+        "ss1": "prop@56033_2<br>prop@56034_2",
+        "ss2": "prop@56033_2<br>prop@56034_2",
+        "ss3": "prop@56033_2<br>prop@56034_2",
+        "ss4": "prop@56033_2<br>prop@56034_2",
+        "ss7": "prop@56033_2<br>prop@56034_2<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ore_Refinement_Station.wiki",
+  "markdown_path": "markdown/Ore_Refinement_Station.md"
+}

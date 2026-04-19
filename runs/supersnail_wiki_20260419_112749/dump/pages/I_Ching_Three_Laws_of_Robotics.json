@@ -1,0 +1,36 @@
+{
+  "pageid": 7982,
+  "ns": 0,
+  "title": "I Ching+Three Laws of Robotics",
+  "fullurl": "https://supersnail.wiki.gg/wiki/I_Ching%2BThree_Laws_of_Robotics",
+  "touched": "2025-03-23T18:37:05Z",
+  "length": 298,
+  "lastrevid": 33435,
+  "revision": {
+    "revid": 33435,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:33:53Z",
+    "sha1": "597fc8cb2f0a808d829b34067f346be3d39e62f4",
+    "size": 298
+  },
+  "categories": [
+    "Enhanced by Minion Skins",
+    "Oblivion Power Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "I Ching,Three Laws of Robotics",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 3 Minion Skins crafted, Snail Oblivion Power +14; Minion Skins crafted: 90/90"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/I_Ching_Three_Laws_of_Robotics.wiki",
+  "markdown_path": "markdown/I_Ching_Three_Laws_of_Robotics.md"
+}

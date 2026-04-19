@@ -1,0 +1,35 @@
+{
+  "pageid": 4179,
+  "ns": 0,
+  "title": "Mysterious Relic+Holy Grail+Ansidei Madonna+Nightingale Medal+Frederick Portrait",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mysterious_Relic%2BHoly_Grail%2BAnsidei_Madonna%2BNightingale_Medal%2BFrederick_Portrait",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 286,
+  "lastrevid": 31560,
+  "revision": {
+    "revid": 31560,
+    "parentid": 31559,
+    "timestamp": "2024-11-09T04:20:19Z",
+    "sha1": "ea34f4845c9fb8336c22ffab1024ed5cb90658c9",
+    "size": 286
+  },
+  "categories": [
+    "Gaia Rocket Cabin Boost",
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Mysterious Relic,Holy Grail,Ansidei Madonna,Nightingale Medal,Frederick Portrait",
+        "rank": "orange",
+        "amount": "5",
+        "category": "home",
+        "description": "In the Gaia Rocket Cabin: All device base effects +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mysterious_Relic_Holy_Grail_Ansidei_Madonna_Nightingale_Medal_Frederick_Portrait.wiki",
+  "markdown_path": "markdown/Mysterious_Relic_Holy_Grail_Ansidei_Madonna_Nightingale_Medal_Frederick_Portrait.md"
+}

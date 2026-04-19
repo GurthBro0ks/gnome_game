@@ -1,0 +1,47 @@
+{
+  "pageid": 9995,
+  "ns": 0,
+  "title": "Smurphette",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Smurphette",
+  "touched": "2025-08-11T10:34:21Z",
+  "length": 596,
+  "lastrevid": 37514,
+  "revision": {
+    "revid": 37514,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:34:21Z",
+    "sha1": "d5d8778cd6b55759eed51615bf8f41f124df03cb",
+    "size": 596
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Smurphette",
+        "class_id": "20043",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Every time they see this blue ball of play dough, the Smurphes can't help recalling the time when they were dominated by Gagamel. The friendly and kind Smurphes fought against each other because of the wizard.",
+        "fame": "30",
+        "art": "13",
+        "fth": "16",
+        "civ": "12",
+        "tech": "19",
+        "ss1": "Lottery White Orbs turn to Green by +0.2%",
+        "ss2": "Lottery White Orbs turn to Green by +0.4%",
+        "ss3": "Lottery White Orbs turn to Green by +0.6%",
+        "ss4": "Lottery White Orbs turn to Green by +0.6%",
+        "ss7": "Lottery White Orbs turn to Green by +0.6%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Smurphette.wiki",
+  "markdown_path": "markdown/Smurphette.md"
+}

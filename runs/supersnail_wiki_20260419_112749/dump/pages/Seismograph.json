@@ -1,0 +1,55 @@
+{
+  "pageid": 1227,
+  "ns": 0,
+  "title": "Seismograph",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Seismograph",
+  "touched": "2024-09-06T09:57:47Z",
+  "length": 1931,
+  "lastrevid": 22450,
+  "revision": {
+    "revid": 22450,
+    "parentid": 16591,
+    "timestamp": "2024-02-21T03:16:29Z",
+    "sha1": "2e1d44fb1b9cc85b5453d5217eed97c869ee8ce1",
+    "size": 1931
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Cathay Exploration Boost",
+    "Cathay Museum Boost",
+    "DEF Boost",
+    "Enhanced by Lottery Draws",
+    "HP Boost",
+    "Relics",
+    "Time Machine Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Seismograph",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "07-31",
+        "source": "Lottery Machine (0.07%), Wishing (2.1%), Novice Scroll (1%)",
+        "description": "On Jul 31, AD 134, the seismograph detected an earthquake for the first time, including its magnitude and location.\n\nThat day, a dragon orb on the northwest side of the seismograph fell and was picked up by the mouth of a golden toad in Luoyang Palace. A few days later, people learned about the news of the Longxi earthquake! The seismograph points to 8 directions. Each direction has a dragon head and a toad below it. If an earthquake occurs in any of the directions, the orb within the dragon hea …",
+        "fame": "28",
+        "art": "28",
+        "fth": "24",
+        "civ": "45",
+        "tech": "29",
+        "ss1": "Per Fissure Incident completed, Snail DEF +1<br>Fissure Incidents Completed: 60/60",
+        "ss2": "Per Fissure Incident completed, Snail DEF +2<br>Fissure Incidents Completed: 60/60",
+        "ss3": "Per Fissure Incident completed, Snail DEF +3<br>Fissure Incidents Completed: 60/60",
+        "ss4": "Per Fissure Incident completed, Snail DEF +5<br>Fissure Incidents Completed: 60/60",
+        "ss7": "Per Fissure Incident completed, Snail DEF +<br>Fissure Incidents Completed: 60/60<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Cathay skill I.png|50px]] Place in Cathay Museum: In Cathay, Snail HP +200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Seismograph.wiki",
+  "markdown_path": "markdown/Seismograph.md"
+}

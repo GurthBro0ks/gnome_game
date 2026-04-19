@@ -1,0 +1,52 @@
+{
+  "pageid": 10378,
+  "ns": 0,
+  "title": "The Golden Bough",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Golden_Bough",
+  "touched": "2025-08-11T10:48:43Z",
+  "length": 1777,
+  "lastrevid": 38132,
+  "revision": {
+    "revid": 38132,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:48:43Z",
+    "sha1": "2576f3651bc21737939995f9df342c2738d4ec53",
+    "size": 1777
+  },
+  "categories": [
+    "CIV Relics",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Golden Bough",
+        "class_id": "22873",
+        "rank": "SSS",
+        "affct": "CIV",
+        "description": "The Golden Bough is a work exploring religious beliefs, rituals, and myths in primitive societies. The book provides a detailed analysis of folklore and religious practices worldwide, particularly those related to nature worship, agricultural rituals, and the succession of kingship. This book has had a profound impact on fields such as anthropology, folklore, religious studies, and literary criticism, providing important research references and serving as an inspiration for many literary works i …",
+        "fame": "72",
+        "art": "64",
+        "fth": "67",
+        "civ": "107",
+        "tech": "52",
+        "ss1": "Snail Leadership +3<br>Per 3 Dorm Decors gained, Snail ATK +3<br>prop@53196_2<br>Dorm Decor Gained: 150/150",
+        "ss2": "Snail Leadership +4<br>Per 3 Dorm Decors gained, Snail ATK +4<br>prop@53196_2<br>Dorm Decor Gained: 150/150",
+        "ss3": "Snail Leadership +5<br>Per 3 Dorm Decors gained, Snail ATK +5<br>prop@53196_2<br>Dorm Decor Gained: 150/150",
+        "ss4": "Snail Leadership +7<br>Per 3 Dorm Decors gained, Snail ATK +7<br>prop@53196_2<br>Dorm Decor Gained: 150/150",
+        "ss5": "Snail Leadership +9<br>Per 3 Dorm Decors gained, Snail ATK +9<br>prop@53196_2<br>Dorm Decor Gained: 150/150",
+        "ss6": "Snail Leadership +12<br>Per 3 Dorm Decors gained, Snail ATK +12<br>prop@53196_2<br>Dorm Decor Gained: 150/150",
+        "ss7": "Snail Leadership +12<br>Per 3 Dorm Decors gained, Snail ATK +12<br>prop@53196_2<br>Dorm Decor Gained: 150/150<br>Snail Leadership +5 (Awakened)",
+        "skill1": "[[File:Britland skill III.png|50px]]Place in Britland Museum: Medal Output +30",
+        "skill2": "[[File:Britland skill III.png|50px]]Place in Britland Museum: This Relic's CIV +15",
+        "skill3": "[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, 2x Purple Card Drops +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Golden_Bough.wiki",
+  "markdown_path": "markdown/The_Golden_Bough.md"
+}

@@ -1,0 +1,36 @@
+{
+  "pageid": 3669,
+  "ns": 0,
+  "title": "Nefertiti Bust+ENIAC Prototype+Behistun Inscription+ARPAnet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nefertiti_Bust%2BENIAC_Prototype%2BBehistun_Inscription%2BARPAnet",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 302,
+  "lastrevid": 18579,
+  "revision": {
+    "revid": 18579,
+    "parentid": 18333,
+    "timestamp": "2023-11-14T01:18:27Z",
+    "sha1": "c8db0a6b9f16bb724992182a3cfda4a5ab3fc1a4",
+    "size": 302
+  },
+  "categories": [
+    "Enhanced by DNA Strength",
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Nefertiti Bust,ENIAC Prototype,Behistun Inscription,ARPAnet",
+        "rank": "purple",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 500 DNA Strength, Snail RUSH +4<br>DNA Strength: 20,000/20,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nefertiti_Bust_ENIAC_Prototype_Behistun_Inscription_ARPAnet.wiki",
+  "markdown_path": "markdown/Nefertiti_Bust_ENIAC_Prototype_Behistun_Inscription_ARPAnet.md"
+}

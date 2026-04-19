@@ -1,0 +1,51 @@
+{
+  "pageid": 8728,
+  "ns": 0,
+  "title": "Pitot Tube",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pitot_Tube",
+  "touched": "2025-06-16T20:57:36Z",
+  "length": 1015,
+  "lastrevid": 34699,
+  "revision": {
+    "revid": 34699,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:57:06Z",
+    "sha1": "c5bb2568e96314ab44f954291f036e53bef0857c",
+    "size": 1015
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Pages with broken file links",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Pitot Tube",
+        "class_id": "22497",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "07-31",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Jul 31, 1716 AD, French engineer Henri Pitot invented the first airspeed tube.<br>A pitot tube is a device used to measure the total pressure of airflow, also known as an airspeed tube. By measuring the pressure through the Pitot tube and using Bernoulli's principle, the speed of the airflow can be calculated. Therefore, it is an essential measuring tool on airplanes and must be installed in an area with less airflow disturbance by the aircraft, typically at the very front of the aircraft.",
+        "fame": "30",
+        "art": "18",
+        "fth": "33",
+        "civ": "27",
+        "tech": "46",
+        "ss1": "All Tribal Protolith output +2%",
+        "ss2": "All Tribal Protolith output +4%",
+        "ss3": "All Tribal Protolith output +6%",
+        "ss4": "All Tribal Protolith output +10%",
+        "ss7": "All Tribal Protolith output +10%<br>All Tribal Protolith output +10% (Awakened)",
+        "skill1": "[[File:Frostsanctum skill I.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pitot_Tube.wiki",
+  "markdown_path": "markdown/Pitot_Tube.md"
+}

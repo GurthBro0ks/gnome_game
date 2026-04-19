@@ -1,0 +1,35 @@
+{
+  "pageid": 7944,
+  "ns": 0,
+  "title": "National Geographic Inaugural Issue+PAS2000+Vacuum Tube+Maastricht Treaty",
+  "fullurl": "https://supersnail.wiki.gg/wiki/National_Geographic_Inaugural_Issue%2BPAS2000%2BVacuum_Tube%2BMaastricht_Treaty",
+  "touched": "2025-02-21T19:59:54Z",
+  "length": 267,
+  "lastrevid": 33395,
+  "revision": {
+    "revid": 33395,
+    "parentid": 0,
+    "timestamp": "2025-02-21T19:59:54Z",
+    "sha1": "a0470920d8c41fc902f169dd607a432e6e587a2c",
+    "size": 267
+  },
+  "categories": [
+    "Minion",
+    "Minion RUSH Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "National Geographic Inaugural Issue,PAS2000,Vacuum Tube,Maastricht Treaty",
+        "rank": "orange",
+        "amount": "4",
+        "category": "minion",
+        "description": "Per 60 T8+ Minions deployed, Troop RUSH +108"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/National_Geographic_Inaugural_Issue_PAS2000_Vacuum_Tube_Maastricht_Treaty.wiki",
+  "markdown_path": "markdown/National_Geographic_Inaugural_Issue_PAS2000_Vacuum_Tube_Maastricht_Treaty.md"
+}

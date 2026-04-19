@@ -1,0 +1,35 @@
+{
+  "pageid": 7917,
+  "ns": 0,
+  "title": "WHC+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/WHC%2BMysterious_Relic",
+  "touched": "2025-02-16T15:10:14Z",
+  "length": 232,
+  "lastrevid": 33362,
+  "revision": {
+    "revid": 33362,
+    "parentid": 0,
+    "timestamp": "2025-02-16T15:10:14Z",
+    "sha1": "e27dc1f01eb69147480ff9271684e21498fd6be6",
+    "size": 232
+  },
+  "categories": [
+    "Mecha Minion HARD Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "WHC,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 60 T7+ Mecha Minions in battle: Troop Hard Stats +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/WHC_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/WHC_Mysterious_Relic.md"
+}

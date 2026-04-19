@@ -1,0 +1,53 @@
+{
+  "pageid": 8583,
+  "ns": 0,
+  "title": "Mendelssohn's Baton",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mendelssohn%27s_Baton",
+  "touched": "2025-06-20T00:16:28Z",
+  "length": 1908,
+  "lastrevid": 36107,
+  "revision": {
+    "revid": 36107,
+    "parentid": 34532,
+    "timestamp": "2025-06-20T00:16:28Z",
+    "sha1": "99f18901fe0da41d8f971bf485467304302fc545",
+    "size": 1908
+  },
+  "categories": [
+    "FAME Relics",
+    "Pages with broken file links",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mendelssohn's Baton",
+        "class_id": "22519",
+        "rank": "AAA",
+        "affct": "FAME",
+        "birthday": "02-21",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Feb 21, 1834 AD, Mendelssohn used a conducting baton for the first time in a performance.<br>In ancient Europe, people invented sign language as a method of command. As time passed, various methods of command such as tapping the floor with a cane also emerged. Finally, Mendelssohn, by chance, used a baton-shaped whalebone wrapped in leather and led a successful music performance as a conductor. The world's first conducting baton was born and gradually became a symbol of conductors.",
+        "fame": "71",
+        "art": "40",
+        "fth": "37",
+        "civ": "49",
+        "tech": "46",
+        "ss1": "Per Recruitment Incident completed, Snail ATK +3<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +24<br>Completed Recruitment Incidents: 50/50",
+        "ss2": "Per Recruitment Incident completed, Snail ATK +4<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +32<br>Completed Recruitment Incidents: 50/50",
+        "ss3": "Per Recruitment Incident completed, Snail ATK +5<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +40<br>Completed Recruitment Incidents: 50/50",
+        "ss4": "Per Recruitment Incident completed, Snail ATK +7<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +56<br>Completed Recruitment Incidents: 50/50",
+        "ss5": "Per Recruitment Incident completed, Snail ATK +9<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +72<br>Completed Recruitment Incidents: 50/50",
+        "ss7": "Per Recruitment Incident completed, Snail ATK +9<br>Per Recruitment Incident completed, Priest-Snail Assistance DMG +72<br>Completed Recruitment Incidents: 50/50<br>Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Desertsanctum skill II.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Cap +15%",
+        "skill2": "[[File:Desertsanctum skill II.png|50px]]Place in Desert Sanctum: This Relic's FAME +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mendelssohn_s_Baton.wiki",
+  "markdown_path": "markdown/Mendelssohn_s_Baton.md"
+}

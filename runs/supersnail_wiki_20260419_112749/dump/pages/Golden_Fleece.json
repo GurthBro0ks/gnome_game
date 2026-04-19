@@ -1,0 +1,57 @@
+{
+  "pageid": 10,
+  "ns": 0,
+  "title": "Golden Fleece",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Fleece",
+  "touched": "2024-09-06T09:57:47Z",
+  "length": 1263,
+  "lastrevid": 26293,
+  "revision": {
+    "revid": 26293,
+    "parentid": 21775,
+    "timestamp": "2024-05-07T17:11:29Z",
+    "sha1": "99eb5b1403e35e2d1f377010ce723afec5f0c399",
+    "size": 1263
+  },
+  "categories": [
+    "Blue FTH Relics",
+    "Blue Relics",
+    "Catcolyte Boost",
+    "DEF Boost",
+    "Dragon Gene Speedup Boost",
+    "FTH Relics",
+    "Hellas Exploration Boost",
+    "Hellas Museum Boost",
+    "RUSH Boost",
+    "Relic Boost",
+    "Relics",
+    "Time Chest Output"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Golden Fleece",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "09-24",
+        "source": "Lottery Machine (0.03%), Wishing (0.85%)",
+        "description": "On Sep 24, 3600 BC, Jason finally managed to steal the Golden Fleece.\n\nThis Golden Fleece is the treasure of Ares. It was placed in the Holy Forest and guarded by Ladon. Although Ladon lost the Golden Fleece, he survived and breathed a sigh of relief. He once believed a certain psychic who said that his life was closely connected to the Golden Fleece, and that he would die once the Golden Fleece was gone. When Jason stole the Golden Fleece away, Ladon realized that he guarded it for nothing for  …",
+        "fame": "28",
+        "art": "25",
+        "fth": "47",
+        "civ": "31",
+        "tech": "23",
+        "ss1": "Free Gene Speedup (Dragon) +6m",
+        "ss2": "Free Gene Speedup (Dragon) +12m",
+        "ss3": "Free Gene Speedup (Dragon) +18m",
+        "ss4": "Free Gene Speedup (Dragon) +30m",
+        "ss7": "Free Gene Speedup (Dragon) +30m<br>Free Gene Speedup (Dragon) +30m (Awakened)",
+        "skill1": "[[File:Hellas skill I.png|50px]] Place in Hellenic Museum: In Hellas, Snail RUSH +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Fleece.wiki",
+  "markdown_path": "markdown/Golden_Fleece.md"
+}

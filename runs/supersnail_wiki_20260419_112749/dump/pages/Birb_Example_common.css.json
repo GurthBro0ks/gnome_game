@@ -1,0 +1,24 @@
+{
+  "pageid": 3228,
+  "ns": 0,
+  "title": "Birb:Example/common.css",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Birb:Example/common.css",
+  "touched": "2023-09-09T03:26:37Z",
+  "length": 3100,
+  "lastrevid": 11269,
+  "revision": {
+    "revid": 11269,
+    "parentid": 0,
+    "timestamp": "2023-09-09T03:26:37Z",
+    "sha1": "cc80bec93f3200d4c8db34b624a141b51b25e455",
+    "size": 3100
+  },
+  "categories": [
+    "Pages with broken file links",
+    "Template styles"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Birb_Example_common.css.wiki",
+  "markdown_path": "markdown/Birb_Example_common.css.md"
+}

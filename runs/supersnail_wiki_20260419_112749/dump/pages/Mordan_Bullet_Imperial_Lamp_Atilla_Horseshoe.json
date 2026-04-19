@@ -1,0 +1,34 @@
+{
+  "pageid": 3325,
+  "ns": 0,
+  "title": "Mordan Bullet+Imperial Lamp+Atilla Horseshoe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mordan_Bullet%2BImperial_Lamp%2BAtilla_Horseshoe",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 191,
+  "lastrevid": 12063,
+  "revision": {
+    "revid": 12063,
+    "parentid": 12062,
+    "timestamp": "2023-09-13T08:40:22Z",
+    "sha1": "2ad61fc800f58dddd8af6a027300487eccb54b7c",
+    "size": 191
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Mordan Bullet,Imperial Lamp,Atilla Horseshoe",
+        "rank": "blue",
+        "amount": "3",
+        "category": "other",
+        "description": "Food rewards from offering +2.4%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mordan_Bullet_Imperial_Lamp_Atilla_Horseshoe.wiki",
+  "markdown_path": "markdown/Mordan_Bullet_Imperial_Lamp_Atilla_Horseshoe.md"
+}

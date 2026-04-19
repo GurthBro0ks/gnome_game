@@ -1,0 +1,47 @@
+{
+  "pageid": 10374,
+  "ns": 0,
+  "title": "Collection@20767 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20767_1",
+  "touched": "2025-08-11T10:48:37Z",
+  "length": 654,
+  "lastrevid": 38127,
+  "revision": {
+    "revid": 38127,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:48:37Z",
+    "sha1": "9a722b46bb96960c5733111ece5cf83eef936d26",
+    "size": 654
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20767_1",
+        "class_id": "20767",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "collection@20767_2",
+        "fame": "12",
+        "art": "21",
+        "fth": "26",
+        "civ": "13",
+        "tech": "18",
+        "ss1": "Snail RUSH +10<br>Per God of Faith Descent, Snail ATK +1<br>God of Faith Descended: 40/40",
+        "ss2": "Snail RUSH +20<br>Per God of Faith Descent, Snail ATK +2<br>God of Faith Descended: 40/40",
+        "ss3": "Snail RUSH +30<br>Per God of Faith Descent, Snail ATK +3<br>God of Faith Descended: 40/40",
+        "ss4": "Snail RUSH +30<br>Per God of Faith Descent, Snail ATK +3<br>God of Faith Descended: 40/40",
+        "ss7": "Snail RUSH +30<br>Per God of Faith Descent, Snail ATK +3<br>God of Faith Descended: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20767_1.wiki",
+  "markdown_path": "markdown/Collection_20767_1.md"
+}

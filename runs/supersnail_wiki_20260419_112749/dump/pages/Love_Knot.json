@@ -1,0 +1,47 @@
+{
+  "pageid": 7913,
+  "ns": 0,
+  "title": "Love Knot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Love_Knot",
+  "touched": "2025-08-11T11:00:41Z",
+  "length": 655,
+  "lastrevid": 38651,
+  "revision": {
+    "revid": 38651,
+    "parentid": 37894,
+    "timestamp": "2025-08-11T11:00:41Z",
+    "sha1": "3c6489fa44db79d6a2c65ec937c807c599040fb4",
+    "size": 655
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Love Knot",
+        "class_id": "20649",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "Also known as the Hercules Knot, it is regarded as a symbol of eternal unity.",
+        "fame": "19",
+        "art": "29",
+        "fth": "13",
+        "civ": "15",
+        "tech": "14",
+        "ss1": "Snail HP +200<br>Per 5k DNA Strength, Snail ATK +4<br>DNA Strength: 50000/50000",
+        "ss2": "Snail HP +400<br>Per 5k DNA Strength, Snail ATK +8<br>DNA Strength: 50000/50000",
+        "ss3": "Snail HP +600<br>Per 5k DNA Strength, Snail ATK +12<br>DNA Strength: 50000/50000",
+        "ss4": "Snail HP +600<br>Per 5k DNA Strength, Snail ATK +12<br>DNA Strength: 50000/50000",
+        "ss7": "Snail HP +600<br>Per 5k DNA Strength, Snail ATK +12<br>DNA Strength: 50000/50000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Love_Knot.wiki",
+  "markdown_path": "markdown/Love_Knot.md"
+}

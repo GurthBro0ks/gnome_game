@@ -1,0 +1,34 @@
+{
+  "pageid": 3651,
+  "ns": 0,
+  "title": "Pine Trees Screen+Hope Diamond",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pine_Trees_Screen%2BHope_Diamond",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 193,
+  "lastrevid": 13250,
+  "revision": {
+    "revid": 13250,
+    "parentid": 0,
+    "timestamp": "2023-09-23T15:50:26Z",
+    "sha1": "a0ae58edbc3bb4aa98488b581de026f448b90633",
+    "size": 193
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Pine Trees Screen,Hope Diamond",
+        "rank": "purple",
+        "amount": "2",
+        "category": "other",
+        "description": "Upon traveling through an area: Gain +12 INTEL"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pine_Trees_Screen_Hope_Diamond.wiki",
+  "markdown_path": "markdown/Pine_Trees_Screen_Hope_Diamond.md"
+}

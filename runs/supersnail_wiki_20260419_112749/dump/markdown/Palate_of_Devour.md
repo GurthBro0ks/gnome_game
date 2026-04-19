@@ -1,0 +1,16 @@
+|image=.png
+|description=To improve its own enjoyment of the buffet in the cafe, the Devourer evolved the Snail Shell to what you see now and more than doubled its consumption!
+|affct=CIV
+|hard=RUSH
+|source=
+
+|color=green
+|earth=1
+|water=2
+|fire=1
+|wind=2
+|form=Mutant
+|element=Wind
+|realm=Rift
+|orangehard=DEF
+}}

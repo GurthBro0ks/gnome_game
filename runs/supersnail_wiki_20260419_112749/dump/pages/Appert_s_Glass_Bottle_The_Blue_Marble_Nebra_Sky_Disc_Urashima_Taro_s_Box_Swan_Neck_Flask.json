@@ -1,0 +1,33 @@
+{
+  "pageid": 8878,
+  "ns": 0,
+  "title": "Appert's Glass Bottle+The Blue Marble+Nebra Sky Disc+Urashima Taro's Box+Swan Neck Flask",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Appert%27s_Glass_Bottle%2BThe_Blue_Marble%2BNebra_Sky_Disc%2BUrashima_Taro%27s_Box%2BSwan_Neck_Flask",
+  "touched": "2025-06-16T23:08:58Z",
+  "length": 221,
+  "lastrevid": 34888,
+  "revision": {
+    "revid": 34888,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:08:58Z",
+    "sha1": "38a77732662576d2ab7dd002ddeaca5ad72aff5b",
+    "size": 221
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "369",
+        "relics": "Appert's Glass Bottle,The Blue Marble,Nebra Sky Disc,Urashima Taro's Box,Swan Neck Flask",
+        "rank": "blue",
+        "amount": "5",
+        "category": "self",
+        "description": "Novice Scrolls drop +1 Blue Reagent by +8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Appert_s_Glass_Bottle_The_Blue_Marble_Nebra_Sky_Disc_Urashima_Taro_s_Box_Swan_Neck_Flask.wiki",
+  "markdown_path": "markdown/Appert_s_Glass_Bottle_The_Blue_Marble_Nebra_Sky_Disc_Urashima_Taro_s_Box_Swan_Neck_Flask.md"
+}

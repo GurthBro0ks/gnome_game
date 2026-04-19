@@ -1,0 +1,52 @@
+{
+  "pageid": 3139,
+  "ns": 0,
+  "title": "Hurrian Songs",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hurrian_Songs",
+  "touched": "2025-06-16T23:13:27Z",
+  "length": 1492,
+  "lastrevid": 35023,
+  "revision": {
+    "revid": 35023,
+    "parentid": 24171,
+    "timestamp": "2025-06-16T23:13:27Z",
+    "sha1": "62f2a9b0a8e03e265e44904fd59276094f82b115",
+    "size": 1492
+  },
+  "categories": [
+    "CIV Relics",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Hurrian Songs",
+        "class_id": "22184",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "05-02",
+        "source": "Lottery Machine No.2 (0.06%), Wishing (0.02%)",
+        "description": "On May 2, 1374 BC, the Hurrian Songs were presented to the city of Ugarit for its people to sing.<br>The Hurrian Songs are a collection of songs inscribed in cuneiform on clay tablets from the ancient city of Ugarit in 1400 BC. The song consists of two parts: one part is a hymn in praise of the goddess of the orchard, and the other part is instructions for how to play the nine-stringed lyre. The Hurrian Songs are the world's oldest music score that is relatively well-preserved.",
+        "fame": "45",
+        "art": "53",
+        "fth": "42",
+        "civ": "73",
+        "tech": "30",
+        "ss1": "Zombie Minion ATK +3%<br>Per 30 Zombie Minions in battle:<br>> Troop HARD Stats +6",
+        "ss2": "Zombie Minion ATK +4%<br>Per 30 Zombie Minions in battle:<br>> Troop HARD Stats +8",
+        "ss3": "Zombie Minion ATK +5%<br>Per 30 Zombie Minions in battle:<br>> Troop HARD Stats +10",
+        "ss4": "Zombie Minion ATK +7%<br>Per 30 Zombie Minions in battle:<br>> Troop HARD Stats +14",
+        "ss5": "Zombie Minion ATK +9%<br>Per 30 Zombie Minions in battle:<br>> Troop HARD Stats +18",
+        "ss7": "Zombie Minion ATK +9%<br>Per 30 Zombie Minions in battle:<br>> Troop HARD Stats +18<br>Per 30 Zombie Minions in battle:<br>> Troop HARD Stats +14 (Awakened)",
+        "skill1": "[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, AFFCT Checks -100",
+        "skill2": "[[File:Surfclam skill II.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion DEF +4.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hurrian_Songs.wiki",
+  "markdown_path": "markdown/Hurrian_Songs.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 10774,
+  "ns": 0,
+  "title": "Fake Dragon Orb",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fake_Dragon_Orb",
+  "touched": "2025-08-11T11:01:15Z",
+  "length": 670,
+  "lastrevid": 38676,
+  "revision": {
+    "revid": 38676,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:01:15Z",
+    "sha1": "979dfd0e3b65c98c161c0200c870188b0839d7ed",
+    "size": 670
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Fake Dragon Orb",
+        "class_id": "20029",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "The D. Dragon made this Dragon Orb for its regular customers. It has no summoning power and is more of a status symbol.",
+        "fame": "18",
+        "art": "15",
+        "fth": "28",
+        "civ": "11",
+        "tech": "18",
+        "ss1": "Per Divine Dragon Descent, Snail ATK +4<br>Divine Dragon Descents: 20/20",
+        "ss2": "Per Divine Dragon Descent, Snail ATK +8<br>Divine Dragon Descents: 20/20",
+        "ss3": "Per Divine Dragon Descent, Snail ATK +12<br>Divine Dragon Descents: 20/20",
+        "ss4": "Per Divine Dragon Descent, Snail ATK +12<br>Divine Dragon Descents: 20/20",
+        "ss7": "Per Divine Dragon Descent, Snail ATK +12<br>Divine Dragon Descents: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fake_Dragon_Orb.wiki",
+  "markdown_path": "markdown/Fake_Dragon_Orb.md"
+}

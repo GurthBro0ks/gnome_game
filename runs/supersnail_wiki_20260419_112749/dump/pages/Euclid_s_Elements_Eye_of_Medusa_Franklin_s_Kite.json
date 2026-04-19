@@ -1,0 +1,33 @@
+{
+  "pageid": 3323,
+  "ns": 0,
+  "title": "Euclid's Elements+Eye of Medusa+Franklin's Kite",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Euclid%27s_Elements%2BEye_of_Medusa%2BFranklin%27s_Kite",
+  "touched": "2025-08-11T10:37:02Z",
+  "length": 182,
+  "lastrevid": 37635,
+  "revision": {
+    "revid": 37635,
+    "parentid": 18391,
+    "timestamp": "2025-08-11T10:37:02Z",
+    "sha1": "a8b422e409897e561fcb0218490cdcd411bf0770",
+    "size": 182
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "57",
+        "relics": "Euclid's Elements,Eye of Medusa,Franklin's Kite",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 10 Zombie Minions in battle: Troop ATK +6"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Euclid_s_Elements_Eye_of_Medusa_Franklin_s_Kite.wiki",
+  "markdown_path": "markdown/Euclid_s_Elements_Eye_of_Medusa_Franklin_s_Kite.md"
+}

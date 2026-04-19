@@ -1,0 +1,58 @@
+{
+  "pageid": 1168,
+  "ns": 0,
+  "title": "Dream Top",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dream_Top",
+  "touched": "2024-09-06T09:58:32Z",
+  "length": 1845,
+  "lastrevid": 18215,
+  "revision": {
+    "revid": 18215,
+    "parentid": 17261,
+    "timestamp": "2023-11-13T05:17:11Z",
+    "sha1": "064874303d1f6cc958510ba69f36551af5e20cdb",
+    "size": 1845
+  },
+  "categories": [
+    "CIV Relics",
+    "Demon Gene Speedup Boost",
+    "Demon Minion RUSH Boost",
+    "Enhanced by DNA Strength",
+    "Fungus Farm Output Boost",
+    "Fungus Farm Skill",
+    "HP Boost",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics",
+    "Wonder Fungus Output"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dream Top",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "05-24",
+        "source": "Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Time Chest (1.5%), Relic Forge (80 Relic RF)",
+        "description": "On May 24, 2005, this top was used to tell reality and dreams apart, and it has begun spinning.\n\nAfter many years of research, the dream maker discovered that if the top keeps spinning, it means that someone is still in the dream. If it falls, it means that it is back in reality. He spins the top once to help his clients enter the dream and spins it again to bring them back to reality.\n\n[Size]\n\nSmall: about 4 to 5 cm in diameter<br>Medium: weighs about 15 to 30 kg<br>Large: weighs more than 31 k …",
+        "fame": "51",
+        "art": "46",
+        "fth": "35",
+        "civ": "75",
+        "tech": "36",
+        "ss1": "Demon Gene Research SPD +1.8%<br>Per 30 Demon Minions in battle, Troop RUSH +4",
+        "ss2": "Demon Gene Research SPD +2.4%<br>Per 30 Demon Minions in battle, Troop RUSH +8",
+        "ss3": "Demon Gene Research SPD +3%<br>Per 30 Demon Minions in battle, Troop RUSH +12",
+        "ss4": "Demon Gene Research SPD +4.2%<br>Per 30 Demon Minions in battle, Troop RUSH +20",
+        "ss5": "Demon Gene Research SPD +5.4%<br>Per 30 Demon Minions in battle, Troop RUSH +28",
+        "ss7": "Demon Gene Research SPD +5.4%<br>Per 30 Demon Minions in battle, Troop RUSH +28<br>Demon Gene Research SPD +4.2% (Awakened)",
+        "skill1": "[[File:Fungusfarm skill II.png|50px]] Place in Fungus Farm: Fungus Output +15%",
+        "skill2": "[[File:Fungusfarm skill II.png|50px]] Place in Fungus Farm: Grow Wonder Fungus by +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dream_Top.wiki",
+  "markdown_path": "markdown/Dream_Top.md"
+}

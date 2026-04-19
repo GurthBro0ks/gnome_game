@@ -1,0 +1,36 @@
+{
+  "pageid": 4700,
+  "ns": 0,
+  "title": "Cloisters Cards+Ariadne's Thread+The Rose Garden+Hedwig Glass+Daguerreotype Camera",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cloisters_Cards%2BAriadne%27s_Thread%2BThe_Rose_Garden%2BHedwig_Glass%2BDaguerreotype_Camera",
+  "touched": "2024-12-02T03:00:51Z",
+  "length": 344,
+  "lastrevid": 18569,
+  "revision": {
+    "revid": 18569,
+    "parentid": 18488,
+    "timestamp": "2023-11-14T01:16:06Z",
+    "sha1": "3698e2fbbffea96c189392a2c4216b5b6ad7e4b5",
+    "size": 344
+  },
+  "categories": [
+    "Enhanced by Super Memetic Chest",
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Cloisters Cards,Ariadne's Thread,The Rose Garden,Hedwig Glass,Daguerreotype Camera",
+        "rank": "blue",
+        "amount": "5",
+        "category": "self",
+        "description": "Per Super Memetic Chest opened: Snail RUSH +8; 50/50 Super Memetic Chests opened"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cloisters_Cards_Ariadne_s_Thread_The_Rose_Garden_Hedwig_Glass_Daguerreotype_Camera.wiki",
+  "markdown_path": "markdown/Cloisters_Cards_Ariadne_s_Thread_The_Rose_Garden_Hedwig_Glass_Daguerreotype_Camera.md"
+}

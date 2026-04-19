@@ -1,0 +1,50 @@
+{
+  "pageid": 8700,
+  "ns": 0,
+  "title": "Olmec Figurine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Olmec_Figurine",
+  "touched": "2025-06-20T00:20:40Z",
+  "length": 1242,
+  "lastrevid": 36218,
+  "revision": {
+    "revid": 36218,
+    "parentid": 34669,
+    "timestamp": "2025-06-20T00:20:40Z",
+    "sha1": "af0de67a8ecb0fec7b7768641ca5f2f50a15a90b",
+    "size": 1242
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Olmec Figurine",
+        "class_id": "22467",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "01-16",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Jan 16, 1939 AD, the first Olmec stone statue was discovered in Tres Zapotes.<br>The Olmec people lived in the Yucatan Peninsula in Central America. During archaeological excavations, many sites were discovered linking the Olmec and Maya civilizations. These massive Olmec stone statues were carved from huge blocks of basalt, depicting baby-faced figures with roaring expressions, downturned mouths, flat noses, thick lips, half-open eyes, and heavy eyelids. They showcase the Olmecs' superb carv …",
+        "fame": "32",
+        "art": "31",
+        "fth": "22",
+        "civ": "47",
+        "tech": "22",
+        "ss1": "Per 3 Hidden Treasures claimed, Snail HP +10<br>Hidden Treasures Claimed: 150/150",
+        "ss2": "Per 3 Hidden Treasures claimed, Snail HP +20<br>Hidden Treasures Claimed: 150/150",
+        "ss3": "Per 3 Hidden Treasures claimed, Snail HP +30<br>Hidden Treasures Claimed: 150/150",
+        "ss4": "Per 3 Hidden Treasures claimed, Snail HP +50<br>Hidden Treasures Claimed: 150/150",
+        "ss7": "Per 3 Hidden Treasures claimed, Snail HP +50<br>Hidden Treasures Claimed: 150/150<br>Snail HP +500 (Awakened)",
+        "skill1": "[[File:Tadpolepond skill I.png|50px]]Place in Tadpole Pond: B-tad Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Olmec_Figurine.wiki",
+  "markdown_path": "markdown/Olmec_Figurine.md"
+}

@@ -1,0 +1,34 @@
+{
+  "pageid": 3310,
+  "ns": 0,
+  "title": "Dendera Tablet+Melcades' Prophecy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dendera_Tablet%2BMelcades%27_Prophecy",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 185,
+  "lastrevid": 12047,
+  "revision": {
+    "revid": 12047,
+    "parentid": 0,
+    "timestamp": "2023-09-13T08:05:16Z",
+    "sha1": "beb799454dc8219e2176979f23ed1df336bc2833",
+    "size": 185
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Dendera Tablet,Melcades' Prophecy",
+        "rank": "blue",
+        "amount": "2",
+        "category": "other",
+        "description": "In any Realm, 2x White Card Drops +2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dendera_Tablet_Melcades_Prophecy.wiki",
+  "markdown_path": "markdown/Dendera_Tablet_Melcades_Prophecy.md"
+}

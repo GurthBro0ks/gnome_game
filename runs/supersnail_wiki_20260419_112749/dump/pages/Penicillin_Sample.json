@@ -1,0 +1,53 @@
+{
+  "pageid": 299,
+  "ns": 0,
+  "title": "Penicillin Sample",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Penicillin_Sample",
+  "touched": "2024-09-06T14:45:23Z",
+  "length": 1339,
+  "lastrevid": 22406,
+  "revision": {
+    "revid": 22406,
+    "parentid": 16372,
+    "timestamp": "2024-02-21T02:43:37Z",
+    "sha1": "5701f687ae57d4eef8c43702abaf7b7bba052518",
+    "size": 1339
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Exploration INTEL Boost",
+    "Lottery Bead Color Change",
+    "Lumber Camp Boost",
+    "Reagent Crafting Boost",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Penicillin Sample",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "01-08",
+        "source": "Lottery Machine (0.03%), Wishing (1.1%), Evolution Chest (2%)",
+        "description": "On Jan 8, 1928, humans discovered and used antibiotics for the first time in the medical field. \n\nFleming found a new colony in the petri dish in the lab and published a thesis about it. Penicillin saved the lives of countless soldiers 13 years later, and even turned the tides during the World War. This antibiotic gained attention worldwide and was eventually widely used in the medical field.\n\n[Basic Info]\n\nName: Penicillin G. Alias: Penicillin. Type: Prescription drug. Precaution: Safe for athl …",
+        "fame": "23",
+        "art": "24",
+        "fth": "29",
+        "civ": "31",
+        "tech": "47",
+        "ss1": "When crafting a Blue Reagent, +1% to get +1",
+        "ss2": "When crafting a Blue Reagent, +2% to get +1",
+        "ss3": "When crafting a Blue Reagent, +3% to get +1",
+        "ss4": "When crafting a Blue Reagent, +5% to get +1",
+        "ss7": "When crafting a Blue Reagent, +5% to get +1<br>When crafting a Blue Reagent, +5% to get +1 (Awakened)",
+        "skill1": "[[File:Lumbercamp skill I.png|50px]]Place in Lumber Camp: Wood Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Penicillin_Sample.wiki",
+  "markdown_path": "markdown/Penicillin_Sample.md"
+}

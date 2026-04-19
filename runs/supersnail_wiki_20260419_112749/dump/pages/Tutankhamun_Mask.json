@@ -1,0 +1,69 @@
+{
+  "pageid": 1077,
+  "ns": 0,
+  "title": "Tutankhamun Mask",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tutankhamun_Mask",
+  "touched": "2024-11-04T01:11:03Z",
+  "length": 2456,
+  "lastrevid": 30169,
+  "revision": {
+    "revid": 30169,
+    "parentid": 26252,
+    "timestamp": "2024-10-15T15:48:30Z",
+    "sha1": "dbf310b317c3ceb3ae63d8c72fc9f9cf35210169",
+    "size": 2456
+  },
+  "categories": [
+    "ART Boost",
+    "ART Relics",
+    "ATK Boost",
+    "DEF Boost",
+    "Exploration Reagent Drop Boost",
+    "Gear Boost",
+    "Gene Simulation Compass Boost",
+    "HP Boost",
+    "Kemet Exploration Boost",
+    "Kemet Museum Boost",
+    "Mecha Gene Cost Reduction",
+    "Mummy Boost",
+    "Orange ART Relics",
+    "Orange Relics",
+    "Reagent Crafting Boost",
+    "Relics",
+    "Rewards Organs",
+    "Snail Arena Compass Boost",
+    "Undead Turtle Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Tutankhamun Mask",
+        "rank": "S",
+        "affct": "ART",
+        "birthday": "09-09",
+        "source": "ART Master Scrolls (34.7%), Fragment Crafting (18.1%), Lottery Machine (0.81%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), Super Treasure Maps (15%), Wishing (0.68%)",
+        "description": "On Sep 9, 1922, a mask made of gold was unearthed from the Tomb of Tut Ankh Amun.\n\nArchaeologist Dr. Carter found this surprising mask that was once worn by the Egyptian pharaoh, Tutankhamun, in his tomb. It's plated in gold and inlaid with gems and stained glass and decorated with symbols of the Eagle God and Cobra God, representing Upper and Lower Egypt. The beard symbolizes Osiris, god of the underworld. This important Egyptian cultural relic is kept at the Egyptian National Museum.\n\n[Mask In …",
+        "fame": "55",
+        "art": "96",
+        "fth": "75",
+        "civ": "58",
+        "tech": "48",
+        "ss1": "Snail DEF +10<br>Per Orange+ Gear equipped, Snail HP +20<br>Per Orange+ Gear equipped, Snail DEF +2",
+        "ss2": "Snail DEF +20<br>Per Orange+ Gear equipped, Snail HP +40<br>Per Orange+ Gear equipped, Snail DEF +4",
+        "ss3": "Snail DEF +30<br>Per Orange+ Gear equipped, Snail HP +60<br>Per Orange+ Gear equipped, Snail DEF +6",
+        "ss4": "Snail DEF +50<br>Per Orange+ Gear equipped, Snail HP +100<br>Per Orange+ Gear equipped, Snail DEF +10",
+        "ss5": "Snail DEF +70<br>Per Orange+ Gear equipped, Snail HP +140<br>Per Orange+ Gear equipped, Snail DEF +14",
+        "ss6": "Snail DEF +100<br>Per Orange+ Gear equipped, Snail HP +200<br>Per Orange+ Gear equipped, Snail DEF +20",
+        "ss7": "Snail DEF +100<br>Per Orange+ Gear equipped, Snail HP +200<br>Per Orange+ Gear equipped, Snail DEF +20<br>Snail DEF +100 (Awakened)",
+        "skill1": "[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, 2x Blue Reagent Drops +15%",
+        "skill2": "[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail ATK +600",
+        "skill3": "[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's ART +15",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tutankhamun_Mask.wiki",
+  "markdown_path": "markdown/Tutankhamun_Mask.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 7772,
+  "ns": 0,
+  "title": "Cancer Cell Manual",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cancer_Cell_Manual",
+  "touched": "2025-08-11T10:51:19Z",
+  "length": 974,
+  "lastrevid": 38248,
+  "revision": {
+    "revid": 38248,
+    "parentid": 32548,
+    "timestamp": "2025-08-11T10:51:19Z",
+    "sha1": "b334a8d0058efc75c553a4638d1ab2433a952d53",
+    "size": 974
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Cancer Cell Manual",
+        "class_id": "20269",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This manual is a guidebook compiled by Earth's Will after sorting out intelligence collected from insiders. It records the characteristics and weaknesses of the cancer cells of Earth's Will, providing huge aid in defeating the powerful enemies!",
+        "fame": "17",
+        "art": "13",
+        "fth": "31",
+        "civ": "13",
+        "tech": "16",
+        "ss1": "Rewards Box now available in Vending Machine<br>Against Cancer Cells of Earth's Will,<br>AFFCT Checks -5000",
+        "ss2": "Rewards Box now available in Vending Machine<br>Against Cancer Cells of Earth's Will,<br>AFFCT Checks -10000",
+        "ss3": "Rewards Box now available in Vending Machine<br>Against Cancer Cells of Earth's Will,<br>AFFCT Checks -15000",
+        "ss4": "Rewards Box now available in Vending Machine<br>Against Cancer Cells of Earth's Will,<br>AFFCT Checks -15000",
+        "ss7": "Rewards Box now available in Vending Machine<br>Against Cancer Cells of Earth's Will,<br>AFFCT Checks -15000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cancer_Cell_Manual.wiki",
+  "markdown_path": "markdown/Cancer_Cell_Manual.md"
+}

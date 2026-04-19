@@ -1,0 +1,33 @@
+{
+  "pageid": 10363,
+  "ns": 0,
+  "title": "Great Mogul Diamond+La Marseillaise",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Great_Mogul_Diamond%2BLa_Marseillaise",
+  "touched": "2025-08-11T10:48:16Z",
+  "length": 172,
+  "lastrevid": 38110,
+  "revision": {
+    "revid": 38110,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:48:16Z",
+    "sha1": "51ed39a4b95309039d147ad6de6a182141f15f65",
+    "size": 172
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "493",
+        "relics": "Great Mogul Diamond,La Marseillaise",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop Earth RES +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Great_Mogul_Diamond_La_Marseillaise.wiki",
+  "markdown_path": "markdown/Great_Mogul_Diamond_La_Marseillaise.md"
+}

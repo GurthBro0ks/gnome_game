@@ -1,0 +1,33 @@
+{
+  "pageid": 4969,
+  "ns": 0,
+  "title": "Leyden Jar+Hunting Heraldry+Carmen Lucia Ruby",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Leyden_Jar%2BHunting_Heraldry%2BCarmen_Lucia_Ruby",
+  "touched": "2025-06-20T00:01:09Z",
+  "length": 212,
+  "lastrevid": 35776,
+  "revision": {
+    "revid": 35776,
+    "parentid": 18610,
+    "timestamp": "2025-06-20T00:01:09Z",
+    "sha1": "24e173faf475146bde1c96fc46babcd67703a183",
+    "size": 212
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "429",
+        "relics": "Leyden Jar,Hunting Heraldry,Carmen Lucia Ruby",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 7 Zombie Gene LVLs, Snail ATK +14;Zombie Gene LVLs Researched: 210/210"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Leyden_Jar_Hunting_Heraldry_Carmen_Lucia_Ruby.wiki",
+  "markdown_path": "markdown/Leyden_Jar_Hunting_Heraldry_Carmen_Lucia_Ruby.md"
+}

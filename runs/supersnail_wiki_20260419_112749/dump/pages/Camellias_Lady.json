@@ -1,0 +1,50 @@
+{
+  "pageid": 4472,
+  "ns": 0,
+  "title": "Camellias Lady",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Camellias_Lady",
+  "touched": "2025-06-20T00:10:10Z",
+  "length": 1539,
+  "lastrevid": 35935,
+  "revision": {
+    "revid": 35935,
+    "parentid": 35149,
+    "timestamp": "2025-06-20T00:10:10Z",
+    "sha1": "b71b30c737823501f80cd6a02f4d0f6114d72419",
+    "size": 1539
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Camellias Lady",
+        "class_id": "22066",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "11-05",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Nov 5, 1848 AD, A. Dumas wrote Camellias Lady based on his own experience.<br>One of the most well-known novels by Alexandre Dumas. This book tells the tragic and heartbreaking love story of the young Armand and Marguerite the courtesan who met and fell in love but encountered various obstacles that separated them forever. This story comes from Alexandre Dumas' personal experience: when he was twenty years old, he fell in love at first sight with Marie, a famous prostitute. Forced to make end …",
+        "fame": "30",
+        "art": "32",
+        "fth": "27",
+        "civ": "45",
+        "tech": "20",
+        "ss1": "Per 200 Avatar Score, Snail RUSH +1<br>Avatar Score: 10000/10000",
+        "ss2": "Per 200 Avatar Score, Snail RUSH +2<br>Avatar Score: 10000/10000",
+        "ss3": "Per 200 Avatar Score, Snail RUSH +3<br>Avatar Score: 10000/10000",
+        "ss4": "Per 200 Avatar Score, Snail RUSH +5<br>Avatar Score: 10000/10000",
+        "ss7": "Per 200 Avatar Score, Snail RUSH +5<br>Avatar Score: 10000/10000<br>Snail RUSH +50 (Awakened)",
+        "skill1": "[[File:Fungusfarm skill I.png|50px]]Place in Fungus Farm: Fungus Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Camellias_Lady.wiki",
+  "markdown_path": "markdown/Camellias_Lady.md"
+}

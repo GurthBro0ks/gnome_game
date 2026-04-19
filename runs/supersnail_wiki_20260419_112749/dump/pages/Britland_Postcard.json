@@ -1,0 +1,47 @@
+{
+  "pageid": 317,
+  "ns": 0,
+  "title": "Britland Postcard",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Britland_Postcard",
+  "touched": "2025-08-11T11:16:05Z",
+  "length": 546,
+  "lastrevid": 39320,
+  "revision": {
+    "revid": 39320,
+    "parentid": 32183,
+    "timestamp": "2025-08-11T11:16:05Z",
+    "sha1": "3efedfde85e0910acf628e263b20fe2fd8808273",
+    "size": 546
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Britland Postcard",
+        "class_id": "20065",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "While scouting for info about the Demon God in Britland, the Traveler recorded a lot of local customs, which were brought together in this postcard. You can read it to kill time or post it for likes!",
+        "fame": "13",
+        "art": "30",
+        "fth": "11",
+        "civ": "22",
+        "tech": "14",
+        "ss1": "Britland Museum Medal Output +5",
+        "ss2": "Britland Museum Medal Output +10",
+        "ss3": "Britland Museum Medal Output +15",
+        "ss4": "Britland Museum Medal Output +15",
+        "ss7": "Britland Museum Medal Output +15<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Britland_Postcard.wiki",
+  "markdown_path": "markdown/Britland_Postcard.md"
+}

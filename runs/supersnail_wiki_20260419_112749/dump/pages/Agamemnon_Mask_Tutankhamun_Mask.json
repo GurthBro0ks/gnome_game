@@ -1,0 +1,34 @@
+{
+  "pageid": 3762,
+  "ns": 0,
+  "title": "Agamemnon Mask+Tutankhamun Mask",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Agamemnon_Mask%2BTutankhamun_Mask",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 184,
+  "lastrevid": 13660,
+  "revision": {
+    "revid": 13660,
+    "parentid": 0,
+    "timestamp": "2023-10-02T08:31:48Z",
+    "sha1": "700f5dd3028157203572951794ac97f3e4ad6b02",
+    "size": 184
+  },
+  "categories": [
+    "DNA"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Agamemnon Mask,Tutankhamun Mask",
+        "rank": "orange",
+        "amount": "2",
+        "category": "dna",
+        "description": "Mecha Gene Research Cells consumed -4.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Agamemnon_Mask_Tutankhamun_Mask.wiki",
+  "markdown_path": "markdown/Agamemnon_Mask_Tutankhamun_Mask.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 10441,
+  "ns": 0,
+  "title": "Shell Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Shell_Award",
+  "touched": "2025-08-11T10:50:44Z",
+  "length": 1035,
+  "lastrevid": 38222,
+  "revision": {
+    "revid": 38222,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:50:44Z",
+    "sha1": "183597522b4915ddd1f5f083c50e2d2e383b7a42",
+    "size": 1035
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Shell Award",
+        "class_id": "20098",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The San Sebastian International Film Festival is one of the oldest and most prestigious film festivals in Europe. The Shell Award, selected by the International Federation of Film Critics, represents the best film of the festival each year. It has an unshakable position in the Spanish-speaking and Latin American film industry!",
+        "fame": "13",
+        "art": "13",
+        "fth": "15",
+        "civ": "34",
+        "tech": "15",
+        "ss1": "Event Avatar rating cap raised to SSS+<br>Traveler Plus daily W-tads +10<br>Traveler Pro daily W-tads +10",
+        "ss2": "Event Avatar rating cap raised to SSS+<br>Traveler Plus daily W-tads +20<br>Traveler Pro daily W-tads +20",
+        "ss3": "Event Avatar rating cap raised to SSS+<br>Traveler Plus daily W-tads +30<br>Traveler Pro daily W-tads +30",
+        "ss4": "Event Avatar rating cap raised to SSS+<br>Traveler Plus daily W-tads +30<br>Traveler Pro daily W-tads +30",
+        "ss7": "Event Avatar rating cap raised to SSS+<br>Traveler Plus daily W-tads +30<br>Traveler Pro daily W-tads +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Shell_Award.wiki",
+  "markdown_path": "markdown/Shell_Award.md"
+}

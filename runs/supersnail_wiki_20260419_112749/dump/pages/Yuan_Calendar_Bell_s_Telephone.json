@@ -1,0 +1,34 @@
+{
+  "pageid": 3615,
+  "ns": 0,
+  "title": "Yuan Calendar+Bell's Telephone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Yuan_Calendar%2BBell%27s_Telephone",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 159,
+  "lastrevid": 13195,
+  "revision": {
+    "revid": 13195,
+    "parentid": 0,
+    "timestamp": "2023-09-22T15:19:48Z",
+    "sha1": "8218308454fc74a14866df698147d8fed8310ade",
+    "size": 159
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Yuan Calendar,Bell's Telephone",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail RUSH +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Yuan_Calendar_Bell_s_Telephone.wiki",
+  "markdown_path": "markdown/Yuan_Calendar_Bell_s_Telephone.md"
+}

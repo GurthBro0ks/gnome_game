@@ -1,0 +1,65 @@
+{
+  "pageid": 72,
+  "ns": 0,
+  "title": "Unispark",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Unispark",
+  "touched": "2024-11-16T01:42:16Z",
+  "length": 2363,
+  "lastrevid": 30171,
+  "revision": {
+    "revid": 30171,
+    "parentid": 26061,
+    "timestamp": "2024-10-15T15:48:36Z",
+    "sha1": "82906da8197d489256aecdd6cf427b35797e1cf1",
+    "size": 2363
+  },
+  "categories": [
+    "ATK Boost",
+    "CRIT % Boost",
+    "Crit DMG Boost",
+    "Exploration Compass Boost",
+    "Fire DMG Boost",
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Power Boost",
+    "Quarry Output Boost",
+    "RUSH Boost",
+    "Relic Boost",
+    "Relics",
+    "Rewards Crystal of Will",
+    "Rewards RF",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Unispark",
+        "rank": "SSS",
+        "affct": "TECH",
+        "birthday": "08-25",
+        "source": "* Koryeo Treasure Map (0.01%), Relic Forge (120 Relic RF), Wishing (0.07%)\n* 40 fragments from [[Fissure#Fissure Dungeons|Fissure]] floor 175 \"Seaul Base\"\n* Unispark Activation chance",
+        "description": "On Aug 25, 1913, 7 adventurers found the Unispark Cube.\n\nA strange cube was found on the Colorado River. It was a huge energy source from ancient times, which could provide energy for several organisms or power a machine forever, and could activate robots. Its shape would change according to the shape of the holder, but its energy capacity would remain the same. It was very easy to carry and install.",
+        "fame": "72",
+        "art": "56",
+        "fth": "47",
+        "civ": "78",
+        "tech": "109",
+        "ss1": "Snail ATK +30<br>Per 3 Orange Relics gained, Snail ATK +20<br>Per 3 Orange Relics gained, Snail RUSH +20<br>Orange Relics: 60/60",
+        "ss2": "Snail ATK +40<br>Per 3 Orange Relics gained, Snail ATK +25<br>Per 3 Orange Relics gained, Snail RUSH +25<br>Orange Relics: 60/60",
+        "ss3": "Snail ATK +50<br>Per 3 Orange Relics gained, Snail ATK +30<br>Per 3 Orange Relics gained, Snail RUSH +30<br>Orange Relics: 60/60",
+        "ss4": "Snail ATK +70<br>Per 3 Orange Relics gained, Snail ATK +35<br>Per 3 Orange Relics gained, Snail RUSH +35<br>Orange Relics: 60/60",
+        "ss5": "Snail ATK +90<br>Per 3 Orange Relics gained, Snail ATK +40<br>Per 3 Orange Relics gained, Snail RUSH +40<br>Orange Relics: 60/60",
+        "ss6": "Snail ATK +120<br>Per 3 Orange Relics gained, Snail ATK +50<br>Per 3 Orange Relics gained, Snail RUSH +50<br>Orange Relics: 60/60",
+        "ss7": "Snail ATK +120<br>Per 3 Orange Relics gained, Snail ATK +50<br>Per 3 Orange Relics gained, Snail RUSH +50<br>Orange Relics: 60/60<br>Snail ATK +250 (Awakened)",
+        "skill1": "[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, CRIT +15%",
+        "skill2": "[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, CRIT DMG +15%",
+        "skill3": "[[File:Compass skill III.png|50px]]Place in Exploration Compass: In explorations, Fire DMG +150",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Unispark.wiki",
+  "markdown_path": "markdown/Unispark.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 9295,
+  "ns": 0,
+  "title": "Otzi+Soldier Island Dolls",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Otzi%2BSoldier_Island_Dolls",
+  "touched": "2025-06-20T00:19:40Z",
+  "length": 132,
+  "lastrevid": 36185,
+  "revision": {
+    "revid": 36185,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:19:40Z",
+    "sha1": "dc16f834a66b5acd6d26a7d6cfe88d27527289c3",
+    "size": 132
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "679",
+        "relics": "Otzi,Soldier Island Dolls",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail RUSH +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Otzi_Soldier_Island_Dolls.wiki",
+  "markdown_path": "markdown/Otzi_Soldier_Island_Dolls.md"
+}

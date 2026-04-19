@@ -1,0 +1,33 @@
+{
+  "pageid": 4244,
+  "ns": 0,
+  "title": "CRISPR+Harem Wall Painting+Vedas",
+  "fullurl": "https://supersnail.wiki.gg/wiki/CRISPR%2BHarem_Wall_Painting%2BVedas",
+  "touched": "2025-06-19T23:56:52Z",
+  "length": 197,
+  "lastrevid": 35710,
+  "revision": {
+    "revid": 35710,
+    "parentid": 18594,
+    "timestamp": "2025-06-19T23:56:52Z",
+    "sha1": "4e833910ed5d161ffc8f1d1f67f77810bb5a6951",
+    "size": 197
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "529",
+        "relics": "CRISPR,Harem Wall Painting,Vedas",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 7 Angel Gene LVLs, Snail ATK +16;Angel Gene LVLs Researched: 210/210"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/CRISPR_Harem_Wall_Painting_Vedas.wiki",
+  "markdown_path": "markdown/CRISPR_Harem_Wall_Painting_Vedas.md"
+}

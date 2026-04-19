@@ -1,0 +1,47 @@
+{
+  "pageid": 1636,
+  "ns": 0,
+  "title": "Gold Toilet Paper",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gold_Toilet_Paper",
+  "touched": "2025-08-11T10:33:02Z",
+  "length": 393,
+  "lastrevid": 37453,
+  "revision": {
+    "revid": 37453,
+    "parentid": 32215,
+    "timestamp": "2025-08-11T10:33:02Z",
+    "sha1": "b964816142e878d29e44853ba9c7896b71c1ac8b",
+    "size": 393
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gold Toilet Paper",
+        "class_id": "20011",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This toilet paper was found in a home without any bathrooms, making its purpose extremely suspicious! Why didn't the previous Snail take it?",
+        "fame": "19",
+        "art": "27",
+        "fth": "16",
+        "civ": "15",
+        "tech": "13",
+        "ss1": "Snail HP +100",
+        "ss2": "Snail HP +200",
+        "ss3": "Snail HP +300",
+        "ss4": "Snail HP +300",
+        "ss7": "Snail HP +300<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gold_Toilet_Paper.wiki",
+  "markdown_path": "markdown/Gold_Toilet_Paper.md"
+}

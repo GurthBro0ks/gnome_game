@@ -1,0 +1,51 @@
+{
+  "pageid": 4793,
+  "ns": 0,
+  "title": "Nugget Awards",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nugget_Awards",
+  "touched": "2025-08-11T11:03:59Z",
+  "length": 1538,
+  "lastrevid": 38795,
+  "revision": {
+    "revid": 38795,
+    "parentid": 32471,
+    "timestamp": "2025-08-11T11:03:59Z",
+    "sha1": "a27dd9678f3df11c017c488c259281e8a6e633bb",
+    "size": 1538
+  },
+  "categories": [
+    "ART Relics",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Nugget Awards",
+        "class_id": "22144",
+        "rank": "AAA",
+        "affct": "ART",
+        "birthday": "01-17",
+        "description": "On Jan 17, 1963 AD, the first Silver Nugget Award was held.<br>Known as the Best Trophy of architecture, the Silver Nugget Award is the highest award for design and architecture. Each year, it is awarded only to those designers who have scaled new heights in residential, commercial, and industrial projects around the world. The selectiveness of the award confers high status upon winners and allows them the opportunity to join architectural elites.",
+        "fame": "36",
+        "art": "73",
+        "fth": "44",
+        "civ": "52",
+        "tech": "38",
+        "ss1": "Home Decor Inc, Series C Decor Coin Dividend +4%<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +12",
+        "ss2": "Home Decor Inc, Series C Decor Coin Dividend +5%<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +16",
+        "ss3": "Home Decor Inc, Series C Decor Coin Dividend +6%<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +20",
+        "ss4": "Home Decor Inc, Series C Decor Coin Dividend +8%<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +28",
+        "ss5": "Home Decor Inc, Series C Decor Coin Dividend +10%<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +36",
+        "ss7": "Home Decor Inc, Series C Decor Coin Dividend +10%<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +36<br>Per 30 Dragon Minions in battle:<br>> Troop RUSH +28 (Awakened)",
+        "skill1": "[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x Green Card Drops +7.5%",
+        "skill2": "[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x Blue Card Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nugget_Awards.wiki",
+  "markdown_path": "markdown/Nugget_Awards.md"
+}

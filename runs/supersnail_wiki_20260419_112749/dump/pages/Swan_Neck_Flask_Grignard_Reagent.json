@@ -1,0 +1,33 @@
+{
+  "pageid": 4586,
+  "ns": 0,
+  "title": "Swan Neck Flask+Grignard Reagent",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Swan_Neck_Flask%2BGrignard_Reagent",
+  "touched": "2025-06-19T23:54:50Z",
+  "length": 167,
+  "lastrevid": 35694,
+  "revision": {
+    "revid": 35694,
+    "parentid": 18376,
+    "timestamp": "2025-06-19T23:54:50Z",
+    "sha1": "1243253c505605c76cf2f52d8f06ec4f1dd9ea3d",
+    "size": 167
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "345",
+        "relics": "Swan Neck Flask,Grignard Reagent",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Mecha Minions in battle: Troop HP +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Swan_Neck_Flask_Grignard_Reagent.wiki",
+  "markdown_path": "markdown/Swan_Neck_Flask_Grignard_Reagent.md"
+}

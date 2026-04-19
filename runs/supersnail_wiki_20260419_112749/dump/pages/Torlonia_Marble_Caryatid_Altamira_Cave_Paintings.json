@@ -1,0 +1,35 @@
+{
+  "pageid": 7995,
+  "ns": 0,
+  "title": "Torlonia Marble Caryatid+Altamira Cave Paintings",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Torlonia_Marble_Caryatid%2BAltamira_Cave_Paintings",
+  "touched": "2025-03-23T18:37:19Z",
+  "length": 246,
+  "lastrevid": 33448,
+  "revision": {
+    "revid": 33448,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:55:37Z",
+    "sha1": "4d2615a9985554f3be42f464e0caaa77f25ce758",
+    "size": 246
+  },
+  "categories": [
+    "Bedrock Power Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Torlonia Marble Caryatid,Altamira Cave Paintings",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 T8+ Backup Minions, Snail Bedrock Power +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Torlonia_Marble_Caryatid_Altamira_Cave_Paintings.wiki",
+  "markdown_path": "markdown/Torlonia_Marble_Caryatid_Altamira_Cave_Paintings.md"
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 7988,
+  "ns": 0,
+  "title": "Neural Synchronization Interface+Jupiter and Thetis",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Neural_Synchronization_Interface%2BJupiter_and_Thetis",
+  "touched": "2025-03-23T18:31:57Z",
+  "length": 272,
+  "lastrevid": 33441,
+  "revision": {
+    "revid": 33441,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:43:33Z",
+    "sha1": "448e3ee82daa1f2318b7a452229939e8a644d41d",
+    "size": 272
+  },
+  "categories": [
+    "Murky Power Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Neural Synchronization Interface,Jupiter and Thetis",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 3 Dorm Decors gained, Snail Murky Power +7; Dorm Decors gained: 150/150"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Neural_Synchronization_Interface_Jupiter_and_Thetis.wiki",
+  "markdown_path": "markdown/Neural_Synchronization_Interface_Jupiter_and_Thetis.md"
+}

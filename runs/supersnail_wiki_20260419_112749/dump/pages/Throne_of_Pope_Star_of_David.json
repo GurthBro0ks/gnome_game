@@ -1,0 +1,33 @@
+{
+  "pageid": 3309,
+  "ns": 0,
+  "title": "Throne of Pope+Star of David",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Throne_of_Pope%2BStar_of_David",
+  "touched": "2025-08-11T11:17:13Z",
+  "length": 161,
+  "lastrevid": 39368,
+  "revision": {
+    "revid": 39368,
+    "parentid": 12046,
+    "timestamp": "2025-08-11T11:17:13Z",
+    "sha1": "5001fe62d48fb3af7eebe46ed83cb8542782a1ca",
+    "size": 161
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "24",
+        "relics": "Throne of Pope,Star of David",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "In explorations, 2x Green Reagent Drops +2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Throne_of_Pope_Star_of_David.wiki",
+  "markdown_path": "markdown/Throne_of_Pope_Star_of_David.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 11045,
+  "ns": 0,
+  "title": "Collection@20847 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20847_1",
+  "touched": "2025-08-11T11:10:19Z",
+  "length": 348,
+  "lastrevid": 39067,
+  "revision": {
+    "revid": 39067,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:10:19Z",
+    "sha1": "dbf353661f9176dc4035f22e97bf1de2860cf9f8",
+    "size": 348
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20847_1",
+        "class_id": "20847",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "collection@20847_2",
+        "fame": "14",
+        "art": "13",
+        "fth": "11",
+        "civ": "18",
+        "tech": "34",
+        "ss1": "prop@59016_2<br>prop@66640_2",
+        "ss2": "prop@59016_2<br>prop@66640_2",
+        "ss3": "prop@59016_2<br>prop@66640_2",
+        "ss4": "prop@59016_2<br>prop@66640_2",
+        "ss7": "prop@59016_2<br>prop@66640_2<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20847_1.wiki",
+  "markdown_path": "markdown/Collection_20847_1.md"
+}

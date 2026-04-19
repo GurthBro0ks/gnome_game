@@ -1,0 +1,33 @@
+{
+  "pageid": 4914,
+  "ns": 0,
+  "title": "Galton Board+DNA Microarray",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Galton_Board%2BDNA_Microarray",
+  "touched": "2025-06-20T00:00:24Z",
+  "length": 139,
+  "lastrevid": 35746,
+  "revision": {
+    "revid": 35746,
+    "parentid": 18375,
+    "timestamp": "2025-06-20T00:00:24Z",
+    "sha1": "b59d474bd8329dc9b8aa326cb200868d47309ddb",
+    "size": 139
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "420",
+        "relics": "Galton Board,DNA Microarray",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Mecha Minion HP +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Galton_Board_DNA_Microarray.wiki",
+  "markdown_path": "markdown/Galton_Board_DNA_Microarray.md"
+}

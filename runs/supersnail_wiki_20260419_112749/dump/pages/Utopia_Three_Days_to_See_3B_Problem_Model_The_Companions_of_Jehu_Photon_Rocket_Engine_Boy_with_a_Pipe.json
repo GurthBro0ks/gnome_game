@@ -1,0 +1,33 @@
+{
+  "pageid": 8492,
+  "ns": 0,
+  "title": "Utopia+Three Days to See+3B Problem Model+The Companions of Jehu+Photon Rocket Engine+Boy with a Pipe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Utopia%2BThree_Days_to_See%2B3B_Problem_Model%2BThe_Companions_of_Jehu%2BPhoton_Rocket_Engine%2BBoy_with_a_Pipe",
+  "touched": "2025-08-11T11:07:41Z",
+  "length": 274,
+  "lastrevid": 36039,
+  "revision": {
+    "revid": 36039,
+    "parentid": 34375,
+    "timestamp": "2025-06-20T00:14:49Z",
+    "sha1": "67ad74bf1a8da887d6d6c175ed644cbc1788bd28",
+    "size": 274
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "787",
+        "relics": "Utopia,Three Days to See,3B Problem Model,The Companions of Jehu,Photon Rocket Engine,Boy with a Pipe",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Per 30 Wormhole Refiners opened, Snail ATK +12;1500/1500 Wormhole Refiner opened"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Utopia_Three_Days_to_See_3B_Problem_Model_The_Companions_of_Jehu_Photon_Rocket_Engine_Boy_with_a_Pipe.wiki",
+  "markdown_path": "markdown/Utopia_Three_Days_to_See_3B_Problem_Model_The_Companions_of_Jehu_Photon_Rocket_Engine_Boy_with_a_Pipe.md"
+}

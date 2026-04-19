@@ -1,0 +1,35 @@
+{
+  "pageid": 8654,
+  "ns": 0,
+  "title": "Carothers Nylon+Bluebeard",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Carothers_Nylon%2BBluebeard",
+  "touched": "2025-06-20T00:19:38Z",
+  "length": 185,
+  "lastrevid": 36184,
+  "revision": {
+    "revid": 36184,
+    "parentid": 34614,
+    "timestamp": "2025-06-20T00:19:38Z",
+    "sha1": "7f3272248538a4efa92fb14a6ec8882ace860687",
+    "size": 185
+  },
+  "categories": [
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "631",
+        "relics": "Carothers Nylon,Bluebeard",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Epic Protodex Stars, Snail ATK +15;Epic Protodex Stars: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Carothers_Nylon_Bluebeard.wiki",
+  "markdown_path": "markdown/Carothers_Nylon_Bluebeard.md"
+}

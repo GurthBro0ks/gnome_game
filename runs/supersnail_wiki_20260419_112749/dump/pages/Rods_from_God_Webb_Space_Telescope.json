@@ -1,0 +1,35 @@
+{
+  "pageid": 8276,
+  "ns": 0,
+  "title": "Rods from God+Webb Space Telescope",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rods_from_God%2BWebb_Space_Telescope",
+  "touched": "2025-04-21T02:28:58Z",
+  "length": 241,
+  "lastrevid": 34057,
+  "revision": {
+    "revid": 34057,
+    "parentid": 0,
+    "timestamp": "2025-04-21T02:28:58Z",
+    "sha1": "0c4dc7756ec8bd8ee67ed84332fee4166b4cba35",
+    "size": 241
+  },
+  "categories": [
+    "HP Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Rods from God,Webb Space Telescope",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Tribal Chief defeated, Snail HP +70; Tribal Chiefs Defeated: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Rods_from_God_Webb_Space_Telescope.wiki",
+  "markdown_path": "markdown/Rods_from_God_Webb_Space_Telescope.md"
+}

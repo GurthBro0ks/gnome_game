@@ -1,0 +1,33 @@
+{
+  "pageid": 10941,
+  "ns": 0,
+  "title": "Santa María+Philosophie Zoologique+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Santa_Mar%C3%ADa%2BPhilosophie_Zoologique%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2025-08-11T11:08:59Z",
+  "length": 181,
+  "lastrevid": 38906,
+  "revision": {
+    "revid": 38906,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:06:28Z",
+    "sha1": "ba36bb565efe56d53c9ecc04c6e891fea3e0bae1",
+    "size": 181
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "844",
+        "relics": "Santa María,Philosophie Zoologique,Mysterious Relic,Mysterious Relic",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Snail Leadership +9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Santa_Mar_a_Philosophie_Zoologique_Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Santa_Mar_a_Philosophie_Zoologique_Mysterious_Relic_Mysterious_Relic.md"
+}

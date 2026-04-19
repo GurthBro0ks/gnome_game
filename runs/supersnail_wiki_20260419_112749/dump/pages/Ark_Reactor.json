@@ -1,0 +1,60 @@
+{
+  "pageid": 2011,
+  "ns": 0,
+  "title": "Ark Reactor",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ark_Reactor",
+  "touched": "2024-09-06T09:57:12Z",
+  "length": 1894,
+  "lastrevid": 26277,
+  "revision": {
+    "revid": 26277,
+    "parentid": 17742,
+    "timestamp": "2024-05-07T16:17:34Z",
+    "sha1": "01b5661f5bead833958d16c72d16c1cfdec3ee9c",
+    "size": 1894
+  },
+  "categories": [
+    "Altar Descent Relics",
+    "DEF Boost",
+    "Dragon Gene Speedup Boost",
+    "Power Boost",
+    "Purple Relics",
+    "Purple TECH Relics",
+    "RUSH Boost",
+    "Relic Boost",
+    "Relics",
+    "TECH Relics",
+    "Time Chest Output",
+    "Time Machine Output Boost",
+    "Time Machine Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ark Reactor",
+        "rank": "AA",
+        "affct": "TECH",
+        "birthday": "08-02",
+        "source": "* Expert Scrolls (0.95%), Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.36%)\n* [[Altar#Gods_of_the_Pantheon|God of Technology]] Descent",
+        "description": "On Aug 2, 1962, a virtual device used to sustain life was produced and used for the first time.\n\nThe Ark Reactor is a portable nuclear fusion reactor. By bombarding the nucleus of an atom with high-energy particles, it can reach a high temperature in an instant and release a huge amount of energy by making nuclear fusion in a vacuum. This small device uses clean energy to release ultra-high energy. It has brought great development to mankind.",
+        "fame": "34",
+        "art": "43",
+        "fth": "46",
+        "civ": "35",
+        "tech": "70",
+        "ss1": "Per 3 TECH Relics gained, Snail DEF +8<br>Per 3 TECH Relics gained, Snail RUSH +8<br>TECH Relics: 60/60",
+        "ss2": "Per 3 TECH Relics gained, Snail DEF +12<br>Per 3 TECH Relics gained, Snail RUSH +12<br>TECH Relics: 60/60",
+        "ss3": "Per 3 TECH Relics gained, Snail DEF +16<br>Per 3 TECH Relics gained, Snail RUSH +16<br>TECH Relics: 60/60",
+        "ss4": "Per 3 TECH Relics gained, Snail DEF +24<br>Per 3 TECH Relics gained, Snail RUSH +24<br>TECH Relics: 60/60",
+        "ss5": "Per 3 TECH Relics gained, Snail DEF +32<br>Per 3 TECH Relics gained, Snail RUSH +32<br>TECH Relics: 60/60",
+        "ss7": "Per 3 TECH Relics gained, Snail DEF +32<br>Per 3 TECH Relics gained, Snail RUSH +32<br>TECH Relics: 60/60<br>Snail RUSH +70 (Awakened)",
+        "skill1": "[[File:Timemachine skill II.png|50px]] Place in Time Machine: Generate Time Chests by +15%",
+        "skill2": "[[File:Timemachine skill II.png|50px]] Place in Time Machine: Travel Speedup Output +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ark_Reactor.wiki",
+  "markdown_path": "markdown/Ark_Reactor.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 3652,
+  "ns": 0,
+  "title": "Holy Nail+Corinthian Pillar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Holy_Nail%2BCorinthian_Pillar",
+  "touched": "2025-08-11T10:35:28Z",
+  "length": 156,
+  "lastrevid": 37566,
+  "revision": {
+    "revid": 37566,
+    "parentid": 13251,
+    "timestamp": "2025-08-11T10:35:28Z",
+    "sha1": "9f20403d3e6ef377db98ffd39e5c2052b310c9b4",
+    "size": 156
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "99",
+        "relics": "Holy Nail,Corinthian Pillar",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "In explorations, 2x B-tad Drops +2.4%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Holy_Nail_Corinthian_Pillar.wiki",
+  "markdown_path": "markdown/Holy_Nail_Corinthian_Pillar.md"
+}

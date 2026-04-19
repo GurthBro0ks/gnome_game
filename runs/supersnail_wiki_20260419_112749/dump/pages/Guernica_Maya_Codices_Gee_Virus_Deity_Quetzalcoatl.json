@@ -1,0 +1,34 @@
+{
+  "pageid": 3672,
+  "ns": 0,
+  "title": "Guernica+Maya Codices+Gee Virus+Deity Quetzalcoatl",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Guernica%2BMaya_Codices%2BGee_Virus%2BDeity_Quetzalcoatl",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 200,
+  "lastrevid": 13276,
+  "revision": {
+    "revid": 13276,
+    "parentid": 0,
+    "timestamp": "2023-09-24T17:05:40Z",
+    "sha1": "4fd9a7afc7fa919680a4b025bfb4d2347a462ecc",
+    "size": 200
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Guernica,Maya Codices,Gee Virus,Deity Quetzalcoatl",
+        "rank": "purple",
+        "amount": "4",
+        "category": "other",
+        "description": "In any Realm, B-tads gained +3.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Guernica_Maya_Codices_Gee_Virus_Deity_Quetzalcoatl.wiki",
+  "markdown_path": "markdown/Guernica_Maya_Codices_Gee_Virus_Deity_Quetzalcoatl.md"
+}

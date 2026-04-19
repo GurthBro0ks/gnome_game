@@ -1,0 +1,33 @@
+{
+  "pageid": 9318,
+  "ns": 0,
+  "title": "Illustrations of Marine Life+The Canterbury Tales+Nazca Lines+Guiguzi Descends the Mountain+Adoration of Shepherds+Legend of the White Snake",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Illustrations_of_Marine_Life%2BThe_Canterbury_Tales%2BNazca_Lines%2BGuiguzi_Descends_the_Mountain%2BAdoration_of_Shepherds%2BLegend_of_the_White_Snake",
+  "touched": "2025-08-11T11:07:11Z",
+  "length": 253,
+  "lastrevid": 36253,
+  "revision": {
+    "revid": 36253,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:22:50Z",
+    "sha1": "18f16aee54ee81770c086353f3d65b88a432c2bd",
+    "size": 253
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "889",
+        "relics": "Illustrations of Marine Life,The Canterbury Tales,Nazca Lines,Guiguzi Descends the Mountain,Adoration of Shepherds,Legend of the White Snake",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Snail Leadership +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Illustrations_of_Marine_Life_The_Canterbury_Tales_Nazca_Lines_Guiguzi_Descends_the_Mountain_Adoration_of_Shepherds_Legend_of_the_White_Snake.wiki",
+  "markdown_path": "markdown/Illustrations_of_Marine_Life_The_Canterbury_Tales_Nazca_Lines_Guiguzi_Descends_the_Mountain_Adoration_of_Shepherds_Legend_of_the_White_Snake.md"
+}

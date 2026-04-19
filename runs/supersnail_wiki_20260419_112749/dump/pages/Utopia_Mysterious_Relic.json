@@ -1,0 +1,35 @@
+{
+  "pageid": 8286,
+  "ns": 0,
+  "title": "Utopia+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Utopia%2BMysterious_Relic",
+  "touched": "2025-04-21T02:46:33Z",
+  "length": 233,
+  "lastrevid": 34068,
+  "revision": {
+    "revid": 34068,
+    "parentid": 0,
+    "timestamp": "2025-04-21T02:46:33Z",
+    "sha1": "65986bf76dc9829368c55fa5bddbbe0274b5a6d0",
+    "size": 233
+  },
+  "categories": [
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Utopia,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Tribal Chief defeated, Snail RUSH +7; Tribal Chiefs Defeated: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Utopia_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Utopia_Mysterious_Relic.md"
+}

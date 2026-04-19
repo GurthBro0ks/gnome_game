@@ -1,0 +1,33 @@
+{
+  "pageid": 4587,
+  "ns": 0,
+  "title": "Pavlov's Bell+Lavoisier's Bell Jar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pavlov%27s_Bell%2BLavoisier%27s_Bell_Jar",
+  "touched": "2025-06-19T23:54:09Z",
+  "length": 169,
+  "lastrevid": 35665,
+  "revision": {
+    "revid": 35665,
+    "parentid": 18352,
+    "timestamp": "2025-06-19T23:54:09Z",
+    "sha1": "41b291f60274e706d72b71d1629cbed5724251b6",
+    "size": 169
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "343",
+        "relics": "Pavlov's Bell,Lavoisier's Bell Jar",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Demon Minions in battle: Troop HP +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pavlov_s_Bell_Lavoisier_s_Bell_Jar.wiki",
+  "markdown_path": "markdown/Pavlov_s_Bell_Lavoisier_s_Bell_Jar.md"
+}

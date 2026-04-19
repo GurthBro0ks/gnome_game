@@ -1,0 +1,47 @@
+{
+  "pageid": 10488,
+  "ns": 0,
+  "title": "West Lake Card",
+  "fullurl": "https://supersnail.wiki.gg/wiki/West_Lake_Card",
+  "touched": "2025-08-11T10:52:17Z",
+  "length": 1203,
+  "lastrevid": 38289,
+  "revision": {
+    "revid": 38289,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:52:17Z",
+    "sha1": "bfe3cf874440fb21667521362b4fd977532463d2",
+    "size": 1203
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "West Lake Card",
+        "class_id": "20956",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The picturesque scenery of West Lake, complemented by ancient bridges and pavilions, features distant mountains like dark eyebrows and ripples on the nearby water. Leisure boats sway gently between them, with the white causeway and green willows swaying, the Su Causeway bursting with spring flowers, and the solitary Leifeng Pagoda standing tall. Under the setting sun, it appears even more serene and majestic. The historical and cultural heritage coexists harmoniously with modern life, encapsulat …",
+        "fame": "29",
+        "art": "16",
+        "fth": "13",
+        "civ": "18",
+        "tech": "14",
+        "ss1": "Per Realm conquered, Snail HP +40<br>Per Realm conquered, Snail ATK +4<br>Realms Conquered: 8/8",
+        "ss2": "Per Realm conquered, Snail HP +80<br>Per Realm conquered, Snail ATK +8<br>Realms Conquered: 8/8",
+        "ss3": "Per Realm conquered, Snail HP +120<br>Per Realm conquered, Snail ATK +12<br>Realms Conquered: 8/8",
+        "ss4": "Per Realm conquered, Snail HP +120<br>Per Realm conquered, Snail ATK +12<br>Realms Conquered: 8/8",
+        "ss7": "Per Realm conquered, Snail HP +120<br>Per Realm conquered, Snail ATK +12<br>Realms Conquered: 8/8<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/West_Lake_Card.wiki",
+  "markdown_path": "markdown/West_Lake_Card.md"
+}

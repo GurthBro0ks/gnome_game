@@ -1,0 +1,33 @@
+{
+  "pageid": 4909,
+  "ns": 0,
+  "title": "Jane Eyre+Taketori Tale",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jane_Eyre%2BTaketori_Tale",
+  "touched": "2025-06-20T00:03:04Z",
+  "length": 137,
+  "lastrevid": 35806,
+  "revision": {
+    "revid": 35806,
+    "parentid": 18395,
+    "timestamp": "2025-06-20T00:03:04Z",
+    "sha1": "bae6838aa0739ae82ecd22e7eb533f508ecea6ec",
+    "size": 137
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "408",
+        "relics": "Jane Eyre,Taketori Tale",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Zombie Minion DEF +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jane_Eyre_Taketori_Tale.wiki",
+  "markdown_path": "markdown/Jane_Eyre_Taketori_Tale.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 9800,
+  "ns": 0,
+  "title": "Don Juan+Space Elevator",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Don_Juan%2BSpace_Elevator",
+  "touched": "2025-07-02T09:43:40Z",
+  "length": 176,
+  "lastrevid": 37092,
+  "revision": {
+    "revid": 37092,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:43:40Z",
+    "sha1": "bd731a65448937bb3c81641aa025041daba5b6d1",
+    "size": 176
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "809",
+        "relics": "Don Juan,Space Elevator",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per devotee appointed, Snail ATK +7;Devotee Appointed: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Don_Juan_Space_Elevator.wiki",
+  "markdown_path": "markdown/Don_Juan_Space_Elevator.md"
+}

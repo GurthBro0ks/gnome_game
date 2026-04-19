@@ -1,0 +1,47 @@
+{
+  "pageid": 10496,
+  "ns": 0,
+  "title": "The Nine Songs",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Nine_Songs",
+  "touched": "2025-08-11T10:52:29Z",
+  "length": 1002,
+  "lastrevid": 38298,
+  "revision": {
+    "revid": 38298,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:52:29Z",
+    "sha1": "589cb813390f8fc659af3bf01d8bfc3fd1823e33",
+    "size": 1002
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Nine Songs",
+        "class_id": "20103",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "\"The Nine Songs\" is a piece of poetry in the \"Songs of Chu\" that was created by reworking folk songs into ritual music for the gods. Most of the sections describe the affection between the gods, expressing a deep sense of longing or sadness for unfulfilled desires. At the time of writing, Qu Yuan, the author, was in exile and filled with sorrowful thoughts. Through the creation of the ritual music, he sought to express and convey his emotions.",
+        "fame": "15",
+        "art": "16",
+        "fth": "17",
+        "civ": "31",
+        "tech": "11",
+        "ss1": "Per 3 kinds of souls offered, Snail ATK +1<br>Souls offered: 300/300 types",
+        "ss2": "Per 3 kinds of souls offered, Snail ATK +2<br>Souls offered: 300/300 types",
+        "ss3": "Per 3 kinds of souls offered, Snail ATK +3<br>Souls offered: 300/300 types",
+        "ss4": "Per 3 kinds of souls offered, Snail ATK +3<br>Souls offered: 300/300 types",
+        "ss7": "Per 3 kinds of souls offered, Snail ATK +3<br>Souls offered: 300/300 types<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Nine_Songs.wiki",
+  "markdown_path": "markdown/The_Nine_Songs.md"
+}

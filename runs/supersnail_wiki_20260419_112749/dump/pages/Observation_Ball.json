@@ -1,0 +1,47 @@
+{
+  "pageid": 6907,
+  "ns": 0,
+  "title": "Observation Ball",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Observation_Ball",
+  "touched": "2025-08-11T10:33:21Z",
+  "length": 936,
+  "lastrevid": 37467,
+  "revision": {
+    "revid": 37467,
+    "parentid": 29571,
+    "timestamp": "2025-08-11T10:33:21Z",
+    "sha1": "6941a0cb066d4414f410d0ce925a9ca26dad127c",
+    "size": 936
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Observation Ball",
+        "class_id": "20275",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "It is the token of angelic theocracy, also the symbol of status of high-ranking angels. It is said it could grant angels power that rivals the Gods, making them almost invincible and immortal in the God Realm. It should be noted that the energy that it releases may affect the user's emotions.",
+        "fame": "16",
+        "art": "15",
+        "fth": "29",
+        "civ": "16",
+        "tech": "14",
+        "ss1": "Healing +1%<br>Per 10 Angel Gene LVLs, Snail ATK +5<br>Angel Gene LVLs Researched: 300/300",
+        "ss2": "Healing +2%<br>Per 10 Angel Gene LVLs, Snail ATK +10<br>Angel Gene LVLs Researched: 300/300",
+        "ss3": "Healing +3%<br>Per 10 Angel Gene LVLs, Snail ATK +15<br>Angel Gene LVLs Researched: 300/300",
+        "ss4": "Healing +3%<br>Per 10 Angel Gene LVLs, Snail ATK +15<br>Angel Gene LVLs Researched: 300/300",
+        "ss7": "Healing +3%<br>Per 10 Angel Gene LVLs, Snail ATK +15<br>Angel Gene LVLs Researched: 300/300<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Observation_Ball.wiki",
+  "markdown_path": "markdown/Observation_Ball.md"
+}

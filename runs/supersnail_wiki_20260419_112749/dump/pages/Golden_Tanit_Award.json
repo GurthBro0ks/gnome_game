@@ -1,0 +1,47 @@
+{
+  "pageid": 10649,
+  "ns": 0,
+  "title": "Golden Tanit Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Tanit_Award",
+  "touched": "2025-08-11T10:57:28Z",
+  "length": 1090,
+  "lastrevid": 38511,
+  "revision": {
+    "revid": 38511,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:57:28Z",
+    "sha1": "f62bb28e88dbf9fd325d062ca8cc0b029fa16273",
+    "size": 1090
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Golden Tanit Award",
+        "class_id": "20553",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "To promote the development of the national film industry, the Carthage Film Festival is dedicated to expanding communication between African filmmakers and those from Asia, Latin America, and other countries. It also attracts foreign tourists to boost local tourism. The Golden Tanit Award is one of the main prizes and is only awarded to the most outstanding films and filmmakers.",
+        "fame": "15",
+        "art": "14",
+        "fth": "13",
+        "civ": "32",
+        "tech": "16",
+        "ss1": "Event Avatar rating cap raised to 6S+<br>Traveler Plus daily W-tads +10<br>Traveler Pro daily W-tads +10",
+        "ss2": "Event Avatar rating cap raised to 6S+<br>Traveler Plus daily W-tads +20<br>Traveler Pro daily W-tads +20",
+        "ss3": "Event Avatar rating cap raised to 6S+<br>Traveler Plus daily W-tads +30<br>Traveler Pro daily W-tads +30",
+        "ss4": "Event Avatar rating cap raised to 6S+<br>Traveler Plus daily W-tads +30<br>Traveler Pro daily W-tads +30",
+        "ss7": "Event Avatar rating cap raised to 6S+<br>Traveler Plus daily W-tads +30<br>Traveler Pro daily W-tads +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Tanit_Award.wiki",
+  "markdown_path": "markdown/Golden_Tanit_Award.md"
+}

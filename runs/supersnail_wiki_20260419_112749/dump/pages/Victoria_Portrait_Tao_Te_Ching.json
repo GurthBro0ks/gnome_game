@@ -1,0 +1,33 @@
+{
+  "pageid": 8905,
+  "ns": 0,
+  "title": "Victoria Portrait+Tao Te Ching",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Victoria_Portrait%2BTao_Te_Ching",
+  "touched": "2025-06-20T00:00:52Z",
+  "length": 190,
+  "lastrevid": 35765,
+  "revision": {
+    "revid": 35765,
+    "parentid": 34955,
+    "timestamp": "2025-06-20T00:00:52Z",
+    "sha1": "13809d6ea26b184fa9c2c84887c072e6e9566c81",
+    "size": 190
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "510",
+        "relics": "Victoria Portrait,Tao Te Ching",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Constellation LVLs, Snail HP +70;Constellation LVLs: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Victoria_Portrait_Tao_Te_Ching.wiki",
+  "markdown_path": "markdown/Victoria_Portrait_Tao_Te_Ching.md"
+}

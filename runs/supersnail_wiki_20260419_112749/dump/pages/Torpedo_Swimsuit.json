@@ -1,0 +1,53 @@
+{
+  "pageid": 725,
+  "ns": 0,
+  "title": "Torpedo Swimsuit",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Torpedo_Swimsuit",
+  "touched": "2024-09-06T09:58:25Z",
+  "length": 1390,
+  "lastrevid": 17226,
+  "revision": {
+    "revid": 17226,
+    "parentid": 13060,
+    "timestamp": "2023-11-10T01:54:40Z",
+    "sha1": "c8a88cc6693b7bce87a3616b86350fad6801e25d",
+    "size": 1390
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Exploration Compass Boost",
+    "RUSH Boost",
+    "Relics",
+    "TECH Relics",
+    "Travel Speed Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Torpedo Swimsuit",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "05-29",
+        "source": "Lottery Machine (0.03%), Wishing (1.1%), Evolution Chest (2%)",
+        "description": "On May 29, 2000, Australian swimmer Ian James Thorpe put on this new swimsuit and got good results.\n\nHe won 3 gold medals the year he wore this swimsuit for the first time and shocked the world. This swimsuit imitated shark skin and human tendons at the seams to provide athletes with the power to swim backwards. The material was similar to human skin which greatly reduced water resistance. Due to technical interference, this swimsuit was banned from competitions.\n\n[Swimsuit Evolution]\n\nGen 1: In …",
+        "fame": "31",
+        "art": "32",
+        "fth": "26",
+        "civ": "20",
+        "tech": "45",
+        "ss1": "In Mutant Form, Travel SPD +0.2%",
+        "ss2": "In Mutant Form, Travel SPD +0.4%",
+        "ss3": "In Mutant Form, Travel SPD +6%",
+        "ss4": "In Mutant Form, Travel SPD +1%",
+        "ss7": "In Mutant Form, Travel SPD +1%<br>In Mutant Form, Travel SPD +1% (Awakened)",
+        "skill1": "[[File:Compass skill I.png|50px]] Place in Exploration Compass: This Relic's TECH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Torpedo_Swimsuit.wiki",
+  "markdown_path": "markdown/Torpedo_Swimsuit.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 636,
+  "ns": 0,
+  "title": "Miracle Conch",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Miracle_Conch",
+  "touched": "2025-08-11T10:58:12Z",
+  "length": 535,
+  "lastrevid": 38543,
+  "revision": {
+    "revid": 38543,
+    "parentid": 11584,
+    "timestamp": "2025-08-11T10:58:12Z",
+    "sha1": "bab1c5a6d560363f5d0c12d4700b720d69cc7fcf",
+    "size": 535
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Miracle Conch",
+        "class_id": "20232",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This strange conch went through a simple Turing test, and the testers decided that the intelligence level of this conch was lower than a starfish.",
+        "fame": "20",
+        "art": "12",
+        "fth": "30",
+        "civ": "17",
+        "tech": "11",
+        "ss1": "Sailors lost entering the next stage -4%",
+        "ss2": "Sailors lost entering the next stage -7%",
+        "ss3": "Sailors lost entering the next stage -10%",
+        "ss4": "Sailors lost entering the next stage -10%",
+        "ss7": "Sailors lost entering the next stage -10%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Miracle_Conch.wiki",
+  "markdown_path": "markdown/Miracle_Conch.md"
+}

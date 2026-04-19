@@ -1,0 +1,33 @@
+{
+  "pageid": 8939,
+  "ns": 0,
+  "title": "Echo and Narcissus+Celestial Throne",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Echo_and_Narcissus%2BCelestial_Throne",
+  "touched": "2025-06-20T00:07:49Z",
+  "length": 210,
+  "lastrevid": 35907,
+  "revision": {
+    "revid": 35907,
+    "parentid": 35109,
+    "timestamp": "2025-06-20T00:07:49Z",
+    "sha1": "babb19e83d45751050853caad3ed22e19fc66d1f",
+    "size": 210
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "506",
+        "relics": "Echo and Narcissus,Celestial Throne",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Divine Chaos Chests opened: Snail HP +70;Divine Chaos Chests Opened: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Echo_and_Narcissus_Celestial_Throne.wiki",
+  "markdown_path": "markdown/Echo_and_Narcissus_Celestial_Throne.md"
+}

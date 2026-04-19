@@ -1,0 +1,50 @@
+{
+  "pageid": 3417,
+  "ns": 0,
+  "title": "Kemet INTEL",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kemet_INTEL",
+  "touched": "2025-10-20T05:27:12Z",
+  "length": 13107,
+  "lastrevid": 41540,
+  "revision": {
+    "revid": 41540,
+    "parentid": 16099,
+    "timestamp": "2025-10-20T05:27:12Z",
+    "sha1": "876dcdc381538f78ef1fb6cbb2d187209c71bd31",
+    "size": 13107
+  },
+  "categories": [
+    "Kemet",
+    "Locations",
+    "Realm"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Exploration",
+        "3": "Arabic Dagger"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Exploration",
+        "3": "Pharaoh's Scepter"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Exploration",
+        "3": "Golden Bronze Dagger"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kemet_INTEL.wiki",
+  "markdown_path": "markdown/Kemet_INTEL.md"
+}

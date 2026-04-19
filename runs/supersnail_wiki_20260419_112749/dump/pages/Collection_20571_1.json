@@ -1,0 +1,47 @@
+{
+  "pageid": 10028,
+  "ns": 0,
+  "title": "Collection@20571 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20571_1",
+  "touched": "2025-08-11T10:35:32Z",
+  "length": 657,
+  "lastrevid": 37570,
+  "revision": {
+    "revid": 37570,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:35:32Z",
+    "sha1": "745595a9466d883be4af201f571aa00711918d14",
+    "size": 657
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20571_1",
+        "class_id": "20571",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "collection@20571_2",
+        "fame": "14",
+        "art": "12",
+        "fth": "17",
+        "civ": "31",
+        "tech": "16",
+        "ss1": "Snail All ELMT DMG +2<br>Per Hitman intercepted, Snail ATK +1<br>Hitmen Intercepted: 40/40",
+        "ss2": "Snail All ELMT DMG +4<br>Per Hitman intercepted, Snail ATK +2<br>Hitmen Intercepted: 40/40",
+        "ss3": "Snail All ELMT DMG +6<br>Per Hitman intercepted, Snail ATK +3<br>Hitmen Intercepted: 40/40",
+        "ss4": "Snail All ELMT DMG +6<br>Per Hitman intercepted, Snail ATK +3<br>Hitmen Intercepted: 40/40",
+        "ss7": "Snail All ELMT DMG +6<br>Per Hitman intercepted, Snail ATK +3<br>Hitmen Intercepted: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20571_1.wiki",
+  "markdown_path": "markdown/Collection_20571_1.md"
+}

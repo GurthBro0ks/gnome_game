@@ -1,0 +1,35 @@
+{
+  "pageid": 7997,
+  "ns": 0,
+  "title": "Painted Pottery King+National Geographic Inaugural Issue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Painted_Pottery_King%2BNational_Geographic_Inaugural_Issue",
+  "touched": "2025-03-23T18:34:21Z",
+  "length": 289,
+  "lastrevid": 33450,
+  "revision": {
+    "revid": 33450,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:59:18Z",
+    "sha1": "8cd2b77909c25f1e9e0247dd789c280d70034667",
+    "size": 289
+  },
+  "categories": [
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Painted Pottery King,National Geographic Inaugural Issue",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Incubator File perfectly restored, Snail RUSH +7; Incubator File perfectly restored: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Painted_Pottery_King_National_Geographic_Inaugural_Issue.wiki",
+  "markdown_path": "markdown/Painted_Pottery_King_National_Geographic_Inaugural_Issue.md"
+}

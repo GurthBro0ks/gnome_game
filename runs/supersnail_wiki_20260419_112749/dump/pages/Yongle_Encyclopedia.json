@@ -1,0 +1,55 @@
+{
+  "pageid": 7709,
+  "ns": 0,
+  "title": "Yongle Encyclopedia",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Yongle_Encyclopedia",
+  "touched": "2025-08-11T10:46:41Z",
+  "length": 2785,
+  "lastrevid": 37993,
+  "revision": {
+    "revid": 37993,
+    "parentid": 32382,
+    "timestamp": "2025-08-11T10:45:30Z",
+    "sha1": "af8e8c310e793141f385b5e821d07cf450c24bd9",
+    "size": 2785
+  },
+  "categories": [
+    "FAME Relics",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Yongle Encyclopedia",
+        "class_id": "22622",
+        "rank": "SSS",
+        "affct": "FAME",
+        "birthday": "07-21",
+        "description": "On Jul 21, 1407 AD, after five years of compilation, the Yongle Encyclopedia was finally completed.<br>The Yongle Encyclopedia is a monumental work compiled by Emperor Yongle of the Ming Dynasty, edited by scholars Xie Jin and Yao Guangxiao. Its content covers a wide range of subjects, including astronomy, geography, medicine, agriculture, and more. It collected the knowledge and wisdom inherited from thousands of years of Chinese civilization, with content from seven to eight thousand books. Un …",
+        "fame": "108",
+        "art": "61",
+        "fth": "47",
+        "civ": "73",
+        "tech": "73",
+        "ss1": "All Minion Skins, HARD Stats +3%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 10 advanced fusions, Snail ATK +3<br>Advanced Fusions: 500/500",
+        "ss2": "All Minion Skins, HARD Stats +6%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 10 advanced fusions, Snail ATK +4<br>Advanced Fusions: 500/500",
+        "ss3": "All Minion Skins, HARD Stats +9%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 10 advanced fusions, Snail ATK +5<br>Advanced Fusions: 500/500",
+        "ss4": "All Minion Skins, HARD Stats +15%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 10 advanced fusions, Snail ATK +7<br>Advanced Fusions: 500/500",
+        "ss5": "All Minion Skins, HARD Stats +21%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 10 advanced fusions, Snail ATK +9<br>Advanced Fusions: 500/500",
+        "ss6": "All Minion Skins, HARD Stats +30%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 10 advanced fusions, Snail ATK +12<br>Advanced Fusions: 500/500",
+        "ss7": "All Minion Skins, HARD Stats +30%<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 10 advanced fusions, Snail ATK +12<br>Advanced Fusions: 500/500<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)",
+        "skill1": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail ATK +600",
+        "skill2": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail DEF +600",
+        "skill3": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's FAME +15",
+        "mirage": "{{Mirage|name=The Great Chronicles|reward={{RewardIconWithLink|Recruit Token, +10|orange}}\n|3name=Official Zheng|3rec=143.22M|3atk=392958|3defense=245399|3hp=23781713|3weak=38468\n|4name=Scholar Xie|4rec=195.69M|4atk=519068|4defense=319216|4hp=38122708|4weak=43003\n|5name=Monk Yao|5rec=280.20M|5atk=691221|5defense=414648|5hp=71333173|5weak=51092\n|6name=Emperor Yongle|6rec=370.11M|6atk=837872|6defense=495537|6hp=98209513|6weak=54083\n|Arec=484.01M|Aatk=1032802|Adefense=598008|Ahp=163011218|Aweak=594 …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Yongle_Encyclopedia.wiki",
+  "markdown_path": "markdown/Yongle_Encyclopedia.md"
+}

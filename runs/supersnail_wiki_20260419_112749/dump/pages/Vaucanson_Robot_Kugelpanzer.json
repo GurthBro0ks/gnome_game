@@ -1,0 +1,35 @@
+{
+  "pageid": 8532,
+  "ns": 0,
+  "title": "Vaucanson Robot+Kugelpanzer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Vaucanson_Robot%2BKugelpanzer",
+  "touched": "2025-06-20T00:15:26Z",
+  "length": 157,
+  "lastrevid": 36061,
+  "revision": {
+    "revid": 36061,
+    "parentid": 34418,
+    "timestamp": "2025-06-20T00:15:26Z",
+    "sha1": "2bd0ebe3081953543e16892584c1715b59022029",
+    "size": 157
+  },
+  "categories": [
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "617",
+        "relics": "Vaucanson Robot,Kugelpanzer",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Gaia Rocket Cabin, deployable robots +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Vaucanson_Robot_Kugelpanzer.wiki",
+  "markdown_path": "markdown/Vaucanson_Robot_Kugelpanzer.md"
+}

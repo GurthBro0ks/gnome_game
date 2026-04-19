@@ -1,0 +1,23 @@
+{
+  "pageid": 2080,
+  "ns": 0,
+  "title": "Arena",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Arena",
+  "touched": "2025-10-04T09:47:10Z",
+  "length": 1790,
+  "lastrevid": 32069,
+  "revision": {
+    "revid": 32069,
+    "parentid": 27313,
+    "timestamp": "2024-12-04T01:53:50Z",
+    "sha1": "78e32cf7f7835b064fbc3ff85912c8d41b01dc0e",
+    "size": 1790
+  },
+  "categories": [
+    "Home Base"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Arena.wiki",
+  "markdown_path": "markdown/Arena.md"
+}

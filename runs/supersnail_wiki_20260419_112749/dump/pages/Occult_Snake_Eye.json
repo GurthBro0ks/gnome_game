@@ -1,0 +1,47 @@
+{
+  "pageid": 10543,
+  "ns": 0,
+  "title": "Occult Snake Eye",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Occult_Snake_Eye",
+  "touched": "2025-08-11T10:54:24Z",
+  "length": 694,
+  "lastrevid": 38378,
+  "revision": {
+    "revid": 38378,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:54:24Z",
+    "sha1": "181f324075e7121198b3dbb27286840f70e3994c",
+    "size": 694
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Occult Snake Eye",
+        "class_id": "20291",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "The eye of the Occult Snake God can banish living beings directly into the endless void, erasing all traces of their existence. To this day, no one has ever seen a life return from the void.",
+        "fame": "17",
+        "art": "13",
+        "fth": "31",
+        "civ": "15",
+        "tech": "14",
+        "ss1": "Per 30 Fissure Floors, Snail ATK +2<br>Fissure Floor: 1200/1200",
+        "ss2": "Per 30 Fissure Floors, Snail ATK +3<br>Fissure Floor: 1200/1200",
+        "ss3": "Per 30 Fissure Floors, Snail ATK +4<br>Fissure Floor: 1200/1200",
+        "ss4": "Per 30 Fissure Floors, Snail ATK +4<br>Fissure Floor: 1200/1200",
+        "ss7": "Per 30 Fissure Floors, Snail ATK +4<br>Fissure Floor: 1200/1200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Occult_Snake_Eye.wiki",
+  "markdown_path": "markdown/Occult_Snake_Eye.md"
+}

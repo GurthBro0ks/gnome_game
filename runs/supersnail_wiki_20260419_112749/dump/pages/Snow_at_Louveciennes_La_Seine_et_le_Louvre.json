@@ -1,0 +1,33 @@
+{
+  "pageid": 8499,
+  "ns": 0,
+  "title": "Snow at Louveciennes+La Seine et le Louvre",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Snow_at_Louveciennes%2BLa_Seine_et_le_Louvre",
+  "touched": "2025-06-20T00:13:37Z",
+  "length": 186,
+  "lastrevid": 35990,
+  "revision": {
+    "revid": 35990,
+    "parentid": 34383,
+    "timestamp": "2025-06-20T00:13:37Z",
+    "sha1": "29213162d9013a9ac05426d9be6d16002d5a01fd",
+    "size": 186
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "582",
+        "relics": "Snow at Louveciennes,La Seine et le Louvre",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 catalysis, Snail RUSH +5;Catalysis: 5000/5000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Snow_at_Louveciennes_La_Seine_et_le_Louvre.wiki",
+  "markdown_path": "markdown/Snow_at_Louveciennes_La_Seine_et_le_Louvre.md"
+}

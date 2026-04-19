@@ -1,0 +1,47 @@
+{
+  "pageid": 10201,
+  "ns": 0,
+  "title": "Rice Cooker",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rice_Cooker",
+  "touched": "2025-08-11T10:42:35Z",
+  "length": 872,
+  "lastrevid": 37866,
+  "revision": {
+    "revid": 37866,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:42:35Z",
+    "sha1": "84d8bfc978b3d9869c289c970a2fed7f66364fad",
+    "size": 872
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Rice Cooker",
+        "class_id": "20541",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The electric rice cooker, also known as an electric pot, was not invented by a company involved in scientific research or kitchenware development. Instead, it was created by a telecommunications company. They developed this highly convenient electric rice cooker to help their employees reduce cooking time and have more time for work.",
+        "fame": "14",
+        "art": "16",
+        "fth": "14",
+        "civ": "33",
+        "tech": "13",
+        "ss1": "Per 10 new Dishes created, Snail RUSH +2<br>New Dishes Created: 480/480",
+        "ss2": "Per 10 new Dishes created, Snail RUSH +3<br>New Dishes Created: 480/480",
+        "ss3": "Per 10 new Dishes created, Snail RUSH +4<br>New Dishes Created: 480/480",
+        "ss4": "Per 10 new Dishes created, Snail RUSH +4<br>New Dishes Created: 480/480",
+        "ss7": "Per 10 new Dishes created, Snail RUSH +4<br>New Dishes Created: 480/480<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Rice_Cooker.wiki",
+  "markdown_path": "markdown/Rice_Cooker.md"
+}

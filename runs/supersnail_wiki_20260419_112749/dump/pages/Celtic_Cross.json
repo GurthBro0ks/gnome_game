@@ -1,0 +1,50 @@
+{
+  "pageid": 8485,
+  "ns": 0,
+  "title": "Celtic Cross",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Celtic_Cross",
+  "touched": "2025-06-20T00:14:34Z",
+  "length": 1296,
+  "lastrevid": 36028,
+  "revision": {
+    "revid": 36028,
+    "parentid": 34472,
+    "timestamp": "2025-06-20T00:14:34Z",
+    "sha1": "abde56793dac67a8e8dfeb9e4d1dbd86d1acd588",
+    "size": 1296
+  },
+  "categories": [
+    "Blue FAITH Relics",
+    "Blue Relics",
+    "FAITH Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Celtic Cross",
+        "class_id": "22451",
+        "rank": "Blue",
+        "affct": "FAITH",
+        "birthday": "06-18",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Jun 18, 682 AD, a Celtic cross was erected by monks.<br>The Celtic Cross is a product of the combination of Celtic culture and Christianity. Compared with the traditional cross, the Celtic Cross adds a ring symbolizing eternal life at the intersection in the center, making the design very unique. According to Irish legends, this cross was invented by Saint Patrick, who preached in this land. He combined the cross in Christianity with the sun cross, a symbol of the region, to show people the i …",
+        "fame": "25",
+        "art": "32",
+        "fth": "47",
+        "civ": "21",
+        "tech": "29",
+        "ss1": "Per 3 Prairie Protomon, Priest-Snail Assistance DMG +16<br>Prairie Protomon: 60/60",
+        "ss2": "Per 3 Prairie Protomon, Priest-Snail Assistance DMG +32<br>Prairie Protomon: 60/60",
+        "ss3": "Per 3 Prairie Protomon, Priest-Snail Assistance DMG +48<br>Prairie Protomon: 60/60",
+        "ss4": "Per 3 Prairie Protomon, Priest-Snail Assistance DMG +80<br>Prairie Protomon: 60/60",
+        "ss7": "Per 3 Prairie Protomon, Priest-Snail Assistance DMG +80<br>Prairie Protomon: 60/60<br>Protomon Snail assist DMG + 400 (Awakened)",
+        "skill1": "[[File:Hamster skill I.png|50px]]Place in Hamster Biozilla: In Species War, Troop Water DMG +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Celtic_Cross.wiki",
+  "markdown_path": "markdown/Celtic_Cross.md"
+}

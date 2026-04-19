@@ -1,0 +1,47 @@
+{
+  "pageid": 2485,
+  "ns": 0,
+  "title": "Faceless One Token",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Faceless_One_Token",
+  "touched": "2025-08-11T10:56:32Z",
+  "length": 817,
+  "lastrevid": 38471,
+  "revision": {
+    "revid": 38471,
+    "parentid": 11620,
+    "timestamp": "2025-08-11T10:56:32Z",
+    "sha1": "ab963341ab97629c97703371cac35a190db87518",
+    "size": 817
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Faceless One Token",
+        "class_id": "20060",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This is a token issued by an assassin organization to pay assassins for their service. The organization doesn't trust modern finance and fears inflation will damage their interests, so they invented this token for internal transactions. The tokens are limitedly issued, making their value constant!",
+        "fame": "18",
+        "art": "17",
+        "fth": "16",
+        "civ": "26",
+        "tech": "13",
+        "ss1": "Per 1k Tadpole Points, Snail ATK +2<br>Tadpole Points: 20000/20000",
+        "ss2": "Per 1k Tadpole Points, Snail ATK +4<br>Tadpole Points: 20000/20000",
+        "ss3": "Per 1k Tadpole Points, Snail ATK +6<br>Tadpole Points: 20000/20000",
+        "ss4": "Per 1k Tadpole Points, Snail ATK +6<br>Tadpole Points: 20000/20000",
+        "ss7": "Per 1k Tadpole Points, Snail ATK +6<br>Tadpole Points: 20000/20000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Faceless_One_Token.wiki",
+  "markdown_path": "markdown/Faceless_One_Token.md"
+}

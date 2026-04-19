@@ -1,0 +1,47 @@
+{
+  "pageid": 10529,
+  "ns": 0,
+  "title": "Dimensional Wanted Order S-3",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dimensional_Wanted_Order_S-3",
+  "touched": "2025-09-21T20:53:03Z",
+  "length": 1043,
+  "lastrevid": 38353,
+  "revision": {
+    "revid": 38353,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:53:45Z",
+    "sha1": "3af4f06448626208b35bb6c8194d5d3abba5570a",
+    "size": 1043
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dimensional Wanted Order S-3",
+        "class_id": "20864",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The Demon God's apostles occupy space-time gaps, Earth's will issues this wanted order to encourage travelers to go all out to eliminate the apostles! -- Earth's Will (Seal)",
+        "fame": "15",
+        "art": "14",
+        "fth": "16",
+        "civ": "15",
+        "tech": "30",
+        "ss1": "Per 2 Time Rift Apostles Dominated, Snail HP +10<br>Per 2 Time Rift Apostles Dominated, Snail ATK +1<br>Rift Apostles Dominated: 80/80",
+        "ss2": "Per 2 Time Rift Apostles Dominated, Snail HP +20<br>Per 2 Time Rift Apostles Dominated, Snail ATK +2<br>Rift Apostles Dominated: 80/80",
+        "ss3": "Per 2 Time Rift Apostles Dominated, Snail HP +30<br>Per 2 Time Rift Apostles Dominated, Snail ATK +3<br>Rift Apostles Dominated: 80/80",
+        "ss4": "Per 2 Time Rift Apostles Dominated, Snail HP +30<br>Per 2 Time Rift Apostles Dominated, Snail ATK +3<br>Rift Apostles Dominated: 80/80",
+        "ss7": "Per 2 Time Rift Apostles Dominated, Snail HP +30<br>Per 2 Time Rift Apostles Dominated, Snail ATK +3<br>Rift Apostles Dominated: 80/80<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dimensional_Wanted_Order_S-3.wiki",
+  "markdown_path": "markdown/Dimensional_Wanted_Order_S-3.md"
+}

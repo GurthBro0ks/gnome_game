@@ -1,0 +1,33 @@
+{
+  "pageid": 9940,
+  "ns": 0,
+  "title": "Fallen Lucifer+Pine Trees Screen+Supersoldier Serum+Magic Mirror",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fallen_Lucifer%2BPine_Trees_Screen%2BSupersoldier_Serum%2BMagic_Mirror",
+  "touched": "2025-08-11T10:32:34Z",
+  "length": 170,
+  "lastrevid": 37432,
+  "revision": {
+    "revid": 37432,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:32:34Z",
+    "sha1": "e80064fd3f66b09724ebce917a998a7e3fa7ebff",
+    "size": 170
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "139",
+        "relics": "Fallen Lucifer,Pine Trees Screen,Supersoldier Serum,Magic Mirror",
+        "rank": "purple",
+        "amount": "4",
+        "category": "self",
+        "description": "Snail HP +800"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fallen_Lucifer_Pine_Trees_Screen_Supersoldier_Serum_Magic_Mirror.wiki",
+  "markdown_path": "markdown/Fallen_Lucifer_Pine_Trees_Screen_Supersoldier_Serum_Magic_Mirror.md"
+}

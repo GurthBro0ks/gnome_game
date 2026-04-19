@@ -1,0 +1,33 @@
+{
+  "pageid": 9779,
+  "ns": 0,
+  "title": "Blood of Cain+Hera's Peacock Fan+Wheel of Fortune+Golden Vase+Nobel's Will",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Blood_of_Cain%2BHera%27s_Peacock_Fan%2BWheel_of_Fortune%2BGolden_Vase%2BNobel%27s_Will",
+  "touched": "2025-07-02T09:42:32Z",
+  "length": 207,
+  "lastrevid": 37051,
+  "revision": {
+    "revid": 37051,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:42:32Z",
+    "sha1": "6ad74aa9ff3ee7adbb3d62de6230dc3f8c64fc39",
+    "size": 207
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "269",
+        "relics": "Blood of Cain,Hera's Peacock Fan,Wheel of Fortune,Golden Vase,Nobel's Will",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "When you Wish, get 1 Taichi Fish by +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Blood_of_Cain_Hera_s_Peacock_Fan_Wheel_of_Fortune_Golden_Vase_Nobel_s_Will.wiki",
+  "markdown_path": "markdown/Blood_of_Cain_Hera_s_Peacock_Fan_Wheel_of_Fortune_Golden_Vase_Nobel_s_Will.md"
+}

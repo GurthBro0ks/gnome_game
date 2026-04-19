@@ -1,0 +1,33 @@
+{
+  "pageid": 9776,
+  "ns": 0,
+  "title": "Columbus Chart+Great Mogul Diamond+Ancient Dragon Xtal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Columbus_Chart%2BGreat_Mogul_Diamond%2BAncient_Dragon_Xtal",
+  "touched": "2025-07-02T09:42:17Z",
+  "length": 211,
+  "lastrevid": 37040,
+  "revision": {
+    "revid": 37040,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:42:17Z",
+    "sha1": "b7dc692e89fbb8e39138e6130c1f11e458c29f94",
+    "size": 211
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "538",
+        "relics": "Columbus Chart,Great Mogul Diamond,Ancient Dragon Xtal",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "In the Demon God Rocket Cabin: Curvature Engine Base Effect +64%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Columbus_Chart_Great_Mogul_Diamond_Ancient_Dragon_Xtal.wiki",
+  "markdown_path": "markdown/Columbus_Chart_Great_Mogul_Diamond_Ancient_Dragon_Xtal.md"
+}

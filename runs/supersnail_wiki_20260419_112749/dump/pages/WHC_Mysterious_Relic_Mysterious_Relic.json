@@ -1,0 +1,35 @@
+{
+  "pageid": 7918,
+  "ns": 0,
+  "title": "WHC+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/WHC%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2025-02-16T15:11:16Z",
+  "length": 220,
+  "lastrevid": 33363,
+  "revision": {
+    "revid": 33363,
+    "parentid": 0,
+    "timestamp": "2025-02-16T15:11:16Z",
+    "sha1": "b5fdd242e9493ccb110bec72d876992d7b17701d",
+    "size": 220
+  },
+  "categories": [
+    "Minion",
+    "Sanctum Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "WHC,Mysterious Relic,Mysterious Relic",
+        "rank": "orange",
+        "amount": "3",
+        "category": "home",
+        "description": "All Sanctum Divine Crystal Output +3.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/WHC_Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/WHC_Mysterious_Relic_Mysterious_Relic.md"
+}

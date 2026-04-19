@@ -1,0 +1,47 @@
+{
+  "pageid": 10500,
+  "ns": 0,
+  "title": "Mini Command Station",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mini_Command_Station",
+  "touched": "2025-08-11T10:52:40Z",
+  "length": 1140,
+  "lastrevid": 38306,
+  "revision": {
+    "revid": 38306,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:52:40Z",
+    "sha1": "ab04c706704ae56da8701863589732371796be20",
+    "size": 1140
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mini Command Station",
+        "class_id": "20832",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "A scaled model made to study the command stations established by the forces of the Demon Gods, nearly perfect in replicating both internal structure and external appearance. Its purpose ended as the clone army swept through the stations. It became a collectible item for display.",
+        "fame": "16",
+        "art": "15",
+        "fth": "13",
+        "civ": "14",
+        "tech": "31",
+        "ss1": "Weekly combat supplies, Legion Coins +5<br>For every level of Base Station cleared, Snail RUSH +1<br>Base Station LVLs Cleared: 30/30",
+        "ss2": "Weekly combat supplies, Legion Coins +10<br>For every level of Base Station cleared, Snail RUSH +2<br>Base Station LVLs Cleared: 30/30",
+        "ss3": "Weekly combat supplies, Legion Coins +15<br>For every level of Base Station cleared, Snail RUSH +3<br>Base Station LVLs Cleared: 30/30",
+        "ss4": "Weekly combat supplies, Legion Coins +15<br>For every level of Base Station cleared, Snail RUSH +3<br>Base Station LVLs Cleared: 30/30",
+        "ss7": "Weekly combat supplies, Legion Coins +15<br>For every level of Base Station cleared, Snail RUSH +3<br>Base Station LVLs Cleared: 30/30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mini_Command_Station.wiki",
+  "markdown_path": "markdown/Mini_Command_Station.md"
+}

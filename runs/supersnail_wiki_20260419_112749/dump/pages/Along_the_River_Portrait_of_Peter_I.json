@@ -1,0 +1,33 @@
+{
+  "pageid": 4271,
+  "ns": 0,
+  "title": "Along the River+Portrait of Peter I",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Along_the_River%2BPortrait_of_Peter_I",
+  "touched": "2025-06-20T00:01:26Z",
+  "length": 198,
+  "lastrevid": 35788,
+  "revision": {
+    "revid": 35788,
+    "parentid": 18585,
+    "timestamp": "2025-06-20T00:01:26Z",
+    "sha1": "88723dad38b84bee9ec60bb54fc70db129310ec8",
+    "size": 198
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "194",
+        "relics": "Along the River,Portrait of Peter I",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Divine Dragon Descent, Snail ATK +28;Divine Dragon Descents: 20/20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Along_the_River_Portrait_of_Peter_I.wiki",
+  "markdown_path": "markdown/Along_the_River_Portrait_of_Peter_I.md"
+}

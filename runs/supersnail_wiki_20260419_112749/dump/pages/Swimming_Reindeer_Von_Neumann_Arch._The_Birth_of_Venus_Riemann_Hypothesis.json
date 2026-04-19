@@ -1,0 +1,36 @@
+{
+  "pageid": 4219,
+  "ns": 0,
+  "title": "Swimming Reindeer+Von Neumann Arch.+The Birth of Venus+Riemann Hypothesis",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Swimming_Reindeer%2BVon_Neumann_Arch.%2BThe_Birth_of_Venus%2BRiemann_Hypothesis",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 334,
+  "lastrevid": 23287,
+  "revision": {
+    "revid": 23287,
+    "parentid": 23286,
+    "timestamp": "2024-03-09T14:55:01Z",
+    "sha1": "5375aa4cab580ecf19ba9e54987ce7c6a85494fa",
+    "size": 334
+  },
+  "categories": [
+    "Enhanced by ART Master Scrolls",
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Swimming Reindeer,Von Neumann Arch.,The Birth of Venus,Riemann Hypothesis",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 2 ART Master Scrolls used, Snail RUSH +9, ART Master Scrolls Used: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Swimming_Reindeer_Von_Neumann_Arch._The_Birth_of_Venus_Riemann_Hypothesis.wiki",
+  "markdown_path": "markdown/Swimming_Reindeer_Von_Neumann_Arch._The_Birth_of_Venus_Riemann_Hypothesis.md"
+}

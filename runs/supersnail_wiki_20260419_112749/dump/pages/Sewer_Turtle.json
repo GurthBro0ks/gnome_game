@@ -1,0 +1,32 @@
+{
+  "pageid": 2141,
+  "ns": 0,
+  "title": "Sewer Turtle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sewer_Turtle",
+  "touched": "2025-10-09T23:10:27Z",
+  "length": 9841,
+  "lastrevid": 41030,
+  "revision": {
+    "revid": 41030,
+    "parentid": 25378,
+    "timestamp": "2025-10-09T23:10:27Z",
+    "sha1": "1687d8b8226b13e7f08307fae3e2871bc051ac40",
+    "size": 9841
+  },
+  "categories": [
+    "Partners"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "Blue",
+        "2": "Instrument",
+        "3": "Nun-chuck"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sewer_Turtle.wiki",
+  "markdown_path": "markdown/Sewer_Turtle.md"
+}

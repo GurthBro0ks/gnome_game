@@ -1,0 +1,33 @@
+{
+  "pageid": 8922,
+  "ns": 0,
+  "title": "Nishijin Fabric+Giant Book+Ruby Laser+Fleming's Diode",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nishijin_Fabric%2BGiant_Book%2BRuby_Laser%2BFleming%27s_Diode",
+  "touched": "2025-06-20T00:03:31Z",
+  "length": 220,
+  "lastrevid": 35823,
+  "revision": {
+    "revid": 35823,
+    "parentid": 35012,
+    "timestamp": "2025-06-20T00:03:31Z",
+    "sha1": "c36c2ede979d929e67a5a84289d97bb9611b2fad",
+    "size": 220
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "441",
+        "relics": "Nishijin Fabric,Giant Book,Ruby Laser,Fleming's Diode",
+        "rank": "purple",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 20 Research Manuals used, Snail ATK +16;Research Manuals Used: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nishijin_Fabric_Giant_Book_Ruby_Laser_Fleming_s_Diode.wiki",
+  "markdown_path": "markdown/Nishijin_Fabric_Giant_Book_Ruby_Laser_Fleming_s_Diode.md"
+}

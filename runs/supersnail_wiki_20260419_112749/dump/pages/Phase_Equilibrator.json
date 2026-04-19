@@ -1,0 +1,47 @@
+{
+  "pageid": 10455,
+  "ns": 0,
+  "title": "Phase Equilibrator",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Phase_Equilibrator",
+  "touched": "2025-08-11T10:51:06Z",
+  "length": 1102,
+  "lastrevid": 38239,
+  "revision": {
+    "revid": 38239,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:51:06Z",
+    "sha1": "24311bf1a4ba8e16117df8278ac79bcfc22bad19",
+    "size": 1102
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Phase Equilibrator",
+        "class_id": "20831",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "To address the issue of coordinates shifting when delivering supplies to the front lines, Earth's Will instructed the creation of this terminal device to assist in spatial teleportation. This significantly reduced opportunities for interference by the forces of the Demon Gods.",
+        "fame": "17",
+        "art": "13",
+        "fth": "12",
+        "civ": "15",
+        "tech": "32",
+        "ss1": "Weekly combat supplies, Potions +1<br>For every level of Base Station cleared, Snail ATK +1<br>Base Station LVLs Cleared: 30/30",
+        "ss2": "Weekly combat supplies, Potions +2<br>For every level of Base Station cleared, Snail ATK +2<br>Base Station LVLs Cleared: 30/30",
+        "ss3": "Weekly combat supplies, Potions +3<br>For every level of Base Station cleared, Snail ATK +3<br>Base Station LVLs Cleared: 30/30",
+        "ss4": "Weekly combat supplies, Potions +3<br>For every level of Base Station cleared, Snail ATK +3<br>Base Station LVLs Cleared: 30/30",
+        "ss7": "Weekly combat supplies, Potions +3<br>For every level of Base Station cleared, Snail ATK +3<br>Base Station LVLs Cleared: 30/30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Phase_Equilibrator.wiki",
+  "markdown_path": "markdown/Phase_Equilibrator.md"
+}

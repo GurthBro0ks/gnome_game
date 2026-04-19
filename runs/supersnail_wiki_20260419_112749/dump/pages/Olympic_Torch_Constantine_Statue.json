@@ -1,0 +1,36 @@
+{
+  "pageid": 5289,
+  "ns": 0,
+  "title": "Olympic Torch+Constantine Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Olympic_Torch%2BConstantine_Statue",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 263,
+  "lastrevid": 31581,
+  "revision": {
+    "revid": 31581,
+    "parentid": 31580,
+    "timestamp": "2024-11-09T04:44:33Z",
+    "sha1": "581d5f0a219c5fd42b198612c02ab1b26328e01d",
+    "size": 263
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Wormhole Refines",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Olympic Torch,Constantine Statue",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Wormhole Refines, Snail ATK +7; Wormhole Refines: 200/200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Olympic_Torch_Constantine_Statue.wiki",
+  "markdown_path": "markdown/Olympic_Torch_Constantine_Statue.md"
+}

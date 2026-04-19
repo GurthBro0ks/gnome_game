@@ -1,0 +1,34 @@
+{
+  "pageid": 3635,
+  "ns": 0,
+  "title": "Crystal Skull+Truth Crystal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Crystal_Skull%2BTruth_Crystal",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 181,
+  "lastrevid": 13223,
+  "revision": {
+    "revid": 13223,
+    "parentid": 0,
+    "timestamp": "2023-09-22T19:35:08Z",
+    "sha1": "1ebed69ee1db1c74528a85c986e6c5a9a5475c31",
+    "size": 181
+  },
+  "categories": [
+    "DNA"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Crystal Skull,Truth Crystal",
+        "rank": "purple",
+        "amount": "2",
+        "category": "dna",
+        "description": "Zombie Gene Research Cells consumed -3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Crystal_Skull_Truth_Crystal.wiki",
+  "markdown_path": "markdown/Crystal_Skull_Truth_Crystal.md"
+}

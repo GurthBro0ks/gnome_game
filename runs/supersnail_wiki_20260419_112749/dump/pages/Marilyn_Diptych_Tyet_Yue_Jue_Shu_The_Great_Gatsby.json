@@ -1,0 +1,33 @@
+{
+  "pageid": 10004,
+  "ns": 0,
+  "title": "Marilyn Diptych+Tyet+Yue Jue Shu+The Great Gatsby",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Marilyn_Diptych%2BTyet%2BYue_Jue_Shu%2BThe_Great_Gatsby",
+  "touched": "2025-08-11T11:10:09Z",
+  "length": 187,
+  "lastrevid": 37533,
+  "revision": {
+    "revid": 37533,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:34:46Z",
+    "sha1": "718b21b3f8ca3f97d3de32b6766284321b3b62c0",
+    "size": 187
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "862",
+        "relics": "Marilyn Diptych,Tyet,Yue Jue Shu,The Great Gatsby",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Catalyzed Blue Spores turn to Purple by +0.9%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Marilyn_Diptych_Tyet_Yue_Jue_Shu_The_Great_Gatsby.wiki",
+  "markdown_path": "markdown/Marilyn_Diptych_Tyet_Yue_Jue_Shu_The_Great_Gatsby.md"
+}

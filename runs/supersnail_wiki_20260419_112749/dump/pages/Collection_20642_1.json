@@ -1,0 +1,47 @@
+{
+  "pageid": 9924,
+  "ns": 0,
+  "title": "Collection@20642 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20642_1",
+  "touched": "2025-08-11T10:25:36Z",
+  "length": 532,
+  "lastrevid": 37398,
+  "revision": {
+    "revid": 37398,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:25:36Z",
+    "sha1": "2360b047e0be2863185ca61999a10d5b3a9ecbd9",
+    "size": 532
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20642_1",
+        "class_id": "20642",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "collection@20642_2",
+        "fame": "15",
+        "art": "31",
+        "fth": "14",
+        "civ": "13",
+        "tech": "17",
+        "ss1": "Per Hitman intercepted, Snail HP +10<br>Hitmen Intercepted: 40/40",
+        "ss2": "Per Hitman intercepted, Snail HP +20<br>Hitmen Intercepted: 40/40",
+        "ss3": "Per Hitman intercepted, Snail HP +30<br>Hitmen Intercepted: 40/40",
+        "ss4": "Per Hitman intercepted, Snail HP +30<br>Hitmen Intercepted: 40/40",
+        "ss7": "Per Hitman intercepted, Snail HP +30<br>Hitmen Intercepted: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20642_1.wiki",
+  "markdown_path": "markdown/Collection_20642_1.md"
+}

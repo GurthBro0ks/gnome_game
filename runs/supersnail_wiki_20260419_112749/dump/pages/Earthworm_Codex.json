@@ -1,0 +1,47 @@
+{
+  "pageid": 3133,
+  "ns": 0,
+  "title": "Earthworm Codex",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Earthworm_Codex",
+  "touched": "2025-08-11T11:01:39Z",
+  "length": 944,
+  "lastrevid": 38695,
+  "revision": {
+    "revid": 38695,
+    "parentid": 32211,
+    "timestamp": "2025-08-11T11:01:39Z",
+    "sha1": "46f48a03356df330939a30d5d4658d7a5da66565",
+    "size": 944
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Earthworm Codex",
+        "class_id": "20452",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This codex is the culmination of earthworm's wisdom. In the ancient past, they ruled the underground by developing extraordinary technology and creating a magnificent civilization. However, all this came to a halt with the arrival of the dung beetles. This ancient codex became the only vestige of earthworm's existence...",
+        "fame": "28",
+        "art": "10",
+        "fth": "20",
+        "civ": "18",
+        "tech": "12",
+        "ss1": "Fungus Farm: +2%chance to produce<br>Wonder Fungi<br>With Earthworm Assistance, ATK +2%",
+        "ss2": "Fungus Farm: +4%chance to produce<br>Wonder Fungi<br>With Earthworm Assistance, ATK +4%",
+        "ss3": "Fungus Farm: +6%chance to produce<br>Wonder Fungi<br>With Earthworm Assistance, ATK +6%",
+        "ss4": "Fungus Farm: +6%chance to produce<br>Wonder Fungi<br>With Earthworm Assistance, ATK +6%",
+        "ss7": "Fungus Farm: +6%chance to produce<br>Wonder Fungi<br>With Earthworm Assistance, ATK +6%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Earthworm_Codex.wiki",
+  "markdown_path": "markdown/Earthworm_Codex.md"
+}

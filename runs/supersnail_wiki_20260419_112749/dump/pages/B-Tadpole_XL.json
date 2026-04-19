@@ -1,0 +1,48 @@
+{
+  "pageid": 1014,
+  "ns": 0,
+  "title": "B-Tadpole XL",
+  "fullurl": "https://supersnail.wiki.gg/wiki/B-Tadpole_XL",
+  "touched": "2025-11-03T15:22:16Z",
+  "length": 581,
+  "lastrevid": 41726,
+  "revision": {
+    "revid": 41726,
+    "parentid": 38818,
+    "timestamp": "2025-11-03T15:22:16Z",
+    "sha1": "a1c28bc8017c6c1a168f653e7857a5ffa9d2cc0e",
+    "size": 581
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "B-Tadpole XL",
+        "class_id": "20019",
+        "rank": "Green",
+        "affct": "ART",
+        "source": "Intercept [[Hitmen|Hitman No.16]]",
+        "description": "A B-tad in the pond suddenly gained intelligence after absorbing natural spiritual energy. A Demon God promised to endow intelligence to its kind, so it agreed to become a Hitman. Shortly after, the B-tad became a Relic!",
+        "fame": "18",
+        "art": "29",
+        "fth": "16",
+        "civ": "12",
+        "tech": "15",
+        "ss1": "Tadpole Pond B-tad Output +2%",
+        "ss2": "Tadpole Pond B-tad Output +4%",
+        "ss3": "Tadpole Pond B-tad Output +6%",
+        "ss4": "Tadpole Pond B-tad Output +6%",
+        "ss7": "Tadpole Pond B-tad Output +6%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/B-Tadpole_XL.wiki",
+  "markdown_path": "markdown/B-Tadpole_XL.md"
+}

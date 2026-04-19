@@ -1,0 +1,34 @@
+{
+  "pageid": 3623,
+  "ns": 0,
+  "title": "The Scream+Guernica",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Scream%2BGuernica",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 172,
+  "lastrevid": 13205,
+  "revision": {
+    "revid": 13205,
+    "parentid": 0,
+    "timestamp": "2023-09-22T16:11:33Z",
+    "sha1": "1e7a38bfc513ad6334700e9ee50ff19031eb22b9",
+    "size": 172
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Scream,Guernica",
+        "rank": "purple",
+        "amount": "2",
+        "category": "home",
+        "description": "Quarry produces Ancient Fossil by +12%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Scream_Guernica.wiki",
+  "markdown_path": "markdown/The_Scream_Guernica.md"
+}

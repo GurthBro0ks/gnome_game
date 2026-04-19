@@ -1,0 +1,33 @@
+{
+  "pageid": 4916,
+  "ns": 0,
+  "title": "Nemean Lion's Hide+De Motu Cordis Model",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nemean_Lion%27s_Hide%2BDe_Motu_Cordis_Model",
+  "touched": "2025-06-20T00:00:38Z",
+  "length": 154,
+  "lastrevid": 35757,
+  "revision": {
+    "revid": 35757,
+    "parentid": 17554,
+    "timestamp": "2025-06-20T00:00:38Z",
+    "sha1": "42130d366f4b6b93a2d0fd03d89ce55a5a9a55e4",
+    "size": 154
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "404",
+        "relics": "Nemean Lion's Hide,De Motu Cordis Model",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Zombie Minion RUSH +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nemean_Lion_s_Hide_De_Motu_Cordis_Model.wiki",
+  "markdown_path": "markdown/Nemean_Lion_s_Hide_De_Motu_Cordis_Model.md"
+}

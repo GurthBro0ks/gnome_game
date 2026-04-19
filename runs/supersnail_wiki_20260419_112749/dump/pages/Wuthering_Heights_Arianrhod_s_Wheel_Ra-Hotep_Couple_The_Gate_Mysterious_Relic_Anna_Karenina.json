@@ -1,0 +1,36 @@
+{
+  "pageid": 6622,
+  "ns": 0,
+  "title": "Wuthering Heights+Arianrhod's Wheel+Ra-Hotep Couple+The Gate+Mysterious Relic+Anna Karenina",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Wuthering_Heights%2BArianrhod%27s_Wheel%2BRa-Hotep_Couple%2BThe_Gate%2BMysterious_Relic%2BAnna_Karenina",
+  "touched": "2024-12-02T03:00:54Z",
+  "length": 297,
+  "lastrevid": 27070,
+  "revision": {
+    "revid": 27070,
+    "parentid": 0,
+    "timestamp": "2024-05-19T22:52:05Z",
+    "sha1": "b8e45a06b8e2b5d044fc278f06b7dd4d89edcb88",
+    "size": 297
+  },
+  "categories": [
+    "Minion",
+    "Minion ATK Boost",
+    "Minion Skin Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Wuthering Heights,Arianrhod's Wheel,Ra-Hotep Couple,The Gate,Mysterious Relic,Anna Karenina",
+        "rank": "orange",
+        "amount": "6",
+        "category": "minion",
+        "description": "All minion skins ATK +120%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Wuthering_Heights_Arianrhod_s_Wheel_Ra-Hotep_Couple_The_Gate_Mysterious_Relic_Anna_Karenina.wiki",
+  "markdown_path": "markdown/Wuthering_Heights_Arianrhod_s_Wheel_Ra-Hotep_Couple_The_Gate_Mysterious_Relic_Anna_Karenina.md"
+}

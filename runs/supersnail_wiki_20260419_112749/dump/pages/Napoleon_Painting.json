@@ -1,0 +1,58 @@
+{
+  "pageid": 1930,
+  "ns": 0,
+  "title": "Napoleon Painting",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Napoleon_Painting",
+  "touched": "2024-09-06T09:59:07Z",
+  "length": 2118,
+  "lastrevid": 22302,
+  "revision": {
+    "revid": 22302,
+    "parentid": 19171,
+    "timestamp": "2024-02-17T15:50:14Z",
+    "sha1": "156c659de7fe7dcd0c42c9951df21b0b48dc38f9",
+    "size": 2118
+  },
+  "categories": [
+    "ART Relics",
+    "ATK Boost",
+    "Angel Cell Drop Boost",
+    "Berserker Boost",
+    "Enhanced by Realms Conquered",
+    "Exploration Compass Boost",
+    "HP Boost",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics",
+    "Tadpole Pond Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Napoleon Painting",
+        "rank": "AAA",
+        "affct": "ART",
+        "birthday": "09-20",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)",
+        "description": "On Sep 20, 1805, this painting marked by Napoleon's great style was finally completed. \n\nDavid painted 5 portraits of Napoleon, and he was most satisfied with the last one. This painting depicts the War of the Second Coalition, where Napoleon led an army of 40,000 across the Alps by taking a shortcut through the St. Bernard Pass into Italy. Napoleon's red cloak was striking, he was pointing his fingers to the peak while riding on a horse. In the background are generals holding sabers who are cov …",
+        "fame": "42",
+        "art": "72",
+        "fth": "44",
+        "civ": "47",
+        "tech": "38",
+        "ss1": "Per Realm conquered, Snail HP +300<br>Per Realm conquered, Snail ATK +30<br>Realms Conquered: 8/8",
+        "ss2": "Per Realm conquered, Snail HP +400<br>Per Realm conquered, Snail ATK +40<br>Realms Conquered: 8/8",
+        "ss3": "Per Realm conquered, Snail HP +500<br>Per Realm conquered, Snail ATK +50<br>Realms Conquered: 8/8",
+        "ss4": "Per Realm conquered, Snail HP +700<br>Per Realm conquered, Snail ATK +70<br>Realms Conquered: 8/8",
+        "ss5": "Per Realm conquered, Snail HP +900<br>Per Realm conquered, Snail ATK +90<br>Realms Conquered: 8/8",
+        "ss7": "Per Realm conquered, Snail HP +900<br>Per Realm conquered, Snail ATK +90<br>Realms Conquered: 8/8<br>Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Compass skill II.png|50px]] Place in Exploration Compass: In explorations, 2x B-Tad Drops +7.5%",
+        "skill2": "[[File:Compass skill II.png|50px]] Place in Exploration Compass: In explorations, 2x Food Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Napoleon_Painting.wiki",
+  "markdown_path": "markdown/Napoleon_Painting.md"
+}

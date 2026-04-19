@@ -1,0 +1,47 @@
+{
+  "pageid": 11290,
+  "ns": 0,
+  "title": "Alzheimer's Manuscript",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Alzheimer%27s_Manuscript",
+  "touched": "2025-08-11T11:19:22Z",
+  "length": 806,
+  "lastrevid": 39462,
+  "revision": {
+    "revid": 39462,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:19:22Z",
+    "sha1": "b46f555f596efb94f52aa9c6bdcd88fab4fb0f1a",
+    "size": 806
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Alzheimer's Manuscript",
+        "class_id": "20056",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Alzheimer is the discoverer of dementia, and later generations named this disease after him. In his medical manuscript, he recorded the changes in patients over several years and based on this, gave the first pathological speech on dementia, bringing dementia into the medical research field!",
+        "fame": "30",
+        "art": "17",
+        "fth": "14",
+        "civ": "15",
+        "tech": "14",
+        "ss1": "Per 50 Minions healed, Snail ATK +1<br>Minions healed: 2000/2000",
+        "ss2": "Per 50 Minions healed, Snail ATK +2<br>Minions healed: 2000/2000",
+        "ss3": "Per 50 Minions healed, Snail ATK +3<br>Minions healed: 2000/2000",
+        "ss4": "Per 50 Minions healed, Snail ATK +3<br>Minions healed: 2000/2000",
+        "ss7": "Per 50 Minions healed, Snail ATK +3<br>Minions healed: 2000/2000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Alzheimer_s_Manuscript.wiki",
+  "markdown_path": "markdown/Alzheimer_s_Manuscript.md"
+}

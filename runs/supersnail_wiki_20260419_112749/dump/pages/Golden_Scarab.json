@@ -1,0 +1,70 @@
+{
+  "pageid": 1487,
+  "ns": 0,
+  "title": "Golden Scarab",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Scarab",
+  "touched": "2025-04-13T22:45:37Z",
+  "length": 2051,
+  "lastrevid": 33977,
+  "revision": {
+    "revid": 33977,
+    "parentid": 29989,
+    "timestamp": "2025-04-13T22:45:37Z",
+    "sha1": "62fbd5167e9f076dd8fcaf7652c84aa369a97e84",
+    "size": 2051
+  },
+  "categories": [
+    "ATK Boost",
+    "Chika Boost",
+    "DEF Boost",
+    "Demonic Tentacle Boost",
+    "Exploration Compass Boost",
+    "FTH Boost",
+    "FTH Relics",
+    "Fungus Farm Skill",
+    "HP Boost",
+    "Offering Reward Boost",
+    "Orange FTH Relics",
+    "Orange Relics",
+    "Organ Boost",
+    "RUSH Boost",
+    "Relics",
+    "Rewards Organs",
+    "Roachikun Boost",
+    "Tadpole Pond Skill",
+    "Tadpole Pond W-Tad Output Boost",
+    "Wonder Fungus Output"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Golden Scarab",
+        "rank": "S",
+        "affct": "FTH",
+        "birthday": "08-05",
+        "source": "FTH Master Scrolls (31.5%), Fragment Crafting (15.1%), Kemetic Treasure Maps (5%), Lottery Machine (0.81%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), Wishing (0.53%)",
+        "description": "On Aug 5, 1213 BC, this Golden Scarab was made after Ramesses' death. \n\nIn ancient Egypt, the scarab symbolizes perseverance, fearlessness, bravery, and industriousness as it brings light and hopes to the world. This talisman is cast in gold and painted with a blue or green glaze to strengthen it. Since the period of the New Kingdom, when mummies were made, scarabs were placed on the hearts for people believe that scarabs can eliminate the mistakes of the deceased and help them get through the t …",
+        "fame": "56",
+        "art": "59",
+        "fth": "97",
+        "civ": "61",
+        "tech": "59",
+        "ss1": "Snail HP +100<br>Snail DEF +10<br>Snail RUSH +10",
+        "ss2": "Snail HP +200<br>Snail DEF +20<br>Snail RUSH +20",
+        "ss3": "Snail HP +300<br>Snail DEF +30<br>Snail RUSH +30",
+        "ss4": "Snail HP +500<br>Snail DEF +50<br>Snail RUSH +50",
+        "ss5": "Snail HP +700<br>Snail DEF +70<br>Snail RUSH +70",
+        "ss6": "Snail HP +1,000<br>Snail DEF +100<br>Snail RUSH +100",
+        "ss7": "Snail HP +1,000<br>Snail DEF +100<br>Snail RUSH +100<br>Snail HP +1,000 (Awakened)",
+        "skill1": "[[File:Compass skill III.png|50px]]Place in Exploration Compass: This Relic's FTH +15",
+        "skill2": "[[File:Fungusfarm skill III.png|50px]]Place in Fungus Farm: Grow Wonder Fungus by +30%",
+        "skill3": "[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Generate W-tads by +30%",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Scarab.wiki",
+  "markdown_path": "markdown/Golden_Scarab.md"
+}

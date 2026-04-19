@@ -1,0 +1,33 @@
+{
+  "pageid": 3267,
+  "ns": 0,
+  "title": "Art of Ninja+Sonnet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Art_of_Ninja%2BSonnet",
+  "touched": "2025-08-11T10:34:12Z",
+  "length": 166,
+  "lastrevid": 37506,
+  "revision": {
+    "revid": 37506,
+    "parentid": 11925,
+    "timestamp": "2025-08-11T10:34:12Z",
+    "sha1": "117a1935071621a64acb30b4cb006616f96cce9d",
+    "size": 166
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "2",
+        "relics": "Art of Ninja,Sonnet",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 200 DNA Strength, Snail DEF +3;DNA Strength: 4000/4000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Art_of_Ninja_Sonnet.wiki",
+  "markdown_path": "markdown/Art_of_Ninja_Sonnet.md"
+}

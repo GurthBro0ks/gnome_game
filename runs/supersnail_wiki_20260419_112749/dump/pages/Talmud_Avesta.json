@@ -1,0 +1,34 @@
+{
+  "pageid": 4188,
+  "ns": 0,
+  "title": "Talmud+Avesta",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Talmud%2BAvesta",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 212,
+  "lastrevid": 15977,
+  "revision": {
+    "revid": 15977,
+    "parentid": 15688,
+    "timestamp": "2023-11-05T22:46:35Z",
+    "sha1": "22739900d20c373f830498807a98053cb44e9001",
+    "size": 212
+  },
+  "categories": [
+    "Minion Element RES Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Talmud,Avesta",
+        "rank": "orange",
+        "amount": "2",
+        "category": "Minion Element RES Boost",
+        "description": "Per 60 Minions in battle: Troop Water RES +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Talmud_Avesta.wiki",
+  "markdown_path": "markdown/Talmud_Avesta.md"
+}

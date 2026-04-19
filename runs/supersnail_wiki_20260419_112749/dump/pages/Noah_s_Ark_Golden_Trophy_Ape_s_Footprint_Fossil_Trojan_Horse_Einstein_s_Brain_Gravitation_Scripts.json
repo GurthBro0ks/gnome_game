@@ -1,0 +1,34 @@
+{
+  "pageid": 3822,
+  "ns": 0,
+  "title": "Noah's Ark+Golden Trophy+Ape's Footprint Fossil+Trojan Horse+Einstein's Brain+Gravitation Scripts",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Noah%27s_Ark%2BGolden_Trophy%2BApe%27s_Footprint_Fossil%2BTrojan_Horse%2BEinstein%27s_Brain%2BGravitation_Scripts",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 230,
+  "lastrevid": 13744,
+  "revision": {
+    "revid": 13744,
+    "parentid": 0,
+    "timestamp": "2023-10-03T09:21:51Z",
+    "sha1": "5075b780088305cc75350afd91022eacda6cbbcf",
+    "size": 230
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Noah's Ark,Golden Trophy,Ape's Footprint Fossil,Trojan Horse,Einstein's Brain,Gravitation Scripts",
+        "rank": "orange",
+        "amount": "6",
+        "category": "other",
+        "description": "Travel SPD +2.4%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Noah_s_Ark_Golden_Trophy_Ape_s_Footprint_Fossil_Trojan_Horse_Einstein_s_Brain_Gravitation_Scripts.wiki",
+  "markdown_path": "markdown/Noah_s_Ark_Golden_Trophy_Ape_s_Footprint_Fossil_Trojan_Horse_Einstein_s_Brain_Gravitation_Scripts.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4439,
+  "ns": 0,
+  "title": "Crookes Tube+Huygens' Pendulum",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Crookes_Tube%2BHuygens%27_Pendulum",
+  "touched": "2025-06-19T23:56:49Z",
+  "length": 143,
+  "lastrevid": 35707,
+  "revision": {
+    "revid": 35707,
+    "parentid": 19532,
+    "timestamp": "2025-06-19T23:56:49Z",
+    "sha1": "720407b63d7f65ce770a3e7bc5dbbe9c1ed208f7",
+    "size": 143
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "348",
+        "relics": "Crookes Tube,Huygens' Pendulum",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Rebel Cabin Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Crookes_Tube_Huygens_Pendulum.wiki",
+  "markdown_path": "markdown/Crookes_Tube_Huygens_Pendulum.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 11209,
+  "ns": 0,
+  "title": "Moondance Film Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Moondance_Film_Award",
+  "touched": "2025-08-11T11:16:31Z",
+  "length": 1336,
+  "lastrevid": 39339,
+  "revision": {
+    "revid": 39339,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:16:31Z",
+    "sha1": "ddfcd4e5e8e0d3cd7d83e63181af4654d6210397",
+    "size": 1336
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Moondance Film Award",
+        "class_id": "20099",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The Moondance Film Festival was founded in the 1980s and held by the Moondance Institute. As the world's leading independent film festival, it aims to encourage the production of low-cost movies. It is favored by Hollywood and has funded many famous directors!",
+        "fame": "13",
+        "art": "13",
+        "fth": "15",
+        "civ": "34",
+        "tech": "15",
+        "ss1": "Event Avatar rating cap raised to 4S+<br>Obtain Avatar (Event Ambassador)<br>W-tads from Daily Packs +10<br>W-tads from Daily Silver Packs +10<br>W-tads from Daily Gold Pack +10",
+        "ss2": "Event Avatar rating cap raised to 4S+<br>Obtain Avatar (Event Ambassador)<br>W-tads from Daily Packs +20<br>W-tads from Daily Silver Packs +20<br>W-tads from Daily Gold Pack +20",
+        "ss3": "Event Avatar rating cap raised to 4S+<br>Obtain Avatar (Event Ambassador)<br>W-tads from Daily Packs +30<br>W-tads from Daily Silver Packs +30<br>W-tads from Daily Gold Pack +30",
+        "ss4": "Event Avatar rating cap raised to 4S+<br>Obtain Avatar (Event Ambassador)<br>W-tads from Daily Packs +30<br>W-tads from Daily Silver Packs +30<br>W-tads from Daily Gold Pack +30",
+        "ss7": "Event Avatar rating cap raised to 4S+<br>Obtain Avatar (Event Ambassador)<br>W-tads from Daily Packs +30<br>W-tads from Daily Silver Packs +30<br>W-tads from Daily Gold Pack +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Moondance_Film_Award.wiki",
+  "markdown_path": "markdown/Moondance_Film_Award.md"
+}

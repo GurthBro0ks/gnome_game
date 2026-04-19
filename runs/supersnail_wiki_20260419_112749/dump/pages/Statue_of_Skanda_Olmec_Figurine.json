@@ -1,0 +1,33 @@
+{
+  "pageid": 9306,
+  "ns": 0,
+  "title": "Statue of Skanda+Olmec Figurine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Statue_of_Skanda%2BOlmec_Figurine",
+  "touched": "2025-06-20T00:20:39Z",
+  "length": 153,
+  "lastrevid": 36217,
+  "revision": {
+    "revid": 36217,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:20:39Z",
+    "sha1": "60e1c50052b48729006fcb889069d3420020bd62",
+    "size": 153
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "609",
+        "relics": "Statue of Skanda,Olmec Figurine",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Protomon Snail assist DMG + 400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Statue_of_Skanda_Olmec_Figurine.wiki",
+  "markdown_path": "markdown/Statue_of_Skanda_Olmec_Figurine.md"
+}

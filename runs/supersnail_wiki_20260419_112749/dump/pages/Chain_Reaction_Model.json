@@ -1,0 +1,50 @@
+{
+  "pageid": 4776,
+  "ns": 0,
+  "title": "Chain Reaction Model",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Chain_Reaction_Model",
+  "touched": "2025-06-16T23:09:39Z",
+  "length": 1459,
+  "lastrevid": 34914,
+  "revision": {
+    "revid": 34914,
+    "parentid": 24036,
+    "timestamp": "2025-06-16T23:09:39Z",
+    "sha1": "1cdbfc0fe4a8d55856e2e40ab2fe1a42fd7dcc63",
+    "size": 1459
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Chain Reaction Model",
+        "class_id": "22096",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "03-26",
+        "source": "Lottery Machine No.2 (0.07%), Wishing (0.03%)",
+        "description": "On Mar 26, 1919 AD, Rutherford used the particles emitted by natural radioactive sources as shells to bombard the air, realizing the artificial transmutation of atomic nuclei for the first time.<br>In a broad sense, chain reaction refers to the product or result of the reaction, including the reaction of its occurrence conditions, but generally refers to physical nuclear reactions such as nuclear fission of uranium. Nuclear reactions are mainly divided into four types: decay, particle bombardmen …",
+        "fame": "34",
+        "art": "19",
+        "fth": "33",
+        "civ": "22",
+        "tech": "46",
+        "ss1": "Free Gene Speedup (Mecha) +6m",
+        "ss2": "Free Gene Speedup (Mecha) +12m",
+        "ss3": "Free Gene Speedup (Mecha) +18m",
+        "ss4": "Free Gene Speedup (Mecha) +30m",
+        "ss7": "Free Gene Speedup (Mecha) +30m<br>Free Gene Speedup (Mecha) +30m (Awakened)",
+        "skill1": "[[File:Goldfish skill I.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion RUSH +1.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Chain_Reaction_Model.wiki",
+  "markdown_path": "markdown/Chain_Reaction_Model.md"
+}

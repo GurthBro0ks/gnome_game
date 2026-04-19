@@ -1,0 +1,47 @@
+{
+  "pageid": 10233,
+  "ns": 0,
+  "title": "Guide Dog Training Manual",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Guide_Dog_Training_Manual",
+  "touched": "2025-08-11T10:43:52Z",
+  "length": 915,
+  "lastrevid": 37921,
+  "revision": {
+    "revid": 37921,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:43:52Z",
+    "sha1": "a29ecef21565cec2cf262b7b0c5992b7d6d4b7ca",
+    "size": 915
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Guide Dog Training Manual",
+        "class_id": "20542",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This carefully crafted manual for guide dog training helps you understand the characteristics of guide dogs, training techniques, and ways of interaction. It enables you to become an excellent guide dog trainer, providing reliable support for visually impaired individuals, enhancing their navigation and companionship.",
+        "fame": "15",
+        "art": "14",
+        "fth": "13",
+        "civ": "32",
+        "tech": "16",
+        "ss1": "Snail RUSH +10<br>Per 5 Minions Cloned, Snail RUSH +1<br>Minions Cloned: 100/100",
+        "ss2": "Snail RUSH +20<br>Per 5 Minions Cloned, Snail RUSH +3<br>Minions Cloned: 100/100",
+        "ss3": "Snail RUSH +30<br>Per 5 Minions Cloned, Snail RUSH +5<br>Minions Cloned: 100/100",
+        "ss4": "Snail RUSH +30<br>Per 5 Minions Cloned, Snail RUSH +5<br>Minions Cloned: 100/100",
+        "ss7": "Snail RUSH +30<br>Per 5 Minions Cloned, Snail RUSH +5<br>Minions Cloned: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Guide_Dog_Training_Manual.wiki",
+  "markdown_path": "markdown/Guide_Dog_Training_Manual.md"
+}

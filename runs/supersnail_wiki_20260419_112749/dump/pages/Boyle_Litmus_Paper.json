@@ -1,0 +1,50 @@
+{
+  "pageid": 8608,
+  "ns": 0,
+  "title": "Boyle Litmus Paper",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Boyle_Litmus_Paper",
+  "touched": "2025-06-20T00:18:04Z",
+  "length": 1547,
+  "lastrevid": 36127,
+  "revision": {
+    "revid": 36127,
+    "parentid": 34559,
+    "timestamp": "2025-06-20T00:18:04Z",
+    "sha1": "8ca6b876c6575a309d383efa910a9102a8a00130",
+    "size": 1547
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Boyle Litmus Paper",
+        "class_id": "22486",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "11-13",
+        "source": "Lottery Machine No.3 (0.25%)",
+        "description": "On Nov 13, 1668 AD, Robert Boyle invented the litmus paper used for acid-base indicators based on the phenomenon that violets change color when exposed to acids and bases.<br>In an experiment, accidentally, a drop of hydrochloric acid was dropped onto the violet petal in the laboratory by Robert Boyle, and he was surprised to find that the originally purple petals turned red. He then began to try to react with acids, bases, and plant extracts and finally used the extract of litmus lichen with mo …",
+        "fame": "28",
+        "art": "19",
+        "fth": "33",
+        "civ": "27",
+        "tech": "47",
+        "ss1": "Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +8<br>Prairie Sanctum Rating Pts: 100000/100000",
+        "ss2": "Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +16<br>Prairie Sanctum Rating Pts: 100000/100000",
+        "ss3": "Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +24<br>Prairie Sanctum Rating Pts: 100000/100000",
+        "ss4": "Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Prairie Sanctum Rating Pts: 100000/100000",
+        "ss7": "Per 2,000 Prairie Sanctum Rating Pts, Priest-Snail Assistance DMG +40<br>Prairie Sanctum Rating Pts: 100000/100000<br>Protomon Snail assist DMG + 400 (Awakened)",
+        "skill1": "[[File:Britland skill I.png|50px]]Place in Britland Museum: In Britland, 2x Green Reagent Drops +2.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Boyle_Litmus_Paper.wiki",
+  "markdown_path": "markdown/Boyle_Litmus_Paper.md"
+}

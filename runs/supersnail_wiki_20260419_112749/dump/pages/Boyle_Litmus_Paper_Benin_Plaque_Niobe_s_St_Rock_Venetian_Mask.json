@@ -1,0 +1,33 @@
+{
+  "pageid": 8539,
+  "ns": 0,
+  "title": "Boyle Litmus Paper+Benin Plaque+Niobe's St Rock+Venetian Mask",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Boyle_Litmus_Paper%2BBenin_Plaque%2BNiobe%27s_St_Rock%2BVenetian_Mask",
+  "touched": "2025-06-16T20:57:13Z",
+  "length": 181,
+  "lastrevid": 34434,
+  "revision": {
+    "revid": 34434,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:22:21Z",
+    "sha1": "29e35b6cd6c86a71c872e3cc78a3d2520268bfab",
+    "size": 181
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "642",
+        "relics": "Boyle Litmus Paper,Benin Plaque,Niobe's St Rock,Venetian Mask",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Demon Minion HARD Stats +2.1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Boyle_Litmus_Paper_Benin_Plaque_Niobe_s_St_Rock_Venetian_Mask.wiki",
+  "markdown_path": "markdown/Boyle_Litmus_Paper_Benin_Plaque_Niobe_s_St_Rock_Venetian_Mask.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4371,
+  "ns": 0,
+  "title": "Runes+Diamond Peacock Brooch+Newton's Prism",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Runes%2BDiamond_Peacock_Brooch%2BNewton%27s_Prism",
+  "touched": "2025-06-19T23:59:54Z",
+  "length": 174,
+  "lastrevid": 35732,
+  "revision": {
+    "revid": 35732,
+    "parentid": 16081,
+    "timestamp": "2025-06-19T23:59:54Z",
+    "sha1": "2fc401c51850a8c1e28631141ab2ff506922b1ac",
+    "size": 174
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "428",
+        "relics": "Runes,Diamond Peacock Brooch,Newton's Prism",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Refine +1 Green Demon God Material +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Runes_Diamond_Peacock_Brooch_Newton_s_Prism.wiki",
+  "markdown_path": "markdown/Runes_Diamond_Peacock_Brooch_Newton_s_Prism.md"
+}

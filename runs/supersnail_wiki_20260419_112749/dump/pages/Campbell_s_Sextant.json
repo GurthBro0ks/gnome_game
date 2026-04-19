@@ -1,0 +1,54 @@
+{
+  "pageid": 1500,
+  "ns": 0,
+  "title": "Campbell's Sextant",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Campbell%27s_Sextant",
+  "touched": "2024-09-06T09:58:05Z",
+  "length": 1002,
+  "lastrevid": 27613,
+  "revision": {
+    "revid": 27613,
+    "parentid": 22447,
+    "timestamp": "2024-06-01T02:42:47Z",
+    "sha1": "7f746e9b7f50f0cb7853346a2ac42703beb9f222",
+    "size": 1002
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Enhanced by Lottery Draws",
+    "Exploration Compass Boost",
+    "Lumber Camp Boost",
+    "Offering Reward Boost",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Campbell's Sextant",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "11-19",
+        "source": "Lottery Machine (0.7%), Wishing (2.6%), Tool Chest (2%), Novice Scrolls (1%)",
+        "description": "On Nov 19, 1757, these theoretical achievements of great mathematicians were put into use. Captain Campbell found that his crew was having difficulties in using the octant. This was why he created a sextant by making the angles bigger, which is easier to use. The principle of sextant proposed by Newton was then proven and improved by Gauss.",
+        "fame": "25",
+        "art": "27",
+        "fth": "28",
+        "civ": "27",
+        "tech": "47",
+        "ss1": "Lumber Camp Max Cap +2%",
+        "ss2": "Lumber Camp Max Cap +4%",
+        "ss3": "Lumber Camp Max Cap +6%",
+        "ss4": "Lumber Camp Max Cap +10%",
+        "ss7": "Lumber Camp Max Cap +10%<br>Lumber Camp Max Cap +10% (Awakened)",
+        "skill1": "[[File:Compass skill I.png|50px]]Place in Exploration Compass: TECH Checks -5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Campbell_s_Sextant.wiki",
+  "markdown_path": "markdown/Campbell_s_Sextant.md"
+}

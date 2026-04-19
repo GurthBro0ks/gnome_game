@@ -1,0 +1,51 @@
+{
+  "pageid": 8208,
+  "ns": 0,
+  "title": "Vaucanson Robot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Vaucanson_Robot",
+  "touched": "2025-09-28T08:59:29Z",
+  "length": 1113,
+  "lastrevid": 40231,
+  "revision": {
+    "revid": 40231,
+    "parentid": 36062,
+    "timestamp": "2025-09-28T08:59:29Z",
+    "sha1": "bdfd0d07994fe4b63f58f33dab5718c0a5f5d045",
+    "size": 1113
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Pages with broken file links",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Vaucanson Robot",
+        "class_id": "22484",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "07-16",
+        "source": "Lottery Machine No.3 (0.25%)",
+        "description": "On Jul 16, 1774 AD, Swiss watchmaker Jaquet Droz created three incredibly intricate automata!<br>The automata made by Jaquet Droz consist of thousands of mechanical parts that can move through a gear system, not only writing beautiful calligraphy and drawing pictures but also playing wonderful music. The entire automaton's power comes entirely from its internal mechanics, requiring no external power source, and still works to this day!",
+        "fame": "28",
+        "art": "22",
+        "fth": "35",
+        "civ": "25",
+        "tech": "44",
+        "ss1": "Per 10 advanced fusions, Snail HP +10<br>Advanced Fusions: 500/500",
+        "ss2": "Per 10 advanced fusions, Snail HP +20<br>Advanced Fusions: 500/500",
+        "ss3": "Per 10 advanced fusions, Snail HP +30<br>Advanced Fusions: 500/500",
+        "ss4": "Per 10 advanced fusions, Snail HP +50<br>Advanced Fusions: 500/500",
+        "ss7": "Per 10 advanced fusions, Snail HP +50<br>Advanced Fusions: 500/500<br>Snail HP +500 (Awakened)",
+        "skill1": "[[File:Minion Sim Skill I.png|50px]]Place in Minion Sims: In Minion Sims, Troop Wind DMG +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Vaucanson_Robot.wiki",
+  "markdown_path": "markdown/Vaucanson_Robot.md"
+}

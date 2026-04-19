@@ -1,0 +1,23 @@
+{
+  "pageid": 1102,
+  "ns": 0,
+  "title": "Garage",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Garage",
+  "touched": "2025-09-22T18:28:12Z",
+  "length": 597,
+  "lastrevid": 39977,
+  "revision": {
+    "revid": 39977,
+    "parentid": 31280,
+    "timestamp": "2025-09-22T18:28:12Z",
+    "sha1": "c88b108ea2bf2cde5710611b45b4f417923498c4",
+    "size": 597
+  },
+  "categories": [
+    "Home Base"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Garage.wiki",
+  "markdown_path": "markdown/Garage.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4980,
+  "ns": 0,
+  "title": "Bowl of Hygieia+Penglai Jade Branch",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bowl_of_Hygieia%2BPenglai_Jade_Branch",
+  "touched": "2025-06-20T00:00:27Z",
+  "length": 141,
+  "lastrevid": 35748,
+  "revision": {
+    "revid": 35748,
+    "parentid": 18590,
+    "timestamp": "2025-06-20T00:00:27Z",
+    "sha1": "5ecfe433ca3957639b66a951055cfbddf171f6f8",
+    "size": 141
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "397",
+        "relics": "Bowl of Hygieia,Penglai Jade Branch",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bowl_of_Hygieia_Penglai_Jade_Branch.wiki",
+  "markdown_path": "markdown/Bowl_of_Hygieia_Penglai_Jade_Branch.md"
+}

@@ -1,0 +1,36 @@
+{
+  "pageid": 8273,
+  "ns": 0,
+  "title": "Antimatter Propulsion+Zeppelin+TVC Engine+Pioneer 11+Nighthawk+Saturn V Model",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Antimatter_Propulsion%2BZeppelin%2BTVC_Engine%2BPioneer_11%2BNighthawk%2BSaturn_V_Model",
+  "touched": "2025-06-16T20:58:47Z",
+  "length": 283,
+  "lastrevid": 34112,
+  "revision": {
+    "revid": 34112,
+    "parentid": 34053,
+    "timestamp": "2025-04-21T03:46:11Z",
+    "sha1": "49f2b20bc2a29684c161140c90fb4422d31ca7da",
+    "size": 283
+  },
+  "categories": [
+    "Minion",
+    "Minion DEF Boost",
+    "Minion Skin Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Antimatter Propulsion,Zeppelin,TVC Engine,Pioneer 11,Nighthawk,Saturn V Model",
+        "rank": "orange",
+        "amount": "6",
+        "category": "minion",
+        "description": "All minion skins DEF +120%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Antimatter_Propulsion_Zeppelin_TVC_Engine_Pioneer_11_Nighthawk_Saturn_V_Model.wiki",
+  "markdown_path": "markdown/Antimatter_Propulsion_Zeppelin_TVC_Engine_Pioneer_11_Nighthawk_Saturn_V_Model.md"
+}

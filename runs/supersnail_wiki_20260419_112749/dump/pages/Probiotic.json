@@ -1,0 +1,47 @@
+{
+  "pageid": 6986,
+  "ns": 0,
+  "title": "Probiotic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Probiotic",
+  "touched": "2025-08-11T10:33:40Z",
+  "length": 840,
+  "lastrevid": 37481,
+  "revision": {
+    "revid": 37481,
+    "parentid": 31159,
+    "timestamp": "2025-08-11T10:33:40Z",
+    "sha1": "620d7a7b30448a5aa214aad307da083090dfe574",
+    "size": 840
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Probiotic",
+        "class_id": "20473",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Probiotics refer to the live microorganisms that have health benefits after the consumer takes in enough amount to better balance the flora inside them. Fermented probiotics are considered the optimal carrier. Probiotics are supposed to help Maneaters grow more healthily.",
+        "fame": "29",
+        "art": "16",
+        "fth": "14",
+        "civ": "16",
+        "tech": "15",
+        "ss1": "Per 500 Fissure Floors, Maneater Digest SPD +1%<br>Fissure Floor: 10000/10000",
+        "ss2": "Per 500 Fissure Floors, Maneater Digest SPD +1.5%<br>Fissure Floor: 10000/10000",
+        "ss3": "Per 500 Fissure Floors, Maneater Digest SPD +2%<br>Fissure Floor: 10000/10000",
+        "ss4": "Per 500 Fissure Floors, Maneater Digest SPD +2%<br>Fissure Floor: 10000/10000",
+        "ss7": "Per 500 Fissure Floors, Maneater Digest SPD +2%<br>Fissure Floor: 10000/10000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Probiotic.wiki",
+  "markdown_path": "markdown/Probiotic.md"
+}

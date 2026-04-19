@@ -1,0 +1,33 @@
+{
+  "pageid": 9814,
+  "ns": 0,
+  "title": "Phase-Shift Spatial Gate+Arianrhod's Wheel",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Phase-Shift_Spatial_Gate%2BArianrhod%27s_Wheel",
+  "touched": "2025-07-02T09:44:28Z",
+  "length": 166,
+  "lastrevid": 37120,
+  "revision": {
+    "revid": 37120,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:44:28Z",
+    "sha1": "eaedb7dd6ec74f4957b35b128594167725d1661a",
+    "size": 166
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "868",
+        "relics": "Phase-Shift Spatial Gate,Arianrhod's Wheel",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Protomon Snail assist DMG + 560"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Phase-Shift_Spatial_Gate_Arianrhod_s_Wheel.wiki",
+  "markdown_path": "markdown/Phase-Shift_Spatial_Gate_Arianrhod_s_Wheel.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 5824,
+  "ns": 0,
+  "title": "Bharata Postcard",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bharata_Postcard",
+  "touched": "2025-08-11T11:18:50Z",
+  "length": 557,
+  "lastrevid": 39439,
+  "revision": {
+    "revid": 39439,
+    "parentid": 32186,
+    "timestamp": "2025-08-11T11:18:50Z",
+    "sha1": "9c1169b7d16a4c5540ae9f69d88cd9c939506fab",
+    "size": 557
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bharata Postcard",
+        "class_id": "20211",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "While scouting for info about the Demon God in Bharata, the snail also recorded a lot of local customs, which were brought together in this postcard. You can read it to kill time and post it online to get many likes!",
+        "fame": "17",
+        "art": "30",
+        "fth": "10",
+        "civ": "16",
+        "tech": "17",
+        "ss1": "Bharata Museum Medal Output +5",
+        "ss2": "Bharata Museum Medal Output +10",
+        "ss3": "Bharata Museum Medal Output +15",
+        "ss4": "Bharata Museum Medal Output +15",
+        "ss7": "Bharata Museum Medal Output +15<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bharata_Postcard.wiki",
+  "markdown_path": "markdown/Bharata_Postcard.md"
+}

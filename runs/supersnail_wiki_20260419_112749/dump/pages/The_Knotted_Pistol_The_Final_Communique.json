@@ -1,0 +1,33 @@
+{
+  "pageid": 4590,
+  "ns": 0,
+  "title": "The Knotted Pistol+The Final Communique",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Knotted_Pistol%2BThe_Final_Communique",
+  "touched": "2025-06-20T00:01:35Z",
+  "length": 174,
+  "lastrevid": 35795,
+  "revision": {
+    "revid": 35795,
+    "parentid": 18340,
+    "timestamp": "2025-06-20T00:01:35Z",
+    "sha1": "584010e7d56e545d7c46c07ce30be45c4e22315f",
+    "size": 174
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "307",
+        "relics": "The Knotted Pistol,The Final Communique",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Angel Minions in battle: Troop HP +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Knotted_Pistol_The_Final_Communique.wiki",
+  "markdown_path": "markdown/The_Knotted_Pistol_The_Final_Communique.md"
+}

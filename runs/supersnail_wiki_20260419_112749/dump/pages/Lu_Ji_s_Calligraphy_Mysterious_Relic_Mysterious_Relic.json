@@ -1,0 +1,33 @@
+{
+  "pageid": 6532,
+  "ns": 0,
+  "title": "Lu Ji's Calligraphy+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lu_Ji%27s_Calligraphy%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2025-08-11T10:45:49Z",
+  "length": 179,
+  "lastrevid": 38006,
+  "revision": {
+    "revid": 38006,
+    "parentid": 26773,
+    "timestamp": "2025-08-11T10:45:49Z",
+    "sha1": "211f032791e639b4afe0fc21cb0df5f265cf000e",
+    "size": 179
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "865",
+        "relics": "Lu Ji's Calligraphy,Mysterious Relic,Mysterious Relic",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "All Minion Skins, HARD Stats +24%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lu_Ji_s_Calligraphy_Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Lu_Ji_s_Calligraphy_Mysterious_Relic_Mysterious_Relic.md"
+}

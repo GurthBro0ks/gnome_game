@@ -1,0 +1,53 @@
+{
+  "pageid": 6620,
+  "ns": 0,
+  "title": "Infin. Improb. Eng.",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Infin._Improb._Eng.",
+  "touched": "2025-09-30T10:43:37Z",
+  "length": 2524,
+  "lastrevid": 37839,
+  "revision": {
+    "revid": 37839,
+    "parentid": 37154,
+    "timestamp": "2025-08-11T10:42:00Z",
+    "sha1": "0a17c7c9d75dfa480fe56448cd9a2a7eaa448d97",
+    "size": 2524
+  },
+  "categories": [
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Infin. Improb. Eng.",
+        "class_id": "22914",
+        "rank": "SSS",
+        "affct": "TECH",
+        "description": "The Infinite Improbability Engine is the driving core of a spaceship in the Hitchhiker's Guide to the Galaxy, creating an improbability field that harnesses power from the impossibility of things, turning events that normally couldn't happen into possibilities. It enables the ship to perform seemingly impossible spatial jumps, instantly transferring individuals ejected from the ship to another, thereby circumventing the traditional limitations of space travel.",
+        "fame": "64",
+        "art": "57",
+        "fth": "69",
+        "civ": "64",
+        "tech": "108",
+        "ss1": "Snail DEF +30<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +30<br>Per 3 Epic Protodex Entries, Snail ATK +9<br>Epic Protodex Entries: 60/60",
+        "ss2": "Snail DEF +40<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +40<br>Per 3 Epic Protodex Entries, Snail ATK +12<br>Epic Protodex Entries: 60/60",
+        "ss3": "Snail DEF +50<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +50<br>Per 3 Epic Protodex Entries, Snail ATK +15<br>Epic Protodex Entries: 60/60",
+        "ss4": "Snail DEF +70<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +70<br>Per 3 Epic Protodex Entries, Snail ATK +21<br>Epic Protodex Entries: 60/60",
+        "ss5": "Snail DEF +90<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +90<br>Per 3 Epic Protodex Entries, Snail ATK +27<br>Epic Protodex Entries: 60/60",
+        "ss6": "Snail DEF +120<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 3 Epic Protodex Entries, Snail ATK +36<br>Epic Protodex Entries: 60/60",
+        "ss7": "Snail DEF +120<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +120<br>Per 3 Epic Protodex Entries, Snail ATK +36<br>Epic Protodex Entries: 60/60<br>Per 60 T7+ Minions in battle:<br>> Troop ATK +100 (Awakened)",
+        "skill1": "[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp production +15%",
+        "skill2": "[[File:Quantumamp  skill III.png|50px]]Place in Quantum Amp: This Relic's TECH +15",
+        "skill3": "[[File:Quantumamp  skill III.png|50px]]Place in a Quantum Amp: Quantum Amp Max Cap +30%",
+        "mirage": "{{Mirage|name=Galactic Odyssey|reward={{RewardIconWithLink|Super Cultivation Fluid, +2|orange}}\n|3name=Ford Prefect|3rec=356.64M|3atk=852658|3defense=483413|3hp=188572617|3weak=72000\n|4name=Zaphod|4rec=452.49M|4atk=1010890|4defense=569651|4hp=313204234|4weak=77873\n|5name=Trillian|5rec=590.33M|5atk=1278318|5defense=693654|5hp=535633523|5weak=85493\n|6name=Arthur Dent|6rec=793.45M|6atk=1849919|6defense=900483|6hp=887145815|6weak=93950\n|Arec=1122.50M|Aatk=2833110|Adefense=1233789|Ahp=1657278478|Awea …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Infin._Improb._Eng..wiki",
+  "markdown_path": "markdown/Infin._Improb._Eng..md"
+}

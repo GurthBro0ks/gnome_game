@@ -1,0 +1,33 @@
+{
+  "pageid": 8534,
+  "ns": 0,
+  "title": "Lyot Filter+Raman Spectroscopy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lyot_Filter%2BRaman_Spectroscopy",
+  "touched": "2025-06-20T00:14:52Z",
+  "length": 192,
+  "lastrevid": 36042,
+  "revision": {
+    "revid": 36042,
+    "parentid": 34429,
+    "timestamp": "2025-06-20T00:14:52Z",
+    "sha1": "69d29fc02b335ce4d7873f7012886dffe7e2418e",
+    "size": 192
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "658",
+        "relics": "Lyot Filter,Raman Spectroscopy",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Tribal Chief defeated, Snail DEF +6;Tribal Chiefs Defeated: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lyot_Filter_Raman_Spectroscopy.wiki",
+  "markdown_path": "markdown/Lyot_Filter_Raman_Spectroscopy.md"
+}

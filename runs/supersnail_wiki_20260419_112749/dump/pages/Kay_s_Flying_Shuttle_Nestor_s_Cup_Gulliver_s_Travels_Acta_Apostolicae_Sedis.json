@@ -1,0 +1,33 @@
+{
+  "pageid": 8869,
+  "ns": 0,
+  "title": "Kay's Flying Shuttle+Nestor's Cup+Gulliver's Travels+Acta Apostolicae Sedis",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kay%27s_Flying_Shuttle%2BNestor%27s_Cup%2BGulliver%27s_Travels%2BActa_Apostolicae_Sedis",
+  "touched": "2025-06-19T23:54:18Z",
+  "length": 238,
+  "lastrevid": 35672,
+  "revision": {
+    "revid": 35672,
+    "parentid": 34864,
+    "timestamp": "2025-06-19T23:54:18Z",
+    "sha1": "90ffda285ba8f80067d48ed88e3c5dd7f67419b3",
+    "size": 238
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "358",
+        "relics": "Kay's Flying Shuttle,Nestor's Cup,Gulliver's Travels,Acta Apostolicae Sedis",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 100k Relic Points gained, Snail DEF +7;Relic Points: 5000000/5000000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kay_s_Flying_Shuttle_Nestor_s_Cup_Gulliver_s_Travels_Acta_Apostolicae_Sedis.wiki",
+  "markdown_path": "markdown/Kay_s_Flying_Shuttle_Nestor_s_Cup_Gulliver_s_Travels_Acta_Apostolicae_Sedis.md"
+}

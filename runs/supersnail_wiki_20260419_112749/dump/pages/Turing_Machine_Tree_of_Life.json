@@ -1,0 +1,35 @@
+{
+  "pageid": 3642,
+  "ns": 0,
+  "title": "Turing Machine+Tree of Life",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Turing_Machine%2BTree_of_Life",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 215,
+  "lastrevid": 18407,
+  "revision": {
+    "revid": 18407,
+    "parentid": 17756,
+    "timestamp": "2023-11-13T21:38:37Z",
+    "sha1": "5b4ed498b8e04107a337b30c3c171622026dcf65",
+    "size": 215
+  },
+  "categories": [
+    "Minion",
+    "Minion ATK Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Turing Machine,Tree of Life",
+        "rank": "purple",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 30 Minions in battle: Troop ATK +24"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Turing_Machine_Tree_of_Life.wiki",
+  "markdown_path": "markdown/Turing_Machine_Tree_of_Life.md"
+}

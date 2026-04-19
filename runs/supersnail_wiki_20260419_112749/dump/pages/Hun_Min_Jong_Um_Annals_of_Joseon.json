@@ -1,0 +1,33 @@
+{
+  "pageid": 3277,
+  "ns": 0,
+  "title": "Hun Min Jong Um+Annals of Joseon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hun_Min_Jong_Um%2BAnnals_of_Joseon",
+  "touched": "2025-08-11T10:34:58Z",
+  "length": 185,
+  "lastrevid": 37543,
+  "revision": {
+    "revid": 37543,
+    "parentid": 11942,
+    "timestamp": "2025-08-11T10:34:58Z",
+    "sha1": "301f3dcbf964c5d4ead065f3a9e3301f7dbd66b3",
+    "size": 185
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "48",
+        "relics": "Hun Min Jong Um,Annals of Joseon",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 20 Blue Orbs drawn, Snail RUSH +10;Blue Orbs Drawn: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hun_Min_Jong_Um_Annals_of_Joseon.wiki",
+  "markdown_path": "markdown/Hun_Min_Jong_Um_Annals_of_Joseon.md"
+}

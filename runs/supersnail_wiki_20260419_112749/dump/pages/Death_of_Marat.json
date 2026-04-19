@@ -1,0 +1,60 @@
+{
+  "pageid": 1955,
+  "ns": 0,
+  "title": "Death of Marat",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Death_of_Marat",
+  "touched": "2024-11-04T01:11:06Z",
+  "length": 2045,
+  "lastrevid": 28744,
+  "revision": {
+    "revid": 28744,
+    "parentid": 26262,
+    "timestamp": "2024-08-12T17:11:14Z",
+    "sha1": "32950ea5f4cd6d0d3217e1c5b3fc58c897b0b8ef",
+    "size": 2045
+  },
+  "categories": [
+    "ART Relics",
+    "Demon Gene Speedup Boost",
+    "Exploration Reagent Drop Boost",
+    "Indigent Nobleman Relics",
+    "Koryeo Exploration Boost",
+    "Koryeo Museum Boost",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Quarry Output Boost",
+    "Relics",
+    "Zombie Cell Drop Boost",
+    "Zombie Gene Cost Reduction",
+    "Zombie Gene Speedup Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Death of Marat",
+        "rank": "AA",
+        "affct": "ART",
+        "birthday": "10-31",
+        "source": "* Expert Scrolls (0.95%), Fragment Crafting (3.9%), Lottery Machine (0.08%), Wishing (0.36%)\n* [[Indigent Nobleman]] (210k {{RewardIconWithText|B-Tad}})",
+        "description": "On Oct 31, 1793, David made this portrait to remember Marat, the leader of the Jacobins. The picture's backstory is about Charlotte Corday, who was against tyranny, sneaked into Marat's bathroom and assassinated the unsuspecting politician. Marat was the leader of Jacobin during the French Revolution. He was hated by many due to his cruel and brutal treatment of his political enemies. As he had a serious skin disease, he needed to soak in medicine for a long time, which gave others the chance to …",
+        "fame": "43",
+        "art": "69",
+        "fth": "45",
+        "civ": "41",
+        "tech": "30",
+        "ss1": "Zombie Gene Research SPD +1.2%<br>Zombie Gene Research Cells consumed -1.2%",
+        "ss2": "Zombie Gene Research SPD +1.8%<br>Zombie Gene Research Cells consumed -1.8%",
+        "ss3": "Zombie Gene Research SPD +2.4%<br>Zombie Gene Research Cells consumed -2.4%",
+        "ss4": "Zombie Gene Research SPD +3.6%<br>Zombie Gene Research Cells consumed -3.6%",
+        "ss5": "Zombie Gene Research SPD +4.8%<br>Zombie Gene Research Cells consumed -4.8%",
+        "ss7": "Zombie Gene Research SPD +4.8%<br>Zombie Gene Research Cells consumed -4.8%<br>Zombie Gene Research SPD +4.2% (Awakened)",
+        "skill1": "[[File:Koryeo skill II.png|50px]] Place in Koryeon Museum: In Koryeo, 2x Blue Reagent Drops +7.5%",
+        "skill2": "[[File:Koryeo skill II.png|50px]] Place in Koryeon Museum: In Koryeo, Zombie Cells gained +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Death_of_Marat.wiki",
+  "markdown_path": "markdown/Death_of_Marat.md"
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 7999,
+  "ns": 0,
+  "title": "Hoysala Dynasty Dancer Statue+Gitanjali",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hoysala_Dynasty_Dancer_Statue%2BGitanjali",
+  "touched": "2025-03-23T18:31:09Z",
+  "length": 249,
+  "lastrevid": 33452,
+  "revision": {
+    "revid": 33452,
+    "parentid": 0,
+    "timestamp": "2025-02-22T03:03:16Z",
+    "sha1": "02c2d2ef1c7ec8118c01b643f31b14bc93bf5fb5",
+    "size": 249
+  },
+  "categories": [
+    "DEF Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Hoysala Dynasty Dancer Statue,Gitanjali",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Red Organ transplanted, Snail DEF +7; Red Organs transplanted: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hoysala_Dynasty_Dancer_Statue_Gitanjali.wiki",
+  "markdown_path": "markdown/Hoysala_Dynasty_Dancer_Statue_Gitanjali.md"
+}

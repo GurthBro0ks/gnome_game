@@ -1,0 +1,36 @@
+{
+  "pageid": 7976,
+  "ns": 0,
+  "title": "Graphene Tape+Forbes List+Empress's Coronation Crown+Carmen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Graphene_Tape%2BForbes_List%2BEmpress%27s_Coronation_Crown%2BCarmen",
+  "touched": "2025-03-23T18:30:25Z",
+  "length": 310,
+  "lastrevid": 33429,
+  "revision": {
+    "revid": 33429,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:22:39Z",
+    "sha1": "4a900e9b8e04ab804c0400062a1207215c8e96d0",
+    "size": 310
+  },
+  "categories": [
+    "Enhanced by FTH Relics Awakened",
+    "HP Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Graphene Tape,Forbes List,Empress's Coronation Crown,Carmen",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 3 FTH Relics awakened, Snail HP +90; FTH Relics Awakened: 180/180"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Graphene_Tape_Forbes_List_Empress_s_Coronation_Crown_Carmen.wiki",
+  "markdown_path": "markdown/Graphene_Tape_Forbes_List_Empress_s_Coronation_Crown_Carmen.md"
+}

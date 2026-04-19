@@ -1,0 +1,61 @@
+{
+  "pageid": 711,
+  "ns": 0,
+  "title": "Rosetta Stone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rosetta_Stone",
+  "touched": "2024-09-06T09:59:07Z",
+  "length": 1933,
+  "lastrevid": 21817,
+  "revision": {
+    "revid": 21817,
+    "parentid": 17690,
+    "timestamp": "2024-01-12T03:35:03Z",
+    "sha1": "30d66cbcdc1770df87082b96ff68b447c2e58afb",
+    "size": 1933
+  },
+  "categories": [
+    "ATK Boost",
+    "Angel Cell Drop Boost",
+    "Drawn Dragon Boost",
+    "Exploration Cell Drop Boost",
+    "Exploration Compass Boost",
+    "FAME Relics",
+    "Fungus Farm Upgrade Cost Reduction",
+    "Gene Simulation Compass Boost",
+    "HP Boost",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relics",
+    "Tadpole Pond Output Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Rosetta Stone",
+        "rank": "A",
+        "affct": "FAME",
+        "birthday": "04-1",
+        "source": "Fragment Crafting (31%), Lottery Machine (0.66%), Wishing (2.8%), Kemetic Treasure Maps (10%), Expert Scrolls (7.6%)",
+        "description": "On Apr 19, 196 BC, the King of Ptolemaic Egypt, Ptolemy V Epiphanes, issued this edict of surrender.\n\nFacing the aggressive Alexander Empire, the 13-year-old Ptolemy V appointed Aristomenes as the new prime minister and regent. Most of Egypt's territory on the east of the Aegean Sea was taken over by the Seleucid Kingdom of the Alexander Empire at that time. The ambitious Seleucid King Antiochus III was unsatisfied and had formulated a detailed plan to attack Egypt. The new Prime Minister sugges …",
+        "fame": "61",
+        "art": "31",
+        "fth": "44",
+        "civ": "44",
+        "tech": "33",
+        "ss1": "Snail RUSH +10<br>Fungus Farm upgrade Stone Cost -1%",
+        "ss2": "Snail RUSH +20<br>Fungus Farm upgrade Stone Cost -2%",
+        "ss3": "Snail RUSH +30<br>Fungus Farm upgrade Stone Cost -3%",
+        "ss4": "Snail RUSH +50<br>Fungus Farm upgrade Stone Cost -5%",
+        "ss5": "Snail RUSH +70<br>Fungus Farm upgrade stone cost -7%",
+        "ss7": "Snail RUSH +70<br>Fungus Farm upgrade stone cost -7%<br>Snail RUSH +70 (Awakened)",
+        "skill1": "[[File:Genesim skill II.png|50px]] Place in Gene Sim Device: Snail ATK +30",
+        "skill2": "[[File:Compass skill II.png|50px]] Place in Exploration Compass: Snail HP +300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Rosetta_Stone.wiki",
+  "markdown_path": "markdown/Rosetta_Stone.md"
+}

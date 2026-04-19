@@ -1,0 +1,47 @@
+{
+  "pageid": 1843,
+  "ns": 0,
+  "title": "Research Notes",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Research_Notes",
+  "touched": "2025-08-11T10:54:51Z",
+  "length": 754,
+  "lastrevid": 38398,
+  "revision": {
+    "revid": 38398,
+    "parentid": 19412,
+    "timestamp": "2025-08-11T10:54:51Z",
+    "sha1": "3dfce95a192324b347c1c505914692654f8690f5",
+    "size": 754
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Research Notes",
+        "class_id": "20334",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "To fight the Demon Gods, Earth's Will gathered his brain trust and founded the Academy of Sciences, specializing in the study of Demon God anatomy and weaknesses. To expedite the research, they took some extraordinary measures, which were recorded in detail...",
+        "fame": "18",
+        "art": "15",
+        "fth": "13",
+        "civ": "14",
+        "tech": "31",
+        "ss1": "When you defeat Ex Academic:<br>> Travel Speedup gained +30m",
+        "ss2": "When you defeat Ex Academic:<br>> Travel Speedup gained +1h",
+        "ss3": "When you defeat Ex Academic:<br>> Travel Speedup gained +1h 30m",
+        "ss4": "When you defeat Ex Academic:<br>> Travel Speedup gained +1h 30m",
+        "ss7": "When you defeat Ex Academic:<br>> Travel Speedup gained +1h 30m<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Research_Notes.wiki",
+  "markdown_path": "markdown/Research_Notes.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 11248,
+  "ns": 0,
+  "title": "Jade Rabbit Goblet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jade_Rabbit_Goblet",
+  "touched": "2025-08-11T11:17:59Z",
+  "length": 773,
+  "lastrevid": 39402,
+  "revision": {
+    "revid": 39402,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:17:59Z",
+    "sha1": "e0cd5bfa12e2f39762283d6ddbec0bb5539541b5",
+    "size": 773
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Jade Rabbit Goblet",
+        "class_id": "20926",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "When the laurel tree in the Moon Palace blooms, the fragrance of its flowers fills the air for miles around. At this time, Chang'e would have the Jade Rabbit collect the fallen flowers, soak and brew them into wine, which is then served in the Jade Rabbit Goblet.",
+        "fame": "31",
+        "art": "15",
+        "fth": "15",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Per Apostle dominated, Snail DEF +1<br>Apostles Dominated: 40/40",
+        "ss2": "Per Apostle dominated, Snail DEF +2<br>Apostles Dominated: 40/40",
+        "ss3": "Per Apostle dominated, Snail DEF +3<br>Apostles Dominated: 40/40",
+        "ss4": "Per Apostle dominated, Snail DEF +3<br>Apostles Dominated: 40/40",
+        "ss7": "Per Apostle dominated, Snail DEF +3<br>Apostles Dominated: 40/40<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jade_Rabbit_Goblet.wiki",
+  "markdown_path": "markdown/Jade_Rabbit_Goblet.md"
+}

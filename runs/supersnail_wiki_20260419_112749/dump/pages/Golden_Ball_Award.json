@@ -1,0 +1,47 @@
+{
+  "pageid": 987,
+  "ns": 0,
+  "title": "Golden Ball Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Ball_Award",
+  "touched": "2025-08-11T10:53:33Z",
+  "length": 654,
+  "lastrevid": 38345,
+  "revision": {
+    "revid": 38345,
+    "parentid": 25152,
+    "timestamp": "2025-08-11T10:53:33Z",
+    "sha1": "9de5ba534b407b2c8b4fab62a677d5747da7dae8",
+    "size": 654
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Golden Ball Award",
+        "class_id": "20069",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The Golden Ball Award is a film and television award festival in Murika held in the form of a formal dinner. Organized by the Huullywood Foreign Press Association, the event is held annually and features a total of 24 awards, voted on by 96 journalists.",
+        "fame": "17",
+        "art": "15",
+        "fth": "12",
+        "civ": "31",
+        "tech": "15",
+        "ss1": "Lottery Purple Orbs turn to Orange by +0.5%",
+        "ss2": "Lottery Purple Orbs turn to Orange by +1%",
+        "ss3": "Lottery Purple Orbs turn to Orange by +1.5%",
+        "ss4": "Lottery Purple Orbs turn to Orange by +1.5%",
+        "ss7": "Lottery Purple Orbs turn to Orange by +1.5%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Ball_Award.wiki",
+  "markdown_path": "markdown/Golden_Ball_Award.md"
+}

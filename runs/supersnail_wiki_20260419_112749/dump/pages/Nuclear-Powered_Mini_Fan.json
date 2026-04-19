@@ -1,0 +1,47 @@
+{
+  "pageid": 7452,
+  "ns": 0,
+  "title": "Nuclear-Powered Mini Fan",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nuclear-Powered_Mini_Fan",
+  "touched": "2025-08-11T10:47:26Z",
+  "length": 971,
+  "lastrevid": 38074,
+  "revision": {
+    "revid": 38074,
+    "parentid": 31152,
+    "timestamp": "2025-08-11T10:47:26Z",
+    "sha1": "021a7fd2317ef493145a8a4ef9fd34ec283b22c0",
+    "size": 971
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Nuclear-Powered Mini Fan",
+        "class_id": "20828",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "To enjoy coolness anywhere and anytime during hot summers, the dev team customized this compact fan. Utilizing an internal miniature reactor, it provides a steady and lasting supply of cool air to its user. The only caution is to avoid exposing it to excessive impact.",
+        "fame": "12",
+        "art": "19",
+        "fth": "15",
+        "civ": "11",
+        "tech": "31",
+        "ss1": "Free Gene Speedup (Mecha) +6m<br>Per 5 Rocket Tech LVLs, Snail ATK +4<br>Rocket Tech Upgraded: 50/50",
+        "ss2": "Free Gene Speedup (Mecha) +12m<br>Per 5 Rocket Tech LVLs, Snail ATK +8<br>Rocket Tech Upgraded: 50/50",
+        "ss3": "Free Gene Speedup (Mecha) +18m<br>Per 5 Rocket Tech LVLs, Snail ATK +12<br>Rocket Tech Upgraded: 50/50",
+        "ss4": "Free Gene Speedup (Mecha) +18m<br>Per 5 Rocket Tech LVLs, Snail ATK +12<br>Rocket Tech Upgraded: 50/50",
+        "ss7": "Free Gene Speedup (Mecha) +18m<br>Per 5 Rocket Tech LVLs, Snail ATK +12<br>Rocket Tech Upgraded: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nuclear-Powered_Mini_Fan.wiki",
+  "markdown_path": "markdown/Nuclear-Powered_Mini_Fan.md"
+}

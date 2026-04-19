@@ -1,0 +1,33 @@
+{
+  "pageid": 10017,
+  "ns": 0,
+  "title": "Frederick Portrait+Lincoln Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Frederick_Portrait%2BLincoln_Statue",
+  "touched": "2025-08-11T10:35:09Z",
+  "length": 203,
+  "lastrevid": 37551,
+  "revision": {
+    "revid": 37551,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:35:09Z",
+    "sha1": "6442b51f90d53903ddae19952b483f779d5ddf98",
+    "size": 203
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "515",
+        "relics": "Frederick Portrait,Lincoln Statue",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1.5k Museum Medals gained, Snail HP +70;Museum Medals Gained: 60000/60000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Frederick_Portrait_Lincoln_Statue.wiki",
+  "markdown_path": "markdown/Frederick_Portrait_Lincoln_Statue.md"
+}

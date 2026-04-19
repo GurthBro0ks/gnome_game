@@ -1,0 +1,47 @@
+{
+  "pageid": 3134,
+  "ns": 0,
+  "title": "Mantis Specimen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mantis_Specimen",
+  "touched": "2025-08-11T11:08:47Z",
+  "length": 797,
+  "lastrevid": 39004,
+  "revision": {
+    "revid": 39004,
+    "parentid": 32212,
+    "timestamp": "2025-08-11T11:08:47Z",
+    "sha1": "a31a63e689888c4e266cf5a05948ec5b6a3a5a05",
+    "size": 797
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mantis Specimen",
+        "class_id": "20258",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This lifelike specimen of Mantis comes from an abandoned coliseum. When it was discovered by the investigation team of the Snail Clan, it still maintained the posture of wrestling with its opponent. Because of its well-preserved condition, it played a significant role in the research of Mantis. In addition, expert analysis shows that the injuries were not the cause of death, but the bursting of adrenal glands during training.",
+        "fame": "14",
+        "art": "15",
+        "fth": "31",
+        "civ": "13",
+        "tech": "17",
+        "ss1": "Against Mantises, Troop Casualty -1%",
+        "ss2": "Against Mantises, Troop Casualty -2%",
+        "ss3": "Against Mantises, Troop Casualty -3%",
+        "ss4": "Against Mantises, Troop Casualty -3%",
+        "ss7": "Against Mantises, Troop Casualty -3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mantis_Specimen.wiki",
+  "markdown_path": "markdown/Mantis_Specimen.md"
+}

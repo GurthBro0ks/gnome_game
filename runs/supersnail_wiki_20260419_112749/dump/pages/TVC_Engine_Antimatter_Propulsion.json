@@ -1,0 +1,33 @@
+{
+  "pageid": 8698,
+  "ns": 0,
+  "title": "TVC Engine+Antimatter Propulsion",
+  "fullurl": "https://supersnail.wiki.gg/wiki/TVC_Engine%2BAntimatter_Propulsion",
+  "touched": "2025-06-16T20:54:12Z",
+  "length": 144,
+  "lastrevid": 34666,
+  "revision": {
+    "revid": 34666,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:54:12Z",
+    "sha1": "dc82e980082943ebfabf9478f205207faf9d3ca1",
+    "size": 144
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "727",
+        "relics": "TVC Engine,Antimatter Propulsion",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/TVC_Engine_Antimatter_Propulsion.wiki",
+  "markdown_path": "markdown/TVC_Engine_Antimatter_Propulsion.md"
+}

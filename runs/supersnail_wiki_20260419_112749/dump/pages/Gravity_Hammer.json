@@ -1,0 +1,29 @@
+{
+  "pageid": 2989,
+  "ns": 0,
+  "title": "Gravity Hammer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gravity_Hammer",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 481,
+  "lastrevid": 12199,
+  "revision": {
+    "revid": 12199,
+    "parentid": 11866,
+    "timestamp": "2023-09-14T11:15:15Z",
+    "sha1": "f89ca94ac240a28151ef38c4f28a1fe859e46390",
+    "size": 481
+  },
+  "categories": [
+    "Bharata",
+    "DEF Boost",
+    "Earth DMG Boost",
+    "HP Boost",
+    "Mecha Form",
+    "Shells",
+    "TECH Shells"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Gravity_Hammer.wiki",
+  "markdown_path": "markdown/Gravity_Hammer.md"
+}

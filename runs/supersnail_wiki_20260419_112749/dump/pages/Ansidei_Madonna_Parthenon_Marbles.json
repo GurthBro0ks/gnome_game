@@ -1,0 +1,33 @@
+{
+  "pageid": 3783,
+  "ns": 0,
+  "title": "Ansidei Madonna+Parthenon Marbles",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ansidei_Madonna%2BParthenon_Marbles",
+  "touched": "2025-08-11T11:13:47Z",
+  "length": 214,
+  "lastrevid": 39219,
+  "revision": {
+    "revid": 39219,
+    "parentid": 13681,
+    "timestamp": "2025-08-11T11:13:47Z",
+    "sha1": "ee29e275e511df2c31d0a4a11b935899a6cf5f26",
+    "size": 214
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "499",
+        "relics": "Ansidei Madonna,Parthenon Marbles",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "When refining, there exists a +7% chance for White Building Materials to turn into Green"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ansidei_Madonna_Parthenon_Marbles.wiki",
+  "markdown_path": "markdown/Ansidei_Madonna_Parthenon_Marbles.md"
+}

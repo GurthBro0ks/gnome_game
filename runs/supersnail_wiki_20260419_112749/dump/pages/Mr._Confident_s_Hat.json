@@ -1,0 +1,47 @@
+{
+  "pageid": 10042,
+  "ns": 0,
+  "title": "Mr. Confident's Hat",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mr._Confident%27s_Hat",
+  "touched": "2025-08-11T10:36:05Z",
+  "length": 725,
+  "lastrevid": 37594,
+  "revision": {
+    "revid": 37594,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:36:05Z",
+    "sha1": "9b4797105c4f852a3db8b4414fbbf65c7e6aa261",
+    "size": 725
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mr. Confident's Hat",
+        "class_id": "20339",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "As the spokesperson of Confident Toothpaste for decades, the image of Mr. Confident is highly recognizable, especially this towering top hat, which not only makes the wearer more attractive but also helps get closer to customers with nostalgic vibes. Naturally, such an iconic headwear is certainly a worthy collection!",
+        "fame": "15",
+        "art": "11",
+        "fth": "17",
+        "civ": "16",
+        "tech": "31",
+        "ss1": "The Pond has a +2% chance to produce W-tads",
+        "ss2": "The Pond has a +4% chance to produce W-tads",
+        "ss3": "The Pond has a +6% chance to produce W-tads",
+        "ss4": "The Pond has a +6% chance to produce W-tads",
+        "ss7": "The Pond has a +6% chance to produce W-tads<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mr._Confident_s_Hat.wiki",
+  "markdown_path": "markdown/Mr._Confident_s_Hat.md"
+}

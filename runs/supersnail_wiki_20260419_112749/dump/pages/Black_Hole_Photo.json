@@ -1,0 +1,47 @@
+{
+  "pageid": 69,
+  "ns": 0,
+  "title": "Black Hole Photo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Black_Hole_Photo",
+  "touched": "2025-08-11T10:43:19Z",
+  "length": 729,
+  "lastrevid": 37897,
+  "revision": {
+    "revid": 37897,
+    "parentid": 28037,
+    "timestamp": "2025-08-11T10:43:19Z",
+    "sha1": "a0f6e391e31c67b6efa5f7cd16beb769e0644955",
+    "size": 729
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Black Hole Photo",
+        "class_id": "20309",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "This photo, taken by the Event Horizon Telescope, shows a super-massive blackhole that is 55 million light-years away from Earth. It weighs equivalent to 6.5 billion suns. This photo conclusively proves the theory of general relativity.",
+        "fame": "16",
+        "art": "10",
+        "fth": "21",
+        "civ": "13",
+        "tech": "30",
+        "ss1": "Per 400 Relic Points, Snail DEF +3<br>Relic Points: 2000/2000",
+        "ss2": "Per 400 Relic Points, Snail DEF +3<br>Relic Points: 4000/4000",
+        "ss3": "Per 400 Relic Points, Snail DEF +3<br>Relic Points: 6000/6000",
+        "ss4": "Per 400 Relic Points, Snail DEF +3<br>Relic Points: 6000/6000",
+        "ss7": "Per 400 Relic Points, Snail DEF +3<br>Relic Points: 6000/6000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Black_Hole_Photo.wiki",
+  "markdown_path": "markdown/Black_Hole_Photo.md"
+}

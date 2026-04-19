@@ -1,0 +1,48 @@
+{
+  "pageid": 7230,
+  "ns": 0,
+  "title": "Huaqiang's Motorcycle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Huaqiang%27s_Motorcycle",
+  "touched": "2025-10-05T12:30:53Z",
+  "length": 1125,
+  "lastrevid": 40822,
+  "revision": {
+    "revid": 40822,
+    "parentid": 37512,
+    "timestamp": "2025-10-05T12:30:53Z",
+    "sha1": "992b6e6a4dd3d948cf1ec6642e2980e34389825b",
+    "size": 1125
+  },
+  "categories": [
+    "ATK Boost",
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "HP Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Huaqiang's Motorcycle",
+        "class_id": "20737",
+        "rank": "Green",
+        "affct": "FTH",
+        "source": "Win 6 times in [[Minigames]] (Fruit Frenzy)",
+        "description": "A man was selling melons by the roadside. Hua Qiang rode up on his motorcycle and asked, \"How much per pound?\" The vendor quoted a price as if it were gold, explaining that these were greenhouse melons. Hua Qiang inquired if they were guaranteed to be ripe. Realizing he was being nitpicked, the vendor hung a huge magnet on the weighing scale. Hua Qiang split a melon to show the vendor what's what. A buddy named Sa Ri Lang watched as Hua Qiang rode away coolly on his motorcycle, skr.",
+        "fame": "13",
+        "art": "13",
+        "fth": "34",
+        "civ": "15",
+        "tech": "15",
+        "ss1": "Per 1 Large Watermelon crafted, Snail HP +10<br>Per 1 Large Watermelon crafted, Snail ATK +1<br>Large Watermelons Crafted: 10/10",
+        "ss2": "Per 1 Large Watermelon crafted, Snail HP +20<br>Per 1 Large Watermelon crafted, Snail ATK +2<br>Large Watermelons Crafted: 10/10",
+        "ss3": "Per 1 Large Watermelon crafted, Snail HP +30<br>Per 1 Large Watermelon crafted, Snail ATK +3<br>Large Watermelons Crafted: 10/10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Huaqiang_s_Motorcycle.wiki",
+  "markdown_path": "markdown/Huaqiang_s_Motorcycle.md"
+}

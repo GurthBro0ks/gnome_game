@@ -1,0 +1,47 @@
+{
+  "pageid": 587,
+  "ns": 0,
+  "title": "Gloomy Sunday",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gloomy_Sunday",
+  "touched": "2025-08-11T10:54:08Z",
+  "length": 632,
+  "lastrevid": 38367,
+  "revision": {
+    "revid": 38367,
+    "parentid": 17159,
+    "timestamp": "2025-08-11T10:54:08Z",
+    "sha1": "46927aa1f22718f7b6a06dd0294eba7919679150",
+    "size": 632
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gloomy Sunday",
+        "class_id": "20027",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "Rumor has it that this track has caused countless people to suffer from depression and even made some commit suicide. However, recent findings show that these were gimmicks publishers pulled to increase the track's popularity!",
+        "fame": "11",
+        "art": "19",
+        "fth": "26",
+        "civ": "16",
+        "tech": "18",
+        "ss1": "Per Sign-In, Snail DEF +2<br>Sign-Ins: 20/20",
+        "ss2": "Per Sign-In, Snail DEF +4<br>Sign-Ins: 20/20",
+        "ss3": "Per Sign-In, Snail DEF +6<br>Sign-Ins: 20/20",
+        "ss4": "Per Sign-In, Snail DEF +6<br>Sign-Ins: 20/20",
+        "ss7": "Per Sign-In, Snail DEF +6<br>Sign-Ins: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gloomy_Sunday.wiki",
+  "markdown_path": "markdown/Gloomy_Sunday.md"
+}

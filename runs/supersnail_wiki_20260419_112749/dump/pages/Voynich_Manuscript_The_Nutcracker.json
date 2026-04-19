@@ -1,0 +1,33 @@
+{
+  "pageid": 10923,
+  "ns": 0,
+  "title": "Voynich Manuscript+The Nutcracker",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Voynich_Manuscript%2BThe_Nutcracker",
+  "touched": "2025-08-11T11:05:43Z",
+  "length": 166,
+  "lastrevid": 38870,
+  "revision": {
+    "revid": 38870,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:05:43Z",
+    "sha1": "052fc317aa1fcf3314aaf3551edc6f48be1b3b76",
+    "size": 166
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "128",
+        "relics": "Voynich Manuscript,The Nutcracker",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "In explorations, Zombie Cells gained +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Voynich_Manuscript_The_Nutcracker.wiki",
+  "markdown_path": "markdown/Voynich_Manuscript_The_Nutcracker.md"
+}

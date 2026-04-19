@@ -1,0 +1,33 @@
+{
+  "pageid": 8810,
+  "ns": 0,
+  "title": "Saturn V Model+Pioneer 11",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Saturn_V_Model%2BPioneer_11",
+  "touched": "2025-06-20T00:18:49Z",
+  "length": 167,
+  "lastrevid": 36151,
+  "revision": {
+    "revid": 36151,
+    "parentid": 34792,
+    "timestamp": "2025-06-20T00:18:49Z",
+    "sha1": "be443f0a0123ba902363a0d59010228da02d74dd",
+    "size": 167
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "712",
+        "relics": "Saturn V Model,Pioneer 11",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Godhood LVL, Snail DEF +42;Godhood LVL: 10/10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Saturn_V_Model_Pioneer_11.wiki",
+  "markdown_path": "markdown/Saturn_V_Model_Pioneer_11.md"
+}

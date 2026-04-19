@@ -1,0 +1,6 @@
+|3name=Flower|3rec=172.67M|3atk=474491|3defense=286826|3hp=83638257|3weak=53954
+|4name=World|4rec=212.96M|4atk=559735|4defense=343520|4hp=126996461|4weak=59208
+|5name=Leaf|5rec=292.31M|5atk=683669|5defense=425541|5hp=217958432|5weak=65070
+|6name=Bodhi|6rec=416.87M|6atk=854516|6defense=537605|6hp=371482046|6weak=71022
+|Arec=577.86M|Aatk=1077566|Adefense=682434|Ahp=586486713|Aweak=76950
+}}}}

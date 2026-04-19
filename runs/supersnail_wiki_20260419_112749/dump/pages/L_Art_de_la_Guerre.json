@@ -1,0 +1,55 @@
+{
+  "pageid": 2857,
+  "ns": 0,
+  "title": "L'Art de la Guerre",
+  "fullurl": "https://supersnail.wiki.gg/wiki/L%27Art_de_la_Guerre",
+  "touched": "2025-09-28T08:42:20Z",
+  "length": 2677,
+  "lastrevid": 40210,
+  "revision": {
+    "revid": 40210,
+    "parentid": 39953,
+    "timestamp": "2025-09-28T08:42:20Z",
+    "sha1": "ef460fd12e22f0903729d1bc3a5ce23c8e0bc99e",
+    "size": 2677
+  },
+  "categories": [
+    "FAME Relics",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "L'Art de la Guerre",
+        "class_id": "22226",
+        "rank": "SSS",
+        "affct": "FAME",
+        "birthday": "09-28",
+        "source": "Minion Sim Choice Pack in Star Chart Shop",
+        "description": "On Sept 28, 1838 AD, the book L'Art de la Guerre (Introduction to the Art of War) was officially published.<br>This book is the work of the Swedish military scientist Antoine. It's mainly divided into 7 chapters and 47 sections, which summarize the experience of the French Revolutionary War and the Napoleon War, and formulates some advanced methods and forms of war. The author synthesizes the principles and theories of war, clarifies the composition of war art, promotes the formation and develop …",
+        "fame": "107",
+        "art": "63",
+        "fth": "49",
+        "civ": "67",
+        "tech": "76",
+        "ss1": "Snail ATK +30<br>Per 10 Unknown Records read, Snail ATK +3<br>Per 10 Unknown Records read, Snail RUSH +3<br>Unknown Records Read: 400/400",
+        "ss2": "Snail ATK +40<br>Per 10 Unknown Records read, Snail ATK +4<br>Per 10 Unknown Records read, Snail RUSH +4<br>Unknown Records Read: 400/400",
+        "ss3": "Snail ATK +50<br>Per 10 Unknown Records read, Snail ATK +5<br>Per 10 Unknown Records read, Snail RUSH +5<br>Unknown Records Read: 400/400",
+        "ss4": "Snail ATK +70<br>Per 10 Unknown Records read, Snail ATK +7<br>Per 10 Unknown Records read, Snail RUSH +7<br>Unknown Records Read: 400/400",
+        "ss5": "Snail ATK +90<br>Per 10 Unknown Records read, Snail ATK +9<br>Per 10 Unknown Records read, Snail RUSH +9<br>Unknown Records Read: 400/400",
+        "ss6": "Snail ATK +120<br>Per 10 Unknown Records read, Snail ATK +12<br>Per 10 Unknown Records read, Snail RUSH +12<br>Unknown Records Read: 400/400",
+        "ss7": "Snail ATK +120<br>Per 10 Unknown Records read, Snail ATK +12<br>Per 10 Unknown Records read, Snail RUSH +12<br>Unknown Records Read: 400/400<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop RUSH +9%",
+        "skill2": "[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop CRIT +9%",
+        "skill3": "[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop ATK +9%",
+        "mirage": "{{Mirage|name=The Art of War|reward={{RewardIconWithLink|Club Chest, +200|orange}}\n|3name=Chapter of Strategy|3rec=67.60M|3atk=208358|3defense=139004|3hp=11286873|3weak=27223\n|4name=Chapter of Tactics|4rec=86.59M|4atk=248397|4defense=165716|4hp=15317702|4weak=32102\n|5name=Rear Service Chapter|5rec=108.00M|5atk=293559|5defense=195845|5hp=20691723|5weak=35862\n|6name=Engineering Chapter|6rec=132.36M|6atk=344939|6defense=230123|6hp=27117167|6weak=39598\n|Arec=159.29M|Aatk=401717|Adefense=268001|Ahp=3 …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/L_Art_de_la_Guerre.wiki",
+  "markdown_path": "markdown/L_Art_de_la_Guerre.md"
+}

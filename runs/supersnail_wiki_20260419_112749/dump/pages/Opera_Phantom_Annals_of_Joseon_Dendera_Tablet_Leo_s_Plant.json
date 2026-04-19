@@ -1,0 +1,34 @@
+{
+  "pageid": 3328,
+  "ns": 0,
+  "title": "Opera Phantom+Annals of Joseon+Dendera Tablet+Leo's Plant",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Opera_Phantom%2BAnnals_of_Joseon%2BDendera_Tablet%2BLeo%27s_Plant",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 183,
+  "lastrevid": 12066,
+  "revision": {
+    "revid": 12066,
+    "parentid": 0,
+    "timestamp": "2023-09-13T08:47:47Z",
+    "sha1": "bf62ebf03fab08b66c315b5f7b9c5d9b89cdf998",
+    "size": 183
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Opera Phantom,Annals of Joseon,Dendera Tablet,Leo's Plant",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Snail ATK +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Opera_Phantom_Annals_of_Joseon_Dendera_Tablet_Leo_s_Plant.wiki",
+  "markdown_path": "markdown/Opera_Phantom_Annals_of_Joseon_Dendera_Tablet_Leo_s_Plant.md"
+}

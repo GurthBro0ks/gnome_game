@@ -1,0 +1,33 @@
+{
+  "pageid": 3269,
+  "ns": 0,
+  "title": "Requiem+Nocturnes",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Requiem%2BNocturnes",
+  "touched": "2025-08-11T10:58:32Z",
+  "length": 120,
+  "lastrevid": 38558,
+  "revision": {
+    "revid": 38558,
+    "parentid": 11928,
+    "timestamp": "2025-08-11T10:58:32Z",
+    "sha1": "4b91425a242f250bf793d7aba2ec0942e9f2d203",
+    "size": 120
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "15",
+        "relics": "Requiem,Nocturnes",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail DEF +50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Requiem_Nocturnes.wiki",
+  "markdown_path": "markdown/Requiem_Nocturnes.md"
+}

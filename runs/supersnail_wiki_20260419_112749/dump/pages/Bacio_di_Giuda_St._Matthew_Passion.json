@@ -1,0 +1,35 @@
+{
+  "pageid": 8299,
+  "ns": 0,
+  "title": "Bacio di Giuda+St. Matthew Passion",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bacio_di_Giuda%2BSt._Matthew_Passion",
+  "touched": "2025-04-22T03:13:23Z",
+  "length": 223,
+  "lastrevid": 34134,
+  "revision": {
+    "revid": 34134,
+    "parentid": 34133,
+    "timestamp": "2025-04-22T03:13:23Z",
+    "sha1": "99cd2949e46893c734597941f484e394047f944e",
+    "size": 223
+  },
+  "categories": [
+    "Follower Boost",
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Bacio di Giuda,St. Matthew Passion",
+        "rank": "orange",
+        "amount": "2",
+        "category": "home",
+        "description": "In Follower Recruitment, 2x Follower Drops +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bacio_di_Giuda_St._Matthew_Passion.wiki",
+  "markdown_path": "markdown/Bacio_di_Giuda_St._Matthew_Passion.md"
+}

@@ -1,0 +1,36 @@
+{
+  "pageid": 3818,
+  "ns": 0,
+  "title": "Magellan's Telescope+Origin of Species+Prometheus Torch+Unispark+Relativity Scripts",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Magellan%27s_Telescope%2BOrigin_of_Species%2BPrometheus_Torch%2BUnispark%2BRelativity_Scripts",
+  "touched": "2025-04-25T03:35:14Z",
+  "length": 305,
+  "lastrevid": 34216,
+  "revision": {
+    "revid": 34216,
+    "parentid": 18613,
+    "timestamp": "2025-04-25T03:35:14Z",
+    "sha1": "1ad373fe3e3596f00e405a9b7c8613fdf7d954c2",
+    "size": 305
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Power",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Magellan's Telescope,Origin of Species,Prometheus Torch,Unispark,Relativity Scripts",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "Per 10k Power, Snail ATK +5<br>Power: 600,000/600,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Magellan_s_Telescope_Origin_of_Species_Prometheus_Torch_Unispark_Relativity_Scripts.wiki",
+  "markdown_path": "markdown/Magellan_s_Telescope_Origin_of_Species_Prometheus_Torch_Unispark_Relativity_Scripts.md"
+}

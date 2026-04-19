@@ -1,0 +1,36 @@
+{
+  "pageid": 4205,
+  "ns": 0,
+  "title": "Luan Feather+Plants & Birds",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Luan_Feather%2BPlants_%26_Birds",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 246,
+  "lastrevid": 18611,
+  "revision": {
+    "revid": 18611,
+    "parentid": 18300,
+    "timestamp": "2023-11-14T01:27:07Z",
+    "sha1": "ca354b3593c2ffe5d66e0a0407955f5c638e7cda",
+    "size": 246
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Eggs",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Luan Feather,Plants & Birds",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Hatch 40 Eggs: Snail ATK +7, 1600/1600 Eggs hatched"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Luan_Feather_Plants_Birds.wiki",
+  "markdown_path": "markdown/Luan_Feather_Plants_Birds.md"
+}

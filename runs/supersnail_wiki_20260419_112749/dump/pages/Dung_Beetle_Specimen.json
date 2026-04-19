@@ -1,0 +1,47 @@
+{
+  "pageid": 3094,
+  "ns": 0,
+  "title": "Dung Beetle Specimen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dung_Beetle_Specimen",
+  "touched": "2025-08-11T11:10:03Z",
+  "length": 574,
+  "lastrevid": 39056,
+  "revision": {
+    "revid": 39056,
+    "parentid": 32201,
+    "timestamp": "2025-08-11T11:10:03Z",
+    "sha1": "f29c1089efa955bf82f63dfff9432edeacf5ee1d",
+    "size": 574
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dung Beetle Specimen",
+        "class_id": "20347",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "This dung beetle specimen doesn't even have a scratch on the carapace. Its traits of a dung beetle are also perfectly preserved, making this extremely valuable for research purposes.",
+        "fame": "13",
+        "art": "16",
+        "fth": "14",
+        "civ": "16",
+        "tech": "31",
+        "ss1": "Against Dung Beetles, Troop Casualty -1%",
+        "ss2": "Against Dung Beetles, Troop Casualty -2%",
+        "ss3": "Against Dung Beetles, Troop Casualty -3%",
+        "ss4": "Against Dung Beetles, Troop Casualty -3%",
+        "ss7": "Against Dung Beetles, Troop Casualty -3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dung_Beetle_Specimen.wiki",
+  "markdown_path": "markdown/Dung_Beetle_Specimen.md"
+}

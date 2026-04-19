@@ -1,0 +1,33 @@
+{
+  "pageid": 8931,
+  "ns": 0,
+  "title": "Deep Navy Computer+5th Element+AH602+Kepler Telescope+Nautilus+Dyson Sphere",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Deep_Navy_Computer%2B5th_Element%2BAH602%2BKepler_Telescope%2BNautilus%2BDyson_Sphere",
+  "touched": "2025-06-16T23:15:10Z",
+  "length": 211,
+  "lastrevid": 35067,
+  "revision": {
+    "revid": 35067,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:15:10Z",
+    "sha1": "656dafafad4cdbefa7b777a7848ae367420a29b1",
+    "size": 211
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "271",
+        "relics": "Deep Navy Computer,5th Element,AH602,Kepler Telescope,Nautilus,Dyson Sphere",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Lottery Purple Orbs turn to Orange by +2.4%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Deep_Navy_Computer_5th_Element_AH602_Kepler_Telescope_Nautilus_Dyson_Sphere.wiki",
+  "markdown_path": "markdown/Deep_Navy_Computer_5th_Element_AH602_Kepler_Telescope_Nautilus_Dyson_Sphere.md"
+}

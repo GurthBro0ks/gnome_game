@@ -1,0 +1,33 @@
+{
+  "pageid": 8447,
+  "ns": 0,
+  "title": "Ave Maria+Nilakantha Dharani",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ave_Maria%2BNilakantha_Dharani",
+  "touched": "2025-06-20T00:13:24Z",
+  "length": 176,
+  "lastrevid": 35979,
+  "revision": {
+    "revid": 35979,
+    "parentid": 34321,
+    "timestamp": "2025-06-20T00:13:24Z",
+    "sha1": "af1cedbdde902705946a067dc9e06c8caf3a2d17",
+    "size": 176
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "671",
+        "relics": "Ave Maria,Nilakantha Dharani",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 30 T7+ Mecha Minions in battle:Troop HARD Stats +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ave_Maria_Nilakantha_Dharani.wiki",
+  "markdown_path": "markdown/Ave_Maria_Nilakantha_Dharani.md"
+}

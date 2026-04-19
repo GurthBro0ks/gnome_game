@@ -1,0 +1,50 @@
+{
+  "pageid": 8780,
+  "ns": 0,
+  "title": "Captain Singleton",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Captain_Singleton",
+  "touched": "2025-06-20T00:23:32Z",
+  "length": 1407,
+  "lastrevid": 36269,
+  "revision": {
+    "revid": 36269,
+    "parentid": 34758,
+    "timestamp": "2025-06-20T00:23:32Z",
+    "sha1": "5b239b0dd215542d75523b4f622a92982b151287",
+    "size": 1407
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Captain Singleton",
+        "class_id": "22469",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "02-19",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Feb 19, 1720 AD, Captain Singleton was first published by Defoe.<br>It is a maritime adventure novel that follows the life of the titular British character, who was kidnapped as a child and raised by Romani people, before traveling through Africa and becoming a pirate in the Indian Ocean and the Arabian Sea. In the book, Daniel Defoe focuses on the economic and logistical aspects of the island, reflecting the two faces of British mercantilism at the time: loyalty to domestic commercial order  …",
+        "fame": "32",
+        "art": "30",
+        "fth": "25",
+        "civ": "46",
+        "tech": "21",
+        "ss1": "Per Tribal Warfare participation, Snail DEF +1<br>Tribal Warfare Participation: 50/50",
+        "ss2": "Per Tribal Warfare participation, Snail DEF +2<br>Tribal Warfare Participation: 50/50",
+        "ss3": "Per Tribal Warfare participation, Snail DEF +3<br>Tribal Warfare Participation: 50/50",
+        "ss4": "Per Tribal Warfare participation, Snail DEF +5<br>Tribal Warfare Participation: 50/50",
+        "ss7": "Per Tribal Warfare participation, Snail DEF +5<br>Tribal Warfare Participation: 50/50<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Dungbeetle skill I.png|50px]]Place in Dung Beetle Biozilla: In Species War, Troop All ELMT DMG +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Captain_Singleton.wiki",
+  "markdown_path": "markdown/Captain_Singleton.md"
+}

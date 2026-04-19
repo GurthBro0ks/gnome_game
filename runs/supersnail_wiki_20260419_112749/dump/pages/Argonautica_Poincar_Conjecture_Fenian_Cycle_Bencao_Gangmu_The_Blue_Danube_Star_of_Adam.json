@@ -1,0 +1,33 @@
+{
+  "pageid": 9823,
+  "ns": 0,
+  "title": "Argonautica+Poincaré Conjecture+Fenian Cycle+Bencao Gangmu+The Blue Danube+Star of Adam",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Argonautica%2BPoincar%C3%A9_Conjecture%2BFenian_Cycle%2BBencao_Gangmu%2BThe_Blue_Danube%2BStar_of_Adam",
+  "touched": "2025-07-02T09:50:21Z",
+  "length": 224,
+  "lastrevid": 37164,
+  "revision": {
+    "revid": 37164,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:48:20Z",
+    "sha1": "b8ae68cd73d13c869d5236d2f92d769148c16727",
+    "size": 224
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "761",
+        "relics": "Argonautica,Poincaré Conjecture,Fenian Cycle,Bencao Gangmu,The Blue Danube,Star of Adam",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Merge 1 Orange Stardust: Gain 1 more by 12%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Argonautica_Poincar_Conjecture_Fenian_Cycle_Bencao_Gangmu_The_Blue_Danube_Star_of_Adam.wiki",
+  "markdown_path": "markdown/Argonautica_Poincar_Conjecture_Fenian_Cycle_Bencao_Gangmu_The_Blue_Danube_Star_of_Adam.md"
+}

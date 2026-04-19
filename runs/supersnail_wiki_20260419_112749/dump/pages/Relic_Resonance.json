@@ -1,0 +1,33 @@
+{
+  "pageid": 3065,
+  "ns": 0,
+  "title": "Relic Resonance",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Relic_Resonance",
+  "touched": "2025-08-11T11:19:39Z",
+  "length": 8646,
+  "lastrevid": 30456,
+  "revision": {
+    "revid": 30456,
+    "parentid": 11945,
+    "timestamp": "2024-10-23T12:38:13Z",
+    "sha1": "f5cf2dd4a30ae6e09bd472cc669bb17c562007a5",
+    "size": 8646
+  },
+  "categories": [
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "#cargo_query:table=Relic_Resonance",
+      "params": {
+        "fields": "rank,amount,category,relics,description",
+        "format": "template",
+        "template": "RowRelRes",
+        "named args": "yes"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Relic_Resonance.wiki",
+  "markdown_path": "markdown/Relic_Resonance.md"
+}

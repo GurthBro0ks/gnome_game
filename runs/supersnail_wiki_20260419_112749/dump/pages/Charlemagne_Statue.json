@@ -1,0 +1,54 @@
+{
+  "pageid": 3947,
+  "ns": 0,
+  "title": "Charlemagne Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Charlemagne_Statue",
+  "touched": "2025-08-11T11:18:27Z",
+  "length": 2467,
+  "lastrevid": 39421,
+  "revision": {
+    "revid": 39421,
+    "parentid": 29954,
+    "timestamp": "2025-08-11T11:18:27Z",
+    "sha1": "5cba0ffad2c690ca93ba8604fddc22ed49583485",
+    "size": 2467
+  },
+  "categories": [
+    "CIV Relics",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Charlemagne Statue",
+        "class_id": "21533",
+        "rank": "SSS",
+        "affct": "CIV",
+        "birthday": "07-14",
+        "description": "On Jul 14, 1369 AD, the Charlemagne Statue was officially unveiled.<br>Charlemagne, one of the most significant rulers in medieval Europe, was the creator of the Carolingian Empire. This statue was crafted to commemorate his remarkable accomplishments. Recognized by the Roman Church and holding the dual role of both secular and religious ruler, the outstanding monarch's power symbols, the crown and scepter, are finely detailed in the statue. His mature and wise countenance is faithfully reproduc …",
+        "fame": "64",
+        "art": "64",
+        "fth": "65",
+        "civ": "107",
+        "tech": "62",
+        "ss1": "Snail ATK +30<br>Per 40 wishes made, Snail HP +120<br>Per 40 wishes made, Snail ATK +12<br>Wishes Made: 400/400",
+        "ss2": "Snail ATK +40<br>Per 40 wishes made, Snail HP +160<br>Per 40 wishes made, Snail ATK +16<br>Wishes Made: 400/400",
+        "ss3": "Snail ATK +50<br>Per 40 wishes made, Snail HP +200<br>Per 40 wishes made, Snail ATK +20<br>Wishes Made: 400/400",
+        "ss4": "Snail ATK +70<br>Per 40 wishes made, Snail HP +280<br>Per 40 wishes made, Snail ATK +28<br>Wishes Made: 400/400",
+        "ss5": "Snail ATK +90<br>Per 40 wishes made, Snail HP +360<br>Per 40 wishes made, Snail ATK +36<br>Wishes Made: 400/400",
+        "ss6": "Snail ATK +120<br>Per 40 wishes made, Snail HP +480<br>Per 40 wishes made, Snail ATK +48<br>Wishes Made: 400/400",
+        "ss7": "Snail ATK +120<br>Per 40 wishes made, Snail HP +480<br>Per 40 wishes made, Snail ATK +48<br>Wishes Made: 400/400<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: Medal Output +30",
+        "skill2": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: B-tads gained +3000",
+        "skill3": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's CIV +15",
+        "mirage": "{{Mirage|name=Becoming the Great|reward={{RewardIconWithLink|Cathay Treasure Map, +200|orange}}\n|3name=Lombardic Soldier|3rec=0.61M|3atk=14972|3defense=9946|3hp=72226|3weak=3885\n|4name=Saxony Soldier|4rec=1.34M|4atk=25798|4defense=17138|4hp=247697|4weak=5980\n|5name=Bavarian Soldier|5rec=2.76M|5atk=40027|5defense=26590|5hp=535624|5weak=9145\n|6name=Moor Soldier|6rec=5.34M|6atk=58183|6defense=38651|6hp=1039320|6weak=11963\n|Arec=9.71M|Aatk=80598|Adefense=53541|Ahp=1855992|Aweak=13605\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Charlemagne_Statue.wiki",
+  "markdown_path": "markdown/Charlemagne_Statue.md"
+}

@@ -1,0 +1,48 @@
+{
+  "pageid": 821,
+  "ns": 0,
+  "title": "Mutated Potato",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mutated_Potato",
+  "touched": "2025-11-17T15:50:07Z",
+  "length": 835,
+  "lastrevid": 41767,
+  "revision": {
+    "revid": 41767,
+    "parentid": 37619,
+    "timestamp": "2025-11-17T15:50:07Z",
+    "sha1": "e92714ea920b79f21b7f8a0c15af6dfc47100788",
+    "size": 835
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mutated Potato",
+        "class_id": "20413",
+        "rank": "Green",
+        "affct": "FAME",
+        "source": "Potatain fight from [[Altar#Relics and Gear|Dragon Wish \"Give me something to eat\"]].",
+        "description": "This potato was enchanted by the Divine Dragon. Under special conditions, it could adapt to a combat form. Even if it's defeated, it would just dehydrate and shrivel up. Water it regularly and a miracle might happen someday!",
+        "fame": "27",
+        "art": "17",
+        "fth": "17",
+        "civ": "14",
+        "tech": "15",
+        "ss1": "Per 5 Wonder Fungi eaten, Snail DEF +1<br>Wonder Fungi used: 200/200",
+        "ss2": "Per 5 Wonder Fungi eaten, Snail DEF +2<br>Wonder Fungi used: 200/200",
+        "ss3": "Per 5 Wonder Fungi eaten, Snail DEF +3<br>Wonder Fungi used: 200/200",
+        "ss4": "Per 5 Wonder Fungi eaten, Snail DEF +3<br>Wonder Fungi used: 200/200",
+        "ss7": "Per 5 Wonder Fungi eaten, Snail DEF +3<br>Wonder Fungi used: 200/200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mutated_Potato.wiki",
+  "markdown_path": "markdown/Mutated_Potato.md"
+}

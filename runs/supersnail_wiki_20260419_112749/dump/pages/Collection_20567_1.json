@@ -1,0 +1,47 @@
+{
+  "pageid": 10439,
+  "ns": 0,
+  "title": "Collection@20567 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20567_1",
+  "touched": "2025-08-11T10:50:41Z",
+  "length": 732,
+  "lastrevid": 38220,
+  "revision": {
+    "revid": 38220,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:50:41Z",
+    "sha1": "cb04dff5128e05bfb55ff27ac95a5651ad3e812e",
+    "size": 732
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20567_1",
+        "class_id": "20567",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "collection@20567_2",
+        "fame": "16",
+        "art": "13",
+        "fth": "17",
+        "civ": "28",
+        "tech": "16",
+        "ss1": "prop@62416_2<br>Per Civilization Stele deciphered, Snail RUSH +20<br>Civilization Steles deciphered: 3/3",
+        "ss2": "prop@62416_2<br>Per Civilization Stele deciphered, Snail RUSH +40<br>Civilization Steles deciphered: 3/3",
+        "ss3": "prop@62416_2<br>Per Civilization Stele deciphered, Snail RUSH +60<br>Civilization Steles deciphered: 3/3",
+        "ss4": "prop@62416_2<br>Per Civilization Stele deciphered, Snail RUSH +60<br>Civilization Steles deciphered: 3/3",
+        "ss7": "prop@62416_2<br>Per Civilization Stele deciphered, Snail RUSH +60<br>Civilization Steles deciphered: 3/3<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20567_1.wiki",
+  "markdown_path": "markdown/Collection_20567_1.md"
+}

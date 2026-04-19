@@ -1,0 +1,34 @@
+{
+  "pageid": 3294,
+  "ns": 0,
+  "title": "Kilogram Prototype+Aztec Calendar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kilogram_Prototype%2BAztec_Calendar",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 176,
+  "lastrevid": 12029,
+  "revision": {
+    "revid": 12029,
+    "parentid": 0,
+    "timestamp": "2023-09-13T07:23:35Z",
+    "sha1": "4b16f4abe1a5f437cba18cddb9cc976c053efce1",
+    "size": 176
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Kilogram Prototype,Aztec Calendar",
+        "rank": "blue",
+        "amount": "2",
+        "category": "home",
+        "description": "Tadpole Pond B-tad Output +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kilogram_Prototype_Aztec_Calendar.wiki",
+  "markdown_path": "markdown/Kilogram_Prototype_Aztec_Calendar.md"
+}

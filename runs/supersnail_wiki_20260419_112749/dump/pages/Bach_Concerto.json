@@ -1,0 +1,54 @@
+{
+  "pageid": 1755,
+  "ns": 0,
+  "title": "Bach Concerto",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bach_Concerto",
+  "touched": "2024-09-06T09:57:49Z",
+  "length": 1444,
+  "lastrevid": 22390,
+  "revision": {
+    "revid": 22390,
+    "parentid": 22189,
+    "timestamp": "2024-02-21T02:27:51Z",
+    "sha1": "c719a859c8d59445e4e5647595142e6dbfb2cbdd",
+    "size": 1444
+  },
+  "categories": [
+    "ART Relics",
+    "ATK Boost",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Enhanced by Lottery Draws",
+    "Lucky Voucher Boost",
+    "Relics",
+    "Tadpole Pond Skill",
+    "Tadpole Pond W-Tad Output Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bach Concerto",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "02-12",
+        "source": "Lottery Machine (0.03%), Wishing (1.2%), Club Chest (2%)<br>[[Lee Gi-na]] - [[Partners#Rent_List|normal rent]]",
+        "description": "On Feb 12, 1721, Bach composed the greatest concerto in the history of music. Bach was invited to compose a piece for Christian, the Margraviate of Brandenburg. Instead of following traditional composition style of putting a group of similar solo instruments together, he used different solo instruments. Using all musical instruments possible, Bach involved 7 instruments even for the shortest No. 6 prelude. Unfortunately, the sextet of Brandenburg was unable to play this concerto due to the lack  …",
+        "fame": "32",
+        "art": "46",
+        "fth": "30",
+        "civ": "24",
+        "tech": "22",
+        "ss1": "Green Bead draws give +1 Lucky Voucher by +5%",
+        "ss2": "Green Bead draws give +1 Lucky Voucher by +10%",
+        "ss3": "Green Bead draws give +1 Lucky Voucher by +15%",
+        "ss4": "Green Bead draws give +1 Lucky Voucher by +25%",
+        "ss7": "Green Bead draws give +1 Lucky Voucher by +25%<br>Green Bead draws give +1 Lucky Voucher by +25% (Awakened)",
+        "skill1": "[[File:Tadpolepond skill I.png|50px]] Place in Tadpole Pond: Generate W-tads by +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bach_Concerto.wiki",
+  "markdown_path": "markdown/Bach_Concerto.md"
+}

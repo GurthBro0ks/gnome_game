@@ -1,0 +1,47 @@
+{
+  "pageid": 349,
+  "ns": 0,
+  "title": "Longevity Peach",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Longevity_Peach",
+  "touched": "2025-08-11T10:55:21Z",
+  "length": 747,
+  "lastrevid": 38421,
+  "revision": {
+    "revid": 38421,
+    "parentid": 11580,
+    "timestamp": "2025-08-11T10:55:21Z",
+    "sha1": "42cf9e6b4858696a5db63af3e3b0bed9bbcb17ec",
+    "size": 747
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Longevity Peach",
+        "class_id": "20028",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "These magical peaches were grown by the Longevity God. They contain ten times more vitamins and fructose than ordinary peaches, which can promote blood circulation. They've absorbed the abundant spiritual energy of the immortal world and are even beneficial for people with high blood pressure.",
+        "fame": "17",
+        "art": "18",
+        "fth": "30",
+        "civ": "11",
+        "tech": "14",
+        "ss1": "Per Incense used, Snail HP +10<br>Incense Used: 20/20",
+        "ss2": "Per Incense used, Snail HP +20<br>Incense Used: 20/20",
+        "ss3": "Per Incense used, Snail HP +30<br>Incense Used: 20/20",
+        "ss4": "Per Incense used, Snail HP +30<br>Incense Used: 20/20",
+        "ss7": "Per Incense used, Snail HP +30<br>Incense Used: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Longevity_Peach.wiki",
+  "markdown_path": "markdown/Longevity_Peach.md"
+}

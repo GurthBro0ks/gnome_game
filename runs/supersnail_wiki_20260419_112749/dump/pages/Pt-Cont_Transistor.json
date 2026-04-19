@@ -1,0 +1,67 @@
+{
+  "pageid": 465,
+  "ns": 0,
+  "title": "Pt-Cont Transistor",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pt-Cont_Transistor",
+  "touched": "2024-11-16T01:42:16Z",
+  "length": 2632,
+  "lastrevid": 30097,
+  "revision": {
+    "revid": 30097,
+    "parentid": 26222,
+    "timestamp": "2024-10-15T15:45:01Z",
+    "sha1": "852912e7dc77a51a3c4f2ff5c91294ad4da67f0d",
+    "size": 2632
+  },
+  "categories": [
+    "ATK Boost",
+    "DEF Boost",
+    "HP Boost",
+    "Incense Boost",
+    "Keyboard Warrior Boost",
+    "Mecha Minion Cloning Speed Boost",
+    "Missing Info",
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Organ Boost",
+    "RUSH Boost",
+    "Relics",
+    "Rewards Crystal of Will",
+    "Snail Arena Compass Boost",
+    "TECH Relics",
+    "Tool Chest Boost",
+    "Wind RES Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Pt-Cont Transistor",
+        "rank": "SSS",
+        "affct": "TECH",
+        "birthday": "05-12",
+        "source": "Grandmaster Scrolls (0.79%), Wishing (0.07%)",
+        "description": "On May 12, 1947 AD, Shockley developed a Point-Cont Transistor.\n\nAn invention from Shockely, Bardeen, and Brattain. The precursor to the micro-evolution revolution. With a small, low-power electron device replacing the bulky, high-power electron tube, it laid the foundation for a generation of ICs, microprocessers, and computer memory, thanks to the emergence of transistors.\n\n[Pros]\n\nSmall: Light weight helps the miniaturization of electron devices<br>Low voltage: It can use batteries<br>No warm …",
+        "fame": "68",
+        "art": "59",
+        "fth": "71",
+        "civ": "58",
+        "tech": "106",
+        "ss1": "Mecha Minion Cloning SPD +3%<br>Per 5 Tool Chests opened, Snail ATK +24<br>Per 5 Tool Chests opened, Snail RUSH +24<br>Tool Chests Opened: 25/25",
+        "ss2": "Mecha Minion Cloning SPD +4%<br>Per 5 Tool Chests opened, Snail ATK +32<br>Per 5 Tool Chests opened, Snail RUSH +32<br>Tool Chests Opened: 25/25",
+        "ss3": "Mecha Minion Cloning SPD +5%<br>Per 5 Tool Chests opened, Snail ATK +40<br>Per 5 Tool Chests opened, Snail RUSH +40<br>Tool Chests Opened: 25/25",
+        "ss4": "Mecha Minion Cloning SPD +7%<br>Per 5 Tool Chests opened, Snail ATK +56<br>Per 5 Tool Chests opened, Snail RUSH +56<br>Tool Chests Opened: 25/25",
+        "ss5": "Mecha Minion Cloning SPD +9%<br>Per 5 Tool Chests opened, Snail ATK +72<br>Per 5 Tool Chests opened, Snail RUSH +72<br>Tool Chests Opened: 25/25",
+        "ss6": "Mecha Minion Cloning SPD +12%<br>Per 5 Tool Chests opened, Snail ATK +96<br>Per 5 Tool Chests opened, Snail RUSH +96<br>Tool Chests Opened: 25/25",
+        "ss7": "Mecha Minion Cloning SPD +12%<br>Per 5 Tool Chests opened, Snail ATK +96<br>Per 5 Tool Chests opened, Snail RUSH +96<br>Tool Chests Opened: 25/25<br>Snail RUSH +100 (Awakened)",
+        "skill1": "[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail HP +6,000",
+        "skill2": "[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail DEF +120 each round",
+        "skill3": "[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, Wind RES +60",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pt-Cont_Transistor.wiki",
+  "markdown_path": "markdown/Pt-Cont_Transistor.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 8927,
+  "ns": 0,
+  "title": "Grimmy Award+Five Oxen+Surgery Robot+Species Plantarum",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Grimmy_Award%2BFive_Oxen%2BSurgery_Robot%2BSpecies_Plantarum",
+  "touched": "2025-08-11T11:17:41Z",
+  "length": 166,
+  "lastrevid": 35040,
+  "revision": {
+    "revid": 35040,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:14:15Z",
+    "sha1": "1b7189712a005f5b8421ef70cfa96c145d8000af",
+    "size": 166
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "549",
+        "relics": "Grimmy Award,Five Oxen,Surgery Robot,Species Plantarum",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "All Minion HP +1.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Grimmy_Award_Five_Oxen_Surgery_Robot_Species_Plantarum.wiki",
+  "markdown_path": "markdown/Grimmy_Award_Five_Oxen_Surgery_Robot_Species_Plantarum.md"
+}

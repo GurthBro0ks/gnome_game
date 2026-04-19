@@ -1,0 +1,47 @@
+{
+  "pageid": 10036,
+  "ns": 0,
+  "title": "Ball of Monkey Fur",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ball_of_Monkey_Fur",
+  "touched": "2025-08-11T10:35:46Z",
+  "length": 795,
+  "lastrevid": 37580,
+  "revision": {
+    "revid": 37580,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:35:46Z",
+    "sha1": "7fc04455e55a261d6875758c2f8fe818e3d66520",
+    "size": 795
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ball of Monkey Fur",
+        "class_id": "20835",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Monkey fur of unknown origin, with a sour scent, conceals a note: I've taken care of this trouble for you. See you later, Earth's Will. Stay honest, and don't be too hot-headed, young one…",
+        "fame": "13",
+        "art": "17",
+        "fth": "13",
+        "civ": "14",
+        "tech": "33",
+        "ss1": "Per Monkey Prayer Bonus claimed, Snail DEF +3<br>Monkey Prayer Bonus Claimed: 20/20",
+        "ss2": "Per Monkey Prayer Bonus claimed, Snail DEF +4<br>Monkey Prayer Bonus Claimed: 20/20",
+        "ss3": "Per Monkey Prayer Bonus claimed, Snail DEF +5<br>Monkey Prayer Bonus Claimed: 20/20",
+        "ss4": "Per Monkey Prayer Bonus claimed, Snail DEF +5<br>Monkey Prayer Bonus Claimed: 20/20",
+        "ss7": "Per Monkey Prayer Bonus claimed, Snail DEF +5<br>Monkey Prayer Bonus Claimed: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ball_of_Monkey_Fur.wiki",
+  "markdown_path": "markdown/Ball_of_Monkey_Fur.md"
+}

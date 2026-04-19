@@ -1,0 +1,33 @@
+{
+  "pageid": 3805,
+  "ns": 0,
+  "title": "Mahakala Scroll+Phoenix Feather+Gaea's Hand",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mahakala_Scroll%2BPhoenix_Feather%2BGaea%27s_Hand",
+  "touched": "2025-08-11T10:41:04Z",
+  "length": 182,
+  "lastrevid": 37800,
+  "revision": {
+    "revid": 37800,
+    "parentid": 13704,
+    "timestamp": "2025-08-11T10:41:04Z",
+    "sha1": "f7b7cba5312e22bfee9bb27942904337e3f3d20c",
+    "size": 182
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "234",
+        "relics": "Mahakala Scroll,Phoenix Feather,Gaea's Hand",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "When crafting an Orange Reagent, +8% to get +1"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mahakala_Scroll_Phoenix_Feather_Gaea_s_Hand.wiki",
+  "markdown_path": "markdown/Mahakala_Scroll_Phoenix_Feather_Gaea_s_Hand.md"
+}

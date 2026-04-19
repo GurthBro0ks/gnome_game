@@ -1,0 +1,6 @@
+|3name=Spider|3rec=367.94M|3atk=870713|3defense=493586|3hp=211024915|3weak=67197
+|4name=Monkey|4rec=465.55M|4atk=1032505|4defense=581401|4hp=343954638|4weak=73102
+|5name=Lizard|5rec=606.33M|5atk=1324467|5defense=708054|5hp=577513705|5weak=80705
+|6name=Hummingbird|6rec=821.19M|6atk=1939657|6defense=930236|6hp=964077262|6weak=90986
+|Arec=1169.79M|Aatk=2961053|Adefense=1279425|Ahp=1792168334|Aweak=102426
+}}}}

@@ -1,0 +1,47 @@
+{
+  "pageid": 10702,
+  "ns": 0,
+  "title": "Curator's Speaker",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Curator%27s_Speaker",
+  "touched": "2025-08-11T10:59:05Z",
+  "length": 806,
+  "lastrevid": 38582,
+  "revision": {
+    "revid": 38582,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:59:05Z",
+    "sha1": "94ae21fbc34183361a1c445ed595822faf83cee4",
+    "size": 806
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Curator's Speaker",
+        "class_id": "20388",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The curator's old and worn speaker has experienced the peak of bustling crowds in the exhibit hall and the lows of empty galleries. Its sound is no longer as crisp as it once was, but the curator still hasn't discarded it!",
+        "fame": "13",
+        "art": "13",
+        "fth": "18",
+        "civ": "16",
+        "tech": "30",
+        "ss1": "Per Special Tourist unlocked, Snail RUSH +2<br>Special Tourists unlocked: 20/20",
+        "ss2": "Per Special Tourist unlocked, Snail RUSH +3<br>Special Tourists unlocked: 20/20",
+        "ss3": "Per Special Tourist unlocked, Snail RUSH +4<br>Special Tourists unlocked: 20/20",
+        "ss4": "Per Special Tourist unlocked, Snail RUSH +4<br>Special Tourists unlocked: 20/20",
+        "ss7": "Per Special Tourist unlocked, Snail RUSH +4<br>Special Tourists unlocked: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Curator_s_Speaker.wiki",
+  "markdown_path": "markdown/Curator_s_Speaker.md"
+}

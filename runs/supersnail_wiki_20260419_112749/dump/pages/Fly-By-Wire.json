@@ -1,0 +1,50 @@
+{
+  "pageid": 8836,
+  "ns": 0,
+  "title": "Fly-By-Wire",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fly-By-Wire",
+  "touched": "2025-06-16T21:00:29Z",
+  "length": 982,
+  "lastrevid": 34823,
+  "revision": {
+    "revid": 34823,
+    "parentid": 0,
+    "timestamp": "2025-06-16T21:00:29Z",
+    "sha1": "b4f4dc80710b627273b4d046f9d4566ee7fbb334",
+    "size": 982
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Fly-By-Wire",
+        "class_id": "22491",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "11-12",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Nov 12, 1956 AD, the Fly-By-Wire system was first used on an aircraft.<br>As an advanced electronic flight control system, the FBW system is defined in the industry as an electronic flight control system that uses feedback control principles to control the movement of the aircraft as a controlled parameter. Compared with traditional mechanical flight control systems, the reliability of the FBW system is much higher, and the system's capabilities have made a qualitative leap.",
+        "fame": "31",
+        "art": "24",
+        "fth": "30",
+        "civ": "23",
+        "tech": "46",
+        "ss1": "Wormhole Refinement SPD +0.4%",
+        "ss2": "Wormhole Refinement SPD +0.8%",
+        "ss3": "Wormhole Refinement SPD +1.2%",
+        "ss4": "Wormhole Refinement SPD +2%",
+        "ss7": "Wormhole Refinement SPD +2%<br>Wormhole Refinement SPD +2% (Awakened)",
+        "skill1": "[[File:Goldfish skill I.png|50px]]Place in Goldfish Biozilla: In Species War, Troop Water DMG +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fly-By-Wire.wiki",
+  "markdown_path": "markdown/Fly-By-Wire.md"
+}

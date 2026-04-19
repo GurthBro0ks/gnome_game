@@ -1,0 +1,36 @@
+{
+  "pageid": 6088,
+  "ns": 0,
+  "title": "Aeneid+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Aeneid%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2024-12-28T14:47:06Z",
+  "length": 307,
+  "lastrevid": 32575,
+  "revision": {
+    "revid": 32575,
+    "parentid": 23198,
+    "timestamp": "2024-12-28T14:42:38Z",
+    "sha1": "a2c5b3d2cd2f5b7a584cd21e9689438aa0ebe230",
+    "size": 307
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Species War Tech Points",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Aeneid,Mysterious Relic,Celestial Throne",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 900 Species War Tech Pts, Snail ATK +8; Species Wars Tech Pts: 45,000/45,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Aeneid_Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Aeneid_Mysterious_Relic_Mysterious_Relic.md"
+}

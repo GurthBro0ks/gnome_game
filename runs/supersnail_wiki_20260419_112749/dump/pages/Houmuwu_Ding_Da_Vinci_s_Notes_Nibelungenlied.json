@@ -1,0 +1,33 @@
+{
+  "pageid": 3786,
+  "ns": 0,
+  "title": "Houmuwu Ding+Da Vinci's Notes+Nibelungenlied",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Houmuwu_Ding%2BDa_Vinci%27s_Notes%2BNibelungenlied",
+  "touched": "2025-07-02T09:41:52Z",
+  "length": 199,
+  "lastrevid": 37024,
+  "revision": {
+    "revid": 37024,
+    "parentid": 18607,
+    "timestamp": "2025-07-02T09:41:52Z",
+    "sha1": "63577449e3e111bc402008ee479a16003963bca1",
+    "size": 199
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "238",
+        "relics": "Houmuwu Ding,Da Vinci's Notes,Nibelungenlied",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 3 Orange Relics gained, Snail ATK +32;Orange Relics: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Houmuwu_Ding_Da_Vinci_s_Notes_Nibelungenlied.wiki",
+  "markdown_path": "markdown/Houmuwu_Ding_Da_Vinci_s_Notes_Nibelungenlied.md"
+}

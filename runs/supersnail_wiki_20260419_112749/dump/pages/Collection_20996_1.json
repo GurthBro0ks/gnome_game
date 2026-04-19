@@ -1,0 +1,47 @@
+{
+  "pageid": 10814,
+  "ns": 0,
+  "title": "Collection@20996 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20996_1",
+  "touched": "2025-08-11T11:02:23Z",
+  "length": 508,
+  "lastrevid": 38726,
+  "revision": {
+    "revid": 38726,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:02:23Z",
+    "sha1": "d770725a8824a79500216020bdc7b0474172fa3e",
+    "size": 508
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20996_1",
+        "class_id": "20996",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "collection@20996_2",
+        "fame": "31",
+        "art": "15",
+        "fth": "15",
+        "civ": "14",
+        "tech": "15",
+        "ss1": "prop@58578_2<br>prop@58567_2<br>prop@58568_2<br>prop@58568_3",
+        "ss2": "prop@58578_2<br>prop@58567_2<br>prop@58568_2<br>prop@58568_3",
+        "ss3": "prop@58578_2<br>prop@58567_2<br>prop@58568_2<br>prop@58568_3",
+        "ss4": "prop@58578_2<br>prop@58567_2<br>prop@58568_2<br>prop@58568_3",
+        "ss7": "prop@58578_2<br>prop@58567_2<br>prop@58568_2<br>prop@58568_3<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20996_1.wiki",
+  "markdown_path": "markdown/Collection_20996_1.md"
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 3143,
+  "ns": 0,
+  "title": "Hamster Ball",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hamster_Ball",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 405,
+  "lastrevid": 12417,
+  "revision": {
+    "revid": 12417,
+    "parentid": 11558,
+    "timestamp": "2023-09-15T15:23:35Z",
+    "sha1": "1aee1c56978d5fdb32d16298655e1f16bbecbc8d",
+    "size": 405
+  },
+  "categories": [
+    "ART Shells",
+    "ATK Boost",
+    "DEF Boost",
+    "Demon Form",
+    "Hellas",
+    "Shells",
+    "Water DMG Boost"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Hamster_Ball.wiki",
+  "markdown_path": "markdown/Hamster_Ball.md"
+}

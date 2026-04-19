@@ -1,0 +1,35 @@
+{
+  "pageid": 8223,
+  "ns": 0,
+  "title": "The Resurrection+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Resurrection%2BMysterious_Relic",
+  "touched": "2025-04-21T02:14:28Z",
+  "length": 249,
+  "lastrevid": 33999,
+  "revision": {
+    "revid": 33999,
+    "parentid": 0,
+    "timestamp": "2025-04-20T21:46:53Z",
+    "sha1": "69e4cf7020ef7effcd5205b7d33830bb1cb11fcd",
+    "size": 249
+  },
+  "categories": [
+    "ATK Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Resurrection,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Protolith Chests opened, Snail ATK +7; Opened Protolith Chests: 500/500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Resurrection_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/The_Resurrection_Mysterious_Relic.md"
+}

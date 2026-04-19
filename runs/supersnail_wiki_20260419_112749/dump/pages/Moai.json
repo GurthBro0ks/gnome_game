@@ -1,0 +1,56 @@
+{
+  "pageid": 985,
+  "ns": 0,
+  "title": "Moai",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Moai",
+  "touched": "2025-04-13T22:21:41Z",
+  "length": 1233,
+  "lastrevid": 33945,
+  "revision": {
+    "revid": 33945,
+    "parentid": 33173,
+    "timestamp": "2025-04-13T22:21:41Z",
+    "sha1": "e9702291e469d4f2f9a1b7847c013f7d91acc5fd",
+    "size": 1233
+  },
+  "categories": [
+    "Ancient Fossil Boost",
+    "Blue FTH Relics",
+    "Blue Relics",
+    "FTH Relics",
+    "Gaiastapo Boost",
+    "Gene Research Speedup Boost",
+    "HP Boost",
+    "Ironball Thrower Boost",
+    "Mutant Minion ATK Boost",
+    "Quarry Skill",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Moai",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "09-10",
+        "source": "Lottery Machine (0.36%), Novice Scrolls (5%), Soul Chest (2%), Wishing (10.6%)",
+        "description": "On Sep 10, 1774, the outside world found out about these statues on Easter Island for the first time.\n\nMoai were discovered by Captain Cook. During a passionate cruise, he landed on this small island and saw the aborigines holding a sacrifice. Due to the language barrier, Captain Cook never got to know the purpose and meaning of the event. He wrote it down in his diary, \"These barbarians sent a Pirate-like statue to the stone island and fixed it there. Then, they began to dance around it. This i …",
+        "fame": "32",
+        "art": "22",
+        "fth": "45",
+        "civ": "27",
+        "tech": "28",
+        "ss1": "Snail HP +100",
+        "ss2": "Snail HP +200",
+        "ss3": "Snail HP +300",
+        "ss4": "Snail HP +500",
+        "ss7": "Snail HP +500<br>Snail HP +500 (Awakened)",
+        "skill1": "[[File:Quarry skill I.png|50px]] Place in Quarry: Find Ancient Fossil by +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Moai.wiki",
+  "markdown_path": "markdown/Moai.md"
+}

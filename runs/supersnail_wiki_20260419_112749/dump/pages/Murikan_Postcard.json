@@ -1,0 +1,47 @@
+{
+  "pageid": 1603,
+  "ns": 0,
+  "title": "Murikan Postcard",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Murikan_Postcard",
+  "touched": "2025-08-11T11:12:26Z",
+  "length": 556,
+  "lastrevid": 39161,
+  "revision": {
+    "revid": 39161,
+    "parentid": 32182,
+    "timestamp": "2025-08-11T11:12:26Z",
+    "sha1": "da4650b52580ba6babb1c3469ef1e2a3d820a9be",
+    "size": 556
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Murikan Postcard",
+        "class_id": "20313",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "While scouting for info about the Demon God in Murika, the snail also recorded a lot of local customs, which were brought together in this postcard. You can read it to kill time and post it online to get many likes!",
+        "fame": "19",
+        "art": "28",
+        "fth": "11",
+        "civ": "12",
+        "tech": "20",
+        "ss1": "Murikan Museum Medal Output +5",
+        "ss2": "Murikan Museum Medal Output +10",
+        "ss3": "Murikan Museum Medal Output +15",
+        "ss4": "Murikan Museum Medal Output +15",
+        "ss7": "Murikan Museum Medal Output +15<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Murikan_Postcard.wiki",
+  "markdown_path": "markdown/Murikan_Postcard.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 10986,
+  "ns": 0,
+  "title": "Manifesto of Surrealism+Ra's Solar Barque",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Manifesto_of_Surrealism%2BRa%27s_Solar_Barque",
+  "touched": "2025-08-11T11:10:07Z",
+  "length": 190,
+  "lastrevid": 38972,
+  "revision": {
+    "revid": 38972,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:08:01Z",
+    "sha1": "75fe4c84c2e2813afc4c7ba7a16ea6a9947a8714",
+    "size": 190
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "851",
+        "relics": "Manifesto of Surrealism,Ra's Solar Barque",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 T7+ Dragon Minions in battle:Troop HARD Stats +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Manifesto_of_Surrealism_Ra_s_Solar_Barque.wiki",
+  "markdown_path": "markdown/Manifesto_of_Surrealism_Ra_s_Solar_Barque.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4598,
+  "ns": 0,
+  "title": "The Rose Garden+Rose Cross",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Rose_Garden%2BRose_Cross",
+  "touched": "2025-06-20T00:01:45Z",
+  "length": 162,
+  "lastrevid": 35801,
+  "revision": {
+    "revid": 35801,
+    "parentid": 18393,
+    "timestamp": "2025-06-20T00:01:45Z",
+    "sha1": "df5cb880eda60c37569d23cb6d112e47a2291e3b",
+    "size": 162
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "320",
+        "relics": "The Rose Garden,Rose Cross",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Zombie Minions in battle: Troop ATK +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Rose_Garden_Rose_Cross.wiki",
+  "markdown_path": "markdown/The_Rose_Garden_Rose_Cross.md"
+}

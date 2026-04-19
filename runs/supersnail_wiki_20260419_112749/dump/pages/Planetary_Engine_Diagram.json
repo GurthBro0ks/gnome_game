@@ -1,0 +1,47 @@
+{
+  "pageid": 7766,
+  "ns": 0,
+  "title": "Planetary Engine Diagram",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Planetary_Engine_Diagram",
+  "touched": "2025-08-11T10:44:41Z",
+  "length": 753,
+  "lastrevid": 37957,
+  "revision": {
+    "revid": 37957,
+    "parentid": 32538,
+    "timestamp": "2025-08-11T10:44:41Z",
+    "sha1": "fc453aea24e9843caab53294a14ff04b54ec22ab",
+    "size": 753
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Planetary Engine Diagram",
+        "class_id": "20376",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Engineers across the world work day and night for the great \"planet-development of mankind\" project, and have successfully worked out a prototypical engine that can drive the entire planet forward. Although the device is still at a primary stage, the potential in it is attractive enough to drive people into taking risks.",
+        "fame": "17",
+        "art": "16",
+        "fth": "13",
+        "civ": "14",
+        "tech": "30",
+        "ss1": "Snail ATK +10<br>Gene Research Free Speedup +3m",
+        "ss2": "Snail ATK +20<br>Gene Research Free Speedup +6m",
+        "ss3": "Snail ATK +30<br>Gene Research Free Speedup +9m",
+        "ss4": "Snail ATK +30<br>Gene Research Free Speedup +9m",
+        "ss7": "Snail ATK +30<br>Gene Research Free Speedup +9m<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Planetary_Engine_Diagram.wiki",
+  "markdown_path": "markdown/Planetary_Engine_Diagram.md"
+}

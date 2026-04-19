@@ -1,0 +1,47 @@
+{
+  "pageid": 2234,
+  "ns": 0,
+  "title": "Mutant Fungus",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mutant_Fungus",
+  "touched": "2025-08-11T11:13:11Z",
+  "length": 571,
+  "lastrevid": 39193,
+  "revision": {
+    "revid": 39193,
+    "parentid": 32222,
+    "timestamp": "2025-08-11T11:13:11Z",
+    "sha1": "229d649d0a21a3f5e65065749c1d36fbd43797f6",
+    "size": 571
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mutant Fungus",
+        "class_id": "20024",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "There is a 3% chance to grow a Giant Fungus out of 100,000 Ordinary Fungi, and an 8% chance to grow a Mutated Fungus out of 300 Giant Fungi.",
+        "fame": "14",
+        "art": "12",
+        "fth": "30",
+        "civ": "17",
+        "tech": "17",
+        "ss1": "Fungus Farm: +2%chance to produce<br>Wonder Fungi",
+        "ss2": "Fungus Farm: +4%chance to produce<br>Wonder Fungi",
+        "ss3": "Fungus Farm: +6%chance to produce<br>Wonder Fungi",
+        "ss4": "Fungus Farm: +6%chance to produce<br>Wonder Fungi",
+        "ss7": "Fungus Farm: +6%chance to produce<br>Wonder Fungi<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mutant_Fungus.wiki",
+  "markdown_path": "markdown/Mutant_Fungus.md"
+}

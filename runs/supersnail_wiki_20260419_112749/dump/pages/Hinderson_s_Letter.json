@@ -1,0 +1,52 @@
+{
+  "pageid": 5082,
+  "ns": 0,
+  "title": "Hinderson's Letter",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hinderson%27s_Letter",
+  "touched": "2025-06-16T23:12:23Z",
+  "length": 1309,
+  "lastrevid": 35003,
+  "revision": {
+    "revid": 35003,
+    "parentid": 24170,
+    "timestamp": "2025-06-16T23:12:23Z",
+    "sha1": "35cf70b8ad4bacee154c4ed8f865268ca477156d",
+    "size": 1309
+  },
+  "categories": [
+    "FAME Relics",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Hinderson's Letter",
+        "class_id": "22120",
+        "rank": "AAA",
+        "affct": "FAME",
+        "birthday": "02-21",
+        "source": "Lottery Machine No.2 (0.06%), Wishing (0.02%)",
+        "description": "On Feb 21, 2005 AD, Pobby Hinderson founded the religion of FNM in his open letter.<br>Pobby Hinderson wrote this open letter to the Board of Education originally as a satirical response to creationism being taught in Murika. He borrowed from theories of religion and created a parody religion, FNM. It states that the world was created by a drunk flying noodle monster that can neither be seen nor perceived. The only evidence for the existence of these theories lies in the faith of the believers.",
+        "fame": "74",
+        "art": "39",
+        "fth": "36",
+        "civ": "42",
+        "tech": "52",
+        "ss1": "Mutant Minion ATK +3%<br>Mutant Minion HARD Stats +0.9%",
+        "ss2": "Mutant Minion ATK +4%<br>Mutant Minion HARD Stats +1.2%",
+        "ss3": "Mutant Minion ATK +5%<br>Mutant Minion HARD Stats +1.5%",
+        "ss4": "Mutant Minion ATK +7%<br>Mutant Minion HARD Stats +2.1%",
+        "ss5": "Mutant Minion ATK +9%<br>Mutant Minion HARD Stats +2.7%",
+        "ss7": "Mutant Minion ATK +9%<br>Mutant Minion HARD Stats +2.7%<br>Mutant Minion HARD Stats +2.1% (Awakened)",
+        "skill1": "[[File:Goldfish skill II.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion RUSH +4.5%",
+        "skill2": "[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FAME +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hinderson_s_Letter.wiki",
+  "markdown_path": "markdown/Hinderson_s_Letter.md"
+}

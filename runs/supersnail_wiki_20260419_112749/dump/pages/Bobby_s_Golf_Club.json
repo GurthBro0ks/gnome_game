@@ -1,0 +1,50 @@
+{
+  "pageid": 4670,
+  "ns": 0,
+  "title": "Bobby's Golf Club",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bobby%27s_Golf_Club",
+  "touched": "2025-06-20T00:00:04Z",
+  "length": 1186,
+  "lastrevid": 35738,
+  "revision": {
+    "revid": 35738,
+    "parentid": 34927,
+    "timestamp": "2025-06-20T00:00:04Z",
+    "sha1": "d770173729d2216e74b21151373adf8b6d29210a",
+    "size": 1186
+  },
+  "categories": [
+    "Blue FAME Relics",
+    "Blue Relics",
+    "FAME Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bobby's Golf Club",
+        "class_id": "22020",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "11-06",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Nov 6, 1925 AD, American golf player Bobby Jones lost the game but won respect.<br>In the Golf American Open Championship, Bobby Jones was in position. The golf ball moved by several inches when his golf club touched the grass, and no one noticed. At the time, the strokes were recorded by the golfer himself, so Jones could've kept it a secret. However, he chose to be honest. He added the stroke to his final score and made an open announcement. Although he eventually lost the game, his sportsm …",
+        "fame": "48",
+        "art": "26",
+        "fth": "19",
+        "civ": "29",
+        "tech": "32",
+        "ss1": "Per 20 CIV Wishes made, Snail ATK +1<br>Wishes Made: 1000/1000",
+        "ss2": "Per 20 CIV Wishes made, Snail ATK +2<br>Wishes Made: 1000/1000",
+        "ss3": "Per 20 CIV Wishes made, Snail ATK +3<br>Wishes Made: 1000/1000",
+        "ss4": "Per 20 CIV Wishes made, Snail ATK +5<br>Wishes Made: 1000/1000",
+        "ss7": "Per 20 CIV Wishes made, Snail ATK +5<br>Wishes Made: 1000/1000<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Genesim skill I.png|50px]]Place in Gene Sim Device: CRIT DMG +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bobby_s_Golf_Club.wiki",
+  "markdown_path": "markdown/Bobby_s_Golf_Club.md"
+}

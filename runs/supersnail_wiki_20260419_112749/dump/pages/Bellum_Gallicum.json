@@ -1,0 +1,54 @@
+{
+  "pageid": 213,
+  "ns": 0,
+  "title": "Bellum Gallicum",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bellum_Gallicum",
+  "touched": "2024-09-06T09:56:50Z",
+  "length": 1307,
+  "lastrevid": 22445,
+  "revision": {
+    "revid": 22445,
+    "parentid": 16353,
+    "timestamp": "2024-02-21T03:13:59Z",
+    "sha1": "d84cb271f35f84f4a9402215de7f64d5a94cd443",
+    "size": 1307
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue FAME Relics",
+    "Blue Relics",
+    "Enhanced by Lottery Draws",
+    "FAME Relics",
+    "Hellas Exploration Boost",
+    "Hellas Museum Boost",
+    "Relics",
+    "Travel Speed Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bellum Gallicum",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "12-10",
+        "source": "Lottery Machine (0.03%), Wishing (1.2%)",
+        "description": "On Dec 10, 52 BC, Caesar wrote the first battlefield report in human history. Caesar compiled 6-year battle experience into an 8-volume, 300,000-word report. He summed up the wars against the Helvetians, the Germanic people, the Britons, and his diplomatic activities in Gaul. Caesar transformed his military achievements into strong political capital by writing them down and paved his way to reach the top of Rome.",
+        "fame": "44",
+        "art": "33",
+        "fth": "29",
+        "civ": "19",
+        "tech": "29",
+        "ss1": "Per Realm conquered, Snail ATK +10<br>Realms Conquered: 8/8",
+        "ss2": "Per Realm conquered, Snail ATK +20<br>Realms Conquered: 8/8",
+        "ss3": "Per Realm conquered, Snail ATK +30<br>Realms Conquered: 8/8",
+        "ss4": "Per Realm conquered, Snail ATK +50<br>Realms Conquered: 8/8",
+        "ss7": "Per Realm conquered, Snail ATK +50<br>Realms Conquered: 8/8<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Hellas skill I.png|50px]] Place in Hellenic Museum: In Hellas, FAME Checks -5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bellum_Gallicum.wiki",
+  "markdown_path": "markdown/Bellum_Gallicum.md"
+}

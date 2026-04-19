@@ -1,0 +1,33 @@
+{
+  "pageid": 4559,
+  "ns": 0,
+  "title": "Pompeii+The Fall of Phaethon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pompeii%2BThe_Fall_of_Phaethon",
+  "touched": "2025-06-19T23:54:43Z",
+  "length": 149,
+  "lastrevid": 35689,
+  "revision": {
+    "revid": 35689,
+    "parentid": 18449,
+    "timestamp": "2025-06-19T23:54:43Z",
+    "sha1": "eba8a6d2d196403126782cc3cc6b5f9799757abb",
+    "size": 149
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "310",
+        "relics": "Pompeii,The Fall of Phaethon",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Free Gene Speedup (Demon) +30m"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pompeii_The_Fall_of_Phaethon.wiki",
+  "markdown_path": "markdown/Pompeii_The_Fall_of_Phaethon.md"
+}

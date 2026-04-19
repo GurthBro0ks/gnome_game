@@ -1,0 +1,47 @@
+{
+  "pageid": 7473,
+  "ns": 0,
+  "title": "Forbidden Magic List",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Forbidden_Magic_List",
+  "touched": "2025-08-11T10:40:48Z",
+  "length": 651,
+  "lastrevid": 37790,
+  "revision": {
+    "revid": 37790,
+    "parentid": 31213,
+    "timestamp": "2025-08-11T10:40:48Z",
+    "sha1": "8c82b8a58cc32482a4951952e5ab78645d70b07d",
+    "size": 651
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Forbidden Magic List",
+        "class_id": "20280",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This is a magic book that contains 103,000 forbidden spells. As its content is obscure and difficult to understand, the slightest mistake in casting any spells can lead to madness. Many smart yet over-confident wizards have paid a heavy price. But if one were to gain something from it, these risks absolutely were worth taking!",
+        "fame": "13",
+        "art": "15",
+        "fth": "32",
+        "civ": "14",
+        "tech": "16",
+        "ss1": "Against Minerva, DMG +300%",
+        "ss2": "Against Minerva, DMG +400%",
+        "ss3": "Against Minerva, DMG +500%",
+        "ss4": "Against Minerva, DMG +500%",
+        "ss7": "Against Minerva, DMG +500%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Forbidden_Magic_List.wiki",
+  "markdown_path": "markdown/Forbidden_Magic_List.md"
+}

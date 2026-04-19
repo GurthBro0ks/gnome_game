@@ -1,0 +1,33 @@
+{
+  "pageid": 10149,
+  "ns": 0,
+  "title": "Tail-burned Guqin+Avogadro's Law+Book of Exodus+Yongle Encyclopedia+Water Lilies",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tail-burned_Guqin%2BAvogadro%27s_Law%2BBook_of_Exodus%2BYongle_Encyclopedia%2BWater_Lilies",
+  "touched": "2025-08-11T10:46:41Z",
+  "length": 216,
+  "lastrevid": 37768,
+  "revision": {
+    "revid": 37768,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:40:19Z",
+    "sha1": "d643474959396c62a4086b726c5a3fa3f538ef99",
+    "size": 216
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "574",
+        "relics": "Tail-burned Guqin,Avogadro's Law,Book of Exodus,Yongle Encyclopedia,Water Lilies",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "Catalyzed Blue Spores turn to Purple by +1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tail-burned_Guqin_Avogadro_s_Law_Book_of_Exodus_Yongle_Encyclopedia_Water_Lilies.wiki",
+  "markdown_path": "markdown/Tail-burned_Guqin_Avogadro_s_Law_Book_of_Exodus_Yongle_Encyclopedia_Water_Lilies.md"
+}

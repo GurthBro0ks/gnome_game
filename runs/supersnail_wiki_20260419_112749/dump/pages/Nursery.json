@@ -1,0 +1,26 @@
+{
+  "pageid": 3222,
+  "ns": 0,
+  "title": "Nursery",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nursery",
+  "touched": "2025-10-17T12:14:07Z",
+  "length": 37151,
+  "lastrevid": 40823,
+  "revision": {
+    "revid": 40823,
+    "parentid": 40762,
+    "timestamp": "2025-10-05T12:35:20Z",
+    "sha1": "ca793eee4067c922c9d44beea32a3cd30a802101",
+    "size": 37151
+  },
+  "categories": [
+    "Home Base",
+    "Missing Info",
+    "Pages using Tabber parser tag",
+    "Pages with broken file links"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Nursery.wiki",
+  "markdown_path": "markdown/Nursery.md"
+}

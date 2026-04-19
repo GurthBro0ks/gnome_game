@@ -1,0 +1,35 @@
+{
+  "pageid": 3765,
+  "ns": 0,
+  "title": "Cuneiform Tablet+Fu Hao Scripts",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cuneiform_Tablet%2BFu_Hao_Scripts",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 219,
+  "lastrevid": 18409,
+  "revision": {
+    "revid": 18409,
+    "parentid": 17772,
+    "timestamp": "2023-11-13T21:39:13Z",
+    "sha1": "780a64fbee63a4d808d277b15fb93d6af0856c8e",
+    "size": 219
+  },
+  "categories": [
+    "Minion",
+    "Minion DEF Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Cuneiform Tablet,Fu Hao Scripts",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 60 Minions in battle: Troop DEF +63"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cuneiform_Tablet_Fu_Hao_Scripts.wiki",
+  "markdown_path": "markdown/Cuneiform_Tablet_Fu_Hao_Scripts.md"
+}

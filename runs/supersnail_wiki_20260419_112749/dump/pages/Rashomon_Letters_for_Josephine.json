@@ -1,0 +1,33 @@
+{
+  "pageid": 10114,
+  "ns": 0,
+  "title": "Rashomon+Letters for Josephine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rashomon%2BLetters_for_Josephine",
+  "touched": "2025-08-11T10:38:55Z",
+  "length": 143,
+  "lastrevid": 37713,
+  "revision": {
+    "revid": 37713,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:38:55Z",
+    "sha1": "2652b7efd1b1c33da1870bfaa903f801b3afb9c4",
+    "size": 143
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "413",
+        "relics": "Rashomon,Letters for Josephine",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Demon Minion DEF +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Rashomon_Letters_for_Josephine.wiki",
+  "markdown_path": "markdown/Rashomon_Letters_for_Josephine.md"
+}

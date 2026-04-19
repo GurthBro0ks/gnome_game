@@ -1,0 +1,29 @@
+{
+  "pageid": 2979,
+  "ns": 0,
+  "title": "Flask",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Flask",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 502,
+  "lastrevid": 12542,
+  "revision": {
+    "revid": 12542,
+    "parentid": 12541,
+    "timestamp": "2023-09-16T00:17:27Z",
+    "sha1": "50bfb0ecd7fe5b45550594d349ca7600273b6a98",
+    "size": 502
+  },
+  "categories": [
+    "Britland",
+    "CIV Shells",
+    "DEF Boost",
+    "HP Boost",
+    "Mutant Form",
+    "Shells",
+    "Water DMG Boost"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Flask.wiki",
+  "markdown_path": "markdown/Flask.md"
+}

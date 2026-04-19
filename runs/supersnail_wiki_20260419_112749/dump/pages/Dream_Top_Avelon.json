@@ -1,0 +1,34 @@
+{
+  "pageid": 3420,
+  "ns": 0,
+  "title": "Dream Top+Avelon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dream_Top%2BAvelon",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 144,
+  "lastrevid": 12349,
+  "revision": {
+    "revid": 12349,
+    "parentid": 12348,
+    "timestamp": "2023-09-15T08:59:22Z",
+    "sha1": "cad797f7c1fd2545449cb209765afd63963ef6be",
+    "size": 144
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Dream Top,Avelon",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HP +600"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dream_Top_Avelon.wiki",
+  "markdown_path": "markdown/Dream_Top_Avelon.md"
+}

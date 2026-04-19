@@ -1,0 +1,29 @@
+{
+  "pageid": 5438,
+  "ns": 0,
+  "title": "Dragon's Keepsake",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dragon%27s_Keepsake",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 584,
+  "lastrevid": 29434,
+  "revision": {
+    "revid": 29434,
+    "parentid": 29433,
+    "timestamp": "2024-09-27T19:20:17Z",
+    "sha1": "934214cc9f1db34170d61b6c1517db987cef8b23",
+    "size": 584
+  },
+  "categories": [
+    "ATK Boost",
+    "DEF Boost",
+    "Dragon Form",
+    "Earth DMG Boost",
+    "FAME Shells",
+    "Shells",
+    "Time Rift"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Dragon_s_Keepsake.wiki",
+  "markdown_path": "markdown/Dragon_s_Keepsake.md"
+}

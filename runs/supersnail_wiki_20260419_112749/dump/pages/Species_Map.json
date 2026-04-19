@@ -1,0 +1,25 @@
+{
+  "pageid": 11824,
+  "ns": 0,
+  "title": "Species Map",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Species_Map",
+  "touched": "2025-10-04T10:06:10Z",
+  "length": 100,
+  "lastrevid": 40680,
+  "revision": {
+    "revid": 40680,
+    "parentid": 0,
+    "timestamp": "2025-10-04T10:06:10Z",
+    "sha1": "ea4f868a550d60d613524a1f98bcd78daa3d508e",
+    "size": 100
+  },
+  "categories": [
+    "Missing Info",
+    "Spoiler Content",
+    "Works in Progress"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Species_Map.wiki",
+  "markdown_path": "markdown/Species_Map.md"
+}

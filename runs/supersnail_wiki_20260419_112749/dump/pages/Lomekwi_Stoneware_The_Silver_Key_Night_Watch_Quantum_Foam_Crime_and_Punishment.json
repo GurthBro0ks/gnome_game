@@ -1,0 +1,36 @@
+{
+  "pageid": 4210,
+  "ns": 0,
+  "title": "Lomekwi Stoneware+The Silver Key+Night Watch+Quantum Foam+Crime and Punishment",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lomekwi_Stoneware%2BThe_Silver_Key%2BNight_Watch%2BQuantum_Foam%2BCrime_and_Punishment",
+  "touched": "2024-12-19T02:04:01Z",
+  "length": 325,
+  "lastrevid": 32327,
+  "revision": {
+    "revid": 32327,
+    "parentid": 32326,
+    "timestamp": "2024-12-19T02:01:26Z",
+    "sha1": "4b9f68cf1c6ded680022c99c73ef44ebb218ed90",
+    "size": 325
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Gaia Tech Points",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Lomekwi Stoneware,The Silver Key,Night Watch,Quantum Foam,Crime and Punishment",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "Per 1.2k Gaia Tech Pts, Snail ATK +10, Gaia Tech Pts: 60,000/60,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lomekwi_Stoneware_The_Silver_Key_Night_Watch_Quantum_Foam_Crime_and_Punishment.wiki",
+  "markdown_path": "markdown/Lomekwi_Stoneware_The_Silver_Key_Night_Watch_Quantum_Foam_Crime_and_Punishment.md"
+}

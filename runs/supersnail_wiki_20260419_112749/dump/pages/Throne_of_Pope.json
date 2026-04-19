@@ -1,0 +1,55 @@
+{
+  "pageid": 999,
+  "ns": 0,
+  "title": "Throne of Pope",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Throne_of_Pope",
+  "touched": "2024-09-06T09:57:52Z",
+  "length": 1498,
+  "lastrevid": 22410,
+  "revision": {
+    "revid": 22410,
+    "parentid": 21795,
+    "timestamp": "2024-02-21T02:46:01Z",
+    "sha1": "f8659eae6fd39b5bf119d83c4cc2322529f65781",
+    "size": 1498
+  },
+  "categories": [
+    "Blue FTH Relics",
+    "Blue Relics",
+    "DEF Boost",
+    "Enhanced by Lottery Draws",
+    "Exploration Reagent Drop Boost",
+    "FTH Relics",
+    "Lottery Bead Color Change",
+    "Nightmare Steed Boost",
+    "Relics",
+    "Snail Arena Compass Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Throne of Pope",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "06-26",
+        "source": "Lottery Machine (0.36%), Wishing (10.6%), Novice Scrolls (5%)",
+        "description": "Jun 26, 1978, this Papal coronation throne was used for the last time until today.\n\nPaul II refused to use this throne when he was crowned. Since then, no pope ever used it again. Since the beginning of the Byzantium, this throne has been used to carry the pope during the coronation. It was a symbol of the Pope. It is an intricately decorated silk armchair, which needs to be carried by twelve porters in red uniforms. On the day of the papal coronation, it is used for various religious activities …",
+        "fame": "28",
+        "art": "28",
+        "fth": "47",
+        "civ": "30",
+        "tech": "21",
+        "ss1": "Per 10 Lotteries drawn, Snail DEF +2<br>Lotteries Drawn: 200/200",
+        "ss2": "Per 10 Lotteries drawn, Snail DEF +4<br>Lotteries Drawn: 200/200",
+        "ss3": "Per 10 Lotteries drawn, Snail DEF +6<br>Lotteries Drawn: 200/200",
+        "ss4": "Per 10 Lotteries drawn, Snail DEF +10<br>Lotteries Drawn: 200/200",
+        "ss7": "Per 10 Lotteries drawn, Snail DEF +10<br>Lotteries Drawn: 200/200<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Arena skill I.png|50px]]Place in Snail Arena Compass: In Snail Arena, Snail DEF +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Throne_of_Pope.wiki",
+  "markdown_path": "markdown/Throne_of_Pope.md"
+}

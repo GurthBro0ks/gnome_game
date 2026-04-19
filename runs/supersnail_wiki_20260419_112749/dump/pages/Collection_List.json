@@ -1,0 +1,47 @@
+{
+  "pageid": 11244,
+  "ns": 0,
+  "title": "Collection List",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection_List",
+  "touched": "2025-08-11T11:17:54Z",
+  "length": 984,
+  "lastrevid": 39398,
+  "revision": {
+    "revid": 39398,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:17:54Z",
+    "sha1": "0288f79c9f38782cedd5563230ab9ae612d83ea2",
+    "size": 984
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Collection List",
+        "class_id": "20107",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This list contains detailed records of the museum's collections. It helps visitors locate relics easily and assists curators in organizing and managing exhibits more efficiently.",
+        "fame": "14",
+        "art": "12",
+        "fth": "16",
+        "civ": "33",
+        "tech": "15",
+        "ss1": "Per Special Tourist unlocked, Snail ATK +2<br>Per Special Tourist unlocked, Snail DEF +2<br>Special Tourists unlocked: 20/20",
+        "ss2": "Per Special Tourist unlocked, Snail ATK +3<br>Per Special Tourist unlocked, Snail DEF +3<br>Special Tourists unlocked: 20/20",
+        "ss3": "Per Special Tourist unlocked, Snail ATK +4<br>Per Special Tourist unlocked, Snail DEF +4<br>Special Tourists unlocked: 20/20",
+        "ss4": "Per Special Tourist unlocked, Snail ATK +4<br>Per Special Tourist unlocked, Snail DEF +4<br>Special Tourists unlocked: 20/20",
+        "ss7": "Per Special Tourist unlocked, Snail ATK +4<br>Per Special Tourist unlocked, Snail DEF +4<br>Special Tourists unlocked: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_List.wiki",
+  "markdown_path": "markdown/Collection_List.md"
+}

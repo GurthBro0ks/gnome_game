@@ -1,0 +1,34 @@
+{
+  "pageid": 3794,
+  "ns": 0,
+  "title": "Archimedes' Lever+Somersault Cloud+Voyager 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Archimedes%27_Lever%2BSomersault_Cloud%2BVoyager_1",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 224,
+  "lastrevid": 13692,
+  "revision": {
+    "revid": 13692,
+    "parentid": 0,
+    "timestamp": "2023-10-02T10:46:11Z",
+    "sha1": "5bde695dca0ce8a40fc98533bdbe60f9cee0dec2",
+    "size": 224
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Archimedes' Lever,Somersault Cloud,Voyager 1",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 1k DNA Strength, Snail RUSH +5<br>DNA Strength: 48,000/48,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Archimedes_Lever_Somersault_Cloud_Voyager_1.wiki",
+  "markdown_path": "markdown/Archimedes_Lever_Somersault_Cloud_Voyager_1.md"
+}

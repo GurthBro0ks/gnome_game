@@ -1,0 +1,33 @@
+{
+  "pageid": 9303,
+  "ns": 0,
+  "title": "The Raft of the Medusa+The Barque of Dante",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Raft_of_the_Medusa%2BThe_Barque_of_Dante",
+  "touched": "2025-06-20T00:20:27Z",
+  "length": 208,
+  "lastrevid": 36211,
+  "revision": {
+    "revid": 36211,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:20:27Z",
+    "sha1": "c676fe4037f382bd29d7ded45244b41ca3f7c154",
+    "size": 208
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "623",
+        "relics": "The Raft of the Medusa,The Barque of Dante",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "When you receive White Spores from Catalysis: Gain +1 Spore Voucher by +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Raft_of_the_Medusa_The_Barque_of_Dante.wiki",
+  "markdown_path": "markdown/The_Raft_of_the_Medusa_The_Barque_of_Dante.md"
+}

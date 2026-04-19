@@ -1,0 +1,35 @@
+{
+  "pageid": 7992,
+  "ns": 0,
+  "title": "Galileo's Telescope+Meketre Stela",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Galileo%27s_Telescope%2BMeketre_Stela",
+  "touched": "2025-03-23T18:33:16Z",
+  "length": 258,
+  "lastrevid": 33445,
+  "revision": {
+    "revid": 33445,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:50:31Z",
+    "sha1": "3e66c40f5af7b20603311003c2af4481e7cf4488",
+    "size": 258
+  },
+  "categories": [
+    "Bedrock Power Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Galileo's Telescope,Meketre Stela",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Demon Lord defeated, Snail Bedrock Power +14; Demon Lords Defeated: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Galileo_s_Telescope_Meketre_Stela.wiki",
+  "markdown_path": "markdown/Galileo_s_Telescope_Meketre_Stela.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 6905,
+  "ns": 0,
+  "title": "Flame of Destruction",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Flame_of_Destruction",
+  "touched": "2025-08-11T10:35:58Z",
+  "length": 775,
+  "lastrevid": 37589,
+  "revision": {
+    "revid": 37589,
+    "parentid": 28926,
+    "timestamp": "2025-08-11T10:35:58Z",
+    "sha1": "93984fd097c81b2d1ddcb065ebe3d47084bf9204",
+    "size": 775
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Flame of Destruction",
+        "class_id": "20273",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "The flame that existed in the primordial era even before the birth of the world. Since its inception, the core of the Fire Giant Surtur was destined to destroy the entire world. At the twilight of the gods, it alone ignited the Tree of the World and destroyed Asgard.",
+        "fame": "15",
+        "art": "16",
+        "fth": "30",
+        "civ": "16",
+        "tech": "12",
+        "ss1": "Per Realm Conquered, Snail Fire DMG +1<br>Realms Conquered: 9/9",
+        "ss2": "Per Realm Conquered, Snail Fire DMG +2<br>Realms Conquered: 9/9",
+        "ss3": "Per Realm Conquered, Snail Fire DMG +3<br>Realms Conquered: 9/9",
+        "ss4": "Per Realm Conquered, Snail Fire DMG +3<br>Realms Conquered: 9/9",
+        "ss7": "Per Realm Conquered, Snail Fire DMG +3<br>Realms Conquered: 9/9<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Flame_of_Destruction.wiki",
+  "markdown_path": "markdown/Flame_of_Destruction.md"
+}

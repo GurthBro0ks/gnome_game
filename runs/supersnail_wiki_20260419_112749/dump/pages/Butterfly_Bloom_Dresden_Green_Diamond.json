@@ -1,0 +1,33 @@
+{
+  "pageid": 9256,
+  "ns": 0,
+  "title": "Butterfly Bloom+Dresden Green Diamond",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Butterfly_Bloom%2BDresden_Green_Diamond",
+  "touched": "2025-06-20T00:15:51Z",
+  "length": 212,
+  "lastrevid": 36080,
+  "revision": {
+    "revid": 36080,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:15:51Z",
+    "sha1": "15b6eb43b00cbe2543d0693aedbea9ebe34fe9e9",
+    "size": 212
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "665",
+        "relics": "Butterfly Bloom,Dresden Green Diamond",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Tribal Warfare participation, Snail ATK +6;Tribal Warfare Participation: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Butterfly_Bloom_Dresden_Green_Diamond.wiki",
+  "markdown_path": "markdown/Butterfly_Bloom_Dresden_Green_Diamond.md"
+}

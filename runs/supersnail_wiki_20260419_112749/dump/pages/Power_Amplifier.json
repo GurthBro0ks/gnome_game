@@ -1,0 +1,47 @@
+{
+  "pageid": 2312,
+  "ns": 0,
+  "title": "Power Amplifier",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Power_Amplifier",
+  "touched": "2025-08-11T10:42:01Z",
+  "length": 793,
+  "lastrevid": 37840,
+  "revision": {
+    "revid": 37840,
+    "parentid": 22532,
+    "timestamp": "2025-08-11T10:42:01Z",
+    "sha1": "33e31672aeef234e9c137dfb55bb66fe6e11e299",
+    "size": 793
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Power Amplifier",
+        "class_id": "20277",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "There is always a limit to the vessel of Glory, but the pursuit of it is endless. When the Glory extractor can no longer meet people's needs, an amplifier that greatly improves extraction efficiency is developed. People who have foreseen the possible Glory exhaustion are trying to find a new type of alternative energy.",
+        "fame": "16",
+        "art": "12",
+        "fth": "31",
+        "civ": "17",
+        "tech": "14",
+        "ss1": "Glory Extractor:<br>> Refine Speedup Conversion Cap +100%",
+        "ss2": "Glory Extractor:<br>> Refine Speedup Conversion Cap +200%",
+        "ss3": "Glory Extractor:<br>> Refine Speedup Conversion Cap +300%",
+        "ss4": "Glory Extractor:<br>> Refine Speedup Conversion Cap +300%",
+        "ss7": "Glory Extractor:<br>> Refine Speedup Conversion Cap +300%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Power_Amplifier.wiki",
+  "markdown_path": "markdown/Power_Amplifier.md"
+}

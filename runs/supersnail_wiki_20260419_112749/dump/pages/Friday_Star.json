@@ -1,0 +1,47 @@
+{
+  "pageid": 10203,
+  "ns": 0,
+  "title": "Friday Star",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Friday_Star",
+  "touched": "2025-08-11T10:42:39Z",
+  "length": 740,
+  "lastrevid": 37868,
+  "revision": {
+    "revid": 37868,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:42:39Z",
+    "sha1": "52621aa5d69df9d9ea52addbdc65ec7200ad3a90",
+    "size": 740
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Friday Star",
+        "class_id": "20929",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Fortune Law 6: When you have a considerable number of draw tickets or wish coins, you can overlook extremely low probabilities!",
+        "fame": "32",
+        "art": "14",
+        "fth": "13",
+        "civ": "15",
+        "tech": "16",
+        "ss1": "Snail Leadership +2<br>Per 10 Lucky Star, Snail ATK +1<br>Lucky Star Gained: 1400/1400",
+        "ss2": "Snail Leadership +4<br>Per 10 Lucky Star, Snail ATK +2<br>Lucky Star Gained: 1400/1400",
+        "ss3": "Snail Leadership +6<br>Per 10 Lucky Star, Snail ATK +3<br>Lucky Star Gained: 1400/1400",
+        "ss4": "Snail Leadership +6<br>Per 10 Lucky Star, Snail ATK +3<br>Lucky Star Gained: 1400/1400",
+        "ss7": "Snail Leadership +6<br>Per 10 Lucky Star, Snail ATK +3<br>Lucky Star Gained: 1400/1400<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Friday_Star.wiki",
+  "markdown_path": "markdown/Friday_Star.md"
+}

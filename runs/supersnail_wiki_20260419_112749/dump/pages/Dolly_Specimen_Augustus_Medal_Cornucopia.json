@@ -1,0 +1,34 @@
+{
+  "pageid": 3663,
+  "ns": 0,
+  "title": "Dolly Specimen+Augustus' Medal+Cornucopia",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dolly_Specimen%2BAugustus%27_Medal%2BCornucopia",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 194,
+  "lastrevid": 13266,
+  "revision": {
+    "revid": 13266,
+    "parentid": 0,
+    "timestamp": "2023-09-24T15:42:27Z",
+    "sha1": "8885df6b9f12da7b24700f11d5eebb6eba449ed7",
+    "size": 194
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Dolly Specimen,Augustus' Medal,Cornucopia",
+        "rank": "purple",
+        "amount": "3",
+        "category": "other",
+        "description": "In any Realm, Mecha Cells gained +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dolly_Specimen_Augustus_Medal_Cornucopia.wiki",
+  "markdown_path": "markdown/Dolly_Specimen_Augustus_Medal_Cornucopia.md"
+}

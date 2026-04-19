@@ -1,0 +1,33 @@
+{
+  "pageid": 4907,
+  "ns": 0,
+  "title": "Hinderson's Letter+Konjaku Tale",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hinderson%27s_Letter%2BKonjaku_Tale",
+  "touched": "2025-06-20T00:01:17Z",
+  "length": 145,
+  "lastrevid": 35782,
+  "revision": {
+    "revid": 35782,
+    "parentid": 18381,
+    "timestamp": "2025-06-20T00:01:17Z",
+    "sha1": "c1ca30372c35249a6283db326940dc473e966e28",
+    "size": 145
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "382",
+        "relics": "Hinderson's Letter,Konjaku Tale",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Mutant Minion ATK +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hinderson_s_Letter_Konjaku_Tale.wiki",
+  "markdown_path": "markdown/Hinderson_s_Letter_Konjaku_Tale.md"
+}

@@ -1,0 +1,57 @@
+{
+  "pageid": 1013,
+  "ns": 0,
+  "title": "Janssen Microscope",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Janssen_Microscope",
+  "touched": "2024-11-04T01:11:06Z",
+  "length": 1616,
+  "lastrevid": 28738,
+  "revision": {
+    "revid": 28738,
+    "parentid": 26298,
+    "timestamp": "2024-08-12T17:06:15Z",
+    "sha1": "5c33ae3b622c2cb0164cc7cdbbc3b81e27ee09fe",
+    "size": 1616
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Cloning Tank Boost",
+    "Gene Research Speedup Boost",
+    "Gene Simulation Compass Boost",
+    "HP Boost",
+    "Indigent Nobleman Relics",
+    "Offering Reward Boost",
+    "Relics",
+    "TECH Boost",
+    "TECH Relics",
+    "Wood Golem Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Janssen Microscope",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "04-16",
+        "source": "* Evolution Chest (2%), Lottery Machine (0.07%), Novice Scrolls (1%), Wishing (2.6%)\n* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})",
+        "description": "On Apr 16, 1590, Zacharias Janssen and his son invented the world's first microscope.\n\nJanssen made a microscope by putting a concave and convex lens together. Due to the low quality, it can only magnify things up to 10 times bigger more than an ordinary magnifying glass does and cannot be used to see microorganisms. After many tries, he finally made a microscope that can magnify things 300 times and finally allows people to observe microorganisms.\n\n[History of Microscopy]\n\n20 years later, Leeuw …",
+        "fame": "23",
+        "art": "27",
+        "fth": "30",
+        "civ": "28",
+        "tech": "46",
+        "ss1": "Per 5 Cloning Tank LVLs, Snail HP +40<br>Cloning Tank LVL: 50/50",
+        "ss2": "Per 5 Cloning Tank LVLs, Snail HP +80<br>Cloning Tank LVL: 50/50",
+        "ss3": "Per 5 Cloning Tank LVLs, Snail HP +120<br>Cloning Tank LVL: 50/50",
+        "ss4": "Per 5 Cloning Tank LVLs, Snail HP +200<br>Cloning Tank LVL: 50/50",
+        "ss7": "Per 5 Cloning Tank LVLs, Snail HP +200<br>Cloning Tank LVL: 50/50<br>Snail HP +500 (Awakened)",
+        "skill1": "[[File:Genesim skill I.png|50px]] Place in Gene Sim Device: This Relic's TECH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Janssen_Microscope.wiki",
+  "markdown_path": "markdown/Janssen_Microscope.md"
+}

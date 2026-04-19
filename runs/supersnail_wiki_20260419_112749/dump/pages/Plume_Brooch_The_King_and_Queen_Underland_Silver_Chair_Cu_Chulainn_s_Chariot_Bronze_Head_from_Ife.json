@@ -1,0 +1,33 @@
+{
+  "pageid": 8537,
+  "ns": 0,
+  "title": "Plume Brooch+The King and Queen+Underland Silver Chair+Cu Chulainn's Chariot+Bronze Head from Ife",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Plume_Brooch%2BThe_King_and_Queen%2BUnderland_Silver_Chair%2BCu_Chulainn%27s_Chariot%2BBronze_Head_from_Ife",
+  "touched": "2025-06-20T00:14:55Z",
+  "length": 266,
+  "lastrevid": 36045,
+  "revision": {
+    "revid": 36045,
+    "parentid": 34432,
+    "timestamp": "2025-06-20T00:14:55Z",
+    "sha1": "f55367bfeabfc76111afbf536db732ef20c279ef",
+    "size": 266
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "708",
+        "relics": "Plume Brooch,The King and Queen,Underland Silver Chair,Cu Chulainn's Chariot,Bronze Head from Ife",
+        "rank": "purple",
+        "amount": "5",
+        "category": "self",
+        "description": "Per Orange Brand Cases opened, Snail HP +90;Orange Brand Cases Opened: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Plume_Brooch_The_King_and_Queen_Underland_Silver_Chair_Cu_Chulainn_s_Chariot_Bronze_Head_from_Ife.wiki",
+  "markdown_path": "markdown/Plume_Brooch_The_King_and_Queen_Underland_Silver_Chair_Cu_Chulainn_s_Chariot_Bronze_Head_from_Ife.md"
+}

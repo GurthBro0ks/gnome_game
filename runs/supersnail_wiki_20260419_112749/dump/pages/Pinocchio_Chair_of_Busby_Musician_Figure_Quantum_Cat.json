@@ -1,0 +1,33 @@
+{
+  "pageid": 10150,
+  "ns": 0,
+  "title": "Pinocchio+Chair of Busby+Musician Figure+Quantum Cat",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pinocchio%2BChair_of_Busby%2BMusician_Figure%2BQuantum_Cat",
+  "touched": "2025-08-11T10:40:26Z",
+  "length": 200,
+  "lastrevid": 37773,
+  "revision": {
+    "revid": 37773,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:40:26Z",
+    "sha1": "1abd5ccc22c99ae633cce10321192950c3c9520c",
+    "size": 200
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "62",
+        "relics": "Pinocchio,Chair of Busby,Musician Figure,Quantum Cat",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 200 DNA Strength, Snail HP +30;DNA Strength: 5600/5600"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pinocchio_Chair_of_Busby_Musician_Figure_Quantum_Cat.wiki",
+  "markdown_path": "markdown/Pinocchio_Chair_of_Busby_Musician_Figure_Quantum_Cat.md"
+}

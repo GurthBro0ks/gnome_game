@@ -1,0 +1,55 @@
+{
+  "pageid": 9852,
+  "ns": 0,
+  "title": "Star of Adam",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Star_of_Adam",
+  "touched": "2025-08-11T11:19:24Z",
+  "length": 2323,
+  "lastrevid": 39463,
+  "revision": {
+    "revid": 39463,
+    "parentid": 37231,
+    "timestamp": "2025-08-11T11:19:24Z",
+    "sha1": "1d463728dc03b57b371a81104df44bdae416f268",
+    "size": 2323
+  },
+  "categories": [
+    "FAME Relics",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Star of Adam",
+        "class_id": "22631",
+        "rank": "SSS",
+        "affct": "FAME",
+        "birthday": "07-20",
+        "description": "On Jul 20, 2016 AD, the \"Star of Adam\" was sold for $300 million.<br>The \"Star of Adam\" is the largest known blue star sapphire in the world, prized for its unique six-rayed star pattern formed by special minerals on its surface. Weighing over 1,400 carats, this exceptional gemstone is considered an irreplaceable treasure.",
+        "fame": "107",
+        "art": "63",
+        "fth": "48",
+        "civ": "66",
+        "tech": "78",
+        "ss1": "Zombie Minion RUSH +3%<br>Per 5 Mirage Gems gained, Snail ATK +3<br>Per 5 Mirage Gems gained, Snail DEF +3<br>Mirage Gems Gained: 300/300",
+        "ss2": "Zombie Minion RUSH +4%<br>Per 5 Mirage Gems gained, Snail ATK +4<br>Per 5 Mirage Gems gained, Snail DEF +4<br>Mirage Gems Gained: 300/300",
+        "ss3": "Zombie Minion RUSH +5%<br>Per 5 Mirage Gems gained, Snail ATK +5<br>Per 5 Mirage Gems gained, Snail DEF +5<br>Mirage Gems Gained: 300/300",
+        "ss4": "Zombie Minion RUSH +7%<br>Per 5 Mirage Gems gained, Snail ATK +7<br>Per 5 Mirage Gems gained, Snail DEF +7<br>Mirage Gems Gained: 300/300",
+        "ss5": "Zombie Minion RUSH +9%<br>Per 5 Mirage Gems gained, Snail ATK +9<br>Per 5 Mirage Gems gained, Snail DEF +9<br>Mirage Gems Gained: 300/300",
+        "ss6": "Zombie Minion RUSH +12%<br>Per 5 Mirage Gems gained, Snail ATK +12<br>Per 5 Mirage Gems gained, Snail DEF +12<br>Mirage Gems Gained: 300/300",
+        "ss7": "Zombie Minion RUSH +12%<br>Per 5 Mirage Gems gained, Snail ATK +12<br>Per 5 Mirage Gems gained, Snail DEF +12<br>Mirage Gems Gained: 300/300<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Bharata skill III.png|50px]]Place in Bharata Museum: This Relic's FAME +15",
+        "skill2": "[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, 2x Orange Card Drops +15%",
+        "skill3": "[[File:Bharata skill III.png|50px]]Place in Bharata Museum: In Bharata, 2x Orange Reagent Drops +15%",
+        "mirage": "{{Mirage|name=dungeon@22631_1|reward={{RewardIconWithLink|W-tadpole, +1000|orange}}\n|3name=Shooting Star|3rec=120.91M|3atk=360470|3defense=214011|3hp=38041595|3weak=44542\n|4name=Morning Star|4rec=138.87M|4atk=399870|4defense=239275|4hp=51924483|4weak=48241\n|5name=Lucky Star|5rec=162.96M|5atk=453890|5defense=273168|5hp=73517105|5weak=52455\n|6name=Star Peace|6rec=196.14M|6atk=524207|6defense=319857|6hp=107144253|6weak=57139\n|Arec=247.46M|Aatk=622576|Adefense=385197|Ahp=172507379|Aweak=62335\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Star_of_Adam.wiki",
+  "markdown_path": "markdown/Star_of_Adam.md"
+}

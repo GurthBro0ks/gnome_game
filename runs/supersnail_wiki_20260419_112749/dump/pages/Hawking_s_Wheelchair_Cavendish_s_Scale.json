@@ -1,0 +1,34 @@
+{
+  "pageid": 3616,
+  "ns": 0,
+  "title": "Hawking's Wheelchair+Cavendish's Scale",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hawking%27s_Wheelchair%2BCavendish%27s_Scale",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 167,
+  "lastrevid": 13197,
+  "revision": {
+    "revid": 13197,
+    "parentid": 0,
+    "timestamp": "2023-09-22T15:22:20Z",
+    "sha1": "c7ad84f327db545a13bb7f3edb4d15c762403f85",
+    "size": 167
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Hawking's Wheelchair,Cavendish's Scale",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail RUSH +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hawking_s_Wheelchair_Cavendish_s_Scale.wiki",
+  "markdown_path": "markdown/Hawking_s_Wheelchair_Cavendish_s_Scale.md"
+}

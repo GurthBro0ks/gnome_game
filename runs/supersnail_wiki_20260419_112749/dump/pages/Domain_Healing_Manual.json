@@ -1,0 +1,47 @@
+{
+  "pageid": 10199,
+  "ns": 0,
+  "title": "Domain Healing Manual",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Domain_Healing_Manual",
+  "touched": "2025-08-11T10:42:33Z",
+  "length": 583,
+  "lastrevid": 37864,
+  "revision": {
+    "revid": 37864,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:42:33Z",
+    "sha1": "db6992d13400fc16a72f5d59f079c235b000e78b",
+    "size": 583
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Domain Healing Manual",
+        "class_id": "20731",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "After the Traveler cleared the Domains of the Seven Gods, the gaze of the Earth's Will returned, rewarding those willing to embrace change. The Earth's will promised not to let them suffer severe injuries in theDomains.",
+        "fame": "13",
+        "art": "13",
+        "fth": "29",
+        "civ": "16",
+        "tech": "19",
+        "ss1": "In all Domains, Troop Casualty -3%",
+        "ss2": "In all Domains, Troop Casualty -5%",
+        "ss3": "In all Domains, Troop Casualty -7%",
+        "ss4": "In all Domains, Troop Casualty -7%",
+        "ss7": "In all Domains, Troop Casualty -7%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Domain_Healing_Manual.wiki",
+  "markdown_path": "markdown/Domain_Healing_Manual.md"
+}

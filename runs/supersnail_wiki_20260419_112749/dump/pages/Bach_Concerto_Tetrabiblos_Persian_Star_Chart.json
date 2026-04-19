@@ -1,0 +1,34 @@
+{
+  "pageid": 3320,
+  "ns": 0,
+  "title": "Bach Concerto+Tetrabiblos+Persian Star Chart",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bach_Concerto%2BTetrabiblos%2BPersian_Star_Chart",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 201,
+  "lastrevid": 12057,
+  "revision": {
+    "revid": 12057,
+    "parentid": 0,
+    "timestamp": "2023-09-13T08:29:27Z",
+    "sha1": "001ac5f19741b0c4ddb48fb49e37162300e94b04",
+    "size": 201
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Bach Concerto,Tetrabiblos,Persian Star Chart",
+        "rank": "blue",
+        "amount": "3",
+        "category": "home",
+        "description": "The Pond has a +12% chance to produce W-tads"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bach_Concerto_Tetrabiblos_Persian_Star_Chart.wiki",
+  "markdown_path": "markdown/Bach_Concerto_Tetrabiblos_Persian_Star_Chart.md"
+}

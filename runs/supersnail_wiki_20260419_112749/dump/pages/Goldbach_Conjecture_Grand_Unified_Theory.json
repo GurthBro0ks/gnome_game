@@ -1,0 +1,33 @@
+{
+  "pageid": 5271,
+  "ns": 0,
+  "title": "Goldbach Conjecture+Grand Unified Theory",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Goldbach_Conjecture%2BGrand_Unified_Theory",
+  "touched": "2025-07-02T09:43:59Z",
+  "length": 213,
+  "lastrevid": 37103,
+  "revision": {
+    "revid": 37103,
+    "parentid": 19264,
+    "timestamp": "2025-07-02T09:43:59Z",
+    "sha1": "68e311eb24e9cf4f1a8106e9087e542ba9055058",
+    "size": 213
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "518",
+        "relics": "Goldbach Conjecture,Grand Unified Theory",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Fissure Incident completed, Snail DEF +14;Fissure Incidents Completed: 25/25"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Goldbach_Conjecture_Grand_Unified_Theory.wiki",
+  "markdown_path": "markdown/Goldbach_Conjecture_Grand_Unified_Theory.md"
+}

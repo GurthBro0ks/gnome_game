@@ -1,0 +1,51 @@
+{
+  "pageid": 4644,
+  "ns": 0,
+  "title": "Orichalcum",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Orichalcum",
+  "touched": "2025-06-20T00:10:07Z",
+  "length": 1029,
+  "lastrevid": 35934,
+  "revision": {
+    "revid": 35934,
+    "parentid": 35147,
+    "timestamp": "2025-06-20T00:10:07Z",
+    "sha1": "6bed289f156d06e0469f299f205efe77da4866a8",
+    "size": 1029
+  },
+  "categories": [
+    "Blue FAITH Relics",
+    "Blue Relics",
+    "FAITH Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Orichalcum",
+        "class_id": "22050",
+        "rank": "Blue",
+        "affct": "FAITH",
+        "birthday": "11-20",
+        "source": "Lottery Machine No.2 (0.07%), Wishing (0.03%)",
+        "description": "On Nov 20, 10,000 BC, the people of Atlantis discovered Orichalcum from the fountainhead underground.<br>Orichalcum is a mysterious metal from Atlantis, described as a golden-yellow copper alloy, famous for its hardness. It is said that the walls of ancient Atlantis were wrapped in this metal. As one of the important subjects of Atlantis research, the veil on its mystery has not yet been revealed by the world.",
+        "fame": "23",
+        "art": "32",
+        "fth": "47",
+        "civ": "22",
+        "tech": "30",
+        "ss1": "Per 3 Gears crafted, Snail DEF +2<br>Gears Crafted: 60/60",
+        "ss2": "Per 3 Gears crafted, Snail DEF +4<br>Gears Crafted: 60/60",
+        "ss3": "Per 3 Gears crafted, Snail DEF +6<br>Gears Crafted: 60/60",
+        "ss4": "Per 3 Gears crafted, Snail DEF +10<br>Gears Crafted: 60/60",
+        "ss7": "Per 3 Gears crafted, Snail DEF +10<br>Gears Crafted: 60/60<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Quary skill I.png|50px]]Place in Quarry: Stone Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Orichalcum.wiki",
+  "markdown_path": "markdown/Orichalcum.md"
+}

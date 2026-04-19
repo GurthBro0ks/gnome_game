@@ -1,0 +1,33 @@
+{
+  "pageid": 4599,
+  "ns": 0,
+  "title": "Neptune the Sea God+Nestor's Cup",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Neptune_the_Sea_God%2BNestor%27s_Cup",
+  "touched": "2025-06-19T23:54:20Z",
+  "length": 167,
+  "lastrevid": 35673,
+  "revision": {
+    "revid": 35673,
+    "parentid": 18335,
+    "timestamp": "2025-06-19T23:54:20Z",
+    "sha1": "b95786da437ad55038a81106bb50112f520e8631",
+    "size": 167
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "311",
+        "relics": "Neptune the Sea God,Nestor's Cup",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Angel Minions in battle: Troop ATK +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Neptune_the_Sea_God_Nestor_s_Cup.wiki",
+  "markdown_path": "markdown/Neptune_the_Sea_God_Nestor_s_Cup.md"
+}

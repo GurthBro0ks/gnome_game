@@ -1,0 +1,35 @@
+{
+  "pageid": 7965,
+  "ns": 0,
+  "title": "Agris Gold Helmet+Ford Model T+Cats Musical+Feng Qinshan Stele+Nicomachean Ethics+Galileo's Telescope",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Agris_Gold_Helmet%2BFord_Model_T%2BCats_Musical%2BFeng_Qinshan_Stele%2BNicomachean_Ethics%2BGalileo%27s_Telescope",
+  "touched": "2025-02-22T17:23:36Z",
+  "length": 329,
+  "lastrevid": 33417,
+  "revision": {
+    "revid": 33417,
+    "parentid": 0,
+    "timestamp": "2025-02-22T01:58:40Z",
+    "sha1": "83ce8261c99dc2f7e621ae1bd43f31e9e3dbe39f",
+    "size": 329
+  },
+  "categories": [
+    "ATK Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Agris Gold Helmet,Ford Model T,Cats Musical,Feng Qinshan Stele,Nicomachean Ethics,Galileo's Telescope",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Per 100 times Ultimate Weapons forged, Snail ATK +12; Ultimate Weapons forged: 6,000/6,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Agris_Gold_Helmet_Ford_Model_T_Cats_Musical_Feng_Qinshan_Stele_Nicomachean_Ethics_Galileo_s_Telescope.wiki",
+  "markdown_path": "markdown/Agris_Gold_Helmet_Ford_Model_T_Cats_Musical_Feng_Qinshan_Stele_Nicomachean_Ethics_Galileo_s_Telescope.md"
+}

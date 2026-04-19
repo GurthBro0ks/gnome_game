@@ -1,0 +1,33 @@
+{
+  "pageid": 9818,
+  "ns": 0,
+  "title": "The Son of Man+Madame Bovary+Rainbow Feathered Robe+Wave-Particle Duality+Of Human Bondage+Mont Sainte-Victoire",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Son_of_Man%2BMadame_Bovary%2BRainbow_Feathered_Robe%2BWave-Particle_Duality%2BOf_Human_Bondage%2BMont_Sainte-Victoire",
+  "touched": "2025-07-02T09:50:26Z",
+  "length": 231,
+  "lastrevid": 37141,
+  "revision": {
+    "revid": 37141,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:47:36Z",
+    "sha1": "cb798607dd0e9b2a1252b1f4dbc147e76bceeb92",
+    "size": 231
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "1204",
+        "relics": "The Son of Man,Madame Bovary,Rainbow Feathered Robe,Wave-Particle Duality,Of Human Bondage,Mont Sainte-Victoire",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "All minion skins ATK +120%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Son_of_Man_Madame_Bovary_Rainbow_Feathered_Robe_Wave-Particle_Duality_Of_Human_Bondage_Mont_Sainte-Victoire.wiki",
+  "markdown_path": "markdown/The_Son_of_Man_Madame_Bovary_Rainbow_Feathered_Robe_Wave-Particle_Duality_Of_Human_Bondage_Mont_Sainte-Victoire.md"
+}

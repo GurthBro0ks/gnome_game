@@ -1,0 +1,47 @@
+{
+  "pageid": 11239,
+  "ns": 0,
+  "title": "Warsaw Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Warsaw_Award",
+  "touched": "2025-08-11T11:17:43Z",
+  "length": 910,
+  "lastrevid": 39390,
+  "revision": {
+    "revid": 39390,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:17:43Z",
+    "sha1": "532cea44bcecbeb196a780e0d32d1370a7f28842",
+    "size": 910
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Warsaw Award",
+        "class_id": "20982",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "As the first Polish film festival accredited by FIAPF, the Warsaw International Film Festival ranks among the most important competitive international film events in Central and Eastern Europe.",
+        "fame": "28",
+        "art": "18",
+        "fth": "13",
+        "civ": "14",
+        "tech": "17",
+        "ss1": "Individual Form Avatar rating cap raised to SSS+<br>Per Form unlocked, Water DMG +4<br>Forms Unlocked: 6/6",
+        "ss2": "Individual Form Avatar rating cap raised to SSS+<br>Per Form unlocked, Water DMG +8<br>Forms Unlocked: 6/6",
+        "ss3": "Individual Form Avatar rating cap raised to SSS+<br>Per Form unlocked, Water DMG +12<br>Forms Unlocked: 6/6",
+        "ss4": "Individual Form Avatar rating cap raised to SSS+<br>Per Form unlocked, Water DMG +12<br>Forms Unlocked: 6/6",
+        "ss7": "Individual Form Avatar rating cap raised to SSS+<br>Per Form unlocked, Water DMG +12<br>Forms Unlocked: 6/6<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Warsaw_Award.wiki",
+  "markdown_path": "markdown/Warsaw_Award.md"
+}

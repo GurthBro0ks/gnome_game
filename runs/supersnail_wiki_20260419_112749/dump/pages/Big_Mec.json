@@ -1,0 +1,29 @@
+{
+  "pageid": 3140,
+  "ns": 0,
+  "title": "Big Mec",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Big_Mec",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 352,
+  "lastrevid": 29009,
+  "revision": {
+    "revid": 29009,
+    "parentid": 12412,
+    "timestamp": "2024-09-07T12:34:33Z",
+    "sha1": "19e2a533021f58348972034e530cff1566c03dc6",
+    "size": 352
+  },
+  "categories": [
+    "CIV Shells",
+    "DEF Boost",
+    "Fire DMG Boost",
+    "Kemet",
+    "Mutant Form",
+    "RUSH Boost",
+    "Shells"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Big_Mec.wiki",
+  "markdown_path": "markdown/Big_Mec.md"
+}

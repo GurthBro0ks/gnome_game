@@ -1,0 +1,26 @@
+{
+  "pageid": 4775,
+  "ns": 0,
+  "title": "Missing Files",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Missing_Files",
+  "touched": "2026-02-01T21:42:15Z",
+  "length": 6853,
+  "lastrevid": 41822,
+  "revision": {
+    "revid": 41822,
+    "parentid": 41643,
+    "timestamp": "2026-02-01T21:42:15Z",
+    "sha1": "9244bda806c468f11853f7139cb9a390b569f0e4",
+    "size": 6853
+  },
+  "categories": [
+    "Editor",
+    "Icons",
+    "Missing Info",
+    "Pages with broken file links"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Missing_Files.wiki",
+  "markdown_path": "markdown/Missing_Files.md"
+}

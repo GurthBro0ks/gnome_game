@@ -1,0 +1,64 @@
+{
+  "pageid": 2920,
+  "ns": 0,
+  "title": "The Argo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Argo",
+  "touched": "2024-11-10T02:54:18Z",
+  "length": 2390,
+  "lastrevid": 30841,
+  "revision": {
+    "revid": 30841,
+    "parentid": 30145,
+    "timestamp": "2024-10-28T21:34:49Z",
+    "sha1": "cf95ce4a31f9b121fa5f8ee5e875cd347a76f98b",
+    "size": 2390
+  },
+  "categories": [
+    "ATK Boost",
+    "Ancient Fossil Boost",
+    "FTH Boost",
+    "FTH Relics",
+    "Missing Info",
+    "Museum Promo Boost",
+    "Orange FTH Relics",
+    "Orange Relics",
+    "Quarry Output Boost",
+    "Quarry Skill",
+    "RUSH Boost",
+    "Relic Boost",
+    "Relics",
+    "Rewards Wish Coin"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Argo",
+        "rank": "SSS",
+        "affct": "FTH",
+        "birthday": "01-21",
+        "source": "* Lottery Machine (0.09%)\n* [[Summer Festival]] Sept. 1 - Sept. 15 2023",
+        "description": "On Jan 21, 3603 BC, the Argo, laden with heroes, set sail on its momentous voyage. To reclaim his rightful throne, Easun led a band of young heroes on a quest to obtain the Golden Fleece. Along their arduous journey, they faced hardships and forged alliances. They experienced moments of joy as well as witnessed separations and sacrifices. Ultimately, with their unwavering courage and divine protection, they triumphantly accomplished their mission and returned to their homeland, earning admiratio …",
+        "fame": "66",
+        "art": "64",
+        "fth": "105",
+        "civ": "61",
+        "tech": "66",
+        "ss1": "Snail ATK +30<br>Per 3 FTH Relics gained, Snail ATK +12<br>Per 3 FTH Relics gained, Snail RUSH +12<br>FTH Relics: 60/60",
+        "ss2": "Snail ATK +40<br>Per 3 FTH Relics gained, Snail ATK +16<br>Per 3 FTH Relics gained, Snail RUSH +16<br>FTH Relics: 60/60",
+        "ss3": "Snail ATK +50<br>Per 3 FTH Relics gained, Snail ATK +20<br>Per 3 FTH Relics gained, Snail RUSH +20<br>FTH Relics: 60/60",
+        "ss4": "Snail ATK +70<br>Per 3 FTH Relics gained, Snail ATK +28<br>Per 3 FTH Relics gained, Snail RUSH +28<br>FTH Relics: 60/60",
+        "ss5": "Snail ATK +90<br>Per 3 FTH Relics gained, Snail ATK +36<br>Per 3 FTH Relics gained, Snail RUSH +36<br>FTH Relics: 60/60",
+        "ss6": "Snail ATK +120<br>Per 3 FTH Relics gained, Snail ATK +48<br>Per 3 FTH Relics gained, Snail RUSH +48<br>FTH Relics: 60/60",
+        "ss7": "Snail ATK +120<br>Per 3 FTH Relics gained, Snail ATK +48<br>Per 3 FTH Relics gained, Snail RUSH +48<br>FTH Relics: 60/60<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Quarry skill III.png|frameless|50x50px]] Place in Quarry: This Relic's FTH +15",
+        "skill2": "[[File:Quarry skill III.png|frameless|50x50px]] Place in Quarry: Quarry Max Cap +30%",
+        "skill3": "[[File:Quarry skill III.png|frameless|50x50px]] Place in Quarry: Find Ancient Fossil by +30%",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Argo.wiki",
+  "markdown_path": "markdown/The_Argo.md"
+}

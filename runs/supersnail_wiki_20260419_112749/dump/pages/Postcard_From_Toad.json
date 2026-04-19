@@ -1,0 +1,48 @@
+{
+  "pageid": 2237,
+  "ns": 0,
+  "title": "Postcard From Toad",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Postcard_From_Toad",
+  "touched": "2025-11-02T17:59:15Z",
+  "length": 749,
+  "lastrevid": 41720,
+  "revision": {
+    "revid": 41720,
+    "parentid": 38230,
+    "timestamp": "2025-11-02T17:59:15Z",
+    "sha1": "5e349c19a2f3b4b0da24dece906fb8233acb8640",
+    "size": 749
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Postcard From Toad",
+        "class_id": "20005",
+        "rank": "Green",
+        "affct": "ART",
+        "source": "Reward for killing [[Mailbox#Toad_Mercenary|Toad Mercenary]]'s second form",
+        "description": "Before it was corrupted, Toad Mercenary often went around the world and made postcards to record different cultures. After it was banned from traveling freely, the postcards went out of print.",
+        "fame": "14",
+        "art": "30",
+        "fth": "11",
+        "civ": "15",
+        "tech": "20",
+        "ss1": "Per new Realm entered, Snail ATK +5<br>Realms Reached: 8/8",
+        "ss2": "Per new Realm entered, Snail ATK +10<br>Realms Reached: 8/8",
+        "ss3": "Per new Realm entered, Snail ATK +15<br>Realms Reached: 8/8",
+        "ss4": "Per new Realm entered, Snail ATK +15<br>Realms Reached: 8/8",
+        "ss7": "Per new Realm entered, Snail ATK +15<br>Realms Reached: 8/8<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Postcard_From_Toad.wiki",
+  "markdown_path": "markdown/Postcard_From_Toad.md"
+}

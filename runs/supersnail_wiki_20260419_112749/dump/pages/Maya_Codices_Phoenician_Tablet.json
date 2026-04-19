@@ -1,0 +1,36 @@
+{
+  "pageid": 3422,
+  "ns": 0,
+  "title": "Maya Codices+Phoenician Tablet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Maya_Codices%2BPhoenician_Tablet",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 271,
+  "lastrevid": 18554,
+  "revision": {
+    "revid": 18554,
+    "parentid": 18328,
+    "timestamp": "2023-11-14T01:11:09Z",
+    "sha1": "d03817a0559bd1e1dc15d80762772072a86f09e5",
+    "size": 271
+  },
+  "categories": [
+    "Enhanced by Purple Relics",
+    "HP Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Maya Codices,Phoenician Tablet",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 3 Purple Relics gained, Snail HP +240<br>Purple Relics: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Maya_Codices_Phoenician_Tablet.wiki",
+  "markdown_path": "markdown/Maya_Codices_Phoenician_Tablet.md"
+}

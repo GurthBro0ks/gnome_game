@@ -1,0 +1,47 @@
+{
+  "pageid": 1821,
+  "ns": 0,
+  "title": "Yamato Grand Prize",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Yamato_Grand_Prize",
+  "touched": "2025-08-11T11:07:03Z",
+  "length": 737,
+  "lastrevid": 38932,
+  "revision": {
+    "revid": 38932,
+    "parentid": 25142,
+    "timestamp": "2025-08-11T11:07:03Z",
+    "sha1": "4b4f31dc1ca018243c20fe23f72015dc88be657d",
+    "size": 737
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Yamato Grand Prize",
+        "class_id": "20315",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The Grand Prize literally means the highest award. Yamato Grand Prize is the highest honor for the movie that stands out from tens of thousands of Yamato films every year. The winner represents unprecedented heights in both art and philosophy!",
+        "fame": "15",
+        "art": "17",
+        "fth": "17",
+        "civ": "30",
+        "tech": "11",
+        "ss1": "Per Partner you have, Snail HP +30<br>Current Partners: 15/15",
+        "ss2": "Per Partner you have, Snail HP +60<br>Current Partners: 15/15",
+        "ss3": "Per Partner you have, Snail HP +90<br>Current Partners: 15/15",
+        "ss4": "Per Partner you have, Snail HP +90<br>Current Partners: 15/15",
+        "ss7": "Per Partner you have, Snail HP +90<br>Current Partners: 15/15<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Yamato_Grand_Prize.wiki",
+  "markdown_path": "markdown/Yamato_Grand_Prize.md"
+}

@@ -1,0 +1,53 @@
+{
+  "pageid": 8424,
+  "ns": 0,
+  "title": "Perseus and Medusa",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Perseus_and_Medusa",
+  "touched": "2025-06-20T00:22:53Z",
+  "length": 1809,
+  "lastrevid": 36255,
+  "revision": {
+    "revid": 36255,
+    "parentid": 34740,
+    "timestamp": "2025-06-20T00:22:53Z",
+    "sha1": "2d63c7c9f58a1745d3330a905e08edbd2bb39441",
+    "size": 1809
+  },
+  "categories": [
+    "FAITH Relics",
+    "Pages with broken file links",
+    "Purple FAITH Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Perseus and Medusa",
+        "class_id": "22561",
+        "rank": "AAA",
+        "affct": "FAITH",
+        "birthday": "11-29",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Nov 29, 1540 AD, Cellini created this bronze statue.<br>Perseus and Medusa is a bronze sculpture made by the Italian sculptor Cellini, which depicts the image of the ancient Greek hero Perseus. Legend has it that this son of Zeus embarked on a journey after completing the trial of slaying Medusa, and, using his ingenuity, obtained several treasures, with which he completed his task and became a world-famous hero. The sculpture depicts the moment of his accomplishment, with the hero holding th …",
+        "fame": "47",
+        "art": "48",
+        "fth": "71",
+        "civ": "31",
+        "tech": "46",
+        "ss1": "Snail ATK +30<br>Per 3 Hidden Treasures claimed, Priest-Snail Assistance DMG +24<br>Hidden Treasures Claimed: 150/150",
+        "ss2": "Snail ATK +40<br>Per 3 Hidden Treasures claimed, Priest-Snail Assistance DMG +32<br>Hidden Treasures Claimed: 150/150",
+        "ss3": "Snail ATK +50<br>Per 3 Hidden Treasures claimed, Priest-Snail Assistance DMG +40<br>Hidden Treasures Claimed: 150/150",
+        "ss4": "Snail ATK +70<br>Per 3 Hidden Treasures claimed, Priest-Snail Assistance DMG +56<br>Hidden Treasures Claimed: 150/150",
+        "ss5": "Snail ATK +90<br>Per 3 Hidden Treasures claimed, Priest-Snail Assistance DMG +72<br>Hidden Treasures Claimed: 150/150",
+        "ss7": "Snail ATK +90<br>Per 3 Hidden Treasures claimed, Priest-Snail Assistance DMG +72<br>Hidden Treasures Claimed: 150/150<br>Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Desertsanctum skill II.png|50px]]Place in Desert Sanctum: Desert Sanctum, Glorium Cap +15%",
+        "skill2": "[[File:Desertsanctum skill II.png|50px]]Place in Desert Sanctum: This Relic's FTH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Perseus_and_Medusa.wiki",
+  "markdown_path": "markdown/Perseus_and_Medusa.md"
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 5709,
+  "ns": 0,
+  "title": "Devotee",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Devotee",
+  "touched": "2025-02-06T19:34:31Z",
+  "length": 382,
+  "lastrevid": 32585,
+  "revision": {
+    "revid": 32585,
+    "parentid": 21546,
+    "timestamp": "2024-12-28T15:25:04Z",
+    "sha1": "33029d18dece99e634d9c23eea09a772791daee7",
+    "size": 382
+  },
+  "categories": [
+    "ATK Boost",
+    "Angel Form",
+    "DEF Boost",
+    "FTH Shells",
+    "Fire DMG Boost",
+    "Shells",
+    "Yamato"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Devotee.wiki",
+  "markdown_path": "markdown/Devotee.md"
+}

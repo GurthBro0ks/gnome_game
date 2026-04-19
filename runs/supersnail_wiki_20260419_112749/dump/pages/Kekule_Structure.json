@@ -1,0 +1,52 @@
+{
+  "pageid": 5118,
+  "ns": 0,
+  "title": "Kekule Structure",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kekule_Structure",
+  "touched": "2025-06-19T23:52:47Z",
+  "length": 1919,
+  "lastrevid": 35652,
+  "revision": {
+    "revid": 35652,
+    "parentid": 34893,
+    "timestamp": "2025-06-19T23:52:47Z",
+    "sha1": "3330c08b70fabba1c56dfe937c1c58aafd47e59c",
+    "size": 1919
+  },
+  "categories": [
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Kekule Structure",
+        "class_id": "22198",
+        "rank": "AAA",
+        "affct": "TECH",
+        "birthday": "02-08",
+        "source": "Lottery Machine No.2 (0.06%), Wishing (0.02%)",
+        "description": "On Feb 8, 1866 AD, the structure of the benzene ring came to Kekule in a dream, and he drew the famed Kekule structure.<br>The Kekulean Structure, which is the formula of benzene, was created by Kekule, a Gaman organic chemist. In this structure, the carbon atoms are connected alternately with single and double bonds to form a ring model, which keeps the carbon atoms four-valent. The discovery of this structure played a huge role in promoting the development of organic chemistry. It is said that …",
+        "fame": "47",
+        "art": "31",
+        "fth": "54",
+        "civ": "38",
+        "tech": "73",
+        "ss1": "Per 3 TECH Relics awakened, Snail HP +60<br>Per 3 TECH Relics awakened, Snail ATK +6<br>TECH Relics Awakened: 105/105",
+        "ss2": "Per 3 TECH Relics awakened, Snail HP +80<br>Per 3 TECH Relics awakened, Snail ATK +8<br>TECH Relics Awakened: 105/105",
+        "ss3": "Per 3 TECH Relics awakened, Snail HP +100<br>Per 3 TECH Relics awakened, Snail ATK +10<br>TECH Relics Awakened: 105/105",
+        "ss4": "Per 3 TECH Relics awakened, Snail HP +140<br>Per 3 TECH Relics awakened, Snail ATK +14<br>TECH Relics Awakened: 105/105",
+        "ss5": "Per 3 TECH Relics awakened, Snail HP +180<br>Per 3 TECH Relics awakened, Snail ATK +18<br>TECH Relics Awakened: 105/105",
+        "ss7": "Per 3 TECH Relics awakened, Snail HP +180<br>Per 3 TECH Relics awakened, Snail ATK +18<br>TECH Relics Awakened: 105/105<br>Snail HP +700 (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Blue Reagent Drops +3%",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's TECH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kekule_Structure.wiki",
+  "markdown_path": "markdown/Kekule_Structure.md"
+}

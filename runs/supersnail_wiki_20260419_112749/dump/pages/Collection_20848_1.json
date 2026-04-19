@@ -1,0 +1,47 @@
+{
+  "pageid": 11302,
+  "ns": 0,
+  "title": "Collection@20848 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20848_1",
+  "touched": "2025-08-11T11:19:53Z",
+  "length": 1455,
+  "lastrevid": 39484,
+  "revision": {
+    "revid": 39484,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:19:53Z",
+    "sha1": "fe88c4735af0879a5a7985d37ad164c895178cf5",
+    "size": 1455
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20848_1",
+        "class_id": "20848",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "collection@20848_2",
+        "fame": "95",
+        "art": "95",
+        "fth": "95",
+        "civ": "95",
+        "tech": "100",
+        "ss1": "Per 5 Incubator Files fully restored, Snail HP +50<br>Per 5 Incubator Files fully restored, Snail ATK +5<br>Per 5 Incubator Files fully restored, Snail DEF +5<br>Per 5 Incubator Files fully restored, Snail RUSH +5<br>Files fully restored: 100/100",
+        "ss2": "Per 5 Incubator Files fully restored, Snail HP +100<br>Per 5 Incubator Files fully restored, Snail ATK +10<br>Per 5 Incubator Files fully restored, Snail DEF +10<br>Per 5 Incubator Files fully restored, Snail RUSH +10<br>Files fully restored: 100/100",
+        "ss3": "Per 5 Incubator Files fully restored, Snail HP +150<br>Per 5 Incubator Files fully restored, Snail ATK +15<br>Per 5 Incubator Files fully restored, Snail DEF +15<br>Per 5 Incubator Files fully restored, Snail RUSH +15<br>Files fully restored: 100/100",
+        "ss4": "Per 5 Incubator Files fully restored, Snail HP +150<br>Per 5 Incubator Files fully restored, Snail ATK +15<br>Per 5 Incubator Files fully restored, Snail DEF +15<br>Per 5 Incubator Files fully restored, Snail RUSH +15<br>Files fully restored: 100/100",
+        "ss7": "Per 5 Incubator Files fully restored, Snail HP +150<br>Per 5 Incubator Files fully restored, Snail ATK +15<br>Per 5 Incubator Files fully restored, Snail DEF +15<br>Per 5 Incubator Files fully restored, Snail RUSH +15<br>Files fully restored: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20848_1.wiki",
+  "markdown_path": "markdown/Collection_20848_1.md"
+}

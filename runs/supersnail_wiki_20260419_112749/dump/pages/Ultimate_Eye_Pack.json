@@ -1,0 +1,40 @@
+{
+  "pageid": 6604,
+  "ns": 0,
+  "title": "Ultimate Eye Pack",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ultimate_Eye_Pack",
+  "touched": "2024-11-16T01:42:18Z",
+  "length": 456,
+  "lastrevid": 31310,
+  "revision": {
+    "revid": 31310,
+    "parentid": 30796,
+    "timestamp": "2024-11-04T13:14:18Z",
+    "sha1": "3f209e78648f672f2e43958c3932e7bc5bd3a62e",
+    "size": 456
+  },
+  "categories": [
+    "Reward Pack"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Blasphemy Eye"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Eye of Horus"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ultimate_Eye_Pack.wiki",
+  "markdown_path": "markdown/Ultimate_Eye_Pack.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 10095,
+  "ns": 0,
+  "title": "Peachwood Charm",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Peachwood_Charm",
+  "touched": "2025-08-11T10:38:10Z",
+  "length": 820,
+  "lastrevid": 37683,
+  "revision": {
+    "revid": 37683,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:38:10Z",
+    "sha1": "d1e3728131012e1c3eb3d7f6395b3e74b3b6f166",
+    "size": 820
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Peachwood Charm",
+        "class_id": "20569",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "In the tradition of Chinese New Year, during the transition from old to new, people will write blessings on peach wood boards and hang them at the doorstep. The two peach charms are respectively inscribed with Shentu and Yulei, to ensure that the new year is free from disasters and enjoy blessings.",
+        "fame": "14",
+        "art": "15",
+        "fth": "14",
+        "civ": "34",
+        "tech": "13",
+        "ss1": "Snail ATK +20<br>Per 5 Sign-Ins, Snail HP +100<br>Sign-Ins: 100/100",
+        "ss2": "Snail ATK +40<br>Per 5 Sign-Ins, Snail HP +200<br>Sign-Ins: 100/100",
+        "ss3": "Snail ATK +60<br>Per 5 Sign-Ins, Snail HP +300<br>Sign-Ins: 100/100",
+        "ss4": "Snail ATK +60<br>Per 5 Sign-Ins, Snail HP +300<br>Sign-Ins: 100/100",
+        "ss7": "Snail ATK +60<br>Per 5 Sign-Ins, Snail HP +300<br>Sign-Ins: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Peachwood_Charm.wiki",
+  "markdown_path": "markdown/Peachwood_Charm.md"
+}

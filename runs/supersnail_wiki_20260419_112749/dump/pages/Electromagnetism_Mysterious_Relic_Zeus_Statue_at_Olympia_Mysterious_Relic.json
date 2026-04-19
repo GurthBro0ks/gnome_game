@@ -1,0 +1,35 @@
+{
+  "pageid": 8406,
+  "ns": 0,
+  "title": "Electromagnetism+Mysterious Relic+Zeus Statue at Olympia+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Electromagnetism%2BMysterious_Relic%2BZeus_Statue_at_Olympia%2BMysterious_Relic",
+  "touched": "2025-04-25T04:19:02Z",
+  "length": 265,
+  "lastrevid": 34240,
+  "revision": {
+    "revid": 34240,
+    "parentid": 0,
+    "timestamp": "2025-04-25T04:08:41Z",
+    "sha1": "ad8128226a86126773841a480d746eeb9090f54a",
+    "size": 265
+  },
+  "categories": [
+    "Minion",
+    "Minion ATK Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Electromagnetism,Mysterious Relic,Zeus Statue at Olympia,Mysterious Relic",
+        "rank": "orange",
+        "amount": "4",
+        "category": "minion",
+        "description": "Per 60 T7+ Minions in battle: Troop ATK +90"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Electromagnetism_Mysterious_Relic_Zeus_Statue_at_Olympia_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Electromagnetism_Mysterious_Relic_Zeus_Statue_at_Olympia_Mysterious_Relic.md"
+}

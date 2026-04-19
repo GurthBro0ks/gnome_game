@@ -1,0 +1,33 @@
+{
+  "pageid": 8914,
+  "ns": 0,
+  "title": "Ulysses+Head of Bhairava",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ulysses%2BHead_of_Bhairava",
+  "touched": "2025-06-20T00:01:40Z",
+  "length": 169,
+  "lastrevid": 35798,
+  "revision": {
+    "revid": 35798,
+    "parentid": 34985,
+    "timestamp": "2025-06-20T00:01:40Z",
+    "sha1": "58c9448c18117527f0fd3728ddbd8e755d37749b",
+    "size": 169
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "514",
+        "relics": "Ulysses,Head of Bhairava",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Angel Minions in battle: Troop HARD Stats +21"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ulysses_Head_of_Bhairava.wiki",
+  "markdown_path": "markdown/Ulysses_Head_of_Bhairava.md"
+}

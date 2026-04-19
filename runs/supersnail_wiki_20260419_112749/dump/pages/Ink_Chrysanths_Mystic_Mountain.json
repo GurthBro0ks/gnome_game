@@ -1,0 +1,33 @@
+{
+  "pageid": 5372,
+  "ns": 0,
+  "title": "Ink Chrysanths+Mystic Mountain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ink_Chrysanths%2BMystic_Mountain",
+  "touched": "2025-06-20T00:07:55Z",
+  "length": 167,
+  "lastrevid": 35911,
+  "revision": {
+    "revid": 35911,
+    "parentid": 23298,
+    "timestamp": "2025-06-20T00:07:55Z",
+    "sha1": "d68f3562c982be395a365aad1273b9082893d040",
+    "size": 167
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "498",
+        "relics": "Ink Chrysanths,Mystic Mountain",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop Water DMG +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ink_Chrysanths_Mystic_Mountain.wiki",
+  "markdown_path": "markdown/Ink_Chrysanths_Mystic_Mountain.md"
+}

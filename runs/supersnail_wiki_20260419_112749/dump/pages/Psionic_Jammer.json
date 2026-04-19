@@ -1,0 +1,47 @@
+{
+  "pageid": 2821,
+  "ns": 0,
+  "title": "Psionic Jammer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Psionic_Jammer",
+  "touched": "2025-08-11T10:58:25Z",
+  "length": 704,
+  "lastrevid": 38552,
+  "revision": {
+    "revid": 38552,
+    "parentid": 30691,
+    "timestamp": "2025-08-11T10:58:25Z",
+    "sha1": "66acb3bbe49295a75a6529adad6dfef14d9ecaa9",
+    "size": 704
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Psionic Jammer",
+        "class_id": "20430",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Research indicated a psion's heart can project an extremely strong psionic field, which is the basis for all psionic miracles! This jammer was created through thorough scientific integration of such field to block transmission of psionic energy on the basis of deep integration of nether energy radio waves! It can effectively block the transmission of nether energy waves!",
+        "fame": "29",
+        "art": "15",
+        "fth": "16",
+        "civ": "19",
+        "tech": "11",
+        "ss1": "Wormhole Refinement SPD +0.4%",
+        "ss2": "Wormhole Refinement SPD +0.8%",
+        "ss3": "Wormhole Refinement SPD +1.2%",
+        "ss4": "Wormhole Refinement SPD +1.2%",
+        "ss7": "Wormhole Refinement SPD +1.2%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Psionic_Jammer.wiki",
+  "markdown_path": "markdown/Psionic_Jammer.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 8915,
+  "ns": 0,
+  "title": "Miss Universe Crown+Taketori Tale+Mother and Daughter+Cintamani",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Miss_Universe_Crown%2BTaketori_Tale%2BMother_and_Daughter%2BCintamani",
+  "touched": "2025-06-20T00:01:53Z",
+  "length": 241,
+  "lastrevid": 35805,
+  "revision": {
+    "revid": 35805,
+    "parentid": 34993,
+    "timestamp": "2025-06-20T00:01:53Z",
+    "sha1": "e6c79da01a041121ad24360e23dd2ac7f5a15617",
+    "size": 241
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "440",
+        "relics": "Miss Universe Crown,Taketori Tale,Mother and Daughter,Cintamani",
+        "rank": "purple",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 30 Divine Chaos Chests opened: Snail DEF +8;Divine Chaos Chests Opened: 1500/1500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Miss_Universe_Crown_Taketori_Tale_Mother_and_Daughter_Cintamani.wiki",
+  "markdown_path": "markdown/Miss_Universe_Crown_Taketori_Tale_Mother_and_Daughter_Cintamani.md"
+}

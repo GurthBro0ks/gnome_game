@@ -1,0 +1,47 @@
+{
+  "pageid": 6739,
+  "ns": 0,
+  "title": "Ape God Attestation",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ape_God_Attestation",
+  "touched": "2025-08-11T11:09:03Z",
+  "length": 850,
+  "lastrevid": 39017,
+  "revision": {
+    "revid": 39017,
+    "parentid": 27819,
+    "timestamp": "2025-08-11T11:09:03Z",
+    "sha1": "89cd9dc371e02f93fafd3fa681c28b3c786c6f26",
+    "size": 850
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ape God Attestation",
+        "class_id": "20482",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The power in it is too strong, so the Ape God cast magic of concealment on it. Only the Divine Dragon can sense its greatness. Do not use it unless you have enough power.",
+        "fame": "29",
+        "art": "14",
+        "fth": "18",
+        "civ": "13",
+        "tech": "16",
+        "ss1": "Defeated Agents drop +5 W-tads<br>Per 5 Agents Defeated, Snail ATK +3<br>Agents Defeated: 100/100",
+        "ss2": "Defeated Agents drop +10 W-tads<br>Per 5 Agents Defeated, Snail ATK +6<br>Agents Defeated: 100/100",
+        "ss3": "Defeated Agents drop +15 W-tads<br>Per 5 Agents Defeated, Snail ATK +9<br>Agents Defeated: 100/100",
+        "ss4": "Defeated Agents drop +15 W-tads<br>Per 5 Agents Defeated, Snail ATK +9<br>Agents Defeated: 100/100",
+        "ss7": "Defeated Agents drop +15 W-tads<br>Per 5 Agents Defeated, Snail ATK +9<br>Agents Defeated: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ape_God_Attestation.wiki",
+  "markdown_path": "markdown/Ape_God_Attestation.md"
+}

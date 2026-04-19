@@ -1,0 +1,33 @@
+{
+  "pageid": 9820,
+  "ns": 0,
+  "title": "The Son of Man+Madame Bovary",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Son_of_Man%2BMadame_Bovary",
+  "touched": "2025-07-02T09:50:26Z",
+  "length": 141,
+  "lastrevid": 37150,
+  "revision": {
+    "revid": 37150,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:47:56Z",
+    "sha1": "a6ee859b67ae06db48cfb2b5dcb99de37e516a79",
+    "size": 141
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "1201",
+        "relics": "The Son of Man,Madame Bovary",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Son_of_Man_Madame_Bovary.wiki",
+  "markdown_path": "markdown/The_Son_of_Man_Madame_Bovary.md"
+}

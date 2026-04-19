@@ -1,0 +1,52 @@
+{
+  "pageid": 5098,
+  "ns": 0,
+  "title": "De Motu Cordis Model",
+  "fullurl": "https://supersnail.wiki.gg/wiki/De_Motu_Cordis_Model",
+  "touched": "2025-06-20T00:12:28Z",
+  "length": 1639,
+  "lastrevid": 35960,
+  "revision": {
+    "revid": 35960,
+    "parentid": 35186,
+    "timestamp": "2025-06-20T00:12:28Z",
+    "sha1": "32589f2ba75f283981a53e36ae6b8e3becce10a0",
+    "size": 1639
+  },
+  "categories": [
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "De Motu Cordis Model",
+        "class_id": "22202",
+        "rank": "AAA",
+        "affct": "TECH",
+        "birthday": "04-25",
+        "source": "Lottery Machine No.2 (0.06%), Wishing (0.02%)",
+        "description": "On Apr 25, 1616 AD, Harvey proposed a theoretical model of blood circulation during his lectures in Britain.<br>The creator of this model of the human circulatory system is Harvey, an British physiologist. As the proposer of the theory of blood circulation, he clarified the function of the heart and the existence of blood circulation through many anatomical experiments. His theory negated some erroneous views of his predecessors, and he explained the detailed process of circulation to the world, …",
+        "fame": "44",
+        "art": "34",
+        "fth": "52",
+        "civ": "41",
+        "tech": "72",
+        "ss1": "Per Organ implanted, Snail ATK +3<br>Per Organ implanted, Snail RUSH +3<br>Organs Implanted: 40/40",
+        "ss2": "Per Organ implanted, Snail ATK +4<br>Per Organ implanted, Snail RUSH +4<br>Organs Implanted: 40/40",
+        "ss3": "Per Organ implanted, Snail ATK +5<br>Per Organ implanted, Snail RUSH +5<br>Organs Implanted: 40/40",
+        "ss4": "Per Organ implanted, Snail ATK +7<br>Per Organ implanted, Snail RUSH +7<br>Organs Implanted: 40/40",
+        "ss5": "Per Organ implanted, Snail ATK +9<br>Per Organ implanted, Snail RUSH +9<br>Organs Implanted: 40/40",
+        "ss7": "Per Organ implanted, Snail ATK +9<br>Per Organ implanted, Snail RUSH +9<br>Organs Implanted: 40/40<br>Snail RUSH +70 (Awakened)",
+        "skill1": "[[File:Surfclam skill II.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion RUSH +4.5%",
+        "skill2": "[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's TECH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/De_Motu_Cordis_Model.wiki",
+  "markdown_path": "markdown/De_Motu_Cordis_Model.md"
+}

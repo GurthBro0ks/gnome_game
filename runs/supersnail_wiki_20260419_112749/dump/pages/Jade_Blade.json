@@ -1,0 +1,47 @@
+{
+  "pageid": 10800,
+  "ns": 0,
+  "title": "Jade Blade",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jade_Blade",
+  "touched": "2025-08-11T11:02:02Z",
+  "length": 866,
+  "lastrevid": 38711,
+  "revision": {
+    "revid": 38711,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:02:02Z",
+    "sha1": "0ea92bfb4e3aea20b39f4cbf4f3a45964830d74e",
+    "size": 866
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Jade Blade",
+        "class_id": "20143",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "Jade Zhang and Jade Gui are both flat cuboids with beveled edges on one end and holes on the other. This Jade Zhang was excavated in the Sanxingdui ritual pit I. It's extremely beautiful with a split end, multi-toothed case-like prism fully spread to both sides, resembling open wings.",
+        "fame": "17",
+        "art": "31",
+        "fth": "14",
+        "civ": "13",
+        "tech": "15",
+        "ss1": "Per 1.5k Museum Medals gained, Snail HP +20<br>Museum Medals Gained: 60000/60000",
+        "ss2": "Per 1.5k Museum Medals gained, Snail HP +40<br>Museum Medals Gained: 60000/60000",
+        "ss3": "Per 1.5k Museum Medals gained, Snail HP +60<br>Museum Medals Gained: 60000/60000",
+        "ss4": "Per 1.5k Museum Medals gained, Snail HP +60<br>Museum Medals Gained: 60000/60000",
+        "ss7": "Per 1.5k Museum Medals gained, Snail HP +60<br>Museum Medals Gained: 60000/60000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jade_Blade.wiki",
+  "markdown_path": "markdown/Jade_Blade.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 6917,
+  "ns": 0,
+  "title": "Birdwatching Scope",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Birdwatching_Scope",
+  "touched": "2025-08-11T11:03:57Z",
+  "length": 534,
+  "lastrevid": 38794,
+  "revision": {
+    "revid": 38794,
+    "parentid": 32695,
+    "timestamp": "2025-08-11T11:03:57Z",
+    "sha1": "29366e3776b1f0cfeddce119afbd00c3a272e8af",
+    "size": 534
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Birdwatching Scope",
+        "class_id": "20360",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "This scope is designed specifically for birdwatchers, with excellent touch and high precision, making it easier to locate birds. The lens is strictly controlled and can see through bird camouflage up to 100 meters away. However, its image quality is poor at short distances.",
+        "fame": "14",
+        "art": "17",
+        "fth": "15",
+        "civ": "13",
+        "tech": "31",
+        "ss1": "Snail RUSH +10",
+        "ss2": "Snail RUSH +20",
+        "ss3": "Snail RUSH +30",
+        "ss4": "Snail RUSH +30",
+        "ss7": "Snail RUSH +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Birdwatching_Scope.wiki",
+  "markdown_path": "markdown/Birdwatching_Scope.md"
+}

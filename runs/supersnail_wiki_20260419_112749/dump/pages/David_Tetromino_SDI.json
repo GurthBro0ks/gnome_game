@@ -1,0 +1,34 @@
+{
+  "pageid": 3802,
+  "ns": 0,
+  "title": "David+Tetromino+SDI",
+  "fullurl": "https://supersnail.wiki.gg/wiki/David%2BTetromino%2BSDI",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 168,
+  "lastrevid": 13700,
+  "revision": {
+    "revid": 13700,
+    "parentid": 0,
+    "timestamp": "2023-10-02T12:28:01Z",
+    "sha1": "814c8ad7d6abd5a9f34cad99f74458bc699606e6",
+    "size": 168
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "David,Tetromino,SDI",
+        "rank": "orange",
+        "amount": "3",
+        "category": "other",
+        "description": "In any Realm, INTEL gained +4.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/David_Tetromino_SDI.wiki",
+  "markdown_path": "markdown/David_Tetromino_SDI.md"
+}

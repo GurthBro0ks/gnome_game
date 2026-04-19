@@ -1,0 +1,47 @@
+{
+  "pageid": 11100,
+  "ns": 0,
+  "title": "Frozen Sloth",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Frozen_Sloth",
+  "touched": "2025-08-11T11:12:21Z",
+  "length": 756,
+  "lastrevid": 39157,
+  "revision": {
+    "revid": 39157,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:12:21Z",
+    "sha1": "8e58e85b69b1fd1c877b52c84ddda0b1036df12a",
+    "size": 756
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Frozen Sloth",
+        "class_id": "20164",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "The unlucky sloth got frozen because he ran too slowly during the avalanche. He stayed in a running position and looked like he could jump out as soon as the ice melted, but it is still unknown if he will come back to life after the ice melts.",
+        "fame": "14",
+        "art": "30",
+        "fth": "15",
+        "civ": "16",
+        "tech": "15",
+        "ss1": "Per 500 Fissure Floors, Snail HP +10<br>Fissure Floor: 15000/15000",
+        "ss2": "Per 500 Fissure Floors, Snail HP +20<br>Fissure Floor: 15000/15000",
+        "ss3": "Per 500 Fissure Floors, Snail HP +30<br>Fissure Floor: 15000/15000",
+        "ss4": "Per 500 Fissure Floors, Snail HP +30<br>Fissure Floor: 15000/15000",
+        "ss7": "Per 500 Fissure Floors, Snail HP +30<br>Fissure Floor: 15000/15000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Frozen_Sloth.wiki",
+  "markdown_path": "markdown/Frozen_Sloth.md"
+}

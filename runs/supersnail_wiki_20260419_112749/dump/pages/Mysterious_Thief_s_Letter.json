@@ -1,0 +1,47 @@
+{
+  "pageid": 10082,
+  "ns": 0,
+  "title": "Mysterious Thief's Letter",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mysterious_Thief%27s_Letter",
+  "touched": "2025-08-11T10:37:41Z",
+  "length": 995,
+  "lastrevid": 37663,
+  "revision": {
+    "revid": 37663,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:37:41Z",
+    "sha1": "fb1f3e403e6d15f25fe5c8c4a543293f76d44616",
+    "size": 995
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mysterious Thief's Letter",
+        "class_id": "20941",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "The exclusive preview letter of the legendary phantom thief, Arsène Lupin. The exquisite letter and its elaborate words not only reveal the identity and taste of its creator but also the included Arsène Lupin-style mask enhances its value as a collectible.",
+        "fame": "29",
+        "art": "15",
+        "fth": "15",
+        "civ": "17",
+        "tech": "14",
+        "ss1": "Per Complete Exhibition, Snail ATK +3<br>Per Complete Exhibition, Snail RUSH +3<br>Complete Exhibitions: 9/9",
+        "ss2": "Per Complete Exhibition, Snail ATK +6<br>Per Complete Exhibition, Snail RUSH +6<br>Complete Exhibitions: 9/9",
+        "ss3": "Per Complete Exhibition, Snail ATK +9<br>Per Complete Exhibition, Snail RUSH +9<br>Complete Exhibitions: 9/9",
+        "ss4": "Per Complete Exhibition, Snail ATK +9<br>Per Complete Exhibition, Snail RUSH +9<br>Complete Exhibitions: 9/9",
+        "ss7": "Per Complete Exhibition, Snail ATK +9<br>Per Complete Exhibition, Snail RUSH +9<br>Complete Exhibitions: 9/9<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mysterious_Thief_s_Letter.wiki",
+  "markdown_path": "markdown/Mysterious_Thief_s_Letter.md"
+}

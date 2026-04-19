@@ -1,0 +1,60 @@
+{
+  "pageid": 5043,
+  "ns": 0,
+  "title": "The Last Judgement",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Last_Judgement",
+  "touched": "2025-04-25T04:00:57Z",
+  "length": 2002,
+  "lastrevid": 27627,
+  "revision": {
+    "revid": 27627,
+    "parentid": 25491,
+    "timestamp": "2024-06-01T02:53:25Z",
+    "sha1": "46d313e1876cd8aa1722c331e06d2c4ab64b46e4",
+    "size": 2002
+  },
+  "categories": [
+    "ATK Boost",
+    "Daily Pack Relics",
+    "Divine Chaos Chest Drop Boost",
+    "FTH Relics",
+    "Leadership Boost",
+    "Missing Info",
+    "Orange FTH Relics",
+    "Orange Relics",
+    "RUSH Boost",
+    "Relics",
+    "Rift Exploration Boost",
+    "Rift Museum Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Last Judgement",
+        "rank": "SSS",
+        "affct": "FTH",
+        "source": "Daily Pack Relic #18",
+        "fame": "62",
+        "art": "73",
+        "fth": "108",
+        "civ": "49",
+        "tech": "70",
+        "ss1": "Snail ATK +?<br>When offering, 2x Chaos Chest Drops +?%<br>Per FTH Master Scroll used, Snail RUSH +?<br>FTH Master Scrolls Used: 10/10",
+        "ss2": "Snail ATK +?<br>When offering, 2x Chaos Chest Drops +?%<br>Per FTH Master Scroll used, Snail RUSH +?<br>FTH Master Scrolls Used: 10/10",
+        "ss3": "Snail ATK +?<br>When offering, 2x Chaos Chest Drops +?%<br>Per FTH Master Scroll used, Snail RUSH +?<br>FTH Master Scrolls Used: 10/10",
+        "ss4": "Snail ATK +?<br>When offering, 2x Chaos Chest Drops +?%<br>Per FTH Master Scroll used, Snail RUSH +?<br>FTH Master Scrolls Used: 10/10",
+        "ss5": "Snail ATK +?<br>When offering, 2x Chaos Chest Drops +?%<br>Per FTH Master Scroll used, Snail RUSH +?<br>FTH Master Scrolls Used: 10/10",
+        "ss6": "Snail ATK +120<br>When offering, 2x Chaos Chest Drops +12%<br>Per FTH Master Scroll used, Snail RUSH +48<br>FTH Master Scrolls Used: 10/10",
+        "ss7": "Snail ATK +120<br>When offering, 2x Chaos Chest Drops +12%<br>Per FTH Master Scroll used, Snail RUSH +48<br>FTH Master Scrolls Used: 10/10<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +600",
+        "skill2": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x B-tad Drops +6%",
+        "skill3": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, Earth DMG +300",
+        "mirage": "{{Mirage|name=|reward=\n|3name=|3rec=|3atk=|3def=|3hp=|3weak=\n|4name=|4rec=|4atk=|4def=|4hp=|4weak=\n|5name=|5rec=|5atk=|5def=|5hp=|5weak=\n|6name=|6rec=|6atk=|6def=|6hp=|6weak=\n|Arec=|Aatk=|Adef=|Ahp=|Aweak=\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Last_Judgement.wiki",
+  "markdown_path": "markdown/The_Last_Judgement.md"
+}

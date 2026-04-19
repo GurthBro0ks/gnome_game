@@ -1,0 +1,51 @@
+{
+  "pageid": 4805,
+  "ns": 0,
+  "title": "Phial of Galadrial",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Phial_of_Galadrial",
+  "touched": "2025-08-11T10:34:02Z",
+  "length": 1425,
+  "lastrevid": 37498,
+  "revision": {
+    "revid": 37498,
+    "parentid": 33337,
+    "timestamp": "2025-08-11T10:34:02Z",
+    "sha1": "164dd6ae6ec7bf7e0e1f11599c9524746dbcacb9",
+    "size": 1425
+  },
+  "categories": [
+    "FAITH Relics",
+    "Purple FAITH Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Phial of Galadrial",
+        "class_id": "22168",
+        "rank": "AAA",
+        "affct": "FAITH",
+        "birthday": "01-03",
+        "description": "On Jan 3, 1132 AD, the Starglass was gifted to a guest from a faraway land.<br>The fairy queen crafted this crystal phial as a gift for a brave man. It holds the light of the stars and radiates a perpetual glow, keeping dark and evil forces at bay.",
+        "fame": "42",
+        "art": "52",
+        "fth": "75",
+        "civ": "32",
+        "tech": "42",
+        "ss1": "Sunny Plant Food gives 1 Green Pistil by +0.6%<br>Per 5 Sunny Plant Food Fed, Snail DEF +3<br>Sunny Plant Food Fed: 200/200",
+        "ss2": "Sunny Plant Food gives 1 Green Pistil by +0.8%<br>Per 5 Sunny Plant Food Fed, Snail DEF +4<br>Sunny Plant Food Fed: 200/200",
+        "ss3": "Sunny Plant Food gives 1 Green Pistil by +1%<br>Per 5 Sunny Plant Food Fed, Snail DEF +5<br>Sunny Plant Food Fed: 200/200",
+        "ss4": "Sunny Plant Food gives 1 Green Pistil by +1.4%<br>Per 5 Sunny Plant Food Fed, Snail DEF +7<br>Sunny Plant Food Fed: 200/200",
+        "ss5": "Sunny Plant Food gives 1 Green Pistil by +1.8%<br>Per 5 Sunny Plant Food Fed, Snail DEF +9<br>Sunny Plant Food Fed: 200/200",
+        "ss7": "Sunny Plant Food gives 1 Green Pistil by +1.8%<br>Per 5 Sunny Plant Food Fed, Snail DEF +9<br>Sunny Plant Food Fed: 200/200<br>Sunny Plant Food gives 1 Green Pistil by +1.4% (Awakened)",
+        "skill1": "[[File:Biozilla skill II.png|50px]]Place in a Biozilla: In Species War, All Minion DEF +3%",
+        "skill2": "[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FTH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Phial_of_Galadrial.wiki",
+  "markdown_path": "markdown/Phial_of_Galadrial.md"
+}

@@ -1,0 +1,1 @@
+Category:RelicsCategory:Green RelicsCategory:FAME RelicsCategory:Green FAME RelicsCategory:Value Pack RelicsCategory:Gene Simulation BoostCategory:ATK Boost

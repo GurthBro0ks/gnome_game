@@ -1,0 +1,33 @@
+{
+  "pageid": 8897,
+  "ns": 0,
+  "title": "Vampire in the Forest+Nature Vol.1+Lawrence's Cyclotron+Atlantis Crystal+Phaistos Disc",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Vampire_in_the_Forest%2BNature_Vol.1%2BLawrence%27s_Cyclotron%2BAtlantis_Crystal%2BPhaistos_Disc",
+  "touched": "2025-08-11T10:57:25Z",
+  "length": 234,
+  "lastrevid": 35704,
+  "revision": {
+    "revid": 35704,
+    "parentid": 34932,
+    "timestamp": "2025-06-19T23:56:45Z",
+    "sha1": "91439218d9f16bf747598dc7d9c4a7f3f570bc3d",
+    "size": 234
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "560",
+        "relics": "Vampire in the Forest,Nature Vol.1,Lawrence's Cyclotron,Atlantis Crystal,Phaistos Disc",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "In the Rebel Rocket Cabin: All device base effects +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Vampire_in_the_Forest_Nature_Vol.1_Lawrence_s_Cyclotron_Atlantis_Crystal_Phaistos_Disc.wiki",
+  "markdown_path": "markdown/Vampire_in_the_Forest_Nature_Vol.1_Lawrence_s_Cyclotron_Atlantis_Crystal_Phaistos_Disc.md"
+}

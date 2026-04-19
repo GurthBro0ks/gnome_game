@@ -1,0 +1,50 @@
+{
+  "pageid": 4637,
+  "ns": 0,
+  "title": "Tangram",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tangram",
+  "touched": "2025-06-16T23:16:58Z",
+  "length": 1115,
+  "lastrevid": 35121,
+  "revision": {
+    "revid": 35121,
+    "parentid": 32010,
+    "timestamp": "2025-06-16T23:16:58Z",
+    "sha1": "413a9129bc921fed0879f18cf43658e0a81167fa",
+    "size": 1115
+  },
+  "categories": [
+    "Blue FAME Relics",
+    "Blue Relics",
+    "FAME Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Tangram",
+        "class_id": "22006",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "04-23",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Apr 23, 1753 AD, Tangram was taken to Europe by an Arabian merchant.<br>Tangram is a traditional puzzle toy in China, very popular among the Chinese folks. Tangram can be broken into seven pieces, including a square, five triangles of different sizes, and a parallelogram. In the eighteenth century, Tangram was taken to the western world, stirring up a phenomenon. The westerners called it the Tangram and would stay up all night playing it. Allan Pole, an American writer ordered a set of ivory  …",
+        "fame": "45",
+        "art": "26",
+        "fth": "20",
+        "civ": "30",
+        "tech": "33",
+        "ss1": "Refine +1 White Demon God Material +1%",
+        "ss2": "Refine +1 White Demon God Material +2%",
+        "ss3": "Refine +1 White Demon God Material +3%",
+        "ss4": "Refine +1 White Demon God Material +5%",
+        "ss7": "Refine +1 White Demon God Material +5%<br>Refine +1 White Demon God Material +5% (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail RUSH +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tangram.wiki",
+  "markdown_path": "markdown/Tangram.md"
+}

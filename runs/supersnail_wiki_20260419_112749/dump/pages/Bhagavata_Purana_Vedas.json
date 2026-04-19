@@ -1,0 +1,33 @@
+{
+  "pageid": 4160,
+  "ns": 0,
+  "title": "Bhagavata Purana+Vedas",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bhagavata_Purana%2BVedas",
+  "touched": "2025-06-20T00:03:25Z",
+  "length": 135,
+  "lastrevid": 35819,
+  "revision": {
+    "revid": 35819,
+    "parentid": 18398,
+    "timestamp": "2025-06-20T00:03:25Z",
+    "sha1": "b1b59c28460378fadfe41d52b79b345ad7f00c93",
+    "size": 135
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "465",
+        "relics": "Bhagavata Purana,Vedas",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Zombie Minion MAX +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bhagavata_Purana_Vedas.wiki",
+  "markdown_path": "markdown/Bhagavata_Purana_Vedas.md"
+}

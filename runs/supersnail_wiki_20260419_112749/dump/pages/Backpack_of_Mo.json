@@ -1,0 +1,48 @@
+{
+  "pageid": 1131,
+  "ns": 0,
+  "title": "Backpack of Mo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Backpack_of_Mo",
+  "touched": "2025-11-16T02:48:09Z",
+  "length": 702,
+  "lastrevid": 41758,
+  "revision": {
+    "revid": 41758,
+    "parentid": 38122,
+    "timestamp": "2025-11-16T02:48:09Z",
+    "sha1": "e509265553c72b6df19f2cbb902d8c8c96d73087",
+    "size": 702
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Backpack of Mo",
+        "class_id": "20131",
+        "rank": "Green",
+        "affct": "ART",
+        "source": "Defeat [[Fissure#500-999-0|Strange Caveman in Fissure Level 685]]",
+        "description": "This backpack once belonged to a dwarf barbarian, whose family had lived in the dank crypt for generations. The barbarian gathered fungi as his food and stored extra ones in the backpack to keep them fresh and tasty!",
+        "fame": "14",
+        "art": "31",
+        "fth": "18",
+        "civ": "16",
+        "tech": "11",
+        "ss1": "Per 500 FAME, Snail DEF +2<br>FAME: 15000/15000",
+        "ss2": "Per 500 FAME, Snail DEF +4<br>FAME: 15000/15000",
+        "ss3": "Per 500 FAME, Snail DEF +6<br>FAME: 15000/15000",
+        "ss4": "Per 500 FAME, Snail DEF +6<br>FAME: 15000/15000",
+        "ss7": "Per 500 FAME, Snail DEF +6<br>FAME: 15000/15000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Backpack_of_Mo.wiki",
+  "markdown_path": "markdown/Backpack_of_Mo.md"
+}

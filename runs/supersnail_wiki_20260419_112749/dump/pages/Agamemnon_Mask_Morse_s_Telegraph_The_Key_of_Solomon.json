@@ -1,0 +1,33 @@
+{
+  "pageid": 3798,
+  "ns": 0,
+  "title": "Agamemnon Mask+Morse's Telegraph+The Key of Solomon",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Agamemnon_Mask%2BMorse%27s_Telegraph%2BThe_Key_of_Solomon",
+  "touched": "2025-08-11T11:14:44Z",
+  "length": 174,
+  "lastrevid": 39262,
+  "revision": {
+    "revid": 39262,
+    "parentid": 13696,
+    "timestamp": "2025-08-11T11:14:44Z",
+    "sha1": "e60b5600c0d57a5579e93ddb6bca0da3fa37899a",
+    "size": 174
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "247",
+        "relics": "Agamemnon Mask,Morse's Telegraph,The Key of Solomon",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Tadpole Pond B-tad Output +16%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Agamemnon_Mask_Morse_s_Telegraph_The_Key_of_Solomon.wiki",
+  "markdown_path": "markdown/Agamemnon_Mask_Morse_s_Telegraph_The_Key_of_Solomon.md"
+}

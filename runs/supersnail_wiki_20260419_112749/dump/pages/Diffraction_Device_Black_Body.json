@@ -1,0 +1,33 @@
+{
+  "pageid": 4192,
+  "ns": 0,
+  "title": "Diffraction Device+Black Body",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Diffraction_Device%2BBlack_Body",
+  "touched": "2025-06-20T00:07:45Z",
+  "length": 163,
+  "lastrevid": 35904,
+  "revision": {
+    "revid": 35904,
+    "parentid": 15692,
+    "timestamp": "2025-06-20T00:07:45Z",
+    "sha1": "1dfbb42235b2ea2f13c72584628277e58ff72dd2",
+    "size": 163
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "474",
+        "relics": "Diffraction Device,Black Body",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Wormhole Shards from Wormhole Refiner +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Diffraction_Device_Black_Body.wiki",
+  "markdown_path": "markdown/Diffraction_Device_Black_Body.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 4557,
+  "ns": 0,
+  "title": "Hina Doll+Tawla",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hina_Doll%2BTawla",
+  "touched": "2025-06-20T00:01:14Z",
+  "length": 137,
+  "lastrevid": 35780,
+  "revision": {
+    "revid": 35780,
+    "parentid": 17978,
+    "timestamp": "2025-06-20T00:01:14Z",
+    "sha1": "2a909cc15137aeaf8b4e5937604e1d3ee9e2ed67",
+    "size": 137
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "333",
+        "relics": "Hina Doll,Tawla",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Free Gene Speedup (Mutant) +30m"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hina_Doll_Tawla.wiki",
+  "markdown_path": "markdown/Hina_Doll_Tawla.md"
+}

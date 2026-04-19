@@ -1,0 +1,34 @@
+{
+  "pageid": 3610,
+  "ns": 0,
+  "title": "Ark Reactor+Observatory",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ark_Reactor%2BObservatory",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 188,
+  "lastrevid": 13190,
+  "revision": {
+    "revid": 13190,
+    "parentid": 0,
+    "timestamp": "2023-09-22T15:07:51Z",
+    "sha1": "717532ca3e9f521dfd058d892ca9dd16cdfbbfb9",
+    "size": 188
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Ark Reactor,Observatory",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2k Power, Snail DEF +4<br>Power: 30,000/30,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ark_Reactor_Observatory.wiki",
+  "markdown_path": "markdown/Ark_Reactor_Observatory.md"
+}

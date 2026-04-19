@@ -1,0 +1,35 @@
+{
+  "pageid": 8412,
+  "ns": 0,
+  "title": "Flying Horse of Gansu+Mysterious Relic+Mysterious Relic+Mysterious Relic+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Flying_Horse_of_Gansu%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2025-05-03T22:09:18Z",
+  "length": 275,
+  "lastrevid": 34249,
+  "revision": {
+    "revid": 34249,
+    "parentid": 0,
+    "timestamp": "2025-05-03T22:07:34Z",
+    "sha1": "6f74b1c9cb4dc2b58c91851d1479082600a00395",
+    "size": 275
+  },
+  "categories": [
+    "Minion",
+    "Minion ATK Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Flying Horse of Gansu,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic,Mysterious Relic",
+        "rank": "orange",
+        "amount": "6",
+        "category": "minion",
+        "description": "All Minion ATK +2.4%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Flying_Horse_of_Gansu_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Flying_Horse_of_Gansu_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic.md"
+}

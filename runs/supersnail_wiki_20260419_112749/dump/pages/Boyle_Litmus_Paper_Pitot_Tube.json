@@ -1,0 +1,33 @@
+{
+  "pageid": 9275,
+  "ns": 0,
+  "title": "Boyle Litmus Paper+Pitot Tube",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Boyle_Litmus_Paper%2BPitot_Tube",
+  "touched": "2025-06-20T00:18:04Z",
+  "length": 203,
+  "lastrevid": 36126,
+  "revision": {
+    "revid": 36126,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:18:04Z",
+    "sha1": "1aa389d11f821629dfdbed88881b48e32a3ade59",
+    "size": 203
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "587",
+        "relics": "Boyle Litmus Paper,Pitot Tube",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Tribal Warfare participation, Snail RUSH +5;Tribal Warfare Participation: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Boyle_Litmus_Paper_Pitot_Tube.wiki",
+  "markdown_path": "markdown/Boyle_Litmus_Paper_Pitot_Tube.md"
+}

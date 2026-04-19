@@ -1,0 +1,47 @@
+{
+  "pageid": 9968,
+  "ns": 0,
+  "title": "Micro Snail Garden",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Micro_Snail_Garden",
+  "touched": "2025-08-11T10:33:23Z",
+  "length": 879,
+  "lastrevid": 37469,
+  "revision": {
+    "revid": 37469,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:33:23Z",
+    "sha1": "eafe2ae850f7c4ba7d1316823c34edf59abe0237",
+    "size": 879
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Micro Snail Garden",
+        "class_id": "20938",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "A delicate model that offers a panoramic view of the entire Snail Garden. Whether it's the futuristic time machine, the weathered snail houses, or even the tadpole pond, everything is vividly replicated. If observed carefully, you'll notice the tadpoles swimming in the pond!",
+        "fame": "33",
+        "art": "19",
+        "fth": "13",
+        "civ": "12",
+        "tech": "13",
+        "ss1": "Snail RUSH +10<br>Per 5 Tadpole Pond LVLs, Snail ATK +5<br>Tadpole Pond LVL: 50/50",
+        "ss2": "Snail RUSH +20<br>Per 5 Tadpole Pond LVLs, Snail ATK +10<br>Tadpole Pond LVL: 50/50",
+        "ss3": "Snail RUSH +30<br>Per 5 Tadpole Pond LVLs, Snail ATK +15<br>Tadpole Pond LVL: 50/50",
+        "ss4": "Snail RUSH +30<br>Per 5 Tadpole Pond LVLs, Snail ATK +15<br>Tadpole Pond LVL: 50/50",
+        "ss7": "Snail RUSH +30<br>Per 5 Tadpole Pond LVLs, Snail ATK +15<br>Tadpole Pond LVL: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Micro_Snail_Garden.wiki",
+  "markdown_path": "markdown/Micro_Snail_Garden.md"
+}

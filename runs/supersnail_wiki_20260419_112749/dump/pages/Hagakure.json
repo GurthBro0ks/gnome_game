@@ -1,0 +1,52 @@
+{
+  "pageid": 5108,
+  "ns": 0,
+  "title": "Hagakure",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hagakure",
+  "touched": "2025-06-20T00:07:05Z",
+  "length": 1945,
+  "lastrevid": 35887,
+  "revision": {
+    "revid": 35887,
+    "parentid": 35083,
+    "timestamp": "2025-06-20T00:07:05Z",
+    "sha1": "afed65c7189fa15c357a2db3a1341005f44cba1a",
+    "size": 1945
+  },
+  "categories": [
+    "FAME Relics",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Hagakure",
+        "class_id": "22110",
+        "rank": "AA",
+        "affct": "FAME",
+        "birthday": "02-28",
+        "source": "Lottery Machine No.2 (0.12%), Wishing (0.03%)",
+        "description": "On Feb 28, 1716 AD, after seven years, Tashiro Tsuramoto finally completed compiling Hagakure.<br>Hagakure, or its full name, Hagakure Kikigaki, is a spiritual guide for samurai that consists of eleven volumes. It features commentaries by Yamamoto Tsunetomo and compiled by Tashiro Tsuramoto. It is essentially a code of conduct or \"the way of the warrior\". It promotes the qualities of loyalty, courage, discipline, and benevolence. It advocates that samurai should be ready to die for their lords w …",
+        "fame": "69",
+        "art": "34",
+        "fth": "33",
+        "civ": "43",
+        "tech": "49",
+        "ss1": "Share for the 1st time, Snail ATK +40<br>Per Monkey Prayer Bonus claimed, Snail DEF +4<br>Monkey Prayer Bonus Claimed: 30/30",
+        "ss2": "Share for the 1st time, Snail ATK +60<br>Per Monkey Prayer Bonus claimed, Snail DEF +6<br>Monkey Prayer Bonus Claimed: 30/30",
+        "ss3": "Share for the 1st time, Snail ATK +80<br>Per Monkey Prayer Bonus claimed, Snail DEF +8<br>Monkey Prayer Bonus Claimed: 30/30",
+        "ss4": "Share for the 1st time, Snail ATK +120<br>Per Monkey Prayer Bonus claimed, Snail DEF +12<br>Monkey Prayer Bonus Claimed: 30/30",
+        "ss5": "Share for the 1st time, Snail ATK +160<br>Per Monkey Prayer Bonus claimed, Snail DEF +16<br>Monkey Prayer Bonus Claimed: 30/30",
+        "ss7": "Share for the 1st time, Snail ATK +160<br>Per Monkey Prayer Bonus claimed, Snail DEF +16<br>Monkey Prayer Bonus Claimed: 30/30<br>Share for the 1st time, Snail ATK +140 (Awakened)",
+        "skill1": "[[File:Dungbeetle skill II.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion ATK +4.5%",
+        "skill2": "[[File:Biozilla skill II.png|50px]]Place in a Biozilla: This Relic's FAME +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hagakure.wiki",
+  "markdown_path": "markdown/Hagakure.md"
+}

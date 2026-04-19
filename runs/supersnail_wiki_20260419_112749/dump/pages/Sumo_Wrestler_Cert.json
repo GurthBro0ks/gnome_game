@@ -1,0 +1,47 @@
+{
+  "pageid": 1458,
+  "ns": 0,
+  "title": "Sumo Wrestler Cert",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sumo_Wrestler_Cert",
+  "touched": "2025-08-11T10:37:08Z",
+  "length": 811,
+  "lastrevid": 37641,
+  "revision": {
+    "revid": 37641,
+    "parentid": 14416,
+    "timestamp": "2025-08-11T10:37:08Z",
+    "sha1": "a4e392a72c526842ec63fa9505ff174219d588f4",
+    "size": 811
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Sumo Wrestler Cert",
+        "class_id": "20010",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Yokozuna is the highest rank among sumo wrestlers. There won't be more than four Yokozuna wrestlers at any one time. A Yokozuna can't be demoted except for special circumstances. The title won't be denied unless the wrestler retires, but the salary will always stay unchanged. Yamato people worship the Yokozuna!",
+        "fame": "11",
+        "art": "21",
+        "fth": "14",
+        "civ": "28",
+        "tech": "16",
+        "ss1": "In Snail Arena, Snail HP +160<br>In Snail Arena, Snail ATK +16",
+        "ss2": "In Snail Arena, Snail HP +320<br>In Snail Arena, Snail ATK +32",
+        "ss3": "In Snail Arena, Snail HP +480<br>In Snail Arena, Snail ATK +48",
+        "ss4": "In Snail Arena, Snail HP +480<br>In Snail Arena, Snail ATK +48",
+        "ss7": "In Snail Arena, Snail HP +480<br>In Snail Arena, Snail ATK +48<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sumo_Wrestler_Cert.wiki",
+  "markdown_path": "markdown/Sumo_Wrestler_Cert.md"
+}

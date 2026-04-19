@@ -1,0 +1,53 @@
+{
+  "pageid": 10817,
+  "ns": 0,
+  "title": "Inferno",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Inferno",
+  "touched": "2025-08-11T11:02:28Z",
+  "length": 1326,
+  "lastrevid": 38729,
+  "revision": {
+    "revid": 38729,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:02:28Z",
+    "sha1": "48392ef47adcd2d85f1c2022d756c1dfd584cf9c",
+    "size": 1326
+  },
+  "categories": [
+    "FAITH Relics",
+    "Orange FAITH Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Inferno",
+        "class_id": "21566",
+        "rank": "SSS",
+        "affct": "FAITH",
+        "description": "This is a work by Botticelli for the Divine Comedy, depicting Dante's vision of hell. Botticelli illustrated the nine circles of hell, each corresponding to different sins and their respective punishments. The first circle is for unbaptized infants and pagans, with lower circles corresponding to sins like lust, gluttony, and greed, down to the lowest circle where traitors are punished. This work holds significant artistic value and reflects the late medieval views on sin and redemption, as well  …",
+        "fame": "55",
+        "art": "74",
+        "fth": "107",
+        "civ": "51",
+        "tech": "75",
+        "ss1": "Snail ATK +10<br>Snail DEF +10<br>Snail RUSH +10",
+        "ss2": "Snail ATK +20<br>Snail DEF +20<br>Snail RUSH +20",
+        "ss3": "Snail ATK +30<br>Snail DEF +30<br>Snail RUSH +30",
+        "ss4": "Snail ATK +50<br>Snail DEF +50<br>Snail RUSH +50",
+        "ss5": "Snail ATK +70<br>Snail DEF +70<br>Snail RUSH +70",
+        "ss6": "Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100",
+        "ss7": "Snail ATK +100<br>Snail DEF +100<br>Snail RUSH +100<br>Snail HP +1000 (Awakened)",
+        "skill1": "[[File:Skill skill III.png|50px]]??? (Coming soon)",
+        "skill2": "[[File:Skill skill III.png|50px]]??? (Coming soon)",
+        "skill3": "[[File:Skill skill III.png|50px]]??? (Coming soon)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Inferno.wiki",
+  "markdown_path": "markdown/Inferno.md"
+}

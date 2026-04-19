@@ -1,0 +1,47 @@
+{
+  "pageid": 3568,
+  "ns": 0,
+  "title": "Kemetic Postcard",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kemetic_Postcard",
+  "touched": "2025-08-11T10:34:35Z",
+  "length": 555,
+  "lastrevid": 37524,
+  "revision": {
+    "revid": 37524,
+    "parentid": 32184,
+    "timestamp": "2025-08-11T10:34:35Z",
+    "sha1": "04e00d1fa16b4279e8a527e692079f69b78e0264",
+    "size": 555
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Kemetic Postcard",
+        "class_id": "20210",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "While scouting for info about the Demon God in Kemet, the snail also recorded a lot of local customs, which were brought together in this postcard. You can read it to kill time and post it online to get many likes!",
+        "fame": "21",
+        "art": "26",
+        "fth": "12",
+        "civ": "16",
+        "tech": "15",
+        "ss1": "Kemetic Museum Medal Output +5",
+        "ss2": "Kemetic Museum Medal Output +10",
+        "ss3": "Kemetic Museum Medal Output +15",
+        "ss4": "Kemetic Museum Medal Output +15",
+        "ss7": "Kemetic Museum Medal Output +15<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kemetic_Postcard.wiki",
+  "markdown_path": "markdown/Kemetic_Postcard.md"
+}

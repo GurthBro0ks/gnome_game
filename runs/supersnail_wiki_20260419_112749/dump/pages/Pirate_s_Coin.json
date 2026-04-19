@@ -1,0 +1,47 @@
+{
+  "pageid": 3041,
+  "ns": 0,
+  "title": "Pirate's Coin",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pirate%27s_Coin",
+  "touched": "2025-08-11T11:03:45Z",
+  "length": 979,
+  "lastrevid": 38785,
+  "revision": {
+    "revid": 38785,
+    "parentid": 30843,
+    "timestamp": "2025-08-11T11:03:45Z",
+    "sha1": "a1b7029743a0e071b18523d2465a1df50d980946",
+    "size": 979
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Pirate's Coin",
+        "class_id": "20922",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Legend has it that these coins were blessed by the god of the sea, and people discovered them in Captain Jack's cave. When the first outsider touches the coin, it loses its divinity and becomes an ordinary souvenir.",
+        "fame": "31",
+        "art": "16",
+        "fth": "14",
+        "civ": "14",
+        "tech": "15",
+        "ss1": "Upon traveling through a new area:<br>> Gain +2 INTEL<br>Per Realm conquered, Snail ATK +5<br>Realms Conquered: 8/8",
+        "ss2": "Upon traveling through a new area:<br>> Gain +4 INTEL<br>Per Realm conquered, Snail ATK +10<br>Realms Conquered: 8/8",
+        "ss3": "Upon traveling through a new area:<br>> Gain +6 INTEL<br>Per Realm conquered, Snail ATK +15<br>Realms Conquered: 8/8",
+        "ss4": "Upon traveling through a new area:<br>> Gain +6 INTEL<br>Per Realm conquered, Snail ATK +15<br>Realms Conquered: 8/8",
+        "ss7": "Upon traveling through a new area:<br>> Gain +6 INTEL<br>Per Realm conquered, Snail ATK +15<br>Realms Conquered: 8/8<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pirate_s_Coin.wiki",
+  "markdown_path": "markdown/Pirate_s_Coin.md"
+}

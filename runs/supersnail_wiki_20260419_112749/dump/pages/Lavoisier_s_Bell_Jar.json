@@ -1,0 +1,50 @@
+{
+  "pageid": 4477,
+  "ns": 0,
+  "title": "Lavoisier's Bell Jar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lavoisier%27s_Bell_Jar",
+  "touched": "2025-06-16T23:07:42Z",
+  "length": 1133,
+  "lastrevid": 34860,
+  "revision": {
+    "revid": 34860,
+    "parentid": 24388,
+    "timestamp": "2025-06-16T23:07:42Z",
+    "sha1": "7af0aef835e6ad6ff4b6a247bc57e0a562aaffa8",
+    "size": 1133
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Lavoisier's Bell Jar",
+        "class_id": "22101",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "10-16",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Oct 16, 1774 AD, inspired by Priestley and Scheler, Lavoisier designed the bell jar experiment.<br>This bell jar was used by Lavoisier to conduct experiments on oxygen's role in combustion. He filled a furnace with mercury, which led to an air chamber in the bell jar. The mercury in the furnace was slowly heated. After twenty days, a reddish compound formed on the mercury and the volume of the air decreased in the bell jar. Through this experiment, Lavoisier successfully disproved the phlogis …",
+        "fame": "27",
+        "art": "24",
+        "fth": "33",
+        "civ": "25",
+        "tech": "45",
+        "ss1": "Mecha Minion DEF +1%",
+        "ss2": "Mecha Minion DEF +2%",
+        "ss3": "Mecha Minion DEF +3%",
+        "ss4": "Mecha Minion DEF +5%",
+        "ss7": "Mecha Minion DEF +5%<br>Mecha Minion DEF +5% (Awakened)",
+        "skill1": "[[File:Surfclam skill I.png|50px]]Place in Surf Clam Biozilla: In Species War, All Minion RUSH +1.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lavoisier_s_Bell_Jar.wiki",
+  "markdown_path": "markdown/Lavoisier_s_Bell_Jar.md"
+}

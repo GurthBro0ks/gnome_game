@@ -1,0 +1,33 @@
+{
+  "pageid": 4973,
+  "ns": 0,
+  "title": "Diamond Peacock Brooch+Dragonfly-woman",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Diamond_Peacock_Brooch%2BDragonfly-woman",
+  "touched": "2025-06-19T23:59:53Z",
+  "length": 198,
+  "lastrevid": 35731,
+  "revision": {
+    "revid": 35731,
+    "parentid": 18575,
+    "timestamp": "2025-06-19T23:59:53Z",
+    "sha1": "58cbeba99757b3b1aae70e80b8deb13fc2983c3e",
+    "size": 198
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "387",
+        "relics": "Diamond Peacock Brooch,Dragonfly-woman",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 6 Mirage Gems gained, Snail RUSH +6;Mirage Gems Gained: 420/420"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Diamond_Peacock_Brooch_Dragonfly-woman.wiki",
+  "markdown_path": "markdown/Diamond_Peacock_Brooch_Dragonfly-woman.md"
+}

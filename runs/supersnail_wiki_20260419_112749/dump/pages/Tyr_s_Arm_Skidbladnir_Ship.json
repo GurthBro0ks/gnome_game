@@ -1,0 +1,36 @@
+{
+  "pageid": 3609,
+  "ns": 0,
+  "title": "Tyr's Arm+Skidbladnir Ship",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tyr%27s_Arm%2BSkidbladnir_Ship",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 265,
+  "lastrevid": 18539,
+  "revision": {
+    "revid": 18539,
+    "parentid": 18324,
+    "timestamp": "2023-11-14T01:06:11Z",
+    "sha1": "95b097b264fdfa760bf4a16215cff5cd60c1b76e",
+    "size": 265
+  },
+  "categories": [
+    "DEF Boost",
+    "Enhanced by Relic Points",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Tyr's Arm,Skidbladnir Ship",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2k Relic Points, Snail DEF +4<br>Relic Points:60,000/60,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tyr_s_Arm_Skidbladnir_Ship.wiki",
+  "markdown_path": "markdown/Tyr_s_Arm_Skidbladnir_Ship.md"
+}

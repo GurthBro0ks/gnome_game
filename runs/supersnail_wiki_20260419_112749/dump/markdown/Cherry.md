@@ -1,0 +1,15 @@
+|image=.png
+|description=Dr. David prefers the fruit. He's been wondering if the flavor of cherries would be the same if they could grow to the size of apples.
+|affct=FTH
+|hard=ATK
+|source=Maneater Value Pack
+|color=green
+|earth=1
+|water=1
+|fire=2
+|wind=2
+|form=Angel
+|element=Fire
+|realm=Kemet
+|orangehard=ATK
+}}

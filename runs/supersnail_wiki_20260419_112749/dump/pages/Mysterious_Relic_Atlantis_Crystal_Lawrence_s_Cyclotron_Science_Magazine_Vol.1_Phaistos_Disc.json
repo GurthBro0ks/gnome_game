@@ -1,0 +1,35 @@
+{
+  "pageid": 4181,
+  "ns": 0,
+  "title": "Mysterious Relic+Atlantis Crystal+Lawrence's Cyclotron+Science Magazine Vol.1+Phaistos Disc",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mysterious_Relic%2BAtlantis_Crystal%2BLawrence%27s_Cyclotron%2BScience_Magazine_Vol.1%2BPhaistos_Disc",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 299,
+  "lastrevid": 19561,
+  "revision": {
+    "revid": 19561,
+    "parentid": 15680,
+    "timestamp": "2023-11-21T00:45:47Z",
+    "sha1": "5bc824c11756a2844a93d9b086c3edac64c398f6",
+    "size": 299
+  },
+  "categories": [
+    "Home",
+    "Rebel Rocket Cabin Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Mysterious Relic,Atlantis Crystal,Lawrence's Cyclotron,Science Magazine Vol.1,Phaistos Disc",
+        "rank": "orange",
+        "amount": "5",
+        "category": "home",
+        "description": "In the Rebel Rocket Cabin: All device base effects +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mysterious_Relic_Atlantis_Crystal_Lawrence_s_Cyclotron_Science_Magazine_Vol.1_Phaistos_Disc.wiki",
+  "markdown_path": "markdown/Mysterious_Relic_Atlantis_Crystal_Lawrence_s_Cyclotron_Science_Magazine_Vol.1_Phaistos_Disc.md"
+}

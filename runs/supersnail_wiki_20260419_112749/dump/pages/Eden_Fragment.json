@@ -1,0 +1,47 @@
+{
+  "pageid": 10611,
+  "ns": 0,
+  "title": "Eden Fragment",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Eden_Fragment",
+  "touched": "2025-08-11T10:56:20Z",
+  "length": 740,
+  "lastrevid": 38462,
+  "revision": {
+    "revid": 38462,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:56:20Z",
+    "sha1": "09f580977e7a0ede7619a4d327d8ed6c7739c207",
+    "size": 740
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Eden Fragment",
+        "class_id": "20490",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This treasure was said to have revealed the secret of life's origins. As it was capable of manipulating and controlling people's minds to work for the user, countless organizations coveted and fought for it. During the course of several thousands of years of fighting, well-known legends in human history were born!",
+        "fame": "28",
+        "art": "16",
+        "fth": "15",
+        "civ": "16",
+        "tech": "15",
+        "ss1": "Snail HP +100<br>Per Gear equipped, Snail ATK +1",
+        "ss2": "Snail HP +200<br>Per Gear equipped, Snail ATK +2",
+        "ss3": "Snail HP +300<br>Per Gear equipped, Snail ATK +3",
+        "ss4": "Snail HP +300<br>Per Gear equipped, Snail ATK +3",
+        "ss7": "Snail HP +300<br>Per Gear equipped, Snail ATK +3<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Eden_Fragment.wiki",
+  "markdown_path": "markdown/Eden_Fragment.md"
+}

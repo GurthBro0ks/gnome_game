@@ -1,0 +1,33 @@
+{
+  "pageid": 4983,
+  "ns": 0,
+  "title": "Ambika Statue+Portrait of Helena",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ambika_Statue%2BPortrait_of_Helena",
+  "touched": "2025-06-19T23:54:12Z",
+  "length": 138,
+  "lastrevid": 35667,
+  "revision": {
+    "revid": 35667,
+    "parentid": 18542,
+    "timestamp": "2025-06-19T23:54:12Z",
+    "sha1": "8b1756077f90c194c158ed6bc2d2cc02c5815135",
+    "size": 138
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "391",
+        "relics": "Ambika Statue,Portrait of Helena",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HP +600"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ambika_Statue_Portrait_of_Helena.wiki",
+  "markdown_path": "markdown/Ambika_Statue_Portrait_of_Helena.md"
+}

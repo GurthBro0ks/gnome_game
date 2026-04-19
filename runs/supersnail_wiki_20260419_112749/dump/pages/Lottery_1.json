@@ -1,0 +1,33 @@
+{
+  "pageid": 8949,
+  "ns": 0,
+  "title": "Lottery 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lottery_1",
+  "touched": "2025-06-17T10:20:09Z",
+  "length": 2559,
+  "lastrevid": 35206,
+  "revision": {
+    "revid": 35206,
+    "parentid": 0,
+    "timestamp": "2025-06-17T10:20:09Z",
+    "sha1": "0fdb1c4b6f098667d4306230047a6439ade4a1f3",
+    "size": 2559
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "#cargo_query:table=Relics",
+      "params": {
+        "fields": "name, source, affct, rank, ss3, ss7, fame, art, fth, civ, tech",
+        "where": "source LIKE '%Lottery Machine (%'",
+        "order by": "name",
+        "format": "template",
+        "template": "RelicSourceTableRow",
+        "named args": "yes"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lottery_1.wiki",
+  "markdown_path": "markdown/Lottery_1.md"
+}

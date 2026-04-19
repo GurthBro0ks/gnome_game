@@ -1,0 +1,51 @@
+{
+  "pageid": 8471,
+  "ns": 0,
+  "title": "Ohmmeter",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ohmmeter",
+  "touched": "2025-06-16T20:57:56Z",
+  "length": 1105,
+  "lastrevid": 34464,
+  "revision": {
+    "revid": 34464,
+    "parentid": 34349,
+    "timestamp": "2025-06-16T20:48:48Z",
+    "sha1": "95ff899b616db9945c6bab7fde8eb17407ad2c72",
+    "size": 1105
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Pages with broken file links",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ohmmeter",
+        "class_id": "22496",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "04-02",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Apr 2, 1826 AD, Ohm published his first paper on Ohm's law.<br>An ohmmeter is an instrument that directly measures resistance and is made based on Ohm's law for a closed circuit. At that time, people were unclear about the concepts of current, voltage, and resistance, and Ohm himself had no opportunity to contact contemporary physicists during his research and could only explore on his own. He creatively used Coulomb's method to create a current torsion balance, introduced and defined the pre …",
+        "fame": "31",
+        "art": "19",
+        "fth": "34",
+        "civ": "23",
+        "tech": "47",
+        "ss1": "Snail DEF +10",
+        "ss2": "Snail DEF +20",
+        "ss3": "Snail DEF +30",
+        "ss4": "Snail DEF +50",
+        "ss7": "Snail DEF +50<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Forestsanctum skill I.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ohmmeter.wiki",
+  "markdown_path": "markdown/Ohmmeter.md"
+}

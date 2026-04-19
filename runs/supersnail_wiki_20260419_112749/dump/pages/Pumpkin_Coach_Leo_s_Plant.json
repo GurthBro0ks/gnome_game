@@ -1,0 +1,34 @@
+{
+  "pageid": 3298,
+  "ns": 0,
+  "title": "Pumpkin Coach+Leo's Plant",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pumpkin_Coach%2BLeo%27s_Plant",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 164,
+  "lastrevid": 12033,
+  "revision": {
+    "revid": 12033,
+    "parentid": 0,
+    "timestamp": "2023-09-13T07:31:57Z",
+    "sha1": "7e1ffa9aa46ca48ed2a11adb3fffa38032c4903a",
+    "size": 164
+  },
+  "categories": [
+    "DNA"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Pumpkin Coach,Leo's Plant",
+        "rank": "blue",
+        "amount": "2",
+        "category": "dna",
+        "description": "Mutant Gene Research SPD +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pumpkin_Coach_Leo_s_Plant.wiki",
+  "markdown_path": "markdown/Pumpkin_Coach_Leo_s_Plant.md"
+}

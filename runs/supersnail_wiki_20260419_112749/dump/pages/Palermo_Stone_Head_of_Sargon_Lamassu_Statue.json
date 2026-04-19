@@ -1,0 +1,33 @@
+{
+  "pageid": 4175,
+  "ns": 0,
+  "title": "Palermo Stone+Head of Sargon+Lamassu Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Palermo_Stone%2BHead_of_Sargon%2BLamassu_Statue",
+  "touched": "2025-06-19T23:54:04Z",
+  "length": 155,
+  "lastrevid": 35662,
+  "revision": {
+    "revid": 35662,
+    "parentid": 18439,
+    "timestamp": "2025-06-19T23:54:04Z",
+    "sha1": "16bf838a0041e668c4567dea2000215e13930422",
+    "size": 155
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "527",
+        "relics": "Palermo Stone,Head of Sargon,Lamassu Statue",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Snail Leadership +8"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Palermo_Stone_Head_of_Sargon_Lamassu_Statue.wiki",
+  "markdown_path": "markdown/Palermo_Stone_Head_of_Sargon_Lamassu_Statue.md"
+}

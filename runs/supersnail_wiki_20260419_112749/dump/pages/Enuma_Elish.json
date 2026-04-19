@@ -1,0 +1,56 @@
+{
+  "pageid": 4107,
+  "ns": 0,
+  "title": "Enuma Elish",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Enuma_Elish",
+  "touched": "2025-06-16T23:09:47Z",
+  "length": 2605,
+  "lastrevid": 34920,
+  "revision": {
+    "revid": 34920,
+    "parentid": 29983,
+    "timestamp": "2025-06-16T23:09:47Z",
+    "sha1": "479e0f569dab3d8334489f5998da0dc6e67573a5",
+    "size": 2605
+  },
+  "categories": [
+    "FAITH Relics",
+    "Orange FAITH Relics",
+    "Orange Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Enuma Elish",
+        "class_id": "22283",
+        "rank": "SSS",
+        "affct": "FAITH",
+        "birthday": "02-11",
+        "source": "Lottery Machine No.2 (0.11%), Wishing (0.41%)",
+        "description": "On Feb 11, 691 BC, Enuma Elish was recorded on clay tablets by an ancient Babylonian priest.<br>Enuma Elish is the most important creation epic of ancient Babylon, named after its opening words in Akkadian, meaning \"When on High.\" It has about a thousand lines and is recorded on seven clay tablets. It describes: The primordial world was created by Apsu and Tiamat, from the mixture of whom other gods were created. But the commotion of these new gods disturbed Tiamat, so she proposed to destroy th …",
+        "fame": "55",
+        "art": "70",
+        "fth": "107",
+        "civ": "58",
+        "tech": "72",
+        "ss1": "Snail RUSH +30<br>Dragon Minion RUSH +3%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +24%",
+        "ss2": "Snail RUSH +40<br>Dragon Minion RUSH +4%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +32%",
+        "ss3": "Snail RUSH +50<br>Dragon Minion RUSH +5%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +40%",
+        "ss4": "Snail RUSH +70<br>Dragon Minion RUSH +7%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +56%",
+        "ss5": "Snail RUSH +90<br>Dragon Minion RUSH +9%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +72%",
+        "ss6": "Snail RUSH +120<br>Dragon Minion RUSH +12%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +96%",
+        "ss7": "Snail RUSH +120<br>Dragon Minion RUSH +12%<br>In the Demon God Rocket Cabin:<br>> Eternal Hall Base Effect +96%<br>Snail RUSH +100 (Awakened)",
+        "skill1": "[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion ATK +6%",
+        "skill2": "[[File:Biozilla skill III.png|50px]]Place in a Biozilla: In Species War, All Minion RUSH +6%",
+        "skill3": "[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's FTH +15",
+        "mirage": "{{Mirage|name=Genesis Epic|reward={{RewardIconWithLink|Crystal of Will, +1|orange}}\n|3name=Abzu|3rec=28.54M|3atk=125993|3defense=84055|3hp=4612161|3weak=18800\n|4name=Tiamat|4rec=39.50M|4atk=149089|4defense=99463|4hp=6300895|4weak=19888\n|5name=Ea|5rec=51.71M|5atk=174859|5defense=116655|5hp=8374480|5weak=22062\n|6name=Marduk|6rec=65.53M|6atk=203991|6defense=136090|6hp=11009137|6weak=26391\n|Arec=80.73M|Aatk=236050|Adefense=157478|Ahp=14212077|Aweak=31027\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Enuma_Elish.wiki",
+  "markdown_path": "markdown/Enuma_Elish.md"
+}

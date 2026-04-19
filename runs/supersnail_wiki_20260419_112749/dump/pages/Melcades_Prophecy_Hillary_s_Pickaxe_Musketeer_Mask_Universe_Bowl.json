@@ -1,0 +1,34 @@
+{
+  "pageid": 3330,
+  "ns": 0,
+  "title": "Melcades' Prophecy+Hillary's Pickaxe+Musketeer Mask+Universe Bowl",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Melcades%27_Prophecy%2BHillary%27s_Pickaxe%2BMusketeer_Mask%2BUniverse_Bowl",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 235,
+  "lastrevid": 12068,
+  "revision": {
+    "revid": 12068,
+    "parentid": 0,
+    "timestamp": "2023-09-13T09:05:10Z",
+    "sha1": "12a8b3d16f2439178922d05dffbbe507ee00101d",
+    "size": 235
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Melcades' Prophecy,Hillary's Pickaxe,Musketeer Mask,Universe Bowl",
+        "rank": "blue",
+        "amount": "4",
+        "category": "home",
+        "description": "The Fungus Farm has a +14% chance to produce Wonder Fungi"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Melcades_Prophecy_Hillary_s_Pickaxe_Musketeer_Mask_Universe_Bowl.wiki",
+  "markdown_path": "markdown/Melcades_Prophecy_Hillary_s_Pickaxe_Musketeer_Mask_Universe_Bowl.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 9270,
+  "ns": 0,
+  "title": "Open Rotor Engine+Shugart Floppy Disk",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Open_Rotor_Engine%2BShugart_Floppy_Disk",
+  "touched": "2025-06-20T00:16:30Z",
+  "length": 237,
+  "lastrevid": 36108,
+  "revision": {
+    "revid": 36108,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:16:30Z",
+    "sha1": "9e101a440338fa5bc89510f8f5a6b192b0348f07",
+    "size": 237
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "628",
+        "relics": "Open Rotor Engine,Shugart Floppy Disk",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2,000 Forest Sanctum Rating Pts, Priest-Snail Assistance DMG +40;Forest Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Open_Rotor_Engine_Shugart_Floppy_Disk.wiki",
+  "markdown_path": "markdown/Open_Rotor_Engine_Shugart_Floppy_Disk.md"
+}

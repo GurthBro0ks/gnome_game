@@ -1,0 +1,47 @@
+{
+  "pageid": 3845,
+  "ns": 0,
+  "title": "Moon Bunny",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Moon_Bunny",
+  "touched": "2025-08-11T10:34:27Z",
+  "length": 663,
+  "lastrevid": 37518,
+  "revision": {
+    "revid": 37518,
+    "parentid": 13937,
+    "timestamp": "2025-08-11T10:34:27Z",
+    "sha1": "6467eb05ed9d274ecb1c82a8de751db96d88eec5",
+    "size": 663
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Moon Bunny",
+        "class_id": "20012",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "With a full-power shot, the shrine's laser hit the moon, from which a fragment fell into the pond. A lifeless rabbit was found in the pond. The snail made it into a specimen to celebrate the shrine's incredible power.",
+        "fame": "13",
+        "art": "27",
+        "fth": "19",
+        "civ": "16",
+        "tech": "15",
+        "ss1": "Per Incense used, Snail HP +10<br>Incense Used: 20/20",
+        "ss2": "Per Incense used, Snail HP +20<br>Incense Used: 20/20",
+        "ss3": "Per Incense used, Snail HP +30<br>Incense Used: 20/20",
+        "ss4": "Per Incense used, Snail HP +30<br>Incense Used: 20/20",
+        "ss7": "Per Incense used, Snail HP +30<br>Incense Used: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Moon_Bunny.wiki",
+  "markdown_path": "markdown/Moon_Bunny.md"
+}

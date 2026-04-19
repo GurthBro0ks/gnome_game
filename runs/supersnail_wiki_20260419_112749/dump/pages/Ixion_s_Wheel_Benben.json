@@ -1,0 +1,33 @@
+{
+  "pageid": 4849,
+  "ns": 0,
+  "title": "Ixion's Wheel+Benben",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ixion%27s_Wheel%2BBenben",
+  "touched": "2025-06-19T23:59:27Z",
+  "length": 151,
+  "lastrevid": 35728,
+  "revision": {
+    "revid": 35728,
+    "parentid": 17454,
+    "timestamp": "2025-06-19T23:59:27Z",
+    "sha1": "55276fa9f4f225f64b7458dd137ec8921cd512ea",
+    "size": 151
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "400",
+        "relics": "Ixion's Wheel,Benben",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Refine +1 White Demon God Material +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ixion_s_Wheel_Benben.wiki",
+  "markdown_path": "markdown/Ixion_s_Wheel_Benben.md"
+}

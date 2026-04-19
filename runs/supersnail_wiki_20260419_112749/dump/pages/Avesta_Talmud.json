@@ -1,0 +1,33 @@
+{
+  "pageid": 9842,
+  "ns": 0,
+  "title": "Avesta+Talmud",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Avesta%2BTalmud",
+  "touched": "2025-07-02T09:49:53Z",
+  "length": 150,
+  "lastrevid": 37213,
+  "revision": {
+    "revid": 37213,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:49:53Z",
+    "sha1": "80d4c48910b477a9c21778e01e284063b2d99528",
+    "size": 150
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "501",
+        "relics": "Avesta,Talmud",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop Water RES +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Avesta_Talmud.wiki",
+  "markdown_path": "markdown/Avesta_Talmud.md"
+}

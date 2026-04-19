@@ -1,0 +1,35 @@
+{
+  "pageid": 8280,
+  "ns": 0,
+  "title": "Qin Bronze Chariot+Four-goat Square Zun",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Qin_Bronze_Chariot%2BFour-goat_Square_Zun",
+  "touched": "2025-04-21T02:35:49Z",
+  "length": 207,
+  "lastrevid": 34061,
+  "revision": {
+    "revid": 34061,
+    "parentid": 0,
+    "timestamp": "2025-04-21T02:35:49Z",
+    "sha1": "df23595c46bff1ec9f91bde2821302fdc51bcaa8",
+    "size": 207
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Qin Bronze Chariot,Four-goat Square Zun",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Qin_Bronze_Chariot_Four-goat_Square_Zun.wiki",
+  "markdown_path": "markdown/Qin_Bronze_Chariot_Four-goat_Square_Zun.md"
+}

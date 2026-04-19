@@ -1,0 +1,47 @@
+{
+  "pageid": 2227,
+  "ns": 0,
+  "title": "Einstein-Rosen Bridge",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Einstein-Rosen_Bridge",
+  "touched": "2025-08-11T10:40:44Z",
+  "length": 847,
+  "lastrevid": 37787,
+  "revision": {
+    "revid": 37787,
+    "parentid": 11803,
+    "timestamp": "2025-08-11T10:40:44Z",
+    "sha1": "730ebdabceef114dd8b358ee8853ef7b3209efa7",
+    "size": 847
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Einstein-Rosen Bridge",
+        "class_id": "20311",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Also known as a wormhole, this is a narrow tunnel that may exist in the universe to connect two different times and spaces. Theoretically, instantaneous warp or time travel can be done through wormholes, but because they're ubiquitous and fleeting, it's impossible to verify.",
+        "fame": "18",
+        "art": "9",
+        "fth": "22",
+        "civ": "13",
+        "tech": "28",
+        "ss1": "Per 20 Research Manuals used, Snail ATK +2<br>Research Manuals Used: 300/300",
+        "ss2": "Per 20 Research Manuals used, Snail ATK +4<br>Research Manuals Used: 300/300",
+        "ss3": "Per 20 Research Manuals used, Snail ATK +6<br>Research Manuals Used: 300/300",
+        "ss4": "Per 20 Research Manuals used, Snail ATK +6<br>Research Manuals Used: 300/300",
+        "ss7": "Per 20 Research Manuals used, Snail ATK +6<br>Research Manuals Used: 300/300<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Einstein-Rosen_Bridge.wiki",
+  "markdown_path": "markdown/Einstein-Rosen_Bridge.md"
+}

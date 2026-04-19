@@ -1,0 +1,47 @@
+{
+  "pageid": 7752,
+  "ns": 0,
+  "title": "Disaster Pacifier",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Disaster_Pacifier",
+  "touched": "2025-08-11T10:49:10Z",
+  "length": 676,
+  "lastrevid": 38152,
+  "revision": {
+    "revid": 38152,
+    "parentid": 32520,
+    "timestamp": "2025-08-11T10:49:10Z",
+    "sha1": "9d9093df344a6053b717b2dfcf8a7bea8ca14f4d",
+    "size": 676
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Disaster Pacifier",
+        "class_id": "20469",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "A disaster created by God once threatened the fate of mankind, but a mighty one came to the rescue, relieving humans of danger. This is the citation for him!",
+        "fame": "31",
+        "art": "17",
+        "fth": "15",
+        "civ": "10",
+        "tech": "17",
+        "ss1": "Per 500 Fissure Floors, Snail ATK +3<br>Fissure Floor: 15000/15000",
+        "ss2": "Per 500 Fissure Floors, Snail ATK +6<br>Fissure Floor: 15000/15000",
+        "ss3": "Per 500 Fissure Floors, Snail ATK +9<br>Fissure Floor: 15000/15000",
+        "ss4": "Per 500 Fissure Floors, Snail ATK +9<br>Fissure Floor: 15000/15000",
+        "ss7": "Per 500 Fissure Floors, Snail ATK +9<br>Fissure Floor: 15000/15000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Disaster_Pacifier.wiki",
+  "markdown_path": "markdown/Disaster_Pacifier.md"
+}

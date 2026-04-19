@@ -1,0 +1,33 @@
+{
+  "pageid": 8886,
+  "ns": 0,
+  "title": "Diesel Engine+Statue of Gudea+Orichalcum+Warren Cup+Crookes Tube",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Diesel_Engine%2BStatue_of_Gudea%2BOrichalcum%2BWarren_Cup%2BCrookes_Tube",
+  "touched": "2025-06-19T23:56:50Z",
+  "length": 193,
+  "lastrevid": 35708,
+  "revision": {
+    "revid": 35708,
+    "parentid": 34904,
+    "timestamp": "2025-06-19T23:56:50Z",
+    "sha1": "77f6c1ce63ae518199372592ee066eea7748320b",
+    "size": 193
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "368",
+        "relics": "Diesel Engine,Statue of Gudea,Orichalcum,Warren Cup,Crookes Tube",
+        "rank": "blue",
+        "amount": "5",
+        "category": "self",
+        "description": "Per 10 Minions in battle: Troop ATK +8"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Diesel_Engine_Statue_of_Gudea_Orichalcum_Warren_Cup_Crookes_Tube.wiki",
+  "markdown_path": "markdown/Diesel_Engine_Statue_of_Gudea_Orichalcum_Warren_Cup_Crookes_Tube.md"
+}

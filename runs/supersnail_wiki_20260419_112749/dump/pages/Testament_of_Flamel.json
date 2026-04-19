@@ -1,0 +1,51 @@
+{
+  "pageid": 8812,
+  "ns": 0,
+  "title": "Testament of Flamel",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Testament_of_Flamel",
+  "touched": "2025-06-16T21:00:32Z",
+  "length": 1067,
+  "lastrevid": 34795,
+  "revision": {
+    "revid": 34795,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:59:48Z",
+    "sha1": "a6e5031f2e2a4698f7161694181c8a0d95e620aa",
+    "size": 1067
+  },
+  "categories": [
+    "Blue FAITH Relics",
+    "Blue Relics",
+    "FAITH Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Testament of Flamel",
+        "class_id": "22459",
+        "rank": "Blue",
+        "affct": "FAITH",
+        "birthday": "01-15",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Jan 15, 1417 AD, Nicolas Flamel's funeral was held as scheduled, leaving endless mysteries for the world.<br>Nicolas Flamel used to be an ordinary copyist. By chance, he obtained a strange document called \"The Book of Abraham the Jew.\" He spent 21 years deciphering it and, with the guidance of a predecessor, succeeded in creating the legendary Philosopher's Stone. Later, he revealed this secret in the form of a will to his nephew. Although the content was obscure, he still managed to pass on  …",
+        "fame": "25",
+        "art": "35",
+        "fth": "47",
+        "civ": "20",
+        "tech": "27",
+        "ss1": "Angel Minion RUSH +1%",
+        "ss2": "Angel Minion RUSH +2%",
+        "ss3": "Angel Minion RUSH +3%",
+        "ss4": "Angel Minion RUSH +5%",
+        "ss7": "Angel Minion RUSH +5%<br>Angel Minion RUSH +5% (Awakened)",
+        "skill1": "[[File:Offeringegg skill I.png|50px]]Place in Offering Egg: Green rewards from this egg turn Blue by 1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Testament_of_Flamel.wiki",
+  "markdown_path": "markdown/Testament_of_Flamel.md"
+}

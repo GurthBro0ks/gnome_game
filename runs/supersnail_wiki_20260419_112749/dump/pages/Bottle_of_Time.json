@@ -1,0 +1,47 @@
+{
+  "pageid": 5931,
+  "ns": 0,
+  "title": "Bottle of Time",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bottle_of_Time",
+  "touched": "2025-08-11T10:48:07Z",
+  "length": 1142,
+  "lastrevid": 38104,
+  "revision": {
+    "revid": 38104,
+    "parentid": 32188,
+    "timestamp": "2025-08-11T10:48:07Z",
+    "sha1": "ad8f68ab90f00e72a508fb4e51359e54c376b35a",
+    "size": 1142
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bottle of Time",
+        "class_id": "20437",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This old glass bottle is the sole designated storage vessel for the Sand of Time, for it could prevent loss of power from contact with any other substance. Furthermore, it is also a potent artifact that helps the holder control the Sand of Time stored within and serves as a casting component for various temporal spells.",
+        "fame": "31",
+        "art": "15",
+        "fth": "13",
+        "civ": "18",
+        "tech": "13",
+        "ss1": "Per Variant Apostle dominated, Snail ATK +1<br>Per Variant Apostle dominated, Snail DEF +1<br>Variant Apostles Dominated: 60/60",
+        "ss2": "Per Variant Apostle dominated, Snail ATK +2<br>Per Variant Apostle dominated, Snail DEF +2<br>Variant Apostles Dominated: 60/60",
+        "ss3": "Per Variant Apostle dominated, Snail ATK +3<br>Per Variant Apostle dominated, Snail DEF +3<br>Variant Apostles Dominated: 60/60",
+        "ss4": "Per Variant Apostle dominated, Snail ATK +3<br>Per Variant Apostle dominated, Snail DEF +3<br>Variant Apostles Dominated: 60/60",
+        "ss7": "Per Variant Apostle dominated, Snail ATK +3<br>Per Variant Apostle dominated, Snail DEF +3<br>Variant Apostles Dominated: 60/60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bottle_of_Time.wiki",
+  "markdown_path": "markdown/Bottle_of_Time.md"
+}

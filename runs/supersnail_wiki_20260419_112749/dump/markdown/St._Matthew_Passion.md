@@ -1,0 +1,6 @@
+|3name=Opera #1|3rec=208.24M|3atk=549089|3defense=336871|3hp=42394910|3weak=44741
+|4name=Opera #25|4rec=327.65M|4atk=767888|4defense=457338|4hp=84451573|4weak=52633
+|5name=Opera #43|5rec=466.51M|5atk=1001542|5defense=582263|5hp=149821131|5weak=58476
+|6name=Opera #78|6rec=654.63M|6atk=1334596|6defense=751599|6hp=318322125|6weak=67254
+|Arec=783.89M|Aatk=1575747|Adefense=890225|Ahp=456078626|Aweak=76850
+}}}}

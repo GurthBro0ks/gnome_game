@@ -1,0 +1,33 @@
+{
+  "pageid": 8800,
+  "ns": 0,
+  "title": "Meidum Geese+Wounded Lioness",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Meidum_Geese%2BWounded_Lioness",
+  "touched": "2025-06-20T00:19:02Z",
+  "length": 194,
+  "lastrevid": 36159,
+  "revision": {
+    "revid": 36159,
+    "parentid": 34780,
+    "timestamp": "2025-06-20T00:19:02Z",
+    "sha1": "d20219d5656689ddb261800bd9f3ae7e9b85ec27",
+    "size": 194
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "724",
+        "relics": "Meidum Geese,Wounded Lioness",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2 Epic+ Devotee assigned, Snail ATK +14;Epic+ Devotee Assigned: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Meidum_Geese_Wounded_Lioness.wiki",
+  "markdown_path": "markdown/Meidum_Geese_Wounded_Lioness.md"
+}

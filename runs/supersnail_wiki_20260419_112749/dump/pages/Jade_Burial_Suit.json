@@ -1,0 +1,62 @@
+{
+  "pageid": 237,
+  "ns": 0,
+  "title": "Jade Burial Suit",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Jade_Burial_Suit",
+  "touched": "2024-09-06T09:58:40Z",
+  "length": 1970,
+  "lastrevid": 26297,
+  "revision": {
+    "revid": 26297,
+    "parentid": 22223,
+    "timestamp": "2024-05-07T17:19:18Z",
+    "sha1": "8fc472f7b870d7f8603c41f1a9f43fcdf79cd3b5",
+    "size": 1970
+  },
+  "categories": [
+    "CIV Boost",
+    "CIV Relics",
+    "Cathay Museum Boost",
+    "DEF Boost",
+    "Drawn Dragon Boost",
+    "Enhanced by Cathay Generals",
+    "Enhanced by Relic Points",
+    "HP Boost",
+    "Medal Boost",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relic Boost",
+    "Relics",
+    "Undead Turtle Boost",
+    "Zombie Gene Speedup Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Jade Burial Suit",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "03-28",
+        "source": "Cathay Treasure Map (10% chance), Fragment Crafting (1.5%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)",
+        "description": "On Mar 28, 1994, a Jade Burial Suit was unearthed from the Shizishan tomb in Jiangsu.\n\nThe Jade Burial Suit is made by stitching jade stones with gold threads. It was used to protect corpses and has a shape similar to the human body. It consists of 6 parts, including the head, torso, and 4 limbs. Large pieces of jade and night pearls are also found in some of the openings. Made from dozens of catties of jade and gold silk, this garment is a sign of status and wealth and reflected the ancient ide …",
+        "fame": "47",
+        "art": "41",
+        "fth": "48",
+        "civ": "74",
+        "tech": "33",
+        "ss1": "Snail DEF +30<br>Per 2 Cathay Generals joined, Snail HP +60<br>Cathay Generals: 28/28",
+        "ss2": "Snail DEF +40<br>Per 2 Cathay Generals joined, Snail HP +80<br>Cathay Generals: 28/28",
+        "ss3": "Snail DEF +50<br>Per 2 Cathay Generals joined, Snail HP +100<br>Cathay Generals: 28/28",
+        "ss4": "Snail DEF +70<br>Per 2 Cathay Generals joined, Snail HP +140<br>Cathay Generals: 28/28",
+        "ss5": "Snail DEF +90<br>Per 2 Cathay Generals joined, Snail HP +180<br>Cathay Generals: 28/28",
+        "ss7": "Snail DEF +90<br>Per 2 Cathay Generals joined, Snail HP +180<br>Cathay Generals: 28/28<br>Snail DEF +70 (Awakened)",
+        "skill1": "[[File:Cathay skill II.png|50px]] Place in Cathay Museum: Medal Cost for Expert Scrolls -150",
+        "skill2": "[[File:Cathay skill II.png|50px]] Place in Cathay Museum: This Relic's CIV +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Jade_Burial_Suit.wiki",
+  "markdown_path": "markdown/Jade_Burial_Suit.md"
+}

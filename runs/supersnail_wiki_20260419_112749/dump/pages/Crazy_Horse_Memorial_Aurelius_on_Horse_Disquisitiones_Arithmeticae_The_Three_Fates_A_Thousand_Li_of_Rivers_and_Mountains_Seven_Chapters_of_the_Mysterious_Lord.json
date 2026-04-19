@@ -1,0 +1,33 @@
+{
+  "pageid": 11064,
+  "ns": 0,
+  "title": "Crazy Horse Memorial+Aurelius on Horse+Disquisitiones Arithmeticae+The Three Fates+A Thousand Li of Rivers and Mountains+Seven Chapters of the Mysterious Lord",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Crazy_Horse_Memorial%2BAurelius_on_Horse%2BDisquisitiones_Arithmeticae%2BThe_Three_Fates%2BA_Thousand_Li_of_Rivers_and_Mountains%2BSeven_Chapters_of_the_Mysterious_Lord",
+  "touched": "2025-08-11T11:11:00Z",
+  "length": 271,
+  "lastrevid": 39097,
+  "revision": {
+    "revid": 39097,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:11:00Z",
+    "sha1": "33ff1c6a11875a0cd2b5c2803a83026272ac57e3",
+    "size": 271
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "856",
+        "relics": "Crazy Horse Memorial,Aurelius on Horse,Disquisitiones Arithmeticae,The Three Fates,A Thousand Li of Rivers and Mountains,Seven Chapters of the Mysterious Lord",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Snail Leadership +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Crazy_Horse_Memorial_Aurelius_on_Horse_Disquisitiones_Arithmeticae_The_Three_Fates_A_Thousand_Li_of_Rivers_and_Mountains_Seven_Chapters_of_the_Mysterious_Lord.wiki",
+  "markdown_path": "markdown/Crazy_Horse_Memorial_Aurelius_on_Horse_Disquisitiones_Arithmeticae_The_Three_Fates_A_Thousand_Li_of_Rivers_and_Mountains_Seven_Chapters_of_the_Mysterious_Lord.md"
+}

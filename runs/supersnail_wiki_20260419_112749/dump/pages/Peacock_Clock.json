@@ -1,0 +1,55 @@
+{
+  "pageid": 448,
+  "ns": 0,
+  "title": "Peacock Clock",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Peacock_Clock",
+  "touched": "2024-09-06T09:58:48Z",
+  "length": 1512,
+  "lastrevid": 21903,
+  "revision": {
+    "revid": 21903,
+    "parentid": 21766,
+    "timestamp": "2024-01-21T20:46:12Z",
+    "sha1": "5da1ae6ae491a1f63e9417a1345b3b43cb476247",
+    "size": 1512
+  },
+  "categories": [
+    "ART Relics",
+    "Bharata Exploration Boost",
+    "Bharata Museum Boost",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Dragon Minion ATK Boost",
+    "Exploration Reagent Drop Boost",
+    "Relics",
+    "Stan Boost",
+    "Time Machine Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Peacock Clock",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "11-20",
+        "source": "Lottery Machine (0.03%), Wishing (1.2%), Bharata Treasure Maps (20%), Time Chest (2%)",
+        "description": "On Nov 20, 1762, Grigory Potemkin of Russia made the Peacock Clock and presented it to Catherine the Great.\n\nThe Peacock Clock was a favorite item of Catherine the Great. Each time the clock strikes the hour, the peacock standing on the golden stump will spread its feathers, while the rooster next to it will flap its wings. Besides, the owl will spin and nod, and the other small creatures and plants at the base of the clock will also begin to move along with the ring of the bell. Combining exqui …",
+        "fame": "22",
+        "art": "44",
+        "fth": "29",
+        "civ": "31",
+        "tech": "28",
+        "ss1": "Time Machine Travel Speedup Output +2%",
+        "ss2": "Time Machine Travel Speedup Output +4%",
+        "ss3": "Time Machine Travel Speedup Output +6%",
+        "ss4": "Time Machine Travel Speedup Output +10%",
+        "ss7": "Time Machine Travel Speedup Output +10%<br>Time Machine Travel Speedup Output +10% (Awakened)",
+        "skill1": "[[File:Bharata skill I.png|50px]]Place in Bharata Museum: In Bharata, Snail HP +200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Peacock_Clock.wiki",
+  "markdown_path": "markdown/Peacock_Clock.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 3936,
+  "ns": 0,
+  "title": "L'Origine du monde",
+  "fullurl": "https://supersnail.wiki.gg/wiki/L%27Origine_du_monde",
+  "touched": "2025-08-11T11:19:33Z",
+  "length": 713,
+  "lastrevid": 39470,
+  "revision": {
+    "revid": 39470,
+    "parentid": 21891,
+    "timestamp": "2025-08-11T11:19:33Z",
+    "sha1": "f18924bb339793972975885c7ff67793e9582351",
+    "size": 713
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "L'Origine du monde",
+        "class_id": "20150",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This oil painting was the work of the famous Gustave Courbet. In this painting, he denied God as the world's origin and revealed the universe's ultimate mystery: Everyone has to pass the Gate of Genesis test to come to this world before they defeat countless competitors.",
+        "fame": "18",
+        "art": "30",
+        "fth": "14",
+        "civ": "14",
+        "tech": "14",
+        "ss1": "Per 300 AFFCT, Snail ATK +1<br>AFFCT: 66600/66600",
+        "ss2": "Per 300 AFFCT, Snail ATK +1<br>AFFCT: 133200/133200",
+        "ss3": "Per 300 AFFCT, Snail ATK +1<br>AFFCT: 199800/199800",
+        "ss4": "Per 300 AFFCT, Snail ATK +1<br>AFFCT: 199800/199800",
+        "ss7": "Per 300 AFFCT, Snail ATK +1<br>AFFCT: 199800/199800<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/L_Origine_du_monde.wiki",
+  "markdown_path": "markdown/L_Origine_du_monde.md"
+}

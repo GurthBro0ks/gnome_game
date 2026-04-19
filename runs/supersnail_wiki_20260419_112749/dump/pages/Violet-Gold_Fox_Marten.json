@@ -1,0 +1,47 @@
+{
+  "pageid": 11110,
+  "ns": 0,
+  "title": "Violet-Gold Fox Marten",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Violet-Gold_Fox_Marten",
+  "touched": "2025-08-11T11:12:44Z",
+  "length": 718,
+  "lastrevid": 39174,
+  "revision": {
+    "revid": 39174,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:12:44Z",
+    "sha1": "73325014577643cfacf96680f0013f884d0a922f",
+    "size": 718
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Violet-Gold Fox Marten",
+        "class_id": "20439",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This most beloved pet of Virupaksa. It can store electricity in its cheek and manipulate it freely. Moreover, the creature is also very agile, adept at biting, high-voltage strike, Five Lightnings, and other abilities. Trained by Virupaksa, it was once formidable. Up to the moment it is defeated, it kept touting itself as a guaranteed genuine Violet-Gold Fox Marten...",
+        "fame": "30",
+        "art": "17",
+        "fth": "13",
+        "civ": "16",
+        "tech": "14",
+        "ss1": "Free Gene Speedup (Mutant) +6m",
+        "ss2": "Free Gene Speedup (Mutant) +12m",
+        "ss3": "Free Gene Speedup (Mutant) +18m",
+        "ss4": "Free Gene Speedup (Mutant) +18m",
+        "ss7": "Free Gene Speedup (Mutant) +18m<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Violet-Gold_Fox_Marten.wiki",
+  "markdown_path": "markdown/Violet-Gold_Fox_Marten.md"
+}

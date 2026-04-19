@@ -1,0 +1,56 @@
+{
+  "pageid": 638,
+  "ns": 0,
+  "title": "Minie Ball",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Minie_Ball",
+  "touched": "2024-09-06T09:56:44Z",
+  "length": 1415,
+  "lastrevid": 21750,
+  "revision": {
+    "revid": 21750,
+    "parentid": 17014,
+    "timestamp": "2024-01-12T02:44:51Z",
+    "sha1": "d4f2a0589729c180a4cd8a929b65612555ff0827",
+    "size": 1415
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue FAME Relics",
+    "Blue Relics",
+    "Daily Hitmen Demon Chest Drop Boost",
+    "FAME Relics",
+    "Gene Simulation Compass Boost",
+    "Hitman Boost",
+    "Mecha Minion ATK Boost",
+    "RUSH Boost",
+    "Relics",
+    "Tomb Figure Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Minie Ball",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "10-30",
+        "source": "[[Koryeon Domain]], Lottery Machine (0.03%), Wish (1.2%)",
+        "description": "On Oct 30, 1849, Minie invented a special bullet which had a great impact on future generations.\n\nThe Minie ball has a small diameter that is unsuitable for ordinary rifled guns. With a lead skirting on the exterior of the bullet and a hollow cavity, the skirt of the bullet would expand under the pressure of gunpowder deflagration, allowing the bullet to gain a strong rotational force. During the Franco-Prussian War, the old Minie rifle suffered a heavy defeat on the battlefield and became obsol …",
+        "fame": "46",
+        "art": "26",
+        "fth": "31",
+        "civ": "19",
+        "tech": "32",
+        "ss1": "Defeated Daily Hitmen drop +1% Demon Chests",
+        "ss2": "Defeated Daily Hitmen drop +2% Demon Chests",
+        "ss3": "Defeated Daily Hitmen drop +3% Demon Chests",
+        "ss4": "Defeated Daily Hitmen drop +5% Demon Chests",
+        "ss7": "Defeated Daily Hitmen drop +5% Demon Chests<br>Defeated Daily Hitmen drop +5% Demon Chests (Awakened)",
+        "skill1": "[[File:Genesim skill I.png|50px]] Place in Gene Sim Device: Snail RUSH +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Minie_Ball.wiki",
+  "markdown_path": "markdown/Minie_Ball.md"
+}

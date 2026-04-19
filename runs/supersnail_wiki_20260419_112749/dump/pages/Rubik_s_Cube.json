@@ -1,0 +1,55 @@
+{
+  "pageid": 1158,
+  "ns": 0,
+  "title": "Rubik's Cube",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Rubik%27s_Cube",
+  "touched": "2024-09-06T09:58:24Z",
+  "length": 1620,
+  "lastrevid": 26311,
+  "revision": {
+    "revid": 26311,
+    "parentid": 21423,
+    "timestamp": "2024-05-07T17:39:06Z",
+    "sha1": "6dfef36b29c0498e8891a080f60b09435513483b",
+    "size": 1620
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Boost",
+    "CIV Relics",
+    "Dragon Gene Speedup Boost",
+    "Enhanced by Unispark Activations",
+    "Exploration Compass Boost",
+    "Exploration INTEL Boost",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Rubik's Cube",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "02-13",
+        "source": "Lottery Machine (0.07%), Novice Scroll (1%), Wishing (2.1%)",
+        "description": "On Feb 13, 1974, the Hungarian scientist Erno Rubik invented the Rubik's Cube. \n\nThe Rubik's Cube is the most popular puzzle toy today. Rubik spent 6 weeks designing just to make this cube. It features a square structure that can be rotated freely to change the cube's orientation and there are 6 colors on the different sides of the cube. It can improve one's spatial intelligence, logical thinking, and memory. The first batch of Rubik's was sold out in two days after its production. \n\n[Algorithm] …",
+        "fame": "21",
+        "art": "32",
+        "fth": "24",
+        "civ": "47",
+        "tech": "30",
+        "ss1": "Per 3 times Unispark activated, Snail RUSH +2<br>Unispark Activations: 60/60",
+        "ss2": "Per 3 times Unispark activated, Snail RUSH +4<br>Unispark Activations: 60/60",
+        "ss3": "Per 3 times Unispark activated, Snail RUSH +6<br>Unispark Activations: 60/60",
+        "ss4": "Per 3 times Unispark activated, Snail RUSH +10<br>Unispark Activations: 60/60",
+        "ss7": "Per 3 times Unispark activated, Snail RUSH +10<br>Unispark Activations: 60/60<br>Snail RUSH +50 (Awakened)",
+        "skill1": "[[File:Compass skill I.png|50px]] Place in Exploration Compass: CIV Checks -5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Rubik_s_Cube.wiki",
+  "markdown_path": "markdown/Rubik_s_Cube.md"
+}

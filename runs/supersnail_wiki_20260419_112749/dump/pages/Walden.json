@@ -1,0 +1,47 @@
+{
+  "pageid": 4077,
+  "ns": 0,
+  "title": "Walden",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Walden",
+  "touched": "2025-08-11T11:19:17Z",
+  "length": 970,
+  "lastrevid": 39458,
+  "revision": {
+    "revid": 39458,
+    "parentid": 32620,
+    "timestamp": "2025-08-11T11:19:17Z",
+    "sha1": "b51d8e89bad5a0d4820bbbd0b1fa6f568324c8ab",
+    "size": 970
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Walden",
+        "class_id": "20087",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This is a collection of essays written by the famous American writer Thoreau. The whole book is composed of eighteen essays, which detail what Thoreau heard and thought when he lived alone beside Walden Pond. The whole book is rich in content and vivid in language. The concept of advocating a simple life and adoring natural light in the book is widely welcomed by people.",
+        "fame": "14",
+        "art": "11",
+        "fth": "18",
+        "civ": "30",
+        "tech": "17",
+        "ss1": "Snail HP +100<br>When you share Top Books the 1st time each week, Lottery Tickets +1",
+        "ss2": "Snail HP +150<br>When you share Top Books the 1st time each week, Lottery Tickets +1",
+        "ss3": "Snail HP +200<br>When you share Top Books the 1st time each week, Lottery Tickets +1",
+        "ss4": "Snail HP +200<br>When you share Top Books the 1st time each week, Lottery Tickets +1",
+        "ss7": "Snail HP +200<br>When you share Top Books the 1st time each week, Lottery Tickets +1<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Walden.wiki",
+  "markdown_path": "markdown/Walden.md"
+}

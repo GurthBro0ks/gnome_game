@@ -1,0 +1,68 @@
+{
+  "pageid": 2038,
+  "ns": 0,
+  "title": "Tokamak",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tokamak",
+  "touched": "2024-11-04T01:10:54Z",
+  "length": 2787,
+  "lastrevid": 30163,
+  "revision": {
+    "revid": 30163,
+    "parentid": 25131,
+    "timestamp": "2024-10-15T15:48:15Z",
+    "sha1": "97dae3fb102d2125c6f77f129a85976e969f0d2e",
+    "size": 2787
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by Lottery Draws",
+    "Exploration Reagent Drop Boost",
+    "HP Boost",
+    "Lottery Machine Boost",
+    "Mutant Gene Boost",
+    "Mutant Gene Speedup Boost",
+    "Orange Relics",
+    "Orange TECH Relics",
+    "RUSH Boost",
+    "Relics",
+    "TECH Boost",
+    "TECH Relics",
+    "Time Machine Boost",
+    "Time Machine Output Boost",
+    "Time Machine Skill",
+    "Yamato Exploration Boost",
+    "Yamato Museum Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Tokamak",
+        "rank": "SS",
+        "affct": "TECH",
+        "birthday": "12-09",
+        "source": "Fragment Crafting (5.2%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), TECH Master Scrolls (9.2%), Wishing (1.9%)",
+        "description": "On Dec 9, 1955 AD, Tokamak was invented in the NRC KI of the Soviet Union.\n\nTokamak devices are used for controlled nuclear fusion experiments. The primary reactants of fusion are the isotopes of hydrogen, deuterium, and tritium. Deuterium and tritium must be fused at temperatures of over 100 million degrees Celsius. The tokamak device heats the plasma in confinement by generating a powerful circular magnetic field, creating the high temperatures required for fusion reactions while controlling t …",
+        "fame": "67",
+        "art": "77",
+        "fth": "48",
+        "civ": "53",
+        "tech": "102",
+        "ss1": "Mutant Gene Research SPD +1.2%<br>Free Gene Speedup (Mutant) +12m<br>Per 5 Mutant Gene LVLs, Snail ATK +4<br>Mutant Gene LVLs Researched: 150/150",
+        "ss2": "Mutant Gene Research SPD +1.8%<br>Free Gene Speedup (Mutant) +18m<br>Per 5 Mutant Gene LVLs, Snail ATK +6<br>Mutant Gene LVLs Researched: 150/150",
+        "ss3": "Mutant Gene Research SPD +2.4%<br>Free Gene Speedup (Mutant) +24m<br>Per 5 Mutant Gene LVLs, Snail ATK +8<br>Mutant Gene LVLs Researched: 150/150",
+        "ss4": "Mutant Gene Research SPD +3.6%<br>Free Gene Speedup (Mutant) +36m<br>Per 5 Mutant Gene LVLs, Snail ATK +12<br>Mutant Gene LVLs Researched: 150/150",
+        "ss5": "Mutant Gene Research SPD +4.8%<br>Free Gene Speedup (Mutant) +48m<br>Per 5 Mutant Gene LVLs, Snail ATK +16<br>Mutant Gene LVLs Researched: 150/150",
+        "ss6": "Mutant Gene Research SPD +6.6%<br>Free Gene Speedup (Mutant) +1h 6m<br>Per 5 Mutant Gene LVLs, Snail ATK +22<br>Mutant Gene LVLs Researched: 150/150",
+        "ss7": "Mutant Gene Research SPD +6.6%<br>Free Gene Speedup (Mutant) +1h 6m<br>Per 5 Mutant Gene LVLs, Snail ATK +22<br>Mutant Gene LVLs Researched: 150/150<br>Free Gene Speedup (Mutant) +1h (Awakened)",
+        "skill1": "[[File:Timemachine skill III.png|50px]]Place in Time Machine: Travel Speedup Output +30%",
+        "skill2": "[[File:Timemachine skill III.png|50px]]Place in Time Machine: This Relic's TECH +15",
+        "skill3": "[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, 2x Blue Reagent Drops +15%",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tokamak.wiki",
+  "markdown_path": "markdown/Tokamak.md"
+}

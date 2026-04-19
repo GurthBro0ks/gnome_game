@@ -1,0 +1,54 @@
+{
+  "pageid": 694,
+  "ns": 0,
+  "title": "Seated Scribe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Seated_Scribe",
+  "touched": "2024-11-04T01:11:06Z",
+  "length": 1526,
+  "lastrevid": 28756,
+  "revision": {
+    "revid": 28756,
+    "parentid": 16946,
+    "timestamp": "2024-08-12T17:18:43Z",
+    "sha1": "12eb9c94700e46f59b815eea23b40f2476c729e8",
+    "size": 1526
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "DEF Boost",
+    "Indigent Nobleman Relics",
+    "Kemet Exploration Boost",
+    "Kemet Museum Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Seated Scribe",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "05-28",
+        "source": "* Kemetic Treasure Map (20%), Lottery Machine (0.03%), Wishing (0.82%)\n* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})",
+        "description": "On May 28, 1850, this seated statue of scribe was unearthed in the Saqqara Necropolis.\n\nThis 4000-year scribe statue was unearthed from the necropolis and the statue represents a special and noble profession in ancient Egypt. The elegant statue was carved with smooth lines and features a vivid expression of the scribe. The scroll in hit left hand and the pen in his right hand reflected his professionalism. Although the carving technique was simple and some paint had peeled off, its exquisite cra …",
+        "fame": "28",
+        "art": "30",
+        "fth": "30",
+        "civ": "44",
+        "tech": "22",
+        "ss1": "Per 100 Avatar Score, Snail DEF +1<br>Avatar Score: 5,000/5,000",
+        "ss2": "Per 100 Avatar Score, Snail DEF +2<br>Avatar Score: 5,000/5,000",
+        "ss3": "Per 100 Avatar Score, Snail DEF +3<br>Avatar Score: 5,000/5,000",
+        "ss4": "Per 100 Avatar Score, Snail DEF +5<br>Avatar Score: 5,000/5,000",
+        "ss7": "Per 100 Avatar Score, Snail DEF +5<br>Avatar Score: 5,000/5,000<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Kemet skill I.png|50px]] Place in Kemetic Museum: In Kemet, Snail ATK +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Seated_Scribe.wiki",
+  "markdown_path": "markdown/Seated_Scribe.md"
+}

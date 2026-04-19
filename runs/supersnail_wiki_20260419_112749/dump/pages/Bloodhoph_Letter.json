@@ -1,0 +1,48 @@
+{
+  "pageid": 970,
+  "ns": 0,
+  "title": "Bloodhoph Letter",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bloodhoph_Letter",
+  "touched": "2025-09-30T22:26:32Z",
+  "length": 737,
+  "lastrevid": 40410,
+  "revision": {
+    "revid": 40410,
+    "parentid": 40348,
+    "timestamp": "2025-09-30T22:26:32Z",
+    "sha1": "14e886f68684653a883963303898b98366f02242",
+    "size": 737
+  },
+  "categories": [
+    "DEF Boost",
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Never Lucky Pack Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bloodhoph Letter",
+        "class_id": "20216",
+        "rank": "Green",
+        "affct": "FTH",
+        "source": "Rent from [[Lee Gi-na]]",
+        "description": "Dear Gi-na, I know you took our babies away because you can't stand my bad temper! It was all my fault. Please don't take it out on the kids! I've bought you a limited Ferrari! Please accept my sincere apology and come back...\nAlways Yours, Bull Chief",
+        "fame": "18",
+        "art": "14",
+        "fth": "29",
+        "civ": "13",
+        "tech": "16",
+        "ss1": "Per 4 Never Lucky Packs claimed, Snail DEF +2<br>Never Lucky Packs Claimed: 40/40",
+        "ss2": "Per 4 Never Lucky Packs claimed, Snail DEF +4<br>Never Lucky Packs Claimed: 40/40",
+        "ss3": "Per 4 Never Lucky Packs claimed, Snail DEF +6<br>Never Lucky Packs Claimed: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bloodhoph_Letter.wiki",
+  "markdown_path": "markdown/Bloodhoph_Letter.md"
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 4577,
+  "ns": 0,
+  "title": "Dewar Flask+Bastet Bronze Statue+Walking Man Statue+Das Rheingold",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dewar_Flask%2BBastet_Bronze_Statue%2BWalking_Man_Statue%2BDas_Rheingold",
+  "touched": "2024-12-02T03:00:51Z",
+  "length": 264,
+  "lastrevid": 18358,
+  "revision": {
+    "revid": 18358,
+    "parentid": 16709,
+    "timestamp": "2023-11-13T21:23:23Z",
+    "sha1": "216ff79de32c7868326866ae4ffaf8ace7a37c8e",
+    "size": 264
+  },
+  "categories": [
+    "Dragon Minion ATK Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Dewar Flask,Bastet Bronze Statue,Walking Man Statue,Das Rheingold",
+        "rank": "blue",
+        "amount": "4",
+        "category": "minion",
+        "description": "Per 10 Dragon Minions in battle: Troop ATK +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dewar_Flask_Bastet_Bronze_Statue_Walking_Man_Statue_Das_Rheingold.wiki",
+  "markdown_path": "markdown/Dewar_Flask_Bastet_Bronze_Statue_Walking_Man_Statue_Das_Rheingold.md"
+}

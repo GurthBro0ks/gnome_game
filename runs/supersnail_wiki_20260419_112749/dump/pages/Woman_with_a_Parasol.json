@@ -1,0 +1,52 @@
+{
+  "pageid": 11116,
+  "ns": 0,
+  "title": "Woman with a Parasol",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Woman_with_a_Parasol",
+  "touched": "2025-08-11T11:12:55Z",
+  "length": 1724,
+  "lastrevid": 39182,
+  "revision": {
+    "revid": 39182,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:12:55Z",
+    "sha1": "994534313e7f694288ab36c15091b9a61a3f8142",
+    "size": 1724
+  },
+  "categories": [
+    "ART Relics",
+    "Orange ART Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Woman with a Parasol",
+        "class_id": "21139",
+        "rank": "SSS",
+        "affct": "ART",
+        "description": "Monet’s impressionist hymn to fleeting light. Wind-kissed skirts and fractured brushstrokes birthed \"living palette\" technique.",
+        "fame": "47",
+        "art": "108",
+        "fth": "85",
+        "civ": "67",
+        "tech": "55",
+        "ss1": "Snail Leadership +3<br>Per 3 Dorm Decors gained, Snail Oblivion Power +3<br>Per 3 Dorm Decors gained, Snail Murky Power +3<br>Dorm Decor Gained: 150/150",
+        "ss2": "Snail Leadership +4<br>Per 3 Dorm Decors gained, Snail Oblivion Power +4<br>Per 3 Dorm Decors gained, Snail Murky Power +4<br>Dorm Decor Gained: 150/150",
+        "ss3": "Snail Leadership +5<br>Per 3 Dorm Decors gained, Snail Oblivion Power +5<br>Per 3 Dorm Decors gained, Snail Murky Power +5<br>Dorm Decor Gained: 150/150",
+        "ss4": "Snail Leadership +7<br>Per 3 Dorm Decors gained, Snail Oblivion Power +7<br>Per 3 Dorm Decors gained, Snail Murky Power +7<br>Dorm Decor Gained: 150/150",
+        "ss5": "Snail Leadership +9<br>Per 3 Dorm Decors gained, Snail Oblivion Power +9<br>Per 3 Dorm Decors gained, Snail Murky Power +9<br>Dorm Decor Gained: 150/150",
+        "ss6": "Snail Leadership +12<br>Per 3 Dorm Decors gained, Snail Oblivion Power +12<br>Per 3 Dorm Decors gained, Snail Murky Power +12<br>Dorm Decor Gained: 150/150",
+        "ss7": "Snail Leadership +12<br>Per 3 Dorm Decors gained, Snail Oblivion Power +12<br>Per 3 Dorm Decors gained, Snail Murky Power +12<br>Dorm Decor Gained: 150/150<br>Snail Leadership +5 (Awakened)",
+        "skill1": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, B-tads gained +6%",
+        "skill2": "[[File:Rift skill III.png|50px]]Place in Rift Museum: This Relic's ART +15",
+        "skill3": "[[File:Rift skill III.png|50px]]Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Woman_with_a_Parasol.wiki",
+  "markdown_path": "markdown/Woman_with_a_Parasol.md"
+}

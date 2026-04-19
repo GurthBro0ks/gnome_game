@@ -1,0 +1,35 @@
+{
+  "pageid": 8546,
+  "ns": 0,
+  "title": "Lottery 3",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lottery_3",
+  "touched": "2025-06-17T12:16:55Z",
+  "length": 2570,
+  "lastrevid": 35208,
+  "revision": {
+    "revid": 35208,
+    "parentid": 34459,
+    "timestamp": "2025-06-17T12:16:55Z",
+    "sha1": "5852489b9baef9fa55fea3f25b271c503b1776ab",
+    "size": 2570
+  },
+  "categories": [
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "#cargo_query:table=Relics",
+      "params": {
+        "fields": "name, source, affct, rank, ss3, ss7, fame, art, fth, civ, tech, source",
+        "where": "source LIKE '%Lottery Machine No.3%'",
+        "order by": "name",
+        "format": "template",
+        "template": "RelicSourceTableRow",
+        "named args": "yes"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lottery_3.wiki",
+  "markdown_path": "markdown/Lottery_3.md"
+}

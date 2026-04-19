@@ -1,0 +1,33 @@
+{
+  "pageid": 10417,
+  "ns": 0,
+  "title": "The Fifer+The Goodbye Kiss",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Fifer%2BThe_Goodbye_Kiss",
+  "touched": "2025-08-11T10:49:54Z",
+  "length": 140,
+  "lastrevid": 38186,
+  "revision": {
+    "revid": 38186,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:49:54Z",
+    "sha1": "1802974b0ae8372586fa2c9e812aeef9cd40aa05",
+    "size": 140
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "395",
+        "relics": "The Fifer,The Goodbye Kiss",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Mutant Minion DEF +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Fifer_The_Goodbye_Kiss.wiki",
+  "markdown_path": "markdown/The_Fifer_The_Goodbye_Kiss.md"
+}

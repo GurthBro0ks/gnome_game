@@ -1,0 +1,33 @@
+{
+  "pageid": 9274,
+  "ns": 0,
+  "title": "Red Algae Fossil+The Graces+Gilded Buddha",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Red_Algae_Fossil%2BThe_Graces%2BGilded_Buddha",
+  "touched": "2025-06-20T00:16:51Z",
+  "length": 180,
+  "lastrevid": 36121,
+  "revision": {
+    "revid": 36121,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:16:51Z",
+    "sha1": "e65675fb6df187bc18e2b58820330083dba2656c",
+    "size": 180
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "569",
+        "relics": "Red Algae Fossil,The Graces,Gilded Buddha",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Sunny Plant Food gives 1 Green Pistil by +1.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Red_Algae_Fossil_The_Graces_Gilded_Buddha.wiki",
+  "markdown_path": "markdown/Red_Algae_Fossil_The_Graces_Gilded_Buddha.md"
+}

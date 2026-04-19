@@ -1,0 +1,34 @@
+{
+  "pageid": 4842,
+  "ns": 0,
+  "title": "Boy with Apple+Wilson Cloud Chamber+Book of Shadows+Valaroma",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Boy_with_Apple%2BWilson_Cloud_Chamber%2BBook_of_Shadows%2BValaroma",
+  "touched": "2024-12-02T03:00:51Z",
+  "length": 253,
+  "lastrevid": 17447,
+  "revision": {
+    "revid": 17447,
+    "parentid": 0,
+    "timestamp": "2023-11-11T04:04:16Z",
+    "sha1": "aa2ee58d100aa04d6df436dee47072370f326643",
+    "size": 253
+  },
+  "categories": [
+    "Scroll Reagent Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Boy with Apple,Wilson Cloud Chamber,Book of Shadows,Valaroma",
+        "rank": "purple",
+        "amount": "2",
+        "category": "Reagent Crafting Boost",
+        "description": "Expert Scrolls drop +1 Purple Reagent by +8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Boy_with_Apple_Wilson_Cloud_Chamber_Book_of_Shadows_Valaroma.wiki",
+  "markdown_path": "markdown/Boy_with_Apple_Wilson_Cloud_Chamber_Book_of_Shadows_Valaroma.md"
+}

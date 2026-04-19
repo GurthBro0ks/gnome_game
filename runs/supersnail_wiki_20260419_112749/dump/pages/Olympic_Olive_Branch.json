@@ -1,0 +1,47 @@
+{
+  "pageid": 10162,
+  "ns": 0,
+  "title": "Olympic Olive Branch",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Olympic_Olive_Branch",
+  "touched": "2025-08-11T10:40:58Z",
+  "length": 998,
+  "lastrevid": 37797,
+  "revision": {
+    "revid": 37797,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:40:58Z",
+    "sha1": "1f0149b52b7c1f4f562c89dc0445b5781beb5895",
+    "size": 998
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Olympic Olive Branch",
+        "class_id": "20478",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "It is said to be a branch taken to the human world by Goddess Athena. It symbolizes peace and happiness. As the highest honor in the Olympics, only the winner of all has the privilege to wear it as the most Goddess-blessed one!",
+        "fame": "31",
+        "art": "16",
+        "fth": "14",
+        "civ": "14",
+        "tech": "15",
+        "ss1": "Upon traveling through a new area:<br>> Gain +2 INTEL<br>Per Realm conquered, Snail ATK +5<br>Realms Conquered: 8/8",
+        "ss2": "Upon traveling through a new area:<br>> Gain +4 INTEL<br>Per Realm conquered, Snail ATK +10<br>Realms Conquered: 8/8",
+        "ss3": "Upon traveling through a new area:<br>> Gain +6 INTEL<br>Per Realm conquered, Snail ATK +15<br>Realms Conquered: 8/8",
+        "ss4": "Upon traveling through a new area:<br>> Gain +6 INTEL<br>Per Realm conquered, Snail ATK +15<br>Realms Conquered: 8/8",
+        "ss7": "Upon traveling through a new area:<br>> Gain +6 INTEL<br>Per Realm conquered, Snail ATK +15<br>Realms Conquered: 8/8<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Olympic_Olive_Branch.wiki",
+  "markdown_path": "markdown/Olympic_Olive_Branch.md"
+}

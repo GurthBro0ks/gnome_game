@@ -1,0 +1,47 @@
+{
+  "pageid": 1789,
+  "ns": 0,
+  "title": "Acupuncture Figure",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Acupuncture_Figure",
+  "touched": "2025-08-11T11:15:21Z",
+  "length": 610,
+  "lastrevid": 39288,
+  "revision": {
+    "revid": 39288,
+    "parentid": 25143,
+    "timestamp": "2025-08-11T11:15:21Z",
+    "sha1": "91ef0fd4217e3bc8288aa91fcd33662475738a10",
+    "size": 610
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Acupuncture Figure",
+        "class_id": "20314",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Something odd just got mixed in with the mound of movie awards! It does look like a trophy from a film festival and yet it is another proof of the bad taste of the development team!",
+        "fame": "12",
+        "art": "14",
+        "fth": "18",
+        "civ": "29",
+        "tech": "17",
+        "ss1": "Snail ATK +20<br>Snail DEF +20<br>Snail RUSH +20",
+        "ss2": "Snail ATK +40<br>Snail DEF +40<br>Snail RUSH +40",
+        "ss3": "Snail ATK +60<br>Snail DEF +60<br>Snail RUSH +60",
+        "ss4": "Snail ATK +60<br>Snail DEF +60<br>Snail RUSH +60",
+        "ss7": "Snail ATK +60<br>Snail DEF +60<br>Snail RUSH +60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Acupuncture_Figure.wiki",
+  "markdown_path": "markdown/Acupuncture_Figure.md"
+}

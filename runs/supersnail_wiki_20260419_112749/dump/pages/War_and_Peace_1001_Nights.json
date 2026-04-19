@@ -1,0 +1,33 @@
+{
+  "pageid": 3764,
+  "ns": 0,
+  "title": "War and Peace+1001 Nights",
+  "fullurl": "https://supersnail.wiki.gg/wiki/War_and_Peace%2B1001_Nights",
+  "touched": "2025-08-11T11:08:42Z",
+  "length": 157,
+  "lastrevid": 39000,
+  "revision": {
+    "revid": 39000,
+    "parentid": 18408,
+    "timestamp": "2025-08-11T11:08:42Z",
+    "sha1": "ec8d39b35f4068437b044aead3199010ca87d048",
+    "size": 157
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "161",
+        "relics": "War and Peace,1001 Nights",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop ATK +63"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/War_and_Peace_1001_Nights.wiki",
+  "markdown_path": "markdown/War_and_Peace_1001_Nights.md"
+}

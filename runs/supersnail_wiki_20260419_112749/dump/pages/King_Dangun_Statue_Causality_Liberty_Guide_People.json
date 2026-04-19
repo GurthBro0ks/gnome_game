@@ -1,0 +1,34 @@
+{
+  "pageid": 3797,
+  "ns": 0,
+  "title": "King Dangun Statue+Causality+Liberty Guide People",
+  "fullurl": "https://supersnail.wiki.gg/wiki/King_Dangun_Statue%2BCausality%2BLiberty_Guide_People",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 222,
+  "lastrevid": 13695,
+  "revision": {
+    "revid": 13695,
+    "parentid": 0,
+    "timestamp": "2023-10-02T12:10:30Z",
+    "sha1": "dfb512b71ca453da8a98228e20d8c2963205246b",
+    "size": 222
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "King Dangun Statue,Causality,Liberty Guide People",
+        "rank": "orange",
+        "amount": "3",
+        "category": "home",
+        "description": "The Time Machine has a +16% chance to generate Time Chests"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/King_Dangun_Statue_Causality_Liberty_Guide_People.wiki",
+  "markdown_path": "markdown/King_Dangun_Statue_Causality_Liberty_Guide_People.md"
+}

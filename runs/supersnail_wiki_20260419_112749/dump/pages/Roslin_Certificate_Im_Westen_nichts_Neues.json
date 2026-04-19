@@ -1,0 +1,33 @@
+{
+  "pageid": 10907,
+  "ns": 0,
+  "title": "Roslin Certificate+Im Westen nichts Neues",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Roslin_Certificate%2BIm_Westen_nichts_Neues",
+  "touched": "2025-08-11T11:05:30Z",
+  "length": 215,
+  "lastrevid": 38846,
+  "revision": {
+    "revid": 38846,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:05:13Z",
+    "sha1": "d7a26939647cc67d91a9481ae97118f1f2e54799",
+    "size": 215
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "822",
+        "relics": "Roslin Certificate,Im Westen nichts Neues",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Incubator Files fully restored, Snail ATK +21;Files fully restored: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Roslin_Certificate_Im_Westen_nichts_Neues.wiki",
+  "markdown_path": "markdown/Roslin_Certificate_Im_Westen_nichts_Neues.md"
+}

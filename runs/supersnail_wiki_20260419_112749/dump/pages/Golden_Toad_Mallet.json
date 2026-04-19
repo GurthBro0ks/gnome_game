@@ -1,0 +1,47 @@
+{
+  "pageid": 11382,
+  "ns": 0,
+  "title": "Golden Toad Mallet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Toad_Mallet",
+  "touched": "2025-08-18T19:27:01Z",
+  "length": 749,
+  "lastrevid": 39671,
+  "revision": {
+    "revid": 39671,
+    "parentid": 39598,
+    "timestamp": "2025-08-18T19:27:01Z",
+    "sha1": "ab0eae0546a61b3712f172dc9bb815d5ebe381da",
+    "size": 749
+  },
+  "categories": [
+    "FTH Relics",
+    "Green FTH Relics",
+    "Green Relics",
+    "Relics",
+    "green FTH Relics",
+    "green Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Golden Toad Mallet",
+        "rank": "Green",
+        "affct": "FTH",
+        "source": "Unlocked after ringing the Sky City bell in Parsia.",
+        "description": "Blessed by Earth’s Will, the first transmigrated toad ascended into a Golden Toad, mastering the Truth of Capital— one of the Three Thousand Great Principles! This mallet, its soul-bound artifact, grants dominion over the path of wealth.",
+        "fame": "17",
+        "art": "20",
+        "fth": "28",
+        "civ": "12",
+        "tech": "13",
+        "ss1": "Parsian Exploration, DMG to Enemies +1% <br> Parsian Exploration, Black Tadpoles +1%",
+        "ss2": "Parsian Exploration, DMG to Enemies +2% <br> Parsian Exploration, Black Tadpoles +2%",
+        "ss3": "Parsian Exploration, DMG to Enemies +3% <br> Parsian Exploration, Black Tadpoles +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Toad_Mallet.wiki",
+  "markdown_path": "markdown/Golden_Toad_Mallet.md"
+}

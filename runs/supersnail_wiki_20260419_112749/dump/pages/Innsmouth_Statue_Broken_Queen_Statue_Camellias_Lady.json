@@ -1,0 +1,33 @@
+{
+  "pageid": 4579,
+  "ns": 0,
+  "title": "Innsmouth Statue+Broken Queen Statue+Camellias Lady",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Innsmouth_Statue%2BBroken_Queen_Statue%2BCamellias_Lady",
+  "touched": "2025-06-20T00:00:45Z",
+  "length": 180,
+  "lastrevid": 35761,
+  "revision": {
+    "revid": 35761,
+    "parentid": 18410,
+    "timestamp": "2025-06-20T00:00:45Z",
+    "sha1": "848bdeb2338989349542d9bac68ec0946a6c3d28",
+    "size": 180
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "351",
+        "relics": "Innsmouth Statue,Broken Queen Statue,Camellias Lady",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 10 Minions in battle: Troop DEF +6"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Innsmouth_Statue_Broken_Queen_Statue_Camellias_Lady.wiki",
+  "markdown_path": "markdown/Innsmouth_Statue_Broken_Queen_Statue_Camellias_Lady.md"
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 7979,
+  "ns": 0,
+  "title": "Vishnu Statue+True LK-99+Deucalion's Stone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Vishnu_Statue%2BTrue_LK-99%2BDeucalion%27s_Stone",
+  "touched": "2025-03-23T18:37:32Z",
+  "length": 237,
+  "lastrevid": 33432,
+  "revision": {
+    "revid": 33432,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:29:10Z",
+    "sha1": "e756a05c7d0a8eedb399815ee8dc6c1bf1cff004",
+    "size": 237
+  },
+  "categories": [
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Vishnu Statue,True LK-99,Deucalion's Stone",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 5 LVL Block built, Snail RUSH +8; Block LVL: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Vishnu_Statue_True_LK-99_Deucalion_s_Stone.wiki",
+  "markdown_path": "markdown/Vishnu_Statue_True_LK-99_Deucalion_s_Stone.md"
+}

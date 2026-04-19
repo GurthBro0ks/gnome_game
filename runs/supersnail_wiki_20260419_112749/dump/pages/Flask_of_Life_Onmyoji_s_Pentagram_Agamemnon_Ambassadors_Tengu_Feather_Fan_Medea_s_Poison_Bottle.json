@@ -1,0 +1,35 @@
+{
+  "pageid": 6233,
+  "ns": 0,
+  "title": "Flask of Life+Onmyoji's Pentagram+Agamemnon Ambassadors+Tengu Feather Fan+Medea's Poison Bottle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Flask_of_Life%2BOnmyoji%27s_Pentagram%2BAgamemnon_Ambassadors%2BTengu_Feather_Fan%2BMedea%27s_Poison_Bottle",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 277,
+  "lastrevid": 24949,
+  "revision": {
+    "revid": 24949,
+    "parentid": 0,
+    "timestamp": "2024-04-07T00:13:13Z",
+    "sha1": "4602d1e626569f351566a33ace94852eff6551d7",
+    "size": 277
+  },
+  "categories": [
+    "Home",
+    "Stardust Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Flask of Life,Onmyoji's Pentagram,Agamemnon Ambassadors,Tengu Feather Fan,Medea's Poison Bottle",
+        "rank": "blue",
+        "amount": "5",
+        "category": "home",
+        "description": "Merge 1 Blue Stardust: Gain 1 more by +8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Flask_of_Life_Onmyoji_s_Pentagram_Agamemnon_Ambassadors_Tengu_Feather_Fan_Medea_s_Poison_Bottle.wiki",
+  "markdown_path": "markdown/Flask_of_Life_Onmyoji_s_Pentagram_Agamemnon_Ambassadors_Tengu_Feather_Fan_Medea_s_Poison_Bottle.md"
+}

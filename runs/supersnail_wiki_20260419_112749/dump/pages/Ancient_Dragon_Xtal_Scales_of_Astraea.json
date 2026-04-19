@@ -1,0 +1,33 @@
+{
+  "pageid": 10089,
+  "ns": 0,
+  "title": "Ancient Dragon Xtal+Scales of Astraea",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ancient_Dragon_Xtal%2BScales_of_Astraea",
+  "touched": "2025-08-11T10:38:00Z",
+  "length": 199,
+  "lastrevid": 37676,
+  "revision": {
+    "revid": 37676,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:38:00Z",
+    "sha1": "51ddda4f77d56f3da6372a0203d4c32b28a0a3a8",
+    "size": 199
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "505",
+        "relics": "Ancient Dragon Xtal,Scales of Astraea",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Divine Dragon Descent, Snail DEF +7;Divine Dragon Descents: 80/80"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ancient_Dragon_Xtal_Scales_of_Astraea.wiki",
+  "markdown_path": "markdown/Ancient_Dragon_Xtal_Scales_of_Astraea.md"
+}

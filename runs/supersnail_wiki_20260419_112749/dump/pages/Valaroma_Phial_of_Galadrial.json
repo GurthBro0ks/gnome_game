@@ -1,0 +1,33 @@
+{
+  "pageid": 9985,
+  "ns": 0,
+  "title": "Valaroma+Phial of Galadrial",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Valaroma%2BPhial_of_Galadrial",
+  "touched": "2025-08-11T10:34:00Z",
+  "length": 211,
+  "lastrevid": 37496,
+  "revision": {
+    "revid": 37496,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:34:00Z",
+    "sha1": "bd10080d31f504f2948f9e5d71058440b35c5bf9",
+    "size": 211
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "407",
+        "relics": "Valaroma,Phial of Galadrial",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 1 Red {race_equip_short} upgraded, Snail HP +120;Red {race_equip_short} Upgraded: 20/20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Valaroma_Phial_of_Galadrial.wiki",
+  "markdown_path": "markdown/Valaroma_Phial_of_Galadrial.md"
+}

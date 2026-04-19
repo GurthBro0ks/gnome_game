@@ -1,0 +1,33 @@
+{
+  "pageid": 9258,
+  "ns": 0,
+  "title": "Doppler radar+Jilin-1 Meteorite+Sloane Astrolabe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Doppler_radar%2BJilin-1_Meteorite%2BSloane_Astrolabe",
+  "touched": "2025-06-20T00:15:55Z",
+  "length": 168,
+  "lastrevid": 36083,
+  "revision": {
+    "revid": 36083,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:15:55Z",
+    "sha1": "0614aab37b138968cb14dfa5ad08af8ab79a9958",
+    "size": 168
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "636",
+        "relics": "Doppler radar,Jilin-1 Meteorite,Sloane Astrolabe",
+        "rank": "blue",
+        "amount": "3",
+        "category": "self",
+        "description": "Angel Minion HARD Stats +1.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Doppler_radar_Jilin-1_Meteorite_Sloane_Astrolabe.wiki",
+  "markdown_path": "markdown/Doppler_radar_Jilin-1_Meteorite_Sloane_Astrolabe.md"
+}

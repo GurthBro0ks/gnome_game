@@ -1,0 +1,47 @@
+{
+  "pageid": 5442,
+  "ns": 0,
+  "title": "Pan's Flute",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pan%27s_Flute",
+  "touched": "2025-08-11T11:16:20Z",
+  "length": 796,
+  "lastrevid": 39330,
+  "revision": {
+    "revid": 39330,
+    "parentid": 20781,
+    "timestamp": "2025-08-11T11:16:20Z",
+    "sha1": "859b27a76c288d266f9e29295540d886b10d978d",
+    "size": 796
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Pan's Flute",
+        "class_id": "20142",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "Pan was once obsessed with Syrinx, goddess of Mountains and Forests, but she would rather turn into a reed than accept him. Pan made the reed into a musical instrument bearing the name of his beloved Syrinx. And then Pan abandoned this flute that accompanied him for most of his life.",
+        "fame": "10",
+        "art": "31",
+        "fth": "17",
+        "civ": "14",
+        "tech": "18",
+        "ss1": "Per 6 Wicked Costume Stars, Snail RUSH +1<br>Wicked Stars: 192/192",
+        "ss2": "Per 6 Wicked Costume Stars, Snail RUSH +2<br>Wicked Stars: 192/192",
+        "ss3": "Per 6 Wicked Costume Stars, Snail RUSH +3<br>Wicked Stars: 192/192",
+        "ss4": "Per 6 Wicked Costume Stars, Snail RUSH +3<br>Wicked Stars: 192/192",
+        "ss7": "Per 6 Wicked Costume Stars, Snail RUSH +3<br>Wicked Stars: 192/192<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pan_s_Flute.wiki",
+  "markdown_path": "markdown/Pan_s_Flute.md"
+}

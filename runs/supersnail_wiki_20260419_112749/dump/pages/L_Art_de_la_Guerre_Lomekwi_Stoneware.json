@@ -1,0 +1,33 @@
+{
+  "pageid": 5264,
+  "ns": 0,
+  "title": "L'Art de la Guerre+Lomekwi Stoneware",
+  "fullurl": "https://supersnail.wiki.gg/wiki/L%27Art_de_la_Guerre%2BLomekwi_Stoneware",
+  "touched": "2025-08-11T10:33:47Z",
+  "length": 182,
+  "lastrevid": 37486,
+  "revision": {
+    "revid": 37486,
+    "parentid": 32325,
+    "timestamp": "2025-08-11T10:33:47Z",
+    "sha1": "fbaf2319290d58e734db6d7f3370b784aa3c6451",
+    "size": 182
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "485",
+        "relics": "L'Art de la Guerre,Lomekwi Stoneware",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Zombie Minions in battle: Troop HARD Stats +21"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/L_Art_de_la_Guerre_Lomekwi_Stoneware.wiki",
+  "markdown_path": "markdown/L_Art_de_la_Guerre_Lomekwi_Stoneware.md"
+}

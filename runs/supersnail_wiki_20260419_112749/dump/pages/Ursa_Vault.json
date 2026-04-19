@@ -1,0 +1,47 @@
+{
+  "pageid": 10858,
+  "ns": 0,
+  "title": "Ursa Vault",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ursa_Vault",
+  "touched": "2025-08-11T11:03:47Z",
+  "length": 828,
+  "lastrevid": 38787,
+  "revision": {
+    "revid": 38787,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:03:47Z",
+    "sha1": "b8501c53cfe06047e63d0f54c46c1ffeb20d8348",
+    "size": 828
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ursa Vault",
+        "class_id": "20391",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The Ursa Vault is a treasure trove created by the Master Chef, storing the ingredients collected by him over the years. However, since the Master Chef only collects ingredients but never uses them, he has forgotten the password to retrieve them from the vault. The precious ingredients inside are now only within sight but out of reach.",
+        "fame": "16",
+        "art": "16",
+        "fth": "16",
+        "civ": "12",
+        "tech": "30",
+        "ss1": "Per 200K Sales, Snail HP +10<br>Total Sales: 12000000/12000000",
+        "ss2": "Per 200K Sales, Snail HP +20<br>Total Sales: 12000000/12000000",
+        "ss3": "Per 200K Sales, Snail HP +30<br>Total Sales: 12000000/12000000",
+        "ss4": "Per 200K Sales, Snail HP +30<br>Total Sales: 12000000/12000000",
+        "ss7": "Per 200K Sales, Snail HP +30<br>Total Sales: 12000000/12000000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ursa_Vault.wiki",
+  "markdown_path": "markdown/Ursa_Vault.md"
+}

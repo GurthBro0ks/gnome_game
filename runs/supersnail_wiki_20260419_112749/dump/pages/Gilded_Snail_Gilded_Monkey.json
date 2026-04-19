@@ -1,0 +1,33 @@
+{
+  "pageid": 10876,
+  "ns": 0,
+  "title": "Gilded Snail+Gilded Monkey",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gilded_Snail%2BGilded_Monkey",
+  "touched": "2025-08-11T11:19:39Z",
+  "length": 135,
+  "lastrevid": 38809,
+  "revision": {
+    "revid": 38809,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:04:21Z",
+    "sha1": "44da4a7d3401d8d1264500bd09bb2b263ecd1667",
+    "size": 135
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "880",
+        "relics": "Gilded Snail,Gilded Monkey",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "All ELMT DMG +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gilded_Snail_Gilded_Monkey.wiki",
+  "markdown_path": "markdown/Gilded_Snail_Gilded_Monkey.md"
+}

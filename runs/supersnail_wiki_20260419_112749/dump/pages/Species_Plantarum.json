@@ -1,0 +1,54 @@
+{
+  "pageid": 2849,
+  "ns": 0,
+  "title": "Species Plantarum",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Species_Plantarum",
+  "touched": "2025-10-20T06:42:33Z",
+  "length": 2354,
+  "lastrevid": 37550,
+  "revision": {
+    "revid": 37550,
+    "parentid": 29540,
+    "timestamp": "2025-08-11T10:35:07Z",
+    "sha1": "a064344280e1c907618677c334a9a49401aa1196",
+    "size": 2354
+  },
+  "categories": [
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Species Plantarum",
+        "class_id": "22355",
+        "rank": "SSS",
+        "affct": "TECH",
+        "birthday": "04-15",
+        "description": "On Apr 15, 1753 AD, Linnaeus' book, which had taken him seven years to complete, was published.<br>Linnaeus, a Swedish biologist, wrote Species Plantarum. He gathered a large number of plant samples and used the binomial nomenclature system to classify and name them. This book marks the beginning of modern taxonomy and is vital to future biological research.",
+        "fame": "65",
+        "art": "54",
+        "fth": "78",
+        "civ": "59",
+        "tech": "106",
+        "ss1": "Snail Leadership +3<br>Per 5 Sunny Plant Food fed, Snail HP +30<br>Per 5 Sunny Plant Food Fed, Snail ATK +3<br>Sunny Plant Food Fed: 200/200",
+        "ss2": "Snail Leadership +4<br>Per 5 Sunny Plant Food fed, Snail HP +40<br>Per 5 Sunny Plant Food Fed, Snail ATK +4<br>Sunny Plant Food Fed: 200/200",
+        "ss3": "Snail Leadership +5<br>Per 5 Sunny Plant Food fed, Snail HP +50<br>Per 5 Sunny Plant Food Fed, Snail ATK +5<br>Sunny Plant Food Fed: 200/200",
+        "ss4": "Snail Leadership +7<br>Per 5 Sunny Plant Food fed, Snail HP +70<br>Per 5 Sunny Plant Food Fed, Snail ATK +7<br>Sunny Plant Food Fed: 200/200",
+        "ss5": "Snail Leadership +9<br>Per 5 Sunny Plant Food fed, Snail HP +90<br>Per 5 Sunny Plant Food Fed, Snail ATK +9<br>Sunny Plant Food Fed: 200/200",
+        "ss6": "Snail Leadership +12<br>Per 5 Sunny Plant Food fed, Snail HP +120<br>Per 5 Sunny Plant Food Fed, Snail ATK +12<br>Sunny Plant Food Fed: 200/200",
+        "ss7": "Snail Leadership +12<br>Per 5 Sunny Plant Food fed, Snail HP +120<br>Per 5 Sunny Plant Food Fed, Snail ATK +12<br>Sunny Plant Food Fed: 200/200<br>Snail Leadership +5 (Awakened)",
+        "skill1": "[[File:Yamato skill III.png|50px]]Place in Yamato Museum: B-tad Output +3000",
+        "skill2": "[[File:Yamato skill III.png|50px]]Place in Yamato Museum: This Relic's TECH +15",
+        "skill3": "[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, 2x Orange Reagent Drops +15%",
+        "mirage": "{{Mirage|name=Pioneer of Taxonomy|reward={{RewardIconWithLink|Sunny Plant Food, +3|orange}}\n|3name=Leeuwenhoek|3rec=48.79M|3atk=168685|3defense=112536|3hp=7721694|3weak=21487\n|4name=Lamarck|4rec=62.28M|4atk=197131|4defense=131514|4hp=10186733|4weak=24895\n|5name=Stebbins|5rec=76.83M|5atk=227818|5defense=151986|5hp=13181730|5weak=30272\n|6name=Linnaeus|6rec=93.30M|6atk=262552|6defense=175159|6hp=16833325|6weak=33245\n|Arec=111.04M|Aatk=299961|Adefense=200116|Ahp=21234122|Aweak=36305\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Species_Plantarum.wiki",
+  "markdown_path": "markdown/Species_Plantarum.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 8819,
+  "ns": 0,
+  "title": "Celestial Mechanics+UN Forest Instrument+The Night Revels of Han+Winter Landscape+Worldwide Music Award+The Resurrection",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Celestial_Mechanics%2BUN_Forest_Instrument%2BThe_Night_Revels_of_Han%2BWinter_Landscape%2BWorldwide_Music_Award%2BThe_Resurrection",
+  "touched": "2025-08-11T11:18:40Z",
+  "length": 243,
+  "lastrevid": 34803,
+  "revision": {
+    "revid": 34803,
+    "parentid": 0,
+    "timestamp": "2025-06-16T21:00:01Z",
+    "sha1": "bdefa27204cf73e23de235cef6db66cfb4bdd6b9",
+    "size": 243
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "783",
+        "relics": "Celestial Mechanics,UN Forest Instrument,The Night Revels of Han,Winter Landscape,Worldwide Music Award,The Resurrection",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Mutant Minion HARD Stats +3.6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Celestial_Mechanics_UN_Forest_Instrument_The_Night_Revels_of_Han_Winter_Landscape_Worldwide_Music_Award_The_Resurrection.wiki",
+  "markdown_path": "markdown/Celestial_Mechanics_UN_Forest_Instrument_The_Night_Revels_of_Han_Winter_Landscape_Worldwide_Music_Award_The_Resurrection.md"
+}

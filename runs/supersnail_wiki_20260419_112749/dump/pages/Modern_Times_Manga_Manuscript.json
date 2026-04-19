@@ -1,0 +1,33 @@
+{
+  "pageid": 9846,
+  "ns": 0,
+  "title": "Modern Times+Manga Manuscript",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Modern_Times%2BManga_Manuscript",
+  "touched": "2025-07-02T09:50:09Z",
+  "length": 199,
+  "lastrevid": 37223,
+  "revision": {
+    "revid": 37223,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:50:09Z",
+    "sha1": "b825ea9a7eaba2cb225697cc2fe4b78f76a7ae57",
+    "size": 199
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "481",
+        "relics": "Modern Times,Manga Manuscript",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2 ART Master Scrolls used, Snail RUSH +7;ART Master Scrolls Used: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Modern_Times_Manga_Manuscript.wiki",
+  "markdown_path": "markdown/Modern_Times_Manga_Manuscript.md"
+}

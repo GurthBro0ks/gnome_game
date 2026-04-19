@@ -1,0 +1,50 @@
+{
+  "pageid": 4730,
+  "ns": 0,
+  "title": "St. Benedict Medal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/St._Benedict_Medal",
+  "touched": "2025-06-20T00:03:35Z",
+  "length": 1221,
+  "lastrevid": 35826,
+  "revision": {
+    "revid": 35826,
+    "parentid": 35015,
+    "timestamp": "2025-06-20T00:03:35Z",
+    "sha1": "1a6bd3e92f8b55979cbbebaeadd034100b00ae29",
+    "size": 1221
+  },
+  "categories": [
+    "Blue FAITH Relics",
+    "Blue Relics",
+    "FAITH Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "St. Benedict Medal",
+        "class_id": "22044",
+        "rank": "Blue",
+        "affct": "FAITH",
+        "birthday": "12-31",
+        "source": "Lottery Machine No.2 (0.26%), Wishing (0.14%)",
+        "description": "On Dec 31, 1608 AD, the Catholic Church designated St. Benedict's holy medal as a sacred receptacle and ordered believers to carry it with them.<br>The St. Benedict Medal is a popular saint image ornament among Catholics. This originated from the deeds of Benedict of Nursia. He is one of the important saints and the founder of the three high masses. He is also known as the founder of the monastery system. He greatly contributed to European culture. Disciples believe that with the blessing of St. …",
+        "fame": "23",
+        "art": "37",
+        "fth": "46",
+        "civ": "22",
+        "tech": "26",
+        "ss1": "Per 4 FTH Relics gained, Snail DEF +2<br>FTH Relics: 120/120",
+        "ss2": "Per 4 FTH Relics gained, Snail DEF +4<br>FTH Relics: 120/120",
+        "ss3": "Per 4 FTH Relics gained, Snail DEF +6<br>FTH Relics: 120/120",
+        "ss4": "Per 4 FTH Relics gained, Snail DEF +10<br>FTH Relics: 120/120",
+        "ss7": "Per 4 FTH Relics gained, Snail DEF +10<br>FTH Relics: 120/120<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: This Relic's FTH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/St._Benedict_Medal.wiki",
+  "markdown_path": "markdown/St._Benedict_Medal.md"
+}

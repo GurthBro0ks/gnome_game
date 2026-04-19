@@ -1,0 +1,33 @@
+{
+  "pageid": 3755,
+  "ns": 0,
+  "title": "The Black Book+Higgs Boson",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Black_Book%2BHiggs_Boson",
+  "touched": "2025-08-11T10:34:16Z",
+  "length": 149,
+  "lastrevid": 37510,
+  "revision": {
+    "revid": 37510,
+    "parentid": 13653,
+    "timestamp": "2025-08-11T10:34:16Z",
+    "sha1": "40fa18db0b7c836b8230f504274ddc99e44fd2a2",
+    "size": 149
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "215",
+        "relics": "The Black Book,Higgs Boson",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Dragon Gene Research SPD +4.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Black_Book_Higgs_Boson.wiki",
+  "markdown_path": "markdown/The_Black_Book_Higgs_Boson.md"
+}

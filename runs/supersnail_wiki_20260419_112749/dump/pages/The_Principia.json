@@ -1,0 +1,54 @@
+{
+  "pageid": 8378,
+  "ns": 0,
+  "title": "The Principia",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Principia",
+  "touched": "2025-08-29T18:13:14Z",
+  "length": 2403,
+  "lastrevid": 39744,
+  "revision": {
+    "revid": 39744,
+    "parentid": 37819,
+    "timestamp": "2025-08-29T18:13:14Z",
+    "sha1": "203592cbaa1ed1bccfd1afbd05770f8ab977c4bb",
+    "size": 2403
+  },
+  "categories": [
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Principia",
+        "class_id": "22747",
+        "rank": "SSS",
+        "affct": "TECH",
+        "birthday": "08-12",
+        "description": "On Aug 12, 1687 AD, the Principia was published in England.<br>After discovering universal gravitation about 20 years later, Newton, at the suggestion of Halley, compiled the Principia. In this book, Newton explored the role of forces in various phenomena of motion, proposed the three laws of motion and the law of universal gravitation, and proved them mathematically. This work clarified the mechanic system proposed by Newton and laid the foundation for the development of physics in the future.",
+        "fame": "69",
+        "art": "54",
+        "fth": "74",
+        "civ": "56",
+        "tech": "109",
+        "ss1": "Snail Leadership +3<br>Mecha Minion DEF +3%<br>Per 1.2k Gaia Tech Pts, Snail ATK +3<br>Gaia Tech Pts: 60000/60000",
+        "ss2": "Snail Leadership +4<br>Mecha Minion DEF +4%<br>Per 1.2k Gaia Tech Pts, Snail ATK +4<br>Gaia Tech Pts: 60000/60000",
+        "ss3": "Snail Leadership +5<br>Mecha Minion DEF +5%<br>Per 1.2k Gaia Tech Pts, Snail ATK +5<br>Gaia Tech Pts: 60000/60000",
+        "ss4": "Snail Leadership +7<br>Mecha Minion DEF +7%<br>Per 1.2k Gaia Tech Pts, Snail ATK +7<br>Gaia Tech Pts: 60000/60000",
+        "ss5": "Snail Leadership +9<br>Mecha Minion DEF +9%<br>Per 1.2k Gaia Tech Pts, Snail ATK +9<br>Gaia Tech Pts: 60000/60000",
+        "ss6": "Snail Leadership +12<br>Mecha Minion DEF +12%<br>Per 1.2k Gaia Tech Pts, Snail ATK +12<br>Gaia Tech Pts: 60000/60000",
+        "ss7": "Snail Leadership +12<br>Mecha Minion DEF +12%<br>Per 1.2k Gaia Tech Pts, Snail ATK +12<br>Gaia Tech Pts: 60000/60000<br>Snail Leadership +5 (Awakened)",
+        "skill1": "[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Output +30%",
+        "skill2": "[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: Prairie Sanctum, Glorium Cap +30%",
+        "skill3": "[[File:Prairiesanctum skill III.png|50px]]Place in Prairie Sanctum: This Relic's TECH +15",
+        "mirage": "{{Mirage|name=Transgenerational Theory|reward={{RewardIconWithLink|Research Briefcase, +2|orange}}\n|3name=Newton's Laws of Motion|3rec=154.76M|3atk=421007|3defense=261631|3hp=26535235|3weak=39327\n|4name=Methods of Calculus|4rec=213.69M|4atk=562305|4defense=344538|4hp=45090715|4weak=45252\n|5name=Laws of Gravity|5rec=312.31M|5atk=742026|5defense=443532|5hp=80441320|5weak=52050\n|6name=The System of the World|6rec=411.60M|6atk=908602|6defense=532859|6hp=117767249|6weak=56072\n|Arec=545.66M|Aatk=11447 …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Principia.wiki",
+  "markdown_path": "markdown/The_Principia.md"
+}

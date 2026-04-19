@@ -1,0 +1,33 @@
+{
+  "pageid": 8571,
+  "ns": 0,
+  "title": "Milo of Croton+Reynard the Fox+Royal Purple Heart",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Milo_of_Croton%2BReynard_the_Fox%2BRoyal_Purple_Heart",
+  "touched": "2025-06-20T00:16:09Z",
+  "length": 218,
+  "lastrevid": 36093,
+  "revision": {
+    "revid": 36093,
+    "parentid": 34517,
+    "timestamp": "2025-06-20T00:16:09Z",
+    "sha1": "c57fe16d7f509c79cf8e17461d55723099f163bb",
+    "size": 218
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "698",
+        "relics": "Milo of Croton,Reynard the Fox,Royal Purple Heart",
+        "rank": "purple",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 3 Blue Brand Cases opened, Snail ATK +7;Blue Brand Cases Opened: 150/150"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Milo_of_Croton_Reynard_the_Fox_Royal_Purple_Heart.wiki",
+  "markdown_path": "markdown/Milo_of_Croton_Reynard_the_Fox_Royal_Purple_Heart.md"
+}

@@ -1,0 +1,48 @@
+{
+  "pageid": 895,
+  "ns": 0,
+  "title": "Sword Immortal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sword_Immortal",
+  "touched": "2025-11-02T19:31:13Z",
+  "length": 624,
+  "lastrevid": 41724,
+  "revision": {
+    "revid": 41724,
+    "parentid": 39385,
+    "timestamp": "2025-11-02T19:31:13Z",
+    "sha1": "7b417c91cebf3e8b0ab4d525d91f66c4ada2900b",
+    "size": 624
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Sword Immortal",
+        "class_id": "20020",
+        "rank": "Green",
+        "affct": "ART",
+        "source": "1st time reward from [[Altar#Gods_of_the_Pantheon|God of Strength]]",
+        "description": "The stone statue is said to be the legacy of an immortal swordsman. This cultivator never used any other treasure than the sword and he used the Force to enhance his swordsmanship. The immortal started a new genre in cultivation and later used a lightsaber to cut the sky open and ascend to the upper realm!",
+        "fame": "10",
+        "art": "28",
+        "fth": "17",
+        "civ": "16",
+        "tech": "19",
+        "ss1": "Snail ATK +10",
+        "ss2": "Snail ATK +20",
+        "ss3": "Snail ATK +30",
+        "ss4": "Snail ATK +30",
+        "ss7": "Snail ATK +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sword_Immortal.wiki",
+  "markdown_path": "markdown/Sword_Immortal.md"
+}

@@ -1,0 +1,65 @@
+{
+  "pageid": 1492,
+  "ns": 0,
+  "title": "Boltzmann Brain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Boltzmann_Brain",
+  "touched": "2025-09-22T20:16:07Z",
+  "length": 2432,
+  "lastrevid": 29917,
+  "revision": {
+    "revid": 29917,
+    "parentid": 27465,
+    "timestamp": "2024-10-15T13:19:04Z",
+    "sha1": "4e1b263fd391c585e8948907deb5af52f35a122f",
+    "size": 2432
+  },
+  "categories": [
+    "Chika Boost",
+    "DEF Boost",
+    "Exploration Card Drop Boost",
+    "Gene Simulation Compass Boost",
+    "HP Boost",
+    "Minion RUSH Boost",
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Organ Boost",
+    "RUSH Boost",
+    "Relics",
+    "Snail Arena Compass Boost",
+    "TECH Boost",
+    "TECH Relics",
+    "Tadpole Pond Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Boltzmann Brain",
+        "rank": "S",
+        "affct": "TECH",
+        "birthday": "08-04",
+        "source": "Fragment Crafting (17.8%), Lottery Machine (0.81%), Master Scrolls (6.5%), Relic Forge (90 Relic RF), TECH Master Scrolls  (31.5%), Wishing (0.65%)",
+        "description": "On Aug 4, 1990, Boltzmann Brain was exposed for the first time. If the known universe comes from fluctuations in entropy, then there should be a universe where there's full of consciousnesses in the fluctuation, such as a lonely brain, too. Someone once pondered: imagine there is a ghoul. It creates an illusion for you so you see and feel a complete outside world and yourself as a complete human being that doesn't even exist. So, do feelings equal existence? To answer this question, try to learn …",
+        "fame": "55",
+        "art": "64",
+        "fth": "60",
+        "civ": "53",
+        "tech": "100",
+        "ss1": "Snail HP +100<br>Per Organ transplanted, Snail DEF +2<br>Per Organ transplanted, Snail RUSH +2<br>Organs Transplanted: 40/40",
+        "ss2": "Snail HP +200<br>Per Organ transplanted, Snail DEF +4<br>Per Organ transplanted, Snail RUSH +4<br>Organs Transplanted: 40/40",
+        "ss3": "Snail HP +300<br>Per Organ transplanted, Snail DEF +6<br>Per Organ transplanted, Snail RUSH +6<br>Organs Transplanted: 40/40",
+        "ss4": "Snail HP +500<br>Per Organ transplanted, Snail DEF +10<br>Per Organ transplanted, Snail RUSH +10<br>Organs Transplanted: 40/40",
+        "ss5": "Snail HP +700<br>Per Organ transplanted, Snail DEF +14<br>Per Organ transplanted, Snail RUSH +14<br>Organs Transplanted: 40/40",
+        "ss6": "Snail HP +1,000<br>Per Organ transplanted, Snail DEF +20<br>Per Organ transplanted, Snail RUSH +20<br>Organs Transplanted: 40/40",
+        "ss7": "Snail HP +1,000<br>Per Organ transplanted, Snail DEF +20<br>Per Organ transplanted, Snail RUSH +20<br>Organs Transplanted: 40/40<br>Snail HP +1,000 (Awakened)",
+        "skill1": "[[File:Genesim skill III.png|50px]]Place in Gene Sim Device: This Relic's TECH +15",
+        "skill2": "[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: This Relic's TECH +15",
+        "skill3": "[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: This Relic's TECH +15",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Boltzmann_Brain.wiki",
+  "markdown_path": "markdown/Boltzmann_Brain.md"
+}

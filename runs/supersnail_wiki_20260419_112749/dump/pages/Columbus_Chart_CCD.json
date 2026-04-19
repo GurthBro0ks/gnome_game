@@ -1,0 +1,33 @@
+{
+  "pageid": 6121,
+  "ns": 0,
+  "title": "Columbus Chart+CCD",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Columbus_Chart%2BCCD",
+  "touched": "2025-06-20T00:10:46Z",
+  "length": 179,
+  "lastrevid": 35952,
+  "revision": {
+    "revid": 35952,
+    "parentid": 27662,
+    "timestamp": "2025-06-20T00:10:46Z",
+    "sha1": "81d84a11c5ca66dbc326e14731b635def286db13",
+    "size": 179
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "482",
+        "relics": "Columbus Chart,CCD",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Constellation LVLs, Snail RUSH +7;Constellation LVLs: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Columbus_Chart_CCD.wiki",
+  "markdown_path": "markdown/Columbus_Chart_CCD.md"
+}

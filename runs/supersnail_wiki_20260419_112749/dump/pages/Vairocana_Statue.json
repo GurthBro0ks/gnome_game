@@ -1,0 +1,52 @@
+{
+  "pageid": 10985,
+  "ns": 0,
+  "title": "Vairocana Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Vairocana_Statue",
+  "touched": "2025-08-11T11:07:54Z",
+  "length": 1967,
+  "lastrevid": 38969,
+  "revision": {
+    "revid": 38969,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:07:54Z",
+    "sha1": "1df08b5f496018ae4b1a7cbf9aee91ddcbabfc2d",
+    "size": 1967
+  },
+  "categories": [
+    "FAITH Relics",
+    "Orange FAITH Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Vairocana Statue",
+        "class_id": "22856",
+        "rank": "SSS",
+        "affct": "FAITH",
+        "description": "This exquisite copper statue dates back to the Yuan Dynasty. The bodhisattva wears a five-leaf crown on its head, and its hands form the mudra of wisdom over its chest. The meticulous detailing of the lotus pedestal and its attire showcases a solemn demeanor. The statue represents Vairocana, also known as the Great Wisdom Buddha, symbolizing wisdom and universal illumination. Its existence not only signifies the continuity of Buddhist culture but also holds significant historical value for under …",
+        "fame": "55",
+        "art": "72",
+        "fth": "106",
+        "civ": "53",
+        "tech": "76",
+        "ss1": "Snail RUSH +30<br>All minion skins RUSH +10%<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +48<br>Forest Protomon: 60/60",
+        "ss2": "Snail RUSH +40<br>All minion skins RUSH +20%<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +64<br>Forest Protomon: 60/60",
+        "ss3": "Snail RUSH +50<br>All minion skins RUSH +30%<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +80<br>Forest Protomon: 60/60",
+        "ss4": "Snail RUSH +70<br>All minion skins RUSH +50%<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +112<br>Forest Protomon: 60/60",
+        "ss5": "Snail RUSH +90<br>All minion skins RUSH +70%<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +144<br>Forest Protomon: 60/60",
+        "ss6": "Snail RUSH +120<br>All minion skins RUSH +100%<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +192<br>Forest Protomon: 60/60",
+        "ss7": "Snail RUSH +120<br>All minion skins RUSH +100%<br>Per 3 Forest Protomon, Priest-Snail Assistance DMG +192<br>Forest Protomon: 60/60<br>Protomon Snail assist DMG + 800 (Awakened)",
+        "skill1": "[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: This Relic's FTH +15",
+        "skill2": "[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Cap +30%",
+        "skill3": "[[File:Forestsanctum skill III.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +30%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Vairocana_Statue.wiki",
+  "markdown_path": "markdown/Vairocana_Statue.md"
+}

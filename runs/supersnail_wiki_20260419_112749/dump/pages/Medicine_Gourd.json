@@ -1,0 +1,47 @@
+{
+  "pageid": 7757,
+  "ns": 0,
+  "title": "Medicine Gourd",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Medicine_Gourd",
+  "touched": "2025-08-11T11:00:16Z",
+  "length": 540,
+  "lastrevid": 38633,
+  "revision": {
+    "revid": 38633,
+    "parentid": 32528,
+    "timestamp": "2025-08-11T11:00:16Z",
+    "sha1": "39c2e75297176d2321c6c1f514c8b8689970d490",
+    "size": 540
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Medicine Gourd",
+        "class_id": "20451",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This gourd is grown from an ancient and harsh method and requires a lot of profound energy to nurture. Once it is ripe, however, it will produce healing nectar that can replace conventional medicine, making it essential for anyone!",
+        "fame": "29",
+        "art": "19",
+        "fth": "16",
+        "civ": "13",
+        "tech": "13",
+        "ss1": "Minion Recovery SPD +0.5%",
+        "ss2": "Minion Recovery SPD +1%",
+        "ss3": "Minion Recovery SPD +1.5%",
+        "ss4": "Minion Recovery SPD +1.5%",
+        "ss7": "Minion Recovery SPD +1.5%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Medicine_Gourd.wiki",
+  "markdown_path": "markdown/Medicine_Gourd.md"
+}

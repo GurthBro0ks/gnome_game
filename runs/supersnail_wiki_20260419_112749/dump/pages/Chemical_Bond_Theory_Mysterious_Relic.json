@@ -1,0 +1,35 @@
+{
+  "pageid": 6530,
+  "ns": 0,
+  "title": "Chemical Bond Theory+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Chemical_Bond_Theory%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 205,
+  "lastrevid": 27083,
+  "revision": {
+    "revid": 27083,
+    "parentid": 26771,
+    "timestamp": "2024-05-20T00:47:51Z",
+    "sha1": "0f6e46af714a9ff813bf8df6451b981df9e03f1a",
+    "size": 205
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Chemical Bond Theory,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Chemical_Bond_Theory_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Chemical_Bond_Theory_Mysterious_Relic.md"
+}

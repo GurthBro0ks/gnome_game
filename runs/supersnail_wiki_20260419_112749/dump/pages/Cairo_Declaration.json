@@ -1,0 +1,68 @@
+{
+  "pageid": 1007,
+  "ns": 0,
+  "title": "Cairo Declaration",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cairo_Declaration",
+  "touched": "2024-11-04T01:11:03Z",
+  "length": 2396,
+  "lastrevid": 29947,
+  "revision": {
+    "revid": 29947,
+    "parentid": 25202,
+    "timestamp": "2024-10-15T15:35:13Z",
+    "sha1": "589d988bd529d18705ae82adff727d1fe154fb8a",
+    "size": 2396
+  },
+  "categories": [
+    "ATK Boost",
+    "Ancient Fossil Boost",
+    "Divine Dragon Descents Boost",
+    "Enhanced by Lottery Draws",
+    "Exploration Card Drop Boost",
+    "FAME Boost",
+    "FAME Relics",
+    "HP Boost",
+    "Kemet Exploration Boost",
+    "Kemet Museum Boost",
+    "Lottery Machine Boost",
+    "Missing Info",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Quarry Output Boost",
+    "Relics",
+    "Tadpole Pond Output Boost",
+    "Tadpole Pond Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Cairo Declaration",
+        "rank": "SS",
+        "affct": "FAME",
+        "birthday": "07-01",
+        "source": "Fragment Crafting (4.6%), Grandmaster Scrolls (1.5%), Lottery Machine (0.18%), Wishing (0.17%)",
+        "description": "On Jul 1, 1943, the leaders of allied countries signed this treaty and prepared for the meeting.\n\nLeaders of the Allies gathered in Cairo to discuss the reconstruction of the international order after the victory of World War II. Japan would return all occupied territories after the war and grant Korea's freedom and independence. \"Declaration Contents:\" the Allies' intentions to continue deploying military force until Japan's unconditional surrender; Japan be stripped of all the islands in the P …",
+        "fame": "103",
+        "art": "66",
+        "fth": "55",
+        "civ": "69",
+        "tech": "54",
+        "ss1": "Quarry Output +4%<br>Quarry Max Cap +4%<br>Quarry produces Ancient Fossil by +4%",
+        "ss2": "Quarry Output +6%<br>Quarry Max Cap +6%<br>Quarry produces Ancient Fossil by +6%",
+        "ss3": "Quarry Output +8%<br>Quarry Max Cap +8%<br>Quarry produces Ancient Fossil by +8%",
+        "ss4": "Quarry Output +12%<br>Quarry Max Cap +12%<br>Quarry produces Ancient Fossil by +12%",
+        "ss5": "Quarry Output +16%<br>Quarry Max Cap +16%<br>Quarry produces Ancient Fossil by +16%",
+        "ss6": "Quarry Output +22%<br>Quarry Max Cap +22%<br>Quarry produces Ancient Fossil by +22%",
+        "ss7": "Quarry Output +22%<br>Quarry Max Cap +22%<br>Quarry produces Ancient Fossil by +22%<br>Quarry produces Ancient Fossil by +20% (Awakened)",
+        "skill1": "[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: This Relic's FAME +15",
+        "skill2": "[[File:Kemet skill III.png|50px]]Place in Kemetic Museum: In Kemet, 2x Blue Card Drops +15%",
+        "skill3": "[[File:Tadpolepond skill III.png|50px]]Place in Tadpole Pond: Max Cap +30%",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cairo_Declaration.wiki",
+  "markdown_path": "markdown/Cairo_Declaration.md"
+}

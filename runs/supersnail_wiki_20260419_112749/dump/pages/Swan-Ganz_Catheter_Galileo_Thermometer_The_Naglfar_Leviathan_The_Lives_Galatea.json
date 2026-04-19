@@ -1,0 +1,33 @@
+{
+  "pageid": 9926,
+  "ns": 0,
+  "title": "Swan-Ganz Catheter+Galileo Thermometer+The Naglfar+Leviathan+The Lives+Galatea",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Swan-Ganz_Catheter%2BGalileo_Thermometer%2BThe_Naglfar%2BLeviathan%2BThe_Lives%2BGalatea",
+  "touched": "2025-08-11T11:19:16Z",
+  "length": 191,
+  "lastrevid": 37400,
+  "revision": {
+    "revid": 37400,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:29:22Z",
+    "sha1": "e7fb54d285482d98fcb7f54186fa03a72a4189f6",
+    "size": 191
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "775",
+        "relics": "Swan-Ganz Catheter,Galileo Thermometer,The Naglfar,Leviathan,The Lives,Galatea",
+        "rank": "purple",
+        "amount": "6",
+        "category": "self",
+        "description": "Snail Leadership +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Swan-Ganz_Catheter_Galileo_Thermometer_The_Naglfar_Leviathan_The_Lives_Galatea.wiki",
+  "markdown_path": "markdown/Swan-Ganz_Catheter_Galileo_Thermometer_The_Naglfar_Leviathan_The_Lives_Galatea.md"
+}

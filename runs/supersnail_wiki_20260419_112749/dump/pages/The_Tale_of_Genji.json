@@ -1,0 +1,64 @@
+{
+  "pageid": 1855,
+  "ns": 0,
+  "title": "The Tale of Genji",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Tale_of_Genji",
+  "touched": "2024-11-04T01:10:54Z",
+  "length": 2816,
+  "lastrevid": 30159,
+  "revision": {
+    "revid": 30159,
+    "parentid": 27629,
+    "timestamp": "2024-10-15T15:48:05Z",
+    "sha1": "7aeccd71e349f2006bf2be64cdb4fdb28bb52bf8",
+    "size": 2816
+  },
+  "categories": [
+    "CIV Boost",
+    "CIV Relics",
+    "Enhanced by Lottery Draws",
+    "Exploration B-tad Drop Boost",
+    "HP Boost",
+    "Lottery Machine Boost",
+    "Lumber Camp Upgrade Cost Reduction",
+    "Offering Reward Boost",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Relics",
+    "Rewards Toner",
+    "Yamato Exploration Boost",
+    "Yamato Museum Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Tale of Genji",
+        "rank": "S",
+        "affct": "CIV",
+        "birthday": "11-09",
+        "source": "CIV Master Scroll (37.5%), Fragment Crafting (18.8%), Lottery Machine (0.81%), Master Scroll (6.5%), Relic Forge (90 Relic RF), Wishing (0.69%), Yamato Treasure Map (5%)",
+        "description": "On Nov 9, AD 1008, Murasaku wrote the world's earliest realism novel.\n\n\"The Tale of Genji\" is a million-character Japanese novel. This book tells the story of three generations of people which spans more than 70 years and has more than 400 characters. It mainly focuses on the story of Genji and his son Kaoru on their lives and relationship with other women. It reflects the power struggle and corrupted life among the nobles of the time. In that chaotic society, marriages were often used as a chip …",
+        "fame": "68",
+        "art": "48",
+        "fth": "57",
+        "civ": "100",
+        "tech": "59",
+        "ss1": "Lumber Camp upgrade Wood Cost -1%<br>Lumber Camp upgrade Stone Cost -1%<br>Lumber Camp upgrade B-Tad Cost -1%",
+        "ss2": "Lumber Camp upgrade Wood Cost -2%<br>Lumber Camp upgrade Stone Cost -2%<br>Lumber Camp upgrade B-Tad Cost -2%",
+        "ss3": "Lumber Camp upgrade Wood Cost -3%<br>Lumber Camp upgrade Stone Cost -3%<br>Lumber Camp upgrade B-Tad Cost -3%",
+        "ss4": "Lumber Camp upgrade Wood Cost -5%<br>Lumber Camp upgrade Stone Cost -5%<br>Lumber Camp upgrade B-Tad Cost -5%",
+        "ss5": "Lumber Camp upgrade Wood Cost -7%<br>Lumber Camp upgrade Stone Cost -7%<br>Lumber Camp upgrade B-Tad Cost -7%",
+        "ss6": "Lumber Camp upgrade Wood Cost -10%<br>Lumber Camp upgrade Stone Cost -10%<br>Lumber Camp upgrade B-Tad Cost -10%",
+        "ss7": "Lumber Camp upgrade Wood Cost -10%<br>Lumber Camp upgrade Stone Cost -10%<br>Lumber Camp upgrade B-Tad Cost -10%<br>Lumber Camp upgrade B-Tad Cost -10% (Awakened)",
+        "skill1": "[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, CIV Checks -15",
+        "skill2": "[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, B-Tads gained +15%",
+        "skill3": "[[File:Yamato skill III.png|50px]]Place in Yamato Museum: In Yamato, Snail HP +6,000",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Tale_of_Genji.wiki",
+  "markdown_path": "markdown/The_Tale_of_Genji.md"
+}

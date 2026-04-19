@@ -1,0 +1,47 @@
+{
+  "pageid": 9958,
+  "ns": 0,
+  "title": "Radiance of June",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Radiance_of_June",
+  "touched": "2025-08-11T10:33:07Z",
+  "length": 986,
+  "lastrevid": 37457,
+  "revision": {
+    "revid": 37457,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:33:07Z",
+    "sha1": "43de455a212aded5c174797fa4c650cfac6cc9c8",
+    "size": 986
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Radiance of June",
+        "class_id": "20740",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "The sixth law of natural circulation: In the hot summer, the sunshine is scorching, the drizzle is continuous, and the sky weaves a moist picture. May sunny days bring intermittent sunshine, warm people's hearts, and promote the growth of all things. Let us feel the vitality of life and the grace of nature in the fresh after rain.",
+        "fame": "15",
+        "art": "16",
+        "fth": "33",
+        "civ": "13",
+        "tech": "13",
+        "ss1": "Snail Leadership +2<br>Per 20 Lucky Star gained, Snail HP +10<br>Lucky Star Gained: 3600/3600",
+        "ss2": "Snail Leadership +4<br>Per 20 Lucky Star gained, Snail HP +20<br>Lucky Star Gained: 3600/3600",
+        "ss3": "Snail Leadership +6<br>Per 20 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 3600/3600",
+        "ss4": "Snail Leadership +6<br>Per 20 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 3600/3600",
+        "ss7": "Snail Leadership +6<br>Per 20 Lucky Star gained, Snail HP +30<br>Lucky Star Gained: 3600/3600<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Radiance_of_June.wiki",
+  "markdown_path": "markdown/Radiance_of_June.md"
+}

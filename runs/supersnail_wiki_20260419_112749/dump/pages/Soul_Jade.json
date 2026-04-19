@@ -1,0 +1,47 @@
+{
+  "pageid": 338,
+  "ns": 0,
+  "title": "Soul Jade",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Soul_Jade",
+  "touched": "2025-08-11T10:38:35Z",
+  "length": 786,
+  "lastrevid": 37699,
+  "revision": {
+    "revid": 37699,
+    "parentid": 25536,
+    "timestamp": "2025-08-11T10:38:35Z",
+    "sha1": "cf6a40317491cc3f886558a37a1edcce66a130ff",
+    "size": 786
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Soul Jade",
+        "class_id": "20108",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "Rumor has it that this is an heirloom of the elven clan, and if the possessor is an elf, they will be granted great power. But no one has confirmed the legend after so many years, perhaps it's just a way of advertising their merchandise.",
+        "fame": "16",
+        "art": "31",
+        "fth": "15",
+        "civ": "19",
+        "tech": "9",
+        "ss1": "Per 3 kinds of souls offered, Snail HP +10<br>Souls offered: 300/300 types",
+        "ss2": "Per 3 kinds of souls offered, Snail HP +20<br>Souls offered: 300/300 types",
+        "ss3": "Per 3 kinds of souls offered, Snail HP +30<br>Souls offered: 300/300 types",
+        "ss4": "Per 3 kinds of souls offered, Snail HP +30<br>Souls offered: 300/300 types",
+        "ss7": "Per 3 kinds of souls offered, Snail HP +30<br>Souls offered: 300/300 types<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Soul_Jade.wiki",
+  "markdown_path": "markdown/Soul_Jade.md"
+}

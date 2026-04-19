@@ -1,0 +1,33 @@
+{
+  "pageid": 4583,
+  "ns": 0,
+  "title": "Walking Man Statue+The Walking Man",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Walking_Man_Statue%2BThe_Walking_Man",
+  "touched": "2025-06-20T00:01:06Z",
+  "length": 171,
+  "lastrevid": 35774,
+  "revision": {
+    "revid": 35774,
+    "parentid": 18390,
+    "timestamp": "2025-06-20T00:01:06Z",
+    "sha1": "494899a44775e0ef4a9b995e3de5e231cfa5c95c",
+    "size": 171
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "309",
+        "relics": "Walking Man Statue,The Walking Man",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Mutant Minions in battle: Troop RUSH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Walking_Man_Statue_The_Walking_Man.wiki",
+  "markdown_path": "markdown/Walking_Man_Statue_The_Walking_Man.md"
+}

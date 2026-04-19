@@ -1,0 +1,33 @@
+{
+  "pageid": 9250,
+  "ns": 0,
+  "title": "Siemens DC Generator+Wheatstone Bridge+Faraday Cage+Archimedean Spiral+Prime Meridian",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Siemens_DC_Generator%2BWheatstone_Bridge%2BFaraday_Cage%2BArchimedean_Spiral%2BPrime_Meridian",
+  "touched": "2025-06-20T00:15:35Z",
+  "length": 220,
+  "lastrevid": 36068,
+  "revision": {
+    "revid": 36068,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:15:35Z",
+    "sha1": "ac98cfed50459046f87f9df5fe8dc800e74c7fd9",
+    "size": 220
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "705",
+        "relics": "Siemens DC Generator,Wheatstone Bridge,Faraday Cage,Archimedean Spiral,Prime Meridian",
+        "rank": "purple",
+        "amount": "5",
+        "category": "self",
+        "description": "Merge 1 Purple Stardust: Gain 1 more by 9%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Siemens_DC_Generator_Wheatstone_Bridge_Faraday_Cage_Archimedean_Spiral_Prime_Meridian.wiki",
+  "markdown_path": "markdown/Siemens_DC_Generator_Wheatstone_Bridge_Faraday_Cage_Archimedean_Spiral_Prime_Meridian.md"
+}

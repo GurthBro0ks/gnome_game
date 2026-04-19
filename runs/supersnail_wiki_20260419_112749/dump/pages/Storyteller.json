@@ -1,0 +1,56 @@
+{
+  "pageid": 1800,
+  "ns": 0,
+  "title": "Storyteller",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Storyteller",
+  "touched": "2024-09-06T09:56:50Z",
+  "length": 1356,
+  "lastrevid": 21815,
+  "revision": {
+    "revid": 21815,
+    "parentid": 18233,
+    "timestamp": "2024-01-12T03:34:29Z",
+    "sha1": "c98c763df0999735fe62ea26a0916896301a9fcc",
+    "size": 1356
+  },
+  "categories": [
+    "ART Relics",
+    "Ancient Wood Boost",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Cathay Exploration Boost",
+    "Cathay Museum Boost",
+    "DEF Boost",
+    "Drawn Dragon Boost",
+    "Relics",
+    "Travel Speed Boost",
+    "Zombie Gene Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Storyteller",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "01-16",
+        "source": "Lottery Machine (0.36%), Wishing (15%), Novice Scrolls (5%)",
+        "description": "On Jan 16, 1957, this terracotta Storyteller was unearthed in the tomb on a cliff of Tianhui Mountain in Chengdu.\n\nThe Eastern Han Dynasty's terracotta Storyteller demonstrates ancient folk art. It may seem absurd but its plain look was inspired by the ancient street performers. This frowning terracotta holds a drum and a stick with its mouth open, looking as if it is telling an incredible story.\n\n[Basic Info]\n\nEra: Eastern Han Dynasty\n\nHeight: 56 cm\n\nMaterial: Terracotta clay\n\nCollected by: Nat …",
+        "fame": "29",
+        "art": "45",
+        "fth": "25",
+        "civ": "23",
+        "tech": "32",
+        "ss1": "Free Gene Speedup (Zombie) +6m",
+        "ss2": "Free Gene Speedup (Zombie) +12m",
+        "ss3": "Free Gene Speedup (Zombie) +18m",
+        "ss4": "Free Gene Speedup (Zombie) +30m",
+        "ss7": "Free Gene Speedup (Zombie) +30m<br>Free Gene Speedup (Zombie) +30m (Awakened)",
+        "skill1": "[[File:Cathay skill I.png|50px]] Place in Cathay Museum: In Cathay, Snail DEF +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Storyteller.wiki",
+  "markdown_path": "markdown/Storyteller.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 9827,
+  "ns": 0,
+  "title": "Comprehensive Nuclear-Test-Ban Treaty+Chacmool Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Comprehensive_Nuclear-Test-Ban_Treaty%2BChacmool_Statue",
+  "touched": "2025-07-02T09:49:31Z",
+  "length": 196,
+  "lastrevid": 37183,
+  "revision": {
+    "revid": 37183,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:48:56Z",
+    "sha1": "3930d3df64fb066ee159a0143f2e8613f23aa74d",
+    "size": 196
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "895",
+        "relics": "Comprehensive Nuclear-Test-Ban Treaty,Chacmool Statue",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 T7+ Minions in battle: Troop HARD Stats +28"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Comprehensive_Nuclear-Test-Ban_Treaty_Chacmool_Statue.wiki",
+  "markdown_path": "markdown/Comprehensive_Nuclear-Test-Ban_Treaty_Chacmool_Statue.md"
+}

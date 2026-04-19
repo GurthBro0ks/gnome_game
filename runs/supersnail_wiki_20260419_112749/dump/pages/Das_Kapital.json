@@ -1,0 +1,63 @@
+{
+  "pageid": 1349,
+  "ns": 0,
+  "title": "Das Kapital",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Das_Kapital",
+  "touched": "2024-11-04T01:11:03Z",
+  "length": 2525,
+  "lastrevid": 29963,
+  "revision": {
+    "revid": 29963,
+    "parentid": 21912,
+    "timestamp": "2024-10-15T15:35:57Z",
+    "sha1": "9cba2008b8e54464bb4bb689ea8181edbe7e452c",
+    "size": 2525
+  },
+  "categories": [
+    "Ancient Wood Boost",
+    "CIV Boost",
+    "CIV Relics",
+    "Divine Dragon Descents Boost",
+    "Exploration B-tad Drop Boost",
+    "Fungus Farm Output Boost",
+    "Fungus Farm Skill",
+    "HP Boost",
+    "Lumber Camp Output Boost",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Quarry Skill",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Das Kapital",
+        "rank": "SS",
+        "affct": "CIV",
+        "birthday": "07-06",
+        "source": "Lottery Machine (0.12%), Wishing (0.1%), Britland Treasure Maps (5%), Grandmaster Scrolls (1%), Relic Forge (100 Relic RF), beat [[Mailbox#Mr. Racoon|Mr. Raccoon]] in combat",
+        "description": "On Jul 6, 1867 AD, Marx completed this famous work on sociology. \n\nIt took Marx over 40 years to write the three volumes and two million words of Das Kapital. He quoted that capital eschews no profit, or very small profit, just as Nature was formerly said to abhor a vacuum. With adequate profit, capitalists become bold. A certain 10 percent will ensure its employment anywhere; 20 percent certain will produce eagerness; 50 percent, positive audacity; 100 percent will make it ready to trample on a …",
+        "fame": "63",
+        "art": "61",
+        "fth": "51",
+        "civ": "105",
+        "tech": "67",
+        "ss1": "Lumber Camp Output +4%<br>Lumber Camp Max Cap +4%<br>When exploring, B-tads gained +0.8%",
+        "ss2": "Lumber Camp Output +6%<br>Lumber Camp Max Cap +6%<br>When exploring, B-tads gained +1.2%",
+        "ss3": "Lumber Camp Output +8%<br>Lumber Camp Max Cap +8%<br>When exploring, B-tads gained +1.6%",
+        "ss4": "Lumber Camp Output +12%<br>Lumber Camp Max Cap +12%<br>When exploring, B-tads gained +2.4%",
+        "ss5": "Lumber Camp Output +16%<br>Lumber Camp Max Cap +16%<br>When exploring, B-tads gained +3.2%",
+        "ss6": "Lumber Camp Output +22%<br>Lumber Camp Max Cap +22%<br>When exploring, B-tads gained +4.4%",
+        "ss7": "Lumber Camp Output +22%<br>Lumber Camp Max Cap +22%<br>When exploring, B-tads gained +4.4%<br>When exploring, B-tads gained +4% (Awakened)",
+        "skill1": "[[File:Fungusfarm skill III.png|50px]]Place in the Fungus Farm: Fungus Output +30%",
+        "skill2": "[[File:Fungusfarm skill III.png|50px]]Place in the Fungus Farm: Max Cap +30%",
+        "skill3": "[[File:Quarry skill III.png|50px]]Place in Quarry: This Relic's CIV +15",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Das_Kapital.wiki",
+  "markdown_path": "markdown/Das_Kapital.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 7774,
+  "ns": 0,
+  "title": "Microcosm Chronicles",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Microcosm_Chronicles",
+  "touched": "2025-08-11T10:48:26Z",
+  "length": 850,
+  "lastrevid": 38118,
+  "revision": {
+    "revid": 38118,
+    "parentid": 32550,
+    "timestamp": "2025-08-11T10:48:26Z",
+    "sha1": "ff1ff41132d831531564898b22f8a1a5a2d2d639",
+    "size": 850
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Microcosm Chronicles",
+        "class_id": "20825",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "These extensive notes were left behind by a microscopic civilization that originated within the refrigerator. They cover various fields, including life form modification, cloning technology, and molecular biology. Among them is a segment on killer clone analysis, accompanied by the note: \"Weakness analysis completed, no longer formidable...\"",
+        "fame": "17",
+        "art": "11",
+        "fth": "12",
+        "civ": "15",
+        "tech": "33",
+        "ss1": "Snail ATK +20<br>Greatly boost Snail Power in Hitman Challenges",
+        "ss2": "Snail ATK +40<br>Greatly boost Snail Power in Hitman Challenges",
+        "ss3": "Snail ATK +60<br>Greatly boost Snail Power in Hitman Challenges",
+        "ss4": "Snail ATK +60<br>Greatly boost Snail Power in Hitman Challenges",
+        "ss7": "Snail ATK +60<br>Greatly boost Snail Power in Hitman Challenges<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Microcosm_Chronicles.wiki",
+  "markdown_path": "markdown/Microcosm_Chronicles.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 10431,
+  "ns": 0,
+  "title": "Tail-burned Guqin+Avogadro's Law",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tail-burned_Guqin%2BAvogadro%27s_Law",
+  "touched": "2025-08-11T10:50:19Z",
+  "length": 199,
+  "lastrevid": 38205,
+  "revision": {
+    "revid": 38205,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:50:19Z",
+    "sha1": "1ccf8f96ed913baeffa94a17eaf15b8fe163369a",
+    "size": 199
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "573",
+        "relics": "Tail-burned Guqin,Avogadro's Law",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2 Epic+ Devotee assigned, Snail RUSH +14;Epic+ Devotee Assigned: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tail-burned_Guqin_Avogadro_s_Law.wiki",
+  "markdown_path": "markdown/Tail-burned_Guqin_Avogadro_s_Law.md"
+}

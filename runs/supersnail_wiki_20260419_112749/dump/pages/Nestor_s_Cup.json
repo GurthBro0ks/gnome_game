@@ -1,0 +1,50 @@
+{
+  "pageid": 4679,
+  "ns": 0,
+  "title": "Nestor's Cup",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nestor%27s_Cup",
+  "touched": "2025-06-16T23:08:20Z",
+  "length": 1019,
+  "lastrevid": 34866,
+  "revision": {
+    "revid": 34866,
+    "parentid": 23812,
+    "timestamp": "2025-06-16T23:08:20Z",
+    "sha1": "3a6ddc81f42753e153671355ba82f73908c62378",
+    "size": 1019
+  },
+  "categories": [
+    "ART Relics",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Nestor's Cup",
+        "class_id": "22028",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "09-18",
+        "source": "Lottery Machine No.2 (0.07%), Wishing (0.03%)",
+        "description": "On Sept 18, 1955 AD, this cup was found in a ancient Greek mausoleum.<br>Nestor's Cup is a goblet made of gold. There are two pigeons on the handles. On the cup is the text about Iliad & Odyssey that reads, \"I am Nestor's cup, good to drink from. Whoever drinks this cup empty, straightaway desire for beautiful-crowned Aphrodite will seize him.\"",
+        "fame": "22",
+        "art": "44",
+        "fth": "31",
+        "civ": "31",
+        "tech": "26",
+        "ss1": "Per 10 Mutant Minions in battle:<br>> Troop HARD Stats +1",
+        "ss2": "Per 10 Mutant Minions in battle:<br>> Troop HARD Stats +2",
+        "ss3": "Per 10 Mutant Minions in battle:<br>> Troop HARD Stats +3",
+        "ss4": "Per 10 Mutant Minions in battle:<br>> Troop HARD Stats +5",
+        "ss7": "Per 10 Mutant Minions in battle:<br>> Troop HARD Stats +5<br>Per 10 Mutant Minions in battle:<br>> Troop HARD Stats +5 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail ART +200"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nestor_s_Cup.wiki",
+  "markdown_path": "markdown/Nestor_s_Cup.md"
+}

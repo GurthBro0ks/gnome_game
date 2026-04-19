@@ -1,0 +1,47 @@
+{
+  "pageid": 11130,
+  "ns": 0,
+  "title": "Cathay Landscape",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cathay_Landscape",
+  "touched": "2025-08-11T11:13:33Z",
+  "length": 806,
+  "lastrevid": 39210,
+  "revision": {
+    "revid": 39210,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:13:33Z",
+    "sha1": "4872cd290da2bfbdde642c46dd690034bfbff2fb",
+    "size": 806
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Cathay Landscape",
+        "class_id": "20176",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This is a painting by the Cathay traveler Xu Xiake. He is not famous as a painter, but he enjoys traveling and is passionate about geography, and this painting was created during his journey. It is a treasure with a high geographical value.",
+        "fame": "14",
+        "art": "32",
+        "fth": "13",
+        "civ": "15",
+        "tech": "16",
+        "ss1": "Snail HP +200<br>Per new Realm entered, Snail ATK +8<br>Realms Reached: 8/8",
+        "ss2": "Snail HP +400<br>Per new Realm entered, Snail ATK +16<br>Realms Reached: 8/8",
+        "ss3": "Snail HP +600<br>Per new Realm entered, Snail ATK +24<br>Realms Reached: 8/8",
+        "ss4": "Snail HP +600<br>Per new Realm entered, Snail ATK +24<br>Realms Reached: 8/8",
+        "ss7": "Snail HP +600<br>Per new Realm entered, Snail ATK +24<br>Realms Reached: 8/8<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cathay_Landscape.wiki",
+  "markdown_path": "markdown/Cathay_Landscape.md"
+}

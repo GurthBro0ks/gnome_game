@@ -1,0 +1,47 @@
+{
+  "pageid": 7053,
+  "ns": 0,
+  "title": "Time Rift Postcard I",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Time_Rift_Postcard_I",
+  "touched": "2025-08-11T11:16:59Z",
+  "length": 531,
+  "lastrevid": 39359,
+  "revision": {
+    "revid": 39359,
+    "parentid": 32187,
+    "timestamp": "2025-08-11T11:16:59Z",
+    "sha1": "06d2fb377cbc0998b2a5019711feeb363cb0df54",
+    "size": 531
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Time Rift Postcard I",
+        "class_id": "20110",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "While scouting for info about Time Rift, the snail also recorded a lot of local customs, which were brought together in this postcard. You can read it to kill time and post it online to get many likes!",
+        "fame": "14",
+        "art": "33",
+        "fth": "13",
+        "civ": "12",
+        "tech": "18",
+        "ss1": "Rift Museum medal output +5",
+        "ss2": "Rift Museum medal output +10",
+        "ss3": "Rift Museum medal output +15",
+        "ss4": "Rift Museum medal output +15",
+        "ss7": "Rift Museum medal output +15<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Time_Rift_Postcard_I.wiki",
+  "markdown_path": "markdown/Time_Rift_Postcard_I.md"
+}

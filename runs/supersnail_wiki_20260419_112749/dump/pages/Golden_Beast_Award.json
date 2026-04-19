@@ -1,0 +1,47 @@
+{
+  "pageid": 326,
+  "ns": 0,
+  "title": "Golden Beast Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Beast_Award",
+  "touched": "2025-08-11T10:33:57Z",
+  "length": 784,
+  "lastrevid": 37494,
+  "revision": {
+    "revid": 37494,
+    "parentid": 25151,
+    "timestamp": "2025-08-11T10:33:57Z",
+    "sha1": "97a364e9cc466d2f9e99f16465d28182e070f7ff",
+    "size": 784
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Golden Beast Award",
+        "class_id": "20415",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Golden Beast Award is the Venice Film Festival's most prestigious award given to the best feature film. Usually, only one film could win this honor, though, in some years, it was awarded to two. Since its inception, most of the winners have been male European directors.",
+        "fame": "16",
+        "art": "14",
+        "fth": "17",
+        "civ": "31",
+        "tech": "12",
+        "ss1": "Per Hitman intercepted, Snail ATK +1<br>Hitmen Intercepted: 50/50",
+        "ss2": "Per Hitman intercepted, Snail ATK +2<br>Hitmen Intercepted: 50/50",
+        "ss3": "Per Hitman intercepted, Snail ATK +3<br>Hitmen Intercepted: 50/50",
+        "ss4": "Per Hitman intercepted, Snail ATK +3<br>Hitmen Intercepted: 50/50",
+        "ss7": "Per Hitman intercepted, Snail ATK +3<br>Hitmen Intercepted: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Beast_Award.wiki",
+  "markdown_path": "markdown/Golden_Beast_Award.md"
+}

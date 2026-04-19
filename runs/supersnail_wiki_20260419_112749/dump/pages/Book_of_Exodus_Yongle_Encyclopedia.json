@@ -1,0 +1,33 @@
+{
+  "pageid": 6175,
+  "ns": 0,
+  "title": "Book of Exodus+Yongle Encyclopedia",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Book_of_Exodus%2BYongle_Encyclopedia",
+  "touched": "2025-08-11T10:40:20Z",
+  "length": 165,
+  "lastrevid": 37769,
+  "revision": {
+    "revid": 37769,
+    "parentid": 33789,
+    "timestamp": "2025-08-11T10:40:20Z",
+    "sha1": "278cc2e1daa094ec6f4f94fad98fc0466c29386f",
+    "size": 165
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "795",
+        "relics": "Book of Exodus,Yongle Encyclopedia",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Refine +1 White Printing Supply by +7%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Book_of_Exodus_Yongle_Encyclopedia.wiki",
+  "markdown_path": "markdown/Book_of_Exodus_Yongle_Encyclopedia.md"
+}

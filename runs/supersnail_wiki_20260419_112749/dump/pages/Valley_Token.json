@@ -1,0 +1,47 @@
+{
+  "pageid": 10010,
+  "ns": 0,
+  "title": "Valley Token",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Valley_Token",
+  "touched": "2025-08-11T10:34:54Z",
+  "length": 674,
+  "lastrevid": 37540,
+  "revision": {
+    "revid": 37540,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:34:54Z",
+    "sha1": "78e56f0d5e6bc96f56d0c2913063829be3bc185c",
+    "size": 674
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Valley Token",
+        "class_id": "20943",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "This token bears ancient runes. Although the meaning behind these runes is not fully understood, the powerful energy emanating from them resonates with the fluctuations of the Maze, hinting at its significance.",
+        "fame": "33",
+        "art": "17",
+        "fth": "12",
+        "civ": "14",
+        "tech": "14",
+        "ss1": "Snail RUSH +20<br>In Kaleido Valley, unlock Protomon Ban",
+        "ss2": "Snail RUSH +40<br>In Kaleido Valley, unlock Protomon Ban",
+        "ss3": "Snail RUSH +60<br>In Kaleido Valley, unlock Protomon Ban",
+        "ss4": "Snail RUSH +60<br>In Kaleido Valley, unlock Protomon Ban",
+        "ss7": "Snail RUSH +60<br>In Kaleido Valley, unlock Protomon Ban<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Valley_Token.wiki",
+  "markdown_path": "markdown/Valley_Token.md"
+}

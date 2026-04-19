@@ -1,0 +1,33 @@
+{
+  "pageid": 11199,
+  "ns": 0,
+  "title": "Mysterious Relic+Outer Space Treaty",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mysterious_Relic%2BOuter_Space_Treaty",
+  "touched": "2025-08-11T11:16:00Z",
+  "length": 189,
+  "lastrevid": 39316,
+  "revision": {
+    "revid": 39316,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:16:00Z",
+    "sha1": "3c36cf19c75ec6c8c512b8a24902aae8db9deed6",
+    "size": 189
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "486",
+        "relics": "Mysterious Relic,Outer Space Treaty",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Gem Resonance LVL, Snail RUSH +4;Gem Resonance LVL: 80/80"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mysterious_Relic_Outer_Space_Treaty.wiki",
+  "markdown_path": "markdown/Mysterious_Relic_Outer_Space_Treaty.md"
+}

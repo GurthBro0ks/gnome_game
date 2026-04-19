@@ -1,0 +1,33 @@
+{
+  "pageid": 9796,
+  "ns": 0,
+  "title": "Don Quixote+Brave New World",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Don_Quixote%2BBrave_New_World",
+  "touched": "2025-07-02T09:43:17Z",
+  "length": 192,
+  "lastrevid": 37080,
+  "revision": {
+    "revid": 37080,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:43:17Z",
+    "sha1": "5ea9951a2c6fd35082751f6c65dc6d40aa022ff5",
+    "size": 192
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "512",
+        "relics": "Don Quixote,Brave New World",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Species Map entry completed, Snail ATK +7;Species Map Entries: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Don_Quixote_Brave_New_World.wiki",
+  "markdown_path": "markdown/Don_Quixote_Brave_New_World.md"
+}

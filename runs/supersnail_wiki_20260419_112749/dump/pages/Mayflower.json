@@ -1,0 +1,63 @@
+{
+  "pageid": 981,
+  "ns": 0,
+  "title": "Mayflower",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mayflower",
+  "touched": "2024-11-04T01:11:03Z",
+  "length": 2064,
+  "lastrevid": 30048,
+  "revision": {
+    "revid": 30048,
+    "parentid": 26841,
+    "timestamp": "2024-10-15T15:42:04Z",
+    "sha1": "2335c03210d9b781c00ddf09cdfdbd38199c9b20",
+    "size": 2064
+  },
+  "categories": [
+    "ATK Boost",
+    "DMG Boosts",
+    "Exploration B-tad Drop Boost",
+    "Exploration Card Drop Boost",
+    "FAME Relics",
+    "HP Boost",
+    "Incense Boost",
+    "Murika Exploration Boost",
+    "Murika Museum Boost",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mayflower",
+        "rank": "SS",
+        "affct": "FAME",
+        "birthday": "07-28",
+        "source": "FAME Master Scrolls (9.2%), Fragment Crafting (6.1%), Grandmaster Scrolls (2.1%), Lottery Machine (0.24%), Master Scrolls (1.9%), Murikan Treasure Maps (5%), Wishing (0.22%)",
+        "description": "On Nov 21, 1620, the ship that would change the history of the American continent arrived in Massachusetts.\n\nThe Mayflower was a historical ship that carried a group of persecuted Puritans relocating to America. They entered an immigration contract with the Virginia Company and traveled under the leadership of Pastor Brewster. Before the ship arrived, its passengers all signed the \"Mayflower Compact.\" This agreement changed the history fo the American continent forever.\n\n[Basic Info]\n\nPassenger: …",
+        "fame": "104",
+        "art": "68",
+        "fth": "50",
+        "civ": "61",
+        "tech": "64",
+        "ss1": "Snail ATK +20<br>Snail RUSH +20<br>In explorations, B-tads gained +0.8%",
+        "ss2": "Snail ATK +30<br>Snail RUSH +30<br>In explorations, B-tads gained +1.2%",
+        "ss3": "Snail ATK +40<br>Snail RUSH +40<br>In explorations, B-tads gained +1.6%",
+        "ss4": "Snail ATK +60<br>Snail RUSH +60<br>In explorations, B-tads gained +2.4%",
+        "ss5": "Snail ATK +80<br>Snail RUSH +80<br>In explorations, B-tads gained +3.2%",
+        "ss6": "Snail ATK +110<br>Snail RUSH +110<br>In explorations, B-tads gained +4.4%",
+        "ss7": "Snail ATK +110<br>Snail RUSH +110<br>In explorations, B-tads gained +4.4%<br>Snail RUSH +100",
+        "skill1": "[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, Snail HP +6,000",
+        "skill2": "[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, DMG +30%",
+        "skill3": "[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x White Card Drops +15%",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mayflower.wiki",
+  "markdown_path": "markdown/Mayflower.md"
+}

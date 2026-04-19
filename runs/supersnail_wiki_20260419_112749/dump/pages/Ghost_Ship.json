@@ -1,0 +1,24 @@
+{
+  "pageid": 2828,
+  "ns": 0,
+  "title": "Ghost Ship",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ghost_Ship",
+  "touched": "2025-10-28T22:37:11Z",
+  "length": 6322,
+  "lastrevid": 41685,
+  "revision": {
+    "revid": 41685,
+    "parentid": 29741,
+    "timestamp": "2025-10-28T22:37:11Z",
+    "sha1": "1e377e0ccc3fbf6db46d35dd7acf8b483a617752",
+    "size": 6322
+  },
+  "categories": [
+    "Britland",
+    "Realm Trait"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Ghost_Ship.wiki",
+  "markdown_path": "markdown/Ghost_Ship.md"
+}

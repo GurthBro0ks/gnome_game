@@ -1,0 +1,47 @@
+{
+  "pageid": 10006,
+  "ns": 0,
+  "title": "Collection@20846 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20846_1",
+  "touched": "2025-08-11T10:34:49Z",
+  "length": 638,
+  "lastrevid": 37536,
+  "revision": {
+    "revid": 37536,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:34:49Z",
+    "sha1": "3da2f2ec691acbd16a66faa0ea74f9b47d71b46c",
+    "size": 638
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20846_1",
+        "class_id": "20846",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "collection@20846_2",
+        "fame": "16",
+        "art": "14",
+        "fth": "14",
+        "civ": "17",
+        "tech": "29",
+        "ss1": "Snail ATK +10<br>Per Galaxy Core upgraded, Snail HP +30<br>Galaxy Core Upgraded: 20/20",
+        "ss2": "Snail ATK +20<br>Per Galaxy Core upgraded, Snail HP +45<br>Galaxy Core Upgraded: 20/20",
+        "ss3": "Snail ATK +30<br>Per Galaxy Core upgraded, Snail HP +60<br>Galaxy Core Upgraded: 20/20",
+        "ss4": "Snail ATK +30<br>Per Galaxy Core upgraded, Snail HP +60<br>Galaxy Core Upgraded: 20/20",
+        "ss7": "Snail ATK +30<br>Per Galaxy Core upgraded, Snail HP +60<br>Galaxy Core Upgraded: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20846_1.wiki",
+  "markdown_path": "markdown/Collection_20846_1.md"
+}

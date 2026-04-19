@@ -1,0 +1,61 @@
+{
+  "pageid": 6113,
+  "ns": 0,
+  "title": "Santa Maria",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Santa_Maria",
+  "touched": "2024-12-30T03:55:18Z",
+  "length": 2158,
+  "lastrevid": 32618,
+  "revision": {
+    "revid": 32618,
+    "parentid": 24864,
+    "timestamp": "2024-12-30T03:55:18Z",
+    "sha1": "399dd0683296b4b39143a53f746d21e596439979",
+    "size": 2158
+  },
+  "categories": [
+    "ATK Boost",
+    "Badge Shop Relics",
+    "FAME Relics",
+    "Leadership Boost",
+    "Minion DEF Boost",
+    "Missing Info",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Protomon Boost",
+    "Relics",
+    "Rift Exploration Boost",
+    "Rift Museum Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Santa Maria",
+        "available": "1",
+        "rank": "SSS",
+        "affct": "FAME",
+        "source": "[[Events#Badge Shop|Badge Shop Relic #11]] (600 Badges)",
+        "fame": "108",
+        "art": "54",
+        "fth": "57",
+        "civ": "62",
+        "tech": "81",
+        "ss1": "All Minion DEF +?%<br>Protomons assist Troop in battle, and deal extra DMG +?<br>Per 10 TECH Pistils used, Snail ATK +?<br>TECH Pistils Used: 400/400",
+        "ss2": "All Minion DEF +?%<br>Protomons assist Troop in battle, and deal extra DMG +?<br>Per 10 TECH Pistils used, Snail ATK +?<br>TECH Pistils Used: 400/400",
+        "ss3": "All Minion DEF +?%<br>Protomons assist Troop in battle, and deal extra DMG +?<br>Per 10 TECH Pistils used, Snail ATK +?<br>TECH Pistils Used: 400/400",
+        "ss4": "All Minion DEF +?%<br>Protomons assist Troop in battle, and deal extra DMG +?<br>Per 10 TECH Pistils used, Snail ATK +?<br>TECH Pistils Used: 400/400",
+        "ss5": "All Minion DEF +?%<br>Protomons assist Troop in battle, and deal extra DMG +?<br>Per 10 TECH Pistils used, Snail ATK +?<br>TECH Pistils Used: 400/400",
+        "ss6": "All Minion DEF +2.4%<br>Protomons assist Troop in battle, and deal extra DMG +960<br>Per 10 TECH Pistils used, Snail ATK +16<br>TECH Pistils Used: 400/400",
+        "ss7": "All Minion DEF +2.4%<br>Protomons assist Troop in battle, and deal extra DMG +960<br>Per 10 TECH Pistils used, Snail ATK +16<br>TECH Pistils Used: 400/400<br>Protomons assist Troop in battle, and deal extra DMG +800 (Awakened)",
+        "skill1": "[[File:Rift skill III.png|50px]] Place in Rift Museum: In the Rift, Wind DMG +300",
+        "skill2": "[[File:Rift skill III.png|50px]] Place in Rift Museum: In the Rift, 2x Incense Drops +3%",
+        "skill3": "[[File:Rift skill III.png|50px]] Place in Rift Museum: In the Rift, 2x Orange Card Drops +6%",
+        "mirage": "{{Mirage\n|name=\n|reward=\n|3name=\n|3rec=\n|3atk=\n|3def=\n|3hp=\n|3weak=\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Santa_Maria.wiki",
+  "markdown_path": "markdown/Santa_Maria.md"
+}

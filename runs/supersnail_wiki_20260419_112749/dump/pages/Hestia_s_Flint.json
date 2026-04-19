@@ -1,0 +1,47 @@
+{
+  "pageid": 11282,
+  "ns": 0,
+  "title": "Hestia's Flint",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hestia%27s_Flint",
+  "touched": "2025-08-11T11:19:04Z",
+  "length": 818,
+  "lastrevid": 39449,
+  "revision": {
+    "revid": 39449,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:19:04Z",
+    "sha1": "5e90b6e2a9d337907db1773240cdf7523f354fc6",
+    "size": 818
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Hestia's Flint",
+        "class_id": "20940",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "Hestia, Zeus's sister, is the most sacred and ancient deity of Mount Olympus. She oversees all household hearths in the mortal realm. With her fire starter in hand, she guards the human hearths, ensuring the continuity, stability, harmony, and prosperity of families.",
+        "fame": "32",
+        "art": "15",
+        "fth": "18",
+        "civ": "13",
+        "tech": "12",
+        "ss1": "Per 5 Cooking Utensil LVLs, Snail HP +100<br>Cooking Utensil LVL: 150/150",
+        "ss2": "Per 5 Cooking Utensil LVLs, Snail HP +200<br>Cooking Utensil LVL: 150/150",
+        "ss3": "Per 5 Cooking Utensil LVLs, Snail HP +300<br>Cooking Utensil LVL: 150/150",
+        "ss4": "Per 5 Cooking Utensil LVLs, Snail HP +300<br>Cooking Utensil LVL: 150/150",
+        "ss7": "Per 5 Cooking Utensil LVLs, Snail HP +300<br>Cooking Utensil LVL: 150/150<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hestia_s_Flint.wiki",
+  "markdown_path": "markdown/Hestia_s_Flint.md"
+}

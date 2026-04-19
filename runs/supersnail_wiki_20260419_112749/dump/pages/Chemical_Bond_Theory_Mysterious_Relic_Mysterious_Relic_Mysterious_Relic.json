@@ -1,0 +1,35 @@
+{
+  "pageid": 6531,
+  "ns": 0,
+  "title": "Chemical Bond Theory+Mysterious Relic+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Chemical_Bond_Theory%2BMysterious_Relic%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 264,
+  "lastrevid": 26772,
+  "revision": {
+    "revid": 26772,
+    "parentid": 0,
+    "timestamp": "2024-05-13T13:46:59Z",
+    "sha1": "e6a58a0391d54340ac27fc67db4509986c93c8d5",
+    "size": 264
+  },
+  "categories": [
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Chemical Bond Theory,Mysterious Relic,Mysterious Relic,Mysterious Relic",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Per 100 catalysis, Snail RUSH +9; Catalysis: 5000/5000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Chemical_Bond_Theory_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Chemical_Bond_Theory_Mysterious_Relic_Mysterious_Relic_Mysterious_Relic.md"
+}

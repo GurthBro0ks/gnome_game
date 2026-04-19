@@ -1,0 +1,47 @@
+{
+  "pageid": 1197,
+  "ns": 0,
+  "title": "Travel Permit",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Travel_Permit",
+  "touched": "2025-08-11T11:15:25Z",
+  "length": 768,
+  "lastrevid": 39290,
+  "revision": {
+    "revid": 39290,
+    "parentid": 11598,
+    "timestamp": "2025-08-11T11:15:25Z",
+    "sha1": "413e2d39f7973b52ff24193c7c304ce9bb6b771c",
+    "size": 768
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Travel Permit",
+        "class_id": "20221",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "Emperor Li, an emperor of Tang Dynasty, hereby sends Sanzang to the West to seek scriptures from Buddha. Shall he pass through your country, treat him with kindness, or there will be punishment. Set out on a good day!",
+        "fame": "18",
+        "art": "11",
+        "fth": "31",
+        "civ": "18",
+        "tech": "12",
+        "ss1": "First entry to Bharata gives 10000 W-tads<br>In Bharata, INTEL gained +1%",
+        "ss2": "First entry to Bharata gives 10000 W-tads<br>In Bharata, INTEL gained +2%",
+        "ss3": "First entry to Bharata gives 10000 W-tads<br>In Bharata, INTEL gained +3%",
+        "ss4": "First entry to Bharata gives 10000 W-tads<br>In Bharata, INTEL gained +3%",
+        "ss7": "First entry to Bharata gives 10000 W-tads<br>In Bharata, INTEL gained +3%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Travel_Permit.wiki",
+  "markdown_path": "markdown/Travel_Permit.md"
+}

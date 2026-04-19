@@ -1,0 +1,12 @@
+|description=This is a verisimilar snail figurine which is exactly the size of a real snail. Snails who are financially strong and profoundly proud of themselves can get one to demonstrate their status.
+|fame=12
+|art=30
+|fth=21
+|civ=10
+|tech=17
+|ss1=Per partner you have, Snail RUSH +3<br>Current Partners: 15/15
+|ss2=Per partner you have, Snail RUSH +6<br>Current Partners: 15/15
+|ss3=Per partner you have, Snail RUSH +9<br>Current Partners: 15/15
+|ss4=Per partner you have, Snail RUSH +9<br>Current Partners: 15/15
+|ss7=Per partner you have, Snail RUSH +9<br>Current Partners: 15/15<br> (Awakened)
+}}

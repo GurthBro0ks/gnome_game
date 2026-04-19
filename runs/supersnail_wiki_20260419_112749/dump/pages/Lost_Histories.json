@@ -1,0 +1,52 @@
+{
+  "pageid": 10973,
+  "ns": 0,
+  "title": "Lost Histories",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lost_Histories",
+  "touched": "2025-08-11T11:07:32Z",
+  "length": 1782,
+  "lastrevid": 38954,
+  "revision": {
+    "revid": 38954,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:07:32Z",
+    "sha1": "e7a796917d923175d7198f9260c399c9d9089ede",
+    "size": 1782
+  },
+  "categories": [
+    "CIV Relics",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Lost Histories",
+        "class_id": "22863",
+        "rank": "SSS",
+        "affct": "CIV",
+        "description": "These forgotten fragments of human past—altered or erased—hold cultural and technological secrets. Scholars now race to reconstruct them, revealing truths that reshape our understanding of history. Like sealed books awaiting discovery, they promise to redefine humanity’s legacy.",
+        "fame": "71",
+        "art": "48",
+        "fth": "64",
+        "civ": "107",
+        "tech": "72",
+        "ss1": "Snail ATK +30<br>In explorations, B-tads gained +1.2%<br>In explorations, 2x Card Drops +1.2%<br>In explorations, Demon God Cells collected +1.8%",
+        "ss2": "Snail ATK +40<br>In explorations, B-tads gained +1.6%<br>In explorations, 2x Card Drops +1.6%<br>In explorations, Demon God Cells collected +2.4%",
+        "ss3": "Snail ATK +50<br>In explorations, B-tads gained +2%<br>In explorations, 2x Card Drops +2%<br>In explorations, Demon God Cells collected +3%",
+        "ss4": "Snail ATK +70<br>In explorations, B-tads gained +2.8%<br>In explorations, 2x Card Drops +2.8%<br>In explorations, Demon God Cells collected +4.2%",
+        "ss5": "Snail ATK +90<br>In explorations, B-tads gained +3.6%<br>In explorations, 2x Card Drops +3.6%<br>In explorations, Demon God Cells collected +5.4%",
+        "ss6": "Snail ATK +120<br>In explorations, B-tads gained +4.8%<br>In explorations, 2x Card Drops +4.8%<br>In explorations, Demon God Cells collected +7.2%",
+        "ss7": "Snail ATK +120<br>In explorations, B-tads gained +4.8%<br>In explorations, 2x Card Drops +4.8%<br>In explorations, Demon God Cells collected +7.2%<br>In explorations, B-tads gained +4% (Awakened)",
+        "skill1": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: Medal Output +30",
+        "skill2": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: B-tads gained +3000",
+        "skill3": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's CIV +15"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lost_Histories.wiki",
+  "markdown_path": "markdown/Lost_Histories.md"
+}

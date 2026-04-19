@@ -1,0 +1,47 @@
+{
+  "pageid": 10181,
+  "ns": 0,
+  "title": "Killer Diary Vol. 390",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Killer_Diary_Vol._390",
+  "touched": "2025-08-11T10:41:55Z",
+  "length": 908,
+  "lastrevid": 37836,
+  "revision": {
+    "revid": 37836,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:41:55Z",
+    "sha1": "dda104ed881621186832c31d46ea4a24af58b918",
+    "size": 908
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Killer Diary Vol. 390",
+        "class_id": "20467",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "A secret manual exclusive to a one-thousand-year-old assassin family that records the previous generations' experience in the practice of assassination. The skills and techniques in the manual help assassins train more effectively. It is a treasure that most assassins are dying to obtain. But it's later found to be only the remnants.",
+        "fame": "30",
+        "art": "10",
+        "fth": "17",
+        "civ": "15",
+        "tech": "18",
+        "ss1": "Per Grandmaster Scroll used, Snail DEF +1<br>Grandmaster Scrolls Used: 50/50",
+        "ss2": "Per Grandmaster Scroll used, Snail DEF +2<br>Grandmaster Scrolls Used: 50/50",
+        "ss3": "Per Grandmaster Scroll used, Snail DEF +3<br>Grandmaster Scrolls Used: 50/50",
+        "ss4": "Per Grandmaster Scroll used, Snail DEF +3<br>Grandmaster Scrolls Used: 50/50",
+        "ss7": "Per Grandmaster Scroll used, Snail DEF +3<br>Grandmaster Scrolls Used: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Killer_Diary_Vol._390.wiki",
+  "markdown_path": "markdown/Killer_Diary_Vol._390.md"
+}

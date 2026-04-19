@@ -1,0 +1,33 @@
+{
+  "pageid": 4166,
+  "ns": 0,
+  "title": "SC Energy Storage Unit+Rutherford Model",
+  "fullurl": "https://supersnail.wiki.gg/wiki/SC_Energy_Storage_Unit%2BRutherford_Model",
+  "touched": "2025-06-20T00:07:19Z",
+  "length": 197,
+  "lastrevid": 35893,
+  "revision": {
+    "revid": 35893,
+    "parentid": 19513,
+    "timestamp": "2025-06-20T00:07:19Z",
+    "sha1": "27052f9d77ceace8a416980aae890b56343fa99e",
+    "size": 197
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "475",
+        "relics": "SC Energy Storage Unit,Rutherford Model",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "In the Rebel Rocket Cabin: Photonic Communicator Base Effect +56%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/SC_Energy_Storage_Unit_Rutherford_Model.wiki",
+  "markdown_path": "markdown/SC_Energy_Storage_Unit_Rutherford_Model.md"
+}

@@ -1,0 +1,54 @@
+{
+  "pageid": 1379,
+  "ns": 0,
+  "title": "Templar Emblem",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Templar_Emblem",
+  "touched": "2024-11-04T01:11:06Z",
+  "length": 1588,
+  "lastrevid": 28728,
+  "revision": {
+    "revid": 28728,
+    "parentid": 24604,
+    "timestamp": "2024-08-12T16:56:52Z",
+    "sha1": "90406af97cae25704bd59e1def5b5c76dcc482d6",
+    "size": 1588
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue FTH Relics",
+    "Blue Relics",
+    "Exploration B-tad Drop Boost",
+    "Exploration Compass Boost",
+    "FTH Relics",
+    "Indigent Nobleman Relics",
+    "Relics",
+    "Sanctum Warrior Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Templar Emblem",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "11-13",
+        "source": "* Britland Treasure Maps (20%), Lottery Machine (0.07%), Novice Scrolls (1%), Wishing (2.1%)\n* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})",
+        "description": "Since Nov 13, AD 1312, the honor of the Temple Knight would last for eternity. \n\nThe Knights Templar disbanded after the last member was burned to death. The group then went underground and their spirits continued to influence the world. With the disappearance of the Knights Templar, another secret group that had thousands of years of history appeared.\n\n[Brief History]\n\nAncient Times: Attacked Greece during the era of Xerxes I\n\nPersian period: Assisted Darius I in usurping the throne\n\nMacedonian …",
+        "fame": "31",
+        "art": "22",
+        "fth": "45",
+        "civ": "28",
+        "tech": "28",
+        "ss1": "Per Junior Agent defeated, Snail ATK +2<br>Junior Agents Defeated: 20/20",
+        "ss2": "Per Junior Agent defeated, Snail ATK +4<br>Junior Agents Defeated: 20/20",
+        "ss3": "Per Junior Agent defeated, Snail ATK +6<br>Junior Agents Defeated: 20/20",
+        "ss4": "Per Junior Agent defeated, Snail ATK +10<br>Junior Agents Defeated: 20/20",
+        "ss7": "Per Junior Agent defeated, Snail ATK +10<br>Junior Agents Defeated: 20/20<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Compass skill I.png|50px]] Place in Exploration Compass: This Relic's FTH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Templar_Emblem.wiki",
+  "markdown_path": "markdown/Templar_Emblem.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 8403,
+  "ns": 0,
+  "title": "The Principia+Death of the Virgin",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Principia%2BDeath_of_the_Virgin",
+  "touched": "2025-07-02T09:42:45Z",
+  "length": 179,
+  "lastrevid": 37060,
+  "revision": {
+    "revid": 37060,
+    "parentid": 34237,
+    "timestamp": "2025-07-02T09:42:45Z",
+    "sha1": "5e405c2bcd8be7a60d4517463701e0c63a58dd49",
+    "size": 179
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "808",
+        "relics": "The Principia,Death of the Virgin",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Dismantle 1 Purple Brand: Gain 1 more fragment by 14%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Principia_Death_of_the_Virgin.wiki",
+  "markdown_path": "markdown/The_Principia_Death_of_the_Virgin.md"
+}

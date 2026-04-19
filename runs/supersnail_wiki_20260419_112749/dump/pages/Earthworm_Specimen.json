@@ -1,0 +1,47 @@
+{
+  "pageid": 3132,
+  "ns": 0,
+  "title": "Earthworm Specimen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Earthworm_Specimen",
+  "touched": "2025-08-11T11:02:48Z",
+  "length": 648,
+  "lastrevid": 38744,
+  "revision": {
+    "revid": 38744,
+    "parentid": 32209,
+    "timestamp": "2025-08-11T11:02:48Z",
+    "sha1": "500aa4995a401341de6c3cacf2d68c7568f44e79",
+    "size": 648
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Earthworm Specimen",
+        "class_id": "20154",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "This specimen is a prehistoric earthworm. It looks similar to the modern earthworm, but there are obvious differences in their body structures. From the specimen, you can tell some primitive features of the prehistoric earthworm family, which is crucial for studying its ecological habits.",
+        "fame": "13",
+        "art": "26",
+        "fth": "15",
+        "civ": "17",
+        "tech": "17",
+        "ss1": "With Earthworm Assistance, ATK +2%",
+        "ss2": "With Earthworm Assistance, ATK +4%",
+        "ss3": "With Earthworm Assistance, ATK +6%",
+        "ss4": "With Earthworm Assistance, ATK +6%",
+        "ss7": "With Earthworm Assistance, ATK +6%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Earthworm_Specimen.wiki",
+  "markdown_path": "markdown/Earthworm_Specimen.md"
+}

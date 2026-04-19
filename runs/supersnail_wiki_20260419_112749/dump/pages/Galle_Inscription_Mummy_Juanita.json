@@ -1,0 +1,33 @@
+{
+  "pageid": 9265,
+  "ns": 0,
+  "title": "Galle Inscription+Mummy Juanita",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Galle_Inscription%2BMummy_Juanita",
+  "touched": "2025-06-20T00:16:20Z",
+  "length": 197,
+  "lastrevid": 36100,
+  "revision": {
+    "revid": 36100,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:16:20Z",
+    "sha1": "f6a99897ad47669cffee285404a105b68cbac385",
+    "size": 197
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "668",
+        "relics": "Galle Inscription,Mummy Juanita",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2 Epic+ Devotee assigned, Snail HP +120;Epic+ Devotee Assigned: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Galle_Inscription_Mummy_Juanita.wiki",
+  "markdown_path": "markdown/Galle_Inscription_Mummy_Juanita.md"
+}

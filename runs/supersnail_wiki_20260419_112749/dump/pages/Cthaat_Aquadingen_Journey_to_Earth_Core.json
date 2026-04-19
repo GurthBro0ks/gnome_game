@@ -1,0 +1,33 @@
+{
+  "pageid": 6897,
+  "ns": 0,
+  "title": "Cthaat Aquadingen+Journey to Earth Core",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cthaat_Aquadingen%2BJourney_to_Earth_Core",
+  "touched": "2025-08-11T11:10:47Z",
+  "length": 151,
+  "lastrevid": 38095,
+  "revision": {
+    "revid": 38095,
+    "parentid": 33791,
+    "timestamp": "2025-08-11T10:47:55Z",
+    "sha1": "c26071ab83f3717b496e483efbb07b0dc6108782",
+    "size": 151
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "577",
+        "relics": "Cthaat Aquadingen,Journey to Earth Core",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cthaat_Aquadingen_Journey_to_Earth_Core.wiki",
+  "markdown_path": "markdown/Cthaat_Aquadingen_Journey_to_Earth_Core.md"
+}

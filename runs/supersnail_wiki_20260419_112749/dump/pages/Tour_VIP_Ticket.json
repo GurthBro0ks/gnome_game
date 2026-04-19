@@ -1,0 +1,47 @@
+{
+  "pageid": 3703,
+  "ns": 0,
+  "title": "Tour VIP Ticket",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tour_VIP_Ticket",
+  "touched": "2025-08-11T10:46:44Z",
+  "length": 787,
+  "lastrevid": 38044,
+  "revision": {
+    "revid": 38044,
+    "parentid": 30848,
+    "timestamp": "2025-08-11T10:46:44Z",
+    "sha1": "41c29faa454fdcd14cd6b395ea4976816b10547a",
+    "size": 787
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Tour VIP Ticket",
+        "class_id": "20936",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "VIP Tickets offering prime seating with the best views are exclusively reserved for the band members' beloved family and friends. These exquisite mementos from the tour have since become highly sought-after collectibles!",
+        "fame": "33",
+        "art": "16",
+        "fth": "13",
+        "civ": "15",
+        "tech": "13",
+        "ss1": "Snail DEF +10<br>Per 8 Museum Promos, Snail ATK +1<br>Museum Promos: 400/400",
+        "ss2": "Snail DEF +20<br>Per 8 Museum Promos, Snail ATK +2<br>Museum Promos: 400/400",
+        "ss3": "Snail DEF +30<br>Per 8 Museum Promos, Snail ATK +3<br>Museum Promos: 400/400",
+        "ss4": "Snail DEF +30<br>Per 8 Museum Promos, Snail ATK +3<br>Museum Promos: 400/400",
+        "ss7": "Snail DEF +30<br>Per 8 Museum Promos, Snail ATK +3<br>Museum Promos: 400/400<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tour_VIP_Ticket.wiki",
+  "markdown_path": "markdown/Tour_VIP_Ticket.md"
+}

@@ -1,0 +1,36 @@
+{
+  "pageid": 5841,
+  "ns": 0,
+  "title": "1st Winter Olympics Badge+Chang'e and Laurel",
+  "fullurl": "https://supersnail.wiki.gg/wiki/1st_Winter_Olympics_Badge%2BChang%27e_and_Laurel",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 269,
+  "lastrevid": 23191,
+  "revision": {
+    "revid": 23191,
+    "parentid": 23190,
+    "timestamp": "2024-03-09T06:08:46Z",
+    "sha1": "b8ea1b8ece0cd0f6cb7fb34a670156731e15b8ca",
+    "size": 269
+  },
+  "categories": [
+    "DEF Boost",
+    "Enhanced by Wishes",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "1st Winter Olympics Badge,Chang'e and Laurel",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 40 Wishes made, Snail DEF +28; Wishes Made: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/1st_Winter_Olympics_Badge_Chang_e_and_Laurel.wiki",
+  "markdown_path": "markdown/1st_Winter_Olympics_Badge_Chang_e_and_Laurel.md"
+}

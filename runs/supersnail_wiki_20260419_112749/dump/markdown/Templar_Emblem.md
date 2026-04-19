@@ -1,0 +1,34 @@
+)
+|description=Since Nov 13, AD 1312, the honor of the Temple Knight would last for eternity. 
+
+The Knights Templar disbanded after the last member was burned to death. The group then went underground and their spirits continued to influence the world. With the disappearance of the Knights Templar, another secret group that had thousands of years of history appeared.
+
+[Brief History]
+
+Ancient Times: Attacked Greece during the era of Xerxes I
+
+Persian period: Assisted Darius I in usurping the throne
+
+Macedonian Dynasty: Assisted Alexander 
+
+Great Roman Period: Crucified Jesus
+
+Middle Ages: Returned to the underground
+|fame=31
+|art=22
+|fth=45
+|civ=28
+|tech=28
+|ss1=Per Junior Agent defeated, Snail ATK +2<br>Junior Agents Defeated: 20/20
+|ss2=Per Junior Agent defeated, Snail ATK +4<br>Junior Agents Defeated: 20/20
+|ss3=Per Junior Agent defeated, Snail ATK +6<br>Junior Agents Defeated: 20/20
+|ss4=Per Junior Agent defeated, Snail ATK +10<br>Junior Agents Defeated: 20/20
+|ss7=Per Junior Agent defeated, Snail ATK +10<br>Junior Agents Defeated: 20/20<br>Snail ATK +50 (Awakened)
+|skill1= Place in Exploration Compass: This Relic's FTH +5
+}}
+
+Category:ATK Boost
+Category:Exploration Compass Boost
+Category:Exploration B-tad Drop Boost
+Category:Sanctum Warrior Boost
+Category:Indigent Nobleman Relics

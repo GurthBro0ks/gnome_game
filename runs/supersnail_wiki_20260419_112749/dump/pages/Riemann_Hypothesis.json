@@ -1,0 +1,54 @@
+{
+  "pageid": 4223,
+  "ns": 0,
+  "title": "Riemann Hypothesis",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Riemann_Hypothesis",
+  "touched": "2025-09-28T08:50:07Z",
+  "length": 2991,
+  "lastrevid": 40216,
+  "revision": {
+    "revid": 40216,
+    "parentid": 37618,
+    "timestamp": "2025-09-28T08:50:07Z",
+    "sha1": "4d385c5e64ed585c25bb275892b99299895032eb",
+    "size": 2991
+  },
+  "categories": [
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Riemann Hypothesis",
+        "class_id": "22356",
+        "rank": "SSS",
+        "affct": "TECH",
+        "birthday": "03-04",
+        "description": "On Mar 4, 1859 AD, Riemann presented the Riemann hypothesis to the Academy of Sciences of Berlin.<br>The Riemann hypothesis, which consists of three statements, is a well-known unsolved problem proposed by mathematician Riemann. According to Riemann, it would be simple to prove the first statement, but it took other mathematicians 46 years to do so. And the remaining statements are still waiting for answers. It wasn't until the mathematician Siegel discovered a new formula in Riemann's manuscrip …",
+        "fame": "69",
+        "art": "52",
+        "fth": "74",
+        "civ": "60",
+        "tech": "107",
+        "ss1": "All Rocket Cabin production +0.9%<br>Per 5 Rocket Tech LVLs, Snail ATK +12<br>Per 5 Rocket Tech LVLs, Snail RUSH +12<br>Rocket Tech Upgraded: 50/50",
+        "ss2": "All Rocket Cabin production +1.2%<br>Per 5 Rocket Tech LVLs, Snail ATK +16<br>Per 5 Rocket Tech LVLs, Snail RUSH +16<br>Rocket Tech Upgraded: 50/50",
+        "ss3": "All Rocket Cabin production +1.5%<br>Per 5 Rocket Tech LVLs, Snail ATK +20<br>Per 5 Rocket Tech LVLs, Snail RUSH +20<br>Rocket Tech Upgraded: 50/50",
+        "ss4": "All Rocket Cabin production +2.1%<br>Per 5 Rocket Tech LVLs, Snail ATK +28<br>Per 5 Rocket Tech LVLs, Snail RUSH +28<br>Rocket Tech Upgraded: 50/50",
+        "ss5": "All Rocket Cabin production +2.7%<br>Per 5 Rocket Tech LVLs, Snail ATK +36<br>Per 5 Rocket Tech LVLs, Snail RUSH +36<br>Rocket Tech Upgraded: 50/50",
+        "ss6": "All Rocket Cabin production +3.6%<br>Per 5 Rocket Tech LVLs, Snail ATK +48<br>Per 5 Rocket Tech LVLs, Snail RUSH +48<br>Rocket Tech Upgraded: 50/50",
+        "ss7": "All Rocket Cabin production +3.6%<br>Per 5 Rocket Tech LVLs, Snail ATK +48<br>Per 5 Rocket Tech LVLs, Snail RUSH +48<br>Rocket Tech Upgraded: 50/50<br>All Rocket Cabin production +3% (Awakened)",
+        "skill1": "[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop Wind DMG +60",
+        "skill2": "[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop ATK +9%",
+        "skill3": "[[File:Minion Sim Skill III.png|50px]]Place in Minion Sims: In Minion Sims, Troop RUSH +9%",
+        "mirage": "{{Mirage|name=Analytic Number Theory Cornerstone|reward={{RewardIconWithLink|Tool Chest, +200|orange}}\n|3name=Witness No. 1|3rec=83.33M|3atk=241537|3defense=161139|3hp=14578581|3weak=31502\n|4name=Witness No. 2|4rec=111.32M|4atk=300561|4defense=200516|4hp=21285132|4weak=36349\n|5name=Witness No. 3|5rec=144.39M|5atk=370310|5defense=247048|5hp=30637540|5weak=41886\n|6name=Witness No. 4|6rec=182.29M|6atk=450222|6defense=300361|6hp=42315946|6weak=49071\n|Arec=226.10M|Aatk=542620|Adefense=362003|Ahp=5745 …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Riemann_Hypothesis.wiki",
+  "markdown_path": "markdown/Riemann_Hypothesis.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 11094,
+  "ns": 0,
+  "title": "Dragon Copper Pot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dragon_Copper_Pot",
+  "touched": "2025-08-11T11:12:09Z",
+  "length": 913,
+  "lastrevid": 39148,
+  "revision": {
+    "revid": 39148,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:12:09Z",
+    "sha1": "e888b8f6fb3146a7fe889f82361338595c8699f2",
+    "size": 913
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Dragon Copper Pot",
+        "class_id": "20531",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The name is derived from the story of a fish becoming a dragon, which means the change of luck. After placing ingredients into the Morphing Dragon Pot and leaving them for a day, the taste remains unchanged, but the dish has been imbued with a blessing. Note that good luck will be bestowed upon those with good fortune, while those with bad fortune will become even more unlucky.",
+        "fame": "13",
+        "art": "17",
+        "fth": "15",
+        "civ": "32",
+        "tech": "13",
+        "ss1": "Per 5 new Dishes created, Snail ATK +1<br>New Dishes Created: 300/300",
+        "ss2": "Per 5 new Dishes created, Snail ATK +2<br>New Dishes Created: 300/300",
+        "ss3": "Per 5 new Dishes created, Snail ATK +3<br>New Dishes Created: 300/300",
+        "ss4": "Per 5 new Dishes created, Snail ATK +3<br>New Dishes Created: 300/300",
+        "ss7": "Per 5 new Dishes created, Snail ATK +3<br>New Dishes Created: 300/300<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dragon_Copper_Pot.wiki",
+  "markdown_path": "markdown/Dragon_Copper_Pot.md"
+}

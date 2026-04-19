@@ -1,0 +1,47 @@
+{
+  "pageid": 7906,
+  "ns": 0,
+  "title": "Great Auk Fur",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Great_Auk_Fur",
+  "touched": "2025-08-11T11:16:10Z",
+  "length": 1046,
+  "lastrevid": 39323,
+  "revision": {
+    "revid": 39323,
+    "parentid": 33324,
+    "timestamp": "2025-08-11T11:16:10Z",
+    "sha1": "8e6bafb3ebb72927b4d121b0746b3c81b79d2c0a",
+    "size": 1046
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Great Auk Fur",
+        "class_id": "20158",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "It comes from the long-extinct great auk. Although great auks had been hunted by humans since time immemorial, it was their beautiful feathers that brought doom upon them after they were discovered by navigators in the sixteenth century. This fur, as a proof of their existence, has become a valuable collection.",
+        "fame": "15",
+        "art": "30",
+        "fth": "16",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Offering Egg hatching rate +3%<br>Per 10 Offering Eggs hatched, Snail RUSH +1<br>400/400 Offering Eggs hatched",
+        "ss2": "Offering Egg hatching rate +3%<br>Per 10 Offering Eggs hatched, Snail RUSH +2<br>400/400 Offering Eggs hatched",
+        "ss3": "Offering Egg hatching rate +3%<br>Per 10 Offering Eggs hatched, Snail RUSH +3<br>400/400 Offering Eggs hatched",
+        "ss4": "Offering Egg hatching rate +3%<br>Per 10 Offering Eggs hatched, Snail RUSH +3<br>400/400 Offering Eggs hatched",
+        "ss7": "Offering Egg hatching rate +3%<br>Per 10 Offering Eggs hatched, Snail RUSH +3<br>400/400 Offering Eggs hatched<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Great_Auk_Fur.wiki",
+  "markdown_path": "markdown/Great_Auk_Fur.md"
+}

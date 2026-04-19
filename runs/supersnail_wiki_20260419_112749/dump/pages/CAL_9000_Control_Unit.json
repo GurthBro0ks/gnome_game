@@ -1,0 +1,33 @@
+{
+  "pageid": 4846,
+  "ns": 0,
+  "title": "CAL 9000+Control Unit",
+  "fullurl": "https://supersnail.wiki.gg/wiki/CAL_9000%2BControl_Unit",
+  "touched": "2025-06-19T23:54:26Z",
+  "length": 140,
+  "lastrevid": 35678,
+  "revision": {
+    "revid": 35678,
+    "parentid": 19537,
+    "timestamp": "2025-06-19T23:54:26Z",
+    "sha1": "17d81ebb03b9268db5c4c50d59da688c1a1c11a1",
+    "size": 140
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "423",
+        "relics": "CAL 9000,Control Unit",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Demon God Cabin Output +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/CAL_9000_Control_Unit.wiki",
+  "markdown_path": "markdown/CAL_9000_Control_Unit.md"
+}

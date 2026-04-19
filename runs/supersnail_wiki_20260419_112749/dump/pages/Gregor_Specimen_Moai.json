@@ -1,0 +1,35 @@
+{
+  "pageid": 3299,
+  "ns": 0,
+  "title": "Gregor Specimen+Moai",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gregor_Specimen%2BMoai",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 219,
+  "lastrevid": 18383,
+  "revision": {
+    "revid": 18383,
+    "parentid": 17762,
+    "timestamp": "2023-11-13T21:32:02Z",
+    "sha1": "abc8ffaf79199b000f57b160916045c92e03e642",
+    "size": 219
+  },
+  "categories": [
+    "Minion",
+    "Mutant Minion ATK Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Gregor Specimen,Moai",
+        "rank": "blue",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 10 Mutant Minions in battle: Troop ATK +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gregor_Specimen_Moai.wiki",
+  "markdown_path": "markdown/Gregor_Specimen_Moai.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 1978,
+  "ns": 0,
+  "title": "Ishikawa's Shuriken",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ishikawa%27s_Shuriken",
+  "touched": "2025-08-11T10:40:23Z",
+  "length": 707,
+  "lastrevid": 37771,
+  "revision": {
+    "revid": 37771,
+    "parentid": 11491,
+    "timestamp": "2025-08-11T10:40:23Z",
+    "sha1": "8066c7d7e782c959569d4685a0b1e0b6df8fe051",
+    "size": 707
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Ishikawa's Shuriken",
+        "class_id": "20047",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "As a non-mainstream ninja, Ishikawa Rip is still skilled in the basic art of throwing ninja darts, or shuriken. When people catch him stealing and surround him, he would throw several shurikens to deter his opponents, which is crucial to his survival.",
+        "fame": "28",
+        "art": "15",
+        "fth": "19",
+        "civ": "15",
+        "tech": "13",
+        "ss1": "Per 5 Jinx Points, Snail ATK +2<br>Jinx Points: 50/50",
+        "ss2": "Per 5 Jinx Points, Snail ATK +4<br>Jinx Points: 50/50",
+        "ss3": "Per 5 Jinx Points, Snail ATK +6<br>Jinx Points: 50/50",
+        "ss4": "Per 5 Jinx Points, Snail ATK +6<br>Jinx Points: 50/50",
+        "ss7": "Per 5 Jinx Points, Snail ATK +6<br>Jinx Points: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ishikawa_s_Shuriken.wiki",
+  "markdown_path": "markdown/Ishikawa_s_Shuriken.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 8551,
+  "ns": 0,
+  "title": "The Blood of Nessus+Underworld Pomegranate+Dictionnaire Infernal+Stone of Destiny",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Blood_of_Nessus%2BUnderworld_Pomegranate%2BDictionnaire_Infernal%2BStone_of_Destiny",
+  "touched": "2025-06-16T20:49:49Z",
+  "length": 202,
+  "lastrevid": 34494,
+  "revision": {
+    "revid": 34494,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:49:49Z",
+    "sha1": "a7276e8cdffce7e777e15cf3b0ed186033a27029",
+    "size": 202
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "644",
+        "relics": "The Blood of Nessus,Underworld Pomegranate,Dictionnaire Infernal,Stone of Destiny",
+        "rank": "blue",
+        "amount": "4",
+        "category": "self",
+        "description": "Mutant Minion HARD Stats +2.1%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Blood_of_Nessus_Underworld_Pomegranate_Dictionnaire_Infernal_Stone_of_Destiny.wiki",
+  "markdown_path": "markdown/The_Blood_of_Nessus_Underworld_Pomegranate_Dictionnaire_Infernal_Stone_of_Destiny.md"
+}

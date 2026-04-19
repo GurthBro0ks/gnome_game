@@ -1,0 +1,6 @@
+|3name=Meskhent|3rec=361.39M|3atk=860238|3defense=487692|3hp=193442386|3weak=66801
+|4name=Rhenet|4rec=458.12M|4atk=1020188|4defense=574714|4hp=321587417|4weak=72667
+|5name=Ammit|5rec=597.22M|5atk=1298055|5defense=699857|5hp=546744097|5weak=80249
+|6name=dungeon_event@4429_1|6rec=805.11M|6atk=1886644|6defense=912987|6hp=910915715|6weak=90392
+|Arec=1142.63M|Aatk=2887497|Adefense=1253212|Ahp=1697838225|Aweak=101566
+}}}}

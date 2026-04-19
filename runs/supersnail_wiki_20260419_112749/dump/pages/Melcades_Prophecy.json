@@ -1,0 +1,54 @@
+{
+  "pageid": 1055,
+  "ns": 0,
+  "title": "Melcades' Prophecy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Melcades%27_Prophecy",
+  "touched": "2024-09-06T10:00:02Z",
+  "length": 1441,
+  "lastrevid": 17374,
+  "revision": {
+    "revid": 17374,
+    "parentid": 16602,
+    "timestamp": "2023-11-10T11:10:06Z",
+    "sha1": "b2d401afd0e7b6193c472cdbe34fd41e3d7b09d3",
+    "size": 1441
+  },
+  "categories": [
+    "Blue FTH Relics",
+    "Blue Relics",
+    "Exploration Card Drop Boost",
+    "FTH Relics",
+    "Offering Reward Boost",
+    "Quarry Output Boost",
+    "Quarry Skill",
+    "Relics",
+    "Wonder Fungus Output"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Melcades' Prophecy",
+        "rank": "Blue",
+        "affct": "FTH",
+        "birthday": "05-01",
+        "source": "Lottery Machine (0.03%), Wishing (0.85%)",
+        "description": "On May 1, 1970, this famous prophecy began to circulate in the Buendia family. \n\nProphet Melgades was a witness to the fate of the Buendia family and Macondo. Melgades performed his so-called Macedonian alchemy and created the 8th miracle of the world. He made a prophecy saying that the first person in the family would be trapped on a tree and the last would be eaten by ants. Eventually, the lonely and old Melgades went to take a bath in the river on a Thursday afternoon and ended his life.\n\n[Fa …",
+        "fame": "24",
+        "art": "26",
+        "fth": "47",
+        "civ": "27",
+        "tech": "30",
+        "ss1": "B-tad rewards from offering +0.4%",
+        "ss2": "B-tad rewards from offering +0.8%",
+        "ss3": "B-tad rewards from offering +1.2%",
+        "ss4": "B-tad rewards from offering +2%",
+        "ss7": "B-tad rewards from offering +2%<br>B-tad rewards from offering +2% (Awakened)",
+        "skill1": "[[File:Quarry skill I.png|50px]] Place in Quarry: Stone Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Melcades_Prophecy.wiki",
+  "markdown_path": "markdown/Melcades_Prophecy.md"
+}

@@ -1,0 +1,51 @@
+{
+  "pageid": 5123,
+  "ns": 0,
+  "title": "Indus Seal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Indus_Seal",
+  "touched": "2025-08-11T10:40:41Z",
+  "length": 1460,
+  "lastrevid": 37785,
+  "revision": {
+    "revid": 37785,
+    "parentid": 28726,
+    "timestamp": "2025-08-11T10:40:41Z",
+    "sha1": "c9301ebef8b717c8bdce92e0df41eec5f62ad516",
+    "size": 1460
+  },
+  "categories": [
+    "CIV Relics",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Indus Seal",
+        "class_id": "22188",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "01-31",
+        "description": "On Jan 31, 2367 BC, this Indus Seal was buried in Harappa on the upper Indus River.<br>The Indus Seal is a carving from the Indus Era. This carving is square in shape and the size of a postal stamp. It is carved from translucent stone. Inscriptions and animals are carved into it. Since the writing has not been deciphered, it is impossible to know what it represents. The depicted animals were the ones that people at the time saw in their daily lives. It is speculated that this seal may represent  …",
+        "fame": "51",
+        "art": "43",
+        "fth": "41",
+        "civ": "74",
+        "tech": "34",
+        "ss1": "Quantum Amp Max Cap +3%<br>Quantum Amp gives Nebula Chest Shards by +1.8%",
+        "ss2": "Quantum Amp Max Cap +4%<br>Quantum Amp gives Nebula Chest Shards by +2.4%",
+        "ss3": "Quantum Amp Max Cap +5%<br>Quantum Amp gives Nebula Chest Shards by +3%",
+        "ss4": "Quantum Amp Max Cap +7%<br>Quantum Amp gives Nebula Chest Shards by +4.2%",
+        "ss5": "Quantum Amp Max Cap +9%<br>Quantum Amp gives Nebula Chest Shards by +5.4%",
+        "ss7": "Quantum Amp Max Cap +9%<br>Quantum Amp gives Nebula Chest Shards by +5.4%<br>Quantum Amp Max Cap +7% (Awakened)",
+        "skill1": "[[File:Bharata skill II.png|50px]]Place in Bharata Museum: In Bharata, 2x B-tad Drops +7.5%",
+        "skill2": "[[File:Bharata skill II.png|50px]]Place in Bharata Museum: This Relic's CIV +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Indus_Seal.wiki",
+  "markdown_path": "markdown/Indus_Seal.md"
+}

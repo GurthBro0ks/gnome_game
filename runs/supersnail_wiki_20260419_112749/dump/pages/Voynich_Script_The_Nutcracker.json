@@ -1,0 +1,34 @@
+{
+  "pageid": 3654,
+  "ns": 0,
+  "title": "Voynich Script+The Nutcracker",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Voynich_Script%2BThe_Nutcracker",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 187,
+  "lastrevid": 28240,
+  "revision": {
+    "revid": 28240,
+    "parentid": 13253,
+    "timestamp": "2024-06-22T11:07:12Z",
+    "sha1": "746f3dd13480f75e0adf5db1751c3e2fdde0e8a8",
+    "size": 187
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Voynich Manuscript,The Nutcracker",
+        "rank": "purple",
+        "amount": "2",
+        "category": "other",
+        "description": "In any Realm, Zombie Cells gained +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Voynich_Script_The_Nutcracker.wiki",
+  "markdown_path": "markdown/Voynich_Script_The_Nutcracker.md"
+}

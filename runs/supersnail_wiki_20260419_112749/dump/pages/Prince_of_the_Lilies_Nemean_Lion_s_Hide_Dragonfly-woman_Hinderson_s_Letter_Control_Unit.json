@@ -1,0 +1,35 @@
+{
+  "pageid": 4924,
+  "ns": 0,
+  "title": "Prince of the Lilies+Nemean Lion's Hide+Dragonfly-woman+Hinderson's Letter+Control Unit",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Prince_of_the_Lilies%2BNemean_Lion%27s_Hide%2BDragonfly-woman%2BHinderson%27s_Letter%2BControl_Unit",
+  "touched": "2024-12-02T03:00:51Z",
+  "length": 267,
+  "lastrevid": 18387,
+  "revision": {
+    "revid": 18387,
+    "parentid": 17562,
+    "timestamp": "2023-11-13T21:33:16Z",
+    "sha1": "c05f89308e1bb1ffd6fd55181132c30440b2d845",
+    "size": 267
+  },
+  "categories": [
+    "Minion",
+    "Mutant Minion MAX Cap Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Prince of the Lilies,Nemean Lion's Hide,Dragonfly-woman,Hinderson's Letter,Control Unit",
+        "rank": "purple",
+        "amount": "5",
+        "category": "minion",
+        "description": "Mutant Minion MAX +9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Prince_of_the_Lilies_Nemean_Lion_s_Hide_Dragonfly-woman_Hinderson_s_Letter_Control_Unit.wiki",
+  "markdown_path": "markdown/Prince_of_the_Lilies_Nemean_Lion_s_Hide_Dragonfly-woman_Hinderson_s_Letter_Control_Unit.md"
+}

@@ -1,0 +1,52 @@
+{
+  "pageid": 6573,
+  "ns": 0,
+  "title": "Xi Ping Stele Script",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Xi_Ping_Stele_Script",
+  "touched": "2025-08-11T10:42:31Z",
+  "length": 2214,
+  "lastrevid": 37781,
+  "revision": {
+    "revid": 37781,
+    "parentid": 32645,
+    "timestamp": "2025-08-11T10:40:36Z",
+    "sha1": "3bbe9760e756d85ee7acb9d0f2fd4f50aadf02d6",
+    "size": 2214
+  },
+  "categories": [
+    "CIV Relics",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Xi Ping Stele Script",
+        "class_id": "22882",
+        "rank": "SSS",
+        "affct": "CIV",
+        "description": "The Xi Ping Stele Scriptures, a collection of the seven Confucian classics widely recognized during the Han Dynasty, include the Book of Changes, Book of Documents, Book of Songs, Commentary of Zuo, Book of Rites, Gongyang Commentary, and The Analects. The aim was to standardize the texts of the scriptures and to prevent errors that might occur during the process of transcription. The scriptures were carved onto forty-six stone steles, with each character engraved only once, standardizing the sc …",
+        "fame": "77",
+        "art": "66",
+        "fth": "65",
+        "civ": "107",
+        "tech": "47",
+        "ss1": "Mutant Minion DEF +3%<br>Per 5 CIV Relics awakened, Snail ATK +9<br>Per 5 CIV Relics awakened, Snail DEF +9<br>CIV Relics Awakened: 100/100",
+        "ss2": "Mutant Minion DEF +4%<br>Per 5 CIV Relics awakened, Snail ATK +12<br>Per 5 CIV Relics awakened, Snail DEF +12<br>CIV Relics Awakened: 100/100",
+        "ss3": "Mutant Minion DEF +5%<br>Per 5 CIV Relics awakened, Snail ATK +15<br>Per 5 CIV Relics awakened, Snail DEF +15<br>CIV Relics Awakened: 100/100",
+        "ss4": "Mutant Minion DEF +7%<br>Per 5 CIV Relics awakened, Snail ATK +21<br>Per 5 CIV Relics awakened, Snail DEF +21<br>CIV Relics Awakened: 100/100",
+        "ss5": "Mutant Minion DEF +9%<br>Per 5 CIV Relics awakened, Snail ATK +27<br>Per 5 CIV Relics awakened, Snail DEF +27<br>CIV Relics Awakened: 100/100",
+        "ss6": "Mutant Minion DEF +12%<br>Per 5 CIV Relics awakened, Snail ATK +36<br>Per 5 CIV Relics awakened, Snail DEF +36<br>CIV Relics Awakened: 100/100",
+        "ss7": "Mutant Minion DEF +12%<br>Per 5 CIV Relics awakened, Snail ATK +36<br>Per 5 CIV Relics awakened, Snail DEF +36<br>CIV Relics Awakened: 100/100<br>Snail ATK +100 (Awakened)",
+        "skill1": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: Medal Output +30",
+        "skill2": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: This Relic's CIV +15",
+        "skill3": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x Green Card Drops +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Xi_Ping_Stele_Script.wiki",
+  "markdown_path": "markdown/Xi_Ping_Stele_Script.md"
+}

@@ -1,0 +1,64 @@
+{
+  "pageid": 2115,
+  "ns": 0,
+  "title": "The Analects",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Analects",
+  "touched": "2024-11-04T01:10:54Z",
+  "length": 2721,
+  "lastrevid": 30144,
+  "revision": {
+    "revid": 30144,
+    "parentid": 26323,
+    "timestamp": "2024-10-15T15:47:13Z",
+    "sha1": "2e2a901d95d057753bf5c00f8c2421dc8e782117",
+    "size": 2721
+  },
+  "categories": [
+    "CIV Relics",
+    "Cathay Exploration Boost",
+    "Cathay Museum Boost",
+    "DEF Boost",
+    "Exploration Card Drop Boost",
+    "Exploration Reagent Drop Boost",
+    "Gene Research Cost Reduction",
+    "Gene Research Speedup Boost",
+    "HP Boost",
+    "Missing Info",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Relic Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Analects",
+        "rank": "SSS",
+        "affct": "CIV",
+        "birthday": "07-21",
+        "source": "Grandmaster Scrolls (0.81%), Lottery Machine (0.09%), Relic Forge (120 Relic RF), Wish Box, Wishing (0.08%)",
+        "description": "On Jul 21, 475 BC, the quotes of Confucius and his disciples were compiled in a book. After the death of Confucius, Zeng compiled the records of Confucius and his disciples into \"The Analects\" which has 20 sections, 492 chapters, totaling more than 15,000 words. The book advocates benevolent love as its core idea, as well as the virtues of righteousness, propriety, wisdom, and trustworthiness. Confucius' persuasive and lively teachings are recorded in the book through simple conversations or deb …",
+        "fame": "48",
+        "art": "82",
+        "fth": "67",
+        "civ": "107",
+        "tech": "58",
+        "ss1": "All Gene Research SPD +0.6%<br>Gene Research Free Speedup +9m<br>For all Gene Research, B-tad Cost -1.2%",
+        "ss2": "All Gene Research SPD +0.8%<br>Gene Research Free Speedup +12m<br>For all Gene Research, B-tad Cost -1.6%",
+        "ss3": "All Gene Research SPD +1%<br>Gene Research Free Speedup +15m<br>For all Gene Research, B-tad Cost -2%",
+        "ss4": "All Gene Research SPD +1.4%<br>Gene Research Free Speedup +21m<br>For all Gene Research, B-tad Cost -2.8%",
+        "ss5": "All Gene Research SPD +1.8%<br>Gene Research Free Speedup +27m<br>For all Gene Research, B-tad Cost -3.6%",
+        "ss6": "All Gene Research SPD +2.4%<br>Gene Research Free Speedup +36m<br>For all Gene Research, B-tad Cost -4.8%",
+        "ss7": "All Gene Research SPD +2.4%<br>Gene Research Free Speedup +36m<br>For all Gene Research, B-tad Cost -4.8%<br>All Gene Research SPD +2% (Awakened)",
+        "skill1": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x Green Card Drops +15%",
+        "skill2": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, 2x Green Reagent Drops +15%",
+        "skill3": "[[File:Cathay skill III.png|50px]]Place in Cathay Museum: In Cathay, Snail DEF +600",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Analects.wiki",
+  "markdown_path": "markdown/The_Analects.md"
+}

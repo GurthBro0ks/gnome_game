@@ -1,0 +1,47 @@
+{
+  "pageid": 7731,
+  "ns": 0,
+  "title": "Thursday Star",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Thursday_Star",
+  "touched": "2025-08-11T10:45:58Z",
+  "length": 748,
+  "lastrevid": 38013,
+  "revision": {
+    "revid": 38013,
+    "parentid": 32519,
+    "timestamp": "2025-08-11T10:45:58Z",
+    "sha1": "7a03b38cee8dc0503a1401dc7e694c0e72b4e2d9",
+    "size": 748
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Thursday Star",
+        "class_id": "20532",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Fortune Law 5: Seize the last day of every event. Without giving it your all, you will never know the extent of your luck's potential!",
+        "fame": "16",
+        "art": "14",
+        "fth": "13",
+        "civ": "31",
+        "tech": "16",
+        "ss1": "Snail Leadership +2<br>Per 10 Lucky Star, Snail HP +10<br>Lucky Star Gained: 1400/1400",
+        "ss2": "Snail Leadership +4<br>Per 10 Lucky Star, Snail HP +20<br>Lucky Star Gained: 1400/1400",
+        "ss3": "Snail Leadership +6<br>Per 10 Lucky Star, Snail HP +30<br>Lucky Star Gained: 1400/1400",
+        "ss4": "Snail Leadership +6<br>Per 10 Lucky Star, Snail HP +30<br>Lucky Star Gained: 1400/1400",
+        "ss7": "Snail Leadership +6<br>Per 10 Lucky Star, Snail HP +30<br>Lucky Star Gained: 1400/1400<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Thursday_Star.wiki",
+  "markdown_path": "markdown/Thursday_Star.md"
+}

@@ -1,0 +1,56 @@
+{
+  "pageid": 668,
+  "ns": 0,
+  "title": "Spinning Jenny",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Spinning_Jenny",
+  "touched": "2026-02-07T09:42:16Z",
+  "length": 1599,
+  "lastrevid": 41824,
+  "revision": {
+    "revid": 41824,
+    "parentid": 22420,
+    "timestamp": "2026-02-07T09:42:16Z",
+    "sha1": "b52a45fc7b586ed983de641b6720129ae10ebe0e",
+    "size": 1599
+  },
+  "categories": [
+    "ATK Boost",
+    "Ancient Fossil Boost",
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Britland Exploration Boost",
+    "Britland Museum Boost",
+    "Lottery Bead Color Change",
+    "Lumber Camp Boost",
+    "Relics",
+    "TECH Boost",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Spinning Jenny",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "06-12",
+        "source": "Lottery Machine (0.36%), Wishing (13.2%), Tool Chest (2%), Novice Scroll (5%)",
+        "description": "On Jun 12, 1764, James Hargreaves invented a new spinning machine with eight vertical spindles.\n\nLooking at the spinning machine that toppled on the ground, he wondered if it could rotate 8 spindles if they were put vertically instead. That was how he increased the efficiency of a loom by eight times. This invention changed the industrial development. \n\n[Development]\n\n5 years later, the hydraulic spinning machine was invented. 10 years later, the worsted spinning machine was invented. 40 later,  …",
+        "fame": "30",
+        "art": "24",
+        "fth": "29",
+        "civ": "25",
+        "tech": "46",
+        "ss1": "Per Exploration completed, Snail ATK +2<br>Explorations completed 20/20",
+        "ss2": "Per Exploration completed, Snail ATK +4<br>Explorations completed 20/20",
+        "ss3": "Per Exploration completed, Snail ATK +6<br>Explorations completed 20/20",
+        "ss4": "Per Exploration completed, Snail ATK +10<br>Explorations completed 20/20",
+        "ss7": "Per Exploration completed, Snail ATK +10<br>Explorations completed 20/20<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Britland skill I.png|50px]] Place in Britland Museum: In Britland, TECH Checks -5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Spinning_Jenny.wiki",
+  "markdown_path": "markdown/Spinning_Jenny.md"
+}

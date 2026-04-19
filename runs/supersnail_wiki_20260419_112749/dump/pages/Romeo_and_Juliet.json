@@ -1,0 +1,52 @@
+{
+  "pageid": 11017,
+  "ns": 0,
+  "title": "Romeo and Juliet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Romeo_and_Juliet",
+  "touched": "2025-08-11T11:09:19Z",
+  "length": 1902,
+  "lastrevid": 39028,
+  "revision": {
+    "revid": 39028,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:09:19Z",
+    "sha1": "f2cc4a5003e8fcbb19c24341df06bd9ba0402236",
+    "size": 1902
+  },
+  "categories": [
+    "FAME Relics",
+    "Orange FAME Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Romeo and Juliet",
+        "class_id": "22775",
+        "rank": "SSS",
+        "affct": "FAME",
+        "description": "Romeo and Juliet is a romantic tragedy by Shakespeare, telling the love story of Romeo, the only son of the Montague family, and Juliet, the only daughter of the Capulet family. Despite the feud between their families, Romeo and Juliet meet at a ball and quickly fall in love. However, due to a series of misunderstandings, both die, ultimately leading to the reconciliation of their feuding families. The play is not only a romantic tragedy with lyrical colors but also a hymn advocating freedom, eq …",
+        "fame": "108",
+        "art": "59",
+        "fth": "48",
+        "civ": "72",
+        "tech": "75",
+        "ss1": "Snail Leadership +3<br>Per 2 fully unlocked Tactical Logs, Snail RUSH +3<br>prop@53201_2<br>Tactical Logs unlocked: 100/100",
+        "ss2": "Snail Leadership +4<br>Per 2 fully unlocked Tactical Logs, Snail RUSH +4<br>prop@53201_2<br>Tactical Logs unlocked: 100/100",
+        "ss3": "Snail Leadership +5<br>Per 2 fully unlocked Tactical Logs, Snail RUSH +5<br>prop@53201_2<br>Tactical Logs unlocked: 100/100",
+        "ss4": "Snail Leadership +7<br>Per 2 fully unlocked Tactical Logs, Snail RUSH +7<br>prop@53201_2<br>Tactical Logs unlocked: 100/100",
+        "ss5": "Snail Leadership +9<br>Per 2 fully unlocked Tactical Logs, Snail RUSH +9<br>prop@53201_2<br>Tactical Logs unlocked: 100/100",
+        "ss6": "Snail Leadership +12<br>Per 2 fully unlocked Tactical Logs, Snail RUSH +12<br>prop@53201_2<br>Tactical Logs unlocked: 100/100",
+        "ss7": "Snail Leadership +12<br>Per 2 fully unlocked Tactical Logs, Snail RUSH +12<br>prop@53201_2<br>Tactical Logs unlocked: 100/100<br>Snail Leadership +5 (Awakened)",
+        "skill1": "[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail DEF +600",
+        "skill2": "[[File:Britland skill III.png|50px]]Place in Britland Museum: Medal Output +30",
+        "skill3": "[[File:Britland skill III.png|50px]]Place in Britland Museum: In Britland, Snail ATK +600"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Romeo_and_Juliet.wiki",
+  "markdown_path": "markdown/Romeo_and_Juliet.md"
+}

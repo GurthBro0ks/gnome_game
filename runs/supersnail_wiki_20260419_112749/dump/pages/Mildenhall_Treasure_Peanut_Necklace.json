@@ -1,0 +1,33 @@
+{
+  "pageid": 9260,
+  "ns": 0,
+  "title": "Mildenhall Treasure+Peanut Necklace",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mildenhall_Treasure%2BPeanut_Necklace",
+  "touched": "2025-06-20T00:15:59Z",
+  "length": 146,
+  "lastrevid": 36086,
+  "revision": {
+    "revid": 36086,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:15:59Z",
+    "sha1": "a5c259e00534dfd18200e15392d33a05719ce6bd",
+    "size": 146
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "598",
+        "relics": "Mildenhall Treasure,Peanut Necklace",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail HARD Stats +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mildenhall_Treasure_Peanut_Necklace.wiki",
+  "markdown_path": "markdown/Mildenhall_Treasure_Peanut_Necklace.md"
+}

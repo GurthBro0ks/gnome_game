@@ -1,0 +1,35 @@
+{
+  "pageid": 7961,
+  "ns": 0,
+  "title": "Monolith+Portonaccio Sarcophagus+The Queen's Necklace+Fasti+Baekje Kannon Statue+Barcode",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Monolith%2BPortonaccio_Sarcophagus%2BThe_Queen%27s_Necklace%2BFasti%2BBaekje_Kannon_Statue%2BBarcode",
+  "touched": "2025-02-22T17:25:54Z",
+  "length": 305,
+  "lastrevid": 33413,
+  "revision": {
+    "revid": 33413,
+    "parentid": 0,
+    "timestamp": "2025-02-22T01:51:55Z",
+    "sha1": "b42db0d669ac7b9760d5e3a3de3f155d99fae12f",
+    "size": 305
+  },
+  "categories": [
+    "Oblivion Power Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Monolith,Portonaccio Sarcophagus,The Queen's Necklace,Fasti,Baekje Kannon Statue,Barcode",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Per 10 Home Comfort, Snail Oblivion Power +24; Home Comfort: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Monolith_Portonaccio_Sarcophagus_The_Queen_s_Necklace_Fasti_Baekje_Kannon_Statue_Barcode.wiki",
+  "markdown_path": "markdown/Monolith_Portonaccio_Sarcophagus_The_Queen_s_Necklace_Fasti_Baekje_Kannon_Statue_Barcode.md"
+}

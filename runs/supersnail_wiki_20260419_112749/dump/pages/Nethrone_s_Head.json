@@ -1,0 +1,47 @@
+{
+  "pageid": 7073,
+  "ns": 0,
+  "title": "Nethrone's Head",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nethrone%27s_Head",
+  "touched": "2025-08-11T11:03:16Z",
+  "length": 824,
+  "lastrevid": 38765,
+  "revision": {
+    "revid": 38765,
+    "parentid": 29510,
+    "timestamp": "2025-08-11T11:03:16Z",
+    "sha1": "a7b26ae3f8c8d446b98e8a68ee763b397c1def88",
+    "size": 824
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Nethrone's Head",
+        "class_id": "20255",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This skull, adorned with the pharaoh's crown, comes from Nethrone, one of the eight Great Demon Gods. With the power of death, he ruled the Kemetic Domain. But in a duel with a snail, he brought death upon himself, and his head was taken off as a souvenir.",
+        "fame": "18",
+        "art": "12",
+        "fth": "31",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Snail ATK +20<br>Per Demon God slain, Snail HP +100<br>Demon Gods Slain: 8/8",
+        "ss2": "Snail ATK +40<br>Per Demon God slain, Snail HP +200<br>Demon Gods Slain: 8/8",
+        "ss3": "Snail ATK +60<br>Per Demon God slain, Snail HP +300<br>Demon Gods Slain: 8/8",
+        "ss4": "Snail ATK +60<br>Per Demon God slain, Snail HP +300<br>Demon Gods Slain: 8/8",
+        "ss7": "Snail ATK +60<br>Per Demon God slain, Snail HP +300<br>Demon Gods Slain: 8/8<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nethrone_s_Head.wiki",
+  "markdown_path": "markdown/Nethrone_s_Head.md"
+}

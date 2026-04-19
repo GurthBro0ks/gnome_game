@@ -1,0 +1,33 @@
+{
+  "pageid": 6537,
+  "ns": 0,
+  "title": "EPR Paradox+Xi Ping Stele Script",
+  "fullurl": "https://supersnail.wiki.gg/wiki/EPR_Paradox%2BXi_Ping_Stele_Script",
+  "touched": "2025-08-11T10:40:34Z",
+  "length": 156,
+  "lastrevid": 37779,
+  "revision": {
+    "revid": 37779,
+    "parentid": 26778,
+    "timestamp": "2025-08-11T10:40:34Z",
+    "sha1": "94507419ebb0d656e53a58f8bd12a4d59d9c49db",
+    "size": 156
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "875",
+        "relics": "EPR Paradox,Xi Ping Stele Script",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Protomon Troop assist DMG + 560"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/EPR_Paradox_Xi_Ping_Stele_Script.wiki",
+  "markdown_path": "markdown/EPR_Paradox_Xi_Ping_Stele_Script.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 10908,
+  "ns": 0,
+  "title": "Roslin Certificate+Im Westen nichts Neues+Mysterious Relic+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Roslin_Certificate%2BIm_Westen_nichts_Neues%2BMysterious_Relic%2BMysterious_Relic",
+  "touched": "2025-08-11T11:05:30Z",
+  "length": 198,
+  "lastrevid": 38847,
+  "revision": {
+    "revid": 38847,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:05:14Z",
+    "sha1": "b93da693a02e30cee76e20cc0fd355d15351d932",
+    "size": 198
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "823",
+        "relics": "Roslin Certificate,Im Westen nichts Neues,Mysterious Relic,Mysterious Relic",
+        "rank": "orange",
+        "amount": "4",
+        "category": "self",
+        "description": "Resolver: W-tads extracted +45"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Roslin_Certificate_Im_Westen_nichts_Neues_Mysterious_Relic_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Roslin_Certificate_Im_Westen_nichts_Neues_Mysterious_Relic_Mysterious_Relic.md"
+}

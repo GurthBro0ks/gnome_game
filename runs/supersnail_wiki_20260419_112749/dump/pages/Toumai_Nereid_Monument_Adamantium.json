@@ -1,0 +1,35 @@
+{
+  "pageid": 7980,
+  "ns": 0,
+  "title": "Toumai+Nereid Monument+Adamantium",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Toumai%2BNereid_Monument%2BAdamantium",
+  "touched": "2025-03-23T18:33:27Z",
+  "length": 233,
+  "lastrevid": 33433,
+  "revision": {
+    "revid": 33433,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:30:46Z",
+    "sha1": "63fb819ab493121d28552fe33fda5f8389d79a55",
+    "size": 233
+  },
+  "categories": [
+    "ATK Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Toumai,Nereid Monument,Adamantium",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 100 eggs hatched, Snail ATK +16; Eggs hatched: 3,000/3,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Toumai_Nereid_Monument_Adamantium.wiki",
+  "markdown_path": "markdown/Toumai_Nereid_Monument_Adamantium.md"
+}

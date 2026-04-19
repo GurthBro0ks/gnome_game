@@ -1,0 +1,33 @@
+{
+  "pageid": 8513,
+  "ns": 0,
+  "title": "Teutonic Knight Emblem+Celtic Cross",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Teutonic_Knight_Emblem%2BCeltic_Cross",
+  "touched": "2025-06-20T00:14:32Z",
+  "length": 159,
+  "lastrevid": 36026,
+  "revision": {
+    "revid": 36026,
+    "parentid": 34397,
+    "timestamp": "2025-06-20T00:14:32Z",
+    "sha1": "d77e7c81c4d7ab7b579da22f5f8c42e2ff10f637",
+    "size": 159
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "615",
+        "relics": "Teutonic Knight Emblem,Celtic Cross",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Rebel Cabin, deployable robots +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Teutonic_Knight_Emblem_Celtic_Cross.wiki",
+  "markdown_path": "markdown/Teutonic_Knight_Emblem_Celtic_Cross.md"
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 3641,
+  "ns": 0,
+  "title": "Figaro Marriage+Mermaid Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Figaro_Marriage%2BMermaid_Statue",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 218,
+  "lastrevid": 18402,
+  "revision": {
+    "revid": 18402,
+    "parentid": 17759,
+    "timestamp": "2023-11-13T21:37:23Z",
+    "sha1": "166396e6b6a45c2f349eacbd7e0373f4f1b95cec",
+    "size": 218
+  },
+  "categories": [
+    "Minion",
+    "Minion ATK Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Figaro Marriage,Mermaid Statue",
+        "rank": "purple",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 30 Minions in battle: Troop ATK +24"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Figaro_Marriage_Mermaid_Statue.wiki",
+  "markdown_path": "markdown/Figaro_Marriage_Mermaid_Statue.md"
+}

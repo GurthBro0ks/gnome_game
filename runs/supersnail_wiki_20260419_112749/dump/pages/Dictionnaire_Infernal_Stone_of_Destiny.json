@@ -1,0 +1,33 @@
+{
+  "pageid": 6231,
+  "ns": 0,
+  "title": "Dictionnaire Infernal+Stone of Destiny",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dictionnaire_Infernal%2BStone_of_Destiny",
+  "touched": "2025-06-20T00:15:37Z",
+  "length": 205,
+  "lastrevid": 36070,
+  "revision": {
+    "revid": 36070,
+    "parentid": 24947,
+    "timestamp": "2025-06-20T00:15:37Z",
+    "sha1": "fb27b3928642abbd6a2594d6efb46c596592ebe5",
+    "size": 205
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "626",
+        "relics": "Dictionnaire Infernal,Stone of Destiny",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "When you receive Purple Spores from Catalysis: Gain +1 Spore Voucher by +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Dictionnaire_Infernal_Stone_of_Destiny.wiki",
+  "markdown_path": "markdown/Dictionnaire_Infernal_Stone_of_Destiny.md"
+}

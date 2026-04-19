@@ -1,0 +1,36 @@
+{
+  "pageid": 5250,
+  "ns": 0,
+  "title": "Constellations+Pearl Earring Girl+Hugo Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Constellations%2BPearl_Earring_Girl%2BHugo_Award",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 284,
+  "lastrevid": 31607,
+  "revision": {
+    "revid": 31607,
+    "parentid": 31606,
+    "timestamp": "2024-11-09T20:34:01Z",
+    "sha1": "2ed1f24531a911f3a880a3b30cbd632f2ea3d3df",
+    "size": 284
+  },
+  "categories": [
+    "DEF Boost",
+    "Enhanced by Quantum Amp LVL",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Constellations,Pearl Earring Girl,Hugo Award",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 5 Quantum Amp LVLs, Snail DEF +30; Quantum Amp LVL: 80/80"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Constellations_Pearl_Earring_Girl_Hugo_Award.wiki",
+  "markdown_path": "markdown/Constellations_Pearl_Earring_Girl_Hugo_Award.md"
+}

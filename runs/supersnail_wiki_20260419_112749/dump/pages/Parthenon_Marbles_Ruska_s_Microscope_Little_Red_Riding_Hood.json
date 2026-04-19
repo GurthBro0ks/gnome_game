@@ -1,0 +1,33 @@
+{
+  "pageid": 4240,
+  "ns": 0,
+  "title": "Parthenon Marbles+Ruska's Microscope+Little Red Riding Hood",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Parthenon_Marbles%2BRuska%27s_Microscope%2BLittle_Red_Riding_Hood",
+  "touched": "2025-06-19T23:54:22Z",
+  "length": 208,
+  "lastrevid": 35675,
+  "revision": {
+    "revid": 35675,
+    "parentid": 23484,
+    "timestamp": "2025-06-19T23:54:22Z",
+    "sha1": "f700dddebf86c39868264ca40306add1489ec9fb",
+    "size": 208
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "534",
+        "relics": "Parthenon Marbles,Ruska's Microscope,Little Red Riding Hood",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 8 Museum Promos, Snail DEF +8;Museum Promos: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Parthenon_Marbles_Ruska_s_Microscope_Little_Red_Riding_Hood.wiki",
+  "markdown_path": "markdown/Parthenon_Marbles_Ruska_s_Microscope_Little_Red_Riding_Hood.md"
+}

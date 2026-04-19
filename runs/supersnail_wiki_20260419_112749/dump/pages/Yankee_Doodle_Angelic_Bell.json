@@ -1,0 +1,33 @@
+{
+  "pageid": 9298,
+  "ns": 0,
+  "title": "Yankee Doodle+Angelic Bell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Yankee_Doodle%2BAngelic_Bell",
+  "touched": "2025-06-20T00:19:51Z",
+  "length": 169,
+  "lastrevid": 36193,
+  "revision": {
+    "revid": 36193,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:19:51Z",
+    "sha1": "2f958040403b3ce6f5938c219df4c0f94be57642",
+    "size": 169
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "594",
+        "relics": "Yankee Doodle,Angelic Bell",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Mutant Minions in battle: Troop HARD Stats +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Yankee_Doodle_Angelic_Bell.wiki",
+  "markdown_path": "markdown/Yankee_Doodle_Angelic_Bell.md"
+}

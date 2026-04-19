@@ -1,0 +1,35 @@
+{
+  "pageid": 5259,
+  "ns": 0,
+  "title": "Echo and Narcissus+Geneva Declaration+Cyrus Cylinder",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Echo_and_Narcissus%2BGeneva_Declaration%2BCyrus_Cylinder",
+  "touched": "2024-12-26T11:13:43Z",
+  "length": 252,
+  "lastrevid": 24934,
+  "revision": {
+    "revid": 24934,
+    "parentid": 24933,
+    "timestamp": "2024-04-06T23:49:15Z",
+    "sha1": "46a71a2a743dbd986ad52e982c9667734408eee6",
+    "size": 252
+  },
+  "categories": [
+    "Minion",
+    "Minion Element RES Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Echo and Narcissus,Geneva Declaration,Cyrus Cylinder",
+        "rank": "orange",
+        "amount": "3",
+        "category": "minion",
+        "description": "Per 60 Minions in battle: Troop ELMT RES +4"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Echo_and_Narcissus_Geneva_Declaration_Cyrus_Cylinder.wiki",
+  "markdown_path": "markdown/Echo_and_Narcissus_Geneva_Declaration_Cyrus_Cylinder.md"
+}

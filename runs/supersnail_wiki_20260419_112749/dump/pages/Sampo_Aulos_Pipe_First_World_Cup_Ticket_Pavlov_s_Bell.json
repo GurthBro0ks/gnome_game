@@ -1,0 +1,35 @@
+{
+  "pageid": 4575,
+  "ns": 0,
+  "title": "Sampo+Aulos Pipe+First World Cup Ticket+Pavlov's Bell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sampo%2BAulos_Pipe%2BFirst_World_Cup_Ticket%2BPavlov%27s_Bell",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 251,
+  "lastrevid": 18365,
+  "revision": {
+    "revid": 18365,
+    "parentid": 16706,
+    "timestamp": "2023-11-13T21:25:24Z",
+    "sha1": "a421e3b876ac9847acf7fb083428df5684cc875c",
+    "size": 251
+  },
+  "categories": [
+    "Dragon Minion HP Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Sampo,Aulos Pipe,First World Cup Ticket,Pavlov's Bell",
+        "rank": "blue",
+        "amount": "4",
+        "category": "minion",
+        "description": "Per 10 Dragon Minions in battle: Troop HP +70"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sampo_Aulos_Pipe_First_World_Cup_Ticket_Pavlov_s_Bell.wiki",
+  "markdown_path": "markdown/Sampo_Aulos_Pipe_First_World_Cup_Ticket_Pavlov_s_Bell.md"
+}

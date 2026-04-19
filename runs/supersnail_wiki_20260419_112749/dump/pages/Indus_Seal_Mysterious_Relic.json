@@ -1,0 +1,35 @@
+{
+  "pageid": 5318,
+  "ns": 0,
+  "title": "Indus Seal+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Indus_Seal%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 193,
+  "lastrevid": 19465,
+  "revision": {
+    "revid": 19465,
+    "parentid": 0,
+    "timestamp": "2023-11-20T23:48:44Z",
+    "sha1": "fbbb9600ec6d91920e14ecab3974da0193d9f194",
+    "size": 193
+  },
+  "categories": [
+    "Domain Cabin Output Boost",
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Indus Seal,Mysterious Relic",
+        "rank": "purple",
+        "amount": "2",
+        "category": "home",
+        "description": "Domain Cabin Output +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Indus_Seal_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Indus_Seal_Mysterious_Relic.md"
+}

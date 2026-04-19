@@ -1,0 +1,50 @@
+{
+  "pageid": 1700,
+  "ns": 0,
+  "title": "Nipkow Disk",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nipkow_Disk",
+  "touched": "2025-06-16T23:16:25Z",
+  "length": 790,
+  "lastrevid": 35104,
+  "revision": {
+    "revid": 35104,
+    "parentid": 23599,
+    "timestamp": "2025-06-16T23:16:25Z",
+    "sha1": "366b3800cfccd2b1fcfbd57d99d1ab9f97b73a68",
+    "size": 790
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Nipkow Disk",
+        "class_id": "22100",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "08-28",
+        "source": "Lottery Machine No.2 (0.26%), Wishing (0.14%)",
+        "description": "On Aug 28, 1884 AD, the German inventor Nipkow invented the Nipkow disk.<br>It is a thick disc with small holes. It works by breaking an image into small dots and converting optical signals from these dots into electrical signals. These signals are then sent to a receiver to produce an image. This technology enabled simple image transmission, paving the way for the invention of TV.",
+        "fame": "28",
+        "art": "22",
+        "fth": "35",
+        "civ": "24",
+        "tech": "45",
+        "ss1": "Snail DEF +10",
+        "ss2": "Snail DEF +20",
+        "ss3": "Snail DEF +30",
+        "ss4": "Snail DEF +50",
+        "ss7": "Snail DEF +50<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Compass skill I.png|50px]]Place in Exploration Compass: Snail DEF +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nipkow_Disk.wiki",
+  "markdown_path": "markdown/Nipkow_Disk.md"
+}

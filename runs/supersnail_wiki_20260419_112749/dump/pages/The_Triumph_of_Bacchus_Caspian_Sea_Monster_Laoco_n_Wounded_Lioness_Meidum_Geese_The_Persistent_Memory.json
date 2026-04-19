@@ -1,0 +1,36 @@
+{
+  "pageid": 8275,
+  "ns": 0,
+  "title": "The Triumph of Bacchus+Caspian Sea Monster+Laocoön+Wounded Lioness+Meidum Geese+The Persistent Memory",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Triumph_of_Bacchus%2BCaspian_Sea_Monster%2BLaoco%C3%B6n%2BWounded_Lioness%2BMeidum_Geese%2BThe_Persistent_Memory",
+  "touched": "2025-06-16T20:58:50Z",
+  "length": 308,
+  "lastrevid": 34128,
+  "revision": {
+    "revid": 34128,
+    "parentid": 34127,
+    "timestamp": "2025-04-22T03:02:43Z",
+    "sha1": "f83c495630ff83173ae922af0e32ae94b9d06860",
+    "size": 308
+  },
+  "categories": [
+    "Minion",
+    "Minion ATK Boost",
+    "Minion Skin Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Triumph of Bacchus,Caspian Sea Monster,Laocoön,Wounded Lioness,Meidum Geese,The Persistent Memory",
+        "rank": "orange",
+        "amount": "6",
+        "category": "minion",
+        "description": "All minion skins ATK +120%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Triumph_of_Bacchus_Caspian_Sea_Monster_Laoco_n_Wounded_Lioness_Meidum_Geese_The_Persistent_Memory.wiki",
+  "markdown_path": "markdown/The_Triumph_of_Bacchus_Caspian_Sea_Monster_Laoco_n_Wounded_Lioness_Meidum_Geese_The_Persistent_Memory.md"
+}

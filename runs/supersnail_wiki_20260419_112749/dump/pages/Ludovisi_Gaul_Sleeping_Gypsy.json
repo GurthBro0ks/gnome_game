@@ -1,0 +1,34 @@
+{
+  "pageid": 3308,
+  "ns": 0,
+  "title": "Ludovisi Gaul+Sleeping Gypsy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ludovisi_Gaul%2BSleeping_Gypsy",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 173,
+  "lastrevid": 12045,
+  "revision": {
+    "revid": 12045,
+    "parentid": 0,
+    "timestamp": "2023-09-13T08:02:20Z",
+    "sha1": "56ac0fe53f9011c0699ab01c5b3d373063a98174",
+    "size": 173
+  },
+  "categories": [
+    "Other"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Ludovisi Gaul,Sleeping Gypsy",
+        "rank": "blue",
+        "amount": "2",
+        "category": "other",
+        "description": "In any Realm, INTEL gained +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ludovisi_Gaul_Sleeping_Gypsy.wiki",
+  "markdown_path": "markdown/Ludovisi_Gaul_Sleeping_Gypsy.md"
+}

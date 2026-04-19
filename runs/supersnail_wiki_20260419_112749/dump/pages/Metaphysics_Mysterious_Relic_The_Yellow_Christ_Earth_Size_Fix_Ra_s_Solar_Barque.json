@@ -1,0 +1,36 @@
+{
+  "pageid": 6336,
+  "ns": 0,
+  "title": "Metaphysics+Mysterious Relic+The Yellow Christ+Earth Size Fix+Ra's Solar Barque",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Metaphysics%2BMysterious_Relic%2BThe_Yellow_Christ%2BEarth_Size_Fix%2BRa%27s_Solar_Barque",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 287,
+  "lastrevid": 27044,
+  "revision": {
+    "revid": 27044,
+    "parentid": 27043,
+    "timestamp": "2024-05-19T22:04:46Z",
+    "sha1": "46606128b606b461fb46c63347cb9c2583a2e9f0",
+    "size": 287
+  },
+  "categories": [
+    "Minion",
+    "Minion HARD Boost",
+    "Minion Skin Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Metaphysics,Mysterious Relic,The Yellow Christ,Earth Size Fix,Ra's Solar Barque",
+        "rank": "orange",
+        "amount": "5",
+        "category": "minion",
+        "description": "Minion Skin HARD Stats +30%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Metaphysics_Mysterious_Relic_The_Yellow_Christ_Earth_Size_Fix_Ra_s_Solar_Barque.wiki",
+  "markdown_path": "markdown/Metaphysics_Mysterious_Relic_The_Yellow_Christ_Earth_Size_Fix_Ra_s_Solar_Barque.md"
+}

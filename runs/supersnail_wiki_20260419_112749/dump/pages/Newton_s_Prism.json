@@ -1,0 +1,52 @@
+{
+  "pageid": 4378,
+  "ns": 0,
+  "title": "Newton's Prism",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Newton%27s_Prism",
+  "touched": "2025-06-16T23:16:29Z",
+  "length": 1777,
+  "lastrevid": 35106,
+  "revision": {
+    "revid": 35106,
+    "parentid": 24453,
+    "timestamp": "2025-06-16T23:16:29Z",
+    "sha1": "f72f8b8d5911f78faec7dae10e57fb96a2ea2e03",
+    "size": 1777
+  },
+  "categories": [
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Newton's Prism",
+        "class_id": "22193",
+        "rank": "AA",
+        "affct": "TECH",
+        "birthday": "03-21",
+        "source": "Lottery Machine No.2 (0.12%), Wishing (0.03%)",
+        "description": "On Mar 21, 1666 AD, Newton successfully carried out his famous solar light dispersion experiment using this prism.<br>This prism's owner was the famous physicist Newton. This triangular prism is an optical instrument made of transparent materials in a triangular cross-section, which can disperse the complex colors of light passing through it. Light enters from one side and exits from another side, and the exiting light is deflected to the third side. Since a single medium has different refractiv …",
+        "fame": "44",
+        "art": "35",
+        "fth": "43",
+        "civ": "36",
+        "tech": "70",
+        "ss1": "Demon Minion DEF +2%<br>In the Demon God Rocket Cabin:<br>> Curvature Engine Base Effect +16%",
+        "ss2": "Demon Minion DEF +3%<br>In the Demon God Rocket Cabin:<br>> Curvature Engine Base Effect +24%",
+        "ss3": "Demon Minion DEF +4%<br>In the Demon God Rocket Cabin:<br>> Curvature Engine Base Effect +32%",
+        "ss4": "Demon Minion DEF +6%<br>In the Demon God Rocket Cabin:<br>> Curvature Engine Base Effect +48%",
+        "ss5": "Demon Minion DEF +8%<br>In the Demon God Rocket Cabin:<br>> Curvature Engine Base Effect +64%",
+        "ss7": "Demon Minion DEF +8%<br>In the Demon God Rocket Cabin:<br>> Curvature Engine Base Effect +64%<br>In the Demon God Rocket Cabin:<br>> Curvature Engine Base Effect +56% (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Food Drops +3%",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x INTEL Drops +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Newton_s_Prism.wiki",
+  "markdown_path": "markdown/Newton_s_Prism.md"
+}

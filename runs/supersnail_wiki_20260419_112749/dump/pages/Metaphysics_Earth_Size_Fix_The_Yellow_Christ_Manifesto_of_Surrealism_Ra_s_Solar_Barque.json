@@ -1,0 +1,33 @@
+{
+  "pageid": 10911,
+  "ns": 0,
+  "title": "Metaphysics+Earth Size Fix+The Yellow Christ+Manifesto of Surrealism+Ra's Solar Barque",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Metaphysics%2BEarth_Size_Fix%2BThe_Yellow_Christ%2BManifesto_of_Surrealism%2BRa%27s_Solar_Barque",
+  "touched": "2025-08-11T11:10:07Z",
+  "length": 212,
+  "lastrevid": 38852,
+  "revision": {
+    "revid": 38852,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:05:19Z",
+    "sha1": "f546da23b6b0d7b5903e5c9fa512e347c98df139",
+    "size": 212
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "852",
+        "relics": "Metaphysics,Earth Size Fix,The Yellow Christ,Manifesto of Surrealism,Ra's Solar Barque",
+        "rank": "orange",
+        "amount": "5",
+        "category": "self",
+        "description": "All Minion Skins, HARD Stats +30%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Metaphysics_Earth_Size_Fix_The_Yellow_Christ_Manifesto_of_Surrealism_Ra_s_Solar_Barque.wiki",
+  "markdown_path": "markdown/Metaphysics_Earth_Size_Fix_The_Yellow_Christ_Manifesto_of_Surrealism_Ra_s_Solar_Barque.md"
+}

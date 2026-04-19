@@ -1,0 +1,47 @@
+{
+  "pageid": 2830,
+  "ns": 0,
+  "title": "Almagest",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Almagest",
+  "touched": "2025-08-11T10:37:26Z",
+  "length": 634,
+  "lastrevid": 37653,
+  "revision": {
+    "revid": 37653,
+    "parentid": 21873,
+    "timestamp": "2025-08-11T10:37:26Z",
+    "sha1": "c12aabca040d57de8b07926126f619c7de982423",
+    "size": 634
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Almagest",
+        "class_id": "20371",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Almagest is the work of a Greek astronomer named Ptolemy. It contains two fields of science, astronomy and mathematics. For centuries, it has had a major impact on astronomers in the world.",
+        "fame": "14",
+        "art": "17",
+        "fth": "15",
+        "civ": "13",
+        "tech": "31",
+        "ss1": "Snail DEF +10<br>Quantum Amp upgrade B-tad Cost -0.6%",
+        "ss2": "Snail DEF +20<br>Quantum Amp upgrade B-tad Cost -1.2%",
+        "ss3": "Snail DEF +30<br>Quantum Amp upgrade B-tad Cost -1.8%",
+        "ss4": "Snail DEF +30<br>Quantum Amp upgrade B-tad Cost -1.8%",
+        "ss7": "Snail DEF +30<br>Quantum Amp upgrade B-tad Cost -1.8%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Almagest.wiki",
+  "markdown_path": "markdown/Almagest.md"
+}

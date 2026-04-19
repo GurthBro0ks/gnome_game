@@ -1,0 +1,50 @@
+{
+  "pageid": 8734,
+  "ns": 0,
+  "title": "Karrier AC",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Karrier_AC",
+  "touched": "2025-06-16T20:57:14Z",
+  "length": 1095,
+  "lastrevid": 34705,
+  "revision": {
+    "revid": 34705,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:57:14Z",
+    "sha1": "0229be61a94993baa7d7e8f5530f9da27c8a048b",
+    "size": 1095
+  },
+  "categories": [
+    "Blue FAME Relics",
+    "Blue Relics",
+    "FAME Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Karrier AC",
+        "class_id": "22408",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "04-16",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Apr 16, 1906 AD, Willis Carrier successfully invented the modern air conditioning system.<br>Carrier was asked to solve a printing problem at a printing plant. After research, he found that unstable air humidity and temperature made it difficult to control printing effects. Later, an experience waiting for a train on a foggy day gave him the inspiration to invent a device that used a cold water pipeline to cool the air, causing water vapor to condense and thus controlling both the environment …",
+        "fame": "44",
+        "art": "24",
+        "fth": "22",
+        "civ": "29",
+        "tech": "35",
+        "ss1": "Rebel Cabin Output +1%",
+        "ss2": "Rebel Cabin Output +2%",
+        "ss3": "Rebel Cabin Output +3%",
+        "ss4": "Rebel Cabin Output +5%",
+        "ss7": "Rebel Cabin Output +5%<br>Rebel Cabin Output +5% (Awakened)",
+        "skill1": "[[File:Surfclam skill I.png|50px]]Place in Surf Clam Biozilla: In Species War, Troop Wind DMG +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Karrier_AC.wiki",
+  "markdown_path": "markdown/Karrier_AC.md"
+}

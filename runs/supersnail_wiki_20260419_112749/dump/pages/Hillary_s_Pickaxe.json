@@ -1,0 +1,55 @@
+{
+  "pageid": 2049,
+  "ns": 0,
+  "title": "Hillary's Pickaxe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hillary%27s_Pickaxe",
+  "touched": "2024-09-06T09:58:25Z",
+  "length": 1433,
+  "lastrevid": 17370,
+  "revision": {
+    "revid": 17370,
+    "parentid": 16603,
+    "timestamp": "2023-11-10T11:04:51Z",
+    "sha1": "19379853f51adfc46659a23146fb12f4bf2effab",
+    "size": 1433
+  },
+  "categories": [
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Boost",
+    "CIV Relics",
+    "Exploration Compass Boost",
+    "HP Boost",
+    "RUSH Boost",
+    "Relic Boost",
+    "Relics",
+    "Wonder Fungus Output"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Hillary's Pickaxe",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "07-30",
+        "source": "Lottery Machine (0.07%), Wishing (2.1%), Novice Scrolls (1%)",
+        "description": "On Jul 30, 1953, this pickaxe became a world legend.\n\nIt's owner, Hillary, used it to climb Mt. Everest and became the first human to reach the top of the world! This legendary pick also became famous as it has conquered the highest mountain in the world. Since then, it has created many legends with Hillary. \n\n[Achievements of the Pick]\n\nClimbed 11 Himalayan mountains. Went on an expedition across Antarctica and reached the source of the Yangtze River. Climbed the 8463-meter-high Mt. Makalu.",
+        "fame": "27",
+        "art": "28",
+        "fth": "32",
+        "civ": "48",
+        "tech": "19",
+        "ss1": "Per 400 Relic Points, Snail HP +30<br>Relic Points: 2,000/2,000",
+        "ss2": "Per 400 Relic Points, Snail HP +30<br>Relic Points: 4,000/4,000",
+        "ss3": "Per 400 Relic Points, Snail HP +30<br>Relic Points: 6,000/6,000",
+        "ss4": "Per 400 Relic Points, Snail HP +30<br>Relic Points: 10,000/10,000",
+        "ss7": "Per 400 Relic Points, Snail HP +30<br>Relic Points: 10,000/10,000<br>Snail HP +500 (Awakened)",
+        "skill1": "[[File:Compass skill I.png|50px]] Place in Exploration Compass: This Relic's CIV +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hillary_s_Pickaxe.wiki",
+  "markdown_path": "markdown/Hillary_s_Pickaxe.md"
+}

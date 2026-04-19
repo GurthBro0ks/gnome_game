@@ -1,0 +1,34 @@
+{
+  "pageid": 3788,
+  "ns": 0,
+  "title": "Time-Travel Box+Boat of St. Peter+Travels of Marco Polo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Time-Travel_Box%2BBoat_of_St._Peter%2BTravels_of_Marco_Polo",
+  "touched": "2024-12-02T03:00:37Z",
+  "length": 224,
+  "lastrevid": 13686,
+  "revision": {
+    "revid": 13686,
+    "parentid": 0,
+    "timestamp": "2023-10-02T09:55:31Z",
+    "sha1": "c37fad616a86b1b1df10ab65d1100ad10794a0b4",
+    "size": 224
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Time-Travel Box,Boat of St. Peter,Travels of Marco Polo",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per Incense used, Snail ATK +12<br>Incense Used: 20/20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Time-Travel_Box_Boat_of_St._Peter_Travels_of_Marco_Polo.wiki",
+  "markdown_path": "markdown/Time-Travel_Box_Boat_of_St._Peter_Travels_of_Marco_Polo.md"
+}

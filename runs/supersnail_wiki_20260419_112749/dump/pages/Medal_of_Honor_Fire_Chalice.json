@@ -1,0 +1,33 @@
+{
+  "pageid": 3714,
+  "ns": 0,
+  "title": "Medal of Honor+Fire Chalice",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Medal_of_Honor%2BFire_Chalice",
+  "touched": "2025-08-11T11:05:24Z",
+  "length": 160,
+  "lastrevid": 38855,
+  "revision": {
+    "revid": 38855,
+    "parentid": 13610,
+    "timestamp": "2025-08-11T11:05:24Z",
+    "sha1": "befe0dc01e7ef97876478f7637a0f545689ef0d2",
+    "size": 160
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "225",
+        "relics": "Medal of Honor,Fire Chalice",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Orange+ Gear equipped, Snail HP +140"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Medal_of_Honor_Fire_Chalice.wiki",
+  "markdown_path": "markdown/Medal_of_Honor_Fire_Chalice.md"
+}

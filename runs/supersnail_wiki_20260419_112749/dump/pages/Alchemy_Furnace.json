@@ -1,0 +1,33 @@
+{
+  "pageid": 891,
+  "ns": 0,
+  "title": "Alchemy Furnace",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Alchemy_Furnace",
+  "touched": "2025-10-07T13:24:56Z",
+  "length": 11761,
+  "lastrevid": 40677,
+  "revision": {
+    "revid": 40677,
+    "parentid": 40676,
+    "timestamp": "2025-10-04T09:58:33Z",
+    "sha1": "81542cfbe633805c19267249b143a5b1000edd72",
+    "size": 11761
+  },
+  "categories": [
+    "Alchemy Furnace",
+    "Events"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Eye of Horus"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Alchemy_Furnace.wiki",
+  "markdown_path": "markdown/Alchemy_Furnace.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 3767,
+  "ns": 0,
+  "title": "Shahnameh+The Art of War",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Shahnameh%2BThe_Art_of_War",
+  "touched": "2025-06-20T00:05:32Z",
+  "length": 156,
+  "lastrevid": 35877,
+  "revision": {
+    "revid": 35877,
+    "parentid": 18430,
+    "timestamp": "2025-06-20T00:05:32Z",
+    "sha1": "dd9571781879e598d4f8324a6269af17662b776e",
+    "size": 156
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "164",
+        "relics": "Shahnameh,The Art of War",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop HP +630"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Shahnameh_The_Art_of_War.wiki",
+  "markdown_path": "markdown/Shahnameh_The_Art_of_War.md"
+}

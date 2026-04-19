@@ -1,0 +1,47 @@
+{
+  "pageid": 11144,
+  "ns": 0,
+  "title": "Clone Analysis Report",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Clone_Analysis_Report",
+  "touched": "2025-08-11T11:14:06Z",
+  "length": 1121,
+  "lastrevid": 39234,
+  "revision": {
+    "revid": 39234,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:14:06Z",
+    "sha1": "78c82207856f790a6d0094edc74aa38ce030aba7",
+    "size": 1121
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Clone Analysis Report",
+        "class_id": "20827",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "Stored within this uniquely designed terminal are research data recorded by the Microcosm civilization. It contains detailed information about various clones and precise experimental procedures, making it a treasury of cloning technology.",
+        "fame": "14",
+        "art": "13",
+        "fth": "11",
+        "civ": "16",
+        "tech": "33",
+        "ss1": "Per 5 Incubator Files fully restored, Snail HP +20<br>Per 5 Incubator Files fully restored, Snail RUSH +2<br>Files fully restored: 100/100",
+        "ss2": "Per 5 Incubator Files fully restored, Snail HP +40<br>Per 5 Incubator Files fully restored, Snail RUSH +4<br>Files fully restored: 100/100",
+        "ss3": "Per 5 Incubator Files fully restored, Snail HP +60<br>Per 5 Incubator Files fully restored, Snail RUSH +6<br>Files fully restored: 100/100",
+        "ss4": "Per 5 Incubator Files fully restored, Snail HP +60<br>Per 5 Incubator Files fully restored, Snail RUSH +6<br>Files fully restored: 100/100",
+        "ss7": "Per 5 Incubator Files fully restored, Snail HP +60<br>Per 5 Incubator Files fully restored, Snail RUSH +6<br>Files fully restored: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Clone_Analysis_Report.wiki",
+  "markdown_path": "markdown/Clone_Analysis_Report.md"
+}

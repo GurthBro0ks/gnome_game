@@ -1,0 +1,51 @@
+{
+  "pageid": 8459,
+  "ns": 0,
+  "title": "Phase-contrast Microscope",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Phase-contrast_Microscope",
+  "touched": "2025-06-20T00:13:40Z",
+  "length": 1296,
+  "lastrevid": 35993,
+  "revision": {
+    "revid": 35993,
+    "parentid": 34457,
+    "timestamp": "2025-06-20T00:13:40Z",
+    "sha1": "39facfeea64423d675a896feb0762c7b997c0739",
+    "size": 1296
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Pages with broken file links",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Phase-contrast Microscope",
+        "class_id": "22495",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "03-26",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Mar 26, 1935 AD, Dutch scientist Frits Zernike invented the Phase-contrast Microscope.<br>Phase contrast refers to the change in phase and the resulting contrast when the same light passes through media with different refractive indices. The phase refers to the position where the light wave arrives at the same time. Generally, because the phase contrast of the object under test is too small to be discerned by the naked eye, it can only be distinguished after becoming an amplitude difference.  …",
+        "fame": "30",
+        "art": "22",
+        "fth": "33",
+        "civ": "24",
+        "tech": "45",
+        "ss1": "Per devotee appointed, Snail DEF +1<br>Devotee Appointed: 50/50",
+        "ss2": "Per devotee appointed, Snail DEF +2<br>Devotee Appointed: 50/50",
+        "ss3": "Per devotee appointed, Snail DEF +3<br>Devotee Appointed: 50/50",
+        "ss4": "Per devotee appointed, Snail DEF +5<br>Devotee Appointed: 50/50",
+        "ss7": "Per devotee appointed, Snail DEF +5<br>Devotee Appointed: 50/50<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Quantumamp  skill I.png|50px]]Place in a Quantum Amp: Quantum Amp production +2.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Phase-contrast_Microscope.wiki",
+  "markdown_path": "markdown/Phase-contrast_Microscope.md"
+}

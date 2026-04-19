@@ -1,0 +1,36 @@
+{
+  "pageid": 6734,
+  "ns": 0,
+  "title": "Gilded Buddha+Ashoka Tower",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gilded_Buddha%2BAshoka_Tower",
+  "touched": "2024-12-02T03:00:54Z",
+  "length": 287,
+  "lastrevid": 31647,
+  "revision": {
+    "revid": 31647,
+    "parentid": 31646,
+    "timestamp": "2024-11-10T02:52:22Z",
+    "sha1": "01703fb28fad593fae6e00dbcb9aa08244f9ddb3",
+    "size": 287
+  },
+  "categories": [
+    "DEF Boost",
+    "Enhanced by Distinct Souls Offered",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Gilded Buddha,Ashoka Tower",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 3 kinds of souls offered, Snail DEF +7; Distinct Souls Offered: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gilded_Buddha_Ashoka_Tower.wiki",
+  "markdown_path": "markdown/Gilded_Buddha_Ashoka_Tower.md"
+}

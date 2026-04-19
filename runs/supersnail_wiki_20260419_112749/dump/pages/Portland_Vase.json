@@ -1,0 +1,57 @@
+{
+  "pageid": 765,
+  "ns": 0,
+  "title": "Portland Vase",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Portland_Vase",
+  "touched": "2024-09-06T09:56:26Z",
+  "length": 1311,
+  "lastrevid": 21722,
+  "revision": {
+    "revid": 21722,
+    "parentid": 17378,
+    "timestamp": "2024-01-12T02:31:01Z",
+    "sha1": "9d59c45d0cf453eb2f924c5a7728b0702f479255",
+    "size": 1311
+  },
+  "categories": [
+    "ART Relics",
+    "ATK Boost",
+    "Blue ART Relics",
+    "Blue Relics",
+    "Fungus Farm Output Boost",
+    "HP Boost",
+    "Hellas Exploration Boost",
+    "Hellas Museum Boost",
+    "Koryeon Snail Boost",
+    "Power Boost",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Portland Vase",
+        "rank": "Blue",
+        "affct": "ART",
+        "birthday": "12-04",
+        "source": "Lottery Machine (0.03%), Wishing (1.2%), Fungus Chest (2%)",
+        "description": "On Dec 4, 1845, a drunk man broke the glass cover of the Portland Vase by mistake. The Portland Vase is painted in deep blue color and white enamel, like the sea with rolling waves. There are also 7 life-like Roman gods engraved on it, such as the Cupid. How to restore this double-glazed vase? First, the blue bottle is blown into shape before it's immersed into the white glass liquid. Then the two are blown into one. After the bottle is formed, carvings will be made on the outer impermeable glas …",
+        "fame": "26",
+        "art": "48",
+        "fth": "31",
+        "civ": "27",
+        "tech": "22",
+        "ss1": "Fungus Farm Max Cap +2%",
+        "ss2": "Fungus Farm Max Cap +4%",
+        "ss3": "Fungus Farm Max Cap +6%",
+        "ss4": "Fungus Farm Max Cap +10%",
+        "ss7": "Fungus Farm Max Cap +10%<br>Fungus Farm Max Cap +10% (Awakened)",
+        "skill1": "[[File:Hellas skill I.png|50px]] Place in Hellenic Museum: In Hellas, Snail ATK +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Portland_Vase.wiki",
+  "markdown_path": "markdown/Portland_Vase.md"
+}

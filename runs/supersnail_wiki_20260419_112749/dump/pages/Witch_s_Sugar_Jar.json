@@ -1,0 +1,47 @@
+{
+  "pageid": 4011,
+  "ns": 0,
+  "title": "Witch's Sugar Jar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Witch%27s_Sugar_Jar",
+  "touched": "2025-08-11T11:14:54Z",
+  "length": 925,
+  "lastrevid": 39270,
+  "revision": {
+    "revid": 39270,
+    "parentid": 30852,
+    "timestamp": "2025-08-11T11:14:54Z",
+    "sha1": "4c1ed7881a37dee908e71ea74023d0b0b09934d6",
+    "size": 925
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Witch's Sugar Jar",
+        "class_id": "20163",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "A special jar used by witches to hold candies, and those who steal candies from it will be cursed. No matter what kind of food they eat, they can only taste sweetness.",
+        "fame": "14",
+        "art": "30",
+        "fth": "15",
+        "civ": "16",
+        "tech": "15",
+        "ss1": "In explorations, 2x Food Drops +0.4%<br>Per type of food collected, Snail HP +10<br>Types of Food Collected: 60/60",
+        "ss2": "In explorations, 2x Food Drops +0.8%<br>Per type of food collected, Snail HP +20<br>Types of Food Collected: 60/60",
+        "ss3": "In explorations, 2x Food Drops +1.2%<br>Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60",
+        "ss4": "In explorations, 2x Food Drops +1.2%<br>Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60",
+        "ss7": "In explorations, 2x Food Drops +1.2%<br>Per type of food collected, Snail HP +30<br>Types of Food Collected: 60/60<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Witch_s_Sugar_Jar.wiki",
+  "markdown_path": "markdown/Witch_s_Sugar_Jar.md"
+}

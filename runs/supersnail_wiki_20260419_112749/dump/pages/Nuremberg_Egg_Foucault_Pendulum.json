@@ -1,0 +1,33 @@
+{
+  "pageid": 4985,
+  "ns": 0,
+  "title": "Nuremberg Egg+Foucault Pendulum",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Nuremberg_Egg%2BFoucault_Pendulum",
+  "touched": "2025-06-20T00:01:04Z",
+  "length": 193,
+  "lastrevid": 35773,
+  "revision": {
+    "revid": 35773,
+    "parentid": 18555,
+    "timestamp": "2025-06-20T00:01:04Z",
+    "sha1": "c730b7ed5109c23d2333e1366edda81083c60f5e",
+    "size": 193
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "375",
+        "relics": "Nuremberg Egg,Foucault Pendulum",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 30 Time Chests opened, Snail HP +60;Time Chests Opened: 1500/1500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Nuremberg_Egg_Foucault_Pendulum.wiki",
+  "markdown_path": "markdown/Nuremberg_Egg_Foucault_Pendulum.md"
+}

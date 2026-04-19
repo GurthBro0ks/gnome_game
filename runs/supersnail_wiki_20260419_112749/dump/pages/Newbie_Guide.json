@@ -1,0 +1,23 @@
+{
+  "pageid": 1488,
+  "ns": 0,
+  "title": "Newbie Guide",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Newbie_Guide",
+  "touched": "2025-10-14T15:32:05Z",
+  "length": 11508,
+  "lastrevid": 41313,
+  "revision": {
+    "revid": 41313,
+    "parentid": 40573,
+    "timestamp": "2025-10-14T15:32:05Z",
+    "sha1": "97db6c5ed82389d163a6b02dca3d5cdbdce31342",
+    "size": 11508
+  },
+  "categories": [
+    "Guides"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Newbie_Guide.wiki",
+  "markdown_path": "markdown/Newbie_Guide.md"
+}

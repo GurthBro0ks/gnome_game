@@ -1,0 +1,47 @@
+{
+  "pageid": 5812,
+  "ns": 0,
+  "title": "Windbreak Bead",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Windbreak_Bead",
+  "touched": "2025-08-11T10:32:05Z",
+  "length": 726,
+  "lastrevid": 37413,
+  "revision": {
+    "revid": 37413,
+    "parentid": 29562,
+    "timestamp": "2025-08-11T10:32:05Z",
+    "sha1": "cf240065a81764cb5ce5c0192a2363ae2a76f055",
+    "size": 726
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Windbreak Bead",
+        "class_id": "20243",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "This bead was one of Lingji Bodhisattva's treasures. It can suppress any wind no matter how fierce it is. It can also convert air currents into mana, increasing the owner's power while compensating for consumption!",
+        "fame": "13",
+        "art": "17",
+        "fth": "29",
+        "civ": "18",
+        "tech": "13",
+        "ss1": "Per 3 Traveler Monks stages, Snail HP +10<br>Stages Passed: 81/81",
+        "ss2": "Per 3 Traveler Monks stages, Snail HP +20<br>Stages Passed: 81/81",
+        "ss3": "Per 3 Traveler Monks stages, Snail HP +30<br>Stages Passed: 81/81",
+        "ss4": "Per 3 Traveler Monks stages, Snail HP +30<br>Stages Passed: 81/81",
+        "ss7": "Per 3 Traveler Monks stages, Snail HP +30<br>Stages Passed: 81/81<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Windbreak_Bead.wiki",
+  "markdown_path": "markdown/Windbreak_Bead.md"
+}

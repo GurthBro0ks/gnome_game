@@ -1,0 +1,36 @@
+{
+  "pageid": 3680,
+  "ns": 0,
+  "title": "Socrates' Poison+Chinchorro Mummy+Edict of Milan+Keyhole Satellite+Peacock Suit+Galileo's Ball",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Socrates%27_Poison%2BChinchorro_Mummy%2BEdict_of_Milan%2BKeyhole_Satellite%2BPeacock_Suit%2BGalileo%27s_Ball",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 335,
+  "lastrevid": 18622,
+  "revision": {
+    "revid": 18622,
+    "parentid": 18309,
+    "timestamp": "2023-11-14T01:29:33Z",
+    "sha1": "1da4deb61dd3cf90b2f3ee78962d8c1080bd5b30",
+    "size": 335
+  },
+  "categories": [
+    "ATK Boost",
+    "Enhanced by DNA Strength",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Socrates' Poison,Chinchorro Mummy,Edict of Milan,Keyhole Satellite,Peacock Suit,Galileo's Ball",
+        "rank": "purple",
+        "amount": "6",
+        "category": "self",
+        "description": "Per 500 DNA Strength, Snail ATK +4<br>DNA Strength: 25,000/25,000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Socrates_Poison_Chinchorro_Mummy_Edict_of_Milan_Keyhole_Satellite_Peacock_Suit_Galileo_s_Ball.wiki",
+  "markdown_path": "markdown/Socrates_Poison_Chinchorro_Mummy_Edict_of_Milan_Keyhole_Satellite_Peacock_Suit_Galileo_s_Ball.md"
+}

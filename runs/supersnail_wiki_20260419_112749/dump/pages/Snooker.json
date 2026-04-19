@@ -1,0 +1,29 @@
+{
+  "pageid": 3064,
+  "ns": 0,
+  "title": "Snooker",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Snooker",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 332,
+  "lastrevid": 12434,
+  "revision": {
+    "revid": 12434,
+    "parentid": 11654,
+    "timestamp": "2023-09-15T15:30:54Z",
+    "sha1": "5a51e8e33c5b374de7c4851011e39982e1ca263a",
+    "size": 332
+  },
+  "categories": [
+    "Britland",
+    "CIV Shells",
+    "DEF Boost",
+    "HP Boost",
+    "Mutant Form",
+    "Shells",
+    "Water DMG Boost"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Snooker.wiki",
+  "markdown_path": "markdown/Snooker.md"
+}

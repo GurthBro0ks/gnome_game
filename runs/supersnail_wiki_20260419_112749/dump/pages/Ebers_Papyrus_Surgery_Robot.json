@@ -1,0 +1,33 @@
+{
+  "pageid": 10391,
+  "ns": 0,
+  "title": "Ebers Papyrus+Surgery Robot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ebers_Papyrus%2BSurgery_Robot",
+  "touched": "2025-08-11T11:17:41Z",
+  "length": 163,
+  "lastrevid": 38150,
+  "revision": {
+    "revid": 38150,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:49:08Z",
+    "sha1": "fe6cbc0d85300b7c462092077c9c8491ea9beb4e",
+    "size": 163
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "522",
+        "relics": "Ebers Papyrus,Surgery Robot",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 60 Minions in battle: Troop Wind DMG +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ebers_Papyrus_Surgery_Robot.wiki",
+  "markdown_path": "markdown/Ebers_Papyrus_Surgery_Robot.md"
+}

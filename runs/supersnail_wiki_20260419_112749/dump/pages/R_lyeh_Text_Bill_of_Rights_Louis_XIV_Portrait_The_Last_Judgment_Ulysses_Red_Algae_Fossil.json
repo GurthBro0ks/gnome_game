@@ -1,0 +1,33 @@
+{
+  "pageid": 8913,
+  "ns": 0,
+  "title": "R'lyeh Text+Bill of Rights+Louis XIV Portrait+The Last Judgment+Ulysses+Red Algae Fossil",
+  "fullurl": "https://supersnail.wiki.gg/wiki/R%27lyeh_Text%2BBill_of_Rights%2BLouis_XIV_Portrait%2BThe_Last_Judgment%2BUlysses%2BRed_Algae_Fossil",
+  "touched": "2025-07-02T09:38:56Z",
+  "length": 201,
+  "lastrevid": 34984,
+  "revision": {
+    "revid": 34984,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:11:48Z",
+    "sha1": "cde3682aa0eb3e3e5217a21e227450a1db532a01",
+    "size": 201
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "563",
+        "relics": "R'lyeh Text,Bill of Rights,Louis XIV Portrait,The Last Judgment,Ulysses,Red Algae Fossil",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Snail Leadership +12"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/R_lyeh_Text_Bill_of_Rights_Louis_XIV_Portrait_The_Last_Judgment_Ulysses_Red_Algae_Fossil.wiki",
+  "markdown_path": "markdown/R_lyeh_Text_Bill_of_Rights_Louis_XIV_Portrait_The_Last_Judgment_Ulysses_Red_Algae_Fossil.md"
+}

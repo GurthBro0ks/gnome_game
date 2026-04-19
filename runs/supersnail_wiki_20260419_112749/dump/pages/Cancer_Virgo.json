@@ -1,0 +1,35 @@
+{
+  "pageid": 4309,
+  "ns": 0,
+  "title": "Cancer+Virgo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cancer%2BVirgo",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 163,
+  "lastrevid": 18599,
+  "revision": {
+    "revid": 18599,
+    "parentid": 15985,
+    "timestamp": "2023-11-14T01:23:55Z",
+    "sha1": "c24f2542b71c479d9c997eebc1a214b0e18c2065",
+    "size": 163
+  },
+  "categories": [
+    "ATK Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Cancer,Virgo",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail ATK +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cancer_Virgo.wiki",
+  "markdown_path": "markdown/Cancer_Virgo.md"
+}

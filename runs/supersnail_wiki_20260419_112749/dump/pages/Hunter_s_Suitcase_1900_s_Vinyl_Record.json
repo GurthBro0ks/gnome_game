@@ -1,0 +1,33 @@
+{
+  "pageid": 4580,
+  "ns": 0,
+  "title": "Hunter's Suitcase+1900's Vinyl Record",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hunter%27s_Suitcase%2B1900%27s_Vinyl_Record",
+  "touched": "2025-06-20T00:03:33Z",
+  "length": 173,
+  "lastrevid": 35824,
+  "revision": {
+    "revid": 35824,
+    "parentid": 18356,
+    "timestamp": "2025-06-20T00:03:33Z",
+    "sha1": "4e1076f03c0f0ca244213f1203954b413f636ad7",
+    "size": 173
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "339",
+        "relics": "Hunter's Suitcase,1900's Vinyl Record",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Demon Minions in battle: Troop RUSH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hunter_s_Suitcase_1900_s_Vinyl_Record.wiki",
+  "markdown_path": "markdown/Hunter_s_Suitcase_1900_s_Vinyl_Record.md"
+}

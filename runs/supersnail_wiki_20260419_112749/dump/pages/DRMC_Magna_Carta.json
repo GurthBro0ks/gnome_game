@@ -1,0 +1,34 @@
+{
+  "pageid": 3608,
+  "ns": 0,
+  "title": "DRMC+Magna Carta",
+  "fullurl": "https://supersnail.wiki.gg/wiki/DRMC%2BMagna_Carta",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 202,
+  "lastrevid": 13187,
+  "revision": {
+    "revid": 13187,
+    "parentid": 0,
+    "timestamp": "2023-09-22T15:03:21Z",
+    "sha1": "f1ae445ee03c8812f2ee457399e2c1c067e48d41",
+    "size": 202
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "DRMC,Magna Carta",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 20 Purple Beads drawn, Snail ATK +12<br>Purple Beads Drawn: 300/300"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/DRMC_Magna_Carta.wiki",
+  "markdown_path": "markdown/DRMC_Magna_Carta.md"
+}

@@ -1,0 +1,61 @@
+{
+  "pageid": 953,
+  "ns": 0,
+  "title": "ARPAnet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/ARPAnet",
+  "touched": "2024-09-06T09:58:24Z",
+  "length": 2358,
+  "lastrevid": 18221,
+  "revision": {
+    "revid": 18221,
+    "parentid": 17717,
+    "timestamp": "2023-11-13T05:23:22Z",
+    "sha1": "92935d2e4b0d3441295a959f3912cf2d50e7551f",
+    "size": 2358
+  },
+  "categories": [
+    "Ancient Wood Boost",
+    "Chore Dispatch Speed Boost",
+    "Enhanced by DNA Strength",
+    "Enhanced by Rogue Survivor Spotted",
+    "Exploration B-tad Drop Boost",
+    "Exploration INTEL Boost",
+    "FAME Relics",
+    "Lumber Camp Boost",
+    "Murika Exploration Boost",
+    "Murika Museum Boost",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "ARPAnet",
+        "rank": "AAA",
+        "affct": "FAME",
+        "birthday": "07-25",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Tool Chest(1.5%), Relic Forge (80 Relic RF)",
+        "description": "On Jul 25, 1969, ARPAnet developed the world's first packet-switched network.\n\nOn this day, the 4 large computers from 4 universities finally established a connection by using a wireless packet-switched network and satellite communication through a special interface signal processor and special cord. But technically, it was unsuitable to be promoted, as it might stop working when a certain part of the network was under attack. Ideally, the other parts of the network should be able to work normal …",
+        "fame": "71",
+        "art": "48",
+        "fth": "49",
+        "civ": "39",
+        "tech": "36",
+        "ss1": "Chore Dispatch SPD +1.2%<br>Spot Rogue Survivor once, Snail Rush +6<br>Rogue Survivor Spotted: 20/20",
+        "ss2": "Chore Dispatch SPD +1.6%<br>Spot Rogue Survivor once, Snail Rush +8<br>Rogue Survivor Spotted: 20/20",
+        "ss3": "Chore Dispatch SPD +2%<br>Spot Rogue Survivor once, Snail Rush +10<br>Rogue Survivor Spotted: 20/20",
+        "ss4": "Chore Dispatch SPD +2.8%<br>Spot Rogue Survivor once, Snail Rush +14<br>Rogue Survivor Spotted: 20/20",
+        "ss5": "Chore Dispatch SPD +3.6%<br>Spot Rogue Survivor once, snail RUSH +18<br>Rogue Survivor Spotted: 20/20",
+        "ss7": "Chore Dispatch SPD +3.6%<br>Spot Rogue Survivor once, Snail Rush +18<br>Rogue Survivor Spotted: 20/20<br>Chore Dispatch SPD +2.8% (Awakened)",
+        "skill1": "[[File:Murika skill II.png|50px]] Place in Murikan Museum: In Murika, 2x INTEL Drops +7.5%",
+        "skill2": "[[File:Murika skill II.png|50px]] Place in Murikan Museum: In Murika, B-tads gained +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/ARPAnet.wiki",
+  "markdown_path": "markdown/ARPAnet.md"
+}

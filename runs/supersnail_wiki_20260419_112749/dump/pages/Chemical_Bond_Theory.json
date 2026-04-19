@@ -1,0 +1,53 @@
+{
+  "pageid": 6630,
+  "ns": 0,
+  "title": "Chemical Bond Theory",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Chemical_Bond_Theory",
+  "touched": "2025-09-30T10:43:37Z",
+  "length": 2946,
+  "lastrevid": 38919,
+  "revision": {
+    "revid": 38919,
+    "parentid": 32625,
+    "timestamp": "2025-08-11T11:06:44Z",
+    "sha1": "991bccd617fcd29573052cb04bb043ff09f7080f",
+    "size": 2946
+  },
+  "categories": [
+    "Orange Relics",
+    "Orange TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Chemical Bond Theory",
+        "class_id": "22915",
+        "rank": "SSS",
+        "affct": "TECH",
+        "description": "The theory of chemical bonds elaborates on the mechanisms of mutual binding between adjacent atoms or ions in molecules or crystals. Based on the electromagnetic interactions between atoms or ions, it involves various types of chemical bonds, including covalent bonds, ionic bonds, and metallic bonds. Interactions between molecules are also considered a part of chemical bonding. The establishment and development of the theory of chemical bonds have not only enriched humanity's knowledge of the co …",
+        "fame": "68",
+        "art": "57",
+        "fth": "66",
+        "civ": "62",
+        "tech": "109",
+        "ss1": "Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +12<br>All Mecha Minion Skins, HARD Stats +30%<br>Per 5 TECH Relics awakened, Snail ATK +12<br>TECH Relics Awakened: 100/100",
+        "ss2": "Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +16<br>All Mecha Minion Skins, HARD Stats +40%<br>Per 5 TECH Relics awakened, Snail ATK +16<br>TECH Relics Awakened: 100/100",
+        "ss3": "Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +20<br>All Mecha Minion Skins, HARD Stats +50%<br>Per 5 TECH Relics awakened, Snail ATK +20<br>TECH Relics Awakened: 100/100",
+        "ss4": "Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +28<br>All Mecha Minion Skins, HARD Stats +70%<br>Per 5 TECH Relics awakened, Snail ATK +28<br>TECH Relics Awakened: 100/100",
+        "ss5": "Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +36<br>All Mecha Minion Skins, HARD Stats +90%<br>Per 5 TECH Relics awakened, Snail ATK +36<br>TECH Relics Awakened: 100/100",
+        "ss6": "Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +48<br>All Mecha Minion Skins, HARD Stats +120%<br>Per 5 TECH Relics awakened, Snail ATK +48<br>TECH Relics Awakened: 100/100",
+        "ss7": "Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +48<br>All Mecha Minion Skins, HARD Stats +120%<br>Per 5 TECH Relics awakened, Snail ATK +48<br>TECH Relics Awakened: 100/100<br>Per 60 T7+ Minions in battle:<br>> Troop HARD Stats +40 (Awakened)",
+        "skill1": "[[File:Murika skill III.png|50px]]Place in Murikan Museum: Medal Output +30",
+        "skill2": "[[File:Murika skill III.png|50px]]Place in Murikan Museum: This Relic's TECH +15",
+        "skill3": "[[File:Murika skill III.png|50px]]Place in Murikan Museum: In Murika, 2x Orange Card Drops +15%",
+        "mirage": "{{Mirage|name=Keystroke Nirvana|reward={{RewardIconWithLink|Super Cultivation Fluid, +2|orange}}\n|3name=dungeon_event@4846_1|3rec=396.92M|3atk=918000|3defense=519651|3hp=233476000|3weak=69011\n|4name=Covalent Bond|4rec=500.13M|4atk=1092353|4defense=612506|4hp=393579288|4weak=75082\n|5name=dungeon_event@4848_1|5rec=657.74M|5atk=1454212|5defense=754934|5hp=634617072|5weak=83287\n|6name=dungeon_event@4849_1|6rec=897.33M|6atk=2205356|6defense=1011898|6hp=1111656167|6weak=93674\n|Arec=1300.05M|Aatk=33197 …"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Chemical_Bond_Theory.wiki",
+  "markdown_path": "markdown/Chemical_Bond_Theory.md"
+}

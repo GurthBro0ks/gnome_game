@@ -1,0 +1,33 @@
+{
+  "pageid": 9777,
+  "ns": 0,
+  "title": "Edison's Kinetoscope+Fermat's Scripts+Periodic Table Scripts+Guevara's Portrait+Medal of Honor+Fire Chalice",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Edison%27s_Kinetoscope%2BFermat%27s_Scripts%2BPeriodic_Table_Scripts%2BGuevara%27s_Portrait%2BMedal_of_Honor%2BFire_Chalice",
+  "touched": "2025-07-02T09:42:20Z",
+  "length": 238,
+  "lastrevid": 37043,
+  "revision": {
+    "revid": 37043,
+    "parentid": 0,
+    "timestamp": "2025-07-02T09:42:20Z",
+    "sha1": "75f5eed518929033635b64cbf1c3080301225115",
+    "size": 238
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "272",
+        "relics": "Edison's Kinetoscope,Fermat's Scripts,Periodic Table Scripts,Guevara's Portrait,Medal of Honor,Fire Chalice",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Defeated Daily Hitmen drop +12% W-tads"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Edison_s_Kinetoscope_Fermat_s_Scripts_Periodic_Table_Scripts_Guevara_s_Portrait_Medal_of_Honor_Fire_Chalice.wiki",
+  "markdown_path": "markdown/Edison_s_Kinetoscope_Fermat_s_Scripts_Periodic_Table_Scripts_Guevara_s_Portrait_Medal_of_Honor_Fire_Chalice.md"
+}

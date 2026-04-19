@@ -1,0 +1,47 @@
+{
+  "pageid": 3944,
+  "ns": 0,
+  "title": "Tuesday Star",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tuesday_Star",
+  "touched": "2025-08-11T11:01:40Z",
+  "length": 579,
+  "lastrevid": 38696,
+  "revision": {
+    "revid": 38696,
+    "parentid": 32239,
+    "timestamp": "2025-08-11T11:01:40Z",
+    "sha1": "8003ba069629dfb0ad118bbe8008d385bbbcd79d",
+    "size": 579
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Tuesday Star",
+        "class_id": "20293",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "Fortune Law 3: If faced with setbacks, do not lose heart, for good luck will soon follow!",
+        "fame": "16",
+        "art": "14",
+        "fth": "31",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Per 10 Lucky Star, Snail DEF +1<br>Lucky Star Gained: 800/800",
+        "ss2": "Per 10 Lucky Star, Snail DEF +2<br>Lucky Star Gained: 800/800",
+        "ss3": "Per 10 Lucky Star, Snail DEF +3<br>Lucky Star Gained: 800/800",
+        "ss4": "Per 10 Lucky Star, Snail DEF +3<br>Lucky Star Gained: 800/800",
+        "ss7": "Per 10 Lucky Star, Snail DEF +3<br>Lucky Star Gained: 800/800<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tuesday_Star.wiki",
+  "markdown_path": "markdown/Tuesday_Star.md"
+}

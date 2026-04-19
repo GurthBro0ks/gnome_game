@@ -1,0 +1,33 @@
+{
+  "pageid": 3745,
+  "ns": 0,
+  "title": "Arkanrock+True Cross",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Arkanrock%2BTrue_Cross",
+  "touched": "2025-08-11T10:55:24Z",
+  "length": 172,
+  "lastrevid": 38423,
+  "revision": {
+    "revid": 38423,
+    "parentid": 13643,
+    "timestamp": "2025-08-11T10:55:24Z",
+    "sha1": "50ac28d7bbc01ef3a924a1e213a03158d5a9376b",
+    "size": 172
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "203",
+        "relics": "Arkanrock,True Cross",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Organ implanted, Snail RUSH +14;Organs Implanted: 40/40"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Arkanrock_True_Cross.wiki",
+  "markdown_path": "markdown/Arkanrock_True_Cross.md"
+}

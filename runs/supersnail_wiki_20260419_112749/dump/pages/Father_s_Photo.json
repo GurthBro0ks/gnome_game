@@ -1,0 +1,48 @@
+{
+  "pageid": 1792,
+  "ns": 0,
+  "title": "Father's Photo",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Father%27s_Photo",
+  "touched": "2025-11-08T13:45:04Z",
+  "length": 699,
+  "lastrevid": 41743,
+  "revision": {
+    "revid": 41743,
+    "parentid": 37423,
+    "timestamp": "2025-11-08T13:45:04Z",
+    "sha1": "952342efc0640d1540757eecd49bfdc2dfb58a85",
+    "size": 699
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Father's Photo",
+        "class_id": "20088",
+        "rank": "Green",
+        "affct": "CIV",
+        "source": "You must shoot the Unknown Creature in front of your shrine with Incense 10 times in order to obtain the Father's Photo relic",
+        "description": "On the back of this strange photo is some illegible handwriting. After identification by a linguist, it was said this text means father, that is how it got its name, and connoisseurs across the world regard it as exemplary avant-garde art, and it has become a precious piece of art collection.",
+        "fame": "14",
+        "art": "13",
+        "fth": "18",
+        "civ": "30",
+        "tech": "15",
+        "ss1": "Snail Leadership +1",
+        "ss2": "Snail Leadership +2",
+        "ss3": "Snail Leadership +3",
+        "ss4": "Snail Leadership +3",
+        "ss7": "Snail Leadership +3<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Father_s_Photo.wiki",
+  "markdown_path": "markdown/Father_s_Photo.md"
+}

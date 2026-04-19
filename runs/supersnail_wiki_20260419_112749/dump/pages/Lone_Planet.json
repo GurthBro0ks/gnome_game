@@ -1,0 +1,46 @@
+{
+  "pageid": 11151,
+  "ns": 0,
+  "title": "Lone Planet",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lone_Planet",
+  "touched": "2025-08-11T11:14:19Z",
+  "length": 247,
+  "lastrevid": 39242,
+  "revision": {
+    "revid": 39242,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:14:19Z",
+    "sha1": "4e8bca6c4f09c85ef6a6b3f452ffa3f5e5390c80",
+    "size": 247
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Lone Planet",
+        "class_id": "20008",
+        "rank": "Green",
+        "affct": "CIV",
+        "fame": "19",
+        "art": "10",
+        "fth": "17",
+        "civ": "27",
+        "tech": "17",
+        "ss1": "Snail HP +100",
+        "ss2": "Snail HP +200",
+        "ss3": "Snail HP +300",
+        "ss4": "Snail HP +300",
+        "ss7": "Snail HP +300<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lone_Planet.wiki",
+  "markdown_path": "markdown/Lone_Planet.md"
+}

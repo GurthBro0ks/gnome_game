@@ -1,0 +1,33 @@
+{
+  "pageid": 4719,
+  "ns": 0,
+  "title": "Charlotte's Web+Urashima Taro's Box",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Charlotte%27s_Web%2BUrashima_Taro%27s_Box",
+  "touched": "2025-06-20T00:01:02Z",
+  "length": 200,
+  "lastrevid": 35772,
+  "revision": {
+    "revid": 35772,
+    "parentid": 18595,
+    "timestamp": "2025-06-20T00:01:02Z",
+    "sha1": "15934e6c83326fa782150ac0101a98e84b38a212",
+    "size": 200
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "332",
+        "relics": "Charlotte's Web,Urashima Taro's Box",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 7 Dragon Gene LVLs, Snail ATK +10;Dragon Gene LVLs Researched: 210/210"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Charlotte_s_Web_Urashima_Taro_s_Box.wiki",
+  "markdown_path": "markdown/Charlotte_s_Web_Urashima_Taro_s_Box.md"
+}

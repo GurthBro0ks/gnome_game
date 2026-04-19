@@ -1,0 +1,47 @@
+{
+  "pageid": 10720,
+  "ns": 0,
+  "title": "Bunny Chef",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bunny_Chef",
+  "touched": "2025-08-11T10:59:37Z",
+  "length": 725,
+  "lastrevid": 38605,
+  "revision": {
+    "revid": 38605,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:59:37Z",
+    "sha1": "b1b8e587e23bd1597e8e37412f666ebbc99f71fe",
+    "size": 725
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bunny Chef",
+        "class_id": "20652",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "Mad Hatter's culinary cousin - a white-gloved bunny chef in carrot-print apron, forever late for your dinner reservation!",
+        "fame": "14",
+        "art": "30",
+        "fth": "19",
+        "civ": "10",
+        "tech": "18",
+        "ss1": "Snail ATK +10<br>Per 5 Orange Fungi eaten, Snail HP +40<br>Orange Fungi Eaten: 50/50",
+        "ss2": "Snail ATK +20<br>Per 5 Orange Fungi eaten, Snail HP +80<br>Orange Fungi Eaten: 50/50",
+        "ss3": "Snail ATK +30<br>Per 5 Orange Fungi eaten, Snail HP +120<br>Orange Fungi Eaten: 50/50",
+        "ss4": "Snail ATK +30<br>Per 5 Orange Fungi eaten, Snail HP +120<br>Orange Fungi Eaten: 50/50",
+        "ss7": "Snail ATK +30<br>Per 5 Orange Fungi eaten, Snail HP +120<br>Orange Fungi Eaten: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bunny_Chef.wiki",
+  "markdown_path": "markdown/Bunny_Chef.md"
+}

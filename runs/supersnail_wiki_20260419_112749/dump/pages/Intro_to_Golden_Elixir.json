@@ -1,0 +1,51 @@
+{
+  "pageid": 8593,
+  "ns": 0,
+  "title": "Intro to Golden Elixir",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Intro_to_Golden_Elixir",
+  "touched": "2025-06-16T21:00:32Z",
+  "length": 1200,
+  "lastrevid": 34542,
+  "revision": {
+    "revid": 34542,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:50:59Z",
+    "sha1": "7cf54fc3ee39f9521916ab305610b2ae4f50704a",
+    "size": 1200
+  },
+  "categories": [
+    "Blue FAITH Relics",
+    "Blue Relics",
+    "FAITH Relics",
+    "Pages with broken file links",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Intro to Golden Elixir",
+        "class_id": "22454",
+        "rank": "Blue",
+        "affct": "FAITH",
+        "birthday": "06-25",
+        "source": "Lottery Machine No.3 (0.03%)",
+        "description": "On Jun 25, 1349 AD, this ten-volume book was completed.<br>The Golden Elixir of Life, written by the Taoist priest Chen ZhiXu in the Yuan Dynasty, is a book of poetry that explains his interpretation of the ideas expressed in the Tao Te Ching, and the consequent theory of cultivating the Golden Elixir. The Golden Elixir mentioned in the book is not a pill made from heavy metals by ancient alchemists, but rather the inner alchemy, in which the essence, energy and spirit of a human are refined and …",
+        "fame": "24",
+        "art": "38",
+        "fth": "46",
+        "civ": "20",
+        "tech": "26",
+        "ss1": "Snail RUSH +10",
+        "ss2": "Snail RUSH +20",
+        "ss3": "Snail RUSH +30",
+        "ss4": "Snail RUSH +50",
+        "ss7": "Snail RUSH +50<br>Snail RUSH +50 (Awakened)",
+        "skill1": "[[File:Forestsanctum skill I.png|50px]]Place in Forest Sanctum: Forest Sanctum, Glorium Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Intro_to_Golden_Elixir.wiki",
+  "markdown_path": "markdown/Intro_to_Golden_Elixir.md"
+}

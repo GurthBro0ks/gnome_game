@@ -1,0 +1,35 @@
+{
+  "pageid": 8272,
+  "ns": 0,
+  "title": "Antimatter Propulsion+TVC Engine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Antimatter_Propulsion%2BTVC_Engine",
+  "touched": "2025-04-23T00:39:34Z",
+  "length": 200,
+  "lastrevid": 34052,
+  "revision": {
+    "revid": 34052,
+    "parentid": 0,
+    "timestamp": "2025-04-21T02:21:58Z",
+    "sha1": "c7a0b93b48accb99be880317c2dd8148f67c861e",
+    "size": 200
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Antimatter Propulsion,TVC Engine",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Antimatter_Propulsion_TVC_Engine.wiki",
+  "markdown_path": "markdown/Antimatter_Propulsion_TVC_Engine.md"
+}

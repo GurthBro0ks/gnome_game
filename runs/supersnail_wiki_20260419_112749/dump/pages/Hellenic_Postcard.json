@@ -1,0 +1,47 @@
+{
+  "pageid": 5736,
+  "ns": 0,
+  "title": "Hellenic Postcard",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Hellenic_Postcard",
+  "touched": "2025-08-11T11:12:22Z",
+  "length": 562,
+  "lastrevid": 39158,
+  "revision": {
+    "revid": 39158,
+    "parentid": 32185,
+    "timestamp": "2025-08-11T11:12:22Z",
+    "sha1": "866e60bd2b493233defe20c39f66c85a123c12b4",
+    "size": 562
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Hellenic Postcard",
+        "class_id": "20109",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "While scouting for info about the Demon God in Hellas, the snail also recorded a lot of local customs, which were brought together in this postcard. You can read it to kill time and post it online to get many likes!",
+        "fame": "10",
+        "art": "29",
+        "fth": "19",
+        "civ": "14",
+        "tech": "18",
+        "ss1": "Hellenic Museum Medal Output +5",
+        "ss2": "Hellenic Museum Medal Output +10",
+        "ss3": "Hellenic Museum Medal Output +15",
+        "ss4": "Hellenic Museum Medal Output +15",
+        "ss7": "Hellenic Museum Medal Output +15<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Hellenic_Postcard.wiki",
+  "markdown_path": "markdown/Hellenic_Postcard.md"
+}

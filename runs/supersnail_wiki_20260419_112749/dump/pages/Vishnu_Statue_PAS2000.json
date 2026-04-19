@@ -1,0 +1,35 @@
+{
+  "pageid": 7956,
+  "ns": 0,
+  "title": "Vishnu Statue+PAS2000",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Vishnu_Statue%2BPAS2000",
+  "touched": "2025-02-22T17:25:56Z",
+  "length": 212,
+  "lastrevid": 33407,
+  "revision": {
+    "revid": 33407,
+    "parentid": 0,
+    "timestamp": "2025-02-21T20:11:17Z",
+    "sha1": "fcaab7b3d4d569930348ca9fe02be22a1265863d",
+    "size": 212
+  },
+  "categories": [
+    "Minion",
+    "Minion DEF Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Vishnu Statue,PAS2000",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 60 T8+ Minions deployed, Troop DEF +84"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Vishnu_Statue_PAS2000.wiki",
+  "markdown_path": "markdown/Vishnu_Statue_PAS2000.md"
+}

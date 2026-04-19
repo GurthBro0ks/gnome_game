@@ -1,0 +1,34 @@
+{
+  "pageid": 3727,
+  "ns": 0,
+  "title": "The Song of Roland+Plato's Republic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Song_of_Roland%2BPlato%27s_Republic",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 215,
+  "lastrevid": 13625,
+  "revision": {
+    "revid": 13625,
+    "parentid": 0,
+    "timestamp": "2023-10-01T09:24:31Z",
+    "sha1": "b932e5bd253b001f81ef5d7a28fa9897c79d23bf",
+    "size": 215
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "The Song of Roland,Plato's Republic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 3 Orange Relics gained, Snail DEF +28<br>Orange Relics: 60/60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Song_of_Roland_Plato_s_Republic.wiki",
+  "markdown_path": "markdown/The_Song_of_Roland_Plato_s_Republic.md"
+}

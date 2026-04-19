@@ -1,0 +1,35 @@
+{
+  "pageid": 7951,
+  "ns": 0,
+  "title": "Mnemosyne's Spring+Artemisinin",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mnemosyne%27s_Spring%2BArtemisinin",
+  "touched": "2025-02-22T17:23:36Z",
+  "length": 198,
+  "lastrevid": 33402,
+  "revision": {
+    "revid": 33402,
+    "parentid": 0,
+    "timestamp": "2025-02-21T20:06:12Z",
+    "sha1": "159c6fe68e69286bfbf277990e0ed81f2399bc8f",
+    "size": 198
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Mnemosyne's Spring,Artemisinin",
+        "rank": "orange",
+        "amount": "2",
+        "category": "minion",
+        "description": "Snail Leadership +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mnemosyne_s_Spring_Artemisinin.wiki",
+  "markdown_path": "markdown/Mnemosyne_s_Spring_Artemisinin.md"
+}

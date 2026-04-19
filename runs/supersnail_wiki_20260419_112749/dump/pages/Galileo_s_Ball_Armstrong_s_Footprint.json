@@ -1,0 +1,34 @@
+{
+  "pageid": 3625,
+  "ns": 0,
+  "title": "Galileo's Ball+Armstrong's Footprint",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Galileo%27s_Ball%2BArmstrong%27s_Footprint",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 190,
+  "lastrevid": 13207,
+  "revision": {
+    "revid": 13207,
+    "parentid": 0,
+    "timestamp": "2023-09-22T16:17:26Z",
+    "sha1": "caf0a00d3074c5e30db5b023ae14e68f538bd658",
+    "size": 190
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Galileo's Ball,Armstrong's Footprint",
+        "rank": "purple",
+        "amount": "2",
+        "category": "home",
+        "description": "Time Machine Travel Speedup Output +12%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Galileo_s_Ball_Armstrong_s_Footprint.wiki",
+  "markdown_path": "markdown/Galileo_s_Ball_Armstrong_s_Footprint.md"
+}

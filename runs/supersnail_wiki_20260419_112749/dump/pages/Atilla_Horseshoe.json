@@ -1,0 +1,55 @@
+{
+  "pageid": 1507,
+  "ns": 0,
+  "title": "Atilla Horseshoe",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Atilla_Horseshoe",
+  "touched": "2024-09-06T09:57:19Z",
+  "length": 1344,
+  "lastrevid": 27610,
+  "revision": {
+    "revid": 27610,
+    "parentid": 27608,
+    "timestamp": "2024-06-01T02:41:10Z",
+    "sha1": "7e6f0e42ac00dcd22e5a3ee70e38a082ae36f20c",
+    "size": 1344
+  },
+  "categories": [
+    "Blue FAME Relics",
+    "Blue Relics",
+    "Exploration B-tad Drop Boost",
+    "FAME Relics",
+    "Gene Simulation Compass Boost",
+    "List of Black Tadpole Source Boosts",
+    "Lucky Voucher Boost",
+    "Nightmare Steed Boost",
+    "Offering Reward Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Atilla Horseshoe",
+        "rank": "Blue",
+        "affct": "FAME",
+        "birthday": "12-31",
+        "source": "Lottery Machine (0.03%), Wishing (1.2%)",
+        "description": "On Dec 31, AD 452, this horseshoe trampled every inch of the Roman Empire's land. Attila the Hun launched a sudden invasion of Italy after crossing the Alps, destroying all the cities in northern Italy and terrorized Rome. Most of the European territory surrendered to his iron fist. The following year, a major epidemic broke out in the army. When western Rome asked for conciliation and Eastern Rome's reinforcements were arrived, Attila returned home and died of illness in the same year. After th …",
+        "fame": "45",
+        "art": "21",
+        "fth": "28",
+        "civ": "31",
+        "tech": "29",
+        "ss1": "When exploring, 2x B-tad Drops +0.4%",
+        "ss2": "When exploring, 2x B-tad Drops +0.8%",
+        "ss3": "When exploring, 2x B-tad Drops +1.2%",
+        "ss4": "When exploring, 2x B-tad Drops +2%",
+        "ss7": "When exploring, 2x B-tad Drops +2%<br>When exploring, 2x B-tad Drops +2% (Awakened)",
+        "skill1": "[[File:Genesim skill I.png|50px]] Place in Gene Sim Device: This Relic's FAME +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Atilla_Horseshoe.wiki",
+  "markdown_path": "markdown/Atilla_Horseshoe.md"
+}

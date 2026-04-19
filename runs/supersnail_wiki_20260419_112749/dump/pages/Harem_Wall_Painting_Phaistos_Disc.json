@@ -1,0 +1,33 @@
+{
+  "pageid": 4237,
+  "ns": 0,
+  "title": "Harem Wall Painting+Phaistos Disc",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Harem_Wall_Painting%2BPhaistos_Disc",
+  "touched": "2025-06-20T00:05:40Z",
+  "length": 216,
+  "lastrevid": 35880,
+  "revision": {
+    "revid": 35880,
+    "parentid": 18571,
+    "timestamp": "2025-06-20T00:05:40Z",
+    "sha1": "14f74d9b87a5e712c3f90260327f8db5fdd2afee",
+    "size": 216
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "471",
+        "relics": "Harem Wall Painting,Phaistos Disc",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Red {race_equip_short} upgraded, Snail RUSH +14;Red {race_equip_short} Upgraded: 20/20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Harem_Wall_Painting_Phaistos_Disc.wiki",
+  "markdown_path": "markdown/Harem_Wall_Painting_Phaistos_Disc.md"
+}

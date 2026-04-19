@@ -1,0 +1,34 @@
+{
+  "pageid": 4814,
+  "ns": 0,
+  "title": "Sparkler Award+Wild Pansy's Juice+Pakal's Sarcophagus+The Fifer+Red Dot Award+Treasure Island",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Sparkler_Award%2BWild_Pansy%27s_Juice%2BPakal%27s_Sarcophagus%2BThe_Fifer%2BRed_Dot_Award%2BTreasure_Island",
+  "touched": "2024-12-02T03:00:51Z",
+  "length": 271,
+  "lastrevid": 25177,
+  "revision": {
+    "revid": 25177,
+    "parentid": 17326,
+    "timestamp": "2024-04-17T00:45:27Z",
+    "sha1": "5814207b41d308801d7e4e10833cf4612b10bb13",
+    "size": 271
+  },
+  "categories": [
+    "Wormhole Refinement SPD Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Sparkler Award,Wild Pansy's Juice,Pakal's Sarcophagus,The Fifer,Red Dot Award,Treasure Island",
+        "rank": "purple",
+        "amount": "6",
+        "category": "Wormhole Boost",
+        "description": "Wormhole Refinement SPD +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Sparkler_Award_Wild_Pansy_s_Juice_Pakal_s_Sarcophagus_The_Fifer_Red_Dot_Award_Treasure_Island.wiki",
+  "markdown_path": "markdown/Sparkler_Award_Wild_Pansy_s_Juice_Pakal_s_Sarcophagus_The_Fifer_Red_Dot_Award_Treasure_Island.md"
+}

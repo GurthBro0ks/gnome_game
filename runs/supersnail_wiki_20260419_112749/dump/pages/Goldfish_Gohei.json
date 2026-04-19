@@ -1,0 +1,47 @@
+{
+  "pageid": 10176,
+  "ns": 0,
+  "title": "Goldfish Gohei",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Goldfish_Gohei",
+  "touched": "2025-08-11T10:41:38Z",
+  "length": 554,
+  "lastrevid": 37824,
+  "revision": {
+    "revid": 37824,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:41:38Z",
+    "sha1": "1bdc5fe62cf68a73c830188e60abce07a1879426",
+    "size": 554
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Goldfish Gohei",
+        "class_id": "20742",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "A sacred relic of the Goldfish Clan, this ancient scepter has been imbued with generations of ritualistic mana through countless ceremonies. Simply wielding it disperses evil spirits, making it a powerful tool against darkness.",
+        "fame": "18",
+        "art": "15",
+        "fth": "28",
+        "civ": "13",
+        "tech": "16",
+        "ss1": "prop@55053_2<br>prop@55058_2",
+        "ss2": "prop@55053_2<br>prop@55058_2",
+        "ss3": "prop@55053_2<br>prop@55058_2",
+        "ss4": "prop@55053_2<br>prop@55058_2",
+        "ss7": "prop@55053_2<br>prop@55058_2<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Goldfish_Gohei.wiki",
+  "markdown_path": "markdown/Goldfish_Gohei.md"
+}

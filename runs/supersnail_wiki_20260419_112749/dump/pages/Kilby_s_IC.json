@@ -1,0 +1,51 @@
+{
+  "pageid": 5208,
+  "ns": 0,
+  "title": "Kilby's IC",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Kilby%27s_IC",
+  "touched": "2025-08-11T11:13:28Z",
+  "length": 1896,
+  "lastrevid": 39206,
+  "revision": {
+    "revid": 39206,
+    "parentid": 26248,
+    "timestamp": "2025-08-11T11:13:28Z",
+    "sha1": "ec7f08e42aa67d0c4bfbff4e979f16d44b7c51c7",
+    "size": 1896
+  },
+  "categories": [
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Kilby's IC",
+        "class_id": "22206",
+        "rank": "AAA",
+        "affct": "TECH",
+        "birthday": "09-12",
+        "description": "On Sept 12, 1958 AD, Kilby successfully developed the first IC.<br>This IC was developed by American engineer Kilby, who won the Nobel Prize in physics for this invention. Before the emergence of ICs, transistors had already replaced bulky, unstable vacuum tubes, but due to the continuous expansion of circuit systems, the size and cost of components gradually became a bottleneck restricting its development. At that time, Kilby geniously proposed the idea of using a single piece of silicon to mak …",
+        "fame": "43",
+        "art": "35",
+        "fth": "51",
+        "civ": "42",
+        "tech": "72",
+        "ss1": "Mecha Gene Research B-tad Cost -1.8%<br>Per 5 Mecha Gene LVLs, Snail ATK +6<br>Mecha Gene LVLs Researched: 150/150",
+        "ss2": "Mecha Gene Research B-tad Cost -2.4%<br>Per 5 Mecha Gene LVLs, Snail ATK +8<br>Mecha Gene LVLs Researched: 150/150",
+        "ss3": "Mecha Gene Research B-tad Cost -3%<br>Per 5 Mecha Gene LVLs, Snail ATK +10<br>Mecha Gene LVLs Researched: 150/150",
+        "ss4": "Mecha Gene Research B-tad Cost -4.2%<br>Per 5 Mecha Gene LVLs, Snail ATK +14<br>Mecha Gene LVLs Researched: 150/150",
+        "ss5": "Mecha Gene Research B-tad Cost -5.4%<br>Per 5 Mecha Gene LVLs, Snail ATK +18<br>Mecha Gene LVLs Researched: 150/150",
+        "ss7": "Mecha Gene Research B-tad Cost -5.4%<br>Per 5 Mecha Gene LVLs, Snail ATK +18<br>Mecha Gene LVLs Researched: 150/150<br>Snail DEF +70 (Awakened)",
+        "skill1": "[[File:Murika skill II.png|50px]]Place in Murikan Museum: This Relic's TECH +10",
+        "skill2": "[[File:Murika skill II.png|50px]]Place in Murikan Museum: In Murika, 2x Blue Reagent Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Kilby_s_IC.wiki",
+  "markdown_path": "markdown/Kilby_s_IC.md"
+}

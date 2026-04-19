@@ -1,0 +1,35 @@
+{
+  "pageid": 6110,
+  "ns": 0,
+  "title": "Mysterious Relic+Mysterious Relic+The Red and Black+Colossus of Rhodes",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mysterious_Relic%2BMysterious_Relic%2BThe_Red_and_Black%2BColossus_of_Rhodes",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 262,
+  "lastrevid": 25767,
+  "revision": {
+    "revid": 25767,
+    "parentid": 25766,
+    "timestamp": "2024-04-28T22:36:58Z",
+    "sha1": "dacb7ae91fa4bfac3c541a04e9acd436193c89e5",
+    "size": 262
+  },
+  "categories": [
+    "Minion",
+    "Minion ATK Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Mysterious Relic,Mysterious Relic,The Red and Black,Colossus of Rhodes",
+        "rank": "orange",
+        "amount": "4",
+        "category": "minion",
+        "description": "Per 60 T7+ Minions in battle: Troop ATK +90"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mysterious_Relic_Mysterious_Relic_The_Red_and_Black_Colossus_of_Rhodes.wiki",
+  "markdown_path": "markdown/Mysterious_Relic_Mysterious_Relic_The_Red_and_Black_Colossus_of_Rhodes.md"
+}

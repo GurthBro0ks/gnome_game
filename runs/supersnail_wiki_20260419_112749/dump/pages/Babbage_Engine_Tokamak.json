@@ -1,0 +1,34 @@
+{
+  "pageid": 3744,
+  "ns": 0,
+  "title": "Babbage Engine+Tokamak",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Babbage_Engine%2BTokamak",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 203,
+  "lastrevid": 13642,
+  "revision": {
+    "revid": 13642,
+    "parentid": 0,
+    "timestamp": "2023-10-01T09:55:36Z",
+    "sha1": "81213b52e600622dde1618908aa19e014dd4fca3",
+    "size": 203
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Babbage Engine,Tokamak",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Time Machine LVLs, Snail RUSH +28<br>Time Machine LVL: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Babbage_Engine_Tokamak.wiki",
+  "markdown_path": "markdown/Babbage_Engine_Tokamak.md"
+}

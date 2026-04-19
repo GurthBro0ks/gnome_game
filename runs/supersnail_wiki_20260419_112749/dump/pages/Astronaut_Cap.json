@@ -1,0 +1,47 @@
+{
+  "pageid": 4070,
+  "ns": 0,
+  "title": "Astronaut Cap",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Astronaut_Cap",
+  "touched": "2025-08-11T11:14:22Z",
+  "length": 795,
+  "lastrevid": 39245,
+  "revision": {
+    "revid": 39245,
+    "parentid": 27490,
+    "timestamp": "2025-08-11T11:14:22Z",
+    "sha1": "62b9593eec6c52dc84090e8b4a20abf85d817355",
+    "size": 795
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Astronaut Cap",
+        "class_id": "20320",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "This Astronaut Cap belonged to an alien race. Unlike Earthlings, this race lives on helium gas, so when they reach Earth, they need to wear a full protective suit. In particular, the hat on their head, which has a fully functional rebreather to ensure their survival outside the spacecraft.",
+        "fame": "15",
+        "art": "17",
+        "fth": "14",
+        "civ": "13",
+        "tech": "31",
+        "ss1": "Per 5 Time Machine LVLs, Snail DEF +2<br>Time Machine LVL: 50/50",
+        "ss2": "Per 5 Time Machine LVLs, Snail DEF +4<br>Time Machine LVL: 50/50",
+        "ss3": "Per 5 Time Machine LVLs, Snail DEF +6<br>Time Machine LVL: 50/50",
+        "ss4": "Per 5 Time Machine LVLs, Snail DEF +6<br>Time Machine LVL: 50/50",
+        "ss7": "Per 5 Time Machine LVLs, Snail DEF +6<br>Time Machine LVL: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Astronaut_Cap.wiki",
+  "markdown_path": "markdown/Astronaut_Cap.md"
+}

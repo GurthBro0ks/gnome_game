@@ -1,0 +1,47 @@
+{
+  "pageid": 10414,
+  "ns": 0,
+  "title": "CyberVendor Medal",
+  "fullurl": "https://supersnail.wiki.gg/wiki/CyberVendor_Medal",
+  "touched": "2025-08-11T10:49:50Z",
+  "length": 822,
+  "lastrevid": 38183,
+  "revision": {
+    "revid": 38183,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:49:50Z",
+    "sha1": "7e040be03856ed2eeb79477d504688f414bfda58",
+    "size": 822
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "CyberVendor Medal",
+        "class_id": "20039",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "CyberVendor is the home planet of all vending robots, where the Catbots and Dogbots are engaged in a war. For the sake of their own justice and interests, both factions want to dominate the planet. Hopefully, their strife won't affect the vending robot here!",
+        "fame": "17",
+        "art": "12",
+        "fth": "16",
+        "civ": "15",
+        "tech": "30",
+        "ss1": "Per Premium Cat Food bought, Snail HP +20<br>Premium Cat Food Bought: 20/20",
+        "ss2": "Per Premium Cat Food bought, Snail HP +40<br>Premium Cat Food Bought: 20/20",
+        "ss3": "Per Premium Cat Food bought, Snail HP +60<br>Premium Cat Food Bought: 20/20",
+        "ss4": "Per Premium Cat Food bought, Snail HP +60<br>Premium Cat Food Bought: 20/20",
+        "ss7": "Per Premium Cat Food bought, Snail HP +60<br>Premium Cat Food Bought: 20/20<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/CyberVendor_Medal.wiki",
+  "markdown_path": "markdown/CyberVendor_Medal.md"
+}

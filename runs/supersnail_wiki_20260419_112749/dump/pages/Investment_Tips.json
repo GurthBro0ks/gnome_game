@@ -1,0 +1,47 @@
+{
+  "pageid": 10615,
+  "ns": 0,
+  "title": "Investment Tips",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Investment_Tips",
+  "touched": "2025-08-11T10:56:25Z",
+  "length": 567,
+  "lastrevid": 38466,
+  "revision": {
+    "revid": 38466,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:56:25Z",
+    "sha1": "9d1765beec062124ee3346d84bc62315b08674d9",
+    "size": 567
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Investment Tips",
+        "class_id": "20556",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Generations of star investors from the Hamster Clan record their insights and experiences in a notebook, passing it down on and on. On one hand it helps younger generations to learn and grow, on the other hand it can be used for showing off!",
+        "fame": "19",
+        "art": "14",
+        "fth": "13",
+        "civ": "29",
+        "tech": "15",
+        "ss1": "prop@55055_2<br>prop@55060_2",
+        "ss2": "prop@55055_2<br>prop@55060_2",
+        "ss3": "prop@55055_2<br>prop@55060_2",
+        "ss4": "prop@55055_2<br>prop@55060_2",
+        "ss7": "prop@55055_2<br>prop@55060_2<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Investment_Tips.wiki",
+  "markdown_path": "markdown/Investment_Tips.md"
+}

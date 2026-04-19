@@ -1,0 +1,33 @@
+{
+  "pageid": 8865,
+  "ns": 0,
+  "title": "Cellular Pathology+Herma of Pericles+Medium Rune",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Cellular_Pathology%2BHerma_of_Pericles%2BMedium_Rune",
+  "touched": "2025-06-19T23:54:07Z",
+  "length": 194,
+  "lastrevid": 35664,
+  "revision": {
+    "revid": 35664,
+    "parentid": 34856,
+    "timestamp": "2025-06-19T23:54:07Z",
+    "sha1": "da2163dd2d12106b5104d0f52638c41c23f283b5",
+    "size": 194
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "536",
+        "relics": "Cellular Pathology,Herma of Pericles,Medium Rune",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "Per 10 Divinations, Snail ATK +8;Divinations: 400/400"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Cellular_Pathology_Herma_of_Pericles_Medium_Rune.wiki",
+  "markdown_path": "markdown/Cellular_Pathology_Herma_of_Pericles_Medium_Rune.md"
+}

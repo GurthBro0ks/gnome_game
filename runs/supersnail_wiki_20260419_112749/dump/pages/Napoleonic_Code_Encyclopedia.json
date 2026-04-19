@@ -1,0 +1,33 @@
+{
+  "pageid": 3781,
+  "ns": 0,
+  "title": "Napoleonic Code+Encyclopedia",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Napoleonic_Code%2BEncyclopedia",
+  "touched": "2025-07-02T09:42:04Z",
+  "length": 164,
+  "lastrevid": 37032,
+  "revision": {
+    "revid": 37032,
+    "parentid": 13679,
+    "timestamp": "2025-07-02T09:42:04Z",
+    "sha1": "985170fb9b798eb15d23cbe0355ed3453e71fab1",
+    "size": 164
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "232",
+        "relics": "Napoleonic Code,Encyclopedia",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Defeated Daily Hitmen drop +7% Demon Chests"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Napoleonic_Code_Encyclopedia.wiki",
+  "markdown_path": "markdown/Napoleonic_Code_Encyclopedia.md"
+}

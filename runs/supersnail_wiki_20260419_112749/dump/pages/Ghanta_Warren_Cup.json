@@ -1,0 +1,33 @@
+{
+  "pageid": 4582,
+  "ns": 0,
+  "title": "Ghanta+Warren Cup",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ghanta%2BWarren_Cup",
+  "touched": "2025-06-20T00:10:18Z",
+  "length": 154,
+  "lastrevid": 35938,
+  "revision": {
+    "revid": 35938,
+    "parentid": 16714,
+    "timestamp": "2025-06-20T00:10:18Z",
+    "sha1": "b994abbcd5ecb43a685e03b734f30c60d610779e",
+    "size": 154
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "329",
+        "relics": "Ghanta,Warren Cup",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Zombie Minions in battle: Troop RUSH +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ghanta_Warren_Cup.wiki",
+  "markdown_path": "markdown/Ghanta_Warren_Cup.md"
+}

@@ -1,0 +1,36 @@
+{
+  "pageid": 7996,
+  "ns": 0,
+  "title": "Ishtar Gate+The Peony Pavilion",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ishtar_Gate%2BThe_Peony_Pavilion",
+  "touched": "2025-03-23T18:36:39Z",
+  "length": 284,
+  "lastrevid": 33449,
+  "revision": {
+    "revid": 33449,
+    "parentid": 0,
+    "timestamp": "2025-02-22T02:57:24Z",
+    "sha1": "22088643bb35d3765b59ccf865e9a93c469ddebe",
+    "size": 284
+  },
+  "categories": [
+    "Enhanced by FTH Relics Awakened",
+    "RUSH Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Ishtar Gate,The Peony Pavilion",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 3 FTH Relics awakened, Snail RUSH +7; FTH Relics Awakened: 180/180"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ishtar_Gate_The_Peony_Pavilion.wiki",
+  "markdown_path": "markdown/Ishtar_Gate_The_Peony_Pavilion.md"
+}

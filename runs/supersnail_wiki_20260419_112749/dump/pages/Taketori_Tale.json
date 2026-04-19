@@ -1,0 +1,52 @@
+{
+  "pageid": 5148,
+  "ns": 0,
+  "title": "Taketori Tale",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Taketori_Tale",
+  "touched": "2025-06-16T23:12:09Z",
+  "length": 1363,
+  "lastrevid": 34994,
+  "revision": {
+    "revid": 34994,
+    "parentid": 24418,
+    "timestamp": "2025-06-16T23:12:09Z",
+    "sha1": "31289b5b02665ac62e2ae1e3b5f82eb18319d562",
+    "size": 1363
+  },
+  "categories": [
+    "CIV Relics",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Taketori Tale",
+        "class_id": "22178",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "08-22",
+        "source": "Lottery Machine No.2 (0.06%), Wishing (0.02%)",
+        "description": "On Aug 22, 912 AD, the Taketori Tale came into being, thereby creating a new writing genre.<br>Taketori Tale totals about 10 chapters, and recounts the origins of Kaguya, her impossible challenge to her five suitors, and her eventual ascension to the moon as a celestial being. As the first Japanese literary work written in kana, it unified Japan's spoken language with the written word and it pioneered a new genre of writing. It was therefore an important work in the history of Japanese literatur …",
+        "fame": "50",
+        "art": "45",
+        "fth": "43",
+        "civ": "72",
+        "tech": "33",
+        "ss1": "Mutant Minion RUSH +3%<br>All Rocket Cabin production +0.9%",
+        "ss2": "Mutant Minion RUSH +4%<br>All Rocket Cabin production +1.2%",
+        "ss3": "Mutant Minion RUSH +5%<br>All Rocket Cabin production +1.5%",
+        "ss4": "Mutant Minion RUSH +7%<br>All Rocket Cabin production +2.1%",
+        "ss5": "Mutant Minion RUSH +9%<br>All Rocket Cabin production +2.7%",
+        "ss7": "Mutant Minion RUSH +9%<br>All Rocket Cabin production +2.7%<br>All Rocket Cabin production +2.1% (Awakened)",
+        "skill1": "[[File:Dungbeetle skill II.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion HP +4.5%",
+        "skill2": "[[File:Dungbeetle skill II.png|50px]]Place in Dung Beetle Biozilla: In Species War, All Minion DEF +4.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Taketori_Tale.wiki",
+  "markdown_path": "markdown/Taketori_Tale.md"
+}

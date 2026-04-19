@@ -1,0 +1,25 @@
+{
+  "pageid": 7860,
+  "ns": 0,
+  "title": "Fridge",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fridge",
+  "touched": "2025-10-02T03:45:15Z",
+  "length": 116,
+  "lastrevid": 40611,
+  "revision": {
+    "revid": 40611,
+    "parentid": 40610,
+    "timestamp": "2025-10-02T03:45:15Z",
+    "sha1": "94e2eaf3c41fd2efe5f3d1a2c3e03795177655f0",
+    "size": 116
+  },
+  "categories": [
+    "Missing Info",
+    "Spoiler Content",
+    "Works in Progress"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Fridge.wiki",
+  "markdown_path": "markdown/Fridge.md"
+}

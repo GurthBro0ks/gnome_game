@@ -1,0 +1,33 @@
+{
+  "pageid": 9284,
+  "ns": 0,
+  "title": "Soma Drink+Lycurgus Cup",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Soma_Drink%2BLycurgus_Cup",
+  "touched": "2025-06-20T00:18:53Z",
+  "length": 185,
+  "lastrevid": 36153,
+  "revision": {
+    "revid": 36153,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:18:53Z",
+    "sha1": "4880060c4b5640d334c02924ef80e386ddf544ec",
+    "size": 185
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "666",
+        "relics": "Soma Drink,Lycurgus Cup",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Epic Protodex Stars, Snail DEF +18;Epic Protodex Stars: 100/100"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Soma_Drink_Lycurgus_Cup.wiki",
+  "markdown_path": "markdown/Soma_Drink_Lycurgus_Cup.md"
+}

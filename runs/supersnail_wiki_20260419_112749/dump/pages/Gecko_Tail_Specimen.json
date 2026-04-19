@@ -1,0 +1,47 @@
+{
+  "pageid": 1081,
+  "ns": 0,
+  "title": "Gecko Tail Specimen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gecko_Tail_Specimen",
+  "touched": "2025-08-11T10:43:04Z",
+  "length": 604,
+  "lastrevid": 37886,
+  "revision": {
+    "revid": 37886,
+    "parentid": 26263,
+    "timestamp": "2025-08-11T10:43:04Z",
+    "sha1": "f7fa282f1eac9b030bebcd32b9c124ec27519549",
+    "size": 604
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gecko Tail Specimen",
+        "class_id": "20080",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "A gecko that frequented the mall had to break its tail trying to survive under the taps of big spenders! The fallen-off tail is soaked in formalin to keep its color and freshness. It's one of the favorite collectables of the spenders!",
+        "fame": "18",
+        "art": "12",
+        "fth": "16",
+        "civ": "31",
+        "tech": "13",
+        "ss1": "Zombie Gene research Cell cost -0.6%",
+        "ss2": "Zombie Gene research Cell cost -1.2%",
+        "ss3": "Zombie Gene research Cell cost -1.8%",
+        "ss4": "Zombie Gene research Cell cost -1.8%",
+        "ss7": "Zombie Gene research Cell cost -1.8%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gecko_Tail_Specimen.wiki",
+  "markdown_path": "markdown/Gecko_Tail_Specimen.md"
+}

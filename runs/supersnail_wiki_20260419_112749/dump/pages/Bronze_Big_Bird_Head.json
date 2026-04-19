@@ -1,0 +1,47 @@
+{
+  "pageid": 11029,
+  "ns": 0,
+  "title": "Bronze Big Bird Head",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Bronze_Big_Bird_Head",
+  "touched": "2025-08-11T11:09:37Z",
+  "length": 793,
+  "lastrevid": 39041,
+  "revision": {
+    "revid": 39041,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:09:37Z",
+    "sha1": "15f0033453b5238897d1b63333ec660d685766be",
+    "size": 793
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Bronze Big Bird Head",
+        "class_id": "20083",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "It was excavated in the Sanxingdui ritual pit II and is the largest of all the bird-shaped artifacts in the Sanxingdui. It may have been a decorative object on a temple or mounted on top of some object as a symbol for ceremonial purposes.",
+        "fame": "15",
+        "art": "10",
+        "fth": "19",
+        "civ": "29",
+        "tech": "17",
+        "ss1": "Per 5 Orange Museum Promos, Snail RUSH +5<br>Orange Museum Promos: 50/50",
+        "ss2": "Per 5 Orange Museum Promos, Snail RUSH +10<br>Orange Museum Promos: 50/50",
+        "ss3": "Per 5 Orange Museum Promos, Snail RUSH +15<br>Orange Museum Promos: 50/50",
+        "ss4": "Per 5 Orange Museum Promos, Snail RUSH +15<br>Orange Museum Promos: 50/50",
+        "ss7": "Per 5 Orange Museum Promos, Snail RUSH +15<br>Orange Museum Promos: 50/50<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Bronze_Big_Bird_Head.wiki",
+  "markdown_path": "markdown/Bronze_Big_Bird_Head.md"
+}

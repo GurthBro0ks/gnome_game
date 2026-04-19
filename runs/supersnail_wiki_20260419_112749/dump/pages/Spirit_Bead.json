@@ -1,0 +1,47 @@
+{
+  "pageid": 1286,
+  "ns": 0,
+  "title": "Spirit Bead",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Spirit_Bead",
+  "touched": "2025-08-11T10:36:18Z",
+  "length": 597,
+  "lastrevid": 37603,
+  "revision": {
+    "revid": 37603,
+    "parentid": 22440,
+    "timestamp": "2025-08-11T10:36:18Z",
+    "sha1": "1e5ad444ceb69b83036e34a982cd50e9d2f05511",
+    "size": 597
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Spirit Bead",
+        "class_id": "20215",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "Legend has it that this gemstone originated in the heavenly pool of Kunlun Mountain, formed by natural spiritual energy. It was later acquired by the Deity Taiyi and became a rare treasure even for immortals!",
+        "fame": "14",
+        "art": "14",
+        "fth": "30",
+        "civ": "16",
+        "tech": "16",
+        "ss1": "Lottery Blue Orbs turn to Purple by +0.2%",
+        "ss2": "Lottery Blue Orbs turn to Purple by +0.4%",
+        "ss3": "Lottery Blue Orbs turn to Purple by +0.6%",
+        "ss4": "Lottery Blue Orbs turn to Purple by +0.6%",
+        "ss7": "Lottery Blue Orbs turn to Purple by +0.6%<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Spirit_Bead.wiki",
+  "markdown_path": "markdown/Spirit_Bead.md"
+}

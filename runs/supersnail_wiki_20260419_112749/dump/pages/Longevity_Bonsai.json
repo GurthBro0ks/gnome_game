@@ -1,0 +1,47 @@
+{
+  "pageid": 11072,
+  "ns": 0,
+  "title": "Longevity Bonsai",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Longevity_Bonsai",
+  "touched": "2025-08-11T11:11:19Z",
+  "length": 839,
+  "lastrevid": 39112,
+  "revision": {
+    "revid": 39112,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:11:19Z",
+    "sha1": "9f7abcca4c8280e3745dc69dedbf599a3bc99765",
+    "size": 839
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Longevity Bonsai",
+        "class_id": "20166",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "The bonsai of the craftsman's ingenuity has the appearance of a rectangular pot covered in silver gilding and filigree. Green patterns of hanging clouds cover the pot's bottom and it has sea water filigree, fairy pavilions, floating clouds, and two golden dragons as decorations. Other things that are put in the pot are malachite mountains, coral trees, and different kinds of gemstones. People are often amazed by how well it was made.",
+        "fame": "18",
+        "art": "30",
+        "fth": "13",
+        "civ": "15",
+        "tech": "14",
+        "ss1": "Per 10 Minions in battle:<br>> Troop HP +10",
+        "ss2": "Per 10 Minions in battle:<br>> Troop HP +20",
+        "ss3": "Per 10 Minions in battle:<br>> Troop HP +30",
+        "ss4": "Per 10 Minions in battle:<br>> Troop HP +30",
+        "ss7": "Per 10 Minions in battle:<br>> Troop HP +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Longevity_Bonsai.wiki",
+  "markdown_path": "markdown/Longevity_Bonsai.md"
+}

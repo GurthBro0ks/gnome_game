@@ -1,0 +1,59 @@
+{
+  "pageid": 440,
+  "ns": 0,
+  "title": "Mermaid Statue",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mermaid_Statue",
+  "touched": "2024-09-06T09:57:26Z",
+  "length": 2079,
+  "lastrevid": 26255,
+  "revision": {
+    "revid": 26255,
+    "parentid": 22266,
+    "timestamp": "2024-05-07T14:46:21Z",
+    "sha1": "eeac2dcf4d75a02a14b55d85aa2fbebd35cf500b",
+    "size": 2079
+  },
+  "categories": [
+    "ART Relics",
+    "DEF Boost",
+    "DNA Boost",
+    "Enhanced by DNA Strength",
+    "Minion ATK Boost",
+    "Mutant Gene Cost Reduction",
+    "Nanosaur Boost",
+    "Purple ART Relics",
+    "Purple Relics",
+    "Relics",
+    "Tadpole Pond Output Boost",
+    "Tadpole Pond Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mermaid Statue",
+        "rank": "AAA",
+        "affct": "ART",
+        "birthday": "01-11",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Relic Forge (80 Relic RF), Wishing (0.14%)",
+        "description": "On Jan 11, 1913, sculptor Erik Erikson created the bronze mermaid statue as a symbol of Denmark.\n\nJacob, the founder of Carlsberg Brewery, donated money to build this bronze statue. It is inspired by \"The Little Mermaid\" written by Andersen. Her unique charm and tragic destiny have moved Jacob to make a statue for her. The statue was placed in shallow seawater, with several pieces of granite piled underneath an oval granite as base. After the completion of the statue, it became a famous icon of  …",
+        "fame": "47",
+        "art": "73",
+        "fth": "35",
+        "civ": "43",
+        "tech": "45",
+        "ss1": "Mutant Gene Research B-tad Cost -1.8%<br>Mutant Gene Research Cells consumed -1.8%",
+        "ss2": "Mutant Gene Research B-tad Cost -2.4%<br>Mutant Gene Research Cells consumed -2.4%",
+        "ss3": "Mutant Gene Research B-tad Cost -3%<br>Mutant Gene Research Cells Consumed -3%",
+        "ss4": "Mutant Gene Research B-tad Cost -4.2%<br>Mutant Gene Research Cells consumed -4.2%",
+        "ss5": "Mutant Gene Research B-tad Cost -5.4%<br>Mutant Gene Research Cells consumed -5.4%",
+        "ss7": "Mutant Gene Research B-tad Cost -5.4%<br>Mutant Gene Research Cells consumed -5.4%<br>Mutant Gene Research B-tad Cost -4.2% (Awakened)",
+        "skill1": "[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: B-tad Output +15%",
+        "skill2": "[[File:Tadpolepond skill II.png|50px]] Place in Tadpole Pond: Max Cap +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mermaid_Statue.wiki",
+  "markdown_path": "markdown/Mermaid_Statue.md"
+}

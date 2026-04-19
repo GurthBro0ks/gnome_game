@@ -1,0 +1,33 @@
+{
+  "pageid": 4560,
+  "ns": 0,
+  "title": "Acta Apostolicae Sedis+Innocent III Armorial",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Acta_Apostolicae_Sedis%2BInnocent_III_Armorial",
+  "touched": "2025-06-19T23:54:17Z",
+  "length": 165,
+  "lastrevid": 35671,
+  "revision": {
+    "revid": 35671,
+    "parentid": 18448,
+    "timestamp": "2025-06-19T23:54:17Z",
+    "sha1": "9be6587d573e184cf62a5ab8efd41b8c2cfeb50e",
+    "size": 165
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "321",
+        "relics": "Acta Apostolicae Sedis,Innocent III Armorial",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Free Gene Speedup (Angel) +30m"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Acta_Apostolicae_Sedis_Innocent_III_Armorial.wiki",
+  "markdown_path": "markdown/Acta_Apostolicae_Sedis_Innocent_III_Armorial.md"
+}

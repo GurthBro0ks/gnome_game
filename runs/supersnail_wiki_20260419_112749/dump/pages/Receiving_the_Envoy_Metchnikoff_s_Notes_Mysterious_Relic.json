@@ -1,0 +1,35 @@
+{
+  "pageid": 4295,
+  "ns": 0,
+  "title": "Receiving the Envoy+Metchnikoff's Notes+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Receiving_the_Envoy%2BMetchnikoff%27s_Notes%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:55Z",
+  "length": 224,
+  "lastrevid": 23167,
+  "revision": {
+    "revid": 23167,
+    "parentid": 23166,
+    "timestamp": "2024-03-09T05:44:27Z",
+    "sha1": "8a41145c8fb057719915c7340f3a531732666e44",
+    "size": 224
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Receiving the Envoy,Metchnikoff's Notes,Mysterious Relic",
+        "rank": "orange",
+        "amount": "3",
+        "category": "minion",
+        "description": "Snail Leadership +8"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Receiving_the_Envoy_Metchnikoff_s_Notes_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Receiving_the_Envoy_Metchnikoff_s_Notes_Mysterious_Relic.md"
+}

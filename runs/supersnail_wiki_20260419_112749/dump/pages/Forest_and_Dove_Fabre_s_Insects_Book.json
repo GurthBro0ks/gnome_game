@@ -1,0 +1,33 @@
+{
+  "pageid": 9309,
+  "ns": 0,
+  "title": "Forest and Dove+Fabre's Insects Book",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Forest_and_Dove%2BFabre%27s_Insects_Book",
+  "touched": "2025-06-20T00:20:56Z",
+  "length": 146,
+  "lastrevid": 36224,
+  "revision": {
+    "revid": 36224,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:20:56Z",
+    "sha1": "3c89588d5d1c11d0732776e7982474f46157d8f8",
+    "size": 146
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "590",
+        "relics": "Forest and Dove,Fabre's Insects Book",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail Leadership +3"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Forest_and_Dove_Fabre_s_Insects_Book.wiki",
+  "markdown_path": "markdown/Forest_and_Dove_Fabre_s_Insects_Book.md"
+}

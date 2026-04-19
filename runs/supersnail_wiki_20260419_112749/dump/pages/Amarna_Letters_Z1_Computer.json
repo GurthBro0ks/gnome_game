@@ -1,0 +1,35 @@
+{
+  "pageid": 8001,
+  "ns": 0,
+  "title": "Amarna Letters+Z1 Computer",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Amarna_Letters%2BZ1_Computer",
+  "touched": "2025-03-23T18:39:05Z",
+  "length": 235,
+  "lastrevid": 33454,
+  "revision": {
+    "revid": 33454,
+    "parentid": 0,
+    "timestamp": "2025-02-22T03:06:08Z",
+    "sha1": "563b24ee29fc52cb4aa0b7bc4cd8e27ae61d46fb",
+    "size": 235
+  },
+  "categories": [
+    "DEF Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Amarna Letters,Z1 Computer",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 3 FAME Relics awakened, Snail DEF +7; FAME Relics Awakened: 180/180"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Amarna_Letters_Z1_Computer.wiki",
+  "markdown_path": "markdown/Amarna_Letters_Z1_Computer.md"
+}

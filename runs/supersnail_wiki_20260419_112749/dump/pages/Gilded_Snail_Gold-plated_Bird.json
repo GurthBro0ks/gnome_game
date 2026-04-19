@@ -1,0 +1,33 @@
+{
+  "pageid": 9933,
+  "ns": 0,
+  "title": "Gilded Snail+Gold-plated Bird",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gilded_Snail%2BGold-plated_Bird",
+  "touched": "2025-08-11T10:32:02Z",
+  "length": 142,
+  "lastrevid": 37410,
+  "revision": {
+    "revid": 37410,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:32:02Z",
+    "sha1": "27c288ef2f53acd2474b5311121de02492998219",
+    "size": 142
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "802",
+        "relics": "Gilded Snail,Gold-plated Bird",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail Leadership +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gilded_Snail_Gold-plated_Bird.wiki",
+  "markdown_path": "markdown/Gilded_Snail_Gold-plated_Bird.md"
+}

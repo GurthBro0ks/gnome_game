@@ -1,0 +1,33 @@
+{
+  "pageid": 9267,
+  "ns": 0,
+  "title": "Celestial Globe+Doppler radar",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Celestial_Globe%2BDoppler_radar",
+  "touched": "2025-06-20T00:16:25Z",
+  "length": 172,
+  "lastrevid": 36104,
+  "revision": {
+    "revid": 36104,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:16:25Z",
+    "sha1": "37619eaa9d4ea38aaf6f1de562a6db4e8ecdf16f",
+    "size": 172
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "597",
+        "relics": "Celestial Globe,Doppler radar",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Dragon Minions in battle: Troop HARD Stats +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Celestial_Globe_Doppler_radar.wiki",
+  "markdown_path": "markdown/Celestial_Globe_Doppler_radar.md"
+}

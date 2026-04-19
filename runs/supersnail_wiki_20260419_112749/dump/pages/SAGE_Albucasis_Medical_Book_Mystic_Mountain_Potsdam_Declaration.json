@@ -1,0 +1,35 @@
+{
+  "pageid": 5268,
+  "ns": 0,
+  "title": "SAGE+Albucasis Medical Book+Mystic Mountain+Potsdam Declaration",
+  "fullurl": "https://supersnail.wiki.gg/wiki/SAGE%2BAlbucasis_Medical_Book%2BMystic_Mountain%2BPotsdam_Declaration",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 231,
+  "lastrevid": 28656,
+  "revision": {
+    "revid": 28656,
+    "parentid": 28655,
+    "timestamp": "2024-08-03T12:58:06Z",
+    "sha1": "48f38774e005ae997fc5bd6a33cbbb2ae3a8f71f",
+    "size": 231
+  },
+  "categories": [
+    "Leadership Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "SAGE,Albucasis Medical Book,Mystic Mountain,Potsdam Declaration",
+        "rank": "orange",
+        "amount": "4",
+        "category": "minion",
+        "description": "Snail Leadership +9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/SAGE_Albucasis_Medical_Book_Mystic_Mountain_Potsdam_Declaration.wiki",
+  "markdown_path": "markdown/SAGE_Albucasis_Medical_Book_Mystic_Mountain_Potsdam_Declaration.md"
+}

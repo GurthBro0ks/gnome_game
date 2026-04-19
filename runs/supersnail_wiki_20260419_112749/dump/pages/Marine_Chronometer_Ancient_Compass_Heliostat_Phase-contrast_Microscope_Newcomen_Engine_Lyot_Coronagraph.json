@@ -1,0 +1,33 @@
+{
+  "pageid": 8501,
+  "ns": 0,
+  "title": "Marine Chronometer+Ancient Compass+Heliostat+Phase-contrast Microscope+Newcomen Engine+Lyot Coronagraph",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Marine_Chronometer%2BAncient_Compass%2BHeliostat%2BPhase-contrast_Microscope%2BNewcomen_Engine%2BLyot_Coronagraph",
+  "touched": "2025-06-20T00:13:40Z",
+  "length": 234,
+  "lastrevid": 35992,
+  "revision": {
+    "revid": 35992,
+    "parentid": 34385,
+    "timestamp": "2025-06-20T00:13:40Z",
+    "sha1": "847ccbc8220f2184078279c6b4a278313a994c6f",
+    "size": 234
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "654",
+        "relics": "Marine Chronometer,Ancient Compass,Heliostat,Phase-contrast Microscope,Newcomen Engine,Lyot Coronagraph",
+        "rank": "blue",
+        "amount": "6",
+        "category": "self",
+        "description": "Merge 1 Blue Stardust: Gain 1 more by 9%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Marine_Chronometer_Ancient_Compass_Heliostat_Phase-contrast_Microscope_Newcomen_Engine_Lyot_Coronagraph.wiki",
+  "markdown_path": "markdown/Marine_Chronometer_Ancient_Compass_Heliostat_Phase-contrast_Microscope_Newcomen_Engine_Lyot_Coronagraph.md"
+}

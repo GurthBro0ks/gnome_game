@@ -1,0 +1,33 @@
+{
+  "pageid": 8511,
+  "ns": 0,
+  "title": "Watermen Pen+Inman Fluorescent Lamp",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Watermen_Pen%2BInman_Fluorescent_Lamp",
+  "touched": "2025-06-20T00:14:22Z",
+  "length": 233,
+  "lastrevid": 36018,
+  "revision": {
+    "revid": 36018,
+    "parentid": 34395,
+    "timestamp": "2025-06-20T00:14:22Z",
+    "sha1": "98d2171b394f4241b8780bf829a91eb8b3426eec",
+    "size": 233
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "629",
+        "relics": "Watermen Pen,Inman Fluorescent Lamp",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2,000 Frost Sanctum Rating Pts, Priest-Snail Assistance DMG +40;Frost Sanctum Rating Pts: 100000/100000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Watermen_Pen_Inman_Fluorescent_Lamp.wiki",
+  "markdown_path": "markdown/Watermen_Pen_Inman_Fluorescent_Lamp.md"
+}

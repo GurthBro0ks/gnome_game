@@ -1,0 +1,52 @@
+{
+  "pageid": 8685,
+  "ns": 0,
+  "title": "Otzi",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Otzi",
+  "touched": "2025-06-20T00:20:22Z",
+  "length": 1591,
+  "lastrevid": 36209,
+  "revision": {
+    "revid": 36209,
+    "parentid": 34652,
+    "timestamp": "2025-06-20T00:20:22Z",
+    "sha1": "ea8ed58e83bd975100cc3f5866a4079234eb6b0b",
+    "size": 1591
+  },
+  "categories": [
+    "CIV Relics",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Otzi",
+        "class_id": "22570",
+        "rank": "AA",
+        "affct": "CIV",
+        "birthday": "09-19",
+        "source": "Lottery Machine No.3 (0.12%)",
+        "description": "On Sept 19, 1990 AD, a German couple discovered the body while hiking in the Alps.<br>Otzi the Iceman is a well-preserved naturally mummified corpse that was named after the valley where it was found. The first tourists who found it thought it was a modern person's corpse, but the Austrian authorities sent the Iceman for analysis and discovered that it came from five thousand years ago, making it the oldest mummy to date.",
+        "fame": "47",
+        "art": "43",
+        "fth": "39",
+        "civ": "70",
+        "tech": "29",
+        "ss1": "Per Surf Clams Calculation LVL, Snail HP +20<br>Per Surf Clams Calculation LVL, Snail ATK +2<br>Surf Clams Calculation: 50/50",
+        "ss2": "Per Surf Clams Calculation LVL, Snail HP +30<br>Per Surf Clams Calculation LVL, Snail ATK +3<br>Surf Clams Calculation: 50/50",
+        "ss3": "Per Surf Clams Calculation LVL, Snail HP +40<br>Per Surf Clams Calculation LVL, Snail ATK +4<br>Surf Clams Calculation: 50/50",
+        "ss4": "Per Surf Clams Calculation LVL, Snail HP +60<br>Per Surf Clams Calculation LVL, Snail ATK +6<br>Surf Clams Calculation: 50/50",
+        "ss5": "Per Surf Clams Calculation LVL, Snail HP +80<br>Per Surf Clams Calculation LVL, Snail ATK +8<br>Surf Clams Calculation: 50/50",
+        "ss7": "Per Surf Clams Calculation LVL, Snail HP +80<br>Per Surf Clams Calculation LVL, Snail ATK +8<br>Surf Clams Calculation: 50/50<br>Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's CIV +10",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Card Drops +3%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Otzi.wiki",
+  "markdown_path": "markdown/Otzi.md"
+}

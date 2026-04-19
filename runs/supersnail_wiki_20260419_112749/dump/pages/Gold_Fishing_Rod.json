@@ -1,0 +1,47 @@
+{
+  "pageid": 1390,
+  "ns": 0,
+  "title": "Gold Fishing Rod",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gold_Fishing_Rod",
+  "touched": "2025-08-11T10:40:29Z",
+  "length": 640,
+  "lastrevid": 37776,
+  "revision": {
+    "revid": 37776,
+    "parentid": 17129,
+    "timestamp": "2025-08-11T10:40:29Z",
+    "sha1": "4eaa931cc5c9944cdd6daa06a86ea340e860ea05",
+    "size": 640
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Gold Fishing Rod",
+        "class_id": "20338",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "As a well-known hitwoman, Assassin Eve's favorite hobby is fishing at the beach. She worked hard for many years to finally create this Gold Fishing Rod that could fish anything from whale to shrimp, and it became her favorite possession!",
+        "fame": "31",
+        "art": "11",
+        "fth": "17",
+        "civ": "16",
+        "tech": "15",
+        "ss1": "The Pond has a +2% chance to produce W-tads",
+        "ss2": "The Pond has a +4% chance to produce W-tads",
+        "ss3": "The Pond has a +6% chance to produce W-tads",
+        "ss4": "The Pond has a +6% chance to produce W-tads",
+        "ss7": "The Pond has a +6% chance to produce W-tads<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gold_Fishing_Rod.wiki",
+  "markdown_path": "markdown/Gold_Fishing_Rod.md"
+}

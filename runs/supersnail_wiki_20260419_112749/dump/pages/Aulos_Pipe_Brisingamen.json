@@ -1,0 +1,33 @@
+{
+  "pageid": 4716,
+  "ns": 0,
+  "title": "Aulos Pipe+Brisingamen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Aulos_Pipe%2BBrisingamen",
+  "touched": "2025-06-20T00:09:47Z",
+  "length": 173,
+  "lastrevid": 35926,
+  "revision": {
+    "revid": 35926,
+    "parentid": 16988,
+    "timestamp": "2025-06-20T00:09:47Z",
+    "sha1": "980b5934c78945c0f506588086596d85f825726b",
+    "size": 173
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "326",
+        "relics": "Aulos Pipe,Brisingamen",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 5 Blue Relics gained, Snail DEF +15;Blue Relics: 180/180"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Aulos_Pipe_Brisingamen.wiki",
+  "markdown_path": "markdown/Aulos_Pipe_Brisingamen.md"
+}

@@ -1,0 +1,53 @@
+{
+  "pageid": 8577,
+  "ns": 0,
+  "title": "Mummy Juanita",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mummy_Juanita",
+  "touched": "2025-06-20T00:16:20Z",
+  "length": 1981,
+  "lastrevid": 36101,
+  "revision": {
+    "revid": 36101,
+    "parentid": 34526,
+    "timestamp": "2025-06-20T00:16:20Z",
+    "sha1": "3577a0e85f66d0125156fe0f398c454894727b58",
+    "size": 1981
+  },
+  "categories": [
+    "CIV Relics",
+    "Pages with broken file links",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mummy Juanita",
+        "class_id": "22580",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "11-15",
+        "source": "Lottery Machine No.3 (0.06%)",
+        "description": "On Nov 15, 1546 AD, Juanita was taken to the top of Ampato mountain where she met her end.<br>Juanita is a mummy from several hundred years ago and is one of the best-preserved mummies in the world. Based on various factors such as the discovery site and accompanying burial objects, it is believed that this Incan girl died as a sacrificial offering. Due to the freezing conditions, her biological features have been perfectly preserved, not only does she look like she did when she was alive, but a …",
+        "fame": "50",
+        "art": "47",
+        "fth": "40",
+        "civ": "71",
+        "tech": "35",
+        "ss1": "Dismantle 1 Purple Brand: Gain 1 more fragment by 6%<br>Per +30F in Minion Sims Record, Snail RUSH +3<br>Minion Sims record: 1500/1500F",
+        "ss2": "Dismantle 1 Purple Brand: Gain 1 more fragment by 8%<br>Per +30F in Minion Sims Record, Snail RUSH +4<br>Minion Sims record: 1500/1500F",
+        "ss3": "Dismantle 1 Purple Brand: Gain 1 more fragment by 10%<br>Per +30F in Minion Sims Record, Snail RUSH +5<br>Minion Sims record: 1500/1500F",
+        "ss4": "Dismantle 1 Purple Brand: Gain 1 more fragment by 14%<br>Per +30F in Minion Sims Record, Snail RUSH +7<br>Minion Sims record: 1500/1500F",
+        "ss5": "Dismantle 1 Purple Brand: Gain 1 more fragment by 18%<br>Per +30F in Minion Sims Record, Snail RUSH +9<br>Minion Sims record: 1500/1500F",
+        "ss7": "Dismantle 1 Purple Brand: Gain 1 more fragment by 18%<br>Per +30F in Minion Sims Record, Snail RUSH +9<br>Minion Sims record: 1500/1500F<br>Dismantle 1 Purple Brand: Gain 1 more fragment by 14% (Awakened)",
+        "skill1": "[[File:Frostsanctum skill II.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Cap +15%",
+        "skill2": "[[File:Frostsanctum skill II.png|50px]]Place in Frost Sanctum: Frost Sanctum, Glorium Output +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mummy_Juanita.wiki",
+  "markdown_path": "markdown/Mummy_Juanita.md"
+}

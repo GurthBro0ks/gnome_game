@@ -1,0 +1,58 @@
+{
+  "pageid": 1097,
+  "ns": 0,
+  "title": "Otto Engine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Otto_Engine",
+  "touched": "2024-09-06T14:45:13Z",
+  "length": 1900,
+  "lastrevid": 22328,
+  "revision": {
+    "revid": 22328,
+    "parentid": 17749,
+    "timestamp": "2024-02-17T23:25:45Z",
+    "sha1": "0ccf761bbb5fbba9605dba2d0c6f133349c9a183",
+    "size": 1900
+  },
+  "categories": [
+    "DEF Boost",
+    "Kemet Exploration Boost",
+    "Kemet Museum Boost",
+    "Mecha Minion ATK Boost",
+    "Minion HARD Boost",
+    "Purple Relics",
+    "Purple TECH Relics",
+    "Relics",
+    "Snail Mech Boost",
+    "TECH Relics",
+    "Travel Speed Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Otto Engine",
+        "rank": "AAA",
+        "affct": "TECH",
+        "birthday": "05-02",
+        "source": "Fragment Crafting (1.6%), Lottery Machine (0.03%), Wishing (0.14%), Tool Chest (1.5%), Relic Forge (80 Relic RF)",
+        "description": "On May 2, 1876, Otto made the first four-stroke internal combustion engine.\n\nOtto's internal combustion engine runs in a smooth and quiet way. Otto then upgraded the engine by adding flywheels, lengthening the air inlet, and upgrading the cylinder cap, so as to generate mixed gas. Its thermal efficiency is 2 times higher than steam engines. Such thermal efficiency is able to replace steam engines and gives rise to modern four-stroke engines.\n\n[Internal combustion engine in the 19th century]\n\nIn  …",
+        "fame": "47",
+        "art": "48",
+        "fth": "32",
+        "civ": "45",
+        "tech": "71",
+        "ss1": "Travel SPD +0.6%<br>Per 30 Mecha Minions in battle, Troop ATK +4",
+        "ss2": "Travel SPD +0.8%<br>Per 30 Mecha Minions in battle, Troop ATK +8",
+        "ss3": "Travel SPD +1%<br>Per 30 Mecha Minions in battle, Troop ATK +12",
+        "ss4": "Travel SPD +1.4%<br>Per 30 Mecha Minions in battle, Troop ATK +20",
+        "ss5": "Travel SPD +1.8%<br>Per 30 Mecha Minions in battle, Troop ATK +28",
+        "ss7": "Travel SPD +1.8%<br>Per 30 Mecha Minions in battle, Troop ATK +28<br>Travel SPD +1.4% (Awakened)",
+        "skill1": "[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: In Kemet, 2x Blue Card Drops +7.5%",
+        "skill2": "[[File:Kemet skill II.png|50px]] Place in Kemetic Museum: In Kemet, 2x Blue Reagent Drops +7.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Otto_Engine.wiki",
+  "markdown_path": "markdown/Otto_Engine.md"
+}

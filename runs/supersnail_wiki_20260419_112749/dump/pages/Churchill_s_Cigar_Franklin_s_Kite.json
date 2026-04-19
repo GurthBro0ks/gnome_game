@@ -1,0 +1,35 @@
+{
+  "pageid": 3302,
+  "ns": 0,
+  "title": "Churchill's Cigar+Franklin's Kite",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Churchill%27s_Cigar%2BFranklin%27s_Kite",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 230,
+  "lastrevid": 18345,
+  "revision": {
+    "revid": 18345,
+    "parentid": 17765,
+    "timestamp": "2023-11-13T21:03:07Z",
+    "sha1": "1f1fd0b441e90bb7b29c7d337f82fa61421cf76d",
+    "size": 230
+  },
+  "categories": [
+    "Demon Minion ATK Boost",
+    "Minion"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Churchill's Cigar,Franklin's Kite",
+        "rank": "blue",
+        "amount": "2",
+        "category": "minion",
+        "description": "Per 10 Demon Minions in battle: Troop ATK +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Churchill_s_Cigar_Franklin_s_Kite.wiki",
+  "markdown_path": "markdown/Churchill_s_Cigar_Franklin_s_Kite.md"
+}

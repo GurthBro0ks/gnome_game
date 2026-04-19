@@ -1,0 +1,35 @@
+{
+  "pageid": 6334,
+  "ns": 0,
+  "title": "Space Elevator+Mysterious Relic",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Space_Elevator%2BMysterious_Relic",
+  "touched": "2024-12-02T03:00:58Z",
+  "length": 204,
+  "lastrevid": 25762,
+  "revision": {
+    "revid": 25762,
+    "parentid": 0,
+    "timestamp": "2024-04-28T22:33:41Z",
+    "sha1": "a36fef401bfeb6699b61bf24aad0eb396ec8801c",
+    "size": 204
+  },
+  "categories": [
+    "ATK Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Space Elevator,Mysterious Relic",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per devotee appointed, Snail ATK +7"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Space_Elevator_Mysterious_Relic.wiki",
+  "markdown_path": "markdown/Space_Elevator_Mysterious_Relic.md"
+}

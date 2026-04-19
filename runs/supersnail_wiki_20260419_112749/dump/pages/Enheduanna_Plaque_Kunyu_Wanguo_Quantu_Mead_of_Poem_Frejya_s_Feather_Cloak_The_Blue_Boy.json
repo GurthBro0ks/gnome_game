@@ -1,0 +1,33 @@
+{
+  "pageid": 9263,
+  "ns": 0,
+  "title": "Enheduanna Plaque+Kunyu Wanguo Quantu+Mead of Poem+Frejya's Feather Cloak+The Blue Boy",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Enheduanna_Plaque%2BKunyu_Wanguo_Quantu%2BMead_of_Poem%2BFrejya%27s_Feather_Cloak%2BThe_Blue_Boy",
+  "touched": "2025-06-20T00:16:04Z",
+  "length": 198,
+  "lastrevid": 36090,
+  "revision": {
+    "revid": 36090,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:16:04Z",
+    "sha1": "345b017fc3cfa82501d3dab845e75210764b23f2",
+    "size": 198
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "707",
+        "relics": "Enheduanna Plaque,Kunyu Wanguo Quantu,Mead of Poem,Frejya's Feather Cloak,The Blue Boy",
+        "rank": "purple",
+        "amount": "5",
+        "category": "self",
+        "description": "Snail Leadership +6"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Enheduanna_Plaque_Kunyu_Wanguo_Quantu_Mead_of_Poem_Frejya_s_Feather_Cloak_The_Blue_Boy.wiki",
+  "markdown_path": "markdown/Enheduanna_Plaque_Kunyu_Wanguo_Quantu_Mead_of_Poem_Frejya_s_Feather_Cloak_The_Blue_Boy.md"
+}

@@ -1,0 +1,50 @@
+{
+  "pageid": 4647,
+  "ns": 0,
+  "title": "Crookes Tube",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Crookes_Tube",
+  "touched": "2025-06-16T23:09:24Z",
+  "length": 1370,
+  "lastrevid": 34905,
+  "revision": {
+    "revid": 34905,
+    "parentid": 32004,
+    "timestamp": "2025-06-16T23:09:24Z",
+    "sha1": "469aea300cb5a42336bc292cc0f8d9c6e0b7916c",
+    "size": 1370
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Crookes Tube",
+        "class_id": "22095",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "06-19",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Jun 19, 1875 AD, the British physicist, Duke Crookes, developed the cathode-ray tube.<br>A Crookes tube, also known as a cathode-ray tube, developed by British physicist Crookes, is an electron beam tube that can convert electrical signals into optical images. It mainly consists of an electron gun, a deflection system, a tube shell, and a fluorescent screen. It can emit an electron beam, which is displayed in the form of photoelectricity on the fluorescent screen, and the deflection of the el …",
+        "fame": "28",
+        "art": "19",
+        "fth": "31",
+        "civ": "28",
+        "tech": "48",
+        "ss1": "Per 10 Mecha Minions in battle:<br>> Troop HARD Stats +1",
+        "ss2": "Per 10 Mecha Minions in battle:<br>> Troop HARD Stats +2",
+        "ss3": "Per 10 Mecha Minions in battle:<br>> Troop HARD Stats +3",
+        "ss4": "Per 10 Mecha Minions in battle:<br>> Troop HARD Stats +5",
+        "ss7": "Per 10 Mecha Minions in battle:<br>> Troop HARD Stats +5<br>Per 10 Mecha Minions in battle:<br>> Troop HARD Stats +5 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Mecha Cells gained +2.5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Crookes_Tube.wiki",
+  "markdown_path": "markdown/Crookes_Tube.md"
+}

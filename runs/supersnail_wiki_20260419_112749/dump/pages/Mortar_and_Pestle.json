@@ -1,0 +1,47 @@
+{
+  "pageid": 11140,
+  "ns": 0,
+  "title": "Mortar and Pestle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mortar_and_Pestle",
+  "touched": "2025-08-11T11:13:57Z",
+  "length": 883,
+  "lastrevid": 39228,
+  "revision": {
+    "revid": 39228,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:13:57Z",
+    "sha1": "669a56c2e8d67d588b5c85424281cd896c7b3946",
+    "size": 883
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Mortar and Pestle",
+        "class_id": "20546",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "This small but practical mortar and pestle are said to be the tools used by the Moon Rabbit for medicine preparation. While its smooth surface shows no signs of wear and tear, its delightful aroma is the best proof of its extensive use.",
+        "fame": "16",
+        "art": "15",
+        "fth": "13",
+        "civ": "33",
+        "tech": "13",
+        "ss1": "Free Gene Speedup (Angel) +5m<br>Per 3 Incense used, Snail RUSH +1<br>Incense Used: 150/150",
+        "ss2": "Free Gene Speedup (Angel) +10m<br>Per 3 Incense used, Snail RUSH +2<br>Incense Used: 150/150",
+        "ss3": "Free Gene Speedup (Angel) +15m<br>Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150",
+        "ss4": "Free Gene Speedup (Angel) +15m<br>Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150",
+        "ss7": "Free Gene Speedup (Angel) +15m<br>Per 3 Incense used, Snail RUSH +3<br>Incense Used: 150/150<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mortar_and_Pestle.wiki",
+  "markdown_path": "markdown/Mortar_and_Pestle.md"
+}

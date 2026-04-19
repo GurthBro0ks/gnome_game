@@ -1,0 +1,33 @@
+{
+  "pageid": 8877,
+  "ns": 0,
+  "title": "Ixion's Wheel+Adari 2600+Annunciation+Solar Sail+Hurrian Songs",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Ixion%27s_Wheel%2BAdari_2600%2BAnnunciation%2BSolar_Sail%2BHurrian_Songs",
+  "touched": "2025-06-16T23:08:55Z",
+  "length": 174,
+  "lastrevid": 34886,
+  "revision": {
+    "revid": 34886,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:08:55Z",
+    "sha1": "92e1f45a4d63618fcfbeb5493f74587a81b169ca",
+    "size": 174
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "445",
+        "relics": "Ixion's Wheel,Adari 2600,Annunciation,Solar Sail,Hurrian Songs",
+        "rank": "purple",
+        "amount": "5",
+        "category": "self",
+        "description": "Angel Minion MAX +9"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Ixion_s_Wheel_Adari_2600_Annunciation_Solar_Sail_Hurrian_Songs.wiki",
+  "markdown_path": "markdown/Ixion_s_Wheel_Adari_2600_Annunciation_Solar_Sail_Hurrian_Songs.md"
+}

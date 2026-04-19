@@ -1,0 +1,50 @@
+{
+  "pageid": 4654,
+  "ns": 0,
+  "title": "Pascal's Barrel",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Pascal%27s_Barrel",
+  "touched": "2025-06-19T23:52:50Z",
+  "length": 1429,
+  "lastrevid": 35653,
+  "revision": {
+    "revid": 35653,
+    "parentid": 34896,
+    "timestamp": "2025-06-19T23:52:50Z",
+    "sha1": "9a22c17ed755b3e80ad15f96ec8310e9ddaa81dd",
+    "size": 1429
+  },
+  "categories": [
+    "Blue Relics",
+    "Blue TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Pascal's Barrel",
+        "class_id": "22090",
+        "rank": "Blue",
+        "affct": "TECH",
+        "birthday": "12-11",
+        "source": "Lottery Machine No.2 (0.03%), Wishing (0.01%)",
+        "description": "On Dec 11, 1648 AD, physicist Pascal proved the existence of hydraulic pressure through experiments.<br>This dilapidated wooden barrel was used by Pascal for his experiments. At that time, he inserted a long and thin pipe from the balcony of the building into the airtight wooden barrel filled with water downstairs and started filling it with water. He only poured a few glasses of water into the pipe, and as a result, the wooden barrel downstairs burst. This experiment proves that the pressure ex …",
+        "fame": "31",
+        "art": "20",
+        "fth": "30",
+        "civ": "28",
+        "tech": "45",
+        "ss1": "Per 5 Lumber Camp LVLs, Snail DEF +3<br>Lumber Camp LVL: 90/90",
+        "ss2": "Per 5 Lumber Camp LVLs, Snail DEF +6<br>Lumber Camp LVL: 90/90",
+        "ss3": "Per 5 Lumber Camp LVLs, Snail DEF +9<br>Lumber Camp LVL: 90/90",
+        "ss4": "Per 5 Lumber Camp LVLs, Snail DEF +15<br>Lumber Camp LVL: 90/90",
+        "ss7": "Per 5 Lumber Camp LVLs, Snail DEF +15<br>Lumber Camp LVL: 90/90<br>Snail DEF +50 (Awakened)",
+        "skill1": "[[File:Rift skill I.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +20"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Pascal_s_Barrel.wiki",
+  "markdown_path": "markdown/Pascal_s_Barrel.md"
+}

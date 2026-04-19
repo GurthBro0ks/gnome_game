@@ -1,0 +1,47 @@
+{
+  "pageid": 10822,
+  "ns": 0,
+  "title": "PUFF Award",
+  "fullurl": "https://supersnail.wiki.gg/wiki/PUFF_Award",
+  "touched": "2025-08-11T11:02:37Z",
+  "length": 958,
+  "lastrevid": 38736,
+  "revision": {
+    "revid": 38736,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:02:37Z",
+    "sha1": "e3d75738c86a8c1ec776fe53a526955a8d1008cf",
+    "size": 958
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "PUFF Award",
+        "class_id": "20526",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "The PUFF Award is awarded at the Tallinn Black Nights International Film Festival, the largest and most prestigious international film festival in northeastern Europe. The festival comprises four competition sections, three affiliated film festivals, and a year-round online film market. During the festival, filmmakers can watch the most interesting and promising films from Europe, Russia, and the United States.",
+        "fame": "13",
+        "art": "15",
+        "fth": "15",
+        "civ": "31",
+        "tech": "16",
+        "ss1": "Per 10 Epic Protodex Stars, Snail ATK +4<br>Epic Protodex Stars: 200/200",
+        "ss2": "Per 10 Epic Protodex Stars, Snail ATK +8<br>Epic Protodex Stars: 200/200",
+        "ss3": "Per 10 Epic Protodex Stars, Snail ATK +12<br>Epic Protodex Stars: 200/200",
+        "ss4": "Per 10 Epic Protodex Stars, Snail ATK +12<br>Epic Protodex Stars: 200/200",
+        "ss7": "Per 10 Epic Protodex Stars, Snail ATK +12<br>Epic Protodex Stars: 200/200<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/PUFF_Award.wiki",
+  "markdown_path": "markdown/PUFF_Award.md"
+}

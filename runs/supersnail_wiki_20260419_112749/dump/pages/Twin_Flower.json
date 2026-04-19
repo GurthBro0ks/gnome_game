@@ -1,0 +1,47 @@
+{
+  "pageid": 10812,
+  "ns": 0,
+  "title": "Twin Flower",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Twin_Flower",
+  "touched": "2025-08-11T11:02:20Z",
+  "length": 1018,
+  "lastrevid": 38724,
+  "revision": {
+    "revid": 38724,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:02:20Z",
+    "sha1": "f1b7d78852afc94c0bd975dda1deaa51cfc7de68",
+    "size": 1018
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Twin Flower",
+        "class_id": "20650",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "A princess was locked away for loving the enemy prince. Years later, he conquered her kingdom but his army wanted her dead. They fled by ship, but a storm struck. The prince woke on shore—alone. The princess' body lay beside him, cold. Heartbroken, he held her and died. Where their bodies rested, twin flowers grew. Always apart, until their last breath together.",
+        "fame": "14",
+        "art": "33",
+        "fth": "13",
+        "civ": "14",
+        "tech": "16",
+        "ss1": "Per 100 Minions in battle:<br>> Troop ATK +30<br>Per 100 Minions in battle:<br>> Troop DEF +30",
+        "ss2": "Per 100 Minions in battle:<br>> Troop ATK +30<br>Per 100 Minions in battle:<br>> Troop DEF +30",
+        "ss3": "Per 100 Minions in battle:<br>> Troop ATK +30<br>Per 100 Minions in battle:<br>> Troop DEF +30",
+        "ss4": "Per 100 Minions in battle:<br>> Troop ATK +30<br>Per 100 Minions in battle:<br>> Troop DEF +30",
+        "ss7": "Per 100 Minions in battle:<br>> Troop ATK +30<br>Per 100 Minions in battle:<br>> Troop DEF +30<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Twin_Flower.wiki",
+  "markdown_path": "markdown/Twin_Flower.md"
+}

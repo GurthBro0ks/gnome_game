@@ -1,0 +1,35 @@
+{
+  "pageid": 8003,
+  "ns": 0,
+  "title": "Upanishads+Apadana Palace Reliefs",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Upanishads%2BApadana_Palace_Reliefs",
+  "touched": "2025-03-23T18:38:39Z",
+  "length": 224,
+  "lastrevid": 33456,
+  "revision": {
+    "revid": 33456,
+    "parentid": 0,
+    "timestamp": "2025-02-22T03:08:51Z",
+    "sha1": "1db479cb331be864bf2cbbf3a758ae9f9937c4bd",
+    "size": 224
+  },
+  "categories": [
+    "DEF Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Upanishads,Apadana Palace Reliefs",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per set of Pendulum Alienity collected, Snail DEF +35"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Upanishads_Apadana_Palace_Reliefs.wiki",
+  "markdown_path": "markdown/Upanishads_Apadana_Palace_Reliefs.md"
+}

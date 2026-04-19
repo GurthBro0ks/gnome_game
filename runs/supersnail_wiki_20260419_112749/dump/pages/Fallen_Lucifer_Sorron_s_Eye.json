@@ -1,0 +1,33 @@
+{
+  "pageid": 3648,
+  "ns": 0,
+  "title": "Fallen Lucifer+Sorron's Eye",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Fallen_Lucifer%2BSorron%27s_Eye",
+  "touched": "2025-08-11T10:32:33Z",
+  "length": 158,
+  "lastrevid": 37431,
+  "revision": {
+    "revid": 37431,
+    "parentid": 13246,
+    "timestamp": "2025-08-11T10:32:33Z",
+    "sha1": "a310f147dedbf06b11fb4577b872d4603325eb1c",
+    "size": 158
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "98",
+        "relics": "Fallen Lucifer,Sorron's Eye",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "When offering, 2x Chaos Chest Drops +6%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Fallen_Lucifer_Sorron_s_Eye.wiki",
+  "markdown_path": "markdown/Fallen_Lucifer_Sorron_s_Eye.md"
+}

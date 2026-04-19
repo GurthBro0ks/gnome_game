@@ -1,0 +1,47 @@
+{
+  "pageid": 10369,
+  "ns": 0,
+  "title": "Lotus Lantern Draft",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Lotus_Lantern_Draft",
+  "touched": "2025-08-11T10:48:24Z",
+  "length": 1068,
+  "lastrevid": 38117,
+  "revision": {
+    "revid": 38117,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:48:24Z",
+    "sha1": "be8d461195ede73dbd595eb1e11f8bddf15efa85",
+    "size": 1068
+  },
+  "categories": [
+    "CIV Relics",
+    "Green CIV Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Lotus Lantern Draft",
+        "class_id": "20530",
+        "rank": "Green",
+        "affct": "CIV",
+        "description": "Before the Lotus Lantern was released, Shanghai Animation Film Studio hadn't released any animation for ten years. For the Lotus Lantern, the staff of the Studio traveled to Mount Hua, Yungang Grottoes, Ningxia Desert, and Xishuangbanna, painting mountains, ancient cities, rivers, and ancient Buddha stroke by stroke. These drafts eventually became a few seconds of the scenes in Lotus Lantern.",
+        "fame": "13",
+        "art": "17",
+        "fth": "13",
+        "civ": "34",
+        "tech": "13",
+        "ss1": "Snail ATK +60<br>Per 2 ART Master Scrolls used, Snail ATK +1<br>ART Master Scrolls Used: 100/100",
+        "ss2": "Snail ATK +80<br>Per 2 ART Master Scrolls used, Snail ATK +2<br>ART Master Scrolls Used: 100/100",
+        "ss3": "Snail ATK +100<br>Per 2 ART Master Scrolls used, Snail ATK +3<br>ART Master Scrolls Used: 100/100",
+        "ss4": "Snail ATK +100<br>Per 2 ART Master Scrolls used, Snail ATK +3<br>ART Master Scrolls Used: 100/100",
+        "ss7": "Snail ATK +100<br>Per 2 ART Master Scrolls used, Snail ATK +3<br>ART Master Scrolls Used: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Lotus_Lantern_Draft.wiki",
+  "markdown_path": "markdown/Lotus_Lantern_Draft.md"
+}

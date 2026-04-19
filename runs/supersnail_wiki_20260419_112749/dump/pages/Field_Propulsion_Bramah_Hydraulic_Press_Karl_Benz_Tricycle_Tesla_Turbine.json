@@ -1,0 +1,33 @@
+{
+  "pageid": 9289,
+  "ns": 0,
+  "title": "Field Propulsion+Bramah Hydraulic Press+Karl Benz Tricycle+Tesla Turbine",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Field_Propulsion%2BBramah_Hydraulic_Press%2BKarl_Benz_Tricycle%2BTesla_Turbine",
+  "touched": "2025-06-20T00:19:17Z",
+  "length": 214,
+  "lastrevid": 36170,
+  "revision": {
+    "revid": 36170,
+    "parentid": 0,
+    "timestamp": "2025-06-20T00:19:17Z",
+    "sha1": "a022a1e51712572a3967d91ce3e98ce2c9573b0c",
+    "size": 214
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "700",
+        "relics": "Field Propulsion,Bramah Hydraulic Press,Karl Benz Tricycle,Tesla Turbine",
+        "rank": "purple",
+        "amount": "4",
+        "category": "self",
+        "description": "Per Godhood LVL, Snail ATK +48;Godhood LVL: 10/10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Field_Propulsion_Bramah_Hydraulic_Press_Karl_Benz_Tricycle_Tesla_Turbine.wiki",
+  "markdown_path": "markdown/Field_Propulsion_Bramah_Hydraulic_Press_Karl_Benz_Tricycle_Tesla_Turbine.md"
+}

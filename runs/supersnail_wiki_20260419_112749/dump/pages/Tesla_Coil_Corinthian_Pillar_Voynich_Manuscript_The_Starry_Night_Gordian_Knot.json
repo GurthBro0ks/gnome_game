@@ -1,0 +1,33 @@
+{
+  "pageid": 10922,
+  "ns": 0,
+  "title": "Tesla Coil+Corinthian Pillar+Voynich Manuscript+The Starry Night+Gordian Knot",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Tesla_Coil%2BCorinthian_Pillar%2BVoynich_Manuscript%2BThe_Starry_Night%2BGordian_Knot",
+  "touched": "2025-08-11T11:05:42Z",
+  "length": 211,
+  "lastrevid": 38869,
+  "revision": {
+    "revid": 38869,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:05:42Z",
+    "sha1": "92b24811e5ba1826e00ae06fa666cc65585c8fd3",
+    "size": 211
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "151",
+        "relics": "Tesla Coil,Corinthian Pillar,Voynich Manuscript,The Starry Night,Gordian Knot",
+        "rank": "purple",
+        "amount": "5",
+        "category": "self",
+        "description": "Lottery Blue Orbs turn to Purple by +1.8%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Tesla_Coil_Corinthian_Pillar_Voynich_Manuscript_The_Starry_Night_Gordian_Knot.wiki",
+  "markdown_path": "markdown/Tesla_Coil_Corinthian_Pillar_Voynich_Manuscript_The_Starry_Night_Gordian_Knot.md"
+}

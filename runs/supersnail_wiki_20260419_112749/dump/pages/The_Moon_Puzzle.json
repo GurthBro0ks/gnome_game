@@ -1,0 +1,52 @@
+{
+  "pageid": 5092,
+  "ns": 0,
+  "title": "The Moon Puzzle",
+  "fullurl": "https://supersnail.wiki.gg/wiki/The_Moon_Puzzle",
+  "touched": "2025-06-20T00:00:49Z",
+  "length": 1549,
+  "lastrevid": 35764,
+  "revision": {
+    "revid": 35764,
+    "parentid": 34953,
+    "timestamp": "2025-06-20T00:00:49Z",
+    "sha1": "91d2666f17c9a21bf8f2dcb01f55e7cfc39fd714",
+    "size": 1549
+  },
+  "categories": [
+    "FAME Relics",
+    "Purple FAME Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "The Moon Puzzle",
+        "class_id": "22115",
+        "rank": "AAA",
+        "affct": "FAME",
+        "birthday": "10-24",
+        "source": "Lottery Machine No.2 (0.06%), Wishing (0.02%)",
+        "description": "On Oct 24, 2018 AD, the Mysteries of the Moon was auctioned.<br>The Moon Puzzle is a meteorite classified as NWA11789, which was discovered in the Saraha desert of northwestern Africa in 2017. It is the largest lunar meteorite found on Earth so far that was named due to its unique structure. Its main composition is moonstone breccia. And It's composed of six fragments, with a total weight of nearly six kilograms. The largest fragment weighs two kilograms. No lunar meteorites discovered so far ca …",
+        "fame": "71",
+        "art": "41",
+        "fth": "36",
+        "civ": "48",
+        "tech": "47",
+        "ss1": "Rebel Cabin Output +3%<br>Per 1.2k Rebel Tech Pts, Snail HP +30<br>Rebel Tech Pts: 60000/60000",
+        "ss2": "Rebel Cabin Output +4%<br>Per 1.2k Rebel Tech Pts, Snail HP +40<br>Rebel Tech Pts: 60000/60000",
+        "ss3": "Rebel Cabin Output +5%<br>Per 1.2k Rebel Tech Pts, Snail HP +50<br>Rebel Tech Pts: 60000/60000",
+        "ss4": "Rebel Cabin Output +7%<br>Per 1.2k Rebel Tech Pts, Snail HP +70<br>Rebel Tech Pts: 60000/60000",
+        "ss5": "Rebel Cabin Output +9%<br>Per 1.2k Rebel Tech Pts, Snail HP +90<br>Rebel Tech Pts: 60000/60000",
+        "ss7": "Rebel Cabin Output +9%<br>Per 1.2k Rebel Tech Pts, Snail HP +90<br>Rebel Tech Pts: 60000/60000<br>Rebel Cabin Output +7% (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Card Drops +3%",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, Snail ATK +60"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/The_Moon_Puzzle.wiki",
+  "markdown_path": "markdown/The_Moon_Puzzle.md"
+}

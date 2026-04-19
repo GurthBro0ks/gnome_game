@@ -1,0 +1,32 @@
+{
+  "pageid": 3570,
+  "ns": 0,
+  "title": "Yamato Domain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Yamato_Domain",
+  "touched": "2025-10-21T13:15:48Z",
+  "length": 36174,
+  "lastrevid": 41616,
+  "revision": {
+    "revid": 41616,
+    "parentid": 41607,
+    "timestamp": "2025-10-21T13:15:48Z",
+    "sha1": "f7ba4853b4e2b52cde2c28a01a1a52f90639ad8f",
+    "size": 36174
+  },
+  "categories": [
+    "Yamato Domain"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "orange",
+        "2": "Material",
+        "3": "Crystal of Will"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Yamato_Domain.wiki",
+  "markdown_path": "markdown/Yamato_Domain.md"
+}

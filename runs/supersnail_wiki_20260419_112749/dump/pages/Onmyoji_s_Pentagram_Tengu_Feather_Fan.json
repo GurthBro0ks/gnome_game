@@ -1,0 +1,33 @@
+{
+  "pageid": 6235,
+  "ns": 0,
+  "title": "Onmyoji's Pentagram+Tengu Feather Fan",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Onmyoji%27s_Pentagram%2BTengu_Feather_Fan",
+  "touched": "2025-06-20T00:15:01Z",
+  "length": 202,
+  "lastrevid": 36049,
+  "revision": {
+    "revid": 36049,
+    "parentid": 24951,
+    "timestamp": "2025-06-20T00:15:01Z",
+    "sha1": "6e907b989d1530154fbcc768a5412911a2a90d36",
+    "size": 202
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "625",
+        "relics": "Onmyoji's Pentagram,Tengu Feather Fan",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "When you receive Blue Spores from Catalysis: Gain +1 Spore Voucher by +10%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Onmyoji_s_Pentagram_Tengu_Feather_Fan.wiki",
+  "markdown_path": "markdown/Onmyoji_s_Pentagram_Tengu_Feather_Fan.md"
+}

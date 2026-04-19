@@ -1,0 +1,33 @@
+{
+  "pageid": 4364,
+  "ns": 0,
+  "title": "Statue of Gudea+Peacock Ceramic Plate",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Statue_of_Gudea%2BPeacock_Ceramic_Plate",
+  "touched": "2025-06-20T00:07:27Z",
+  "length": 173,
+  "lastrevid": 35897,
+  "revision": {
+    "revid": 35897,
+    "parentid": 22338,
+    "timestamp": "2025-06-20T00:07:27Z",
+    "sha1": "33e4579a408d5eb7a5f8e762158e1bb0a1528229",
+    "size": 173
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "318",
+        "relics": "Statue of Gudea,Peacock Ceramic Plate",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 Mutant Minions in battle: Troop DEF +5"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Statue_of_Gudea_Peacock_Ceramic_Plate.wiki",
+  "markdown_path": "markdown/Statue_of_Gudea_Peacock_Ceramic_Plate.md"
+}

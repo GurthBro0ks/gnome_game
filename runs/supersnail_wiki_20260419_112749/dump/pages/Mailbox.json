@@ -1,0 +1,161 @@
+{
+  "pageid": 337,
+  "ns": 0,
+  "title": "Mailbox",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Mailbox",
+  "touched": "2025-11-28T15:21:24Z",
+  "length": 30708,
+  "lastrevid": 41795,
+  "revision": {
+    "revid": 41795,
+    "parentid": 41794,
+    "timestamp": "2025-11-28T15:21:24Z",
+    "sha1": "a0a7c11f7d6f5354e9825df01bedc0750d352858",
+    "size": 30708
+  },
+  "categories": [
+    "Home Base",
+    "Pages with broken file links"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "Gearlink",
+      "params": {
+        "1": "orange",
+        "2": "Exploration",
+        "3": "Virgo Tech"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Realm",
+        "3": "Colt Revolver"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "orange",
+        "2": "Instrument",
+        "3": "Trident"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Instrument",
+        "3": "Broken Sagesinker"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Instrument",
+        "3": "Broken Sageender"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Instrument",
+        "3": "Broken Sagemurderer"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Instrument",
+        "3": "Broken Sagekiller"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Instrument",
+        "3": "Shattered Windfire Wheel"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Instrument",
+        "3": "Shattered Sky Ribbon"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Instrument",
+        "3": "Shattered Fire Spear"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "green",
+        "2": "Instrument",
+        "3": "Shattered Palm-Leaf Fan"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "Instrument",
+        "3": "Broken Godsmiter"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "Instrument",
+        "3": "Broken Fiend Mirror"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Instrument",
+        "3": "Dim Ironcutter"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Instrument",
+        "3": "Dim Trident"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "purple",
+        "2": "Instrument",
+        "3": "Dim Rope of Truth"
+      }
+    },
+    {
+      "template": "RewardIconWithGearlink",
+      "params": {
+        "1": "blue",
+        "2": "Form",
+        "3": "Lotus Platform"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Mailbox.wiki",
+  "markdown_path": "markdown/Mailbox.md"
+}

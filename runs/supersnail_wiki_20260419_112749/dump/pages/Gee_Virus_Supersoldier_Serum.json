@@ -1,0 +1,33 @@
+{
+  "pageid": 3614,
+  "ns": 0,
+  "title": "Gee Virus+Supersoldier Serum",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gee_Virus%2BSupersoldier_Serum",
+  "touched": "2025-08-11T10:42:20Z",
+  "length": 167,
+  "lastrevid": 37853,
+  "revision": {
+    "revid": 37853,
+    "parentid": 18572,
+    "timestamp": "2025-08-11T10:42:20Z",
+    "sha1": "5b4c99f60c80b719579a770daab1d8a1b2bcd655",
+    "size": 167
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "108",
+        "relics": "Gee Virus,Supersoldier Serum",
+        "rank": "purple",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 2k Power, Snail RUSH +4;Power: 30000/30000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gee_Virus_Supersoldier_Serum.wiki",
+  "markdown_path": "markdown/Gee_Virus_Supersoldier_Serum.md"
+}

@@ -1,0 +1,34 @@
+{
+  "pageid": 3620,
+  "ns": 0,
+  "title": "Gene Map+Dolly Specimen",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Gene_Map%2BDolly_Specimen",
+  "touched": "2024-12-02T03:00:43Z",
+  "length": 195,
+  "lastrevid": 13202,
+  "revision": {
+    "revid": 13202,
+    "parentid": 0,
+    "timestamp": "2023-09-22T15:58:45Z",
+    "sha1": "a0863be38c7c561b88636b97360d1673d3609a35",
+    "size": 195
+  },
+  "categories": [
+    "Home"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Gene Map,Dolly Specimen",
+        "rank": "purple",
+        "amount": "2",
+        "category": "home",
+        "description": "The Fungus Farm has a +12% chance to produce Wonder Fungi"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Gene_Map_Dolly_Specimen.wiki",
+  "markdown_path": "markdown/Gene_Map_Dolly_Specimen.md"
+}

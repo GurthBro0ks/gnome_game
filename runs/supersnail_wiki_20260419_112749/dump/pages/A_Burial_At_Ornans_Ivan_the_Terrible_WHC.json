@@ -1,0 +1,33 @@
+{
+  "pageid": 8638,
+  "ns": 0,
+  "title": "A Burial At Ornans+Ivan the Terrible+WHC",
+  "fullurl": "https://supersnail.wiki.gg/wiki/A_Burial_At_Ornans%2BIvan_the_Terrible%2BWHC",
+  "touched": "2025-06-16T20:52:17Z",
+  "length": 165,
+  "lastrevid": 34595,
+  "revision": {
+    "revid": 34595,
+    "parentid": 0,
+    "timestamp": "2025-06-16T20:52:17Z",
+    "sha1": "7222f4a4398dff43ccb3c1414b3ec26adf34392d",
+    "size": 165
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "742",
+        "relics": "A Burial At Ornans,Ivan the Terrible,WHC",
+        "rank": "orange",
+        "amount": "3",
+        "category": "self",
+        "description": "All Sanctum Glorium Output +3.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/A_Burial_At_Ornans_Ivan_the_Terrible_WHC.wiki",
+  "markdown_path": "markdown/A_Burial_At_Ornans_Ivan_the_Terrible_WHC.md"
+}

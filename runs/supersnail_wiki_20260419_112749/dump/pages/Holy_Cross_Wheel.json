@@ -1,0 +1,29 @@
+{
+  "pageid": 3234,
+  "ns": 0,
+  "title": "Holy Cross Wheel",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Holy_Cross_Wheel",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 554,
+  "lastrevid": 18785,
+  "revision": {
+    "revid": 18785,
+    "parentid": 18780,
+    "timestamp": "2023-11-15T19:23:37Z",
+    "sha1": "ffaf1b6228971ef57cf8e351f710c6695c608cd0",
+    "size": 554
+  },
+  "categories": [
+    "ATK Boost",
+    "Angel Form",
+    "FTH Shells",
+    "HP Boost",
+    "Kemet",
+    "Shells",
+    "Wind DMG Boost"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Holy_Cross_Wheel.wiki",
+  "markdown_path": "markdown/Holy_Cross_Wheel.md"
+}

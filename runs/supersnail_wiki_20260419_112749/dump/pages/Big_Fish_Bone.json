@@ -1,0 +1,57 @@
+{
+  "pageid": 379,
+  "ns": 0,
+  "title": "Big Fish Bone",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Big_Fish_Bone",
+  "touched": "2024-11-04T01:11:06Z",
+  "length": 1532,
+  "lastrevid": 28733,
+  "revision": {
+    "revid": 28733,
+    "parentid": 21740,
+    "timestamp": "2024-08-12T17:02:23Z",
+    "sha1": "c9363f0a910a45afac240f6981e8422b8136a71d",
+    "size": 1532
+  },
+  "categories": [
+    "ATK Boost",
+    "Blue CIV Relics",
+    "Blue Relics",
+    "CIV Relics",
+    "Chika Boost",
+    "Exploration Card Drop Boost",
+    "Fungus Farm Output Boost",
+    "Fungus Farm Skill",
+    "Indigent Nobleman Relics",
+    "Mecha Gene Speedup Boost",
+    "Organ Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Big Fish Bone",
+        "rank": "Blue",
+        "affct": "CIV",
+        "birthday": "06-19",
+        "source": "* Lottery (0.36%), Novice Scrolls (5%), Wishing (10.3%)\n* [[Indigent Nobleman]] (72k {{RewardIconWithText|B-Tad}})",
+        "description": "On Jun 19, 1946, a weary old man dragged a big fish skeleton ashore.\n\nThe old man wandered on the sea for 3 days and 3 nights. With his strong physique and rich experience, he caught the biggest fish in his life. It was a fish with purple stripes, a smooth back, a pointed mouth, and a huge body. But as he was alone on the way back, sharks attacked him and ate all fish meat. He took the skeleton of the fish back to his shabby hut.\n\n[Famous Quotes]\n\nI'll fight them until I die.\n\nMan is not made fo …",
+        "fame": "33",
+        "art": "22",
+        "fth": "29",
+        "civ": "44",
+        "tech": "26",
+        "ss1": "Per Organ transplanted, Snail ATK +2<br>Organs Transplanted: 40/40",
+        "ss2": "Per Organ transplanted, Snail ATK +4<br>Organs Transplanted: 40/40",
+        "ss3": "Per Organ transplanted, Snail ATK +6<br>Organs Transplanted: 40/40",
+        "ss4": "Per Organ transplanted, Snail ATK +10<br>Organs Transplanted: 40/40",
+        "ss7": "Per Organ transplanted, Snail ATK +10<br>Organs Transplanted: 40/40<br>Snail ATK +50 (Awakened)",
+        "skill1": "[[File:Fungusfarm skill I.png|50px]]Place in Fungus Farm: Max Cap +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Big_Fish_Bone.wiki",
+  "markdown_path": "markdown/Big_Fish_Bone.md"
+}

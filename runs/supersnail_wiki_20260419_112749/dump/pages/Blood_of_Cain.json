@@ -1,0 +1,64 @@
+{
+  "pageid": 1108,
+  "ns": 0,
+  "title": "Blood of Cain",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Blood_of_Cain",
+  "touched": "2025-09-30T22:25:31Z",
+  "length": 3144,
+  "lastrevid": 40409,
+  "revision": {
+    "revid": 40409,
+    "parentid": 40351,
+    "timestamp": "2025-09-30T22:25:31Z",
+    "sha1": "cd1132e2ad91834452fee04febe6e717d328af2f",
+    "size": 3144
+  },
+  "categories": [
+    "Demon Minion HARD Boost",
+    "Demon Minion HP Boost",
+    "Demon Minion RUSH Boost",
+    "Enhanced by Quarry LVL",
+    "FTH Relics",
+    "Hellas Exploration Boost",
+    "Hellas Museum Boost",
+    "Imp Boost",
+    "Orange FTH Relics",
+    "Orange Relics",
+    "Relics",
+    "Wishing Boost",
+    "Wraith Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Blood of Cain",
+        "class_id": "21721",
+        "rank": "SSS",
+        "affct": "FTH",
+        "birthday": "02-09",
+        "source": "Reward from [[Demon God Device#Apocalypse Hall|Rocket Cabin: Demon God Device]]",
+        "description": "On Feb 9, 50,000 BC, Cain paid the bloody price of his wrongdoing.<br>Cain, the eldest son of Adam and Eve, killed his brother Abel out of jealousy and became the world's first murderer. God questioned him and Cain lied. He failed to deceive the all-knowing God, and so a curse was cast on Cain that he could only live in the shadows forever. In the east of the Garden of Eden, he and his descendants established their city. With his immortality, Cain escaped the great flood and left behind a flock  …",
+        "fame": "70",
+        "art": "71",
+        "fth": "109",
+        "civ": "58",
+        "tech": "54",
+        "ss1": "Per 60 Demon Minions in battle:<br>> Troop HP +90<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +9<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +3",
+        "ss2": "Per 60 Demon Minions in battle:<br>> Troop HP +180<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +18<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +6",
+        "ss3": "Per 60 Demon Minions in battle:<br>> Troop HP +270<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +27<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +9",
+        "ss4": "Per 60 Demon Minions in battle:<br>> Troop HP +450<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +45<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +15",
+        "ss5": "Per 60 Demon Minions in battle:<br>> Troop HP +630<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +63<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +21",
+        "ss6": "Per 60 Demon Minions in battle:<br>> Troop HP +900<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +90<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +30",
+        "ss7": "Per 60 Demon Minions in battle:<br>> Troop HP +900<br>Per 60 Demon Minions in battle:<br>> Troop RUSH +90<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +30<br>Per 60 Demon Minions in battle:<br>> Troop HARD Stats +30 (Awakened)",
+        "skill1": "[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: This Relic's FTH +15",
+        "skill2": "[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, B-tads gained +15%",
+        "skill3": "[[File:Hellas skill III.png|50px]]Place in Hellenic Museum: In Hellas, Demon God Cells collected +30%",
+        "mirage": "{{Mirage|name=Origin of Evil|reward={{RewardIconWonderFungusWithText|Orange, +1|HP}}\n|3name=Grandpire x1|3rec=3.21M|3atk=43361|3def=28988|3hp=647478|3weak=9589\n|4name=Grandpire x3|4rec=6.23M|4atk=62947|4def=42082|4hp=1218168|4weak=12294\n|5name=Grandpire x5|5rec=11.38M|5atk=87181|5def=58283|5hp=2254296|5weak=14473\n|6name=Grandpire x7|6rec=24.01M|6atk=116195|6def=77679|6hp=3700621|6weak=18005\n|Arec=40.17M|Aatk=150201|Adef=100413|Ahp=5972491|Aweak=19348\n}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Blood_of_Cain.wiki",
+  "markdown_path": "markdown/Blood_of_Cain.md"
+}

@@ -1,0 +1,33 @@
+{
+  "pageid": 8879,
+  "ns": 0,
+  "title": "Trajan's Column+Pillars of Creation+Salvator Mundi+Emerald Tablet+Brave New World+Grand Unified Theory",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Trajan%27s_Column%2BPillars_of_Creation%2BSalvator_Mundi%2BEmerald_Tablet%2BBrave_New_World%2BGrand_Unified_Theory",
+  "touched": "2025-06-16T23:09:01Z",
+  "length": 224,
+  "lastrevid": 34890,
+  "revision": {
+    "revid": 34890,
+    "parentid": 0,
+    "timestamp": "2025-06-16T23:09:01Z",
+    "sha1": "7d440ff8ee1520dc9375ae4ccb6439336be0e727",
+    "size": 224
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "562",
+        "relics": "Trajan's Column,Pillars of Creation,Salvator Mundi,Emerald Tablet,Brave New World,Grand Unified Theory",
+        "rank": "orange",
+        "amount": "6",
+        "category": "self",
+        "description": "Wormhole Refinement SPD +7.2%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Trajan_s_Column_Pillars_of_Creation_Salvator_Mundi_Emerald_Tablet_Brave_New_World_Grand_Unified_Theory.wiki",
+  "markdown_path": "markdown/Trajan_s_Column_Pillars_of_Creation_Salvator_Mundi_Emerald_Tablet_Brave_New_World_Grand_Unified_Theory.md"
+}

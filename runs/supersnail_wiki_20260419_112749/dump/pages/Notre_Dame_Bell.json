@@ -1,0 +1,67 @@
+{
+  "pageid": 1314,
+  "ns": 0,
+  "title": "Notre Dame Bell",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Notre_Dame_Bell",
+  "touched": "2024-11-16T01:42:16Z",
+  "length": 2452,
+  "lastrevid": 30067,
+  "revision": {
+    "revid": 30067,
+    "parentid": 26057,
+    "timestamp": "2024-10-15T15:43:06Z",
+    "sha1": "5b73c1e5f46633f6a3f5d025aea39359f4e9fb7c",
+    "size": 2452
+  },
+  "categories": [
+    "CIV Boost",
+    "CIV Relics",
+    "DEF Boost",
+    "Exploration B-tad Drop Boost",
+    "Exploration Compass Boost",
+    "Ironball Thrower Boost",
+    "Lumber Camp Output Boost",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Organ Boost",
+    "RUSH Boost",
+    "Relics",
+    "Rewards Crystal of Will",
+    "Snail Arena Compass Boost",
+    "Time Machine Boost",
+    "Time Machine Output Boost",
+    "Time Machine Skill"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Notre Dame Bell",
+        "rank": "S",
+        "affct": "CIV",
+        "birthday": "09-02",
+        "source": "Fragment Crafting (18.8%), Lottery Machine (0.81%), Relic Forge (90 Relic RF), Wishing (0.69%)",
+        "description": "On Sep 2, 1482 AD, Quasimodo destroyed the bell of Notre-Dame.\nQuasimodo lost his job that day. Soon, the Notre-Dame de Paris allocated a huge sum of money and built 9 new bells. Unfortunately, these new clocks were made with poor workmanship and accuracy.  As the sound of bells was of different tones and misaligned, it is known as the worst sounding clock in history. Therefore, people understood why Hugo designed to have the deaf Quasimodo be the bell ringer.\n<br>[The new bells]<br>\nMary, Marie …",
+        "fame": "53",
+        "art": "52",
+        "fth": "60",
+        "civ": "100",
+        "tech": "67",
+        "ss1": "Snail RUSH +10<br>Time Machine Max Cap +2%<br>Per 5 Time Machine LVLs, Snail RUSH +4<br>Time Machine LVL: 50/50",
+        "ss2": "Snail RUSH +20<br>Time Machine Max Cap +4%<br>Per 5 Time Machine LVLs, Snail RUSH +8<br>Time Machine LVL: 50/50",
+        "ss3": "Snail RUSH +30<br>Time Machine Max Cap +6%<br>Per 5 Time Machine LVLs, Snail RUSH +12<br>Time Machine LVL: 50/50",
+        "ss4": "Snail RUSH +50<br>Time Machine Max Cap +10%<br>Per 5 Time Machine LVLs, Snail RUSH +20<br>Time Machine LVL: 50/50",
+        "ss5": "Snail RUSH +70<br>Time Machine Max Cap +14%<br>Per 5 Time Machine LVLs, Snail RUSH +28<br>Time Machine LVL: 50/50",
+        "ss6": "Snail RUSH +100<br>Time Machine Max Cap +20%<br>Per 5 Time Machine LVLs, Snail RUSH +40<br>Time Machine LVL: 50/50",
+        "ss7": "Snail RUSH +100<br>Time Machine Max Cap +20%<br>Per 5 Time Machine LVLs, Snail RUSH +40<br>Time Machine LVL: 50/50<br>Time Machine Max Cap +20% (Awakened)",
+        "skill1": "[[File:Compass skill III.png|50px]]Place in Exploration Compass: In any Realm, B-tads gained +15%",
+        "skill2": "[[File:Timemachine skill III.png|50px]]Place in Time Machine: Time Machine Max Cap +30%",
+        "skill3": "[[File:Arena skill III.png|50px]]Place in Snail Arena Compass: In Snail Arena, this Relic's CIV +15",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Notre_Dame_Bell.wiki",
+  "markdown_path": "markdown/Notre_Dame_Bell.md"
+}

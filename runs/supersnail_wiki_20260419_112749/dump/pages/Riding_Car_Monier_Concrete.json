@@ -1,0 +1,33 @@
+{
+  "pageid": 8515,
+  "ns": 0,
+  "title": "Riding Car+Monier Concrete",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Riding_Car%2BMonier_Concrete",
+  "touched": "2025-06-20T00:14:35Z",
+  "length": 197,
+  "lastrevid": 36029,
+  "revision": {
+    "revid": 36029,
+    "parentid": 34399,
+    "timestamp": "2025-06-20T00:14:35Z",
+    "sha1": "8f7bb7511fea678b7c89e6e2d37df145daf7ecd4",
+    "size": 197
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "586",
+        "relics": "Riding Car,Monier Concrete",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 100 Recruit Tokens consumed, Snail DEF +5;Consumed Recruit Tokens: 5000/5000"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Riding_Car_Monier_Concrete.wiki",
+  "markdown_path": "markdown/Riding_Car_Monier_Concrete.md"
+}

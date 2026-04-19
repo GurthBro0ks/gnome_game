@@ -1,0 +1,52 @@
+{
+  "pageid": 6347,
+  "ns": 0,
+  "title": "Metaphysics",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Metaphysics",
+  "touched": "2025-08-11T11:10:07Z",
+  "length": 2445,
+  "lastrevid": 38931,
+  "revision": {
+    "revid": 38931,
+    "parentid": 32608,
+    "timestamp": "2025-08-11T11:07:01Z",
+    "sha1": "48abfcbd9e26e61ff954aff8fb298c8df011c7c1",
+    "size": 2445
+  },
+  "categories": [
+    "CIV Relics",
+    "Orange CIV Relics",
+    "Orange Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Metaphysics",
+        "class_id": "22887",
+        "rank": "SSS",
+        "affct": "CIV",
+        "description": "Metaphysics is a seminal work by Aristotle, the great philosopher of ancient Greece. In this book, he focuses on exploring the essence and principles of existence, proposing the concept of substance and establishing a unique ontological system. By analyzing the four causes of things—material, form, efficient, and final—he elucidates the internal logic of the generation and change of all things. This profound revelation of the nature of motion and change not only deepens the understanding of the  …",
+        "fame": "70",
+        "art": "69",
+        "fth": "57",
+        "civ": "109",
+        "tech": "57",
+        "ss1": "Mutant Minion HP +3%<br>Per CIV Bionic Part extracted, Snail ATK +15<br>Per 1 CIV Bionic Part extracted, Priest Assistance DMG +120<br>CIV Bionic Part Extracted: 10/10",
+        "ss2": "Mutant Minion HP +4%<br>Per CIV Bionic Part extracted, Snail ATK +20<br>Per 1 CIV Bionic Part extracted, Priest Assistance DMG +160<br>CIV Bionic Part Extracted: 10/10",
+        "ss3": "Mutant Minion HP +5%<br>Per CIV Bionic Part extracted, Snail ATK +25<br>Per 1 CIV Bionic Part extracted, Priest Assistance DMG +200<br>CIV Bionic Part Extracted: 10/10",
+        "ss4": "Mutant Minion HP +7%<br>Per CIV Bionic Part extracted, Snail ATK +35<br>Per 1 CIV Bionic Part extracted, Priest Assistance DMG +280<br>CIV Bionic Part Extracted: 10/10",
+        "ss5": "Mutant Minion HP +9%<br>Per CIV Bionic Part extracted, Snail ATK +45<br>Per 1 CIV Bionic Part extracted, Priest Assistance DMG +360<br>CIV Bionic Part Extracted: 10/10",
+        "ss6": "Mutant Minion HP +12%<br>Per CIV Bionic Part extracted, Snail ATK +60<br>Per 1 CIV Bionic Part extracted, Priest Assistance DMG +480<br>CIV Bionic Part Extracted: 10/10",
+        "ss7": "Mutant Minion HP +12%<br>Per CIV Bionic Part extracted, Snail ATK +60<br>Per 1 CIV Bionic Part extracted, Priest Assistance DMG +480<br>CIV Bionic Part Extracted: 10/10<br>Protomon Troop assist DMG + 800 (Awakened)",
+        "skill1": "[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, All Minion HP +9%",
+        "skill2": "[[File:Goldfish skill III.png|50px]]Place in Goldfish Biozilla: In Species War, Troop DMG REDUC +6%",
+        "skill3": "[[File:Biozilla skill III.png|50px]]Place in a Biozilla: This Relic's CIV +15"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Metaphysics.wiki",
+  "markdown_path": "markdown/Metaphysics.md"
+}

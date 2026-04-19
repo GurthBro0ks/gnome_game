@@ -1,0 +1,33 @@
+{
+  "pageid": 4367,
+  "ns": 0,
+  "title": "Susan's Horn+Book of Soyga",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Susan%27s_Horn%2BBook_of_Soyga",
+  "touched": "2025-06-20T00:09:24Z",
+  "length": 138,
+  "lastrevid": 35915,
+  "revision": {
+    "revid": 35915,
+    "parentid": 19517,
+    "timestamp": "2025-06-20T00:09:24Z",
+    "sha1": "262375591a9a61aebab6c51253a4581bce3f6b8a",
+    "size": 138
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "330",
+        "relics": "Susan's Horn,Book of Soyga",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Gaia Cabin Output +5%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Susan_s_Horn_Book_of_Soyga.wiki",
+  "markdown_path": "markdown/Susan_s_Horn_Book_of_Soyga.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 6971,
+  "ns": 0,
+  "title": "Space Agent License",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Space_Agent_License",
+  "touched": "2025-08-11T11:19:27Z",
+  "length": 608,
+  "lastrevid": 39466,
+  "revision": {
+    "revid": 39466,
+    "parentid": 29162,
+    "timestamp": "2025-08-11T11:19:27Z",
+    "sha1": "ef6467865731640bf1af1b9691053bb9898b9e56",
+    "size": 608
+  },
+  "categories": [
+    "Green Relics",
+    "Green TECH Relics",
+    "Relics",
+    "TECH Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Space Agent License",
+        "class_id": "20378",
+        "rank": "Green",
+        "affct": "TECH",
+        "description": "The license-holder is a space agent of the investigation bureau who is granted law enforcement power by federal law. Please be cooperative when you are questioned and frisked, as the space agent has the right to use force! (Stamped)",
+        "fame": "12",
+        "art": "15",
+        "fth": "17",
+        "civ": "17",
+        "tech": "29",
+        "ss1": "Defeated Space Agents drop +10 W-tads",
+        "ss2": "Defeated Space Agents drop +20 W-tads",
+        "ss3": "Defeated Space Agents drop +30 W-tads",
+        "ss4": "Defeated Space Agents drop +30 W-tads",
+        "ss7": "Defeated Space Agents drop +30 W-tads<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Space_Agent_License.wiki",
+  "markdown_path": "markdown/Space_Agent_License.md"
+}

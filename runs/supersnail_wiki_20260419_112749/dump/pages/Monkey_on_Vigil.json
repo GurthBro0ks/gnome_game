@@ -1,0 +1,47 @@
+{
+  "pageid": 10555,
+  "ns": 0,
+  "title": "Monkey on Vigil",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Monkey_on_Vigil",
+  "touched": "2025-08-11T10:54:40Z",
+  "length": 817,
+  "lastrevid": 38391,
+  "revision": {
+    "revid": 38391,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:54:40Z",
+    "sha1": "e52ff19c52558911ad2978b26287d77130d7c195",
+    "size": 817
+  },
+  "categories": [
+    "ART Relics",
+    "Green ART Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Monkey on Vigil",
+        "class_id": "20167",
+        "rank": "Green",
+        "affct": "ART",
+        "description": "Although at first glance it is just a statue of a monkey with dark circles, its seemingly simple but exquisite costumes, lifelike facial expressions, and the fineness of each hair express to its audience that it may be a masterpiece from an unknown master craftsman.",
+        "fame": "14",
+        "art": "34",
+        "fth": "13",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Snail HP +100<br>Per 20 Jinx Points, Snail DEF +1<br>Jinx Points: 600/600",
+        "ss2": "Snail HP +200<br>Per 20 Jinx Points, Snail DEF +2<br>Jinx Points: 600/600",
+        "ss3": "Snail HP +300<br>Per 20 Jinx Points, Snail DEF +3<br>Jinx Points: 600/600",
+        "ss4": "Snail HP +300<br>Per 20 Jinx Points, Snail DEF +3<br>Jinx Points: 600/600",
+        "ss7": "Snail HP +300<br>Per 20 Jinx Points, Snail DEF +3<br>Jinx Points: 600/600<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Monkey_on_Vigil.wiki",
+  "markdown_path": "markdown/Monkey_on_Vigil.md"
+}

@@ -1,0 +1,47 @@
+{
+  "pageid": 10264,
+  "ns": 0,
+  "title": "Collection@20962 1",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Collection@20962_1",
+  "touched": "2025-08-11T10:45:06Z",
+  "length": 592,
+  "lastrevid": 37975,
+  "revision": {
+    "revid": 37975,
+    "parentid": 0,
+    "timestamp": "2025-08-11T10:45:06Z",
+    "sha1": "84f2c859098f801a1d606aad978189d96a0ad524",
+    "size": 592
+  },
+  "categories": [
+    "FAME Relics",
+    "Green FAME Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "collection@20962_1",
+        "class_id": "20962",
+        "rank": "Green",
+        "affct": "FAME",
+        "description": "To be replenished",
+        "fame": "30",
+        "art": "15",
+        "fth": "15",
+        "civ": "17",
+        "tech": "13",
+        "ss1": "Per 5 {race_equip_short} gained, Snail RUSH +2<br>Bionic Parts owned: 100/100",
+        "ss2": "Per 5 {race_equip_short} gained, Snail RUSH +4<br>Bionic Parts owned: 100/100",
+        "ss3": "Per 5 {race_equip_short} gained, Snail RUSH +6<br>Bionic Parts owned: 100/100",
+        "ss4": "Per 5 {race_equip_short} gained, Snail RUSH +6<br>Bionic Parts owned: 100/100",
+        "ss7": "Per 5 {race_equip_short} gained, Snail RUSH +6<br>Bionic Parts owned: 100/100<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Collection_20962_1.wiki",
+  "markdown_path": "markdown/Collection_20962_1.md"
+}

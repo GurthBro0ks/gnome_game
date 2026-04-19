@@ -1,0 +1,35 @@
+{
+  "pageid": 8298,
+  "ns": 0,
+  "title": "Akashic Records+Nuada's Silver Arm",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Akashic_Records%2BNuada%27s_Silver_Arm",
+  "touched": "2025-06-16T20:51:53Z",
+  "length": 242,
+  "lastrevid": 34082,
+  "revision": {
+    "revid": 34082,
+    "parentid": 0,
+    "timestamp": "2025-04-21T03:04:23Z",
+    "sha1": "83f3cfed8a05a8978c82848416111fb100a80e47",
+    "size": 242
+  },
+  "categories": [
+    "ATK Boost",
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Akashic Records,Nuada's Silver Arm",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per Tribal Chief defeated, Snail ATK +7; Tribal Chiefs Defeated: 50/50"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Akashic_Records_Nuada_s_Silver_Arm.wiki",
+  "markdown_path": "markdown/Akashic_Records_Nuada_s_Silver_Arm.md"
+}

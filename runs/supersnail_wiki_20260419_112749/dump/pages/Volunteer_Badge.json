@@ -1,0 +1,47 @@
+{
+  "pageid": 11201,
+  "ns": 0,
+  "title": "Volunteer Badge",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Volunteer_Badge",
+  "touched": "2025-08-11T11:16:12Z",
+  "length": 607,
+  "lastrevid": 39325,
+  "revision": {
+    "revid": 39325,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:16:12Z",
+    "sha1": "8225a29f418ca0d1eeade101192ad0ce18dd25c8",
+    "size": 607
+  },
+  "categories": [
+    "FAITH Relics",
+    "Green FAITH Relics",
+    "Green Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Volunteer Badge",
+        "class_id": "20260",
+        "rank": "Green",
+        "affct": "FAITH",
+        "description": "The badges worn by the volunteers symbolize their selfless dedication. It is they who extend a helping hand, dedicate their love, and help those in trouble to strengthen the bond between people.",
+        "fame": "18",
+        "art": "14",
+        "fth": "29",
+        "civ": "16",
+        "tech": "13",
+        "ss1": "Per 500 FTH, Snail ATK +1<br>FTH: 15000/15000",
+        "ss2": "Per 500 FTH, Snail ATK +2<br>FTH: 15000/15000",
+        "ss3": "Per 500 FTH, Snail ATK +3<br>FTH: 15000/15000",
+        "ss4": "Per 500 FTH, Snail ATK +3<br>FTH: 15000/15000",
+        "ss7": "Per 500 FTH, Snail ATK +3<br>FTH: 15000/15000<br> (Awakened)"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Volunteer_Badge.wiki",
+  "markdown_path": "markdown/Volunteer_Badge.md"
+}

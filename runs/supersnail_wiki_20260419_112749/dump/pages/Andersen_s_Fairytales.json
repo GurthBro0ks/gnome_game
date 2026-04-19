@@ -1,0 +1,59 @@
+{
+  "pageid": 988,
+  "ns": 0,
+  "title": "Andersen's Fairytales",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Andersen%27s_Fairytales",
+  "touched": "2024-09-06T09:56:24Z",
+  "length": 2079,
+  "lastrevid": 18205,
+  "revision": {
+    "revid": 18205,
+    "parentid": 17703,
+    "timestamp": "2023-11-13T05:11:15Z",
+    "sha1": "1989f712fc9fc6b2fd725c2bf9d77efa488f6742",
+    "size": 2079
+  },
+  "categories": [
+    "ATK Boost",
+    "CIV Relics",
+    "Demon Cell Drop Boost",
+    "Enhanced by Power",
+    "Enhanced by Sign-Ins",
+    "Exploration Cell Drop Boost",
+    "Fungus Farm Output Boost",
+    "Fungus Farm Skill",
+    "Purple CIV Relics",
+    "Purple Relics",
+    "RUSH Boost",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Andersen's Fairytales",
+        "rank": "AAA",
+        "affct": "CIV",
+        "birthday": "10-04",
+        "source": "Fragment Crafting (1.5%), Lottery Machine (0.03%), Wishing (0.14%), Relic Forge (80 Relic RF)",
+        "description": "On Oct 4, 1872, Hans Christian Andersen finished this famous Denmark collection of fairytales.\n\nThere are more than 160 stories in Andersen's Fairy Tales. This book reflected European society in the 19th century. It presented many classical stories, including The Ugly Duckling, The Little Match Girl, and The Little Mermaid. In his works, Andersen praised the kindness and purity of the laborers, and criticized the foolishness, greed, and cruelty of the nobles. His stories have a great impact on f …",
+        "fame": "47",
+        "art": "33",
+        "fth": "46",
+        "civ": "72",
+        "tech": "45",
+        "ss1": "Per 10 Sign-Ins, Snail ATK +6<br>Per 10 Sign-Ins, Snail RUSH +6<br>Sign-Ins: 300/300",
+        "ss2": "Per 10 Sign-Ins, Snail ATK +8<br>Per 10 Sign-Ins, Snail RUSH +8<br>Sign-Ins: 300/300",
+        "ss3": "Per 10 Sign-Ins, Snail ATK +10<br>Per 10 Sign-Ins, Snail RUSH +10<br>Sign-Ins: 300/300",
+        "ss4": "Per 10 Sign-Ins, Snail ATK +14<br>Per 10 Sign-Ins, Snail RUSH +14<br>Sign-Ins: 300/300",
+        "ss5": "Per 10 Sign-Ins, Snail ATK +18<br>Per 10 Sign-Ins, Snail RUSH +18<br>Sign-Ins: 300/300",
+        "ss7": "Per 10 Sign-Ins, Snail ATK +18<br>Per 10 Sign-Ins, Snail RUSH +18<br>Sign-Ins: 300/300<br> Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Fungusfarm skill II.png|50px]] Place in Fungus Farm: Fungus Output +15%",
+        "skill2": "[[File:Fungusfarm skill II.png|50px]] Place in Fungus Farm: Max Cap +15%"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Andersen_s_Fairytales.wiki",
+  "markdown_path": "markdown/Andersen_s_Fairytales.md"
+}

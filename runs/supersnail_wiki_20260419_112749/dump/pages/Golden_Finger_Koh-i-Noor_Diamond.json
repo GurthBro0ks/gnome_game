@@ -1,0 +1,34 @@
+{
+  "pageid": 3728,
+  "ns": 0,
+  "title": "Golden Finger+Koh-i-Noor Diamond",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Golden_Finger%2BKoh-i-Noor_Diamond",
+  "touched": "2024-12-02T03:00:40Z",
+  "length": 211,
+  "lastrevid": 13626,
+  "revision": {
+    "revid": 13626,
+    "parentid": 0,
+    "timestamp": "2023-10-01T09:29:25Z",
+    "sha1": "28cf2248d3571b87b677505a0a855e5ba5a95372",
+    "size": 211
+  },
+  "categories": [
+    "Self"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "relics": "Golden Finger,Koh-i-Noor Diamond",
+        "rank": "orange",
+        "amount": "2",
+        "category": "self",
+        "description": "Per 10 DEF-Fungi eaten, Snail DEF +7<br>DEF-Fungi Eaten: 500/500"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Golden_Finger_Koh-i-Noor_Diamond.wiki",
+  "markdown_path": "markdown/Golden_Finger_Koh-i-Noor_Diamond.md"
+}

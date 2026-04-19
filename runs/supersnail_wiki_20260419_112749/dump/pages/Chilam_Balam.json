@@ -1,0 +1,51 @@
+{
+  "pageid": 10884,
+  "ns": 0,
+  "title": "Chilam Balam",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Chilam_Balam",
+  "touched": "2025-08-11T11:04:37Z",
+  "length": 1818,
+  "lastrevid": 38820,
+  "revision": {
+    "revid": 38820,
+    "parentid": 0,
+    "timestamp": "2025-08-11T11:04:37Z",
+    "sha1": "23959fa7a8d705ab67272964a8ba7900ef4cd7aa",
+    "size": 1818
+  },
+  "categories": [
+    "FAITH Relics",
+    "Purple FAITH Relics",
+    "Purple Relics",
+    "Relics"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Chilam Balam",
+        "class_id": "22563",
+        "rank": "AAA",
+        "affct": "FAITH",
+        "birthday": "02-15",
+        "description": "On Feb 15, 1570 AD, Maya priests recorded the history of their tribe and created the first Chilam Balam.<br>Chilam Balam is a historical document of the Maya people, meaning \"the spokesman of the jaguar\" in English. Its content is written in the Maya language using Latin letters, and it records the history of the Maya people before being conquered by the Spanish. When this book was written, the pictorial writing of the ancient Maya had been lost due to the cultural genocide policy of the Spanish …",
+        "fame": "44",
+        "art": "47",
+        "fth": "71",
+        "civ": "33",
+        "tech": "48",
+        "ss1": "Dragon Minion Cloning SPD +3%<br>Per 5 Dragon Gene LVLs, Snail ATK +6<br>Dragon Gene LVLs Researched: 100/100",
+        "ss2": "Dragon Minion Cloning SPD +4%<br>Per 5 Dragon Gene LVLs, Snail ATK +8<br>Dragon Gene LVLs Researched: 100/100",
+        "ss3": "Dragon Minion Cloning SPD +5%<br>Per 5 Dragon Gene LVLs, Snail ATK +10<br>Dragon Gene LVLs Researched: 100/100",
+        "ss4": "Dragon Minion Cloning SPD +7%<br>Per 5 Dragon Gene LVLs, Snail ATK +14<br>Dragon Gene LVLs Researched: 100/100",
+        "ss5": "Dragon Minion Cloning SPD +9%<br>Per 5 Dragon Gene LVLs, Snail ATK +18<br>Dragon Gene LVLs Researched: 100/100",
+        "ss7": "Dragon Minion Cloning SPD +9%<br>Per 5 Dragon Gene LVLs, Snail ATK +18<br>Dragon Gene LVLs Researched: 100/100<br>Snail ATK +70 (Awakened)",
+        "skill1": "[[File:Rift skill II.png|50px]]Place in Rift Museum: In the Rift, 2x Purple Reagent Drops +3%",
+        "skill2": "[[File:Rift skill II.png|50px]]Place in Rift Museum: This Relic's FTH +10"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Chilam_Balam.wiki",
+  "markdown_path": "markdown/Chilam_Balam.md"
+}

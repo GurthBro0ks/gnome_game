@@ -1,0 +1,33 @@
+{
+  "pageid": 8441,
+  "ns": 0,
+  "title": "Luther Rose+St. Patrick's Shamrock",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Luther_Rose%2BSt._Patrick%27s_Shamrock",
+  "touched": "2025-06-20T00:13:15Z",
+  "length": 144,
+  "lastrevid": 35971,
+  "revision": {
+    "revid": 35971,
+    "parentid": 34312,
+    "timestamp": "2025-06-20T00:13:15Z",
+    "sha1": "fa84c592f8f6a94c59670430762e691a077290bf",
+    "size": 144
+  },
+  "categories": [],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelicResonance",
+      "params": {
+        "id": "591",
+        "relics": "Luther Rose,St. Patrick's Shamrock",
+        "rank": "blue",
+        "amount": "2",
+        "category": "self",
+        "description": "Snail Leadership +3"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Luther_Rose_St._Patrick_s_Shamrock.wiki",
+  "markdown_path": "markdown/Luther_Rose_St._Patrick_s_Shamrock.md"
+}

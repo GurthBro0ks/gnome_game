@@ -1,0 +1,65 @@
+{
+  "pageid": 1959,
+  "ns": 0,
+  "title": "Buddha Finger Sarira",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Buddha_Finger_Sarira",
+  "touched": "2025-01-07T11:14:51Z",
+  "length": 2204,
+  "lastrevid": 29922,
+  "revision": {
+    "revid": 29922,
+    "parentid": 26063,
+    "timestamp": "2024-10-15T13:19:22Z",
+    "sha1": "151b57e012e7d1a03e82d2e06b75ed416d222d65",
+    "size": 2204
+  },
+  "categories": [
+    "Cathay Exploration Boost",
+    "Cathay Museum Boost",
+    "FTH Relics",
+    "INTEL Boost",
+    "Little Monk Boost",
+    "Minion RUSH Boost",
+    "Offering Reward Boost",
+    "Orange FTH Relics",
+    "Orange Relics",
+    "RUSH Boost",
+    "Relics",
+    "Rewards Incense",
+    "Tadpole Pond Output Boost",
+    "Tadpole Pond Skill",
+    "Zombie Gene Speedup Boost"
+  ],
+  "likely_item_page": true,
+  "infoboxes": [
+    {
+      "template": "CargoRelic",
+      "params": {
+        "name": "Buddha Finger Sarira",
+        "rank": "SS",
+        "affct": "FTH",
+        "birthday": "06-22",
+        "source": "Bharata Treasure Maps (5%), Fragment Crafting (3.3%), Grandmaster Scrolls (1.5%), Lottery Machine (0.18%), Wishing (0.12%)",
+        "description": "On June 22, 601 AD, the Buddha Finger Sarira was sent to Daxing City, the Capital of the Sui Dynasty.<br>Emperor Wen of Sui, Yang Jian, ordered to have the Buddha Finger Sarira enshrined in a dagoba. On the enshrinement night, dazzling white light shot out of the dagoba, illuminating the entire temple. The abbot of the temple want to check things up. The light dimmed and then re-brightened three times in a row. After the news reached Chang'an, Yang Jian was overjoyed. He summoned Wand Shao, a hi …",
+        "fame": "66",
+        "art": "62",
+        "fth": "103",
+        "civ": "49",
+        "tech": "67",
+        "ss1": "Stone rewards from offering +0.8%<br>Wood rewards from offering +0.8%<br>B-tad rewards from offering +0.8%",
+        "ss2": "Stone rewards from offering +1.2%<br>Wood rewards from offering +1.2%<br>B-tad rewards from offering +1.2%",
+        "ss3": "Stone rewards from offering +1.6%<br>Wood rewards from offering +1.6%<br>B-tad rewards from offering +1.6%",
+        "ss4": "Stone rewards from offering +2.4%<br>Wood rewards from offering +2.4%<br>B-tad rewards from offering +2.4%",
+        "ss5": "Stone rewards from offering +3.2%<br>Wood rewards from offering +3.2%<br>B-tad rewards from offering +3.2%",
+        "ss6": "Stone rewards from offering +4.4%<br>Wood rewards from offering +4.4%<br>B-tad rewards from offering +4.4%",
+        "ss7": "Stone rewards from offering +4.4%<br>Wood rewards from offering +4.4%<br>B-tad rewards from offering +4.4%<br>Wood rewards from offering +4% (Awakened)",
+        "skill1": "{{Skills|Cathay|rush|600}}",
+        "skill2": "{{Skills|cathay|intel|15}}",
+        "skill3": "{{Skills|tadpolepond|max cap|30}}",
+        "mirage": "{{#invoke:snailDB|parseMirage|{{PAGENAME}}}}"
+      }
+    }
+  ],
+  "wikitext_path": "wikitext/Buddha_Finger_Sarira.wiki",
+  "markdown_path": "markdown/Buddha_Finger_Sarira.md"
+}

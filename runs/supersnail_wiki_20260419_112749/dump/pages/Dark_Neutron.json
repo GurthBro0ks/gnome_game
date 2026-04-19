@@ -1,0 +1,29 @@
+{
+  "pageid": 3218,
+  "ns": 0,
+  "title": "Dark Neutron",
+  "fullurl": "https://supersnail.wiki.gg/wiki/Dark_Neutron",
+  "touched": "2025-02-06T19:34:32Z",
+  "length": 553,
+  "lastrevid": 12236,
+  "revision": {
+    "revid": 12236,
+    "parentid": 12191,
+    "timestamp": "2023-09-15T00:49:13Z",
+    "sha1": "c339588fd6719a799e7b4c75a8cf2bd8bc37f386",
+    "size": 553
+  },
+  "categories": [
+    "ATK Boost",
+    "Bharata",
+    "CIV Shells",
+    "Earth DMG Boost",
+    "HP Boost",
+    "Mutant Form",
+    "Shells"
+  ],
+  "likely_item_page": false,
+  "infoboxes": [],
+  "wikitext_path": "wikitext/Dark_Neutron.wiki",
+  "markdown_path": "markdown/Dark_Neutron.md"
+}

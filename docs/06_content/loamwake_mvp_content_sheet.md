@@ -253,7 +253,7 @@ All Buried Clues that can surface in Loamwake zones.
 | `title` | Loamwake Terminal Routing Manual |
 | `codex_category` | Rail Knowledge |
 | `knowledge_domain` | rail_routing |
-| `acquisition_source` | Bury Clue `clue_lw_002_terminal_routing_cache` in `zone_lw_001_rootvine_shelf` |
+| `acquisition_source` | Buried Clue `clue_lw_002_terminal_routing_cache` in `zone_lw_001_rootvine_shelf` |
 | `unlock_condition` | `rootrail_state.rootrail_unlocked == true` |
 | `permanent_unlock_type` | rootrail_step_gate |
 | `permanent_unlock_id` | `rtr_step_001` |
@@ -508,12 +508,12 @@ This chain gates zone_lw_002 and the Rootrail reveal. It is the primary story sp
 
 | dty_id | display_name | duty_type | strata_id | unlock_condition | objective | reward | repeatable | repeat_cadence | chain_next_dty_id | mvp_status |
 |--------|-------------|----------|---------|-----------------|---------|-------|-----------|--------------|-----------------|-----------|
-| `dty_lw_001_clear_rootvine` | Clear the Rootvine Shelf | story | loamwake | always | Explore Rootvine Shelf 3 times and resolve 1 Wanderer encounter | `{mooncaps:120, fixture_material.tangled_root_twine:6, account_bonus:{type:fixture_cap_increase, value:1}}` | false | once | `dty_lw_002_hollow_survey` | launch |
+| `dty_lw_001_clear_rootvine` | Clear the Rootvine Shelf | story | loamwake | always | Explore Rootvine Shelf 3 times and resolve 1 Wanderer encounter | `{mooncaps:120, fixture_material.tangled_root_twine:6}` | false | once | `dty_lw_002_hollow_survey` | launch |
 | `dty_lw_002_hollow_survey` | Survey the Mudpipe Hollow | story | loamwake | `duty_progress.dty_lw_001_clear_rootvine.state == completed` | Explore Mudpipe Hollow 3 times and find 1 Buried Clue | `{mooncaps:150, fixture_material.crumbled_ore_chunk:5, rootrail_parts:4, account_bonus:{type:fixture_cap_increase, value:1}}` | false | once | `dty_lw_003_greta_rail_lead` | launch |
 | `dty_lw_003_greta_rail_lead` | Follow Greta's Lead | story | loamwake | `duty_progress.dty_lw_002_hollow_survey.state == completed` | Explore the border area of Mudpipe Hollow (zone_lw_002) and trigger the Rootrail discovery event | `{mooncaps:80, rootrail_parts:5}` | false | once | `dty_lw_004_find_the_manual` | launch |
 | `dty_lw_004_find_the_manual` | Find the Routing Manual | story | loamwake | `duty_progress.dty_lw_003_greta_rail_lead.state == completed and rootrail_state.rootrail_unlocked == true` | Find the Forgotten Manual (search Rootvine Shelf Buried Clues) | `{mooncaps:100, rootrail_parts:8, fixture_material.bleached_rail_fragment:3}` | false | once | null | launch |
 
-> **NOTE:** `dty_lw_001_clear_rootvine` grants the first Fixture cap increase (0→1) via its reward `account_bonus.fixture_cap_increase: 1`. `dty_lw_002_hollow_survey` grants the second cap increase (1→2). This aligns with `core_loop_mvp_spec.md` cap path 0→1→2.
+> **NOTE:** The first Fixture cap increase (0→1) is **tutorial-owned**. It fires during the guided onboarding sequence (within the first 5 minutes), not from any Loamwake Duty reward. `dty_lw_001_clear_rootvine` does NOT grant a cap increase — it rewards materials only. `dty_lw_002_hollow_survey` grants the second cap increase (1→2) via `account_bonus:{type:fixture_cap_increase, value:1}`. This aligns with `core_loop_mvp_spec.md` cap path 0→1→2.
 
 ### Daily Duties (Loamwake)
 
@@ -543,7 +543,7 @@ First 4 Burrow Posts. All support early Loamwake progression. Posts are not Duti
 All reward packets in this file follow the standard format from `content_table_templates.md`. Implementation notes:
 
 - `account_bonus:{type:fixture_cap_increase, value:1}` — trigger via account state mutation on reward claim; validated server-side
-- `forgotten_manual_id: fman_001_terminal_routing` — grants codex entry on claim; sets `rootrail_codex_entry.discovered = true`
+- `forgotten_manual_id: fman_001_terminal_routing` — grants codex entry on claim; sets `rootrail_codex_entry.fman_001_terminal_routing.discovered = true`
 - `hat_id: hat_001_loamwake_dirt_cap` — triggers Hat Collection unlock notification on claim
 - `rootrail_parts` — credited to `wallet.rootrail_parts` through normal wallet mutation
 - All `fixture_material.*` keys credit to `wallet.fixture_materials[material_id]`
@@ -556,13 +556,13 @@ Summary view of all Loamwake gate conditions. Useful for implementation validati
 
 | Gate | Condition | System Unlocked |
 |------|----------|----------------|
-| Fixture cap 0→1 | `dty_lw_001_clear_rootvine` reward claimed | Fixture panel appears; fix_rec_001–002 available |
+| Fixture cap 0→1 | Tutorial sequence (first 5 min; not a Duty reward) | Fixture panel appears; fix_rec_001–002 available |
 | Zone 2 opens | `dty_lw_001_clear_rootvine.state == completed` | zone_lw_002_mudpipe_hollow tile visible |
-| Fixture cap 1→2 | `dty_lw_002_hollow_survey` reward claimed | fix_rec_003–005 available |
+| Fixture cap 1→2 | `dty_lw_002_hollow_survey` reward claimed (`account_bonus.fixture_cap_increase: 1`) | fix_rec_003–005 available |
 | Warden encounter available | `dty_lw_002_hollow_survey.state == completed` | wdn_lw_001_mudgrip encounter trigger active |
 | Rootrail station reveals | `dty_lw_003_greta_rail_lead.state == completed` | Rootrail tab appears in Burrow nav |
 | First hat unlock | `strata_progress.loamwake.warden_clears.wdn_lw_001_mudgrip >= 1` | hat_001_loamwake_dirt_cap granted |
-| Rootrail step 1 startable | `rootrail_codex_entry.fman_001.discovered == true and wallet.rootrail_parts >= 20` | rtr_step_001 timer can begin |
+| Rootrail step 1 startable | `rootrail_codex_entry.fman_001_terminal_routing.discovered == true and wallet.rootrail_parts >= 20` | rtr_step_001 timer can begin |
 | Zone 3 opens | `strata_progress.loamwake.warden_clears.wdn_lw_001_mudgrip >= 1` | zone_lw_003_glowroot_passage visible |
 
 ---
@@ -580,7 +580,8 @@ Summary view of all Loamwake gate conditions. Useful for implementation validati
 - [x] `separate_from_elder_books_confirmed` is `true` on the Forgotten Manual
 - [x] `no_negative_stats_confirmed` is `true` on all Fixture definition rows
 - [x] `counts_against_fixture_cap` is `false` on hat row (hat in Section 9 reward packet only; hat definition in content_table_templates.md)
-- [x] Duty chain cap increases match `core_loop_mvp_spec.md` path 0→1→2
+- [x] Fixture cap 0→1 is tutorial-owned; `dty_lw_001_clear_rootvine` does NOT carry a cap-increase reward
+- [x] Fixture cap 1→2 is owned by `dty_lw_002_hollow_survey`; aligns with `core_loop_mvp_spec.md` cap path 0→1→2
 - [x] No `quest_chain_ids` terminology used — all references use `duty_chain_ids` or `chain_next_dty_id`
 - [x] No War Fixture content included
 - [x] No Strata 2–5 content included
@@ -591,7 +592,7 @@ Summary view of all Loamwake gate conditions. Useful for implementation validati
 
 ## 23. Unresolved Items
 
-> **UNRESOLVED:** Fixture cap increase delivery mechanism — the story Duty reward packet uses `account_bonus:{type:fixture_cap_increase, value:1}`. The gate evaluator and account mutation system must support this reward type before these Duties can function. Flag for `save_state_and_profile_flow.md`.
+> **UNRESOLVED:** Fixture cap increase delivery mechanism — `dty_lw_002_hollow_survey` reward packet uses `account_bonus:{type:fixture_cap_increase, value:1}`. The gate evaluator and account mutation system must support this reward type before this Duty can function. The tutorial-owned 0→1 cap increase must also be implemented as a scripted account mutation in the onboarding flow. Flag both for `save_state_and_profile_flow.md`.
 
 > **UNRESOLVED:** Battle stat model — `force`, `speed`, and `grit` are referenced as battle stats for Wanderers, Runaways, and Wild Ones. The full combat resolution system is not defined in Phase 2A. Recommend a Phase 2B combat resolution spec stub.
 
