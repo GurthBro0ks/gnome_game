@@ -465,6 +465,94 @@
       "added": "2026-04-20",
       "completed": "2026-04-20",
       "audit_file": "docs/08_production/phase2_completion_audit.md"
+    },
+    {
+      "id": "sprint-s0",
+      "project": "gnome_game",
+      "description": "Phase 3 Sprint 0 — Unity scaffold, local profile bootstrap, save/load shell, auth abstraction",
+      "priority": "critical",
+      "passes": false,
+      "risk": "medium",
+      "qa_verified": false,
+      "added": "2026-04-20",
+      "completed": null
+    },
+    {
+      "id": "sprint-s1",
+      "project": "gnome_game",
+      "description": "Phase 3 Sprint 1 — Burrow core: Dewpond, Mushpatch, gather loop, Expand, UI shell",
+      "priority": "critical",
+      "passes": false,
+      "risk": "medium",
+      "qa_verified": false,
+      "added": "2026-04-20",
+      "completed": null
+    },
+    {
+      "id": "sprint-s2",
+      "project": "gnome_game",
+      "description": "Phase 3 Sprint 2 — Loamwake zones 1-3, route choice, Auto-Clash, first Keeper",
+      "priority": "critical",
+      "passes": false,
+      "risk": "medium",
+      "qa_verified": false,
+      "added": "2026-04-20",
+      "completed": null
+    },
+    {
+      "id": "sprint-s3",
+      "project": "gnome_game",
+      "description": "Phase 3 Sprint 3 — Fixtures, first Hat, Rootmine, Vault of Treasures",
+      "priority": "critical",
+      "passes": false,
+      "risk": "medium",
+      "qa_verified": false,
+      "added": "2026-04-20",
+      "completed": null
+    },
+    {
+      "id": "sprint-s4",
+      "project": "gnome_game",
+      "description": "Phase 3 Sprint 4 — Burrow Posts, Daily Duties, Greta unlock, Rootrail reveal",
+      "priority": "critical",
+      "passes": false,
+      "risk": "medium",
+      "qa_verified": false,
+      "added": "2026-04-20",
+      "completed": null
+    },
+    {
+      "id": "sprint-s5",
+      "project": "gnome_game",
+      "description": "Phase 3 Sprint 5 — Lucky Draw Week vertical slice, Lucky Stall, Festival Ledger free lane",
+      "priority": "critical",
+      "passes": false,
+      "risk": "medium",
+      "qa_verified": false,
+      "added": "2026-04-20",
+      "completed": null
+    },
+    {
+      "id": "sprint-s6",
+      "project": "gnome_game",
+      "description": "Phase 3 Sprint 6 — Optional prototype extension: The Crack + Clique stub",
+      "priority": "high",
+      "passes": false,
+      "risk": "low",
+      "qa_verified": false,
+      "added": "2026-04-20",
+      "completed": null
+    },
+    {
+      "id": "sprint-s7",
+      "project": "gnome_game",
+      "description": "Phase 3 Sprint 7 — Tutorial wiring, Warden, balance, bug-fix, 5-tester proof pass",
+      "priority": "high",
+      "passes": false,
+      "risk": "medium",
+      "qa_verified": false,
+      "added": "2026-04-20",
+      "completed": null
     }
   ]
 }

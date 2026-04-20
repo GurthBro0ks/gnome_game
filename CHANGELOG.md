@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## v0.4.1 — Phase 3 Bootstrap Cleanup (2026-04-20)
+
+### Fixed
+- Phase 3 planning docs aligned to Fixture canon
+- First-playable scope narrowed to the actual vertical slice
+- Phase 3 sprint tracking added to feature_list.json
+
+### Status
+Sprint 0 ready to begin.
+
+---
+
 ## v0.3.0 — Phase 2B Content & Planning Complete (2026-04-20)
 
 ### Added

@@ -28,6 +28,8 @@ This is NOT a design document—it is a production roadmap for the engineering, 
 - **Strict MVP Scope:** Features explicitly marked out of scope (War Armory, Strata 2–5, Deepening, Memory Shift, etc.) are excluded from this build timeline entirely.
 - **Dependency Flow:** Upstream dependencies must be functioning and verifiable before downstream features are integrated (e.g. tutorial state must work before IAP catalog visibility).
 - **No Inventions:** This pack implements only what has been canonically authored.
+- **Local-First Boot:** Sprint 0 must boot and save locally even if Firebase/Auth/backend is unavailable. Backend wiring must be adapter-based, not required for first boot. The prototype runs entirely offline with no server dependency.
+- **First-Playable Scope:** This plan targets a first playable vertical slice, not a full launch build. Scope is narrow: Burrow core, Loamwake only, Greta as first Confidant, first Rootrail reveal/station/repair step, Lucky Draw only as the first implemented event, and local-first persistence. All 5 Strata, all 5 Confidants, Deepening, full Clique, and full Crack are explicitly post-MVP.
 
 ## 3. Authored Document Inventory
 
