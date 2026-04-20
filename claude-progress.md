@@ -561,3 +561,45 @@ Patched Phase 3 planning docs for canon consistency and first-playable scope dis
 
 ### Next step
 Sprint 0 — Unity scaffold + local-first persistence shell
+
+---
+
+## Phase 3 Sprint 0 — Foundation Runtime & Persistence — 2026-04-20
+
+### What happened this session
+Created the first playable Unity shell under `src/unity/`.
+
+**Runtime scaffold added:**
+- `Assets/Scenes/MainScene.unity` with `AppBootstrap` as the scene entry point
+- `Assets/Scripts/Core/` service layer: `AppBootstrap`, `AuthManager`, `ProfileService`, `SaveManager`
+- `Assets/Scripts/Data/` persistence data shell: `SaveVersionData`, `AccountData`, `WalletData`, `BurrowStateData`, `PlayerProfileData`
+- `Assets/Scripts/UI/` temporary Burrow debug UI
+- `Assets/Scripts/Debug/` debug status snapshot
+- `Assets/Scripts/Economy/` minimal Mooncap gather mutation
+- `Assets/Prefabs/` and Unity project/package settings
+
+**Sprint 0 behavior implemented:**
+- First boot creates a default local profile at `Application.persistentDataPath/profile.json`
+- Existing profile loads on restart
+- Profile mutations autosave immediately
+- App pause/quit attempts a final save
+- Auth is optional at runtime; disabled or failed auth uses a local fallback UID and does not block boot
+- Debug UI exposes title, Mooncaps, Gather +10, Force Save, Reload Save, auth state, save state, active UID, and save path
+
+**Verification performed:**
+- Compiled the non-Unity persistence/auth core with Mono
+- Ran `tools/verify_sprint0_persistence.cs`
+- Verified no-save first boot creates a profile with MVP defaults
+- Verified pressing Gather 5 times equivalent produces 50 Mooncaps
+- Verified restart reload restores 50 Mooncaps
+- Verified simulated auth failure still loads the local profile and preserves 50 Mooncaps
+- Console output is limited to two boot log lines in Unity plus concise verification output
+
+**Tracking updated:**
+- `feature_list.json` — `sprint-s0` set to `passes: true`
+- `CHANGELOG.md` — added v0.5.0 Sprint 0 entry
+- `claude-progress.md` — this entry
+
+### Current state
+- Phase 3 Sprint 0: complete
+- Sprint 1 can begin from the local-first profile, Burrow UI shell, and Mooncap mutation path

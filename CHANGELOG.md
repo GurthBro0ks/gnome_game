@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## v0.5.0 — Phase 3 Sprint 0 Runtime & Persistence Shell (2026-04-20)
+
+### Added
+- Unity scaffold under `src/unity/` with `MainScene`, project settings, package manifest, and required script folders
+- Local-first profile data model for save version, account, wallet, burrow state, and profile container shell
+- `SaveManager`, `ProfileService`, `AuthManager`, and `AppBootstrap` runtime services
+- Plain debug UI for The Burrow with Mooncaps, Gather, Force Save, Reload Save, auth status, save status, active UID, and save path
+- Sprint 0 verification harness covering first boot, save/load, restart persistence, and auth failure fallback
+
+### Status
+Sprint 0 complete. Local profile persistence works without Firebase/Auth/backend availability.
+
+---
+
 ## v0.4.1 — Phase 3 Bootstrap Cleanup (2026-04-20)
 
 ### Fixed

@@ -471,11 +471,12 @@
       "project": "gnome_game",
       "description": "Phase 3 Sprint 0 — Unity scaffold, local profile bootstrap, save/load shell, auth abstraction",
       "priority": "critical",
-      "passes": false,
+      "passes": true,
       "risk": "medium",
       "qa_verified": false,
       "added": "2026-04-20",
-      "completed": null
+      "completed": "2026-04-20",
+      "verification": "Mono harness verified first boot default profile, 5 gathers = 50 Mooncaps, restart restore, and simulated auth failure fallback load"
     },
     {
       "id": "sprint-s1",
