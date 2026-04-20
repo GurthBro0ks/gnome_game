@@ -25,7 +25,7 @@ No Phase 2B file may introduce Loamwake zone IDs, material IDs, or encounter IDs
 - 6 Wanderers, 4 Runaways, 4 Wild Ones
 - 3 encounter pool tables
 - 1 story Duty chain (4 Duties) + 3 daily Duties
-- 4 Burrow Posts
+- 5 Burrow Posts
 
 **What this file does NOT cover:**
 - War Fixtures or War Armory content
@@ -527,7 +527,7 @@ This chain gates zone_lw_002 and the Rootrail reveal. It is the primary story sp
 
 ## 19. Burrow Post Pool
 
-First 4 Burrow Posts. All support early Loamwake progression. Posts are not Duties — they are notice-board tasks sent by Burrowfolk or the local gnome community.
+First 5 Burrow Posts. All support early Loamwake progression. Posts are not Duties — they are notice-board tasks sent by Burrowfolk or the local gnome community.
 
 | post_id | display_name | post_type | strata_id | unlock_condition | objective | duration_hours | reward | repeatable | repeat_cooldown_hours | mvp_status |
 |---------|-------------|---------|---------|-----------------|---------|--------------|-------|-----------|---------------------|-----------|
@@ -535,6 +535,9 @@ First 4 Burrow Posts. All support early Loamwake progression. Posts are not Duti
 | `post_lw_002_ore_haul` | Ore Haul from the Hollow | gather | loamwake | `strata_progress.loamwake.zones_unlocked contains zone_lw_002_mudpipe_hollow` | Gather 8× Crumbled Ore Chunk from Mudpipe Hollow | 3 | `{mooncaps:90, fixture_material.mudglass_chip:2}` | true | 6 | launch |
 | `post_lw_003_parts_salvage` | Parts Salvage Request | gather | loamwake | `rootrail_state.rootrail_unlocked == true` | Gather 10× Rootrail Parts from any Loamwake zone | 4 | `{mooncaps:100, fixture_material.bleached_rail_fragment:2}` | true | 8 | launch |
 | `post_lw_004_sporewax_collection` | Sporewax Collection | craft | loamwake | `strata_progress.loamwake.warden_clears.wdn_lw_001_mudgrip >= 1` | Craft 1 Fixture using Loamwake materials | 1 | `{mooncaps:120, fixture_material.dewcap_sporewax:3, rootrail_parts:3}` | true | 12 | launch |
+| `post_lw_005_greta_intro` | Rail Scratches on the Board | investigate | loamwake | `duty_progress.dty_lw_001_clear_rootvine.state == completed` | Read Greta's rail-scratch note and inspect one Rootvine Shelf sign | 0.25 | `{mooncaps:40, fixture_material.loam_fiber:2}` | false | null | launch |
+
+> **NOTE — post_lw_005_greta_intro:** Completion of this post sets `confidant_state.cnf_001_placeholder_greta.unlocked = true` and makes `dty_cnf001_01_shelf_scratches` available. This is the authored first-session social/encounter moment for Greta. The post is non-repeatable (one-shot, no cooldown) and closes permanently after completion.
 
 ---
 
@@ -606,12 +609,13 @@ Summary view of all Loamwake gate conditions. Useful for implementation validati
 
 ## 24. Next Recommended Phase 2B File
 
-**Next file:** `docs/06_content/first_confidant_chain.md`
+**Next file:** `docs/06_content/first_wanderer_pool.md`
+
+> **COMPLETED:** `docs/06_content/first_confidant_chain.md` — Greta (`cnf_001_placeholder_greta`) and Mossvane (`cnf_002_placeholder_mossvane`) are defined with full Confidence Trails, Trust scale (0–5), Calling stubs, and all Duty chain content. Confidant integration is resolved; encounter/Burrow Post support continues in `first_wanderer_pool.md`.
 
 This file depends on:
 - Zone IDs from Section 6 of this file
-- Duty IDs from Section 18 of this file (specifically `dty_lw_003_greta_rail_lead` as Greta's trigger)
+- Wanderer/Runaway/Wild One IDs from Sections 15–17 of this file
+- Mossvane's trade Duty (`dty_cnf002_01_sporewax_trade`) requires a concrete Wanderer trade row (`trade_lw_005_sporewax_bundle`) defined in the pool file
+- Greta's intro post (`post_lw_005_greta_intro`) is now in Section 19; the pool file expands encounter interactions that support her chain
 - Material IDs from Section 5 of this file
-- Rootrail station ID from Section 12 of this file
-
-The Confidant chain file must define `cnf_001_placeholder_greta` with at least 3 Duties, including one that matches the `dty_lw_003_greta_rail_lead` Loamwake story Duty trigger, and `cnf_002_placeholder_mossvane` with at least 2 Duties.

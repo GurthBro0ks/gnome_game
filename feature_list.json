@@ -363,6 +363,33 @@
       "added": "2026-04-19",
       "completed": "2026-04-19",
       "phase2b_file": "docs/06_content/first_confidant_chain.md"
+    },
+    {
+      "id": "content-003",
+      "project": "gnome_game",
+      "description": "First Wanderer pool created: full Loamwake Wanderer, Runaway, and Wild One content with trade/help/catch/combat tables and Confidant support hooks",
+      "priority": "critical",
+      "passes": true,
+      "risk": "medium",
+      "plan": [
+        "Mirror all 14 locked encounter IDs from loamwake_mvp_content_sheet.md",
+        "Define 6 Wanderer trade offer rows (trade_lw_*)",
+        "Define 4 Wanderer help outcome rows (help_lw_*)",
+        "Define 5 Wanderer barter offer rows (barter_lw_*)",
+        "Define Wanderer Interaction Matrix (trade/help/barter per Wanderer)",
+        "Define 4 Runaway catch outcome rows with success/fail/cooldown",
+        "Define 4 Wild One combat reward rows with difficulty scaling note",
+        "Support dty_cnf002_01_sporewax_trade via trade_lw_005_sporewax_bundle",
+        "Support dty_cnf002_02_map_the_glowroot via Zone 3 encounter tags",
+        "Support dty_cnf002_03_parts_for_a_route via 3 Rootrail Parts paths",
+        "Confirm post_lw_005_greta_intro support patch applied to Loamwake sheet",
+        "Document Greta-adjacent environmental encounter support (no personal lore)",
+        "Add schema/state mapping, reward reference table, validation checklist"
+      ],
+      "qa_verified": false,
+      "added": "2026-04-19",
+      "completed": "2026-04-19",
+      "phase2b_file": "docs/06_content/first_wanderer_pool.md"
     }
   ]
 }

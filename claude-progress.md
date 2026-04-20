@@ -183,3 +183,61 @@ Depends on:
 - Mossvane trade Duty (dty_cnf002_01_sporewax_trade) references Wanderer trade interactions
 - Greta introduction Burrow Post (post_lw_005_greta_intro) is flagged as UNRESOLVED in first_confidant_chain.md
 
+
+---
+
+## Phase 2B — Support Patch + First Wanderer Pool — 2026-04-19
+
+### What happened this session
+
+Support patch applied to `docs/06_content/loamwake_mvp_content_sheet.md`, then the third Phase 2B content file created.
+
+**Support patch: `docs/06_content/loamwake_mvp_content_sheet.md`**
+
+1. Added `post_lw_005_greta_intro` (Rail Scratches on the Board) as the 5th Burrow Post row in Section 19 — resolves the UNRESOLVED item from `first_confidant_chain.md`. Unlock: `dty_lw_001_clear_rootvine.state == completed`. Completion sets `confidant_state.cnf_001_placeholder_greta.unlocked = true` and makes `dty_cnf001_01_shelf_scratches` available. Non-repeatable, one-shot, instant.
+2. Updated "What this file authorizes" bullet: 4 Burrow Posts → 5 Burrow Posts.
+3. Updated Section 19 intro text: "First 4 Burrow Posts" → "First 5 Burrow Posts". Added NOTE callout below the new row explaining state side-effects.
+4. Updated Section 24 (Next Recommended File): changed pointer from `first_confidant_chain.md` (completed) → `first_wanderer_pool.md`. Added COMPLETED note summarizing Confidant chain state.
+
+**New file created: `docs/06_content/first_wanderer_pool.md`**
+
+390 lines. 21 sections. Expands all 14 locked Loamwake roaming encounter IDs into build-ready interaction content.
+
+- Source Roster Mirror: all 14 encounter IDs with zone, table, weight, unlock
+- Zone Linkage Summary: per-zone encounter pacing notes
+- Wanderer Detail Table: all 6 Wanderers with role identity, duty_support_tags
+- Wanderer Interaction Matrix: trade/help/barter availability per Wanderer
+- Wanderer Trade Offer Table: 8 trade rows (`trade_lw_001` through `trade_lw_005b`)
+- Wanderer Help Outcome Table: 4 help rows (`help_lw_002`, `help_lw_003`, `help_lw_005`, `help_lw_006`)
+- Wanderer Barter Offer Table: 5 barter rows (`barter_lw_001` through `barter_lw_006b`)
+- Runaway Detail Table: all 4 Runaways with lore-safe notes
+- Runaway Catch Outcome Table: success reward, fail consequence, cooldown, duty tags
+- Wild One Detail Table: all 4 Wild Ones with difficulty scaling note
+- Wild One Combat Reward Detail: win reward, fall-back, cooldown, duty tags
+- Greta Support Note: post_lw_005_greta_intro confirmed; environmental encounter support via wnd_lw_002, wnd_lw_003
+- Mossvane Support Note: full 3-Duty support chain documented; trade_lw_005_sporewax_bundle is primary dty_cnf002_01 path
+- Reward Reference Table: all 10 reward items verified against locked Loamwake IDs
+- Schema/State Mapping: content-definition vs. player-state fields separated
+- Validation Checklist: 20 checks, all passing
+- 5 UNRESOLVED items flagged
+
+**Tracking updated:**
+
+- `feature_list.json` — `content-003` appended with passes: true
+- `claude-progress.md` — this entry
+
+### Known remaining debt (unchanged)
+
+- `canon-002` — master_glossary.md still not updated
+- `prod-001` — implementation_planning_pack.md still false
+- `doc-001` — full doc audit still false
+
+### What Phase 2B should do next
+
+**Fourth file: `docs/06_content/lucky_draw_week_mvp.md`**
+
+Depends on:
+- Economy model (`data/economy/economy_model_v1_sheet.csv`) for Lucky Draw ticket currency
+- Loamwake material IDs from `loamwake_mvp_content_sheet.md §5` for prize pools
+- Event cadence rules from `docs/05_liveops/` for 3-week rotation structure
+
