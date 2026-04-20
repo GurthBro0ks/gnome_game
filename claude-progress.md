@@ -298,3 +298,247 @@ Must define:
 - First Fixture craft and equip beat — `skip_allowed: false`
 - Anti-overload checkpoints
 - Rootrail mention as "an old structure to investigate" only — no full explanation
+
+---
+
+## Phase 2B — Support Patch + Tutorial and Onboarding Flow — 2026-04-20
+
+### What happened this session
+
+Support patch applied to `docs/07_ui/unlock_flow_and_ui_map.md`, then the fifth Phase 2B content file created.
+
+**Support patch: `docs/07_ui/unlock_flow_and_ui_map.md`**
+
+- Aligned Lucky Draw Week visibility: hidden through first 14 days, active icon appears Day 15+.
+- Clarified Rootrail Station reveal trigger: `dty_lw_003_greta_rail_lead` completion instead of generic text.
+
+**New file created: `docs/04_systems/tutorial_and_onboarding_flow.md`**
+
+- Defined Phase 2B onboarding, covering the first 60 minutes and first daily return.
+- Locked source IDs for first zone, duties, confidant, fixtures, and event.
+- Established anti-overload pacing limits (max 2 new surfaces per 10-min block, max 2 red dots).
+- Authored the first 10 minutes beat table, including Burrow intro, first explore, Fixture cap grant (0→1), first recipe, craft, and equip.
+- Authored the first 60 minutes onboarding table, including Wanderer trade, Greta intro, cap 02 grant (1→2), and Rootrail tease.
+- Explicitly marked Fixture cap 0→1, first craft, and first equip as non-skippable (mandatory).
+- Clarified Rootrail reveal as an old structure to investigate (missing manual) rather than a deep system explanation.
+- Handled Greta's soft intro via Burrow Post after `dty_lw_001_clear_rootvine`.
+- Defined economy and event surfacing rules, ensuring Lucky Draw is deferred and no monetization pressure exists early.
+- Included Schema and State Mapping, separating content fields from player-state fields.
+
+**Tracking updated:**
+
+- `feature_list.json` — `content-005` appended with passes: true
+- `claude-progress.md` — this entry
+
+### Known remaining debt (unchanged)
+
+- `canon-002` — master_glossary.md still not updated
+- `prod-001` — implementation_planning_pack.md still false
+- `doc-001` — full doc audit still false
+
+### What Phase 2B should do next
+
+**Sixth file: `docs/08_production/save_state_and_profile_flow.md`**
+
+Depends on the systems and states defined in the earlier documentation passes to map the backend data payload.
+
+---
+
+## Phase 2B — Support Patch + Save State and Profile Flow — 2026-04-20
+
+### What happened this session
+
+Support patches applied, then the sixth Phase 2B production file created.
+
+**Support patch: `docs/04_systems/tutorial_and_onboarding_flow.md`**
+
+- Normalized the tutorial-window red-dot queue rule to max 2 visible main-nav red dots until `tutorial_window_complete = true`, matching the Section 4 tutorial cap.
+
+**Support patch: `docs/04_systems/core_loop_mvp_spec.md` and `docs/07_ui/unlock_flow_and_ui_map.md`**
+
+- Replaced pre-Day-15 Lucky Draw "Coming Soon" icon language with the locked hidden-until-eligible rule.
+- Lucky Draw now remains hidden before Day 15 eligibility and appears only after `zone_lw_001_rootvine_shelf` is unlocked.
+
+**New file created: `docs/08_production/save_state_and_profile_flow.md`**
+
+- Defined the MVP local-first profile container and first-run bootstrap order.
+- Locked first-run defaults, including `account.fixture_cap = 0`, starter wallet values, empty Fixture inventory/loadout, Loamwake Zone 1 baseline, hidden Rootrail state, and no early Lucky Draw event row.
+- Authored autosave/write-through rules for tutorial, wallet, craft/equip, Duties, Posts, Confidants, Rootrail, and Lucky Draw event mutations.
+- Defined mutable-state ownership for `tutorial_flags`, `wallet`, `fixture_loadout`, `duty_progress`, `post_state`, `confidant_state`, `rootrail_state`, `rootrail_codex_entry`, `event_state`, and transient UI cache.
+- Defined resume/recovery behavior for interruption during tutorial, after first craft before equip, Greta intro, Rootrail reveal, and Day 15 Lucky Draw eligibility crossing.
+- Defined migration/versioning rules using `save_version`, schema-versioned state families, safe defaults for additive fields, last-good snapshot recovery, and placeholder Confidant migration notes.
+
+**Tracking updated:**
+
+- `feature_list.json` — `content-006` appended with passes: true
+- `claude-progress.md` — this entry
+
+### Known remaining debt / unresolved notes
+
+- Cloud merge policy is deferred; MVP assumes one local profile.
+- Exact checksum/hash implementation is engineering-owned.
+- Starter wallet defaults are MVP tutorial-safe and should be retuned if economy grants are later locked elsewhere.
+- Lucky Draw event daily task definitions remain deferred to a future event task/liveops pass.
+- Battle stat and encounter resolution math remain outside this save/profile contract.
+- Existing unrelated UI map tail typo remains untouched.
+
+### What Phase 2B should do next
+
+**Seventh file: `docs/08_production/iap_catalog_v1.md`**
+
+Depends on Lucky Draw, wallet, and economy safety rules. Must preserve the no-premium-only-power constraint and avoid exclusive paid progression.
+
+---
+
+## Phase 2B — IAP Catalog v1 — 2026-04-20
+
+### What happened this session
+
+No support patch was required before drafting. The active tutorial, core loop, UI, Lucky Draw, save/profile, and economy sources already preserve the hidden-until-Day-15 event rule and keep monetization out of the tutorial window. Purchase restore and entitlement behavior is defined in the new IAP catalog as production store metadata without changing `data_schema_v1.md`.
+
+**New file created: `docs/08_production/iap_catalog_v1.md`**
+
+- Defined the MVP monetization catalog as a planning/content contract, not backend code.
+- Locked monetization safety rules: no pay-only progression, no premium-only power Fixtures, no stronger paid Hat passives, no tutorial or first-60-minute purchase pressure, and no Lucky Draw free-floor reduction.
+- Authored catalog categories for starter bundle, Glowcap packs, optional Lucky Draw support, utility/value packs, soft-currency routes, deferred cosmetics, and forbidden hard progression unlocks.
+- Added pricing tier labels from `T1_USD_0_99` through reserved `T6_USD_49_99`.
+- Authored four one-time offers, including a starter bundle hidden until after onboarding and first daily-return eligibility.
+- Authored five repeatable packs: three Glowcap packs plus two weekly utility caches.
+- Defined Lucky Draw-linked purchase rules, including the shared 10 paid top-up draw cap across direct IAP grants and Glowcap conversion.
+- Preserved `stall_lucky_001_mooncap_draw` as the Mooncap-only non-IAP path.
+- Defined soft-currency vs premium-currency distinctions and purchase restore/entitlement behavior for consumables, one-time limited bundles, and event-limited bundles.
+- Mapped purchase behavior to `wallet`, `event_state`, `festival_ledger_state`, `account.meta`, and production-only entitlement/fulfillment metadata.
+- Added failure/recovery rules for receipt validation failure, pending fulfillment, crash recovery, restore unavailable, duplicate receipts, and refund policy gaps.
+
+**Tracking updated:**
+
+- `feature_list.json` — `content-007` appended with passes: true
+- `claude-progress.md` — this entry
+
+### Known remaining debt / unresolved notes
+
+- Formal `iap_entitlement_state` and `iap_fulfillment_ledger` schema documents are still needed before real-money launch.
+- Refund and chargeback wallet correction policy remains unresolved.
+- Final localized pricing, tax handling, store registration, and receipt-validation provider choice remain production/business decisions.
+- Paid cosmetic hat policy and subscriptions are deferred.
+- Age-rating, parental consent, loot-box disclosure, and regional compliance review are required before Lucky Draw-linked IAP ships.
+
+### What should happen next
+
+**Next recommended file: `docs/08_production/implementation_planning_pack.md`**
+
+Phase 2B content is now ready to roll into an implementation planning pack that sequences prototype build work, validates remaining production blockers, and connects the content docs to engineering milestones.
+
+---
+
+## Phase 2B — Implementation Planning Pack — 2026-04-20
+
+### What happened this session
+
+Support patch applied to `project_roadmap.md`, then the Phase 2B MVP implementation planning pack was created.
+
+**Support patch: `project_roadmap.md`**
+
+- Updated Phase 2B deliverable table to include `2B.8 | Implementation plan | implementation_planning_pack.md` and marked all eight deliverables as `✅` (complete).
+- Updated the summary header `7 docs` to `8 docs` for Phase 2B.
+- No other sequence/logic contradictions were found across the other Phase 2A/2B docs; the systems are already correctly aligned.
+
+**New file created: `docs/08_production/implementation_planning_pack.md`**
+
+- Created the build-order source of truth for the MVP execution.
+- Authored the core dependency graph tracing Schema -> Save/Profile -> Onboarding -> Content -> Duties -> Encounters -> Rootrail -> Events -> Monetization.
+- Defined 8 sequential implementation phases with corresponding discipline lanes for engineering and design.
+- Established 8 hard Validation/Proof Gates (`VG-1` through `VG-8`), ensuring strict testing criteria for state bootstrap, onboarding recovery, economy, Greta unlock, Rootrail reveal, and monetization limits.
+- Consolidated an exhaustive Authored Document Inventory spanning schema, core loop, UI, and all content files.
+- Defined explicit deferred/out-of-scope boundaries (e.g., War Armory, Strata 2-5, Deepening, Cloud Sync, Daily Tasks).
+- Listed immediate production risks (e.g., event schedule QA testing).
+
+**Tracking updated:**
+
+- `feature_list.json` — `content-008` appended with `passes: true`.
+- `claude-progress.md` — this entry.
+
+### Known remaining debt / unresolved notes
+
+- Master glossary (`docs/01_core/master_glossary.md`) was never formally updated to reflect the Phase 2A Salvage (e.g., Ascender -> Rootrail, Clothes -> Fixtures).
+- Document audit (`doc-001`) and implementation planning (`prod-001`) flags in `feature_list.json` refer to older salvage/planning needs. `prod-001` is functionally solved by the new planning pack but may need structural review in tracking.
+
+### What should happen next
+
+**Next recommended execution target:**
+- **Phase 3 (First Playable) Sprints.**
+- Specifically, the engineering team should begin building **Phase 1: Foundation Runtime & Persistence** (Local save file generation, bootstrap default wallet/flags), followed immediately by **Phase 2: Tutorial & Onboarding Wiring**.
+
+---
+
+## Phase 2 Closeout Audit — 2026-04-20
+
+### What happened this session
+
+Phase 2 closeout executor performed a full audit of all Phase 2A/2B deliverables. All patches applied, tracking updated, Phase 2 declared complete.
+
+**Fixes applied:**
+
+1. `project_roadmap.md` — marked Phase 2B.8 (implementation_planning_pack.md) ✅; marked all Phase 2A milestones ✅; updated status headers from "CURRENT⬅/NEXT" to "COMPLETE ✅"; fixed stale Clothes→Fixtures (S3 sprint, Phase 4 table); fixed Ascender→Rootrail (Long-Term Roadmap); bumped version to 0.1.1
+
+2. `docs/01_core/master_glossary.md` — replaced "Cloth Assembly"→"Fixture Workshop", "Clothes"→"Fixture", "Fit"→"Equip"; replaced "The Ascender"→"Rootrail", "Ascender Parts"→"Rootrail Parts"; added new section "Fixtures, Hats, and equipment system" (12 entries); added new section "Rootrail system" (9 entries)
+
+3. `docs/08_production/phase2_completion_audit.md` — created full audit document verifying canon consistency (12 checks, all PASS), cross-doc ID consistency (11 key IDs, all consistent across 3-8 files each), tracking consistency, substantial-file audit (14 files, all substantial), and glossary consistency
+
+4. `feature_list.json` — set `prod-001`, `doc-001`, `canon-002` to `passes: true` with completion dates and audit notes; added `audit-001` flag
+
+### Audit scope
+
+Full audit of all Phase 2 authored docs:
+- 6 Phase 2A salvage files (schema, core loop, UI map, content templates, backend options, economy CSV)
+- 4 Phase 2A new system specs (fixtures/hats, rootrail, salvage report, specialist prompt)
+- 8 Phase 2B content/production files (Loamwake sheet, confidant chain, wanderer pool, Lucky Draw, tutorial, save/profile, IAP catalog, implementation planning pack)
+
+### Audit results
+
+- **Canon consistency:** All 12 canon rules verified PASS across all Phase 2 docs
+- **Cross-doc IDs:** All 11 key authored IDs consistent across all referencing files
+- **Stale terminology:** Clothes and Ascender appear only in Phase 1 pre-salvage docs (expected, archived reference) and "replaced by" context in Phase 2 docs
+- **Substantial-file audit:** All 14 major files are 130–701 lines; no placeholders remain
+- **Glossary:** Corrected from salvage canon lag; new Fixtures/Hats/Rootrail/Forgotten Manuals/War Armory entries added
+- **Tracking:** All previously-outstanding flags (prod-001, doc-001, canon-002) resolved
+
+### Remaining blockers
+
+**None.** Phase 2 is complete.
+
+### Deferred items (not Phase 2 blockers)
+
+- War Armory content (post-MVP)
+- Strata 2–5 content (post-MVP)
+- Final Confidant/Burrowfolk questionnaire content (post-MVP)
+- Full Rootrail repair chain steps 2+ (post-MVP)
+- Battle stat resolution system stub
+- Event daily task definitions
+- Cloud merge policy
+- Paid cosmetic hat policy
+- Formal IAP entitlement schema
+
+### Phase 2 status: COMPLETE
+
+Phase 3 (First Playable) sprints may begin. The implementation_planning_pack.md provides the build order, validation gates, and dependency graph.
+
+---
+
+## Phase 2 Reconciliation — 2026-04-20
+
+### What happened this session
+Tracking reconciliation pass. Verified all Phase 2 files exist.
+Updated feature_list.json to match repo truth.
+Root-level junk files archived to docs/99_archive/root_cleanup/.
+Phase 2 tracking now matches PM report and closeout audit.
+
+### Current state
+- Phase 1: complete
+- Phase 2A: complete (salvaged v0.2.1)
+- Phase 2B: complete (7 files + patches)
+- Phase 2 closeout: complete
+- Phase 3: not started — ready to begin
+
+### Next step
+Phase 3: Foundation Runtime & Persistence

@@ -1,8 +1,8 @@
 {
-  "_meta": {
+    "_meta": {
     "project": "gnome_game",
     "scope": "game-design-repo",
-    "last_updated": "2026-04-19",
+    "last_updated": "2026-04-20",
     "rules": "NEVER remove or edit existing features. Only update 'passes' after verification. Add new features at the end. The 'risk' field guides Prompt P planning depth."
   },
   "features": [
@@ -28,7 +28,7 @@
       "project": "gnome_game",
       "description": "All 17 existing design docs verified present and readable in canonical locations",
       "priority": "critical",
-      "passes": false,
+      "passes": true,
       "risk": "low",
       "plan": [
         "Check docs/01_core/master_glossary.md exists and has content",
@@ -42,14 +42,15 @@
       ],
       "qa_verified": false,
       "added": "2026-04-19",
-      "completed": null
+      "completed": "2026-04-20",
+      "audit_note": "Phase 2 completion audit verified all Phase 2 docs substantial and consistent"
     },
     {
       "id": "prod-001",
       "project": "gnome_game",
       "description": "Implementation planning pack created: system architecture map, launch scope, currency map, home-screen module map, region plan, event math, risk list, build order",
       "priority": "critical",
-      "passes": false,
+      "passes": true,
       "risk": "medium",
       "plan": [
         "Create docs/08_production/implementation_planning_pack.md",
@@ -65,7 +66,8 @@
       ],
       "qa_verified": false,
       "added": "2026-04-19",
-      "completed": null
+      "completed": "2026-04-20",
+      "audit_note": "Implementation planning pack verified substantial (130 lines, 8 build phases, 8 validation gates) in Phase 2 completion audit"
     },
     {
       "id": "prod-002",
@@ -295,7 +297,7 @@
       "project": "gnome_game",
       "description": "Master glossary updated with Phase 2A canon additions: Fixtures, Rootrail, War Armory, Forgotten Manuals, Hat passive rules, Fixture categories",
       "priority": "medium",
-      "passes": false,
+      "passes": true,
       "risk": "low",
       "plan": [
         "Open docs/01_core/master_glossary.md",
@@ -309,8 +311,8 @@
       ],
       "qa_verified": false,
       "added": "2026-04-19",
-      "completed": null,
-      "note": "NOT done in Phase 2A Salvage pass \u2014 requires a controlled glossary update pass; see phase2a_salvage_report.md Glossary Mismatch Note"
+      "completed": "2026-04-20",
+      "note": "Glossary corrected in Phase 2 completion audit: Clothes→Fixture, Ascender→Rootrail, new Fixtures/Hats/Rootrail/Forgotten Manuals/War Armory sections added"
     },
     {
       "id": "content-001",
@@ -402,7 +404,67 @@
       "added": "2026-04-20",
       "completed": "2026-04-20",
       "phase2b_file": "docs/06_content/lucky_draw_week_mvp.md",
-      "support_patch": "docs/06_content/first_wanderer_pool.md \u2014 lucky_draw_tickets corrected to canonical lucky_draws"
+      "support_patch": "docs/06_content/first_wanderer_pool.md — lucky_draw_tickets corrected to canonical lucky_draws"
+      },
+      {
+      "id": "content-005",
+      "project": "gnome_game",
+      "description": "Tutorial and onboarding flow created: first-session beats, mandatory craft/equip flow, anti-overload pacing, UI teaching rules, Rootrail tease timing, and event surfacing rules",
+      "priority": "critical",
+      "passes": true,
+      "risk": "medium",
+      "qa_verified": false,
+      "added": "2026-04-20",
+      "completed": "2026-04-20",
+      "phase2b_file": "docs/04_systems/tutorial_and_onboarding_flow.md"
+      },
+      {
+      "id": "content-006",
+      "project": "gnome_game",
+      "description": "Save state and profile flow created: first-run bootstrap, session resume, autosave rules, mutable-state ownership, Lucky Draw gating persistence, recovery/fallback behavior, and migration notes",
+      "priority": "critical",
+      "passes": true,
+      "risk": "medium",
+      "qa_verified": false,
+      "added": "2026-04-20",
+      "completed": "2026-04-20",
+      "phase2b_file": "docs/08_production/save_state_and_profile_flow.md"
+      },
+      {
+      "id": "content-007",
+      "project": "gnome_game",
+      "description": "IAP catalog created: MVP starter offers, repeatable packs, Lucky Draw support rules, entitlement/restore behavior, onboarding visibility timing, and monetization safety boundaries",
+      "priority": "critical",
+      "passes": true,
+      "risk": "medium",
+      "qa_verified": false,
+      "added": "2026-04-20",
+      "completed": "2026-04-20",
+      "phase2b_file": "docs/08_production/iap_catalog_v1.md"
+    },
+    {
+      "id": "content-008",
+      "project": "gnome_game",
+      "description": "Implementation planning pack created: authored-doc inventory, dependency graph, build order, validation gates, deferred scope, and MVP execution targets",
+      "priority": "critical",
+      "passes": true,
+      "risk": "medium",
+      "qa_verified": false,
+      "added": "2026-04-20",
+      "completed": "2026-04-20",
+      "phase2b_file": "docs/08_production/implementation_planning_pack.md"
+    },
+    {
+      "id": "audit-001",
+      "project": "gnome_game",
+      "description": "Phase 2 completion audit created and verified against canon, tracking, roadmap, glossary, and major authored docs",
+      "priority": "critical",
+      "passes": true,
+      "risk": "low",
+      "qa_verified": false,
+      "added": "2026-04-20",
+      "completed": "2026-04-20",
+      "audit_file": "docs/08_production/phase2_completion_audit.md"
     }
   ]
 }

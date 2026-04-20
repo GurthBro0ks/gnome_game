@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## v0.3.0 — Phase 2B Content & Planning Complete (2026-04-20)
+
+### Added
+* docs/06_content/loamwake_mvp_content_sheet.md — Loamwake MVP content root
+* docs/06_content/first_confidant_chain.md — Greta and Mossvane placeholder chains
+* docs/06_content/first_wanderer_pool.md — 14 Loamwake encounter entries
+* docs/06_content/lucky_draw_week_mvp.md — evt_luckydraw_001 full spec
+* docs/04_systems/tutorial_and_onboarding_flow.md — Step-by-step tutorial beats
+* docs/08_production/save_state_and_profile_flow.md — Local-first persistence contract
+* docs/08_production/iap_catalog_v1.md — MVP monetization catalog
+* docs/08_production/implementation_planning_pack.md — Build sequencing pack
+* docs/08_production/phase2_completion_audit.md — Phase 2 closeout verification
+
+### Fixed
+* Root-level junk files archived to docs/99_archive/root_cleanup/
+* feature_list.json reconciled with repo truth
+* claude-progress.md brought current
+
+### Status
+Phase 2 complete. Phase 3 ready to begin.
+
+---
+
 ## v0.2.1 — Phase 2A Salvage Repair (2026-04-19)
 
 ### Added

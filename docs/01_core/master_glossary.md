@@ -93,8 +93,8 @@ Source reference: Gnome Game — Phased Implementation Planning Pack, especially
 | Fissure | **The Crack** |
 | Fissure shop | **Crack Market** |
 | Drill Rig | **Crack Drill** |
-| Rocket | **The Ascender** |
-| Rocket Parts | **Ascender Parts** |
+| Rocket | **Rootrail** |
+| Rocket Parts | **Rootrail Parts** |
 | pond | **Dewpond** |
 | fungus farm | **Mushpatch** |
 | mine / quarry | **Rootmine** |
@@ -131,17 +131,20 @@ Source reference: Gnome Game — Phased Implementation Planning Pack, especially
 | travel / infrastructure / optimization region | **Wayworks** |
 | pre-prestige truth / bloodline convergence region | **The Buried Court** |
 
-## Clothes, treasures, and production verbs
+## Equipment, Fixtures, and production verbs
 
 | Source / system concept | Locked game term |
 |---|---|
-| Gear Forge / Arsenal | **Cloth Assembly** |
-| gear | **Clothes** |
-| equip | **Fit** |
+| Gear Forge / Arsenal | **Fixture Workshop** |
+| gear / equipment | **Fixture** |
+| equip | **Equip** |
 | upgrade gear | **Reinforce** |
 | merge gear | **Bind** |
 | dismantle gear | **Salvage** |
 | gear rarity tiers | **Common / Fine / Rare / Grand / Ancient** |
+| equip capacity | **Fixture Cap** |
+| war-only equipment | **War Fixture** |
+| war equipment storage | **War Armory** |
 | activate treasure | **Set** |
 | upgrade treasure | **Polish** |
 | tier advancement | **Strengthen** |
@@ -265,3 +268,36 @@ Source reference: Gnome Game — Phased Implementation Planning Pack, especially
 | Prestige 5 | **Fifth Deepening: The Buried Court** |
 | prestige requirement | **Deepening Gate** |
 | secret quest | **Buried Requirement** |
+
+## Fixtures, Hats, and equipment system
+
+| Source / system concept | Locked game term |
+|---|---|
+| personal equipment piece | **Fixture** |
+| maximum equipped Fixtures | **Fixture Cap** |
+| Fixture type tag | **Fixture Category** (Farming / Pure Attack / Strain / War) |
+| equipment slot type | **No rigid slots** — ordered list bounded by cap |
+| shell-style permanent unlock wearable | **Hat** |
+| Hat display rule | **One visible hat at a time** |
+| Hat passive rule | **All unlocked hats stack tiny passives permanently** |
+| Hat counts against Fixture cap | **No** — always separate |
+| War-only equipment | **War Fixture** |
+| War equipment storage | **War Armory** |
+| War Fixture counts against personal cap | **No** — always separate |
+| craft a Fixture | **Craft** |
+| equip a Fixture | **Equip** |
+
+## Rootrail system
+
+| Source / system concept | Locked game term |
+|---|---|
+| old forgotten train / travel system | **Rootrail** |
+| long-project travel/unlock system | **Rootrail** (replaces The Ascender) |
+| Rootrail repair material | **Rootrail Parts** |
+| Rootrail station location | **Rootrail Station** |
+| Rootrail unlocked route | **Rootrail Route** |
+| Rootrail passive account bonus | **Rootrail Account Bonus** |
+| Rootrail knowledge unlock item | **Forgotten Manual** |
+| Rootrail codex / logbook | **Rootrail Codex** |
+| Forgotten Manual consumed on use | **No** — permanent, not consumed |
+| Forgotten Manuals vs Elder Books | **Separate items** — Manuals are knowledge gates; Elder Books are ritual/key items |

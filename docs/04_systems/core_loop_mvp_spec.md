@@ -33,7 +33,7 @@ All other Strata, full Rootrail networks, War Armory, Memory Shift, full Deepeni
 | Duties | In scope — daily + story duties for Loamwake |
 | Burrow Posts | In scope — 3–5 posts |
 | Strain Hall | Stubbed visible — screen shows, no playable research |
-| Lucky Draw Week | Stubbed visible — icon shows; not active in first 2 weeks |
+| Lucky Draw Week | Deferred — hidden through first 14 days; active icon appears Day 15+ if Zone 1 is unlocked |
 | The Crack | Fully hidden — not shown until post-Loamwake milestone |
 | Clique / War Armory | Fully hidden — not shown in MVP |
 | Deepening | Locked — visible as future promise after first Strata clear |
@@ -225,7 +225,7 @@ The hat unlock does NOT show a full hat collection screen (scope limited). Just 
 
 - Rootrail hub map (station visible; route silhouettes shown; no playable routes)
 - Strain Hall (screen exists; "Research locked — explore more first")
-- Lucky Draw (icon visible in nav; "Coming Soon" state during 2-week beginner event window)
+- Lucky Draw (hidden through first 14 days; active icon appears Day 15+ if Zone 1 is unlocked)
 - Vault of Treasures (visible; empty or placeholder)
 - Second Confidant's full Duty chain (first Duty only)
 
@@ -286,4 +286,4 @@ If any of the following are observed, the MVP loop requires revision before cont
 - [ ] Daily Duties refresh on UTC midnight
 - [ ] Burrow Post board shows 1–3 posts at any time
 - [ ] No Crack, Clique, or War Armory UI is visible to a fresh account
-- [ ] Lucky Draw icon is visible but shows "Coming Soon" state for first 14 days
+- [ ] Lucky Draw icon remains hidden before Day 15 eligibility and appears only after Zone 1 is unlocked

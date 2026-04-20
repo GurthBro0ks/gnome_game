@@ -104,7 +104,7 @@ These surfaces open progressively through first-session play:
 
 | Day | Unlock | Notes |
 |-----|--------|-------|
-| Day 2 | Lucky Draw icon becomes visible (stub) | Shown in nav as "Coming soon — Lucky Draw Week begins in X days" |
+| Day 2 | Lucky Draw remains hidden | No event nav icon or "Coming Soon" stub appears before Day 15 eligibility |
 | Day 2 | Rootrail step 1 timer completes (if started day 1) | Step 1 reward: account bonus + codex entry + step 2 revealed |
 | Day 2 | Step 2 of Rootrail visible (requirements shown) | Timer will be 8 hours base |
 | Day 3 | Mossvane's first Duty chain becomes available | After day-2 daily Duties complete |
@@ -120,7 +120,7 @@ These unlock **after the player clears Loamwake** (all launch zones explored, Wa
 |--------|-------|
 | Deepening stub visible | Shows "Deepening — The Next Layer" teaser card in Burrow |
 | Crack stub revealed | "Something is cracking under here." — entry point becomes visible |
-| Lucky Draw Week start | If day 14+ since account creation, Lucky Draw Week activates |
+| Lucky Draw Week start | If Day 15+ eligibility is met and `zone_lw_001_rootvine_shelf` is unlocked, Lucky Draw Week activates |
 | Rootrail silhouette route 2 shown | Second route appears as ghost on hub map |
 | Fixture cap potential 3 post-clear | One Duty reward after Loamwake clear grants cap +1 |
 
@@ -157,7 +157,7 @@ These unlock **after the player clears Loamwake** (all launch zones explored, Wa
 
 | Rule | Detail |
 |------|--------|
-| **Rootrail tab** | Appears in Burrow nav after Greta Duty 2 discovery event; labelled "Rootrail" |
+| **Rootrail tab** | Appears in Burrow nav after dty_lw_003_greta_rail_lead completion; labelled "Rootrail" |
 | **Station screen** | Shows: current repair step, Rootrail Parts count, Forgotten Manual status, timer (if running) |
 | **Hub map** | Tab within Rootrail screen; shows The Burrow at center, one ghost/silhouette route visible from start |
 | **Route unlock animation** | When a route unlocks, the ghost route lights up with a brief restoration effect |
@@ -183,7 +183,7 @@ These unlock **after the player clears Loamwake** (all launch zones explored, Wa
 
 | Event | Visibility | Unlock |
 |-------|-----------|--------|
-| Lucky Draw Week | Icon in nav; stub "Coming Soon" for first 14 days | Day 15+ or account age 14+ days |
+| Lucky Draw Week | Hidden through the first 14 days; active icon appears only after eligibility is met | Day 15+ (`account.age_days >= 14`) and `zone_lw_001_rootvine_shelf` unlocked |
 | Treasure Week | Locked; shown after Lucky Draw Week completes | Week 3 onwards |
 | Echo Week | Locked | Week 5 onwards |
 | Festival Ledger | Visible in nav Week 1 as "Festival Board" but 0 tasks until Week 2 | Week 2 |
@@ -282,8 +282,10 @@ Minimum screens required for Loamwake MVP build:
 - [ ] No "Ascender" string exists in any UI label, button, or toast
 - [ ] War Armory is not visible in the Fixture panel under any account state
 - [ ] Red dot count in main nav never exceeds 3 simultaneously
-- [ ] Lucky Draw icon shows "Coming Soon" state for first 14 days
+- [ ] Lucky Draw icon remains hidden before Day 15 eligibility and appears only after Zone 1 is unlocked
 - [ ] Clique icon does not appear until Loamwake is cleared
 - [ ] The Crack does not appear until Loamwake is cleared
 - [ ] Deepening card appears (non-interactive) after first Loamwake clear
 - [ ] Forgotten Manual codex does not show Elder Books; Elder Books are in wallet only
+et only
+wallet only
