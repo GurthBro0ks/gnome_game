@@ -241,3 +241,60 @@ Depends on:
 - Loamwake material IDs from `loamwake_mvp_content_sheet.md §5` for prize pools
 - Event cadence rules from `docs/05_liveops/` for 3-week rotation structure
 
+
+---
+
+## Phase 2B — Support Patch + Lucky Draw Week MVP — 2026-04-20
+
+### What happened this session
+
+Support patch applied to `docs/06_content/first_wanderer_pool.md`, then the fourth Phase 2B content file created.
+
+**Support patch: `docs/06_content/first_wanderer_pool.md`**
+
+- Line 386 (Next Recommended File section): `lucky_draw_tickets` → `lucky_draws` (canonical wallet key per `data_schema_v1.md §wallet` and economy CSV `cur_004`). This was the only naming inconsistency found; no other files required patching.
+
+**New file created: `docs/06_content/lucky_draw_week_mvp.md`**
+
+19 sections. Implementation-ready Lucky Draw Week event content.
+
+- Event definition: `evt_luckydraw_001` — "Lucky Draw Week: Loose Lots"; 168h; unlocks Day 15 (`account.age_days >= 14` + Zone 1 unlocked)
+- Reward ID Readiness Table: 11 reward families audited; Hats and War Fixtures explicitly forbidden
+- Free weekly floor: 3 confirmed sources (weekly claim, activity milestone, Mooncap stall item); optional 4th+5th via daily task path (5/week for active free players)
+- 7-tier ladder: thresholds 1/3/5/8/12/16/20 pulls; T1–T3 reachable by free players; T7 cap is a material kit (not a direct Fixture grant)
+- Pull table: 10 rows; weights sum to 100; weekly caps on rootrail_parts (3), treasure_tickets (1), festival_marks (30), fixture_grant (1)
+- Pull table Fixture row: only fix_001, fix_002, fix_004 (all craftable); fix_003/fix_005 appear as material-kit targets in stall only; duplicates convert to materials
+- Lucky Stall: 6 items; stall_lucky_001 is Mooncap-only (250 Mooncaps = 1 Lucky Draw); stall_lucky_004 is Festival Marks sink (30 marks = 1 Lucky Draw)
+- Glowcap conversion: 10 Glowcaps = 1 Lucky Draw; weekly cap 10 via conversion; optional only
+- Festival Marks: sources from pull_lw_005 (weekly cap 30) + ladder T4 (20) + ladder T6 (25); sink via stall_lucky_004 (30 marks → 1 draw)
+- Rootrail safety: pulls cap 3/week; stall cap 3/week (1 purchase); event total ~6 Rootrail Parts max — does not bypass rtr_step_001 cost of 20
+- Schema/state mapping: content-definition vs. player-state fields clearly separated
+- Validation checklist: 21 items, all passing
+- 5 UNRESOLVED items flagged (Festival Ledger tier thresholds, pull table balance tuning, Glowcap cap adjustment, daily task definition, stall_lucky_004 first-week edge case)
+
+**Tracking updated:**
+
+- `feature_list.json` — `content-004` appended with passes: true
+- `claude-progress.md` — this entry
+
+### Known remaining debt (unchanged)
+
+- `canon-002` — master_glossary.md still not updated
+- `prod-001` — implementation_planning_pack.md still false
+- `doc-001` — full doc audit still false
+
+### What Phase 2B should do next
+
+**Fifth file: `docs/04_systems/tutorial_and_onboarding_flow.md`**
+
+Depends on:
+- `loamwake_mvp_content_sheet.md` — for first zone, first Duty, first Fixture craft beat
+- `core_loop_mvp_spec.md` — for 10-minute and 60-minute flow sequence
+- `data_schema_v1.md` — for `tutorial_flags` field and `fixture_cap` mutation
+
+Must define:
+- Step-by-step tutorial beat sequence (trigger, UI action, system unlocked, skip_allowed flag)
+- `fixture_cap 0→1` tutorial beat — `skip_allowed: false`
+- First Fixture craft and equip beat — `skip_allowed: false`
+- Anti-overload checkpoints
+- Rootrail mention as "an old structure to investigate" only — no full explanation

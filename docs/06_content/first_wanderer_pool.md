@@ -383,7 +383,7 @@ Done when all of the following are true:
 
 Depends on:
 - Economy model (`data/economy/economy_model_v1_sheet.csv`)
-- Lucky Draw currency (`lucky_draw_tickets` — defined in economy model)
+- Lucky Draw currency (`lucky_draws` — canonical wallet field; defined in `data_schema_v1.md §wallet` and economy model)
 - Loamwake material IDs (Section 5 of `loamwake_mvp_content_sheet.md`) for prize pools
 - Event cadence spec (`docs/05_liveops/`) for 3-week rotation rules
 

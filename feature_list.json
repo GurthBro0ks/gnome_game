@@ -390,6 +390,19 @@
       "added": "2026-04-19",
       "completed": "2026-04-19",
       "phase2b_file": "docs/06_content/first_wanderer_pool.md"
+    },
+    {
+      "id": "content-004",
+      "project": "gnome_game",
+      "description": "Phase 2B Lucky Draw Week MVP created: event definition (evt_luckydraw_001), 7-tier ladder, weighted pull table (weights sum 100), Lucky Stall (6 items incl. Mooncap-only), free weekly floor (3 draws minimum), Glowcap conversion (capped 10/week), Festival Marks integration, Fixture/Rootrail/Hat safety rules, schema/state mapping, validation and acceptance checklists",
+      "priority": "critical",
+      "passes": true,
+      "risk": "medium",
+      "qa_verified": false,
+      "added": "2026-04-20",
+      "completed": "2026-04-20",
+      "phase2b_file": "docs/06_content/lucky_draw_week_mvp.md",
+      "support_patch": "docs/06_content/first_wanderer_pool.md \u2014 lucky_draw_tickets corrected to canonical lucky_draws"
     }
   ]
 }
