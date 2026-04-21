@@ -161,6 +161,10 @@ namespace GnomeGame.UI
 
         private void BuildLoamwakePage(Font font)
         {
+            var topNavCard = CreateCard(loamwakePage.transform, "LoamwakeTopNavigationCard", 94f);
+            Text unusedLabel;
+            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+
             AddText(loamwakePage.transform, font, "Loamwake", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
             loamwakeWalletText = AddText(loamwakePage.transform, font, "", 28, FontStyle.Bold, TextAnchor.MiddleLeft, 42f);
             loamwakeActionText = AddText(loamwakePage.transform, font, "", 22, FontStyle.Normal, TextAnchor.MiddleLeft, 52f);
@@ -189,7 +193,6 @@ namespace GnomeGame.UI
 
             var navCard = CreateCard(loamwakePage.transform, "NavigationCard", 150f);
             AddText(navCard.transform, font, "Navigation", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            Text unusedLabel;
             AddButton(navCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
             AddButton(navCard.transform, font, "Force Save", OnForceSavePressed, out unusedLabel);
 

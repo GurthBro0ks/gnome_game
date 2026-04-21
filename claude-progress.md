@@ -1,5 +1,11 @@
 # claude-progress.md
 
+## Phase 3 Sprint 2 — Loamwake Back Navigation Bugfix — 2026-04-20
+
+### What happened this session
+- Added a dedicated top `Back to Burrow` button to the Loamwake page in `BurrowDebugUI` so the player can always return without scrolling.
+- Kept the existing bottom navigation/debug area intact and left the current `ProfileService.ReturnToBurrow()` flow unchanged.
+
 ## Phase 2A Salvage Repair — 2026-04-19
 
 ### What happened this session

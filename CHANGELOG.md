@@ -13,6 +13,9 @@
 - Profile service now supports entering Loamwake, exploring zones, Keeper challenge flow, and returning to the Burrow
 - Save migration now rehydrates Sprint 1 profiles into the new Loamwake exploration state
 
+### Fixed
+- Loamwake now shows a top `Back to Burrow` button before zone cards so return navigation stays visible without scrolling
+
 ### Status
 Sprint 2 complete. Loamwake now has a minimal local-first exploration slice with route choice and Keeper capstone persistence.
 
