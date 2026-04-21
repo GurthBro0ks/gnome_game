@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.Runtime.Serialization;
 
 namespace GnomeGame.Data
@@ -77,25 +78,56 @@ namespace GnomeGame.Data
 
     [Serializable]
     [DataContract]
+    public class BurrowBuildingStateData
+    {
+        [DataMember(Order = 0)]
+        public int level = 1;
+
+        [DataMember(Order = 1)]
+        public int stored_output = 0;
+
+        [DataMember(Order = 2)]
+        public int storage_cap = 60;
+    }
+
+    [Serializable]
+    [DataContract]
+    public class RootmineStateData
+    {
+        [DataMember(Order = 0)]
+        public int level = 0;
+
+        [DataMember(Order = 1)]
+        public bool unlocked = false;
+
+        [DataMember(Order = 2)]
+        public string status_note = "Locked until Burrow level 2";
+    }
+
+    [Serializable]
+    [DataContract]
     public class BurrowStateData
     {
         [DataMember(Order = 0)]
         public int burrow_level = 1;
 
         [DataMember(Order = 1)]
-        public int dewpond_level = 1;
+        public int expand_count = 0;
 
         [DataMember(Order = 2)]
-        public int mushpatch_level = 1;
+        public string last_production_tick = "";
 
         [DataMember(Order = 3)]
-        public int rootmine_level = 0;
+        public List<string> unlocked_rooms = new List<string>();
 
         [DataMember(Order = 4)]
-        public int tickworks_level = 0;
+        public BurrowBuildingStateData dewpond = new BurrowBuildingStateData();
 
         [DataMember(Order = 5)]
-        public int expand_count = 0;
+        public BurrowBuildingStateData mushpatch = new BurrowBuildingStateData();
+
+        [DataMember(Order = 6)]
+        public RootmineStateData rootmine = new RootmineStateData();
     }
 
     [Serializable]

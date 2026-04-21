@@ -15,6 +15,8 @@ namespace GnomeGame.Core
         private AuthManager authManager;
         private SaveManager saveManager;
         private ProfileService profileService;
+        private BurrowProductionService burrowProductionService;
+        private float nextProductionRefreshAt;
 
         private void Awake()
         {
@@ -23,17 +25,32 @@ namespace GnomeGame.Core
             authManager = new AuthManager();
             saveManager = new SaveManager(Application.persistentDataPath);
             profileService = new ProfileService();
+            burrowProductionService = new BurrowProductionService();
 
             authManager.Initialize(Application.persistentDataPath, auth_enabled, simulate_auth_failure);
 
             var profile = saveManager.LoadOrCreateProfile(authManager.ActiveUid);
             authManager.AdoptProfileUidIfFallback(profile.account.uid);
 
-            profileService.Initialize(saveManager);
+            profileService.Initialize(saveManager, burrowProductionService, () => System.DateTime.UtcNow);
+            profileService.ProcessBurrowProduction();
             CreateDebugUi();
 
-            Debug.Log("[Sprint0] Boot complete. " + authManager.StatusMessage);
-            Debug.Log("[Sprint0] Save path: " + saveManager.SaveFilePath);
+            nextProductionRefreshAt = Time.unscaledTime + 1f;
+
+            Debug.Log("[Sprint1] Boot complete. " + authManager.StatusMessage);
+            Debug.Log("[Sprint1] Save path: " + saveManager.SaveFilePath);
+        }
+
+        private void Update()
+        {
+            if (profileService == null || Time.unscaledTime < nextProductionRefreshAt)
+            {
+                return;
+            }
+
+            nextProductionRefreshAt = Time.unscaledTime + 1f;
+            profileService.ProcessBurrowProduction();
         }
 
         private void OnApplicationPause(bool pauseStatus)
@@ -41,6 +58,10 @@ namespace GnomeGame.Core
             if (pauseStatus && saveManager != null)
             {
                 saveManager.SaveProfile("application pause");
+            }
+            else if (!pauseStatus && profileService != null)
+            {
+                profileService.ProcessBurrowProduction();
             }
         }
 

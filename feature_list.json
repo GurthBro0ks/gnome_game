@@ -483,11 +483,12 @@
       "project": "gnome_game",
       "description": "Phase 3 Sprint 1 — Burrow core: Dewpond, Mushpatch, gather loop, Expand, UI shell",
       "priority": "critical",
-      "passes": false,
+      "passes": true,
       "risk": "medium",
       "qa_verified": false,
       "added": "2026-04-20",
-      "completed": null
+      "completed": "2026-04-20",
+      "verification": "Mono harness verified Dewpond/Mushpatch timed output, gather transfer, Burrow expand cost spend, Rootmine unlock at level 2, and persistence across save/load"
     },
     {
       "id": "sprint-s2",

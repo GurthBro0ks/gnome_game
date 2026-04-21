@@ -4,7 +4,7 @@ namespace GnomeGame.Data
 {
     public static class ProfileFactory
     {
-        public const int CurrentSaveVersion = 1;
+        public const int CurrentSaveVersion = 2;
 
         public static PlayerProfileData CreateDefault(string uid)
         {
@@ -43,11 +43,31 @@ namespace GnomeGame.Data
                 burrow_state = new BurrowStateData
                 {
                     burrow_level = 1,
-                    dewpond_level = 1,
-                    mushpatch_level = 1,
-                    rootmine_level = 0,
-                    tickworks_level = 0,
-                    expand_count = 0
+                    expand_count = 0,
+                    last_production_tick = now,
+                    unlocked_rooms = new System.Collections.Generic.List<string>
+                    {
+                        "dewpond",
+                        "mushpatch"
+                    },
+                    dewpond = new BurrowBuildingStateData
+                    {
+                        level = 1,
+                        stored_output = 0,
+                        storage_cap = 60
+                    },
+                    mushpatch = new BurrowBuildingStateData
+                    {
+                        level = 1,
+                        stored_output = 0,
+                        storage_cap = 60
+                    },
+                    rootmine = new RootmineStateData
+                    {
+                        level = 0,
+                        unlocked = false,
+                        status_note = "Locked until Burrow level 2"
+                    }
                 }
             };
         }

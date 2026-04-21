@@ -603,3 +603,57 @@ Created the first playable Unity shell under `src/unity/`.
 ### Current state
 - Phase 3 Sprint 0: complete
 - Sprint 1 can begin from the local-first profile, Burrow UI shell, and Mooncap mutation path
+
+---
+
+## Phase 3 Sprint 1 — Burrow Core — 2026-04-20
+
+### What happened this session
+Built the first Burrow gameplay shell on top of Sprint 0 persistence.
+Implemented Dewpond and Mushpatch timed output, Gather actions, Burrow Expand spending, and Rootmine level-2 unlock shell.
+Kept the system local-first and preserved the debug/status area.
+
+**Runtime and data changes:**
+- Expanded `burrow_state` into a readable Sprint 1 shape with `last_production_tick`, `unlocked_rooms`, `dewpond`, `mushpatch`, and `rootmine`
+- Added `BurrowStateHelper` to rehydrate defaults and migrate Sprint 0 saves forward into the new Burrow structure
+- Added `BurrowProductionService` with deterministic prototype timing:
+  - Dewpond level 1: 1 Mooncap every 3 seconds
+  - Mushpatch level 1: 1 Mushcap every 10 seconds
+  - Storage cap: 60 per building at level 1
+- Wired app boot, resume, and periodic runtime refresh to process offline/local production before the UI redraws
+
+**Burrow loop implemented:**
+- Dewpond accumulates stored Mooncaps over time
+- Mushpatch accumulates stored Mushcaps over time
+- Gather actions move stored output into wallet balances and autosave immediately
+- Expand spends Mooncaps, raises Burrow level, increments `expand_count`, and unlocks Rootmine at Burrow level 2
+- Rootmine remains a locked shell until Burrow level 2 and only shows unlocked status plus a stub note after unlock
+
+**UI changes:**
+- Replaced the Sprint 0 proof panel with a readable Burrow screen in `MainScene`
+- Added visible wallet values, Dewpond card, Mushpatch card, Burrow status card, Rootmine card, and retained the debug/status panel
+- Expand shows blocked state when Mooncaps are insufficient
+- Debug/status panel now shows auth state, save state, last production tick, active UID, and save path
+
+**Verification performed:**
+- Replaced the Sprint 0 Mono harness with `tools/verify_sprint1_burrow_core.cs`
+- Verified:
+  - fresh profile starts with Dewpond 1 and Mushpatch 1
+  - simulated elapsed time produces stored Dewpond/Mushpatch output
+  - Gather transfers stored output into wallet values
+  - Expand from Burrow level 1 to 2 succeeds after enough Mooncaps
+  - Rootmine unlocks exactly at Burrow level 2
+  - state persists across save/load
+
+**Tracking updated:**
+- `feature_list.json` — `sprint-s1` set to `passes: true`
+- `CHANGELOG.md` — added v0.6.0 Sprint 1 entry
+- `claude-progress.md` — this entry
+
+### Current state
+- Sprint 0: complete
+- Sprint 1: complete
+- Sprint 2: ready to begin
+
+### Next step
+Sprint 2 — Loamwake zones 1–3, route choice, Auto-Clash, first Keeper

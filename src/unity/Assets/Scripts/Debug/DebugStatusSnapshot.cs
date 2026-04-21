@@ -9,7 +9,9 @@ namespace GnomeGame.Debugging
         public string save_state;
         public string active_uid;
         public string save_file_path;
+        public string last_production_tick;
         public int mooncaps;
+        public int mushcaps;
 
         public static DebugStatusSnapshot From(AuthManager authManager, SaveManager saveManager, PlayerProfileData profile)
         {
@@ -21,7 +23,9 @@ namespace GnomeGame.Debugging
                     : "Save not initialized",
                 active_uid = profile != null && profile.account != null ? profile.account.uid : "",
                 save_file_path = saveManager != null ? saveManager.SaveFilePath : "",
-                mooncaps = profile != null && profile.wallet != null ? profile.wallet.mooncaps : 0
+                last_production_tick = profile != null && profile.burrow_state != null ? profile.burrow_state.last_production_tick : "",
+                mooncaps = profile != null && profile.wallet != null ? profile.wallet.mooncaps : 0,
+                mushcaps = profile != null && profile.wallet != null ? profile.wallet.mushcaps : 0
             };
         }
     }

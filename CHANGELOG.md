@@ -1,5 +1,24 @@
 # CHANGELOG
 
+## v0.6.0 — Phase 3 Sprint 1 Burrow Core (2026-04-20)
+
+### Added
+- Burrow production state for Dewpond, Mushpatch, Rootmine lock state, unlocked rooms, stored output, and last production tick
+- `BurrowProductionService` for deterministic local-first idle output and storage cap handling
+- Burrow gather actions for Dewpond and Mushpatch
+- Burrow expand flow with Mooncap spend, level increase, and Rootmine unlock at Burrow level 2
+- Sprint 1 Mono verification harness for timed output, gather, expand, unlock, and persistence
+
+### Changed
+- MainScene Burrow UI now shows wallet values, Dewpond, Mushpatch, Burrow status, Rootmine state, and the debug/status panel together
+- Boot and resume now process offline Burrow production before refreshing the UI
+- Sprint 0 save migration now rehydrates the new Burrow state shape on load
+
+### Status
+Sprint 1 complete. The Burrow now has a working local-first gather loop and expand unlock shell.
+
+---
+
 ## v0.5.0 — Phase 3 Sprint 0 Runtime & Persistence Shell (2026-04-20)
 
 ### Added

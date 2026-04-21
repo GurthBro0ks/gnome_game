@@ -88,6 +88,23 @@ namespace GnomeGame.Core
             return SaveProfile(reason);
         }
 
+        public bool MutateProfileIfChanged(Func<PlayerProfileData, bool> mutation, string reason)
+        {
+            if (Profile == null)
+            {
+                LastSaveStatus = "Mutation skipped; no profile loaded";
+                return false;
+            }
+
+            var changed = mutation(Profile);
+            if (!changed)
+            {
+                return false;
+            }
+
+            return SaveProfile(reason);
+        }
+
         public PlayerProfileData ReloadProfile()
         {
             if (!File.Exists(SaveFilePath))
@@ -139,6 +156,8 @@ namespace GnomeGame.Core
                 Profile.burrow_state = new BurrowStateData();
             }
 
+            BurrowStateHelper.EnsureDefaults(Profile);
+
             if (string.IsNullOrEmpty(Profile.account.uid))
             {
                 Profile.account.uid = string.IsNullOrEmpty(uid) ? ProfileFactory.CreateLocalUid() : uid;
@@ -169,7 +188,8 @@ namespace GnomeGame.Core
 
             if (Profile.save_version.version < ProfileFactory.CurrentSaveVersion)
             {
-                // Sprint 0 has no old versions yet. Future migrations should be additive here.
+                // Sprint 1 migrates Burrow room/building state from the Sprint 0 shell by rehydrating defaults.
+                BurrowStateHelper.EnsureDefaults(Profile);
                 Profile.save_version.version = ProfileFactory.CurrentSaveVersion;
             }
         }
