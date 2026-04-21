@@ -531,11 +531,12 @@
       "project": "gnome_game",
       "description": "Phase 3 Sprint 5 — Lucky Draw Week vertical slice, Lucky Stall, Festival Ledger free lane",
       "priority": "critical",
-      "passes": false,
+      "passes": true,
       "risk": "medium",
       "qa_verified": false,
       "added": "2026-04-20",
-      "completed": null
+      "completed": "2026-04-21",
+      "verification": "Mono harness verified Lucky Draw Week hidden before Greta gate, Greta unlock activates event, weekly free ticket persists, pull consumes one ticket and grants a controlled reward, Festival Ledger progress/claim persists, Lucky Stall Mooncap purchase consumes currency and respects limit, save/load restores event state, and paid/IAP paths remain inactive"
     },
     {
       "id": "sprint-s6",

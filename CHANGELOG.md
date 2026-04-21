@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## v0.10.0 — Phase 3 Sprint 5 Lucky Draw Week, Lucky Stall, Festival Ledger (2026-04-21)
+
+### Added
+- Lucky Draw Week event state, Greta-gated prototype unlock, weekly free ticket claim, activity ticket hook, controlled pull table, persisted latest pull, and pull history
+- Festival Ledger free lane with four pull-count milestones and idempotent claim persistence
+- Lucky Stall side sink with Mooncap, Lucky Draw, and Festival Mark exchanges plus persisted weekly purchase counts
+- Lucky Draw Week debug UI page with pull controls, Festival Ledger summary, Lucky Stall section, and debug/status area
+- Sprint 5 Mono verification harness covering event gating, free ticket claim, pull rewards, ladder progress, ledger claim, Lucky Stall limits, persistence, and no paid/IAP path
+
+### Changed
+- Burrow UI now shows Lucky Draw Week only after the Greta prototype gate and includes a small event summary with current Lucky Draw tickets
+- Profile save data now migrates additive Sprint 5 event, stall, and Festival Ledger state without activating monetization or full liveops scheduling
+
+### Status
+Sprint 5 complete. The prototype now has a repeatable free event loop without paid ticket paths, IAP, Treasure Week, Echo Week, subscriptions, receipts, store SDKs, or broader liveops backend work.
+
+---
+
 ## v0.9.0 — Phase 3 Sprint 4 Burrow Posts, Daily Duties, Greta, Rootrail Reveal (2026-04-21)
 
 ### Added

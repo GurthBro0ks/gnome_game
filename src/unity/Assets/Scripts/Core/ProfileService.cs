@@ -10,6 +10,7 @@ namespace GnomeGame.Core
         private LoamwakeExplorationService loamwakeExplorationService;
         private FixtureService fixtureService = new FixtureService();
         private SocialProgressService socialProgressService = new SocialProgressService();
+        private LuckyDrawEventService luckyDrawEventService = new LuckyDrawEventService();
         private Func<DateTime> utcNowProvider;
 
         public event Action ProfileChanged;
@@ -27,6 +28,7 @@ namespace GnomeGame.Core
             burrowProductionService = activeBurrowProductionService;
             loamwakeExplorationService = activeLoamwakeExplorationService;
             utcNowProvider = activeUtcNowProvider ?? (() => DateTime.UtcNow);
+            SyncLuckyDrawUnlock();
             RaiseProfileChanged();
         }
 
@@ -242,6 +244,7 @@ namespace GnomeGame.Core
                     if (changed)
                     {
                         socialProgressService.RecordLoamwakeExplore(profile);
+                        luckyDrawEventService.RecordFreeActivity(profile);
                         SocialProgressService.EnsureDefaults(profile);
                     }
 
@@ -317,6 +320,7 @@ namespace GnomeGame.Core
                     if (changed)
                     {
                         socialProgressService.RecordFixtureProgress(profile);
+                        luckyDrawEventService.RecordFreeActivity(profile);
                     }
 
                     LastActionStatus = status;
@@ -343,6 +347,7 @@ namespace GnomeGame.Core
                     if (changed)
                     {
                         socialProgressService.RecordFixtureProgress(profile);
+                        luckyDrawEventService.RecordFreeActivity(profile);
                     }
 
                     LastActionStatus = status;
@@ -421,6 +426,41 @@ namespace GnomeGame.Core
             return MutateSocialProgress(socialProgressService.RevealRootrail, "revealed rootrail station");
         }
 
+        public bool ClaimLuckyDrawWeeklyTicket()
+        {
+            return MutateLuckyDraw(luckyDrawEventService.ClaimWeeklyTicket, "claimed lucky draw weekly ticket");
+        }
+
+        public bool PullLuckyDraw()
+        {
+            return MutateLuckyDraw(luckyDrawEventService.Pull, "pulled lucky draw");
+        }
+
+        public bool ClaimFestivalLedgerReward()
+        {
+            return MutateLuckyDraw(luckyDrawEventService.ClaimNextLedgerReward, "claimed festival ledger reward");
+        }
+
+        public bool BuyLuckyStallMooncapDraw()
+        {
+            return BuyLuckyStallItem(LuckyDrawEventService.StallMooncapDrawId);
+        }
+
+        public bool BuyLuckyStallMaterialCache()
+        {
+            return BuyLuckyStallItem(LuckyDrawEventService.StallMaterialCacheId);
+        }
+
+        public bool BuyLuckyStallPolishBundle()
+        {
+            return BuyLuckyStallItem(LuckyDrawEventService.StallPolishBundleId);
+        }
+
+        public bool BuyLuckyStallFestivalExchange()
+        {
+            return BuyLuckyStallItem(LuckyDrawEventService.StallFestivalExchangeId);
+        }
+
         private bool GatherBuildingOutput(string buildingId)
         {
             if (saveManager == null)
@@ -465,6 +505,8 @@ namespace GnomeGame.Core
                     {
                         socialProgressService.RecordDewpondGather(profile);
                     }
+
+                    luckyDrawEventService.RecordFreeActivity(profile);
 
                     LastActionStatus = "Gathered " + amount + " " + (isMooncaps ? "Mooncaps" : "Mushcaps") + " from " + label;
                     return true;
@@ -527,6 +569,32 @@ namespace GnomeGame.Core
                     SocialProgressService.EnsureDefaults(profile);
                     string status;
                     var changed = mutation(profile, out status);
+                    var eventChanged = luckyDrawEventService.SyncUnlock(profile);
+                    LastActionStatus = status;
+                    return changed || eventChanged;
+                },
+                reason);
+
+            RaiseProfileChanged();
+            return saved;
+        }
+
+        private delegate bool LuckyDrawMutation(PlayerProfileData profile, out string status);
+
+        private bool MutateLuckyDraw(LuckyDrawMutation mutation, string reason)
+        {
+            if (saveManager == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfileIfChanged(
+                profile =>
+                {
+                    LuckyDrawEventService.EnsureDefaults(profile);
+                    luckyDrawEventService.SyncUnlock(profile);
+                    string status;
+                    var changed = mutation(profile, out status);
                     LastActionStatus = status;
                     return changed;
                 },
@@ -534,6 +602,25 @@ namespace GnomeGame.Core
 
             RaiseProfileChanged();
             return saved;
+        }
+
+        private bool BuyLuckyStallItem(string stallId)
+        {
+            return MutateLuckyDraw(
+                (PlayerProfileData profile, out string status) => luckyDrawEventService.PurchaseStallItem(profile, stallId, out status),
+                "bought lucky stall item");
+        }
+
+        private void SyncLuckyDrawUnlock()
+        {
+            if (saveManager == null)
+            {
+                return;
+            }
+
+            saveManager.MutateProfileIfChanged(
+                profile => luckyDrawEventService.SyncUnlock(profile),
+                "synced lucky draw unlock");
         }
 
         private void RaiseProfileChanged()

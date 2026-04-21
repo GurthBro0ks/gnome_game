@@ -1,5 +1,24 @@
 # claude-progress.md
 
+## Phase 3 Sprint 5 — Lucky Draw Week, Lucky Stall, Festival Ledger — 2026-04-21
+
+### What happened this session
+Built the first event-layer vertical slice on top of the Burrow/Loamwake prototype.
+Implemented Lucky Draw Week unlock gating, free ticket sources, pull resolution, Lucky Stall, and a Festival Ledger free lane.
+Kept monetization, paid ticket paths, and broader liveops infrastructure out of scope.
+
+### Current state
+- Sprint 0: complete
+- Sprint 1: complete
+- Sprint 2: complete
+- Sprint 3: complete
+- Sprint 4: complete
+- Sprint 5: complete
+- Sprint 6: ready to begin
+
+### Next step
+Sprint 6 — Optional prototype extension: The Crack + Clique stub
+
 ## Phase 3 Sprint 2 — Loamwake Back Navigation Bugfix — 2026-04-20
 
 ### What happened this session

@@ -162,6 +162,8 @@ namespace GnomeGame.Core
             FixtureStateHelper.EnsureDefaults(Profile);
             FixtureStateHelper.ApplyMilestoneUnlocks(Profile);
             SocialProgressService.EnsureDefaults(Profile);
+            LuckyDrawEventService.EnsureDefaults(Profile);
+            new LuckyDrawEventService().SyncUnlock(Profile);
 
             if (string.IsNullOrEmpty(Profile.account.uid))
             {
@@ -193,12 +195,14 @@ namespace GnomeGame.Core
 
             if (Profile.save_version.version < ProfileFactory.CurrentSaveVersion)
             {
-                // Sprint 4 and earlier migrations are additive; rehydrate all prototype state on load.
+                // Sprint 5 and earlier migrations are additive; rehydrate all prototype state on load.
                 BurrowStateHelper.EnsureDefaults(Profile);
                 ExplorationStateHelper.EnsureDefaults(Profile);
                 FixtureStateHelper.EnsureDefaults(Profile);
                 FixtureStateHelper.ApplyMilestoneUnlocks(Profile);
                 SocialProgressService.EnsureDefaults(Profile);
+                LuckyDrawEventService.EnsureDefaults(Profile);
+                new LuckyDrawEventService().SyncUnlock(Profile);
                 Profile.save_version.version = ProfileFactory.CurrentSaveVersion;
             }
         }

@@ -83,6 +83,12 @@ namespace GnomeGame.Data
 
         [DataMember(Order = 14)]
         public int rootrail_parts = 0;
+
+        [DataMember(Order = 15)]
+        public int polishes = 0;
+
+        [DataMember(Order = 16)]
+        public int strain_seeds = 0;
     }
 
     [Serializable]
@@ -192,6 +198,127 @@ namespace GnomeGame.Data
 
         [DataMember(Order = 8)]
         public SocialProgressData social_progress = new SocialProgressData();
+
+        [DataMember(Order = 9)]
+        public EventProgressData event_progress = new EventProgressData();
+    }
+
+    [Serializable]
+    [DataContract]
+    public class EventProgressData
+    {
+        [DataMember(Order = 0)]
+        public LuckyDrawWeekStateData lucky_draw_week = new LuckyDrawWeekStateData();
+    }
+
+    [Serializable]
+    [DataContract]
+    public class LuckyDrawWeekStateData
+    {
+        [DataMember(Order = 0)]
+        public string event_id = "evt_luckydraw_001";
+
+        [DataMember(Order = 1)]
+        public bool active = false;
+
+        [DataMember(Order = 2)]
+        public bool unlocked = false;
+
+        [DataMember(Order = 3)]
+        public bool unlock_gate_met = false;
+
+        [DataMember(Order = 4)]
+        public string unlock_gate_note = "Prototype gate: unlock Greta through Burrow Post";
+
+        [DataMember(Order = 5)]
+        public string week_marker = "prototype-week-001";
+
+        [DataMember(Order = 6)]
+        public string started_at = "";
+
+        [DataMember(Order = 7)]
+        public bool weekly_claimed = false;
+
+        [DataMember(Order = 8)]
+        public int activity_progress = 0;
+
+        [DataMember(Order = 9)]
+        public bool activity_ticket_claimed = false;
+
+        [DataMember(Order = 10)]
+        public int pull_count = 0;
+
+        [DataMember(Order = 11)]
+        public int ladder_progress = 0;
+
+        [DataMember(Order = 12)]
+        public string latest_pull_result = "No pulls yet";
+
+        [DataMember(Order = 13)]
+        public List<LuckyDrawPullHistoryData> pull_history = new List<LuckyDrawPullHistoryData>();
+
+        [DataMember(Order = 14)]
+        public List<LuckyStallPurchaseCountData> stall_purchase_counts = new List<LuckyStallPurchaseCountData>();
+
+        [DataMember(Order = 15)]
+        public FestivalLedgerFreeLaneData festival_ledger = new FestivalLedgerFreeLaneData();
+
+        [DataMember(Order = 16)]
+        public bool paid_path_active = false;
+
+        [DataMember(Order = 17)]
+        public bool iap_enabled = false;
+
+        [DataMember(Order = 18)]
+        public string latest_result_summary = "";
+
+        [DataMember(Order = 19)]
+        public string last_updated_at = "";
+    }
+
+    [Serializable]
+    [DataContract]
+    public class LuckyDrawPullHistoryData
+    {
+        [DataMember(Order = 0)]
+        public int pull_number = 0;
+
+        [DataMember(Order = 1)]
+        public string pull_row_id = "";
+
+        [DataMember(Order = 2)]
+        public string reward_summary = "";
+
+        [DataMember(Order = 3)]
+        public string pulled_at = "";
+    }
+
+    [Serializable]
+    [DataContract]
+    public class LuckyStallPurchaseCountData
+    {
+        [DataMember(Order = 0)]
+        public string stall_id = "";
+
+        [DataMember(Order = 1)]
+        public int purchase_count = 0;
+    }
+
+    [Serializable]
+    [DataContract]
+    public class FestivalLedgerFreeLaneData
+    {
+        [DataMember(Order = 0)]
+        public int progress_points = 0;
+
+        [DataMember(Order = 1)]
+        public List<string> claimed_tier_ids = new List<string>();
+
+        [DataMember(Order = 2)]
+        public string latest_claim_summary = "No Festival Ledger rewards claimed";
+
+        [DataMember(Order = 3)]
+        public string last_updated_at = "";
     }
 
     [Serializable]

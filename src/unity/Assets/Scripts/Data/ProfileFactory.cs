@@ -4,7 +4,7 @@ namespace GnomeGame.Data
 {
     public static class ProfileFactory
     {
-        public const int CurrentSaveVersion = 5;
+        public const int CurrentSaveVersion = 6;
 
         public static PlayerProfileData CreateDefault(string uid)
         {
@@ -41,6 +41,8 @@ namespace GnomeGame.Data
                     strata_seals = 0,
                     festival_marks = 0,
                     rootrail_parts = 0,
+                    polishes = 0,
+                    strain_seeds = 0,
                     loamwake_materials = new LoamwakeMaterialsData
                     {
                         tangled_root_twine = 0,
@@ -145,6 +147,38 @@ namespace GnomeGame.Data
                     rootrail = new RootrailRevealStateData(),
                     latest_result_summary = "",
                     last_updated_at = now
+                },
+                event_progress = new EventProgressData
+                {
+                    lucky_draw_week = new LuckyDrawWeekStateData
+                    {
+                        event_id = "evt_luckydraw_001",
+                        active = false,
+                        unlocked = false,
+                        unlock_gate_met = false,
+                        unlock_gate_note = "Prototype gate: unlock Greta through Burrow Post",
+                        week_marker = "prototype-week-001",
+                        started_at = "",
+                        weekly_claimed = false,
+                        activity_progress = 0,
+                        activity_ticket_claimed = false,
+                        pull_count = 0,
+                        ladder_progress = 0,
+                        latest_pull_result = "No pulls yet",
+                        pull_history = new System.Collections.Generic.List<LuckyDrawPullHistoryData>(),
+                        stall_purchase_counts = new System.Collections.Generic.List<LuckyStallPurchaseCountData>(),
+                        festival_ledger = new FestivalLedgerFreeLaneData
+                        {
+                            progress_points = 0,
+                            claimed_tier_ids = new System.Collections.Generic.List<string>(),
+                            latest_claim_summary = "No Festival Ledger rewards claimed",
+                            last_updated_at = now
+                        },
+                        paid_path_active = false,
+                        iap_enabled = false,
+                        latest_result_summary = "",
+                        last_updated_at = now
+                    }
                 }
             };
         }

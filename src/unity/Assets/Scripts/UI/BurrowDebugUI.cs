@@ -17,7 +17,8 @@ namespace GnomeGame.UI
             Vault,
             BurrowPosts,
             DailyDuties,
-            Rootrail
+            Rootrail,
+            LuckyDrawWeek
         }
 
         private ProfileService profileService;
@@ -33,6 +34,7 @@ namespace GnomeGame.UI
         private GameObject burrowPostsPage;
         private GameObject dailyDutiesPage;
         private GameObject rootrailPage;
+        private GameObject luckyDrawPage;
 
         private Text burrowWalletText;
         private Text burrowActionText;
@@ -67,6 +69,10 @@ namespace GnomeGame.UI
         private Text dailyDutiesDebugText;
         private Text rootrailStatusText;
         private Text rootrailDebugText;
+        private Text luckyDrawStatusText;
+        private Text luckyDrawLedgerText;
+        private Text luckyDrawStallText;
+        private Text luckyDrawDebugText;
 
         private Text enterLoamwakeButtonLabel;
         private Text ledgerhollowButtonLabel;
@@ -81,6 +87,7 @@ namespace GnomeGame.UI
         private Button openBurrowPostsButton;
         private Button openDailyDutiesButton;
         private Button openRootrailButton;
+        private Button openLuckyDrawButton;
         private Button enterLoamwakeButton;
         private Button ledgerhollowButton;
         private Button memoryFenButton;
@@ -100,6 +107,13 @@ namespace GnomeGame.UI
         private Button readGretaIntroPostButton;
         private Button completeGretaFollowupButton;
         private Button completeRootrailRevealButton;
+        private Button claimLuckyDrawWeeklyButton;
+        private Button pullLuckyDrawButton;
+        private Button claimFestivalLedgerButton;
+        private Button buyMooncapDrawButton;
+        private Button buyMaterialCacheButton;
+        private Button buyPolishBundleButton;
+        private Button buyFestivalExchangeButton;
 
         private Text expandButtonLabel;
         private Text rootmineGatherLabel;
@@ -119,6 +133,14 @@ namespace GnomeGame.UI
         private Text readGretaIntroPostLabel;
         private Text completeGretaFollowupLabel;
         private Text completeRootrailRevealLabel;
+        private Text openLuckyDrawLabel;
+        private Text claimLuckyDrawWeeklyLabel;
+        private Text pullLuckyDrawLabel;
+        private Text claimFestivalLedgerLabel;
+        private Text buyMooncapDrawLabel;
+        private Text buyMaterialCacheLabel;
+        private Text buyPolishBundleLabel;
+        private Text buyFestivalExchangeLabel;
 
         public void Initialize(ProfileService activeProfileService, SaveManager activeSaveManager, AuthManager activeAuthManager)
         {
@@ -169,6 +191,7 @@ namespace GnomeGame.UI
             burrowPostsPage = CreatePage(canvasObject.transform, "BurrowPostsPage");
             dailyDutiesPage = CreatePage(canvasObject.transform, "DailyDutiesPage");
             rootrailPage = CreatePage(canvasObject.transform, "RootrailPage");
+            luckyDrawPage = CreatePage(canvasObject.transform, "LuckyDrawWeekPage");
 
             BuildBurrowPage(font);
             BuildLoamwakePage(font);
@@ -177,6 +200,7 @@ namespace GnomeGame.UI
             BuildBurrowPostsPage(font);
             BuildDailyDutiesPage(font);
             BuildRootrailPage(font);
+            BuildLuckyDrawPage(font);
         }
 
         private void BuildBurrowPage(Font font)
@@ -198,7 +222,7 @@ namespace GnomeGame.UI
             burrowStatusText = AddText(burrowCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 68f);
             expandButton = AddButton(burrowCard.transform, font, "Expand Burrow", OnExpandPressed, out expandButtonLabel);
 
-            var rootmineCard = CreateCard(burrowPage.transform, "RootmineCard", 300f);
+            var rootmineCard = CreateCard(burrowPage.transform, "RootmineCard", 248f);
             rootmineText = AddText(rootmineCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 76f);
             rootmineGatherButton = AddButton(rootmineCard.transform, font, "Gather Rootmine", OnGatherRootminePressed, out rootmineGatherLabel);
             openFixtureButton = AddButton(rootmineCard.transform, font, "Fixture Workshop", OnOpenFixturePressed, out unusedLabel);
@@ -207,11 +231,12 @@ namespace GnomeGame.UI
             var fixtureSummaryCard = CreateCard(burrowPage.transform, "FixtureSummaryCard", 106f);
             fixtureSummaryText = AddText(fixtureSummaryCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
 
-            var socialCard = CreateCard(burrowPage.transform, "Sprint4SocialCard", 260f);
+            var socialCard = CreateCard(burrowPage.transform, "Sprint4SocialCard", 312f);
             socialSummaryText = AddText(socialCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
             openBurrowPostsButton = AddButton(socialCard.transform, font, "Burrow Post", OnOpenBurrowPostsPressed, out unusedLabel);
             openDailyDutiesButton = AddButton(socialCard.transform, font, "Daily Duties", OnOpenDailyDutiesPressed, out unusedLabel);
             openRootrailButton = AddButton(socialCard.transform, font, "Rootrail Station", OnOpenRootrailPressed, out unusedLabel);
+            openLuckyDrawButton = AddButton(socialCard.transform, font, "Lucky Draw Week", OnOpenLuckyDrawPressed, out openLuckyDrawLabel);
 
             var strataGateCard = CreateCard(burrowPage.transform, "StrataGateCard", 204f);
             AddText(strataGateCard.transform, font, "Strata Gate", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
@@ -369,6 +394,35 @@ namespace GnomeGame.UI
             rootrailDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
         }
 
+        private void BuildLuckyDrawPage(Font font)
+        {
+            var topNavCard = CreateCard(luckyDrawPage.transform, "LuckyDrawTopNavigationCard", 84f);
+            Text unusedLabel;
+            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+
+            AddText(luckyDrawPage.transform, font, "Lucky Draw Week", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+
+            var statusCard = CreateCard(luckyDrawPage.transform, "LuckyDrawStatusCard", 250f);
+            luckyDrawStatusText = AddText(statusCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 88f);
+            claimLuckyDrawWeeklyButton = AddButton(statusCard.transform, font, "Claim Weekly Lucky Draw", OnClaimLuckyDrawWeeklyPressed, out claimLuckyDrawWeeklyLabel);
+            pullLuckyDrawButton = AddButton(statusCard.transform, font, "Pull Lucky Draw", OnPullLuckyDrawPressed, out pullLuckyDrawLabel);
+
+            var ledgerCard = CreateCard(luckyDrawPage.transform, "FestivalLedgerFreeLaneCard", 270f);
+            luckyDrawLedgerText = AddText(ledgerCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 198f);
+            claimFestivalLedgerButton = AddButton(ledgerCard.transform, font, "Claim Festival Ledger Reward", OnClaimFestivalLedgerPressed, out claimFestivalLedgerLabel);
+
+            var stallCard = CreateCard(luckyDrawPage.transform, "LuckyStallCard", 350f);
+            luckyDrawStallText = AddText(stallCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 126f);
+            buyMooncapDrawButton = AddButton(stallCard.transform, font, "Buy Mooncap Lucky Draw", OnBuyMooncapDrawPressed, out buyMooncapDrawLabel);
+            buyMaterialCacheButton = AddButton(stallCard.transform, font, "Buy Material Cache", OnBuyMaterialCachePressed, out buyMaterialCacheLabel);
+            buyPolishBundleButton = AddButton(stallCard.transform, font, "Buy Polish Bundle", OnBuyPolishBundlePressed, out buyPolishBundleLabel);
+            buyFestivalExchangeButton = AddButton(stallCard.transform, font, "Buy Festival Marks Exchange", OnBuyFestivalExchangePressed, out buyFestivalExchangeLabel);
+
+            var debugPanel = CreateCard(luckyDrawPage.transform, "LuckyDrawDebugPanel", 220f);
+            AddText(debugPanel.transform, font, "Lucky Draw / Stall Debug", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
+            luckyDrawDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+        }
+
         private void Refresh()
         {
             var profile = profileService.Profile;
@@ -390,8 +444,12 @@ namespace GnomeGame.UI
             var nextExpandCost = profileService.GetNextExpandCost();
             FixtureStateHelper.EnsureDefaults(profile);
             SocialProgressService.EnsureDefaults(profile);
+            LuckyDrawEventService.EnsureDefaults(profile);
+            var luckyDraw = profile.event_progress.lucky_draw_week;
+            var luckyDrawVisible = LuckyDrawEventService.IsEventVisible(profile);
 
             burrowWalletText.text = "Mooncaps: " + snapshot.mooncaps + "   Mushcaps: " + snapshot.mushcaps +
+                "   Lucky Draws: " + profile.wallet.lucky_draws +
                 "   Twine: " + profile.wallet.loamwake_materials.tangled_root_twine +
                 "   Ore: " + profile.wallet.loamwake_materials.crumbled_ore_chunk;
             burrowActionText.text = profileService.LastActionStatus;
@@ -436,7 +494,10 @@ namespace GnomeGame.UI
                 "Burrow Post / Daily Duties / Greta\n" +
                 "Greta: " + (profile.social_progress.greta.unlocked ? "Unlocked" : "Locked") +
                 "   Trust: " + profile.social_progress.greta.trust_level + "\n" +
-                "Rootrail: " + (profile.social_progress.rootrail.revealed ? "Station shell revealed" : "Not revealed yet");
+                "Rootrail: " + (profile.social_progress.rootrail.revealed ? "Station shell revealed" : "Not revealed yet") + "\n" +
+                (luckyDrawVisible
+                    ? "Lucky Draw Week: active, tickets " + profile.wallet.lucky_draws + ", pulls " + luckyDraw.pull_count
+                    : "Lucky Draw Week hidden until Greta unlock");
 
             fieldReturnsSnippetText.text = BuildFieldReturnsSnippet(loamwake.field_returns);
 
@@ -572,6 +633,27 @@ namespace GnomeGame.UI
                 "Current repair step: " + (string.IsNullOrEmpty(profile.social_progress.rootrail.current_step_id) ? "none" : profile.social_progress.rootrail.current_step_id) + "\n" +
                 "Rootrail Parts: " + profile.wallet.rootrail_parts;
 
+            luckyDrawStatusText.text =
+                "Lucky Draw Week: Loose Lots\n" +
+                "State: " + (luckyDraw.active ? "Active" : (luckyDraw.unlocked ? "Unlocked" : "Locked/hidden")) + "\n" +
+                "Gate: " + luckyDraw.unlock_gate_note + " - " + (luckyDraw.unlock_gate_met ? "met" : "not met") + "\n" +
+                "Lucky Draw tickets: " + profile.wallet.lucky_draws + "   Pulls: " + luckyDraw.pull_count + "\n" +
+                "Weekly claim: " + (luckyDraw.weekly_claimed ? "claimed" : "ready") +
+                "   Activity source: " + (luckyDraw.activity_ticket_claimed ? "claimed" : luckyDraw.activity_progress + "/3") + "\n" +
+                "Latest pull: " + luckyDraw.latest_pull_result;
+            luckyDrawLedgerText.text = LuckyDrawEventService.BuildLedgerSummary(profile);
+            luckyDrawStallText.text =
+                LuckyDrawEventService.BuildStallSummary(profile) + "\n" +
+                "Mooncaps: " + profile.wallet.mooncaps +
+                "   Festival Marks: " + profile.wallet.festival_marks +
+                "   Polishes: " + profile.wallet.polishes;
+            luckyDrawDebugText.text =
+                "Auth state: " + snapshot.auth_state + "\n" +
+                "Save state: " + snapshot.save_state + "\n" +
+                "Week marker: " + luckyDraw.week_marker + "\n" +
+                "Paid path active: " + luckyDraw.paid_path_active + "   IAP enabled: " + luckyDraw.iap_enabled + "\n" +
+                "Latest event result: " + luckyDraw.latest_result_summary;
+
             dewpondGatherButton.interactable = burrow.dewpond.stored_output > 0;
             mushpatchGatherButton.interactable = burrow.mushpatch.stored_output > 0;
             rootmineGatherButton.interactable = BurrowProductionService.CanGather(burrow.rootmine);
@@ -619,6 +701,32 @@ namespace GnomeGame.UI
                 ? "Rootrail Revealed"
                 : "Follow Greta to the Old Track";
             openRootrailButton.interactable = profile.social_progress.rootrail.station_visible;
+            openLuckyDrawButton.gameObject.SetActive(luckyDrawVisible);
+            openLuckyDrawButton.interactable = luckyDrawVisible;
+            openLuckyDrawLabel.text = "Lucky Draw Week";
+
+            claimLuckyDrawWeeklyButton.interactable = luckyDrawVisible && !luckyDraw.weekly_claimed;
+            claimLuckyDrawWeeklyLabel.text = luckyDraw.weekly_claimed ? "Weekly Claim Used" : "Claim Weekly Lucky Draw";
+            pullLuckyDrawButton.interactable = luckyDrawVisible && profile.wallet.lucky_draws >= 1;
+            pullLuckyDrawLabel.text = profile.wallet.lucky_draws >= 1 ? "Pull (1 Lucky Draw)" : "Need 1 Lucky Draw";
+            claimFestivalLedgerButton.interactable = luckyDrawVisible && HasClaimableLedgerReward(profile);
+            claimFestivalLedgerLabel.text = HasClaimableLedgerReward(profile) ? "Claim Ready Ledger Reward" : "No Ledger Reward Ready";
+            buyMooncapDrawButton.interactable = luckyDrawVisible &&
+                profile.wallet.mooncaps >= 250 &&
+                LuckyDrawEventService.GetRemainingPurchases(profile, LuckyDrawEventService.StallMooncapDrawId, 1) > 0;
+            buyMooncapDrawLabel.text = "Mooncap Draw (250 Mooncaps)";
+            buyMaterialCacheButton.interactable = luckyDrawVisible &&
+                profile.wallet.lucky_draws >= 2 &&
+                LuckyDrawEventService.GetRemainingPurchases(profile, LuckyDrawEventService.StallMaterialCacheId, 2) > 0;
+            buyMaterialCacheLabel.text = "Material Cache (2 Lucky Draws)";
+            buyPolishBundleButton.interactable = luckyDrawVisible &&
+                profile.wallet.lucky_draws >= 1 &&
+                LuckyDrawEventService.GetRemainingPurchases(profile, LuckyDrawEventService.StallPolishBundleId, 2) > 0;
+            buyPolishBundleLabel.text = "Polish Bundle (1 Lucky Draw)";
+            buyFestivalExchangeButton.interactable = luckyDrawVisible &&
+                profile.wallet.festival_marks >= 20 &&
+                LuckyDrawEventService.GetRemainingPurchases(profile, LuckyDrawEventService.StallFestivalExchangeId, 1) > 0;
+            buyFestivalExchangeLabel.text = "Festival Exchange (20 Marks)";
 
             enterLoamwakeButton.interactable = profileService.IsStratumSelectable(LoamwakeExplorationService.StratumId);
             enterLoamwakeButtonLabel.text = "Enter Loamwake";
@@ -705,6 +813,12 @@ namespace GnomeGame.UI
             Refresh();
         }
 
+        private void OnOpenLuckyDrawPressed()
+        {
+            currentScreen = ScreenPage.LuckyDrawWeek;
+            Refresh();
+        }
+
         private void OnEnterLoamwakePressed()
         {
             profileService.EnterLoamwake();
@@ -764,6 +878,41 @@ namespace GnomeGame.UI
             profileService.RevealRootrailStation();
         }
 
+        private void OnClaimLuckyDrawWeeklyPressed()
+        {
+            profileService.ClaimLuckyDrawWeeklyTicket();
+        }
+
+        private void OnPullLuckyDrawPressed()
+        {
+            profileService.PullLuckyDraw();
+        }
+
+        private void OnClaimFestivalLedgerPressed()
+        {
+            profileService.ClaimFestivalLedgerReward();
+        }
+
+        private void OnBuyMooncapDrawPressed()
+        {
+            profileService.BuyLuckyStallMooncapDraw();
+        }
+
+        private void OnBuyMaterialCachePressed()
+        {
+            profileService.BuyLuckyStallMaterialCache();
+        }
+
+        private void OnBuyPolishBundlePressed()
+        {
+            profileService.BuyLuckyStallPolishBundle();
+        }
+
+        private void OnBuyFestivalExchangePressed()
+        {
+            profileService.BuyLuckyStallFestivalExchange();
+        }
+
         private void OnZone1SafePressed()
         {
             profileService.ExploreLoamwakeZone("zone_lw_001_rootvine_shelf", LoamwakeExplorationService.SafeRouteId);
@@ -818,6 +967,7 @@ namespace GnomeGame.UI
             burrowPostsPage.SetActive(currentScreen == ScreenPage.BurrowPosts);
             dailyDutiesPage.SetActive(currentScreen == ScreenPage.DailyDuties);
             rootrailPage.SetActive(currentScreen == ScreenPage.Rootrail);
+            luckyDrawPage.SetActive(currentScreen == ScreenPage.LuckyDrawWeek);
         }
 
         private static string BuildBurrowPostsStatus(PlayerProfileData profile)
@@ -862,6 +1012,20 @@ namespace GnomeGame.UI
             return duty.title + ": " + duty.progress + "/" + duty.target +
                 " - " + (duty.completed ? "completed" : "active") +
                 " - " + duty.reward_summary;
+        }
+
+        private static bool HasClaimableLedgerReward(PlayerProfileData profile)
+        {
+            if (profile == null || profile.event_progress == null || profile.event_progress.lucky_draw_week == null)
+            {
+                return false;
+            }
+
+            var state = profile.event_progress.lucky_draw_week;
+            return (state.pull_count >= 1 && !state.festival_ledger.claimed_tier_ids.Contains("ledger_lucky_001_first_pull")) ||
+                (state.pull_count >= 3 && !state.festival_ledger.claimed_tier_ids.Contains("ledger_lucky_002_three_pulls")) ||
+                (state.pull_count >= 5 && !state.festival_ledger.claimed_tier_ids.Contains("ledger_lucky_003_five_pulls")) ||
+                (state.pull_count >= 8 && !state.festival_ledger.claimed_tier_ids.Contains("ledger_lucky_004_eight_pulls"));
         }
 
         private static string BuildEquippedFixtureList(PlayerProfileData profile)
