@@ -116,7 +116,8 @@ namespace GnomeGame.Core
             ExplorationStateHelper.EnsureDefaults(profile);
             return (profile.burrow_state != null ? profile.burrow_state.burrow_level : 1) * 10 +
                 GetZoneClearBonus(profile) +
-                GetRouteBonus(routeId);
+                GetRouteBonus(routeId) +
+                FixtureStateHelper.GetTotalExpeditionPowerBonus(profile);
         }
 
         public bool ExploreZone(PlayerProfileData profile, string zoneId, string routeId, out ExplorationResultData result, out string status)
@@ -209,7 +210,8 @@ namespace GnomeGame.Core
 
             var keeperDifficulty = 28;
             var expeditionPower = (profile.burrow_state != null ? profile.burrow_state.burrow_level : 1) * 10 +
-                GetZoneClearBonus(profile);
+                GetZoneClearBonus(profile) +
+                FixtureStateHelper.GetTotalExpeditionPowerBonus(profile);
             var success = expeditionPower >= keeperDifficulty;
 
             result = BuildKeeperResult(success);

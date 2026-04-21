@@ -1,5 +1,24 @@
 # CHANGELOG
 
+## v0.8.0 — Phase 3 Sprint 3 Fixtures, Hat, Rootmine, Vault Shell (2026-04-20)
+
+### Added
+- Rootmine material production and gather flow for Tangled Root Twine and Crumbled Ore Chunk after Burrow level 2
+- First Fixture slice for Root-Bitten Shovel Strap crafting, ordered-list equip/unequip, Fixture cap checks, and visible expedition power bonus
+- First Hat shell for Loamwake Dirt Cap as a permanent passive outside the Fixture cap
+- Vault of Treasures shell page with explicit Sprint 3 stub/debug status and no treasure progression
+- Sprint 3 Mono verification harness covering Rootmine, Fixture, Hat, persistence, and Vault shell-only behavior
+
+### Changed
+- Profile save data now migrates additive Sprint 3 state for Fixtures, Hats, Vault shell, account Fixture cap, and Rootmine material storage
+- Loamwake expedition power now includes equipped Fixture and unlocked Hat passive bonuses
+- Burrow UI now exposes Rootmine gather, Fixture Workshop, Vault shell entry, Fixture summary, visible Hat summary, and retained debug/status surfaces
+
+### Status
+Sprint 3 complete. The first small equipment power-spike loop is implemented without Treasure, War Armory, Rootrail, Duty, or Confidant expansion.
+
+---
+
 ## v0.7.0 — Phase 3 Sprint 2 Loamwake Exploration (2026-04-20)
 
 ### Added

@@ -8,6 +8,7 @@ namespace GnomeGame.Core
         private SaveManager saveManager;
         private BurrowProductionService burrowProductionService;
         private LoamwakeExplorationService loamwakeExplorationService;
+        private FixtureService fixtureService = new FixtureService();
         private Func<DateTime> utcNowProvider;
 
         public event Action ProfileChanged;
@@ -56,6 +57,49 @@ namespace GnomeGame.Core
         public bool GatherMushpatch()
         {
             return GatherBuildingOutput("mushpatch");
+        }
+
+        public bool GatherRootmine()
+        {
+            if (saveManager == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfileIfChanged(
+                profile =>
+                {
+                    BurrowStateHelper.EnsureDefaults(profile);
+                    ExplorationStateHelper.EnsureDefaults(profile);
+                    FixtureStateHelper.EnsureDefaults(profile);
+
+                    var rootmine = profile.burrow_state.rootmine;
+                    if (!rootmine.unlocked)
+                    {
+                        LastActionStatus = "Rootmine locked until Burrow level 2";
+                        return false;
+                    }
+
+                    if (!BurrowProductionService.CanGather(rootmine))
+                    {
+                        LastActionStatus = "Rootmine has no materials ready";
+                        return false;
+                    }
+
+                    var twine = rootmine.stored_tangled_root_twine;
+                    var ore = rootmine.stored_crumbled_ore_chunk;
+                    rootmine.stored_tangled_root_twine = 0;
+                    rootmine.stored_crumbled_ore_chunk = 0;
+                    profile.wallet.loamwake_materials.tangled_root_twine += twine;
+                    profile.wallet.loamwake_materials.crumbled_ore_chunk += ore;
+
+                    LastActionStatus = "Gathered Rootmine materials: +" + twine + " Twine, +" + ore + " Ore";
+                    return true;
+                },
+                "gathered rootmine materials");
+
+            RaiseProfileChanged();
+            return saved;
         }
 
         public bool ExpandBurrow()
@@ -216,6 +260,11 @@ namespace GnomeGame.Core
                     ExplorationResultData result;
                     string status;
                     var changed = loamwakeExplorationService.ChallengeKeeper(profile, out result, out status);
+                    if (changed && FixtureStateHelper.ApplyMilestoneUnlocks(profile))
+                    {
+                        status += "; Loamwake Dirt Cap unlocked";
+                    }
+
                     LastActionStatus = status;
                     return changed;
                 },
@@ -223,6 +272,116 @@ namespace GnomeGame.Core
 
             RaiseProfileChanged();
             return saved;
+        }
+
+        public bool UnlockFirstFixtureCap()
+        {
+            if (saveManager == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfileIfChanged(
+                profile =>
+                {
+                    string status;
+                    var changed = fixtureService.UnlockFirstFixtureCap(profile, out status);
+                    LastActionStatus = status;
+                    return changed;
+                },
+                "unlocked first fixture cap");
+
+            RaiseProfileChanged();
+            return saved;
+        }
+
+        public bool CraftFirstFixture()
+        {
+            if (saveManager == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfileIfChanged(
+                profile =>
+                {
+                    string status;
+                    var changed = fixtureService.CraftFirstFixture(profile, out status);
+                    LastActionStatus = status;
+                    return changed;
+                },
+                "crafted first fixture");
+
+            RaiseProfileChanged();
+            return saved;
+        }
+
+        public bool EquipFirstFixture()
+        {
+            if (saveManager == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfileIfChanged(
+                profile =>
+                {
+                    string status;
+                    var changed = fixtureService.EquipFirstFixture(profile, out status);
+                    LastActionStatus = status;
+                    return changed;
+                },
+                "equipped first fixture");
+
+            RaiseProfileChanged();
+            return saved;
+        }
+
+        public bool UnequipFirstFixture()
+        {
+            if (saveManager == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfileIfChanged(
+                profile =>
+                {
+                    string status;
+                    var changed = fixtureService.UnequipFirstFixture(profile, out status);
+                    LastActionStatus = status;
+                    return changed;
+                },
+                "unequipped first fixture");
+
+            RaiseProfileChanged();
+            return saved;
+        }
+
+        public bool SetFirstHatVisible()
+        {
+            if (saveManager == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfileIfChanged(
+                profile =>
+                {
+                    string status;
+                    var changed = fixtureService.SetFirstHatVisible(profile, out status);
+                    LastActionStatus = status;
+                    return changed;
+                },
+                "set first hat visible");
+
+            RaiseProfileChanged();
+            return saved;
+        }
+
+        public string BuildPowerSummary()
+        {
+            return fixtureService.BuildPowerSummary(Profile);
         }
 
         private bool GatherBuildingOutput(string buildingId)

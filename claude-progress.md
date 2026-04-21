@@ -6,6 +6,23 @@
 - Added a dedicated top `Back to Burrow` button to the Loamwake page in `BurrowDebugUI` so the player can always return without scrolling.
 - Kept the existing bottom navigation/debug area intact and left the current `ProfileService.ReturnToBurrow()` flow unchanged.
 
+## Phase 3 Sprint 3 — Fixtures, First Hat, Rootmine Material Loop — 2026-04-20
+
+### What happened this session
+Built the first equipment power-spike loop on top of Burrow and Loamwake progression.
+Implemented Rootmine material production, first Fixture crafting, ordered-list Fixture equip behavior, first Hat unlock as a separate permanent passive, and a Vault of Treasures shell.
+Kept treasure progression out of scope and preserved debug/status visibility on all touched screens.
+
+### Current state
+- Sprint 0: complete
+- Sprint 1: complete
+- Sprint 2: complete
+- Sprint 3: complete
+- Sprint 4: ready to begin
+
+### Next step
+Sprint 4 — Burrow Posts, Daily Duties, Greta unlock, Rootrail reveal
+
 ## Phase 2A Salvage Repair — 2026-04-19
 
 ### What happened this session

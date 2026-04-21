@@ -507,11 +507,12 @@
       "project": "gnome_game",
       "description": "Phase 3 Sprint 3 — Fixtures, first Hat, Rootmine, Vault of Treasures",
       "priority": "critical",
-      "passes": false,
+      "passes": true,
       "risk": "medium",
       "qa_verified": false,
       "added": "2026-04-20",
-      "completed": null
+      "completed": "2026-04-20",
+      "verification": "Mono harness verified Rootmine material production/gather persistence, first Fixture craft/equip cap behavior, +2 Fixture power, first Hat permanent +1 power outside Fixture cap, save/load restore, and Vault shell-only state"
     },
     {
       "id": "sprint-s4",

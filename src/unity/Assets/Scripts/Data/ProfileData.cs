@@ -30,6 +30,9 @@ namespace GnomeGame.Data
 
         [DataMember(Order = 4)]
         public string tutorial_state = "not_started";
+
+        [DataMember(Order = 5)]
+        public int fixture_cap = 0;
     }
 
     [Serializable]
@@ -119,6 +122,15 @@ namespace GnomeGame.Data
 
         [DataMember(Order = 2)]
         public string status_note = "Locked until Burrow level 2";
+
+        [DataMember(Order = 3)]
+        public int stored_tangled_root_twine = 0;
+
+        [DataMember(Order = 4)]
+        public int stored_crumbled_ore_chunk = 0;
+
+        [DataMember(Order = 5)]
+        public int material_storage_cap = 30;
     }
 
     [Serializable]
@@ -165,6 +177,100 @@ namespace GnomeGame.Data
 
         [DataMember(Order = 4)]
         public StrataStateData strata_state = new StrataStateData();
+
+        [DataMember(Order = 5)]
+        public FixtureStateData fixture_state = new FixtureStateData();
+
+        [DataMember(Order = 6)]
+        public HatStateData hat_state = new HatStateData();
+
+        [DataMember(Order = 7)]
+        public VaultStateData vault_state = new VaultStateData();
+    }
+
+    [Serializable]
+    [DataContract]
+    public class FixtureInstanceData
+    {
+        [DataMember(Order = 0)]
+        public string instance_id = "";
+
+        [DataMember(Order = 1)]
+        public string fixture_id = "";
+
+        [DataMember(Order = 2)]
+        public int upgrade_level = 0;
+
+        [DataMember(Order = 3)]
+        public string acquired_at = "";
+    }
+
+    [Serializable]
+    [DataContract]
+    public class FixtureStateData
+    {
+        [DataMember(Order = 0)]
+        public List<FixtureInstanceData> fixture_inventory = new List<FixtureInstanceData>();
+
+        [DataMember(Order = 1)]
+        public List<string> equipped_fixture_instance_ids = new List<string>();
+
+        [DataMember(Order = 2)]
+        public List<string> crafted_recipe_ids = new List<string>();
+
+        [DataMember(Order = 3)]
+        public string last_updated_at = "";
+    }
+
+    [Serializable]
+    [DataContract]
+    public class HatUnlockData
+    {
+        [DataMember(Order = 0)]
+        public string hat_id = "";
+
+        [DataMember(Order = 1)]
+        public bool unlocked = false;
+
+        [DataMember(Order = 2)]
+        public string unlocked_at = "";
+
+        [DataMember(Order = 3)]
+        public bool permanent_passive_active = true;
+    }
+
+    [Serializable]
+    [DataContract]
+    public class HatStateData
+    {
+        [DataMember(Order = 0)]
+        public List<HatUnlockData> unlocked_hats = new List<HatUnlockData>();
+
+        [DataMember(Order = 1)]
+        public string visible_hat_id = "";
+
+        [DataMember(Order = 2)]
+        public string passive_summary = "No Hat passives active";
+
+        [DataMember(Order = 3)]
+        public string last_updated_at = "";
+    }
+
+    [Serializable]
+    [DataContract]
+    public class VaultStateData
+    {
+        [DataMember(Order = 0)]
+        public bool visible = false;
+
+        [DataMember(Order = 1)]
+        public bool treasure_progression_enabled = false;
+
+        [DataMember(Order = 2)]
+        public int owned_treasure_count = 0;
+
+        [DataMember(Order = 3)]
+        public string status_note = "Vault of Treasures shell only; Treasures are not implemented in Sprint 3.";
     }
 
     [Serializable]

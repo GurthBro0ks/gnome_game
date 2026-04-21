@@ -4,7 +4,7 @@ namespace GnomeGame.Data
 {
     public static class ProfileFactory
     {
-        public const int CurrentSaveVersion = 3;
+        public const int CurrentSaveVersion = 4;
 
         public static PlayerProfileData CreateDefault(string uid)
         {
@@ -22,7 +22,8 @@ namespace GnomeGame.Data
                     display_name = "Local Gnome",
                     created_at = now,
                     last_login = now,
-                    tutorial_state = "not_started"
+                    tutorial_state = "not_started",
+                    fixture_cap = 0
                 },
                 wallet = new WalletData
                 {
@@ -72,7 +73,10 @@ namespace GnomeGame.Data
                     {
                         level = 0,
                         unlocked = false,
-                        status_note = "Locked until Burrow level 2"
+                        status_note = "Locked until Burrow level 2",
+                        stored_tangled_root_twine = 0,
+                        stored_crumbled_ore_chunk = 0,
+                        material_storage_cap = 30
                     }
                 },
                 strata_state = new StrataStateData
@@ -110,6 +114,27 @@ namespace GnomeGame.Data
                         last_exploration_result = new ExplorationResultData(),
                         field_returns = new ExplorationResultData()
                     }
+                },
+                fixture_state = new FixtureStateData
+                {
+                    fixture_inventory = new System.Collections.Generic.List<FixtureInstanceData>(),
+                    equipped_fixture_instance_ids = new System.Collections.Generic.List<string>(),
+                    crafted_recipe_ids = new System.Collections.Generic.List<string>(),
+                    last_updated_at = now
+                },
+                hat_state = new HatStateData
+                {
+                    unlocked_hats = new System.Collections.Generic.List<HatUnlockData>(),
+                    visible_hat_id = "",
+                    passive_summary = "No Hat passives active",
+                    last_updated_at = now
+                },
+                vault_state = new VaultStateData
+                {
+                    visible = false,
+                    treasure_progression_enabled = false,
+                    owned_treasure_count = 0,
+                    status_note = "Vault of Treasures shell only; Treasures are not implemented in Sprint 3."
                 }
             };
         }

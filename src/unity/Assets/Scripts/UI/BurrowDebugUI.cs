@@ -12,7 +12,9 @@ namespace GnomeGame.UI
         private enum ScreenPage
         {
             Burrow,
-            Loamwake
+            Loamwake,
+            FixtureWorkshop,
+            Vault
         }
 
         private ProfileService profileService;
@@ -23,6 +25,8 @@ namespace GnomeGame.UI
 
         private GameObject burrowPage;
         private GameObject loamwakePage;
+        private GameObject fixturePage;
+        private GameObject vaultPage;
 
         private Text burrowWalletText;
         private Text burrowActionText;
@@ -30,6 +34,7 @@ namespace GnomeGame.UI
         private Text mushpatchText;
         private Text burrowStatusText;
         private Text rootmineText;
+        private Text fixtureSummaryText;
         private Text fieldReturnsSnippetText;
         private Text burrowDebugText;
 
@@ -41,6 +46,14 @@ namespace GnomeGame.UI
         private Text keeperText;
         private Text loamwakeFieldReturnsText;
         private Text loamwakeDebugText;
+        private Text fixtureWalletText;
+        private Text fixtureActionText;
+        private Text fixtureCraftText;
+        private Text fixtureInventoryText;
+        private Text fixtureHatText;
+        private Text fixtureDebugText;
+        private Text vaultStatusText;
+        private Text vaultDebugText;
 
         private Text enterLoamwakeButtonLabel;
         private Text ledgerhollowButtonLabel;
@@ -48,7 +61,10 @@ namespace GnomeGame.UI
 
         private Button dewpondGatherButton;
         private Button mushpatchGatherButton;
+        private Button rootmineGatherButton;
         private Button expandButton;
+        private Button openFixtureButton;
+        private Button openVaultButton;
         private Button enterLoamwakeButton;
         private Button ledgerhollowButton;
         private Button memoryFenButton;
@@ -59,8 +75,14 @@ namespace GnomeGame.UI
         private Button zone3SafeButton;
         private Button zone3RiskyButton;
         private Button keeperButton;
+        private Button unlockFixtureCapButton;
+        private Button craftFirstFixtureButton;
+        private Button equipFirstFixtureButton;
+        private Button unequipFirstFixtureButton;
+        private Button setFirstHatVisibleButton;
 
         private Text expandButtonLabel;
+        private Text rootmineGatherLabel;
         private Text zone1SafeLabel;
         private Text zone1RiskyLabel;
         private Text zone2SafeLabel;
@@ -68,6 +90,11 @@ namespace GnomeGame.UI
         private Text zone3SafeLabel;
         private Text zone3RiskyLabel;
         private Text keeperButtonLabel;
+        private Text unlockFixtureCapLabel;
+        private Text craftFirstFixtureLabel;
+        private Text equipFirstFixtureLabel;
+        private Text unequipFirstFixtureLabel;
+        private Text setFirstHatVisibleLabel;
 
         public void Initialize(ProfileService activeProfileService, SaveManager activeSaveManager, AuthManager activeAuthManager)
         {
@@ -113,9 +140,13 @@ namespace GnomeGame.UI
 
             burrowPage = CreatePage(canvasObject.transform, "BurrowPage");
             loamwakePage = CreatePage(canvasObject.transform, "LoamwakePage");
+            fixturePage = CreatePage(canvasObject.transform, "FixtureWorkshopPage");
+            vaultPage = CreatePage(canvasObject.transform, "VaultPage");
 
             BuildBurrowPage(font);
             BuildLoamwakePage(font);
+            BuildFixturePage(font);
+            BuildVaultPage(font);
         }
 
         private void BuildBurrowPage(Font font)
@@ -124,39 +155,45 @@ namespace GnomeGame.UI
             burrowWalletText = AddText(burrowPage.transform, font, "", 28, FontStyle.Bold, TextAnchor.MiddleLeft, 42f);
             burrowActionText = AddText(burrowPage.transform, font, "", 22, FontStyle.Normal, TextAnchor.MiddleLeft, 52f);
 
-            var dewpondCard = CreateCard(burrowPage.transform, "DewpondCard", 170f);
-            dewpondText = AddText(dewpondCard.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 96f);
+            var dewpondCard = CreateCard(burrowPage.transform, "DewpondCard", 140f);
+            dewpondText = AddText(dewpondCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 70f);
             Text unusedLabel;
             dewpondGatherButton = AddButton(dewpondCard.transform, font, "Gather Dewpond", OnGatherDewpondPressed, out unusedLabel);
 
-            var mushpatchCard = CreateCard(burrowPage.transform, "MushpatchCard", 170f);
-            mushpatchText = AddText(mushpatchCard.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 96f);
+            var mushpatchCard = CreateCard(burrowPage.transform, "MushpatchCard", 140f);
+            mushpatchText = AddText(mushpatchCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 70f);
             mushpatchGatherButton = AddButton(mushpatchCard.transform, font, "Gather Mushpatch", OnGatherMushpatchPressed, out unusedLabel);
 
-            var burrowCard = CreateCard(burrowPage.transform, "BurrowStatusCard", 180f);
-            burrowStatusText = AddText(burrowCard.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 104f);
+            var burrowCard = CreateCard(burrowPage.transform, "BurrowStatusCard", 150f);
+            burrowStatusText = AddText(burrowCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 76f);
             expandButton = AddButton(burrowCard.transform, font, "Expand Burrow", OnExpandPressed, out expandButtonLabel);
 
-            var rootmineCard = CreateCard(burrowPage.transform, "RootmineCard", 138f);
-            rootmineText = AddText(rootmineCard.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 96f);
+            var rootmineCard = CreateCard(burrowPage.transform, "RootmineCard", 300f);
+            rootmineText = AddText(rootmineCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 76f);
+            rootmineGatherButton = AddButton(rootmineCard.transform, font, "Gather Rootmine", OnGatherRootminePressed, out rootmineGatherLabel);
+            openFixtureButton = AddButton(rootmineCard.transform, font, "Fixture Workshop", OnOpenFixturePressed, out unusedLabel);
+            openVaultButton = AddButton(rootmineCard.transform, font, "Vault of Treasures", OnOpenVaultPressed, out unusedLabel);
 
-            var strataGateCard = CreateCard(burrowPage.transform, "StrataGateCard", 226f);
+            var fixtureSummaryCard = CreateCard(burrowPage.transform, "FixtureSummaryCard", 106f);
+            fixtureSummaryText = AddText(fixtureSummaryCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
+
+            var strataGateCard = CreateCard(burrowPage.transform, "StrataGateCard", 194f);
             AddText(strataGateCard.transform, font, "Strata Gate", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             enterLoamwakeButton = AddButton(strataGateCard.transform, font, "Enter Loamwake", OnEnterLoamwakePressed, out enterLoamwakeButtonLabel);
             ledgerhollowButton = AddButton(strataGateCard.transform, font, "Ledgerhollow (Unavailable)", null, out ledgerhollowButtonLabel);
             memoryFenButton = AddButton(strataGateCard.transform, font, "Memory Fen (Unavailable)", null, out memoryFenButtonLabel);
 
-            var returnsCard = CreateCard(burrowPage.transform, "FieldReturnsCard", 132f);
-            fieldReturnsSnippetText = AddText(returnsCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 88f);
+            var returnsCard = CreateCard(burrowPage.transform, "FieldReturnsCard", 78f);
+            fieldReturnsSnippetText = AddText(returnsCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 42f);
 
-            var saveActionsCard = CreateCard(burrowPage.transform, "SaveActionsCard", 186f);
+            var saveActionsCard = CreateCard(burrowPage.transform, "SaveActionsCard", 150f);
             AddText(saveActionsCard.transform, font, "Debug actions", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             AddButton(saveActionsCard.transform, font, "Force Save", OnForceSavePressed, out unusedLabel);
             AddButton(saveActionsCard.transform, font, "Reload Save", OnReloadPressed, out unusedLabel);
 
-            var debugPanel = CreateCard(burrowPage.transform, "BurrowDebugPanel", 220f);
+            var debugPanel = CreateCard(burrowPage.transform, "BurrowDebugPanel", 170f);
             AddText(debugPanel.transform, font, "Burrow Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            burrowDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            burrowDebugText = AddText(debugPanel.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 104f);
         }
 
         private void BuildLoamwakePage(Font font)
@@ -201,6 +238,51 @@ namespace GnomeGame.UI
             loamwakeDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 170f);
         }
 
+        private void BuildFixturePage(Font font)
+        {
+            var topNavCard = CreateCard(fixturePage.transform, "FixtureTopNavigationCard", 94f);
+            Text unusedLabel;
+            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+
+            AddText(fixturePage.transform, font, "Fixture Workshop", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+            fixtureWalletText = AddText(fixturePage.transform, font, "", 24, FontStyle.Bold, TextAnchor.MiddleLeft, 64f);
+            fixtureActionText = AddText(fixturePage.transform, font, "", 22, FontStyle.Normal, TextAnchor.MiddleLeft, 48f);
+
+            var craftCard = CreateCard(fixturePage.transform, "FirstFixtureCraftCard", 240f);
+            fixtureCraftText = AddText(craftCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 88f);
+            unlockFixtureCapButton = AddButton(craftCard.transform, font, "Unlock First Fixture Cap", OnUnlockFixtureCapPressed, out unlockFixtureCapLabel);
+            craftFirstFixtureButton = AddButton(craftCard.transform, font, "Craft Root-Bitten Shovel Strap", OnCraftFirstFixturePressed, out craftFirstFixtureLabel);
+
+            var inventoryCard = CreateCard(fixturePage.transform, "FixtureInventoryCard", 240f);
+            fixtureInventoryText = AddText(inventoryCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 88f);
+            equipFirstFixtureButton = AddButton(inventoryCard.transform, font, "Equip First Fixture", OnEquipFirstFixturePressed, out equipFirstFixtureLabel);
+            unequipFirstFixtureButton = AddButton(inventoryCard.transform, font, "Unequip First Fixture", OnUnequipFirstFixturePressed, out unequipFirstFixtureLabel);
+
+            var hatCard = CreateCard(fixturePage.transform, "HatShellCard", 176f);
+            fixtureHatText = AddText(hatCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 88f);
+            setFirstHatVisibleButton = AddButton(hatCard.transform, font, "Set Visible Hat", OnSetFirstHatVisiblePressed, out setFirstHatVisibleLabel);
+
+            var debugPanel = CreateCard(fixturePage.transform, "FixtureDebugPanel", 220f);
+            AddText(debugPanel.transform, font, "Fixture Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
+            fixtureDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+        }
+
+        private void BuildVaultPage(Font font)
+        {
+            var topNavCard = CreateCard(vaultPage.transform, "VaultTopNavigationCard", 94f);
+            Text unusedLabel;
+            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+
+            AddText(vaultPage.transform, font, "Vault of Treasures", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+
+            var shellCard = CreateCard(vaultPage.transform, "VaultShellCard", 240f);
+            vaultStatusText = AddText(shellCard.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 196f);
+
+            var debugPanel = CreateCard(vaultPage.transform, "VaultDebugPanel", 220f);
+            AddText(debugPanel.transform, font, "Vault Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
+            vaultDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+        }
+
         private void Refresh()
         {
             var profile = profileService.Profile;
@@ -220,8 +302,11 @@ namespace GnomeGame.UI
             var burrow = profile.burrow_state;
             var loamwake = profile.strata_state.loamwake;
             var nextExpandCost = profileService.GetNextExpandCost();
+            FixtureStateHelper.EnsureDefaults(profile);
 
-            burrowWalletText.text = "Mooncaps: " + snapshot.mooncaps + "   Mushcaps: " + snapshot.mushcaps;
+            burrowWalletText.text = "Mooncaps: " + snapshot.mooncaps + "   Mushcaps: " + snapshot.mushcaps +
+                "   Twine: " + profile.wallet.loamwake_materials.tangled_root_twine +
+                "   Ore: " + profile.wallet.loamwake_materials.crumbled_ore_chunk;
             burrowActionText.text = profileService.LastActionStatus;
 
             dewpondText.text =
@@ -248,8 +333,17 @@ namespace GnomeGame.UI
             rootmineText.text =
                 "Rootmine\n" +
                 "Status: " + (burrow.rootmine.unlocked ? "Unlocked" : "Locked") + "\n" +
-                "Level: " + burrow.rootmine.level + "\n" +
+                "Level: " + burrow.rootmine.level + "   Storage cap: " + burrow.rootmine.material_storage_cap + "\n" +
+                "Stored: " + burrow.rootmine.stored_tangled_root_twine + " Twine / " +
+                burrow.rootmine.stored_crumbled_ore_chunk + " Ore\n" +
                 burrow.rootmine.status_note;
+
+            fixtureSummaryText.text =
+                "Fixture / Hat summary\n" +
+                "Equipped: " + profile.fixture_state.equipped_fixture_instance_ids.Count + "/" + profile.account.fixture_cap +
+                "   Owned Fixtures: " + profile.fixture_state.fixture_inventory.Count + "\n" +
+                "Visible Hat: " + (string.IsNullOrEmpty(profile.hat_state.visible_hat_id) ? "None" : FixtureStateHelper.FirstHatDisplayName) +
+                "   Power bonus: +" + FixtureStateHelper.GetTotalExpeditionPowerBonus(profile);
 
             fieldReturnsSnippetText.text = BuildFieldReturnsSnippet(loamwake.field_returns);
 
@@ -316,10 +410,72 @@ namespace GnomeGame.UI
                 "Active UID: " + snapshot.active_uid + "\n" +
                 "Save path: " + snapshot.save_file_path;
 
+            fixtureWalletText.text =
+                "Mooncaps: " + snapshot.mooncaps +
+                "   Tangled Root Twine: " + profile.wallet.loamwake_materials.tangled_root_twine +
+                "   Crumbled Ore Chunk: " + profile.wallet.loamwake_materials.crumbled_ore_chunk + "\n" +
+                "Fixture cap: " + profile.fixture_state.equipped_fixture_instance_ids.Count + "/" + profile.account.fixture_cap;
+            fixtureActionText.text = profileService.LastActionStatus;
+            fixtureCraftText.text =
+                "Root-Bitten Shovel Strap\n" +
+                "Recipe: 6 Tangled Root Twine + 80 Mooncaps\n" +
+                "Effect while equipped: +2 expedition power\n" +
+                "Crafted: " + (FixtureStateHelper.FindFirstFixture(profile) != null);
+            fixtureInventoryText.text =
+                "Owned Fixtures: " + profile.fixture_state.fixture_inventory.Count + "\n" +
+                "Equipped ordered list: " + BuildEquippedFixtureList(profile) + "\n" +
+                profileService.BuildPowerSummary();
+            fixtureHatText.text =
+                "Hat Collection shell\n" +
+                "Loamwake Dirt Cap: " + (FixtureStateHelper.HasHat(profile, FixtureStateHelper.FirstHatId) ? "Unlocked" : "Locked until Keeper defeat") + "\n" +
+                "Visible Hat: " + (string.IsNullOrEmpty(profile.hat_state.visible_hat_id) ? "None" : FixtureStateHelper.FirstHatDisplayName) + "\n" +
+                profile.hat_state.passive_summary;
+            fixtureDebugText.text =
+                "Auth state: " + snapshot.auth_state + "\n" +
+                "Save state: " + snapshot.save_state + "\n" +
+                "Fixture recipe IDs: " + profile.fixture_state.crafted_recipe_ids.Count + "\n" +
+                "Fixture cap model: ordered list, no rigid slots\n" +
+                "Save path: " + snapshot.save_file_path;
+
+            vaultStatusText.text =
+                "Vault state: " + (profile.vault_state.visible ? "Visible shell" : "Locked shell") + "\n" +
+                profile.vault_state.status_note + "\n\n" +
+                "Treasures not implemented in Sprint 3.\n" +
+                "Set / Polish / Strengthen / Attune are intentionally absent.";
+            vaultDebugText.text =
+                "Auth state: " + snapshot.auth_state + "\n" +
+                "Save state: " + snapshot.save_state + "\n" +
+                "Treasure progression enabled: " + profile.vault_state.treasure_progression_enabled + "\n" +
+                "Owned treasure count: " + profile.vault_state.owned_treasure_count + "\n" +
+                "Save path: " + snapshot.save_file_path;
+
             dewpondGatherButton.interactable = burrow.dewpond.stored_output > 0;
             mushpatchGatherButton.interactable = burrow.mushpatch.stored_output > 0;
+            rootmineGatherButton.interactable = BurrowProductionService.CanGather(burrow.rootmine);
+            rootmineGatherLabel.text = burrow.rootmine.unlocked ? "Gather Rootmine Materials" : "Rootmine Locked";
             expandButton.interactable = nextExpandCost > 0 && profile.wallet.mooncaps >= nextExpandCost;
             expandButtonLabel.text = nextExpandCost > 0 ? "Expand Burrow (" + nextExpandCost + " Mooncaps)" : "Expand Stubbed";
+
+            var firstFixture = FixtureStateHelper.FindFirstFixture(profile);
+            var firstFixtureEquipped = FixtureStateHelper.IsFirstFixtureEquipped(profile);
+            unlockFixtureCapButton.interactable = profile.account.fixture_cap < 1;
+            unlockFixtureCapLabel.text = profile.account.fixture_cap < 1 ? "Unlock First Fixture Cap" : "First Cap Unlocked";
+            craftFirstFixtureButton.interactable = profile.account.fixture_cap >= 1 &&
+                firstFixture == null &&
+                profile.wallet.mooncaps >= FixtureService.FirstFixtureMooncapCost &&
+                profile.wallet.loamwake_materials.tangled_root_twine >= FixtureService.FirstFixtureTwineCost;
+            craftFirstFixtureLabel.text = firstFixture == null ? "Craft Root-Bitten Shovel Strap" : "Fixture Crafted";
+            equipFirstFixtureButton.interactable = firstFixture != null &&
+                !firstFixtureEquipped &&
+                profile.fixture_state.equipped_fixture_instance_ids.Count < profile.account.fixture_cap;
+            equipFirstFixtureLabel.text = firstFixtureEquipped ? "First Fixture Equipped" : "Equip First Fixture";
+            unequipFirstFixtureButton.interactable = firstFixtureEquipped;
+            unequipFirstFixtureLabel.text = firstFixtureEquipped ? "Unequip First Fixture" : "Nothing Equipped";
+            setFirstHatVisibleButton.interactable = FixtureStateHelper.HasHat(profile, FixtureStateHelper.FirstHatId) &&
+                profile.hat_state.visible_hat_id != FixtureStateHelper.FirstHatId;
+            setFirstHatVisibleLabel.text = FixtureStateHelper.HasHat(profile, FixtureStateHelper.FirstHatId)
+                ? "Set Loamwake Dirt Cap Visible"
+                : "Hat Locked";
 
             enterLoamwakeButton.interactable = profileService.IsStratumSelectable(LoamwakeExplorationService.StratumId);
             enterLoamwakeButtonLabel.text = "Enter Loamwake";
@@ -366,9 +522,26 @@ namespace GnomeGame.UI
             profileService.GatherMushpatch();
         }
 
+        private void OnGatherRootminePressed()
+        {
+            profileService.GatherRootmine();
+        }
+
         private void OnExpandPressed()
         {
             profileService.ExpandBurrow();
+        }
+
+        private void OnOpenFixturePressed()
+        {
+            currentScreen = ScreenPage.FixtureWorkshop;
+            Refresh();
+        }
+
+        private void OnOpenVaultPressed()
+        {
+            currentScreen = ScreenPage.Vault;
+            Refresh();
         }
 
         private void OnEnterLoamwakePressed()
@@ -383,6 +556,31 @@ namespace GnomeGame.UI
             profileService.ReturnToBurrow();
             currentScreen = ScreenPage.Burrow;
             Refresh();
+        }
+
+        private void OnUnlockFixtureCapPressed()
+        {
+            profileService.UnlockFirstFixtureCap();
+        }
+
+        private void OnCraftFirstFixturePressed()
+        {
+            profileService.CraftFirstFixture();
+        }
+
+        private void OnEquipFirstFixturePressed()
+        {
+            profileService.EquipFirstFixture();
+        }
+
+        private void OnUnequipFirstFixturePressed()
+        {
+            profileService.UnequipFirstFixture();
+        }
+
+        private void OnSetFirstHatVisiblePressed()
+        {
+            profileService.SetFirstHatVisible();
         }
 
         private void OnZone1SafePressed()
@@ -434,6 +632,50 @@ namespace GnomeGame.UI
         {
             burrowPage.SetActive(currentScreen == ScreenPage.Burrow);
             loamwakePage.SetActive(currentScreen == ScreenPage.Loamwake);
+            fixturePage.SetActive(currentScreen == ScreenPage.FixtureWorkshop);
+            vaultPage.SetActive(currentScreen == ScreenPage.Vault);
+        }
+
+        private static string BuildEquippedFixtureList(PlayerProfileData profile)
+        {
+            if (profile == null || profile.fixture_state == null || profile.fixture_state.equipped_fixture_instance_ids == null ||
+                profile.fixture_state.equipped_fixture_instance_ids.Count == 0)
+            {
+                return "empty";
+            }
+
+            var value = "";
+            for (var i = 0; i < profile.fixture_state.equipped_fixture_instance_ids.Count; i++)
+            {
+                if (i > 0)
+                {
+                    value += ", ";
+                }
+
+                value += (i + 1) + ": " + GetFixtureDisplayName(profile, profile.fixture_state.equipped_fixture_instance_ids[i]);
+            }
+
+            return value;
+        }
+
+        private static string GetFixtureDisplayName(PlayerProfileData profile, string instanceId)
+        {
+            if (profile == null || profile.fixture_state == null || profile.fixture_state.fixture_inventory == null)
+            {
+                return instanceId;
+            }
+
+            foreach (var fixture in profile.fixture_state.fixture_inventory)
+            {
+                if (fixture != null && fixture.instance_id == instanceId)
+                {
+                    return fixture.fixture_id == FixtureStateHelper.FirstFixtureId
+                        ? "Root-Bitten Shovel Strap"
+                        : fixture.fixture_id;
+                }
+            }
+
+            return instanceId;
         }
 
         private static string BuildFieldReturnsSnippet(ExplorationResultData result)
@@ -493,8 +735,8 @@ namespace GnomeGame.UI
             image.color = new Color(0.08f, 0.1f, 0.09f, 0.96f);
 
             var layout = page.AddComponent<VerticalLayoutGroup>();
-            layout.padding = new RectOffset(28, 28, 28, 28);
-            layout.spacing = 14;
+            layout.padding = new RectOffset(18, 18, 18, 18);
+            layout.spacing = 8;
             layout.childControlWidth = true;
             layout.childControlHeight = false;
             layout.childForceExpandWidth = true;
@@ -513,8 +755,8 @@ namespace GnomeGame.UI
             layoutElement.preferredHeight = height;
 
             var layout = card.AddComponent<VerticalLayoutGroup>();
-            layout.padding = new RectOffset(20, 20, 18, 18);
-            layout.spacing = 10;
+            layout.padding = new RectOffset(12, 12, 12, 12);
+            layout.spacing = 6;
             layout.childControlWidth = true;
             layout.childControlHeight = false;
             layout.childForceExpandWidth = true;

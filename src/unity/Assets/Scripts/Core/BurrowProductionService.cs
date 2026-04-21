@@ -8,6 +8,8 @@ namespace GnomeGame.Core
     {
         private const int DewpondSecondsPerUnitLevel1 = 3;
         private const int MushpatchSecondsPerUnitLevel1 = 10;
+        private const int RootmineTwineSecondsPerUnitLevel1 = 20;
+        private const int RootmineOreSecondsPerUnitLevel1 = 40;
 
         public bool ProcessProduction(PlayerProfileData profile, DateTime nowUtc)
         {
@@ -28,11 +30,17 @@ namespace GnomeGame.Core
             var elapsedSeconds = Math.Max(0, (int)(nowUtc - lastTick).TotalSeconds);
             var dewpondSecondsPerUnit = GetDewpondSecondsPerUnit(burrow.dewpond.level);
             var mushpatchSecondsPerUnit = GetMushpatchSecondsPerUnit(burrow.mushpatch.level);
-            var shouldAdvanceTick = elapsedSeconds >= dewpondSecondsPerUnit || elapsedSeconds >= mushpatchSecondsPerUnit;
+            var rootmineTwineSecondsPerUnit = GetRootmineTwineSecondsPerUnit(burrow.rootmine.level);
+            var rootmineOreSecondsPerUnit = GetRootmineOreSecondsPerUnit(burrow.rootmine.level);
+            var shouldAdvanceTick = elapsedSeconds >= dewpondSecondsPerUnit ||
+                elapsedSeconds >= mushpatchSecondsPerUnit ||
+                (burrow.rootmine.unlocked &&
+                    (elapsedSeconds >= rootmineTwineSecondsPerUnit || elapsedSeconds >= rootmineOreSecondsPerUnit));
             var changed = false;
 
             changed |= Accumulate(burrow.dewpond, elapsedSeconds, dewpondSecondsPerUnit);
             changed |= Accumulate(burrow.mushpatch, elapsedSeconds, mushpatchSecondsPerUnit);
+            changed |= AccumulateRootmine(burrow.rootmine, elapsedSeconds, rootmineTwineSecondsPerUnit, rootmineOreSecondsPerUnit);
 
             if (!shouldAdvanceTick && !changed)
             {
@@ -68,6 +76,13 @@ namespace GnomeGame.Core
             return building != null && building.stored_output > 0;
         }
 
+        public static bool CanGather(RootmineStateData rootmine)
+        {
+            return rootmine != null &&
+                rootmine.unlocked &&
+                (rootmine.stored_tangled_root_twine > 0 || rootmine.stored_crumbled_ore_chunk > 0);
+        }
+
         private static bool Accumulate(BurrowBuildingStateData building, int elapsedSeconds, int secondsPerUnit)
         {
             if (building == null || elapsedSeconds <= 0 || secondsPerUnit <= 0)
@@ -87,6 +102,32 @@ namespace GnomeGame.Core
             return building.stored_output != prior;
         }
 
+        private static bool AccumulateRootmine(RootmineStateData rootmine, int elapsedSeconds, int twineSecondsPerUnit, int oreSecondsPerUnit)
+        {
+            if (rootmine == null || !rootmine.unlocked || elapsedSeconds <= 0)
+            {
+                return false;
+            }
+
+            rootmine.material_storage_cap = BurrowStateHelper.GetRootmineMaterialStorageCap(rootmine.level);
+            if (rootmine.material_storage_cap <= 0)
+            {
+                return false;
+            }
+
+            var priorTwine = rootmine.stored_tangled_root_twine;
+            var priorOre = rootmine.stored_crumbled_ore_chunk;
+
+            var producedTwine = twineSecondsPerUnit > 0 ? elapsedSeconds / twineSecondsPerUnit : 0;
+            var producedOre = oreSecondsPerUnit > 0 ? elapsedSeconds / oreSecondsPerUnit : 0;
+
+            rootmine.stored_tangled_root_twine = Math.Min(rootmine.material_storage_cap, rootmine.stored_tangled_root_twine + producedTwine);
+            rootmine.stored_crumbled_ore_chunk = Math.Min(rootmine.material_storage_cap, rootmine.stored_crumbled_ore_chunk + producedOre);
+
+            return rootmine.stored_tangled_root_twine != priorTwine ||
+                rootmine.stored_crumbled_ore_chunk != priorOre;
+        }
+
         private static int GetDewpondSecondsPerUnit(int level)
         {
             // TODO: Move prototype timing out of code once Burrow balance data exists.
@@ -97,6 +138,16 @@ namespace GnomeGame.Core
         {
             // TODO: Move prototype timing out of code once Burrow balance data exists.
             return MushpatchSecondsPerUnitLevel1;
+        }
+
+        private static int GetRootmineTwineSecondsPerUnit(int level)
+        {
+            return RootmineTwineSecondsPerUnitLevel1;
+        }
+
+        private static int GetRootmineOreSecondsPerUnit(int level)
+        {
+            return RootmineOreSecondsPerUnitLevel1;
         }
 
         private static DateTime ParseOrNow(string value, DateTime fallback)
