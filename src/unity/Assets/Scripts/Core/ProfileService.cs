@@ -11,6 +11,7 @@ namespace GnomeGame.Core
         private FixtureService fixtureService = new FixtureService();
         private SocialProgressService socialProgressService = new SocialProgressService();
         private LuckyDrawEventService luckyDrawEventService = new LuckyDrawEventService();
+        private CrackCliqueService crackCliqueService = new CrackCliqueService();
         private Func<DateTime> utcNowProvider;
 
         public event Action ProfileChanged;
@@ -29,6 +30,7 @@ namespace GnomeGame.Core
             loamwakeExplorationService = activeLoamwakeExplorationService;
             utcNowProvider = activeUtcNowProvider ?? (() => DateTime.UtcNow);
             SyncLuckyDrawUnlock();
+            SyncCrackCliqueUnlocks();
             RaiseProfileChanged();
         }
 
@@ -426,6 +428,16 @@ namespace GnomeGame.Core
             return MutateSocialProgress(socialProgressService.RevealRootrail, "revealed rootrail station");
         }
 
+        public bool ProbeCrack()
+        {
+            return MutateCrackClique(crackCliqueService.ProbeCrack, "probed the crack");
+        }
+
+        public bool ClaimCliqueStipend()
+        {
+            return MutateCrackClique(crackCliqueService.ClaimCliqueStipend, "claimed clique stipend");
+        }
+
         public bool ClaimLuckyDrawWeeklyTicket()
         {
             return MutateLuckyDraw(luckyDrawEventService.ClaimWeeklyTicket, "claimed lucky draw weekly ticket");
@@ -570,8 +582,9 @@ namespace GnomeGame.Core
                     string status;
                     var changed = mutation(profile, out status);
                     var eventChanged = luckyDrawEventService.SyncUnlock(profile);
+                    var futureChanged = crackCliqueService.SyncUnlocks(profile);
                     LastActionStatus = status;
-                    return changed || eventChanged;
+                    return changed || eventChanged || futureChanged;
                 },
                 reason);
 
@@ -611,6 +624,31 @@ namespace GnomeGame.Core
                 "bought lucky stall item");
         }
 
+        private delegate bool CrackCliqueMutation(PlayerProfileData profile, out string status);
+
+        private bool MutateCrackClique(CrackCliqueMutation mutation, string reason)
+        {
+            if (saveManager == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfileIfChanged(
+                profile =>
+                {
+                    CrackCliqueService.EnsureDefaults(profile);
+                    crackCliqueService.SyncUnlocks(profile);
+                    string status;
+                    var changed = mutation(profile, out status);
+                    LastActionStatus = status;
+                    return changed;
+                },
+                reason);
+
+            RaiseProfileChanged();
+            return saved;
+        }
+
         private void SyncLuckyDrawUnlock()
         {
             if (saveManager == null)
@@ -621,6 +659,18 @@ namespace GnomeGame.Core
             saveManager.MutateProfileIfChanged(
                 profile => luckyDrawEventService.SyncUnlock(profile),
                 "synced lucky draw unlock");
+        }
+
+        private void SyncCrackCliqueUnlocks()
+        {
+            if (saveManager == null)
+            {
+                return;
+            }
+
+            saveManager.MutateProfileIfChanged(
+                profile => crackCliqueService.SyncUnlocks(profile),
+                "synced crack and clique unlocks");
         }
 
         private void RaiseProfileChanged()

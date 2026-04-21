@@ -18,7 +18,9 @@ namespace GnomeGame.UI
             BurrowPosts,
             DailyDuties,
             Rootrail,
-            LuckyDrawWeek
+            LuckyDrawWeek,
+            Crack,
+            Clique
         }
 
         private ProfileService profileService;
@@ -35,6 +37,8 @@ namespace GnomeGame.UI
         private GameObject dailyDutiesPage;
         private GameObject rootrailPage;
         private GameObject luckyDrawPage;
+        private GameObject crackPage;
+        private GameObject cliquePage;
 
         private Text burrowWalletText;
         private Text burrowActionText;
@@ -73,6 +77,10 @@ namespace GnomeGame.UI
         private Text luckyDrawLedgerText;
         private Text luckyDrawStallText;
         private Text luckyDrawDebugText;
+        private Text crackStatusText;
+        private Text crackDebugText;
+        private Text cliqueStatusText;
+        private Text cliqueDebugText;
 
         private Text enterLoamwakeButtonLabel;
         private Text ledgerhollowButtonLabel;
@@ -114,6 +122,8 @@ namespace GnomeGame.UI
         private Button buyMaterialCacheButton;
         private Button buyPolishBundleButton;
         private Button buyFestivalExchangeButton;
+        private Button probeCrackButton;
+        private Button claimCliqueStipendButton;
 
         private Text expandButtonLabel;
         private Text rootmineGatherLabel;
@@ -141,6 +151,8 @@ namespace GnomeGame.UI
         private Text buyMaterialCacheLabel;
         private Text buyPolishBundleLabel;
         private Text buyFestivalExchangeLabel;
+        private Text probeCrackLabel;
+        private Text claimCliqueStipendLabel;
 
         public void Initialize(ProfileService activeProfileService, SaveManager activeSaveManager, AuthManager activeAuthManager)
         {
@@ -192,6 +204,8 @@ namespace GnomeGame.UI
             dailyDutiesPage = CreatePage(canvasObject.transform, "DailyDutiesPage");
             rootrailPage = CreatePage(canvasObject.transform, "RootrailPage");
             luckyDrawPage = CreatePage(canvasObject.transform, "LuckyDrawWeekPage");
+            crackPage = CreatePage(canvasObject.transform, "CrackPage");
+            cliquePage = CreatePage(canvasObject.transform, "CliquePage");
 
             BuildBurrowPage(font);
             BuildLoamwakePage(font);
@@ -201,6 +215,8 @@ namespace GnomeGame.UI
             BuildDailyDutiesPage(font);
             BuildRootrailPage(font);
             BuildLuckyDrawPage(font);
+            BuildCrackPage(font);
+            BuildCliquePage(font);
         }
 
         private void BuildBurrowPage(Font font)
@@ -241,8 +257,8 @@ namespace GnomeGame.UI
             var strataGateCard = CreateCard(burrowPage.transform, "StrataGateCard", 204f);
             AddText(strataGateCard.transform, font, "Strata Gate", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             enterLoamwakeButton = AddButton(strataGateCard.transform, font, "Enter Loamwake", OnEnterLoamwakePressed, out enterLoamwakeButtonLabel);
-            ledgerhollowButton = AddButton(strataGateCard.transform, font, "Ledgerhollow (Unavailable)", null, out ledgerhollowButtonLabel);
-            memoryFenButton = AddButton(strataGateCard.transform, font, "Memory Fen (Unavailable)", null, out memoryFenButtonLabel);
+            ledgerhollowButton = AddButton(strataGateCard.transform, font, "Ledgerhollow (Unavailable)", OnOpenCrackPressed, out ledgerhollowButtonLabel);
+            memoryFenButton = AddButton(strataGateCard.transform, font, "Memory Fen (Unavailable)", OnOpenCliquePressed, out memoryFenButtonLabel);
 
             var returnsCard = CreateCard(burrowPage.transform, "FieldReturnsCard", 70f);
             fieldReturnsSnippetText = AddText(returnsCard.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 36f);
@@ -423,6 +439,40 @@ namespace GnomeGame.UI
             luckyDrawDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
         }
 
+        private void BuildCrackPage(Font font)
+        {
+            var topNavCard = CreateCard(crackPage.transform, "CrackTopNavigationCard", 84f);
+            Text unusedLabel;
+            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+
+            AddText(crackPage.transform, font, "The Crack", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+
+            var statusCard = CreateCard(crackPage.transform, "CrackProbeCard", 370f);
+            crackStatusText = AddText(statusCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 246f);
+            probeCrackButton = AddButton(statusCard.transform, font, "Probe the Crack", OnProbeCrackPressed, out probeCrackLabel);
+
+            var debugPanel = CreateCard(crackPage.transform, "CrackDebugPanel", 220f);
+            AddText(debugPanel.transform, font, "Crack Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
+            crackDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+        }
+
+        private void BuildCliquePage(Font font)
+        {
+            var topNavCard = CreateCard(cliquePage.transform, "CliqueTopNavigationCard", 84f);
+            Text unusedLabel;
+            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+
+            AddText(cliquePage.transform, font, "Clique", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+
+            var statusCard = CreateCard(cliquePage.transform, "CliqueShellCard", 500f);
+            cliqueStatusText = AddText(statusCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 376f);
+            claimCliqueStipendButton = AddButton(statusCard.transform, font, "Claim Local Clique Stipend", OnClaimCliqueStipendPressed, out claimCliqueStipendLabel);
+
+            var debugPanel = CreateCard(cliquePage.transform, "CliqueDebugPanel", 220f);
+            AddText(debugPanel.transform, font, "Clique Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
+            cliqueDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+        }
+
         private void Refresh()
         {
             var profile = profileService.Profile;
@@ -445,8 +495,11 @@ namespace GnomeGame.UI
             FixtureStateHelper.EnsureDefaults(profile);
             SocialProgressService.EnsureDefaults(profile);
             LuckyDrawEventService.EnsureDefaults(profile);
+            CrackCliqueService.EnsureDefaults(profile);
             var luckyDraw = profile.event_progress.lucky_draw_week;
             var luckyDrawVisible = LuckyDrawEventService.IsEventVisible(profile);
+            var crack = profile.crack_progress;
+            var clique = profile.clique_progress;
 
             burrowWalletText.text = "Mooncaps: " + snapshot.mooncaps + "   Mushcaps: " + snapshot.mushcaps +
                 "   Lucky Draws: " + profile.wallet.lucky_draws +
@@ -491,13 +544,14 @@ namespace GnomeGame.UI
                 "   Power bonus: +" + FixtureStateHelper.GetTotalExpeditionPowerBonus(profile);
 
             socialSummaryText.text =
-                "Burrow Post / Daily Duties / Greta\n" +
                 "Greta: " + (profile.social_progress.greta.unlocked ? "Unlocked" : "Locked") +
-                "   Trust: " + profile.social_progress.greta.trust_level + "\n" +
-                "Rootrail: " + (profile.social_progress.rootrail.revealed ? "Station shell revealed" : "Not revealed yet") + "\n" +
+                "   Trust: " + profile.social_progress.greta.trust_level +
+                "   Rootrail: " + (profile.social_progress.rootrail.revealed ? "Revealed" : "Hidden") + "\n" +
                 (luckyDrawVisible
-                    ? "Lucky Draw Week: active, tickets " + profile.wallet.lucky_draws + ", pulls " + luckyDraw.pull_count
-                    : "Lucky Draw Week hidden until Greta unlock");
+                    ? "Lucky Draw: tickets " + profile.wallet.lucky_draws + ", pulls " + luckyDraw.pull_count
+                    : "Lucky Draw hidden until Greta unlock") + "\n" +
+                "Crack: " + (crack.visible ? "Depth " + crack.best_depth + ", Coins " + profile.wallet.crack_coins : "Hidden until Rootrail reveal") +
+                "   Clique: " + (clique.visible ? clique.player_role + ", Favor " + profile.wallet.favor_marks : "Hidden until Rootrail reveal");
 
             fieldReturnsSnippetText.text = BuildFieldReturnsSnippet(loamwake.field_returns);
 
@@ -654,6 +708,38 @@ namespace GnomeGame.UI
                 "Paid path active: " + luckyDraw.paid_path_active + "   IAP enabled: " + luckyDraw.iap_enabled + "\n" +
                 "Latest event result: " + luckyDraw.latest_result_summary;
 
+            crackStatusText.text =
+                "Endless descent prototype shell\n" +
+                "State: " + (crack.unlocked ? "Unlocked" : (crack.visible ? "Visible shell" : "Locked/hidden")) + "\n" +
+                "Gate: " + crack.unlock_gate_note + " - " + (crack.unlock_gate_met ? "met" : "not met") + "\n" +
+                "Current depth: " + crack.current_depth + "   Best depth: " + crack.best_depth + "\n" +
+                "Probe count: " + crack.probe_count + "   Crack Coins: " + profile.wallet.crack_coins + "\n" +
+                "Reward summary: " + crack.reward_claim_summary + "\n" +
+                "Latest result: " + crack.latest_result_summary + "\n" +
+                "Only Probe the Crack is implemented in this sprint.";
+            crackDebugText.text =
+                "Auth state: " + snapshot.auth_state + "\n" +
+                "Save state: " + snapshot.save_state + "\n" +
+                "Visible: " + crack.visible + "   Unlocked: " + crack.unlocked + "\n" +
+                "Latest Crack result: " + crack.latest_result_summary + "\n" +
+                "Save path: " + snapshot.save_file_path;
+
+            cliqueStatusText.text =
+                "Local social shell\n" +
+                "State: " + (clique.unlocked ? "Unlocked" : (clique.visible ? "Visible shell" : "Locked/hidden")) + "\n" +
+                "Gate: " + clique.unlock_gate_note + " - " + (clique.unlock_gate_met ? "met" : "not met") + "\n" +
+                "Clique name: " + clique.clique_name + "\n" +
+                "Your role: " + clique.player_role + "   Favor Marks: " + profile.wallet.favor_marks + "\n" +
+                "Clique Rolls:\n" + BuildCliqueRosterSummary(clique) +
+                "Great Dispute: stub notice only; no gameplay is implemented.\n" +
+                "Latest result: " + clique.latest_result_summary;
+            cliqueDebugText.text =
+                "Auth state: " + snapshot.auth_state + "\n" +
+                "Save state: " + snapshot.save_state + "\n" +
+                "Networking enabled: " + clique.networking_enabled + "\n" +
+                "Multiplayer enabled: " + clique.multiplayer_enabled + "   Shared state enabled: " + clique.shared_state_enabled + "\n" +
+                "Great Dispute stub only: " + clique.great_dispute_stub_only;
+
             dewpondGatherButton.interactable = burrow.dewpond.stored_output > 0;
             mushpatchGatherButton.interactable = burrow.mushpatch.stored_output > 0;
             rootmineGatherButton.interactable = BurrowProductionService.CanGather(burrow.rootmine);
@@ -730,10 +816,14 @@ namespace GnomeGame.UI
 
             enterLoamwakeButton.interactable = profileService.IsStratumSelectable(LoamwakeExplorationService.StratumId);
             enterLoamwakeButtonLabel.text = "Enter Loamwake";
-            ledgerhollowButton.interactable = false;
-            ledgerhollowButtonLabel.text = "Ledgerhollow (Unavailable)";
-            memoryFenButton.interactable = false;
-            memoryFenButtonLabel.text = "Memory Fen (Unavailable)";
+            ledgerhollowButton.interactable = crack.visible;
+            ledgerhollowButtonLabel.text = crack.visible ? "The Crack" : "Ledgerhollow (Unavailable)";
+            memoryFenButton.interactable = clique.visible;
+            memoryFenButtonLabel.text = clique.visible ? "Clique" : "Memory Fen (Unavailable)";
+            probeCrackButton.interactable = crack.unlocked;
+            probeCrackLabel.text = crack.unlocked ? "Probe the Crack" : "Crack Locked";
+            claimCliqueStipendButton.interactable = clique.unlocked && !clique.local_stipend_claimed;
+            claimCliqueStipendLabel.text = clique.local_stipend_claimed ? "Local Stipend Claimed" : "Claim Local Clique Stipend";
         }
 
         private void UpdateZoneCard(
@@ -816,6 +906,18 @@ namespace GnomeGame.UI
         private void OnOpenLuckyDrawPressed()
         {
             currentScreen = ScreenPage.LuckyDrawWeek;
+            Refresh();
+        }
+
+        private void OnOpenCrackPressed()
+        {
+            currentScreen = ScreenPage.Crack;
+            Refresh();
+        }
+
+        private void OnOpenCliquePressed()
+        {
+            currentScreen = ScreenPage.Clique;
             Refresh();
         }
 
@@ -913,6 +1015,16 @@ namespace GnomeGame.UI
             profileService.BuyLuckyStallFestivalExchange();
         }
 
+        private void OnProbeCrackPressed()
+        {
+            profileService.ProbeCrack();
+        }
+
+        private void OnClaimCliqueStipendPressed()
+        {
+            profileService.ClaimCliqueStipend();
+        }
+
         private void OnZone1SafePressed()
         {
             profileService.ExploreLoamwakeZone("zone_lw_001_rootvine_shelf", LoamwakeExplorationService.SafeRouteId);
@@ -968,6 +1080,8 @@ namespace GnomeGame.UI
             dailyDutiesPage.SetActive(currentScreen == ScreenPage.DailyDuties);
             rootrailPage.SetActive(currentScreen == ScreenPage.Rootrail);
             luckyDrawPage.SetActive(currentScreen == ScreenPage.LuckyDrawWeek);
+            crackPage.SetActive(currentScreen == ScreenPage.Crack);
+            cliquePage.SetActive(currentScreen == ScreenPage.Clique);
         }
 
         private static string BuildBurrowPostsStatus(PlayerProfileData profile)
@@ -1012,6 +1126,28 @@ namespace GnomeGame.UI
             return duty.title + ": " + duty.progress + "/" + duty.target +
                 " - " + (duty.completed ? "completed" : "active") +
                 " - " + duty.reward_summary;
+        }
+
+        private static string BuildCliqueRosterSummary(CliqueProgressData clique)
+        {
+            if (clique == null || clique.roster == null || clique.roster.Count == 0)
+            {
+                return "No local roster entries.\n";
+            }
+
+            var value = "";
+            for (var i = 0; i < clique.roster.Count; i++)
+            {
+                var entry = clique.roster[i];
+                if (entry == null)
+                {
+                    continue;
+                }
+
+                value += "- " + entry.display_name + " / " + entry.role + " / " + entry.status + "\n";
+            }
+
+            return value;
         }
 
         private static bool HasClaimableLedgerReward(PlayerProfileData profile)

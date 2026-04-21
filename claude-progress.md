@@ -1,5 +1,25 @@
 # claude-progress.md
 
+## Phase 3 Sprint 6 — Crack + Clique stub — 2026-04-21
+
+### What happened this session
+Built two small future-facing progression shells on top of the existing prototype.
+Implemented The Crack as a repeatable prototype probe layer and Clique as a local social shell/stub with minimal persistent interaction.
+Kept Deepening, multiplayer, Great Dispute gameplay, and broad system scope out of implementation.
+
+### Current state
+- Sprint 0: complete
+- Sprint 1: complete
+- Sprint 2: complete
+- Sprint 3: complete
+- Sprint 4: complete
+- Sprint 5: complete
+- Sprint 6: complete
+- Sprint 7: ready to begin
+
+### Next step
+Sprint 7 — tutorial wiring, Warden polish, balance pass, bugfix, 5-tester proof pass
+
 ## Phase 3 Sprint 5 — Lucky Draw Week, Lucky Stall, Festival Ledger — 2026-04-21
 
 ### What happened this session

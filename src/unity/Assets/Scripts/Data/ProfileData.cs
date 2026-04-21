@@ -201,6 +201,111 @@ namespace GnomeGame.Data
 
         [DataMember(Order = 9)]
         public EventProgressData event_progress = new EventProgressData();
+
+        [DataMember(Order = 10)]
+        public CrackProgressData crack_progress = new CrackProgressData();
+
+        [DataMember(Order = 11)]
+        public CliqueProgressData clique_progress = new CliqueProgressData();
+    }
+
+    [Serializable]
+    [DataContract]
+    public class CrackProgressData
+    {
+        [DataMember(Order = 0)]
+        public bool visible = false;
+
+        [DataMember(Order = 1)]
+        public bool unlocked = false;
+
+        [DataMember(Order = 2)]
+        public bool unlock_gate_met = false;
+
+        [DataMember(Order = 3)]
+        public string unlock_gate_note = "Prototype gate: reveal the Rootrail station";
+
+        [DataMember(Order = 4)]
+        public int current_depth = 0;
+
+        [DataMember(Order = 5)]
+        public int best_depth = 0;
+
+        [DataMember(Order = 6)]
+        public int probe_count = 0;
+
+        [DataMember(Order = 7)]
+        public int crack_coins_earned_total = 0;
+
+        [DataMember(Order = 8)]
+        public string reward_claim_summary = "No Crack Coins earned yet";
+
+        [DataMember(Order = 9)]
+        public string latest_result_summary = "No Crack probes yet";
+
+        [DataMember(Order = 10)]
+        public string last_updated_at = "";
+    }
+
+    [Serializable]
+    [DataContract]
+    public class CliqueProgressData
+    {
+        [DataMember(Order = 0)]
+        public bool visible = false;
+
+        [DataMember(Order = 1)]
+        public bool unlocked = false;
+
+        [DataMember(Order = 2)]
+        public bool unlock_gate_met = false;
+
+        [DataMember(Order = 3)]
+        public string unlock_gate_note = "Prototype gate: reveal the Rootrail station";
+
+        [DataMember(Order = 4)]
+        public string clique_name = "Rootrail Porch Circle";
+
+        [DataMember(Order = 5)]
+        public string player_role = "Founder";
+
+        [DataMember(Order = 6)]
+        public List<CliqueRosterEntryData> roster = new List<CliqueRosterEntryData>();
+
+        [DataMember(Order = 7)]
+        public bool local_stipend_claimed = false;
+
+        [DataMember(Order = 8)]
+        public string latest_result_summary = "No Clique actions yet";
+
+        [DataMember(Order = 9)]
+        public bool great_dispute_stub_only = true;
+
+        [DataMember(Order = 10)]
+        public bool networking_enabled = false;
+
+        [DataMember(Order = 11)]
+        public bool multiplayer_enabled = false;
+
+        [DataMember(Order = 12)]
+        public bool shared_state_enabled = false;
+
+        [DataMember(Order = 13)]
+        public string last_updated_at = "";
+    }
+
+    [Serializable]
+    [DataContract]
+    public class CliqueRosterEntryData
+    {
+        [DataMember(Order = 0)]
+        public string display_name = "";
+
+        [DataMember(Order = 1)]
+        public string role = "";
+
+        [DataMember(Order = 2)]
+        public string status = "";
     }
 
     [Serializable]

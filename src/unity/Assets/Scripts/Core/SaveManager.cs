@@ -164,6 +164,8 @@ namespace GnomeGame.Core
             SocialProgressService.EnsureDefaults(Profile);
             LuckyDrawEventService.EnsureDefaults(Profile);
             new LuckyDrawEventService().SyncUnlock(Profile);
+            CrackCliqueService.EnsureDefaults(Profile);
+            new CrackCliqueService().SyncUnlocks(Profile);
 
             if (string.IsNullOrEmpty(Profile.account.uid))
             {
@@ -195,7 +197,7 @@ namespace GnomeGame.Core
 
             if (Profile.save_version.version < ProfileFactory.CurrentSaveVersion)
             {
-                // Sprint 5 and earlier migrations are additive; rehydrate all prototype state on load.
+                // Sprint 6 and earlier migrations are additive; rehydrate all prototype state on load.
                 BurrowStateHelper.EnsureDefaults(Profile);
                 ExplorationStateHelper.EnsureDefaults(Profile);
                 FixtureStateHelper.EnsureDefaults(Profile);
@@ -203,6 +205,8 @@ namespace GnomeGame.Core
                 SocialProgressService.EnsureDefaults(Profile);
                 LuckyDrawEventService.EnsureDefaults(Profile);
                 new LuckyDrawEventService().SyncUnlock(Profile);
+                CrackCliqueService.EnsureDefaults(Profile);
+                new CrackCliqueService().SyncUnlocks(Profile);
                 Profile.save_version.version = ProfileFactory.CurrentSaveVersion;
             }
         }

@@ -543,11 +543,12 @@
       "project": "gnome_game",
       "description": "Phase 3 Sprint 6 — Optional prototype extension: The Crack + Clique stub",
       "priority": "high",
-      "passes": false,
+      "passes": true,
       "risk": "low",
       "qa_verified": false,
       "added": "2026-04-20",
-      "completed": null
+      "completed": "2026-04-21",
+      "verification": "Mono harness verified Crack/Clique hidden before Rootrail reveal, Rootrail reveal unlocks both shells, Crack probe increments depth/probe count and grants Crack Coins, Clique local stipend grants Favor Marks once, save/load restores both states, Great Dispute remains stub-only, and networking/multiplayer/shared-state paths remain inactive"
     },
     {
       "id": "sprint-s7",

@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## v0.11.0 — Phase 3 Sprint 6 Crack + Clique Stub (2026-04-21)
+
+### Added
+- Crack persistence state for visibility/unlock, current depth, best depth, probe count, Crack Coins earned total, reward summary, and latest result
+- Clique persistence state for visibility/unlock, local Clique name, player role, placeholder Clique Rolls roster, one-time local stipend claim, Favor Marks, and stub-only Great Dispute flags
+- `CrackCliqueService` with Rootrail-reveal gating, one repeatable `Probe the Crack` action, one deterministic local Clique stipend action, and explicit no-networking/no-shared-state guards
+- The Crack and Clique debug UI pages with back navigation, shell status, action controls, summaries, and debug/status areas
+- Burrow integration showing Crack/Clique summaries and entry points once the Rootrail reveal gate is met
+- Sprint 6 Mono verification harness and Unity manual smoke checklist
+
+### Changed
+- Profile save data now migrates additive Sprint 6 Crack/Clique state while preserving local-only prototype behavior
+
+### Status
+Sprint 6 complete. The prototype now shows two future-facing progression shells without full Deepening, Clique backend/social systems, Great Dispute gameplay, Crack ladder/sectors, monetization, or networking.
+
+---
+
 ## v0.10.0 — Phase 3 Sprint 5 Lucky Draw Week, Lucky Stall, Festival Ledger (2026-04-21)
 
 ### Added

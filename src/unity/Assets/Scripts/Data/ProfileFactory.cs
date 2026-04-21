@@ -4,7 +4,7 @@ namespace GnomeGame.Data
 {
     public static class ProfileFactory
     {
-        public const int CurrentSaveVersion = 6;
+        public const int CurrentSaveVersion = 7;
 
         public static PlayerProfileData CreateDefault(string uid)
         {
@@ -179,6 +179,57 @@ namespace GnomeGame.Data
                         latest_result_summary = "",
                         last_updated_at = now
                     }
+                },
+                crack_progress = new CrackProgressData
+                {
+                    visible = false,
+                    unlocked = false,
+                    unlock_gate_met = false,
+                    unlock_gate_note = "Prototype gate: reveal the Rootrail station",
+                    current_depth = 0,
+                    best_depth = 0,
+                    probe_count = 0,
+                    crack_coins_earned_total = 0,
+                    reward_claim_summary = "No Crack Coins earned yet",
+                    latest_result_summary = "No Crack probes yet",
+                    last_updated_at = now
+                },
+                clique_progress = new CliqueProgressData
+                {
+                    visible = false,
+                    unlocked = false,
+                    unlock_gate_met = false,
+                    unlock_gate_note = "Prototype gate: reveal the Rootrail station",
+                    clique_name = "Rootrail Porch Circle",
+                    player_role = "Founder",
+                    roster = new System.Collections.Generic.List<CliqueRosterEntryData>
+                    {
+                        new CliqueRosterEntryData
+                        {
+                            display_name = "You",
+                            role = "Founder",
+                            status = "Holding the charter stub"
+                        },
+                        new CliqueRosterEntryData
+                        {
+                            display_name = "Greta",
+                            role = "Steward",
+                            status = "Watching the old track"
+                        },
+                        new CliqueRosterEntryData
+                        {
+                            display_name = "Mossvane",
+                            role = "Burrowmate",
+                            status = "Placeholder roster entry"
+                        }
+                    },
+                    local_stipend_claimed = false,
+                    latest_result_summary = "No Clique actions yet",
+                    great_dispute_stub_only = true,
+                    networking_enabled = false,
+                    multiplayer_enabled = false,
+                    shared_state_enabled = false,
+                    last_updated_at = now
                 }
             };
         }
