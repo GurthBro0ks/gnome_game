@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## v0.12.0 — Phase 3 Sprint 7 Tutorial Wiring, Stabilization, Tester Proof Pack (2026-04-21)
+
+### Added
+- Lightweight persisted tutorial guide state with current step, completed steps, dismissed hints, reset support, and Burrow/Loamwake/Fixture guidance text
+- Sprint 7 aggregate Mono verification harness covering fresh boot, tutorial state, core progression, first Fixture, Greta/Rootrail, Warden, Lucky Draw free path, Crack/Clique stub safety, save/load, and legacy migration
+- Operator Unity smoke checklist, 5-tester checklist, and bug report template under `docs/08_production/`
+
+### Changed
+- Fresh profiles now start with gatherable Dewpond/Mushpatch output so a cold tester can Gather and Expand immediately
+- Rootvine Shelf first clear now grants the intended first-craft packet for Root-Bitten Shovel Strap
+- First capstone presentation now reads as The Mudgrip Warden / Warden Clash instead of generic Keeper-facing UI text
+- First Warden reward/result summary is clearer and better aligned to the Loamwake content sheet
+
+### Status
+Sprint 7 complete. The first playable is ready for manual Unity smoke testing and a small 5-tester proof pass, with known broad layout debt intentionally left out of scope.
+
+---
+
 ## v0.11.0 — Phase 3 Sprint 6 Crack + Clique Stub (2026-04-21)
 
 ### Added

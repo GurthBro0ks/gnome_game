@@ -265,7 +265,8 @@ namespace GnomeGame.UI
 
             var debugPanel = CreateCard(burrowPage.transform, "BurrowDebugPanel", 150f);
             AddText(debugPanel.transform, font, "Burrow Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            burrowDebugText = AddText(debugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 84f);
+            AddButton(debugPanel.transform, font, "Reset Guide", OnResetTutorialGuidePressed, out unusedLabel);
+            burrowDebugText = AddText(debugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 36f);
         }
 
         private void BuildLoamwakePage(Font font)
@@ -295,7 +296,7 @@ namespace GnomeGame.UI
 
             var keeperCard = CreateCard(loamwakePage.transform, "KeeperCard", 176f);
             keeperText = AddText(keeperCard.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 88f);
-            keeperButton = AddButton(keeperCard.transform, font, "Challenge Keeper", OnKeeperPressed, out keeperButtonLabel);
+            keeperButton = AddButton(keeperCard.transform, font, "Challenge Warden", OnKeeperPressed, out keeperButtonLabel);
 
             var returnsCard = CreateCard(loamwakePage.transform, "LoamwakeReturnsCard", 150f);
             loamwakeFieldReturnsText = AddText(returnsCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 104f);
@@ -500,12 +501,13 @@ namespace GnomeGame.UI
             var luckyDrawVisible = LuckyDrawEventService.IsEventVisible(profile);
             var crack = profile.crack_progress;
             var clique = profile.clique_progress;
+            var guide = profileService.BuildTutorialGuidance();
 
             burrowWalletText.text = "Mooncaps: " + snapshot.mooncaps + "   Mushcaps: " + snapshot.mushcaps +
                 "   Lucky Draws: " + profile.wallet.lucky_draws +
                 "   Twine: " + profile.wallet.loamwake_materials.tangled_root_twine +
                 "   Ore: " + profile.wallet.loamwake_materials.crumbled_ore_chunk;
-            burrowActionText.text = profileService.LastActionStatus;
+            burrowActionText.text = guide + "\nLast action: " + profileService.LastActionStatus;
 
             dewpondText.text =
                 "Dewpond\n" +
@@ -558,16 +560,15 @@ namespace GnomeGame.UI
             burrowDebugText.text =
                 "Auth state: " + snapshot.auth_state + "\n" +
                 "Save state: " + snapshot.save_state + "\n" +
-                "Last production tick: " + snapshot.last_production_tick + "\n" +
-                "Active UID: " + snapshot.active_uid + "\n" +
-                "Save path: " + snapshot.save_file_path;
+                "Guide step: " + profile.tutorial_progress.current_step_id + "\n" +
+                "Guide completed: " + profile.tutorial_progress.completed_step_ids.Count;
 
             loamwakeWalletText.text =
                 "Mushcaps: " + snapshot.mushcaps + "   Mooncaps: " + snapshot.mooncaps + "\n" +
                 "Materials - Twine: " + profile.wallet.loamwake_materials.tangled_root_twine +
                 " / Ore: " + profile.wallet.loamwake_materials.crumbled_ore_chunk +
                 " / Glow: " + profile.wallet.loamwake_materials.dull_glow_shard;
-            loamwakeActionText.text = profileService.LastActionStatus;
+            loamwakeActionText.text = guide + "\nLast action: " + profileService.LastActionStatus;
 
             UpdateZoneCard(
                 loamwake.zone_lw_001_rootvine_shelf,
@@ -601,12 +602,12 @@ namespace GnomeGame.UI
                 profile.wallet.mushcaps);
 
             keeperText.text =
-                "First Keeper\n" +
+                "First Warden: The Mudgrip\n" +
                 "Status: " + (loamwake.keeper_lw_001_defeated ? "Defeated" : (loamwake.keeper_lw_001_unlocked ? "Unlocked" : "Locked")) + "\n" +
-                "Zone: Glowroot Passage\n" +
+                "Zone: Mudpipe Hollow\n" +
                 "Auto-Clash threshold: 28";
             keeperButton.interactable = loamwake.keeper_lw_001_unlocked && !loamwake.keeper_lw_001_defeated && profile.wallet.mushcaps >= 2;
-            keeperButtonLabel.text = loamwake.keeper_lw_001_defeated ? "Keeper Defeated" : "Challenge Keeper (2 Mushcaps)";
+            keeperButtonLabel.text = loamwake.keeper_lw_001_defeated ? "Warden Defeated" : "Challenge The Mudgrip (2 Mushcaps)";
 
             loamwakeFieldReturnsText.text = BuildFieldReturnsDetail(loamwake.field_returns);
 
@@ -614,7 +615,7 @@ namespace GnomeGame.UI
                 "Auth state: " + snapshot.auth_state + "\n" +
                 "Save state: " + snapshot.save_state + "\n" +
                 "Current stratum: " + (string.IsNullOrEmpty(snapshot.current_stratum_id) ? "burrow" : snapshot.current_stratum_id) + "\n" +
-                "Keeper defeated: " + loamwake.keeper_lw_001_defeated + "\n" +
+                "The Mudgrip defeated: " + loamwake.keeper_lw_001_defeated + "\n" +
                 "Active UID: " + snapshot.active_uid + "\n" +
                 "Save path: " + snapshot.save_file_path;
 
@@ -623,7 +624,7 @@ namespace GnomeGame.UI
                 "   Tangled Root Twine: " + profile.wallet.loamwake_materials.tangled_root_twine +
                 "   Crumbled Ore Chunk: " + profile.wallet.loamwake_materials.crumbled_ore_chunk + "\n" +
                 "Fixture cap: " + profile.fixture_state.equipped_fixture_instance_ids.Count + "/" + profile.account.fixture_cap;
-            fixtureActionText.text = profileService.LastActionStatus;
+            fixtureActionText.text = guide + "\nLast action: " + profileService.LastActionStatus;
             fixtureCraftText.text =
                 "Root-Bitten Shovel Strap\n" +
                 "Recipe: 6 Tangled Root Twine + 80 Mooncaps\n" +
@@ -635,7 +636,7 @@ namespace GnomeGame.UI
                 profileService.BuildPowerSummary();
             fixtureHatText.text =
                 "Hat Collection shell\n" +
-                "Loamwake Dirt Cap: " + (FixtureStateHelper.HasHat(profile, FixtureStateHelper.FirstHatId) ? "Unlocked" : "Locked until Keeper defeat") + "\n" +
+                "Loamwake Dirt Cap: " + (FixtureStateHelper.HasHat(profile, FixtureStateHelper.FirstHatId) ? "Unlocked" : "Locked until The Mudgrip is defeated") + "\n" +
                 "Visible Hat: " + (string.IsNullOrEmpty(profile.hat_state.visible_hat_id) ? "None" : FixtureStateHelper.FirstHatDisplayName) + "\n" +
                 profile.hat_state.passive_summary;
             fixtureDebugText.text =
@@ -1063,6 +1064,11 @@ namespace GnomeGame.UI
         private void OnForceSavePressed()
         {
             profileService.ForceSave();
+        }
+
+        private void OnResetTutorialGuidePressed()
+        {
+            profileService.ResetTutorialProgress();
         }
 
         private void OnReloadPressed()

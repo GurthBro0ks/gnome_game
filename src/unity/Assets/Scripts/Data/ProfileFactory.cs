@@ -4,7 +4,7 @@ namespace GnomeGame.Data
 {
     public static class ProfileFactory
     {
-        public const int CurrentSaveVersion = 7;
+        public const int CurrentSaveVersion = 8;
 
         public static PlayerProfileData CreateDefault(string uid)
         {
@@ -63,13 +63,13 @@ namespace GnomeGame.Data
                     dewpond = new BurrowBuildingStateData
                     {
                         level = 1,
-                        stored_output = 0,
+                        stored_output = 50,
                         storage_cap = 60
                     },
                     mushpatch = new BurrowBuildingStateData
                     {
                         level = 1,
-                        stored_output = 0,
+                        stored_output = 12,
                         storage_cap = 60
                     },
                     rootmine = new RootmineStateData
@@ -229,6 +229,15 @@ namespace GnomeGame.Data
                     networking_enabled = false,
                     multiplayer_enabled = false,
                     shared_state_enabled = false,
+                    last_updated_at = now
+                },
+                tutorial_progress = new TutorialProgressData
+                {
+                    current_step_id = "tut_01_gather",
+                    completed_step_ids = new System.Collections.Generic.List<string>(),
+                    dismissed_hint_ids = new System.Collections.Generic.List<string>(),
+                    tutorial_window_complete = false,
+                    latest_guidance = "Gather from the Dewpond and Mushpatch, then Expand the Burrow.",
                     last_updated_at = now
                 }
             };

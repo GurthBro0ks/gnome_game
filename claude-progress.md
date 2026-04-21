@@ -1,5 +1,24 @@
 # claude-progress.md
 
+## Phase 3 Sprint 7 — tutorial wiring, Warden polish, stabilization pass — 2026-04-21
+
+### What happened this session
+Stabilized the first playable prototype for human testing.
+Wired lightweight tutorial guidance, polished the first Warden/capstone presentation, tuned rough prototype pacing, fixed major usability/state bugs, and prepared operator/tester proof materials for the manual Unity check.
+
+### Current state
+- Sprint 0: complete
+- Sprint 1: complete
+- Sprint 2: complete
+- Sprint 3: complete
+- Sprint 4: complete
+- Sprint 5: complete
+- Sprint 6: complete
+- Sprint 7: complete
+
+### Next step
+Manual Unity check + tester pass, then final repo summary/reporting
+
 ## Phase 3 Sprint 6 — Crack + Clique stub — 2026-04-21
 
 ### What happened this session

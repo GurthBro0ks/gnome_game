@@ -207,6 +207,32 @@ namespace GnomeGame.Data
 
         [DataMember(Order = 11)]
         public CliqueProgressData clique_progress = new CliqueProgressData();
+
+        [DataMember(Order = 12)]
+        public TutorialProgressData tutorial_progress = new TutorialProgressData();
+    }
+
+    [Serializable]
+    [DataContract]
+    public class TutorialProgressData
+    {
+        [DataMember(Order = 0)]
+        public string current_step_id = "tut_01_gather";
+
+        [DataMember(Order = 1)]
+        public List<string> completed_step_ids = new List<string>();
+
+        [DataMember(Order = 2)]
+        public List<string> dismissed_hint_ids = new List<string>();
+
+        [DataMember(Order = 3)]
+        public bool tutorial_window_complete = false;
+
+        [DataMember(Order = 4)]
+        public string latest_guidance = "Gather from the Dewpond and Mushpatch, then Expand the Burrow.";
+
+        [DataMember(Order = 5)]
+        public string last_updated_at = "";
     }
 
     [Serializable]

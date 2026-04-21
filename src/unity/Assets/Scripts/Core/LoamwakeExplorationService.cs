@@ -7,6 +7,7 @@ namespace GnomeGame.Core
     {
         public const string StratumId = "loamwake";
         public const string KeeperId = "keeper_lw_001";
+        public const string FirstWardenDisplayName = "The Mudgrip";
         public const string SafeRouteId = "safe_route";
         public const string RiskyRouteId = "risky_route";
 
@@ -160,7 +161,7 @@ namespace GnomeGame.Core
             var expeditionPower = GetExpeditionPower(profile, routeId);
             var success = expeditionPower >= definition.difficulty;
 
-            result = BuildZoneResult(definition, routeId, success);
+            result = BuildZoneResult(definition, routeId, success, !zone.first_clear);
             ApplyRewards(profile, result);
 
             if (success)
@@ -188,13 +189,13 @@ namespace GnomeGame.Core
             var loamwake = profile.strata_state.loamwake;
             if (!loamwake.keeper_lw_001_unlocked)
             {
-                status = "Keeper is locked";
+                status = FirstWardenDisplayName + " Warden Clash is locked";
                 return false;
             }
 
             if (loamwake.keeper_lw_001_defeated)
             {
-                status = "Keeper already defeated";
+                status = FirstWardenDisplayName + " already defeated";
                 return false;
             }
 
@@ -223,11 +224,13 @@ namespace GnomeGame.Core
             }
 
             StoreResult(profile, result);
-            status = success ? "Keeper defeated" : "Keeper resisted the clash";
+            status = success
+                ? "Warden defeated: " + FirstWardenDisplayName + " fell back"
+                : "Warden Clash failed: " + FirstWardenDisplayName + " held the hollow";
             return true;
         }
 
-        private static ExplorationResultData BuildZoneResult(ZoneDefinition definition, string routeId, bool success)
+        private static ExplorationResultData BuildZoneResult(ZoneDefinition definition, string routeId, bool success, bool firstClearAttempt)
         {
             var result = new ExplorationResultData
             {
@@ -243,12 +246,12 @@ namespace GnomeGame.Core
                 switch (definition.zone_id)
                 {
                     case "zone_lw_001_rootvine_shelf":
-                        result.mooncaps = routeId == RiskyRouteId ? 16 : 10;
+                        result.mooncaps = firstClearAttempt ? 80 : (routeId == RiskyRouteId ? 16 : 10);
                         result.mushcaps = 0;
                         result.material_rewards.Add(new MaterialRewardData
                         {
                             material_id = "tangled_root_twine",
-                            amount = routeId == RiskyRouteId ? 2 : 1
+                            amount = firstClearAttempt ? 6 : (routeId == RiskyRouteId ? 2 : 1)
                         });
                         break;
                     case "zone_lw_002_mudpipe_hollow":
@@ -284,8 +287,8 @@ namespace GnomeGame.Core
         {
             var result = new ExplorationResultData
             {
-                last_zone_id = "zone_lw_003_glowroot_passage",
-                route_id = "keeper_clash",
+                last_zone_id = "zone_lw_002_mudpipe_hollow",
+                route_id = "warden_clash",
                 result = success ? "success" : "fail",
                 keeper_encounter = true,
                 material_rewards = new List<MaterialRewardData>()
@@ -293,12 +296,12 @@ namespace GnomeGame.Core
 
             if (success)
             {
-                result.mooncaps = 60;
+                result.mooncaps = 120;
                 result.mushcaps = 1;
                 result.material_rewards.Add(new MaterialRewardData
                 {
-                    material_id = "dull_glow_shard",
-                    amount = 3
+                    material_id = "crumbled_ore_chunk",
+                    amount = 4
                 });
             }
             else

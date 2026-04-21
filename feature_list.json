@@ -555,11 +555,12 @@
       "project": "gnome_game",
       "description": "Phase 3 Sprint 7 — Tutorial wiring, Warden, balance, bug-fix, 5-tester proof pass",
       "priority": "high",
-      "passes": false,
+      "passes": true,
       "risk": "medium",
       "qa_verified": false,
       "added": "2026-04-20",
-      "completed": null
+      "completed": "2026-04-21",
+      "verification": "Aggregate Mono harness verified fresh-profile boot, persisted tutorial guidance/dismiss/reset state, immediate Gather/Expand path, first-clear Fixture affordability, first Fixture craft/equip, Greta/Rootrail progression, The Mudgrip Warden presentation path, Lucky Draw free path only, Crack/Clique stub safety, save/load restoration for major state families, legacy additive migration, and no monetization/networking activation"
     }
   ]
 }

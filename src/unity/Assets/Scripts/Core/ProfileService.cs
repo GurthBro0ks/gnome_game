@@ -31,6 +31,7 @@ namespace GnomeGame.Core
             utcNowProvider = activeUtcNowProvider ?? (() => DateTime.UtcNow);
             SyncLuckyDrawUnlock();
             SyncCrackCliqueUnlocks();
+            SyncTutorialProgress();
             RaiseProfileChanged();
         }
 
@@ -280,7 +281,7 @@ namespace GnomeGame.Core
                     LastActionStatus = status;
                     return changed;
                 },
-                "challenged loamwake keeper");
+                "challenged loamwake warden");
 
             RaiseProfileChanged();
             return saved;
@@ -406,6 +407,43 @@ namespace GnomeGame.Core
         public string BuildPowerSummary()
         {
             return fixtureService.BuildPowerSummary(Profile);
+        }
+
+        public string BuildTutorialGuidance()
+        {
+            return TutorialService.BuildGuidance(Profile);
+        }
+
+        public bool DismissTutorialHint()
+        {
+            if (saveManager == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfileIfChanged(
+                profile => TutorialService.DismissCurrentHint(profile),
+                "dismissed tutorial hint");
+
+            LastActionStatus = saved ? "Guide hint dismissed" : "Guide hint already dismissed";
+            RaiseProfileChanged();
+            return saved;
+        }
+
+        public bool ResetTutorialProgress()
+        {
+            if (saveManager == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfile(
+                profile => TutorialService.ResetProgress(profile),
+                "reset tutorial guide");
+
+            LastActionStatus = "Guide reset";
+            RaiseProfileChanged();
+            return saved;
         }
 
         public bool ReadUtilityBurrowPost()
@@ -583,8 +621,9 @@ namespace GnomeGame.Core
                     var changed = mutation(profile, out status);
                     var eventChanged = luckyDrawEventService.SyncUnlock(profile);
                     var futureChanged = crackCliqueService.SyncUnlocks(profile);
+                    var tutorialChanged = TutorialService.SyncProgress(profile);
                     LastActionStatus = status;
-                    return changed || eventChanged || futureChanged;
+                    return changed || eventChanged || futureChanged || tutorialChanged;
                 },
                 reason);
 
@@ -671,6 +710,18 @@ namespace GnomeGame.Core
             saveManager.MutateProfileIfChanged(
                 profile => crackCliqueService.SyncUnlocks(profile),
                 "synced crack and clique unlocks");
+        }
+
+        private void SyncTutorialProgress()
+        {
+            if (saveManager == null)
+            {
+                return;
+            }
+
+            saveManager.MutateProfileIfChanged(
+                profile => TutorialService.SyncProgress(profile),
+                "synced tutorial progress");
         }
 
         private void RaiseProfileChanged()

@@ -86,6 +86,7 @@ namespace GnomeGame.Core
             }
 
             mutation(Profile);
+            TutorialService.SyncProgress(Profile);
             return SaveProfile(reason);
         }
 
@@ -103,6 +104,7 @@ namespace GnomeGame.Core
                 return false;
             }
 
+            TutorialService.SyncProgress(Profile);
             return SaveProfile(reason);
         }
 
@@ -166,6 +168,8 @@ namespace GnomeGame.Core
             new LuckyDrawEventService().SyncUnlock(Profile);
             CrackCliqueService.EnsureDefaults(Profile);
             new CrackCliqueService().SyncUnlocks(Profile);
+            TutorialService.EnsureDefaults(Profile);
+            TutorialService.SyncProgress(Profile);
 
             if (string.IsNullOrEmpty(Profile.account.uid))
             {
@@ -197,7 +201,7 @@ namespace GnomeGame.Core
 
             if (Profile.save_version.version < ProfileFactory.CurrentSaveVersion)
             {
-                // Sprint 6 and earlier migrations are additive; rehydrate all prototype state on load.
+                // Sprint 7 and earlier migrations are additive; rehydrate all prototype state on load.
                 BurrowStateHelper.EnsureDefaults(Profile);
                 ExplorationStateHelper.EnsureDefaults(Profile);
                 FixtureStateHelper.EnsureDefaults(Profile);
@@ -207,6 +211,8 @@ namespace GnomeGame.Core
                 new LuckyDrawEventService().SyncUnlock(Profile);
                 CrackCliqueService.EnsureDefaults(Profile);
                 new CrackCliqueService().SyncUnlocks(Profile);
+                TutorialService.EnsureDefaults(Profile);
+                TutorialService.SyncProgress(Profile);
                 Profile.save_version.version = ProfileFactory.CurrentSaveVersion;
             }
         }
