@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## v0.7.0 — Phase 3 Sprint 2 Loamwake Exploration (2026-04-20)
+
+### Added
+- `strata_state` persistence shell for Loamwake zone progression, Keeper state, latest exploration result, and Field Returns
+- `LoamwakeExplorationService` with Strata Gate selection, zones 1–3, safe/risky route choice, deterministic Auto-Clash, reward grants, and Keeper capstone resolution
+- Loamwake material wallet fields for Tangled Root Twine, Crumbled Ore Chunk, and Dull Glow Shard
+- Sprint 2 Mono verification harness for zone unlocks, route spend, fail persistence, Keeper persistence, and later-Strata lock checks
+
+### Changed
+- MainScene now includes a Burrow Strata Gate card, Field Returns snippet, and a Loamwake exploration page with its own debug/status area
+- Profile service now supports entering Loamwake, exploring zones, Keeper challenge flow, and returning to the Burrow
+- Save migration now rehydrates Sprint 1 profiles into the new Loamwake exploration state
+
+### Status
+Sprint 2 complete. Loamwake now has a minimal local-first exploration slice with route choice and Keeper capstone persistence.
+
+---
+
 ## v0.6.0 — Phase 3 Sprint 1 Burrow Core (2026-04-20)
 
 ### Added

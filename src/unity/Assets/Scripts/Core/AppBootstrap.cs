@@ -16,6 +16,7 @@ namespace GnomeGame.Core
         private SaveManager saveManager;
         private ProfileService profileService;
         private BurrowProductionService burrowProductionService;
+        private LoamwakeExplorationService loamwakeExplorationService;
         private float nextProductionRefreshAt;
 
         private void Awake()
@@ -26,13 +27,14 @@ namespace GnomeGame.Core
             saveManager = new SaveManager(Application.persistentDataPath);
             profileService = new ProfileService();
             burrowProductionService = new BurrowProductionService();
+            loamwakeExplorationService = new LoamwakeExplorationService();
 
             authManager.Initialize(Application.persistentDataPath, auth_enabled, simulate_auth_failure);
 
             var profile = saveManager.LoadOrCreateProfile(authManager.ActiveUid);
             authManager.AdoptProfileUidIfFallback(profile.account.uid);
 
-            profileService.Initialize(saveManager, burrowProductionService, () => System.DateTime.UtcNow);
+            profileService.Initialize(saveManager, burrowProductionService, loamwakeExplorationService, () => System.DateTime.UtcNow);
             profileService.ProcessBurrowProduction();
             CreateDebugUi();
 

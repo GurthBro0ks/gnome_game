@@ -4,7 +4,7 @@ namespace GnomeGame.Data
 {
     public static class ProfileFactory
     {
-        public const int CurrentSaveVersion = 2;
+        public const int CurrentSaveVersion = 3;
 
         public static PlayerProfileData CreateDefault(string uid)
         {
@@ -38,7 +38,13 @@ namespace GnomeGame.Data
                     bronze_shovels = 0,
                     favor_marks = 0,
                     strata_seals = 0,
-                    festival_marks = 0
+                    festival_marks = 0,
+                    loamwake_materials = new LoamwakeMaterialsData
+                    {
+                        tangled_root_twine = 0,
+                        crumbled_ore_chunk = 0,
+                        dull_glow_shard = 0
+                    }
                 },
                 burrow_state = new BurrowStateData
                 {
@@ -67,6 +73,42 @@ namespace GnomeGame.Data
                         level = 0,
                         unlocked = false,
                         status_note = "Locked until Burrow level 2"
+                    }
+                },
+                strata_state = new StrataStateData
+                {
+                    current_stratum_id = "",
+                    unlocked_strata_ids = new System.Collections.Generic.List<string>
+                    {
+                        "loamwake"
+                    },
+                    loamwake = new LoamwakeProgressData
+                    {
+                        zone_lw_001_rootvine_shelf = new ZoneProgressData
+                        {
+                            zone_id = "zone_lw_001_rootvine_shelf",
+                            unlocked = true,
+                            first_clear = false,
+                            clear_count = 0
+                        },
+                        zone_lw_002_mudpipe_hollow = new ZoneProgressData
+                        {
+                            zone_id = "zone_lw_002_mudpipe_hollow",
+                            unlocked = false,
+                            first_clear = false,
+                            clear_count = 0
+                        },
+                        zone_lw_003_glowroot_passage = new ZoneProgressData
+                        {
+                            zone_id = "zone_lw_003_glowroot_passage",
+                            unlocked = false,
+                            first_clear = false,
+                            clear_count = 0
+                        },
+                        keeper_lw_001_unlocked = false,
+                        keeper_lw_001_defeated = false,
+                        last_exploration_result = new ExplorationResultData(),
+                        field_returns = new ExplorationResultData()
                     }
                 }
             };

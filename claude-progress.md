@@ -657,3 +657,85 @@ Kept the system local-first and preserved the debug/status area.
 
 ### Next step
 Sprint 2 — Loamwake zones 1–3, route choice, Auto-Clash, first Keeper
+
+---
+
+## Phase 3 Sprint 2 — Loamwake Exploration — 2026-04-20
+
+### What happened this session
+Built the first Loamwake exploration slice on top of Burrow persistence.
+Implemented Strata Gate, Loamwake zones 1–3, safe/risky route choice, deterministic Auto-Clash resolution, and the first Keeper capstone.
+Kept scope locked to Loamwake-only and preserved debug/status visibility on all touched screens.
+
+**Runtime and persistence changes:**
+- Added `strata_state` with:
+  - `current_stratum_id`
+  - `unlocked_strata_ids`
+  - Loamwake zone progress for `zone_lw_001_rootvine_shelf`, `zone_lw_002_mudpipe_hollow`, and `zone_lw_003_glowroot_passage`
+  - `keeper_lw_001_unlocked`
+  - `keeper_lw_001_defeated`
+  - `last_exploration_result`
+  - `field_returns`
+- Added `loamwake_materials` wallet storage for `tangled_root_twine`, `crumbled_ore_chunk`, and `dull_glow_shard`
+- Added `ExplorationStateHelper` to migrate Sprint 1 saves forward and keep Loamwake defaults coherent
+
+**Exploration slice implemented:**
+- Added `LoamwakeExplorationService` with a narrow authored scope:
+  - only Loamwake is selectable
+  - later Strata remain unavailable/non-interactive
+  - Zone 1 unlocked by default
+  - Zone 2 unlocks after first clear of Zone 1
+  - Zone 3 unlocks after first clear of Zone 2
+- Added route choice per unlocked zone:
+  - Safe Route costs 1 Mushcap
+  - Risky Route costs 2 Mushcaps
+- Implemented deterministic Auto-Clash:
+  - temporary expedition power = `burrow_level * 10 + zone_clear_bonus + safe_bonus`
+  - safe route gets a +3 bonus
+  - zone difficulties fixed at 8 / 15 / 22
+- Added simple rewards and fallback rewards:
+  - Mooncaps
+  - Mushcaps
+  - Loamwake materials only
+- Added the first Keeper capstone tied to Zone 3 unlock with a stronger deterministic threshold and persistent defeat state
+
+**UI changes:**
+- Burrow screen now includes:
+  - Strata Gate card
+  - Enter Loamwake button
+  - non-interactive later-Strata placeholders
+  - Field Returns snippet
+  - existing debug/status area retained
+- Loamwake page now includes:
+  - title, Mushcaps, zone cards for 1–3
+  - safe/risky route buttons
+  - Keeper card
+  - latest result / Field Returns section
+  - back button to Burrow
+  - dedicated debug/status area
+
+**Verification performed:**
+- Replaced the Sprint 1 Mono harness with `tools/verify_sprint2_loamwake_exploration.cs`
+- Verified:
+  - Zone 1 starts unlocked
+  - first clear of Zone 1 unlocks Zone 2
+  - first clear of Zone 2 unlocks Zone 3
+  - Mushcaps are spent correctly for safe and risky routes
+  - success/fail results persist correctly
+  - Keeper unlock/defeat state persists correctly
+  - save/load restores Loamwake progression
+  - later Strata are not interactable
+
+**Tracking updated:**
+- `feature_list.json` — `sprint-s2` set to `passes: true`
+- `CHANGELOG.md` — added v0.7.0 Sprint 2 entry
+- `claude-progress.md` — this entry
+
+### Current state
+- Sprint 0: complete
+- Sprint 1: complete
+- Sprint 2: complete
+- Sprint 3: ready to begin
+
+### Next step
+Sprint 3 — Fixtures, first Hat, Rootmine material loop, Vault shell

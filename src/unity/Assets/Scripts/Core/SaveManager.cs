@@ -157,6 +157,7 @@ namespace GnomeGame.Core
             }
 
             BurrowStateHelper.EnsureDefaults(Profile);
+            ExplorationStateHelper.EnsureDefaults(Profile);
 
             if (string.IsNullOrEmpty(Profile.account.uid))
             {
@@ -188,8 +189,9 @@ namespace GnomeGame.Core
 
             if (Profile.save_version.version < ProfileFactory.CurrentSaveVersion)
             {
-                // Sprint 1 migrates Burrow room/building state from the Sprint 0 shell by rehydrating defaults.
+                // Sprint 3 and earlier migrations are additive; rehydrate Burrow and Loamwake state on load.
                 BurrowStateHelper.EnsureDefaults(Profile);
+                ExplorationStateHelper.EnsureDefaults(Profile);
                 Profile.save_version.version = ProfileFactory.CurrentSaveVersion;
             }
         }

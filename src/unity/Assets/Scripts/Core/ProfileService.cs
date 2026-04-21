@@ -7,6 +7,7 @@ namespace GnomeGame.Core
     {
         private SaveManager saveManager;
         private BurrowProductionService burrowProductionService;
+        private LoamwakeExplorationService loamwakeExplorationService;
         private Func<DateTime> utcNowProvider;
 
         public event Action ProfileChanged;
@@ -14,10 +15,15 @@ namespace GnomeGame.Core
         public PlayerProfileData Profile => saveManager != null ? saveManager.Profile : null;
         public string LastActionStatus { get; private set; } = "Ready";
 
-        public void Initialize(SaveManager activeSaveManager, BurrowProductionService activeBurrowProductionService, Func<DateTime> activeUtcNowProvider)
+        public void Initialize(
+            SaveManager activeSaveManager,
+            BurrowProductionService activeBurrowProductionService,
+            LoamwakeExplorationService activeLoamwakeExplorationService,
+            Func<DateTime> activeUtcNowProvider)
         {
             saveManager = activeSaveManager;
             burrowProductionService = activeBurrowProductionService;
+            loamwakeExplorationService = activeLoamwakeExplorationService;
             utcNowProvider = activeUtcNowProvider ?? (() => DateTime.UtcNow);
             RaiseProfileChanged();
         }
@@ -125,6 +131,100 @@ namespace GnomeGame.Core
             return burrowProductionService.GetNextExpandCost(Profile);
         }
 
+        public bool EnterLoamwake()
+        {
+            if (saveManager == null || loamwakeExplorationService == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfileIfChanged(
+                profile => loamwakeExplorationService.SetCurrentStratum(profile, LoamwakeExplorationService.StratumId),
+                "entered loamwake");
+
+            if (saved)
+            {
+                LastActionStatus = "Entered Loamwake";
+            }
+            else if (Profile != null && loamwakeExplorationService.IsStratumSelectable(Profile, LoamwakeExplorationService.StratumId))
+            {
+                LastActionStatus = "Loamwake ready";
+            }
+
+            RaiseProfileChanged();
+            return saved;
+        }
+
+        public bool ReturnToBurrow()
+        {
+            if (saveManager == null || Profile == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfileIfChanged(
+                profile =>
+                {
+                    ExplorationStateHelper.EnsureDefaults(profile);
+                    if (string.IsNullOrEmpty(profile.strata_state.current_stratum_id))
+                    {
+                        return false;
+                    }
+
+                    profile.strata_state.current_stratum_id = "";
+                    return true;
+                },
+                "returned to burrow");
+
+            LastActionStatus = "Returned to the Burrow";
+            RaiseProfileChanged();
+            return saved;
+        }
+
+        public bool ExploreLoamwakeZone(string zoneId, string routeId)
+        {
+            if (saveManager == null || loamwakeExplorationService == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfileIfChanged(
+                profile =>
+                {
+                    ExplorationResultData result;
+                    string status;
+                    var changed = loamwakeExplorationService.ExploreZone(profile, zoneId, routeId, out result, out status);
+                    LastActionStatus = status;
+                    return changed;
+                },
+                "explored loamwake zone");
+
+            RaiseProfileChanged();
+            return saved;
+        }
+
+        public bool ChallengeLoamwakeKeeper()
+        {
+            if (saveManager == null || loamwakeExplorationService == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfileIfChanged(
+                profile =>
+                {
+                    ExplorationResultData result;
+                    string status;
+                    var changed = loamwakeExplorationService.ChallengeKeeper(profile, out result, out status);
+                    LastActionStatus = status;
+                    return changed;
+                },
+                "challenged loamwake keeper");
+
+            RaiseProfileChanged();
+            return saved;
+        }
+
         private bool GatherBuildingOutput(string buildingId)
         {
             if (saveManager == null)
@@ -202,6 +302,13 @@ namespace GnomeGame.Core
             }
 
             return false;
+        }
+
+        public bool IsStratumSelectable(string stratumId)
+        {
+            return loamwakeExplorationService != null &&
+                Profile != null &&
+                loamwakeExplorationService.IsStratumSelectable(Profile, stratumId);
         }
 
         private void RaiseProfileChanged()
