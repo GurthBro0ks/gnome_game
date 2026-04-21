@@ -80,6 +80,9 @@ namespace GnomeGame.Data
 
         [DataMember(Order = 13)]
         public LoamwakeMaterialsData loamwake_materials = new LoamwakeMaterialsData();
+
+        [DataMember(Order = 14)]
+        public int rootrail_parts = 0;
     }
 
     [Serializable]
@@ -186,6 +189,145 @@ namespace GnomeGame.Data
 
         [DataMember(Order = 7)]
         public VaultStateData vault_state = new VaultStateData();
+
+        [DataMember(Order = 8)]
+        public SocialProgressData social_progress = new SocialProgressData();
+    }
+
+    [Serializable]
+    [DataContract]
+    public class SocialProgressData
+    {
+        [DataMember(Order = 0)]
+        public List<BurrowPostStateData> burrow_posts = new List<BurrowPostStateData>();
+
+        [DataMember(Order = 1)]
+        public List<DailyDutyStateData> daily_duties = new List<DailyDutyStateData>();
+
+        [DataMember(Order = 2)]
+        public GretaStateData greta = new GretaStateData();
+
+        [DataMember(Order = 3)]
+        public RootrailRevealStateData rootrail = new RootrailRevealStateData();
+
+        [DataMember(Order = 4)]
+        public string latest_result_summary = "";
+
+        [DataMember(Order = 5)]
+        public string last_updated_at = "";
+    }
+
+    [Serializable]
+    [DataContract]
+    public class BurrowPostStateData
+    {
+        [DataMember(Order = 0)]
+        public string post_id = "";
+
+        [DataMember(Order = 1)]
+        public string title = "";
+
+        [DataMember(Order = 2)]
+        public string state = "locked";
+
+        [DataMember(Order = 3)]
+        public bool unread = true;
+
+        [DataMember(Order = 4)]
+        public bool completed = false;
+
+        [DataMember(Order = 5)]
+        public bool reward_claimed = false;
+
+        [DataMember(Order = 6)]
+        public string last_updated_at = "";
+    }
+
+    [Serializable]
+    [DataContract]
+    public class DailyDutyStateData
+    {
+        [DataMember(Order = 0)]
+        public string duty_id = "";
+
+        [DataMember(Order = 1)]
+        public string title = "";
+
+        [DataMember(Order = 2)]
+        public int progress = 0;
+
+        [DataMember(Order = 3)]
+        public int target = 1;
+
+        [DataMember(Order = 4)]
+        public bool completed = false;
+
+        [DataMember(Order = 5)]
+        public bool reward_claimed = false;
+
+        [DataMember(Order = 6)]
+        public string reward_summary = "";
+
+        [DataMember(Order = 7)]
+        public string last_updated_at = "";
+    }
+
+    [Serializable]
+    [DataContract]
+    public class GretaStateData
+    {
+        [DataMember(Order = 0)]
+        public bool unlocked = false;
+
+        [DataMember(Order = 1)]
+        public int trust_level = 0;
+
+        [DataMember(Order = 2)]
+        public int trust_points = 0;
+
+        [DataMember(Order = 3)]
+        public bool intro_post_completed = false;
+
+        [DataMember(Order = 4)]
+        public bool first_followup_completed = false;
+
+        [DataMember(Order = 5)]
+        public bool rootrail_lead_completed = false;
+
+        [DataMember(Order = 6)]
+        public bool calling_unlocked = false;
+
+        [DataMember(Order = 7)]
+        public string last_interaction_at = "";
+    }
+
+    [Serializable]
+    [DataContract]
+    public class RootrailRevealStateData
+    {
+        [DataMember(Order = 0)]
+        public bool revealed = false;
+
+        [DataMember(Order = 1)]
+        public bool station_visible = false;
+
+        [DataMember(Order = 2)]
+        public bool repair_progression_enabled = false;
+
+        [DataMember(Order = 3)]
+        public string station_id = "rtr_station_lw_001_loamwake_terminal";
+
+        [DataMember(Order = 4)]
+        public string current_step_id = "";
+
+        [DataMember(Order = 5)]
+        public bool repair_timer_started = false;
+
+        [DataMember(Order = 6)]
+        public bool forgotten_manual_discovered = false;
+
+        [DataMember(Order = 7)]
+        public string status_note = "Rootrail has not been revealed yet.";
     }
 
     [Serializable]

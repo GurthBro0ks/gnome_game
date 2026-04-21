@@ -27,6 +27,7 @@ namespace GnomeGame.Core
             if (!File.Exists(SaveFilePath))
             {
                 Profile = ProfileFactory.CreateDefault(uid);
+                EnsureProfileShape(uid);
                 SaveProfile("created default profile");
                 LastLoadStatus = "No local save found; created default profile";
                 return Profile;
@@ -160,6 +161,7 @@ namespace GnomeGame.Core
             ExplorationStateHelper.EnsureDefaults(Profile);
             FixtureStateHelper.EnsureDefaults(Profile);
             FixtureStateHelper.ApplyMilestoneUnlocks(Profile);
+            SocialProgressService.EnsureDefaults(Profile);
 
             if (string.IsNullOrEmpty(Profile.account.uid))
             {
@@ -191,11 +193,12 @@ namespace GnomeGame.Core
 
             if (Profile.save_version.version < ProfileFactory.CurrentSaveVersion)
             {
-                // Sprint 3 and earlier migrations are additive; rehydrate all prototype state on load.
+                // Sprint 4 and earlier migrations are additive; rehydrate all prototype state on load.
                 BurrowStateHelper.EnsureDefaults(Profile);
                 ExplorationStateHelper.EnsureDefaults(Profile);
                 FixtureStateHelper.EnsureDefaults(Profile);
                 FixtureStateHelper.ApplyMilestoneUnlocks(Profile);
+                SocialProgressService.EnsureDefaults(Profile);
                 Profile.save_version.version = ProfileFactory.CurrentSaveVersion;
             }
         }

@@ -23,6 +23,24 @@ Kept treasure progression out of scope and preserved debug/status visibility on 
 ### Next step
 Sprint 4 — Burrow Posts, Daily Duties, Greta unlock, Rootrail reveal
 
+## Phase 3 Sprint 4 — Burrow Posts, Daily Duties, Greta, Rootrail Reveal — 2026-04-21
+
+### What happened this session
+Built the first social/progression layer on top of Burrow and Loamwake gameplay.
+Implemented Burrow Posts, a minimal Daily Duties loop, Greta unlock with first trust-step progression, and the first Rootrail reveal/station shell.
+Kept Rootrail repair progression and broader Confidant depth out of scope.
+
+### Current state
+- Sprint 0: complete
+- Sprint 1: complete
+- Sprint 2: complete
+- Sprint 3: complete
+- Sprint 4: complete
+- Sprint 5: ready to begin
+
+### Next step
+Sprint 5 — Lucky Draw Week vertical slice, Lucky Stall, Festival Ledger free lane
+
 ## Phase 2A Salvage Repair — 2026-04-19
 
 ### What happened this session

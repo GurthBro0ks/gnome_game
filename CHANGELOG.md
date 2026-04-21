@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## v0.9.0 — Phase 3 Sprint 4 Burrow Posts, Daily Duties, Greta, Rootrail Reveal (2026-04-21)
+
+### Added
+- Burrow Post state and UI surface with a utility Post and Greta intro Post
+- Minimal Daily Duties loop for Dewpond gather, Loamwake explore, and first Fixture check with persisted progress and auto-claimed rewards
+- Greta unlock path through `post_lw_005_greta_intro` plus a first Trust follow-up step
+- Rootrail reveal/station shell gated by Greta follow-up and Mudpipe Hollow first clear
+- Sprint 4 Mono verification harness covering Greta, Posts, Duties, Rootrail reveal gating, persistence, and shell-only repair state
+
+### Changed
+- Profile save data now migrates additive Sprint 4 social progression, Daily Duties, Greta, and Rootrail reveal state
+- Burrow UI now exposes Burrow Post, Daily Duties, Greta summary, and Rootrail Station entry while retaining debug/status visibility
+
+### Status
+Sprint 4 complete. The prototype now has a first return/social reason loop without full Confidant depth, Rootrail repair progression, events, Clique, Crack, monetization, or treasure progression.
+
+---
+
 ## v0.8.0 — Phase 3 Sprint 3 Fixtures, Hat, Rootmine, Vault Shell (2026-04-20)
 
 ### Added

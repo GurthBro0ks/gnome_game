@@ -4,7 +4,7 @@ namespace GnomeGame.Data
 {
     public static class ProfileFactory
     {
-        public const int CurrentSaveVersion = 4;
+        public const int CurrentSaveVersion = 5;
 
         public static PlayerProfileData CreateDefault(string uid)
         {
@@ -40,6 +40,7 @@ namespace GnomeGame.Data
                     favor_marks = 0,
                     strata_seals = 0,
                     festival_marks = 0,
+                    rootrail_parts = 0,
                     loamwake_materials = new LoamwakeMaterialsData
                     {
                         tangled_root_twine = 0,
@@ -135,6 +136,15 @@ namespace GnomeGame.Data
                     treasure_progression_enabled = false,
                     owned_treasure_count = 0,
                     status_note = "Vault of Treasures shell only; Treasures are not implemented in Sprint 3."
+                },
+                social_progress = new SocialProgressData
+                {
+                    burrow_posts = new System.Collections.Generic.List<BurrowPostStateData>(),
+                    daily_duties = new System.Collections.Generic.List<DailyDutyStateData>(),
+                    greta = new GretaStateData(),
+                    rootrail = new RootrailRevealStateData(),
+                    latest_result_summary = "",
+                    last_updated_at = now
                 }
             };
         }

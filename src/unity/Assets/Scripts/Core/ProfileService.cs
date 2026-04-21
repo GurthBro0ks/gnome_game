@@ -9,6 +9,7 @@ namespace GnomeGame.Core
         private BurrowProductionService burrowProductionService;
         private LoamwakeExplorationService loamwakeExplorationService;
         private FixtureService fixtureService = new FixtureService();
+        private SocialProgressService socialProgressService = new SocialProgressService();
         private Func<DateTime> utcNowProvider;
 
         public event Action ProfileChanged;
@@ -238,6 +239,12 @@ namespace GnomeGame.Core
                     ExplorationResultData result;
                     string status;
                     var changed = loamwakeExplorationService.ExploreZone(profile, zoneId, routeId, out result, out status);
+                    if (changed)
+                    {
+                        socialProgressService.RecordLoamwakeExplore(profile);
+                        SocialProgressService.EnsureDefaults(profile);
+                    }
+
                     LastActionStatus = status;
                     return changed;
                 },
@@ -307,6 +314,11 @@ namespace GnomeGame.Core
                 {
                     string status;
                     var changed = fixtureService.CraftFirstFixture(profile, out status);
+                    if (changed)
+                    {
+                        socialProgressService.RecordFixtureProgress(profile);
+                    }
+
                     LastActionStatus = status;
                     return changed;
                 },
@@ -328,6 +340,11 @@ namespace GnomeGame.Core
                 {
                     string status;
                     var changed = fixtureService.EquipFirstFixture(profile, out status);
+                    if (changed)
+                    {
+                        socialProgressService.RecordFixtureProgress(profile);
+                    }
+
                     LastActionStatus = status;
                     return changed;
                 },
@@ -384,6 +401,26 @@ namespace GnomeGame.Core
             return fixtureService.BuildPowerSummary(Profile);
         }
 
+        public bool ReadUtilityBurrowPost()
+        {
+            return MutateSocialProgress(socialProgressService.ReadUtilityPost, "read utility burrow post");
+        }
+
+        public bool ReadGretaIntroPost()
+        {
+            return MutateSocialProgress(socialProgressService.ReadGretaIntroPost, "read greta intro burrow post");
+        }
+
+        public bool CompleteGretaFirstFollowup()
+        {
+            return MutateSocialProgress(socialProgressService.CompleteGretaFirstFollowup, "completed greta first follow-up");
+        }
+
+        public bool RevealRootrailStation()
+        {
+            return MutateSocialProgress(socialProgressService.RevealRootrail, "revealed rootrail station");
+        }
+
         private bool GatherBuildingOutput(string buildingId)
         {
             if (saveManager == null)
@@ -422,6 +459,11 @@ namespace GnomeGame.Core
                     else
                     {
                         profile.wallet.mushcaps += amount;
+                    }
+
+                    if (buildingId == "dewpond")
+                    {
+                        socialProgressService.RecordDewpondGather(profile);
                     }
 
                     LastActionStatus = "Gathered " + amount + " " + (isMooncaps ? "Mooncaps" : "Mushcaps") + " from " + label;
@@ -468,6 +510,30 @@ namespace GnomeGame.Core
             return loamwakeExplorationService != null &&
                 Profile != null &&
                 loamwakeExplorationService.IsStratumSelectable(Profile, stratumId);
+        }
+
+        private delegate bool SocialMutation(PlayerProfileData profile, out string status);
+
+        private bool MutateSocialProgress(SocialMutation mutation, string reason)
+        {
+            if (saveManager == null)
+            {
+                return false;
+            }
+
+            var saved = saveManager.MutateProfileIfChanged(
+                profile =>
+                {
+                    SocialProgressService.EnsureDefaults(profile);
+                    string status;
+                    var changed = mutation(profile, out status);
+                    LastActionStatus = status;
+                    return changed;
+                },
+                reason);
+
+            RaiseProfileChanged();
+            return saved;
         }
 
         private void RaiseProfileChanged()

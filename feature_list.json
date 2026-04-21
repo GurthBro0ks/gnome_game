@@ -519,11 +519,12 @@
       "project": "gnome_game",
       "description": "Phase 3 Sprint 4 — Burrow Posts, Daily Duties, Greta unlock, Rootrail reveal",
       "priority": "critical",
-      "passes": false,
+      "passes": true,
       "risk": "medium",
       "qa_verified": false,
       "added": "2026-04-20",
-      "completed": null
+      "completed": "2026-04-21",
+      "verification": "Mono harness verified Greta starts locked, Rootvine clear surfaces Greta intro Burrow Post, Greta unlock and Trust 1 persist, Daily Duties progress/rewards persist, Rootrail reveal gates correctly, and Rootrail remains shell-only with no repair progression"
     },
     {
       "id": "sprint-s5",

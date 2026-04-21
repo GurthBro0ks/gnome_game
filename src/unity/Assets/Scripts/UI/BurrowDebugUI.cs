@@ -14,7 +14,10 @@ namespace GnomeGame.UI
             Burrow,
             Loamwake,
             FixtureWorkshop,
-            Vault
+            Vault,
+            BurrowPosts,
+            DailyDuties,
+            Rootrail
         }
 
         private ProfileService profileService;
@@ -27,6 +30,9 @@ namespace GnomeGame.UI
         private GameObject loamwakePage;
         private GameObject fixturePage;
         private GameObject vaultPage;
+        private GameObject burrowPostsPage;
+        private GameObject dailyDutiesPage;
+        private GameObject rootrailPage;
 
         private Text burrowWalletText;
         private Text burrowActionText;
@@ -35,6 +41,7 @@ namespace GnomeGame.UI
         private Text burrowStatusText;
         private Text rootmineText;
         private Text fixtureSummaryText;
+        private Text socialSummaryText;
         private Text fieldReturnsSnippetText;
         private Text burrowDebugText;
 
@@ -54,6 +61,12 @@ namespace GnomeGame.UI
         private Text fixtureDebugText;
         private Text vaultStatusText;
         private Text vaultDebugText;
+        private Text burrowPostsStatusText;
+        private Text burrowPostsDebugText;
+        private Text dailyDutiesStatusText;
+        private Text dailyDutiesDebugText;
+        private Text rootrailStatusText;
+        private Text rootrailDebugText;
 
         private Text enterLoamwakeButtonLabel;
         private Text ledgerhollowButtonLabel;
@@ -65,6 +78,9 @@ namespace GnomeGame.UI
         private Button expandButton;
         private Button openFixtureButton;
         private Button openVaultButton;
+        private Button openBurrowPostsButton;
+        private Button openDailyDutiesButton;
+        private Button openRootrailButton;
         private Button enterLoamwakeButton;
         private Button ledgerhollowButton;
         private Button memoryFenButton;
@@ -80,6 +96,10 @@ namespace GnomeGame.UI
         private Button equipFirstFixtureButton;
         private Button unequipFirstFixtureButton;
         private Button setFirstHatVisibleButton;
+        private Button readUtilityPostButton;
+        private Button readGretaIntroPostButton;
+        private Button completeGretaFollowupButton;
+        private Button completeRootrailRevealButton;
 
         private Text expandButtonLabel;
         private Text rootmineGatherLabel;
@@ -95,6 +115,10 @@ namespace GnomeGame.UI
         private Text equipFirstFixtureLabel;
         private Text unequipFirstFixtureLabel;
         private Text setFirstHatVisibleLabel;
+        private Text readUtilityPostLabel;
+        private Text readGretaIntroPostLabel;
+        private Text completeGretaFollowupLabel;
+        private Text completeRootrailRevealLabel;
 
         public void Initialize(ProfileService activeProfileService, SaveManager activeSaveManager, AuthManager activeAuthManager)
         {
@@ -142,11 +166,17 @@ namespace GnomeGame.UI
             loamwakePage = CreatePage(canvasObject.transform, "LoamwakePage");
             fixturePage = CreatePage(canvasObject.transform, "FixtureWorkshopPage");
             vaultPage = CreatePage(canvasObject.transform, "VaultPage");
+            burrowPostsPage = CreatePage(canvasObject.transform, "BurrowPostsPage");
+            dailyDutiesPage = CreatePage(canvasObject.transform, "DailyDutiesPage");
+            rootrailPage = CreatePage(canvasObject.transform, "RootrailPage");
 
             BuildBurrowPage(font);
             BuildLoamwakePage(font);
             BuildFixturePage(font);
             BuildVaultPage(font);
+            BuildBurrowPostsPage(font);
+            BuildDailyDutiesPage(font);
+            BuildRootrailPage(font);
         }
 
         private void BuildBurrowPage(Font font)
@@ -155,17 +185,17 @@ namespace GnomeGame.UI
             burrowWalletText = AddText(burrowPage.transform, font, "", 28, FontStyle.Bold, TextAnchor.MiddleLeft, 42f);
             burrowActionText = AddText(burrowPage.transform, font, "", 22, FontStyle.Normal, TextAnchor.MiddleLeft, 52f);
 
-            var dewpondCard = CreateCard(burrowPage.transform, "DewpondCard", 140f);
-            dewpondText = AddText(dewpondCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 70f);
+            var dewpondCard = CreateCard(burrowPage.transform, "DewpondCard", 130f);
+            dewpondText = AddText(dewpondCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
             Text unusedLabel;
             dewpondGatherButton = AddButton(dewpondCard.transform, font, "Gather Dewpond", OnGatherDewpondPressed, out unusedLabel);
 
-            var mushpatchCard = CreateCard(burrowPage.transform, "MushpatchCard", 140f);
-            mushpatchText = AddText(mushpatchCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 70f);
+            var mushpatchCard = CreateCard(burrowPage.transform, "MushpatchCard", 130f);
+            mushpatchText = AddText(mushpatchCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
             mushpatchGatherButton = AddButton(mushpatchCard.transform, font, "Gather Mushpatch", OnGatherMushpatchPressed, out unusedLabel);
 
-            var burrowCard = CreateCard(burrowPage.transform, "BurrowStatusCard", 150f);
-            burrowStatusText = AddText(burrowCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 76f);
+            var burrowCard = CreateCard(burrowPage.transform, "BurrowStatusCard", 140f);
+            burrowStatusText = AddText(burrowCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 68f);
             expandButton = AddButton(burrowCard.transform, font, "Expand Burrow", OnExpandPressed, out expandButtonLabel);
 
             var rootmineCard = CreateCard(burrowPage.transform, "RootmineCard", 300f);
@@ -177,23 +207,24 @@ namespace GnomeGame.UI
             var fixtureSummaryCard = CreateCard(burrowPage.transform, "FixtureSummaryCard", 106f);
             fixtureSummaryText = AddText(fixtureSummaryCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
 
-            var strataGateCard = CreateCard(burrowPage.transform, "StrataGateCard", 194f);
+            var socialCard = CreateCard(burrowPage.transform, "Sprint4SocialCard", 260f);
+            socialSummaryText = AddText(socialCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
+            openBurrowPostsButton = AddButton(socialCard.transform, font, "Burrow Post", OnOpenBurrowPostsPressed, out unusedLabel);
+            openDailyDutiesButton = AddButton(socialCard.transform, font, "Daily Duties", OnOpenDailyDutiesPressed, out unusedLabel);
+            openRootrailButton = AddButton(socialCard.transform, font, "Rootrail Station", OnOpenRootrailPressed, out unusedLabel);
+
+            var strataGateCard = CreateCard(burrowPage.transform, "StrataGateCard", 204f);
             AddText(strataGateCard.transform, font, "Strata Gate", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             enterLoamwakeButton = AddButton(strataGateCard.transform, font, "Enter Loamwake", OnEnterLoamwakePressed, out enterLoamwakeButtonLabel);
             ledgerhollowButton = AddButton(strataGateCard.transform, font, "Ledgerhollow (Unavailable)", null, out ledgerhollowButtonLabel);
             memoryFenButton = AddButton(strataGateCard.transform, font, "Memory Fen (Unavailable)", null, out memoryFenButtonLabel);
 
-            var returnsCard = CreateCard(burrowPage.transform, "FieldReturnsCard", 78f);
-            fieldReturnsSnippetText = AddText(returnsCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 42f);
+            var returnsCard = CreateCard(burrowPage.transform, "FieldReturnsCard", 70f);
+            fieldReturnsSnippetText = AddText(returnsCard.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 36f);
 
-            var saveActionsCard = CreateCard(burrowPage.transform, "SaveActionsCard", 150f);
-            AddText(saveActionsCard.transform, font, "Debug actions", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            AddButton(saveActionsCard.transform, font, "Force Save", OnForceSavePressed, out unusedLabel);
-            AddButton(saveActionsCard.transform, font, "Reload Save", OnReloadPressed, out unusedLabel);
-
-            var debugPanel = CreateCard(burrowPage.transform, "BurrowDebugPanel", 170f);
+            var debugPanel = CreateCard(burrowPage.transform, "BurrowDebugPanel", 150f);
             AddText(debugPanel.transform, font, "Burrow Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            burrowDebugText = AddText(debugPanel.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 104f);
+            burrowDebugText = AddText(debugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 84f);
         }
 
         private void BuildLoamwakePage(Font font)
@@ -283,6 +314,61 @@ namespace GnomeGame.UI
             vaultDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
         }
 
+        private void BuildBurrowPostsPage(Font font)
+        {
+            var topNavCard = CreateCard(burrowPostsPage.transform, "BurrowPostsTopNavigationCard", 84f);
+            Text unusedLabel;
+            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+
+            AddText(burrowPostsPage.transform, font, "Burrow Post", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+
+            var postCard = CreateCard(burrowPostsPage.transform, "BurrowPostsCard", 310f);
+            burrowPostsStatusText = AddText(postCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 148f);
+            readUtilityPostButton = AddButton(postCard.transform, font, "Read Root Twine Run", OnReadUtilityPostPressed, out readUtilityPostLabel);
+            readGretaIntroPostButton = AddButton(postCard.transform, font, "Read Greta Intro Post", OnReadGretaIntroPostPressed, out readGretaIntroPostLabel);
+
+            var gretaCard = CreateCard(burrowPostsPage.transform, "GretaFollowupCard", 174f);
+            AddText(gretaCard.transform, font, "Greta", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
+            completeGretaFollowupButton = AddButton(gretaCard.transform, font, "Complete Greta Follow-Up", OnCompleteGretaFollowupPressed, out completeGretaFollowupLabel);
+            completeRootrailRevealButton = AddButton(gretaCard.transform, font, "Follow Greta to the Old Track", OnCompleteRootrailRevealPressed, out completeRootrailRevealLabel);
+
+            var debugPanel = CreateCard(burrowPostsPage.transform, "BurrowPostsDebugPanel", 220f);
+            AddText(debugPanel.transform, font, "Burrow Post Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
+            burrowPostsDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+        }
+
+        private void BuildDailyDutiesPage(Font font)
+        {
+            var topNavCard = CreateCard(dailyDutiesPage.transform, "DailyDutiesTopNavigationCard", 84f);
+            Text unusedLabel;
+            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+
+            AddText(dailyDutiesPage.transform, font, "Daily Duties", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+
+            var dutiesCard = CreateCard(dailyDutiesPage.transform, "DailyDutiesCard", 360f);
+            dailyDutiesStatusText = AddText(dutiesCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 316f);
+
+            var debugPanel = CreateCard(dailyDutiesPage.transform, "DailyDutiesDebugPanel", 220f);
+            AddText(debugPanel.transform, font, "Daily Duties Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
+            dailyDutiesDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+        }
+
+        private void BuildRootrailPage(Font font)
+        {
+            var topNavCard = CreateCard(rootrailPage.transform, "RootrailTopNavigationCard", 84f);
+            Text unusedLabel;
+            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+
+            AddText(rootrailPage.transform, font, "Rootrail Station", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+
+            var stationCard = CreateCard(rootrailPage.transform, "RootrailStationShellCard", 320f);
+            rootrailStatusText = AddText(stationCard.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 276f);
+
+            var debugPanel = CreateCard(rootrailPage.transform, "RootrailDebugPanel", 220f);
+            AddText(debugPanel.transform, font, "Rootrail Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
+            rootrailDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+        }
+
         private void Refresh()
         {
             var profile = profileService.Profile;
@@ -303,6 +389,7 @@ namespace GnomeGame.UI
             var loamwake = profile.strata_state.loamwake;
             var nextExpandCost = profileService.GetNextExpandCost();
             FixtureStateHelper.EnsureDefaults(profile);
+            SocialProgressService.EnsureDefaults(profile);
 
             burrowWalletText.text = "Mooncaps: " + snapshot.mooncaps + "   Mushcaps: " + snapshot.mushcaps +
                 "   Twine: " + profile.wallet.loamwake_materials.tangled_root_twine +
@@ -344,6 +431,12 @@ namespace GnomeGame.UI
                 "   Owned Fixtures: " + profile.fixture_state.fixture_inventory.Count + "\n" +
                 "Visible Hat: " + (string.IsNullOrEmpty(profile.hat_state.visible_hat_id) ? "None" : FixtureStateHelper.FirstHatDisplayName) +
                 "   Power bonus: +" + FixtureStateHelper.GetTotalExpeditionPowerBonus(profile);
+
+            socialSummaryText.text =
+                "Burrow Post / Daily Duties / Greta\n" +
+                "Greta: " + (profile.social_progress.greta.unlocked ? "Unlocked" : "Locked") +
+                "   Trust: " + profile.social_progress.greta.trust_level + "\n" +
+                "Rootrail: " + (profile.social_progress.rootrail.revealed ? "Station shell revealed" : "Not revealed yet");
 
             fieldReturnsSnippetText.text = BuildFieldReturnsSnippet(loamwake.field_returns);
 
@@ -449,6 +542,36 @@ namespace GnomeGame.UI
                 "Owned treasure count: " + profile.vault_state.owned_treasure_count + "\n" +
                 "Save path: " + snapshot.save_file_path;
 
+            burrowPostsStatusText.text = BuildBurrowPostsStatus(profile);
+            burrowPostsDebugText.text =
+                "Auth state: " + snapshot.auth_state + "\n" +
+                "Save state: " + snapshot.save_state + "\n" +
+                "Latest social result: " + profile.social_progress.latest_result_summary + "\n" +
+                "Greta first follow-up: " + profile.social_progress.greta.first_followup_completed + "\n" +
+                "Save path: " + snapshot.save_file_path;
+
+            dailyDutiesStatusText.text = BuildDailyDutiesStatus(profile);
+            dailyDutiesDebugText.text =
+                "Auth state: " + snapshot.auth_state + "\n" +
+                "Save state: " + snapshot.save_state + "\n" +
+                "Daily Duty count: " + profile.social_progress.daily_duties.Count + "\n" +
+                "Latest social result: " + profile.social_progress.latest_result_summary + "\n" +
+                "Save path: " + snapshot.save_file_path;
+
+            rootrailStatusText.text =
+                "Rootrail Terminal - Loamwake Station\n" +
+                "Reveal state: " + (profile.social_progress.rootrail.revealed ? "Revealed" : "Hidden") + "\n" +
+                "Station shell: " + (profile.social_progress.rootrail.station_visible ? "Visible" : "Locked") + "\n" +
+                "Repair progression: " + (profile.social_progress.rootrail.repair_progression_enabled ? "Enabled" : "Not implemented in Sprint 4") + "\n" +
+                "Forgotten Manual: Loamwake Terminal Routing Manual - Not in Codex\n" +
+                profile.social_progress.rootrail.status_note;
+            rootrailDebugText.text =
+                "Auth state: " + snapshot.auth_state + "\n" +
+                "Save state: " + snapshot.save_state + "\n" +
+                "Repair timer started: " + profile.social_progress.rootrail.repair_timer_started + "\n" +
+                "Current repair step: " + (string.IsNullOrEmpty(profile.social_progress.rootrail.current_step_id) ? "none" : profile.social_progress.rootrail.current_step_id) + "\n" +
+                "Rootrail Parts: " + profile.wallet.rootrail_parts;
+
             dewpondGatherButton.interactable = burrow.dewpond.stored_output > 0;
             mushpatchGatherButton.interactable = burrow.mushpatch.stored_output > 0;
             rootmineGatherButton.interactable = BurrowProductionService.CanGather(burrow.rootmine);
@@ -476,6 +599,26 @@ namespace GnomeGame.UI
             setFirstHatVisibleLabel.text = FixtureStateHelper.HasHat(profile, FixtureStateHelper.FirstHatId)
                 ? "Set Loamwake Dirt Cap Visible"
                 : "Hat Locked";
+
+            var utilityPost = SocialProgressService.GetPost(profile, SocialProgressService.UtilityPostId);
+            var gretaPost = SocialProgressService.GetPost(profile, SocialProgressService.GretaIntroPostId);
+            readUtilityPostButton.interactable = utilityPost != null && !utilityPost.completed && utilityPost.state != "locked";
+            readUtilityPostLabel.text = utilityPost != null && utilityPost.completed ? "Root Twine Run Completed" : "Read Root Twine Run";
+            readGretaIntroPostButton.interactable = gretaPost != null && !gretaPost.completed && gretaPost.state != "locked";
+            readGretaIntroPostLabel.text = gretaPost != null && gretaPost.completed
+                ? "Greta Intro Completed"
+                : (gretaPost != null && gretaPost.state == "locked" ? "Greta Intro Locked" : "Read Greta Intro Post");
+            completeGretaFollowupButton.interactable = profile.social_progress.greta.unlocked && !profile.social_progress.greta.first_followup_completed;
+            completeGretaFollowupLabel.text = profile.social_progress.greta.first_followup_completed
+                ? "Greta Follow-Up Completed"
+                : "Complete Greta Follow-Up";
+            completeRootrailRevealButton.interactable = profile.social_progress.greta.first_followup_completed &&
+                loamwake.zone_lw_002_mudpipe_hollow.first_clear &&
+                !profile.social_progress.rootrail.revealed;
+            completeRootrailRevealLabel.text = profile.social_progress.rootrail.revealed
+                ? "Rootrail Revealed"
+                : "Follow Greta to the Old Track";
+            openRootrailButton.interactable = profile.social_progress.rootrail.station_visible;
 
             enterLoamwakeButton.interactable = profileService.IsStratumSelectable(LoamwakeExplorationService.StratumId);
             enterLoamwakeButtonLabel.text = "Enter Loamwake";
@@ -544,6 +687,24 @@ namespace GnomeGame.UI
             Refresh();
         }
 
+        private void OnOpenBurrowPostsPressed()
+        {
+            currentScreen = ScreenPage.BurrowPosts;
+            Refresh();
+        }
+
+        private void OnOpenDailyDutiesPressed()
+        {
+            currentScreen = ScreenPage.DailyDuties;
+            Refresh();
+        }
+
+        private void OnOpenRootrailPressed()
+        {
+            currentScreen = ScreenPage.Rootrail;
+            Refresh();
+        }
+
         private void OnEnterLoamwakePressed()
         {
             profileService.EnterLoamwake();
@@ -581,6 +742,26 @@ namespace GnomeGame.UI
         private void OnSetFirstHatVisiblePressed()
         {
             profileService.SetFirstHatVisible();
+        }
+
+        private void OnReadUtilityPostPressed()
+        {
+            profileService.ReadUtilityBurrowPost();
+        }
+
+        private void OnReadGretaIntroPostPressed()
+        {
+            profileService.ReadGretaIntroPost();
+        }
+
+        private void OnCompleteGretaFollowupPressed()
+        {
+            profileService.CompleteGretaFirstFollowup();
+        }
+
+        private void OnCompleteRootrailRevealPressed()
+        {
+            profileService.RevealRootrailStation();
         }
 
         private void OnZone1SafePressed()
@@ -634,6 +815,53 @@ namespace GnomeGame.UI
             loamwakePage.SetActive(currentScreen == ScreenPage.Loamwake);
             fixturePage.SetActive(currentScreen == ScreenPage.FixtureWorkshop);
             vaultPage.SetActive(currentScreen == ScreenPage.Vault);
+            burrowPostsPage.SetActive(currentScreen == ScreenPage.BurrowPosts);
+            dailyDutiesPage.SetActive(currentScreen == ScreenPage.DailyDuties);
+            rootrailPage.SetActive(currentScreen == ScreenPage.Rootrail);
+        }
+
+        private static string BuildBurrowPostsStatus(PlayerProfileData profile)
+        {
+            return "Available Burrow Posts\n" +
+                FormatPost(SocialProgressService.GetPost(profile, SocialProgressService.UtilityPostId)) + "\n" +
+                FormatPost(SocialProgressService.GetPost(profile, SocialProgressService.GretaIntroPostId)) + "\n\n" +
+                "Greta: " + (profile.social_progress.greta.unlocked ? "Unlocked" : "Locked") +
+                "   Trust: " + profile.social_progress.greta.trust_level + "\n" +
+                "Rootrail reveal gate: Greta follow-up + Mudpipe Hollow first clear";
+        }
+
+        private static string BuildDailyDutiesStatus(PlayerProfileData profile)
+        {
+            var value = "Daily Duties prototype loop\n";
+            for (var i = 0; i < profile.social_progress.daily_duties.Count; i++)
+            {
+                value += FormatDuty(profile.social_progress.daily_duties[i]) + "\n";
+            }
+
+            value += "\nRewards auto-claim when progress reaches target.";
+            return value;
+        }
+
+        private static string FormatPost(BurrowPostStateData post)
+        {
+            if (post == null)
+            {
+                return "Missing Post state";
+            }
+
+            return post.title + " - " + post.state + (post.unread ? " / unread" : " / read");
+        }
+
+        private static string FormatDuty(DailyDutyStateData duty)
+        {
+            if (duty == null)
+            {
+                return "Missing Duty state";
+            }
+
+            return duty.title + ": " + duty.progress + "/" + duty.target +
+                " - " + (duty.completed ? "completed" : "active") +
+                " - " + duty.reward_summary;
         }
 
         private static string BuildEquippedFixtureList(PlayerProfileData profile)
@@ -816,12 +1044,12 @@ namespace GnomeGame.UI
             button.colors = colors;
 
             var rect = buttonObject.GetComponent<RectTransform>();
-            rect.sizeDelta = new Vector2(0f, 58f);
+            rect.sizeDelta = new Vector2(0f, 48f);
 
             var layout = buttonObject.AddComponent<LayoutElement>();
-            layout.preferredHeight = 58f;
+            layout.preferredHeight = 48f;
 
-            labelText = AddText(buttonObject.transform, font, label, 22, FontStyle.Bold, TextAnchor.MiddleCenter, 58f);
+            labelText = AddText(buttonObject.transform, font, label, 20, FontStyle.Bold, TextAnchor.MiddleCenter, 48f);
             var labelRect = labelText.GetComponent<RectTransform>();
             labelRect.anchorMin = Vector2.zero;
             labelRect.anchorMax = Vector2.one;
