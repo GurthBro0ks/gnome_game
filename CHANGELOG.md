@@ -1,5 +1,27 @@
 # CHANGELOG
 
+## v0.12.1 — Manual Unity Verification Passed (2026-04-22)
+
+### Verified
+- Manual Unity verification of build 8091b49 + 7795237 completed with PASS across all 12 checked areas
+- No blocking bugs found
+- Core loop, navigation, and save/restore confirmed working
+
+### Known Non-Blocking Issues
+- Some Burrow and main-screen text is clipped or hidden lower on the page
+- Layout remains text-heavy and vertically cramped in places
+
+### Added
+- `docs/08_production/prototype_manual_verification_report.md` — final manual verification result
+- `docs/08_production/prototype_summary_and_scope_report.md` — what the prototype includes after Sprint 0–7
+- `docs/08_production/prototype_polish_backlog.md` — remaining non-blocking polish items
+- `docs/08_production/recent_commits_summary.md` — PM-readable commit trail summary
+
+### Status
+Prototype verification complete. Remaining issues are UI readability/polish, not progression blockers.
+
+---
+
 ## v0.12.0 — Phase 3 Sprint 7 Tutorial Wiring, Stabilization, Tester Proof Pack (2026-04-21)
 
 ### Added

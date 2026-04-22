@@ -1,5 +1,30 @@
 # claude-progress.md
 
+## Manual Verification Complete — 2026-04-22
+
+### What happened this session
+Manual Unity verification of build 8091b49 + 7795237 completed.
+All 12 checked areas passed. No blocking bugs confirmed.
+Non-blocking issues: Burrow/main-screen text clipping and vertically cramped layout remain.
+Created the final prototype report pack: manual verification report, summary and scope report, polish backlog, and commits summary.
+Updated CHANGELOG with verification result.
+
+### Current state
+- Sprint 0: complete
+- Sprint 1: complete
+- Sprint 2: complete
+- Sprint 3: complete
+- Sprint 4: complete
+- Sprint 5: complete
+- Sprint 6: complete
+- Sprint 7: complete
+- Manual verification: PASS
+
+### Next step
+Polish pass or future systems expansion per polish backlog
+
+---
+
 ## Phase 3 Sprint 7 — Burrow default Game view UI bugfix — 2026-04-22
 
 ### What happened this session
