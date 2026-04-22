@@ -221,52 +221,61 @@ namespace GnomeGame.UI
 
         private void BuildBurrowPage(Font font)
         {
-            AddText(burrowPage.transform, font, "The Burrow", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
-            burrowWalletText = AddText(burrowPage.transform, font, "", 28, FontStyle.Bold, TextAnchor.MiddleLeft, 42f);
-            burrowActionText = AddText(burrowPage.transform, font, "", 22, FontStyle.Normal, TextAnchor.MiddleLeft, 52f);
+            var headerCard = CreateCard(burrowPage.transform, "BurrowFixedHeader", 420f);
+            AddText(headerCard.transform, font, "The Burrow", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+            burrowWalletText = AddText(headerCard.transform, font, "", 23, FontStyle.Bold, TextAnchor.MiddleLeft, 64f);
+            burrowActionText = AddText(headerCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.MiddleLeft, 88f);
 
-            var dewpondCard = CreateCard(burrowPage.transform, "DewpondCard", 130f);
-            dewpondText = AddText(dewpondCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
             Text unusedLabel;
+            var primaryRow = CreateButtonRow(headerCard.transform, "BurrowPrimaryActionRow");
+            enterLoamwakeButton = AddButton(primaryRow.transform, font, "Enter Loamwake", OnEnterLoamwakePressed, out enterLoamwakeButtonLabel);
+            openBurrowPostsButton = AddButton(primaryRow.transform, font, "Burrow Post", OnOpenBurrowPostsPressed, out unusedLabel);
+            openDailyDutiesButton = AddButton(primaryRow.transform, font, "Daily Duties", OnOpenDailyDutiesPressed, out unusedLabel);
+
+            var systemsRow = CreateButtonRow(headerCard.transform, "BurrowSystemsActionRow");
+            openRootrailButton = AddButton(systemsRow.transform, font, "Rootrail Station", OnOpenRootrailPressed, out unusedLabel);
+            openLuckyDrawButton = AddButton(systemsRow.transform, font, "Lucky Draw Week", OnOpenLuckyDrawPressed, out openLuckyDrawLabel);
+            openFixtureButton = AddButton(systemsRow.transform, font, "Fixture Workshop", OnOpenFixturePressed, out unusedLabel);
+
+            var shellRow = CreateButtonRow(headerCard.transform, "BurrowShellActionRow");
+            openVaultButton = AddButton(shellRow.transform, font, "Vault of Treasures", OnOpenVaultPressed, out unusedLabel);
+            ledgerhollowButton = AddButton(shellRow.transform, font, "Ledgerhollow (Unavailable)", OnOpenCrackPressed, out ledgerhollowButtonLabel);
+            memoryFenButton = AddButton(shellRow.transform, font, "Memory Fen (Unavailable)", OnOpenCliquePressed, out memoryFenButtonLabel);
+
+            var body = CreateScrollBody(burrowPage.transform, "BurrowScrollableBody");
+
+            var dewpondCard = CreateCard(body, "DewpondCard", 130f);
+            dewpondText = AddText(dewpondCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
             dewpondGatherButton = AddButton(dewpondCard.transform, font, "Gather Dewpond", OnGatherDewpondPressed, out unusedLabel);
 
-            var mushpatchCard = CreateCard(burrowPage.transform, "MushpatchCard", 130f);
+            var mushpatchCard = CreateCard(body, "MushpatchCard", 130f);
             mushpatchText = AddText(mushpatchCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
             mushpatchGatherButton = AddButton(mushpatchCard.transform, font, "Gather Mushpatch", OnGatherMushpatchPressed, out unusedLabel);
 
-            var burrowCard = CreateCard(burrowPage.transform, "BurrowStatusCard", 140f);
-            burrowStatusText = AddText(burrowCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 68f);
+            var burrowCard = CreateCard(body, "BurrowStatusCard", 160f);
+            burrowStatusText = AddText(burrowCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 88f);
             expandButton = AddButton(burrowCard.transform, font, "Expand Burrow", OnExpandPressed, out expandButtonLabel);
 
-            var rootmineCard = CreateCard(burrowPage.transform, "RootmineCard", 248f);
-            rootmineText = AddText(rootmineCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 76f);
+            var rootmineCard = CreateCard(body, "RootmineCard", 180f);
+            rootmineText = AddText(rootmineCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 108f);
             rootmineGatherButton = AddButton(rootmineCard.transform, font, "Gather Rootmine", OnGatherRootminePressed, out rootmineGatherLabel);
-            openFixtureButton = AddButton(rootmineCard.transform, font, "Fixture Workshop", OnOpenFixturePressed, out unusedLabel);
-            openVaultButton = AddButton(rootmineCard.transform, font, "Vault of Treasures", OnOpenVaultPressed, out unusedLabel);
 
-            var fixtureSummaryCard = CreateCard(burrowPage.transform, "FixtureSummaryCard", 106f);
-            fixtureSummaryText = AddText(fixtureSummaryCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
+            var fixtureSummaryCard = CreateCard(body, "FixtureSummaryCard", 126f);
+            fixtureSummaryText = AddText(fixtureSummaryCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 86f);
 
-            var socialCard = CreateCard(burrowPage.transform, "Sprint4SocialCard", 312f);
-            socialSummaryText = AddText(socialCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
-            openBurrowPostsButton = AddButton(socialCard.transform, font, "Burrow Post", OnOpenBurrowPostsPressed, out unusedLabel);
-            openDailyDutiesButton = AddButton(socialCard.transform, font, "Daily Duties", OnOpenDailyDutiesPressed, out unusedLabel);
-            openRootrailButton = AddButton(socialCard.transform, font, "Rootrail Station", OnOpenRootrailPressed, out unusedLabel);
-            openLuckyDrawButton = AddButton(socialCard.transform, font, "Lucky Draw Week", OnOpenLuckyDrawPressed, out openLuckyDrawLabel);
+            var socialCard = CreateCard(body, "Sprint4SocialCard", 150f);
+            socialSummaryText = AddText(socialCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 112f);
 
-            var strataGateCard = CreateCard(burrowPage.transform, "StrataGateCard", 204f);
+            var strataGateCard = CreateCard(body, "StrataGateCard", 58f);
             AddText(strataGateCard.transform, font, "Strata Gate", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            enterLoamwakeButton = AddButton(strataGateCard.transform, font, "Enter Loamwake", OnEnterLoamwakePressed, out enterLoamwakeButtonLabel);
-            ledgerhollowButton = AddButton(strataGateCard.transform, font, "Ledgerhollow (Unavailable)", OnOpenCrackPressed, out ledgerhollowButtonLabel);
-            memoryFenButton = AddButton(strataGateCard.transform, font, "Memory Fen (Unavailable)", OnOpenCliquePressed, out memoryFenButtonLabel);
 
-            var returnsCard = CreateCard(burrowPage.transform, "FieldReturnsCard", 70f);
-            fieldReturnsSnippetText = AddText(returnsCard.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 36f);
+            var returnsCard = CreateCard(body, "FieldReturnsCard", 96f);
+            fieldReturnsSnippetText = AddText(returnsCard.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
 
-            var debugPanel = CreateCard(burrowPage.transform, "BurrowDebugPanel", 150f);
+            var debugPanel = CreateCard(body, "BurrowDebugPanel", 180f);
             AddText(debugPanel.transform, font, "Burrow Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             AddButton(debugPanel.transform, font, "Reset Guide", OnResetTutorialGuidePressed, out unusedLabel);
-            burrowDebugText = AddText(debugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 36f);
+            burrowDebugText = AddText(debugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
         }
 
         private void BuildLoamwakePage(Font font)
@@ -275,38 +284,40 @@ namespace GnomeGame.UI
             Text unusedLabel;
             AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
 
-            AddText(loamwakePage.transform, font, "Loamwake", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
-            loamwakeWalletText = AddText(loamwakePage.transform, font, "", 28, FontStyle.Bold, TextAnchor.MiddleLeft, 42f);
-            loamwakeActionText = AddText(loamwakePage.transform, font, "", 22, FontStyle.Normal, TextAnchor.MiddleLeft, 52f);
+            var body = CreateScrollBody(loamwakePage.transform, "LoamwakeScrollableBody");
 
-            var zone1Card = CreateCard(loamwakePage.transform, "Zone1Card", 220f);
+            AddText(body, font, "Loamwake", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+            loamwakeWalletText = AddText(body, font, "", 28, FontStyle.Bold, TextAnchor.MiddleLeft, 42f);
+            loamwakeActionText = AddText(body, font, "", 22, FontStyle.Normal, TextAnchor.MiddleLeft, 72f);
+
+            var zone1Card = CreateCard(body, "Zone1Card", 220f);
             zone1Text = AddText(zone1Card.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 98f);
             zone1SafeButton = AddButton(zone1Card.transform, font, "Safe Route", OnZone1SafePressed, out zone1SafeLabel);
             zone1RiskyButton = AddButton(zone1Card.transform, font, "Risky Route", OnZone1RiskyPressed, out zone1RiskyLabel);
 
-            var zone2Card = CreateCard(loamwakePage.transform, "Zone2Card", 220f);
+            var zone2Card = CreateCard(body, "Zone2Card", 220f);
             zone2Text = AddText(zone2Card.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 98f);
             zone2SafeButton = AddButton(zone2Card.transform, font, "Safe Route", OnZone2SafePressed, out zone2SafeLabel);
             zone2RiskyButton = AddButton(zone2Card.transform, font, "Risky Route", OnZone2RiskyPressed, out zone2RiskyLabel);
 
-            var zone3Card = CreateCard(loamwakePage.transform, "Zone3Card", 220f);
+            var zone3Card = CreateCard(body, "Zone3Card", 220f);
             zone3Text = AddText(zone3Card.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 98f);
             zone3SafeButton = AddButton(zone3Card.transform, font, "Safe Route", OnZone3SafePressed, out zone3SafeLabel);
             zone3RiskyButton = AddButton(zone3Card.transform, font, "Risky Route", OnZone3RiskyPressed, out zone3RiskyLabel);
 
-            var keeperCard = CreateCard(loamwakePage.transform, "KeeperCard", 176f);
+            var keeperCard = CreateCard(body, "KeeperCard", 176f);
             keeperText = AddText(keeperCard.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 88f);
             keeperButton = AddButton(keeperCard.transform, font, "Challenge Warden", OnKeeperPressed, out keeperButtonLabel);
 
-            var returnsCard = CreateCard(loamwakePage.transform, "LoamwakeReturnsCard", 150f);
+            var returnsCard = CreateCard(body, "LoamwakeReturnsCard", 150f);
             loamwakeFieldReturnsText = AddText(returnsCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 104f);
 
-            var navCard = CreateCard(loamwakePage.transform, "NavigationCard", 150f);
+            var navCard = CreateCard(body, "NavigationCard", 150f);
             AddText(navCard.transform, font, "Navigation", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             AddButton(navCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
             AddButton(navCard.transform, font, "Force Save", OnForceSavePressed, out unusedLabel);
 
-            var debugPanel = CreateCard(loamwakePage.transform, "LoamwakeDebugPanel", 240f);
+            var debugPanel = CreateCard(body, "LoamwakeDebugPanel", 240f);
             AddText(debugPanel.transform, font, "Loamwake Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             loamwakeDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 170f);
         }
@@ -317,25 +328,27 @@ namespace GnomeGame.UI
             Text unusedLabel;
             AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
 
-            AddText(fixturePage.transform, font, "Fixture Workshop", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
-            fixtureWalletText = AddText(fixturePage.transform, font, "", 24, FontStyle.Bold, TextAnchor.MiddleLeft, 64f);
-            fixtureActionText = AddText(fixturePage.transform, font, "", 22, FontStyle.Normal, TextAnchor.MiddleLeft, 48f);
+            var body = CreateScrollBody(fixturePage.transform, "FixtureScrollableBody");
 
-            var craftCard = CreateCard(fixturePage.transform, "FirstFixtureCraftCard", 240f);
-            fixtureCraftText = AddText(craftCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 88f);
+            AddText(body, font, "Fixture Workshop", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+            fixtureWalletText = AddText(body, font, "", 24, FontStyle.Bold, TextAnchor.MiddleLeft, 64f);
+            fixtureActionText = AddText(body, font, "", 22, FontStyle.Normal, TextAnchor.MiddleLeft, 72f);
+
+            var craftCard = CreateCard(body, "FirstFixtureCraftCard", 260f);
+            fixtureCraftText = AddText(craftCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 108f);
             unlockFixtureCapButton = AddButton(craftCard.transform, font, "Unlock First Fixture Cap", OnUnlockFixtureCapPressed, out unlockFixtureCapLabel);
             craftFirstFixtureButton = AddButton(craftCard.transform, font, "Craft Root-Bitten Shovel Strap", OnCraftFirstFixturePressed, out craftFirstFixtureLabel);
 
-            var inventoryCard = CreateCard(fixturePage.transform, "FixtureInventoryCard", 240f);
-            fixtureInventoryText = AddText(inventoryCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 88f);
+            var inventoryCard = CreateCard(body, "FixtureInventoryCard", 260f);
+            fixtureInventoryText = AddText(inventoryCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 108f);
             equipFirstFixtureButton = AddButton(inventoryCard.transform, font, "Equip First Fixture", OnEquipFirstFixturePressed, out equipFirstFixtureLabel);
             unequipFirstFixtureButton = AddButton(inventoryCard.transform, font, "Unequip First Fixture", OnUnequipFirstFixturePressed, out unequipFirstFixtureLabel);
 
-            var hatCard = CreateCard(fixturePage.transform, "HatShellCard", 176f);
-            fixtureHatText = AddText(hatCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 88f);
+            var hatCard = CreateCard(body, "HatShellCard", 196f);
+            fixtureHatText = AddText(hatCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 108f);
             setFirstHatVisibleButton = AddButton(hatCard.transform, font, "Set Visible Hat", OnSetFirstHatVisiblePressed, out setFirstHatVisibleLabel);
 
-            var debugPanel = CreateCard(fixturePage.transform, "FixtureDebugPanel", 220f);
+            var debugPanel = CreateCard(body, "FixtureDebugPanel", 220f);
             AddText(debugPanel.transform, font, "Fixture Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             fixtureDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
         }
@@ -346,12 +359,14 @@ namespace GnomeGame.UI
             Text unusedLabel;
             AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
 
-            AddText(vaultPage.transform, font, "Vault of Treasures", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+            var body = CreateScrollBody(vaultPage.transform, "VaultScrollableBody");
 
-            var shellCard = CreateCard(vaultPage.transform, "VaultShellCard", 240f);
+            AddText(body, font, "Vault of Treasures", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+
+            var shellCard = CreateCard(body, "VaultShellCard", 240f);
             vaultStatusText = AddText(shellCard.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 196f);
 
-            var debugPanel = CreateCard(vaultPage.transform, "VaultDebugPanel", 220f);
+            var debugPanel = CreateCard(body, "VaultDebugPanel", 220f);
             AddText(debugPanel.transform, font, "Vault Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             vaultDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
         }
@@ -362,19 +377,21 @@ namespace GnomeGame.UI
             Text unusedLabel;
             AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
 
-            AddText(burrowPostsPage.transform, font, "Burrow Post", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+            var body = CreateScrollBody(burrowPostsPage.transform, "BurrowPostsScrollableBody");
 
-            var postCard = CreateCard(burrowPostsPage.transform, "BurrowPostsCard", 310f);
+            AddText(body, font, "Burrow Post", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+
+            var postCard = CreateCard(body, "BurrowPostsCard", 310f);
             burrowPostsStatusText = AddText(postCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 148f);
             readUtilityPostButton = AddButton(postCard.transform, font, "Read Root Twine Run", OnReadUtilityPostPressed, out readUtilityPostLabel);
             readGretaIntroPostButton = AddButton(postCard.transform, font, "Read Greta Intro Post", OnReadGretaIntroPostPressed, out readGretaIntroPostLabel);
 
-            var gretaCard = CreateCard(burrowPostsPage.transform, "GretaFollowupCard", 174f);
+            var gretaCard = CreateCard(body, "GretaFollowupCard", 174f);
             AddText(gretaCard.transform, font, "Greta", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             completeGretaFollowupButton = AddButton(gretaCard.transform, font, "Complete Greta Follow-Up", OnCompleteGretaFollowupPressed, out completeGretaFollowupLabel);
             completeRootrailRevealButton = AddButton(gretaCard.transform, font, "Follow Greta to the Old Track", OnCompleteRootrailRevealPressed, out completeRootrailRevealLabel);
 
-            var debugPanel = CreateCard(burrowPostsPage.transform, "BurrowPostsDebugPanel", 220f);
+            var debugPanel = CreateCard(body, "BurrowPostsDebugPanel", 220f);
             AddText(debugPanel.transform, font, "Burrow Post Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             burrowPostsDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
         }
@@ -385,12 +402,14 @@ namespace GnomeGame.UI
             Text unusedLabel;
             AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
 
-            AddText(dailyDutiesPage.transform, font, "Daily Duties", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+            var body = CreateScrollBody(dailyDutiesPage.transform, "DailyDutiesScrollableBody");
 
-            var dutiesCard = CreateCard(dailyDutiesPage.transform, "DailyDutiesCard", 360f);
+            AddText(body, font, "Daily Duties", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+
+            var dutiesCard = CreateCard(body, "DailyDutiesCard", 360f);
             dailyDutiesStatusText = AddText(dutiesCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 316f);
 
-            var debugPanel = CreateCard(dailyDutiesPage.transform, "DailyDutiesDebugPanel", 220f);
+            var debugPanel = CreateCard(body, "DailyDutiesDebugPanel", 220f);
             AddText(debugPanel.transform, font, "Daily Duties Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             dailyDutiesDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
         }
@@ -401,12 +420,14 @@ namespace GnomeGame.UI
             Text unusedLabel;
             AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
 
-            AddText(rootrailPage.transform, font, "Rootrail Station", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+            var body = CreateScrollBody(rootrailPage.transform, "RootrailScrollableBody");
 
-            var stationCard = CreateCard(rootrailPage.transform, "RootrailStationShellCard", 320f);
+            AddText(body, font, "Rootrail Station", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+
+            var stationCard = CreateCard(body, "RootrailStationShellCard", 320f);
             rootrailStatusText = AddText(stationCard.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 276f);
 
-            var debugPanel = CreateCard(rootrailPage.transform, "RootrailDebugPanel", 220f);
+            var debugPanel = CreateCard(body, "RootrailDebugPanel", 220f);
             AddText(debugPanel.transform, font, "Rootrail Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             rootrailDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
         }
@@ -417,25 +438,27 @@ namespace GnomeGame.UI
             Text unusedLabel;
             AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
 
-            AddText(luckyDrawPage.transform, font, "Lucky Draw Week", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+            var body = CreateScrollBody(luckyDrawPage.transform, "LuckyDrawScrollableBody");
 
-            var statusCard = CreateCard(luckyDrawPage.transform, "LuckyDrawStatusCard", 250f);
-            luckyDrawStatusText = AddText(statusCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 88f);
+            AddText(body, font, "Lucky Draw Week", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+
+            var statusCard = CreateCard(body, "LuckyDrawStatusCard", 310f);
+            luckyDrawStatusText = AddText(statusCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 148f);
             claimLuckyDrawWeeklyButton = AddButton(statusCard.transform, font, "Claim Weekly Lucky Draw", OnClaimLuckyDrawWeeklyPressed, out claimLuckyDrawWeeklyLabel);
             pullLuckyDrawButton = AddButton(statusCard.transform, font, "Pull Lucky Draw", OnPullLuckyDrawPressed, out pullLuckyDrawLabel);
 
-            var ledgerCard = CreateCard(luckyDrawPage.transform, "FestivalLedgerFreeLaneCard", 270f);
+            var ledgerCard = CreateCard(body, "FestivalLedgerFreeLaneCard", 270f);
             luckyDrawLedgerText = AddText(ledgerCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 198f);
             claimFestivalLedgerButton = AddButton(ledgerCard.transform, font, "Claim Festival Ledger Reward", OnClaimFestivalLedgerPressed, out claimFestivalLedgerLabel);
 
-            var stallCard = CreateCard(luckyDrawPage.transform, "LuckyStallCard", 350f);
-            luckyDrawStallText = AddText(stallCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 126f);
+            var stallCard = CreateCard(body, "LuckyStallCard", 390f);
+            luckyDrawStallText = AddText(stallCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 166f);
             buyMooncapDrawButton = AddButton(stallCard.transform, font, "Buy Mooncap Lucky Draw", OnBuyMooncapDrawPressed, out buyMooncapDrawLabel);
             buyMaterialCacheButton = AddButton(stallCard.transform, font, "Buy Material Cache", OnBuyMaterialCachePressed, out buyMaterialCacheLabel);
             buyPolishBundleButton = AddButton(stallCard.transform, font, "Buy Polish Bundle", OnBuyPolishBundlePressed, out buyPolishBundleLabel);
             buyFestivalExchangeButton = AddButton(stallCard.transform, font, "Buy Festival Marks Exchange", OnBuyFestivalExchangePressed, out buyFestivalExchangeLabel);
 
-            var debugPanel = CreateCard(luckyDrawPage.transform, "LuckyDrawDebugPanel", 220f);
+            var debugPanel = CreateCard(body, "LuckyDrawDebugPanel", 220f);
             AddText(debugPanel.transform, font, "Lucky Draw / Stall Debug", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             luckyDrawDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
         }
@@ -446,13 +469,15 @@ namespace GnomeGame.UI
             Text unusedLabel;
             AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
 
-            AddText(crackPage.transform, font, "The Crack", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+            var body = CreateScrollBody(crackPage.transform, "CrackScrollableBody");
 
-            var statusCard = CreateCard(crackPage.transform, "CrackProbeCard", 370f);
-            crackStatusText = AddText(statusCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 246f);
+            AddText(body, font, "The Crack", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+
+            var statusCard = CreateCard(body, "CrackProbeCard", 390f);
+            crackStatusText = AddText(statusCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 266f);
             probeCrackButton = AddButton(statusCard.transform, font, "Probe the Crack", OnProbeCrackPressed, out probeCrackLabel);
 
-            var debugPanel = CreateCard(crackPage.transform, "CrackDebugPanel", 220f);
+            var debugPanel = CreateCard(body, "CrackDebugPanel", 220f);
             AddText(debugPanel.transform, font, "Crack Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             crackDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
         }
@@ -463,13 +488,15 @@ namespace GnomeGame.UI
             Text unusedLabel;
             AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
 
-            AddText(cliquePage.transform, font, "Clique", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+            var body = CreateScrollBody(cliquePage.transform, "CliqueScrollableBody");
 
-            var statusCard = CreateCard(cliquePage.transform, "CliqueShellCard", 500f);
-            cliqueStatusText = AddText(statusCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 376f);
+            AddText(body, font, "Clique", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+
+            var statusCard = CreateCard(body, "CliqueShellCard", 520f);
+            cliqueStatusText = AddText(statusCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 396f);
             claimCliqueStipendButton = AddButton(statusCard.transform, font, "Claim Local Clique Stipend", OnClaimCliqueStipendPressed, out claimCliqueStipendLabel);
 
-            var debugPanel = CreateCard(cliquePage.transform, "CliqueDebugPanel", 220f);
+            var debugPanel = CreateCard(body, "CliqueDebugPanel", 220f);
             AddText(debugPanel.transform, font, "Clique Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
             cliqueDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
         }
@@ -1272,7 +1299,7 @@ namespace GnomeGame.UI
             layout.padding = new RectOffset(18, 18, 18, 18);
             layout.spacing = 8;
             layout.childControlWidth = true;
-            layout.childControlHeight = false;
+            layout.childControlHeight = true;
             layout.childForceExpandWidth = true;
             layout.childForceExpandHeight = false;
 
@@ -1297,6 +1324,78 @@ namespace GnomeGame.UI
             layout.childForceExpandHeight = false;
 
             return card;
+        }
+
+        private static GameObject CreateButtonRow(Transform parent, string name)
+        {
+            var row = new GameObject(name, typeof(RectTransform));
+            row.transform.SetParent(parent, false);
+
+            var rect = row.GetComponent<RectTransform>();
+            rect.sizeDelta = new Vector2(0f, 48f);
+
+            var layoutElement = row.AddComponent<LayoutElement>();
+            layoutElement.preferredHeight = 48f;
+
+            var layout = row.AddComponent<HorizontalLayoutGroup>();
+            layout.spacing = 8;
+            layout.childControlWidth = true;
+            layout.childControlHeight = true;
+            layout.childForceExpandWidth = true;
+            layout.childForceExpandHeight = true;
+
+            return row;
+        }
+
+        private static Transform CreateScrollBody(Transform parent, string name)
+        {
+            var scrollObject = CreatePanel(parent, name, new Color(0.1f, 0.12f, 0.11f, 0.35f));
+            var scrollRectTransform = scrollObject.GetComponent<RectTransform>();
+
+            var layoutElement = scrollObject.AddComponent<LayoutElement>();
+            layoutElement.flexibleHeight = 1f;
+            layoutElement.minHeight = 180f;
+
+            var scrollRect = scrollObject.AddComponent<ScrollRect>();
+            scrollRect.horizontal = false;
+            scrollRect.vertical = true;
+            scrollRect.movementType = ScrollRect.MovementType.Clamped;
+            scrollRect.scrollSensitivity = 36f;
+
+            var viewportObject = CreatePanel(scrollObject.transform, name + "Viewport", new Color(0f, 0f, 0f, 0f));
+            var viewportRect = viewportObject.GetComponent<RectTransform>();
+            viewportRect.anchorMin = Vector2.zero;
+            viewportRect.anchorMax = Vector2.one;
+            viewportRect.offsetMin = Vector2.zero;
+            viewportRect.offsetMax = Vector2.zero;
+            viewportObject.AddComponent<RectMask2D>();
+
+            var contentObject = new GameObject(name + "Content", typeof(RectTransform));
+            contentObject.transform.SetParent(viewportObject.transform, false);
+            var contentRect = contentObject.GetComponent<RectTransform>();
+            contentRect.anchorMin = new Vector2(0f, 1f);
+            contentRect.anchorMax = new Vector2(1f, 1f);
+            contentRect.pivot = new Vector2(0.5f, 1f);
+            contentRect.offsetMin = Vector2.zero;
+            contentRect.offsetMax = Vector2.zero;
+
+            var layout = contentObject.AddComponent<VerticalLayoutGroup>();
+            layout.padding = new RectOffset(0, 0, 0, 0);
+            layout.spacing = 8;
+            layout.childControlWidth = true;
+            layout.childControlHeight = false;
+            layout.childForceExpandWidth = true;
+            layout.childForceExpandHeight = false;
+
+            var fitter = contentObject.AddComponent<ContentSizeFitter>();
+            fitter.horizontalFit = ContentSizeFitter.FitMode.Unconstrained;
+            fitter.verticalFit = ContentSizeFitter.FitMode.PreferredSize;
+
+            scrollRect.viewport = viewportRect;
+            scrollRect.content = contentRect;
+
+            scrollRectTransform.sizeDelta = Vector2.zero;
+            return contentObject.transform;
         }
 
         private static GameObject CreatePanel(Transform parent, string name, Color color)

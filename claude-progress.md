@@ -1,5 +1,12 @@
 # claude-progress.md
 
+## Phase 3 Sprint 7 — Burrow default Game view UI bugfix — 2026-04-22
+
+### What happened this session
+- Reworked `BurrowDebugUI` so Burrow has a fixed header with wallet, guide/next-step text, and major prototype destinations.
+- Moved Burrow production summaries, social/event summaries, field returns, and debug/status blocks into a scrollable body.
+- Applied the same fixed-back-navigation plus scrollable-body pattern to long non-Burrow debug pages so required controls and status text stay reachable at default Game view.
+
 ## Phase 3 Sprint 7 — tutorial wiring, Warden polish, stabilization pass — 2026-04-21
 
 ### What happened this session

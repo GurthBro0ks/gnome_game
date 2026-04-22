@@ -8,6 +8,7 @@
 - Operator Unity smoke checklist, 5-tester checklist, and bug report template under `docs/08_production/`
 
 ### Changed
+- Burrow and long debug UI pages now keep top navigation/action controls fixed while moving summaries, descriptions, and debug/status blocks into scrollable bodies for default Game view usability
 - Fresh profiles now start with gatherable Dewpond/Mushpatch output so a cold tester can Gather and Expand immediately
 - Rootvine Shelf first clear now grants the intended first-craft packet for Root-Bitten Shovel Strap
 - First capstone presentation now reads as The Mudgrip Warden / Warden Clash instead of generic Keeper-facing UI text
