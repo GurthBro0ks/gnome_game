@@ -1,5 +1,38 @@
 # CHANGELOG
 
+## v0.13.0 — Phase 4A Prototype UI/Visual Cleanup (2026-04-22)
+
+### Changed
+- Burrow page: converted from debug-text-heavy layout into a card/panel-based playable hub with section titles for each production building, fixture summary, social progress, and field returns
+- All 9 secondary pages (Loamwake, Fixture Workshop, Vault, Burrow Posts, Daily Duties, Rootrail, Lucky Draw, Crack, Clique): normalized to a consistent `CreateNavHeader()` pattern with Back to Burrow + page title
+- Debug/status panels on all 10 pages: now hidden by default behind a single global toggle button (Debug: Show / Debug: Hide) — diagnostics remain fully accessible but no longer dominate the player-facing experience
+- Card heights increased across dense content cards (zones, status, social, crack, clique) to fix clipped text
+- Card spacing increased from 8→10, card padding adjusted, button heights reduced from 48→44 for tighter rows
+- Background and card colors refined for slightly better contrast
+- Status text condensed from multi-line verbose labels to compact inline format (e.g. "Auth: ... Save: ... Path: ...")
+- Burrow Dewpond/Mushpatch cards now show single-line level + stored/cap instead of multi-line verbose
+- Removed redundant duplicate Back to Burrow + Force Save buttons from Loamwake bottom nav (already in top nav)
+- Removed redundant "Strata Gate" label card from Burrow body (navigation is in the header)
+- Added `CreateNavHeader()` and `AddSectionTitle()` shared UI helpers
+
+### Preserved
+- All 43 button handlers with identical ProfileService calls
+- All static helper references (FixtureStateHelper, SocialProgressService, LuckyDrawEventService, CrackCliqueService, BurrowProductionService, DebugStatusSnapshot)
+- All button interactability logic and label text
+- All page navigation (Back to Burrow, screen switching)
+- Save/load, autosave, and profile mutation behavior untouched
+- No gameplay logic changes
+
+### Trust Audit Corrections (same session)
+- Fixed 7 CS0128 compile errors: `out var _` reused in same method scope in `BuildBurrowPage()` — replaced with single `Text unusedLabel` variable matching original pattern
+- Restored Force Save and Reload Save buttons: moved from removed Loamwake bottom nav to Burrow debug panel (behind the debug toggle)
+- Sprint 4/5/6/7 Mono verification harnesses: all PASS after fix
+
+### Status
+Phase 4A complete with audit corrections applied. UI is cleaner, consistent, and debug info is accessible but not dominating. Ready for next visual pass or content expansion.
+
+---
+
 ## v0.12.1 — Manual Unity Verification Passed (2026-04-22)
 
 ### Verified

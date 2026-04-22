@@ -1,5 +1,53 @@
 # claude-progress.md
 
+## Phase 4A — Prototype UI/Visual Cleanup — 2026-04-22
+
+### What happened this session
+Executed Phase 4A — a focused UI/visual cleanup pass on the verified first-playable prototype.
+Refactored `BurrowDebugUI.cs` (the single file driving all prototype UI) to improve readability, consistency, and presentation without touching gameplay logic.
+Trust audit found and fixed compile errors and lost operator controls before final verification.
+Final trust-audit pass confirmed all 6 sub-steps (4A-1 through 4A-6) are present in repo and verified by compile/trust checks plus Sprint 4/5/6/7 harnesses.
+
+### File changed
+- `src/unity/Assets/Scripts/UI/BurrowDebugUI.cs` — full visual refactor (1479→1527 lines)
+
+### Changes summary
+1. **4A-1 — Shared UI pattern**: Added `CreateNavHeader()` and `AddSectionTitle()` helpers; global `debugExpanded` toggle controls all 10 debug panels; `OnToggleDebugPressed()` wired to Burrow header
+2. **4A-2 — Burrow conversion**: Card-based hub with section titles (Dewpond, Mushpatch, Burrow Status, Rootmine, Fixture/Hat, Social Progress, Field Returns); debug panel behind toggle with Force Save + Reload Save
+3. **4A-3 — Secondary pages**: Loamwake, Fixture Workshop, Burrow Posts, Daily Duties, Lucky Draw Week — all use `CreateNavHeader`, titled cards, debug behind toggle
+4. **4A-4 — Shell pages**: Vault, Rootrail, Crack, Clique — consistent pattern, shell messaging preserved, debug behind toggle
+5. **4A-5 — Navigation normalization**: Consistent Back to Burrow on all pages; spacing 10; buttons 44px; increased card heights; colors refined
+6. **4A-6 — Regression**: Mono compile clean; Sprint 4/5/6/7 harnesses PASS; trust audit corrected 7 CS0128 errors and restored lost operator controls
+
+### Trust audit findings and corrections
+- **7 compile errors (CS0128)**: `out var _` reused in same method scope in `BuildBurrowPage()` — fixed by using single `Text unusedLabel` variable
+- **Lost operator controls**: `Force Save` and `Reload Save` buttons were unwired dead code — restored to Burrow debug panel (behind toggle)
+- **Premature tracking**: feature_list.json claimed `passes: true` before compile check was run
+
+### Verification (post-audit)
+- Mono compile/trust check: zero non-UnityEngine errors; `BurrowDebugUI.cs` reaches only expected missing UnityEngine/UI reference errors under standalone Mono outside the Unity Editor
+- Sprint 4 harness: PASS
+- Sprint 5 harness: PASS
+- Sprint 6 harness: PASS
+- Sprint 7 harness: PASS
+
+### What was NOT changed
+- Zero gameplay logic changes
+- All save/load behavior untouched
+- All static helper references untouched
+- No new data model fields, currencies, economy changes, backend, or content
+
+### Current state
+- Phase 3 (Sprints 0–7): complete
+- Manual verification: PASS
+- Phase 4A (UI/Visual Cleanup): complete (4A-1 through 4A-6 all verified)
+- feature_list.json: granular tracking added (ui-4a-001 through ui-4a-006)
+
+### Next step
+PM decides between targeted internal playtest (Option B from PM report) or selective system expansion.
+
+---
+
 ## Manual Verification Complete — 2026-04-22
 
 ### What happened this session

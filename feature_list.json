@@ -2,7 +2,7 @@
     "_meta": {
     "project": "gnome_game",
     "scope": "game-design-repo",
-    "last_updated": "2026-04-20",
+    "last_updated": "2026-04-22",
     "rules": "NEVER remove or edit existing features. Only update 'passes' after verification. Add new features at the end. The 'risk' field guides Prompt P planning depth."
   },
   "features": [
@@ -561,6 +561,90 @@
       "added": "2026-04-20",
       "completed": "2026-04-21",
       "verification": "Aggregate Mono harness verified fresh-profile boot, persisted tutorial guidance/dismiss/reset state, immediate Gather/Expand path, first-clear Fixture affordability, first Fixture craft/equip, Greta/Rootrail progression, The Mudgrip Warden presentation path, Lucky Draw free path only, Crack/Clique stub safety, save/load restoration for major state families, legacy additive migration, and no monetization/networking activation"
+    },
+    {
+      "id": "phase-4a",
+      "project": "gnome_game",
+      "description": "Phase 4A — Prototype UI/Visual Cleanup (umbrella)",
+      "priority": "high",
+      "passes": true,
+      "risk": "low",
+      "qa_verified": false,
+      "added": "2026-04-22",
+      "completed": "2026-04-22",
+      "verification": "Mono compile: zero non-Unity errors. Sprint 4/5/6/7 harnesses PASS. Trust audit corrected compile errors and lost operator controls. See ui-4a-001 through ui-4a-006 for granular tracking."
+    },
+    {
+      "id": "ui-4a-001",
+      "project": "gnome_game",
+      "description": "4A-1: Reusable card/panel helpers + debug toggle system (CreateNavHeader, AddSectionTitle, global debug toggle, collapsible debug panels on all pages)",
+      "priority": "high",
+      "passes": true,
+      "risk": "low",
+      "qa_verified": false,
+      "added": "2026-04-22",
+      "completed": "2026-04-22",
+      "verification": "CreateNavHeader() used by all 9 secondary pages. AddSectionTitle() used by all cards. debugExpanded bool controls all 10 debug panels. OnToggleDebugPressed() wired to Burrow header. Mono compile clean."
+    },
+    {
+      "id": "ui-4a-002",
+      "project": "gnome_game",
+      "description": "4A-2: Burrow main screen conversion (card-based hub with section titles, compact status text, scrollable body, debug behind toggle)",
+      "priority": "high",
+      "passes": true,
+      "risk": "low",
+      "qa_verified": false,
+      "added": "2026-04-22",
+      "completed": "2026-04-22",
+      "verification": "BuildBurrowPage() creates fixed header with wallet/guide/nav + scrollable body with titled cards for Dewpond, Mushpatch, Burrow Status, Rootmine, Fixture/Hat Summary, Social Progress, Field Returns. Debug panel behind toggle. Force Save and Reload Save in debug panel."
+    },
+    {
+      "id": "ui-4a-003",
+      "project": "gnome_game",
+      "description": "4A-3: Secondary pages conversion (Loamwake, Fixture Workshop, Burrow Posts, Daily Duties, Lucky Draw Week — normalized nav headers, section titles, debug behind toggle)",
+      "priority": "high",
+      "passes": true,
+      "risk": "low",
+      "qa_verified": false,
+      "added": "2026-04-22",
+      "completed": "2026-04-22",
+      "verification": "All 5 pages use CreateNavHeader(). All have section-titled cards. All have debug panels behind toggle. Zone route buttons in dedicated rows. Warden card titled. Lucky Draw has Stall + Ledger sections."
+    },
+    {
+      "id": "ui-4a-004",
+      "project": "gnome_game",
+      "description": "4A-4: Shell pages cleanup (Vault, Rootrail, Crack, Clique — consistent pattern, debug behind toggle, shell messaging preserved)",
+      "priority": "medium",
+      "passes": true,
+      "risk": "low",
+      "qa_verified": false,
+      "added": "2026-04-22",
+      "completed": "2026-04-22",
+      "verification": "All 4 shell pages use CreateNavHeader(). Vault shows treasure stub. Rootrail shows terminal shell. Crack shows probe loop. Clique shows roster/stipend. Debug panels behind toggle. Shell-only messaging preserved."
+    },
+    {
+      "id": "ui-4a-005",
+      "project": "gnome_game",
+      "description": "4A-5: Navigation/header normalization (consistent Back to Burrow pattern, card spacing 10, button height 44, increased card heights for dense content)",
+      "priority": "medium",
+      "passes": true,
+      "risk": "low",
+      "qa_verified": false,
+      "added": "2026-04-22",
+      "completed": "2026-04-22",
+      "verification": "All pages use same CreateNavHeader with Back to Burrow. Spacing 10, buttons 44px, dense cards increased (zones 250, crack 420, clique 560). Colors refined. Redundant Loamwake bottom nav removed."
+    },
+    {
+      "id": "ui-4a-006",
+      "project": "gnome_game",
+      "description": "4A-6: Post-conversion regression and verification pass (Mono compile check, Sprint 4-7 harness run, operator control audit)",
+      "priority": "high",
+      "passes": true,
+      "risk": "low",
+      "qa_verified": false,
+      "added": "2026-04-22",
+      "completed": "2026-04-22",
+      "verification": "Mono compile: zero non-Unity errors (CS0246 only for UnityEngine types, expected outside Editor). Sprint 4 PASS. Sprint 5 PASS. Sprint 6 PASS. Sprint 7 PASS. Trust audit: fixed 7 CS0128 errors, restored Force Save + Reload Save to Burrow debug panel. All 43 button handlers wired."
     }
   ]
 }

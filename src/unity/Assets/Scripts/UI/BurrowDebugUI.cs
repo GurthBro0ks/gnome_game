@@ -28,6 +28,7 @@ namespace GnomeGame.UI
         private AuthManager authManager;
 
         private ScreenPage currentScreen = ScreenPage.Burrow;
+        private bool debugExpanded;
 
         private GameObject burrowPage;
         private GameObject loamwakePage;
@@ -154,6 +155,20 @@ namespace GnomeGame.UI
         private Text probeCrackLabel;
         private Text claimCliqueStipendLabel;
 
+        private GameObject burrowDebugPanel;
+        private GameObject loamwakeDebugPanel;
+        private GameObject fixtureDebugPanel;
+        private GameObject vaultDebugPanel;
+        private GameObject burrowPostsDebugPanel;
+        private GameObject dailyDutiesDebugPanel;
+        private GameObject rootrailDebugPanel;
+        private GameObject luckyDrawDebugPanel;
+        private GameObject crackDebugPanel;
+        private GameObject cliqueDebugPanel;
+
+        private Button debugToggleBurrowButton;
+        private Text debugToggleBurrowLabel;
+
         public void Initialize(ProfileService activeProfileService, SaveManager activeSaveManager, AuthManager activeAuthManager)
         {
             profileService = activeProfileService;
@@ -183,7 +198,7 @@ namespace GnomeGame.UI
                 font = Resources.GetBuiltinResource<Font>("Arial.ttf");
             }
 
-            var canvasObject = new GameObject("Sprint2Canvas", typeof(RectTransform));
+            var canvasObject = new GameObject("Phase4ACanvas", typeof(RectTransform));
             canvasObject.transform.SetParent(transform, false);
 
             var canvas = canvasObject.AddComponent<Canvas>();
@@ -221,284 +236,285 @@ namespace GnomeGame.UI
 
         private void BuildBurrowPage(Font font)
         {
-            var headerCard = CreateCard(burrowPage.transform, "BurrowFixedHeader", 420f);
-            AddText(headerCard.transform, font, "The Burrow", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
-            burrowWalletText = AddText(headerCard.transform, font, "", 23, FontStyle.Bold, TextAnchor.MiddleLeft, 64f);
-            burrowActionText = AddText(headerCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.MiddleLeft, 88f);
-
             Text unusedLabel;
-            var primaryRow = CreateButtonRow(headerCard.transform, "BurrowPrimaryActionRow");
-            enterLoamwakeButton = AddButton(primaryRow.transform, font, "Enter Loamwake", OnEnterLoamwakePressed, out enterLoamwakeButtonLabel);
-            openBurrowPostsButton = AddButton(primaryRow.transform, font, "Burrow Post", OnOpenBurrowPostsPressed, out unusedLabel);
-            openDailyDutiesButton = AddButton(primaryRow.transform, font, "Daily Duties", OnOpenDailyDutiesPressed, out unusedLabel);
 
-            var systemsRow = CreateButtonRow(headerCard.transform, "BurrowSystemsActionRow");
-            openRootrailButton = AddButton(systemsRow.transform, font, "Rootrail Station", OnOpenRootrailPressed, out unusedLabel);
-            openLuckyDrawButton = AddButton(systemsRow.transform, font, "Lucky Draw Week", OnOpenLuckyDrawPressed, out openLuckyDrawLabel);
-            openFixtureButton = AddButton(systemsRow.transform, font, "Fixture Workshop", OnOpenFixturePressed, out unusedLabel);
+            var headerCard = CreateCard(burrowPage.transform, "BurrowFixedHeader", 460f);
+            AddSectionTitle(headerCard.transform, font, "The Burrow");
+            burrowWalletText = AddText(headerCard.transform, font, "", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
+            burrowActionText = AddText(headerCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.MiddleLeft, 56f);
 
-            var shellRow = CreateButtonRow(headerCard.transform, "BurrowShellActionRow");
-            openVaultButton = AddButton(shellRow.transform, font, "Vault of Treasures", OnOpenVaultPressed, out unusedLabel);
-            ledgerhollowButton = AddButton(shellRow.transform, font, "Ledgerhollow (Unavailable)", OnOpenCrackPressed, out ledgerhollowButtonLabel);
-            memoryFenButton = AddButton(shellRow.transform, font, "Memory Fen (Unavailable)", OnOpenCliquePressed, out memoryFenButtonLabel);
+            var navRow1 = CreateButtonRow(headerCard.transform, "BurrowNavRow1", 52f);
+            enterLoamwakeButton = AddButton(navRow1.transform, font, "Enter Loamwake", OnEnterLoamwakePressed, out enterLoamwakeButtonLabel);
+            openBurrowPostsButton = AddButton(navRow1.transform, font, "Burrow Post", OnOpenBurrowPostsPressed, out unusedLabel);
+            openDailyDutiesButton = AddButton(navRow1.transform, font, "Daily Duties", OnOpenDailyDutiesPressed, out unusedLabel);
+
+            var navRow2 = CreateButtonRow(headerCard.transform, "BurrowNavRow2", 52f);
+            openRootrailButton = AddButton(navRow2.transform, font, "Rootrail Station", OnOpenRootrailPressed, out unusedLabel);
+            openLuckyDrawButton = AddButton(navRow2.transform, font, "Lucky Draw Week", OnOpenLuckyDrawPressed, out openLuckyDrawLabel);
+            openFixtureButton = AddButton(navRow2.transform, font, "Fixture Workshop", OnOpenFixturePressed, out unusedLabel);
+
+            var navRow3 = CreateButtonRow(headerCard.transform, "BurrowNavRow3", 52f);
+            openVaultButton = AddButton(navRow3.transform, font, "Vault of Treasures", OnOpenVaultPressed, out unusedLabel);
+            ledgerhollowButton = AddButton(navRow3.transform, font, "Ledgerhollow (Unavailable)", OnOpenCrackPressed, out ledgerhollowButtonLabel);
+            memoryFenButton = AddButton(navRow3.transform, font, "Memory Fen (Unavailable)", OnOpenCliquePressed, out memoryFenButtonLabel);
+
+            var debugToggleRow = CreateButtonRow(headerCard.transform, "DebugToggleRow", 44f);
+            debugToggleBurrowButton = AddButton(debugToggleRow.transform, font, "Debug: Show", OnToggleDebugPressed, out debugToggleBurrowLabel);
 
             var body = CreateScrollBody(burrowPage.transform, "BurrowScrollableBody");
 
-            var dewpondCard = CreateCard(body, "DewpondCard", 130f);
-            dewpondText = AddText(dewpondCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
+            var dewpondCard = CreateCard(body, "DewpondCard", 140f);
+            AddSectionTitle(dewpondCard.transform, font, "Dewpond");
+            dewpondText = AddText(dewpondCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 54f);
             dewpondGatherButton = AddButton(dewpondCard.transform, font, "Gather Dewpond", OnGatherDewpondPressed, out unusedLabel);
 
-            var mushpatchCard = CreateCard(body, "MushpatchCard", 130f);
-            mushpatchText = AddText(mushpatchCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
+            var mushpatchCard = CreateCard(body, "MushpatchCard", 140f);
+            AddSectionTitle(mushpatchCard.transform, font, "Mushpatch");
+            mushpatchText = AddText(mushpatchCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 54f);
             mushpatchGatherButton = AddButton(mushpatchCard.transform, font, "Gather Mushpatch", OnGatherMushpatchPressed, out unusedLabel);
 
             var burrowCard = CreateCard(body, "BurrowStatusCard", 160f);
-            burrowStatusText = AddText(burrowCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 88f);
+            AddSectionTitle(burrowCard.transform, font, "Burrow Status");
+            burrowStatusText = AddText(burrowCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 66f);
             expandButton = AddButton(burrowCard.transform, font, "Expand Burrow", OnExpandPressed, out expandButtonLabel);
 
-            var rootmineCard = CreateCard(body, "RootmineCard", 180f);
-            rootmineText = AddText(rootmineCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 108f);
+            var rootmineCard = CreateCard(body, "RootmineCard", 160f);
+            AddSectionTitle(rootmineCard.transform, font, "Rootmine");
+            rootmineText = AddText(rootmineCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 76f);
             rootmineGatherButton = AddButton(rootmineCard.transform, font, "Gather Rootmine", OnGatherRootminePressed, out rootmineGatherLabel);
 
-            var fixtureSummaryCard = CreateCard(body, "FixtureSummaryCard", 126f);
-            fixtureSummaryText = AddText(fixtureSummaryCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 86f);
+            var fixtureSummaryCard = CreateCard(body, "FixtureSummaryCard", 100f);
+            AddSectionTitle(fixtureSummaryCard.transform, font, "Fixture / Hat Summary");
+            fixtureSummaryText = AddText(fixtureSummaryCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 48f);
 
-            var socialCard = CreateCard(body, "Sprint4SocialCard", 150f);
-            socialSummaryText = AddText(socialCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 112f);
+            var socialCard = CreateCard(body, "SocialSummaryCard", 120f);
+            AddSectionTitle(socialCard.transform, font, "Social Progress");
+            socialSummaryText = AddText(socialCard.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 70f);
 
-            var strataGateCard = CreateCard(body, "StrataGateCard", 58f);
-            AddText(strataGateCard.transform, font, "Strata Gate", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
+            var returnsCard = CreateCard(body, "FieldReturnsCard", 100f);
+            AddSectionTitle(returnsCard.transform, font, "Field Returns");
+            fieldReturnsSnippetText = AddText(returnsCard.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 52f);
 
-            var returnsCard = CreateCard(body, "FieldReturnsCard", 96f);
-            fieldReturnsSnippetText = AddText(returnsCard.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
-
-            var debugPanel = CreateCard(body, "BurrowDebugPanel", 180f);
-            AddText(debugPanel.transform, font, "Burrow Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            AddButton(debugPanel.transform, font, "Reset Guide", OnResetTutorialGuidePressed, out unusedLabel);
-            burrowDebugText = AddText(debugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 62f);
+            burrowDebugPanel = CreateCard(body, "BurrowDebugPanel", 260f);
+            AddSectionTitle(burrowDebugPanel.transform, font, "Debug / Status");
+            AddButton(burrowDebugPanel.transform, font, "Reset Guide", OnResetTutorialGuidePressed, out unusedLabel);
+            AddButton(burrowDebugPanel.transform, font, "Force Save", OnForceSavePressed, out unusedLabel);
+            AddButton(burrowDebugPanel.transform, font, "Reload Save", OnReloadPressed, out unusedLabel);
+            burrowDebugText = AddText(burrowDebugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 80f);
+            burrowDebugPanel.SetActive(false);
         }
 
         private void BuildLoamwakePage(Font font)
         {
-            var topNavCard = CreateCard(loamwakePage.transform, "LoamwakeTopNavigationCard", 94f);
-            Text unusedLabel;
-            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+            CreateNavHeader(loamwakePage.transform, font, "Loamwake", out var _);
 
             var body = CreateScrollBody(loamwakePage.transform, "LoamwakeScrollableBody");
 
-            AddText(body, font, "Loamwake", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
-            loamwakeWalletText = AddText(body, font, "", 28, FontStyle.Bold, TextAnchor.MiddleLeft, 42f);
-            loamwakeActionText = AddText(body, font, "", 22, FontStyle.Normal, TextAnchor.MiddleLeft, 72f);
+            loamwakeWalletText = AddText(body, font, "", 24, FontStyle.Bold, TextAnchor.MiddleLeft, 40f);
+            loamwakeActionText = AddText(body, font, "", 18, FontStyle.Normal, TextAnchor.MiddleLeft, 60f);
 
-            var zone1Card = CreateCard(body, "Zone1Card", 220f);
-            zone1Text = AddText(zone1Card.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 98f);
-            zone1SafeButton = AddButton(zone1Card.transform, font, "Safe Route", OnZone1SafePressed, out zone1SafeLabel);
-            zone1RiskyButton = AddButton(zone1Card.transform, font, "Risky Route", OnZone1RiskyPressed, out zone1RiskyLabel);
+            var zone1Card = CreateCard(body, "Zone1Card", 250f);
+            AddSectionTitle(zone1Card.transform, font, "Rootvine Shelf");
+            zone1Text = AddText(zone1Card.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 80f);
+            var z1Row = CreateButtonRow(zone1Card.transform, "Zone1RouteRow", 48f);
+            zone1SafeButton = AddButton(z1Row.transform, font, "Safe Route", OnZone1SafePressed, out zone1SafeLabel);
+            zone1RiskyButton = AddButton(z1Row.transform, font, "Risky Route", OnZone1RiskyPressed, out zone1RiskyLabel);
 
-            var zone2Card = CreateCard(body, "Zone2Card", 220f);
-            zone2Text = AddText(zone2Card.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 98f);
-            zone2SafeButton = AddButton(zone2Card.transform, font, "Safe Route", OnZone2SafePressed, out zone2SafeLabel);
-            zone2RiskyButton = AddButton(zone2Card.transform, font, "Risky Route", OnZone2RiskyPressed, out zone2RiskyLabel);
+            var zone2Card = CreateCard(body, "Zone2Card", 250f);
+            AddSectionTitle(zone2Card.transform, font, "Mudpipe Hollow");
+            zone2Text = AddText(zone2Card.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 80f);
+            var z2Row = CreateButtonRow(zone2Card.transform, "Zone2RouteRow", 48f);
+            zone2SafeButton = AddButton(z2Row.transform, font, "Safe Route", OnZone2SafePressed, out zone2SafeLabel);
+            zone2RiskyButton = AddButton(z2Row.transform, font, "Risky Route", OnZone2RiskyPressed, out zone2RiskyLabel);
 
-            var zone3Card = CreateCard(body, "Zone3Card", 220f);
-            zone3Text = AddText(zone3Card.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 98f);
-            zone3SafeButton = AddButton(zone3Card.transform, font, "Safe Route", OnZone3SafePressed, out zone3SafeLabel);
-            zone3RiskyButton = AddButton(zone3Card.transform, font, "Risky Route", OnZone3RiskyPressed, out zone3RiskyLabel);
+            var zone3Card = CreateCard(body, "Zone3Card", 250f);
+            AddSectionTitle(zone3Card.transform, font, "Glowroot Passage");
+            zone3Text = AddText(zone3Card.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 80f);
+            var z3Row = CreateButtonRow(zone3Card.transform, "Zone3RouteRow", 48f);
+            zone3SafeButton = AddButton(z3Row.transform, font, "Safe Route", OnZone3SafePressed, out zone3SafeLabel);
+            zone3RiskyButton = AddButton(z3Row.transform, font, "Risky Route", OnZone3RiskyPressed, out zone3RiskyLabel);
 
-            var keeperCard = CreateCard(body, "KeeperCard", 176f);
-            keeperText = AddText(keeperCard.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 88f);
+            var keeperCard = CreateCard(body, "KeeperCard", 200f);
+            AddSectionTitle(keeperCard.transform, font, "First Warden: The Mudgrip");
+            keeperText = AddText(keeperCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 90f);
             keeperButton = AddButton(keeperCard.transform, font, "Challenge Warden", OnKeeperPressed, out keeperButtonLabel);
 
-            var returnsCard = CreateCard(body, "LoamwakeReturnsCard", 150f);
-            loamwakeFieldReturnsText = AddText(returnsCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 104f);
+            var returnsCard = CreateCard(body, "LoamwakeReturnsCard", 160f);
+            AddSectionTitle(returnsCard.transform, font, "Field Returns");
+            loamwakeFieldReturnsText = AddText(returnsCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 100f);
 
-            var navCard = CreateCard(body, "NavigationCard", 150f);
-            AddText(navCard.transform, font, "Navigation", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            AddButton(navCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
-            AddButton(navCard.transform, font, "Force Save", OnForceSavePressed, out unusedLabel);
-
-            var debugPanel = CreateCard(body, "LoamwakeDebugPanel", 240f);
-            AddText(debugPanel.transform, font, "Loamwake Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            loamwakeDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 170f);
+            loamwakeDebugPanel = CreateCard(body, "LoamwakeDebugPanel", 260f);
+            AddSectionTitle(loamwakeDebugPanel.transform, font, "Debug / Status");
+            loamwakeDebugText = AddText(loamwakeDebugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 180f);
+            loamwakeDebugPanel.SetActive(false);
         }
 
         private void BuildFixturePage(Font font)
         {
-            var topNavCard = CreateCard(fixturePage.transform, "FixtureTopNavigationCard", 94f);
-            Text unusedLabel;
-            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+            CreateNavHeader(fixturePage.transform, font, "Fixture Workshop", out var _);
 
             var body = CreateScrollBody(fixturePage.transform, "FixtureScrollableBody");
 
-            AddText(body, font, "Fixture Workshop", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
-            fixtureWalletText = AddText(body, font, "", 24, FontStyle.Bold, TextAnchor.MiddleLeft, 64f);
-            fixtureActionText = AddText(body, font, "", 22, FontStyle.Normal, TextAnchor.MiddleLeft, 72f);
+            fixtureWalletText = AddText(body, font, "", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 48f);
+            fixtureActionText = AddText(body, font, "", 18, FontStyle.Normal, TextAnchor.MiddleLeft, 60f);
 
-            var craftCard = CreateCard(body, "FirstFixtureCraftCard", 260f);
-            fixtureCraftText = AddText(craftCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 108f);
+            var craftCard = CreateCard(body, "FirstFixtureCraftCard", 280f);
+            AddSectionTitle(craftCard.transform, font, "Craft First Fixture");
+            fixtureCraftText = AddText(craftCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 100f);
             unlockFixtureCapButton = AddButton(craftCard.transform, font, "Unlock First Fixture Cap", OnUnlockFixtureCapPressed, out unlockFixtureCapLabel);
             craftFirstFixtureButton = AddButton(craftCard.transform, font, "Craft Root-Bitten Shovel Strap", OnCraftFirstFixturePressed, out craftFirstFixtureLabel);
 
-            var inventoryCard = CreateCard(body, "FixtureInventoryCard", 260f);
-            fixtureInventoryText = AddText(inventoryCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 108f);
+            var inventoryCard = CreateCard(body, "FixtureInventoryCard", 280f);
+            AddSectionTitle(inventoryCard.transform, font, "Fixture Inventory");
+            fixtureInventoryText = AddText(inventoryCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 100f);
             equipFirstFixtureButton = AddButton(inventoryCard.transform, font, "Equip First Fixture", OnEquipFirstFixturePressed, out equipFirstFixtureLabel);
             unequipFirstFixtureButton = AddButton(inventoryCard.transform, font, "Unequip First Fixture", OnUnequipFirstFixturePressed, out unequipFirstFixtureLabel);
 
-            var hatCard = CreateCard(body, "HatShellCard", 196f);
-            fixtureHatText = AddText(hatCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 108f);
+            var hatCard = CreateCard(body, "HatShellCard", 220f);
+            AddSectionTitle(hatCard.transform, font, "Hat Collection");
+            fixtureHatText = AddText(hatCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 100f);
             setFirstHatVisibleButton = AddButton(hatCard.transform, font, "Set Visible Hat", OnSetFirstHatVisiblePressed, out setFirstHatVisibleLabel);
 
-            var debugPanel = CreateCard(body, "FixtureDebugPanel", 220f);
-            AddText(debugPanel.transform, font, "Fixture Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            fixtureDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            fixtureDebugPanel = CreateCard(body, "FixtureDebugPanel", 220f);
+            AddSectionTitle(fixtureDebugPanel.transform, font, "Debug / Status");
+            fixtureDebugText = AddText(fixtureDebugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            fixtureDebugPanel.SetActive(false);
         }
 
         private void BuildVaultPage(Font font)
         {
-            var topNavCard = CreateCard(vaultPage.transform, "VaultTopNavigationCard", 94f);
-            Text unusedLabel;
-            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+            CreateNavHeader(vaultPage.transform, font, "Vault of Treasures", out var _);
 
             var body = CreateScrollBody(vaultPage.transform, "VaultScrollableBody");
 
-            AddText(body, font, "Vault of Treasures", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+            var shellCard = CreateCard(body, "VaultShellCard", 280f);
+            AddSectionTitle(shellCard.transform, font, "Treasure Vault");
+            vaultStatusText = AddText(shellCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 200f);
 
-            var shellCard = CreateCard(body, "VaultShellCard", 240f);
-            vaultStatusText = AddText(shellCard.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 196f);
-
-            var debugPanel = CreateCard(body, "VaultDebugPanel", 220f);
-            AddText(debugPanel.transform, font, "Vault Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            vaultDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            vaultDebugPanel = CreateCard(body, "VaultDebugPanel", 220f);
+            AddSectionTitle(vaultDebugPanel.transform, font, "Debug / Status");
+            vaultDebugText = AddText(vaultDebugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            vaultDebugPanel.SetActive(false);
         }
 
         private void BuildBurrowPostsPage(Font font)
         {
-            var topNavCard = CreateCard(burrowPostsPage.transform, "BurrowPostsTopNavigationCard", 84f);
-            Text unusedLabel;
-            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+            CreateNavHeader(burrowPostsPage.transform, font, "Burrow Post", out var _);
 
             var body = CreateScrollBody(burrowPostsPage.transform, "BurrowPostsScrollableBody");
 
-            AddText(body, font, "Burrow Post", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
-
-            var postCard = CreateCard(body, "BurrowPostsCard", 310f);
-            burrowPostsStatusText = AddText(postCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 148f);
+            var postCard = CreateCard(body, "BurrowPostsCard", 340f);
+            AddSectionTitle(postCard.transform, font, "Available Posts");
+            burrowPostsStatusText = AddText(postCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
             readUtilityPostButton = AddButton(postCard.transform, font, "Read Root Twine Run", OnReadUtilityPostPressed, out readUtilityPostLabel);
             readGretaIntroPostButton = AddButton(postCard.transform, font, "Read Greta Intro Post", OnReadGretaIntroPostPressed, out readGretaIntroPostLabel);
 
-            var gretaCard = CreateCard(body, "GretaFollowupCard", 174f);
-            AddText(gretaCard.transform, font, "Greta", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
+            var gretaCard = CreateCard(body, "GretaFollowupCard", 200f);
+            AddSectionTitle(gretaCard.transform, font, "Greta");
             completeGretaFollowupButton = AddButton(gretaCard.transform, font, "Complete Greta Follow-Up", OnCompleteGretaFollowupPressed, out completeGretaFollowupLabel);
             completeRootrailRevealButton = AddButton(gretaCard.transform, font, "Follow Greta to the Old Track", OnCompleteRootrailRevealPressed, out completeRootrailRevealLabel);
 
-            var debugPanel = CreateCard(body, "BurrowPostsDebugPanel", 220f);
-            AddText(debugPanel.transform, font, "Burrow Post Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            burrowPostsDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            burrowPostsDebugPanel = CreateCard(body, "BurrowPostsDebugPanel", 220f);
+            AddSectionTitle(burrowPostsDebugPanel.transform, font, "Debug / Status");
+            burrowPostsDebugText = AddText(burrowPostsDebugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            burrowPostsDebugPanel.SetActive(false);
         }
 
         private void BuildDailyDutiesPage(Font font)
         {
-            var topNavCard = CreateCard(dailyDutiesPage.transform, "DailyDutiesTopNavigationCard", 84f);
-            Text unusedLabel;
-            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+            CreateNavHeader(dailyDutiesPage.transform, font, "Daily Duties", out var _);
 
             var body = CreateScrollBody(dailyDutiesPage.transform, "DailyDutiesScrollableBody");
 
-            AddText(body, font, "Daily Duties", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+            var dutiesCard = CreateCard(body, "DailyDutiesCard", 400f);
+            AddSectionTitle(dutiesCard.transform, font, "Active Duties");
+            dailyDutiesStatusText = AddText(dutiesCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 340f);
 
-            var dutiesCard = CreateCard(body, "DailyDutiesCard", 360f);
-            dailyDutiesStatusText = AddText(dutiesCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 316f);
-
-            var debugPanel = CreateCard(body, "DailyDutiesDebugPanel", 220f);
-            AddText(debugPanel.transform, font, "Daily Duties Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            dailyDutiesDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            dailyDutiesDebugPanel = CreateCard(body, "DailyDutiesDebugPanel", 220f);
+            AddSectionTitle(dailyDutiesDebugPanel.transform, font, "Debug / Status");
+            dailyDutiesDebugText = AddText(dailyDutiesDebugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            dailyDutiesDebugPanel.SetActive(false);
         }
 
         private void BuildRootrailPage(Font font)
         {
-            var topNavCard = CreateCard(rootrailPage.transform, "RootrailTopNavigationCard", 84f);
-            Text unusedLabel;
-            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+            CreateNavHeader(rootrailPage.transform, font, "Rootrail Station", out var _);
 
             var body = CreateScrollBody(rootrailPage.transform, "RootrailScrollableBody");
 
-            AddText(body, font, "Rootrail Station", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
+            var stationCard = CreateCard(body, "RootrailStationShellCard", 360f);
+            AddSectionTitle(stationCard.transform, font, "Loamwake Terminal");
+            rootrailStatusText = AddText(stationCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 280f);
 
-            var stationCard = CreateCard(body, "RootrailStationShellCard", 320f);
-            rootrailStatusText = AddText(stationCard.transform, font, "", 22, FontStyle.Normal, TextAnchor.UpperLeft, 276f);
-
-            var debugPanel = CreateCard(body, "RootrailDebugPanel", 220f);
-            AddText(debugPanel.transform, font, "Rootrail Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            rootrailDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            rootrailDebugPanel = CreateCard(body, "RootrailDebugPanel", 220f);
+            AddSectionTitle(rootrailDebugPanel.transform, font, "Debug / Status");
+            rootrailDebugText = AddText(rootrailDebugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            rootrailDebugPanel.SetActive(false);
         }
 
         private void BuildLuckyDrawPage(Font font)
         {
-            var topNavCard = CreateCard(luckyDrawPage.transform, "LuckyDrawTopNavigationCard", 84f);
-            Text unusedLabel;
-            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+            CreateNavHeader(luckyDrawPage.transform, font, "Lucky Draw Week", out var _);
 
             var body = CreateScrollBody(luckyDrawPage.transform, "LuckyDrawScrollableBody");
 
-            AddText(body, font, "Lucky Draw Week", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
-
-            var statusCard = CreateCard(body, "LuckyDrawStatusCard", 310f);
-            luckyDrawStatusText = AddText(statusCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 148f);
+            var statusCard = CreateCard(body, "LuckyDrawStatusCard", 340f);
+            AddSectionTitle(statusCard.transform, font, "Loose Lots");
+            luckyDrawStatusText = AddText(statusCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
             claimLuckyDrawWeeklyButton = AddButton(statusCard.transform, font, "Claim Weekly Lucky Draw", OnClaimLuckyDrawWeeklyPressed, out claimLuckyDrawWeeklyLabel);
             pullLuckyDrawButton = AddButton(statusCard.transform, font, "Pull Lucky Draw", OnPullLuckyDrawPressed, out pullLuckyDrawLabel);
 
-            var ledgerCard = CreateCard(body, "FestivalLedgerFreeLaneCard", 270f);
-            luckyDrawLedgerText = AddText(ledgerCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 198f);
+            var ledgerCard = CreateCard(body, "FestivalLedgerFreeLaneCard", 300f);
+            AddSectionTitle(ledgerCard.transform, font, "Festival Ledger");
+            luckyDrawLedgerText = AddText(ledgerCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 200f);
             claimFestivalLedgerButton = AddButton(ledgerCard.transform, font, "Claim Festival Ledger Reward", OnClaimFestivalLedgerPressed, out claimFestivalLedgerLabel);
 
-            var stallCard = CreateCard(body, "LuckyStallCard", 390f);
-            luckyDrawStallText = AddText(stallCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 166f);
+            var stallCard = CreateCard(body, "LuckyStallCard", 420f);
+            AddSectionTitle(stallCard.transform, font, "Lucky Stall");
+            luckyDrawStallText = AddText(stallCard.transform, font, "", 18, FontStyle.Normal, TextAnchor.UpperLeft, 170f);
             buyMooncapDrawButton = AddButton(stallCard.transform, font, "Buy Mooncap Lucky Draw", OnBuyMooncapDrawPressed, out buyMooncapDrawLabel);
             buyMaterialCacheButton = AddButton(stallCard.transform, font, "Buy Material Cache", OnBuyMaterialCachePressed, out buyMaterialCacheLabel);
             buyPolishBundleButton = AddButton(stallCard.transform, font, "Buy Polish Bundle", OnBuyPolishBundlePressed, out buyPolishBundleLabel);
             buyFestivalExchangeButton = AddButton(stallCard.transform, font, "Buy Festival Marks Exchange", OnBuyFestivalExchangePressed, out buyFestivalExchangeLabel);
 
-            var debugPanel = CreateCard(body, "LuckyDrawDebugPanel", 220f);
-            AddText(debugPanel.transform, font, "Lucky Draw / Stall Debug", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            luckyDrawDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            luckyDrawDebugPanel = CreateCard(body, "LuckyDrawDebugPanel", 220f);
+            AddSectionTitle(luckyDrawDebugPanel.transform, font, "Debug / Status");
+            luckyDrawDebugText = AddText(luckyDrawDebugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            luckyDrawDebugPanel.SetActive(false);
         }
 
         private void BuildCrackPage(Font font)
         {
-            var topNavCard = CreateCard(crackPage.transform, "CrackTopNavigationCard", 84f);
-            Text unusedLabel;
-            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+            CreateNavHeader(crackPage.transform, font, "The Crack", out var _);
 
             var body = CreateScrollBody(crackPage.transform, "CrackScrollableBody");
 
-            AddText(body, font, "The Crack", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
-
-            var statusCard = CreateCard(body, "CrackProbeCard", 390f);
-            crackStatusText = AddText(statusCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 266f);
+            var statusCard = CreateCard(body, "CrackProbeCard", 420f);
+            AddSectionTitle(statusCard.transform, font, "Endless Descent");
+            crackStatusText = AddText(statusCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 280f);
             probeCrackButton = AddButton(statusCard.transform, font, "Probe the Crack", OnProbeCrackPressed, out probeCrackLabel);
 
-            var debugPanel = CreateCard(body, "CrackDebugPanel", 220f);
-            AddText(debugPanel.transform, font, "Crack Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            crackDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            crackDebugPanel = CreateCard(body, "CrackDebugPanel", 220f);
+            AddSectionTitle(crackDebugPanel.transform, font, "Debug / Status");
+            crackDebugText = AddText(crackDebugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            crackDebugPanel.SetActive(false);
         }
 
         private void BuildCliquePage(Font font)
         {
-            var topNavCard = CreateCard(cliquePage.transform, "CliqueTopNavigationCard", 84f);
-            Text unusedLabel;
-            AddButton(topNavCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out unusedLabel);
+            CreateNavHeader(cliquePage.transform, font, "Clique", out var _);
 
             var body = CreateScrollBody(cliquePage.transform, "CliqueScrollableBody");
 
-            AddText(body, font, "Clique", 42, FontStyle.Bold, TextAnchor.MiddleLeft, 56f);
-
-            var statusCard = CreateCard(body, "CliqueShellCard", 520f);
-            cliqueStatusText = AddText(statusCard.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 396f);
+            var statusCard = CreateCard(body, "CliqueShellCard", 560f);
+            AddSectionTitle(statusCard.transform, font, "Local Clique");
+            cliqueStatusText = AddText(statusCard.transform, font, "", 19, FontStyle.Normal, TextAnchor.UpperLeft, 420f);
             claimCliqueStipendButton = AddButton(statusCard.transform, font, "Claim Local Clique Stipend", OnClaimCliqueStipendPressed, out claimCliqueStipendLabel);
 
-            var debugPanel = CreateCard(body, "CliqueDebugPanel", 220f);
-            AddText(debugPanel.transform, font, "Clique Debug / Status", 22, FontStyle.Bold, TextAnchor.MiddleLeft, 34f);
-            cliqueDebugText = AddText(debugPanel.transform, font, "", 20, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            cliqueDebugPanel = CreateCard(body, "CliqueDebugPanel", 220f);
+            AddSectionTitle(cliqueDebugPanel.transform, font, "Debug / Status");
+            cliqueDebugText = AddText(cliqueDebugPanel.transform, font, "", 17, FontStyle.Normal, TextAnchor.UpperLeft, 150f);
+            cliqueDebugPanel.SetActive(false);
         }
 
         private void Refresh()
@@ -537,40 +553,34 @@ namespace GnomeGame.UI
             burrowActionText.text = guide + "\nLast action: " + profileService.LastActionStatus;
 
             dewpondText.text =
-                "Dewpond\n" +
-                "Level: " + burrow.dewpond.level + "\n" +
-                "Stored output: " + burrow.dewpond.stored_output + " Mooncaps\n" +
-                "Storage cap: " + burrow.dewpond.storage_cap;
+                "Level: " + burrow.dewpond.level +
+                "   Stored: " + burrow.dewpond.stored_output + "/" + burrow.dewpond.storage_cap + " Mooncaps";
 
             mushpatchText.text =
-                "Mushpatch\n" +
-                "Level: " + burrow.mushpatch.level + "\n" +
-                "Stored output: " + burrow.mushpatch.stored_output + " Mushcaps\n" +
-                "Storage cap: " + burrow.mushpatch.storage_cap;
+                "Level: " + burrow.mushpatch.level +
+                "   Stored: " + burrow.mushpatch.stored_output + "/" + burrow.mushpatch.storage_cap + " Mushcaps";
 
             burrowStatusText.text =
-                "Burrow status\n" +
-                "Burrow level: " + burrow.burrow_level + "\n" +
-                "Expand count: " + burrow.expand_count + "\n" +
-                "Next expand cost: " + (nextExpandCost > 0 ? nextExpandCost + " Mooncaps" : "Sprint 1 stub after level 3") + "\n" +
+                "Burrow level: " + burrow.burrow_level +
+                "   Expand count: " + burrow.expand_count + "\n" +
+                "Next cost: " + (nextExpandCost > 0 ? nextExpandCost + " Mooncaps" : "Stub after level 3") + "\n" +
                 (nextExpandCost > 0 && profile.wallet.mooncaps < nextExpandCost
                     ? "Blocked: need " + nextExpandCost + " Mooncaps"
-                    : "Ready");
+                    : "Ready to expand");
 
             rootmineText.text =
-                "Rootmine\n" +
-                "Status: " + (burrow.rootmine.unlocked ? "Unlocked" : "Locked") + "\n" +
-                "Level: " + burrow.rootmine.level + "   Storage cap: " + burrow.rootmine.material_storage_cap + "\n" +
+                "Status: " + (burrow.rootmine.unlocked ? "Unlocked" : "Locked") +
+                "   Level: " + burrow.rootmine.level +
+                "   Cap: " + burrow.rootmine.material_storage_cap + "\n" +
                 "Stored: " + burrow.rootmine.stored_tangled_root_twine + " Twine / " +
                 burrow.rootmine.stored_crumbled_ore_chunk + " Ore\n" +
                 burrow.rootmine.status_note;
 
             fixtureSummaryText.text =
-                "Fixture / Hat summary\n" +
                 "Equipped: " + profile.fixture_state.equipped_fixture_instance_ids.Count + "/" + profile.account.fixture_cap +
-                "   Owned Fixtures: " + profile.fixture_state.fixture_inventory.Count + "\n" +
-                "Visible Hat: " + (string.IsNullOrEmpty(profile.hat_state.visible_hat_id) ? "None" : FixtureStateHelper.FirstHatDisplayName) +
-                "   Power bonus: +" + FixtureStateHelper.GetTotalExpeditionPowerBonus(profile);
+                "   Owned: " + profile.fixture_state.fixture_inventory.Count +
+                "   Hat: " + (string.IsNullOrEmpty(profile.hat_state.visible_hat_id) ? "None" : FixtureStateHelper.FirstHatDisplayName) +
+                "   Power: +" + FixtureStateHelper.GetTotalExpeditionPowerBonus(profile);
 
             socialSummaryText.text =
                 "Greta: " + (profile.social_progress.greta.unlocked ? "Unlocked" : "Locked") +
@@ -579,16 +589,16 @@ namespace GnomeGame.UI
                 (luckyDrawVisible
                     ? "Lucky Draw: tickets " + profile.wallet.lucky_draws + ", pulls " + luckyDraw.pull_count
                     : "Lucky Draw hidden until Greta unlock") + "\n" +
-                "Crack: " + (crack.visible ? "Depth " + crack.best_depth + ", Coins " + profile.wallet.crack_coins : "Hidden until Rootrail reveal") +
-                "   Clique: " + (clique.visible ? clique.player_role + ", Favor " + profile.wallet.favor_marks : "Hidden until Rootrail reveal");
+                "Crack: " + (crack.visible ? "Depth " + crack.best_depth + ", Coins " + profile.wallet.crack_coins : "Hidden") +
+                "   Clique: " + (clique.visible ? clique.player_role + ", Favor " + profile.wallet.favor_marks : "Hidden");
 
             fieldReturnsSnippetText.text = BuildFieldReturnsSnippet(loamwake.field_returns);
 
             burrowDebugText.text =
-                "Auth state: " + snapshot.auth_state + "\n" +
-                "Save state: " + snapshot.save_state + "\n" +
-                "Guide step: " + profile.tutorial_progress.current_step_id + "\n" +
-                "Guide completed: " + profile.tutorial_progress.completed_step_ids.Count;
+                "Auth: " + snapshot.auth_state +
+                "   Save: " + snapshot.save_state +
+                "   Guide: " + profile.tutorial_progress.current_step_id +
+                "   Steps done: " + profile.tutorial_progress.completed_step_ids.Count;
 
             loamwakeWalletText.text =
                 "Mushcaps: " + snapshot.mushcaps + "   Mooncaps: " + snapshot.mooncaps + "\n" +
@@ -629,27 +639,25 @@ namespace GnomeGame.UI
                 profile.wallet.mushcaps);
 
             keeperText.text =
-                "First Warden: The Mudgrip\n" +
                 "Status: " + (loamwake.keeper_lw_001_defeated ? "Defeated" : (loamwake.keeper_lw_001_unlocked ? "Unlocked" : "Locked")) + "\n" +
-                "Zone: Mudpipe Hollow\n" +
-                "Auto-Clash threshold: 28";
+                "Zone: Mudpipe Hollow   Auto-Clash threshold: 28";
             keeperButton.interactable = loamwake.keeper_lw_001_unlocked && !loamwake.keeper_lw_001_defeated && profile.wallet.mushcaps >= 2;
             keeperButtonLabel.text = loamwake.keeper_lw_001_defeated ? "Warden Defeated" : "Challenge The Mudgrip (2 Mushcaps)";
 
             loamwakeFieldReturnsText.text = BuildFieldReturnsDetail(loamwake.field_returns);
 
             loamwakeDebugText.text =
-                "Auth state: " + snapshot.auth_state + "\n" +
-                "Save state: " + snapshot.save_state + "\n" +
-                "Current stratum: " + (string.IsNullOrEmpty(snapshot.current_stratum_id) ? "burrow" : snapshot.current_stratum_id) + "\n" +
-                "The Mudgrip defeated: " + loamwake.keeper_lw_001_defeated + "\n" +
-                "Active UID: " + snapshot.active_uid + "\n" +
-                "Save path: " + snapshot.save_file_path;
+                "Auth: " + snapshot.auth_state +
+                "   Save: " + snapshot.save_state +
+                "   Stratum: " + (string.IsNullOrEmpty(snapshot.current_stratum_id) ? "burrow" : snapshot.current_stratum_id) + "\n" +
+                "Mudgrip defeated: " + loamwake.keeper_lw_001_defeated +
+                "   UID: " + snapshot.active_uid +
+                "   Path: " + snapshot.save_file_path;
 
             fixtureWalletText.text =
                 "Mooncaps: " + snapshot.mooncaps +
-                "   Tangled Root Twine: " + profile.wallet.loamwake_materials.tangled_root_twine +
-                "   Crumbled Ore Chunk: " + profile.wallet.loamwake_materials.crumbled_ore_chunk + "\n" +
+                "   Twine: " + profile.wallet.loamwake_materials.tangled_root_twine +
+                "   Ore: " + profile.wallet.loamwake_materials.crumbled_ore_chunk + "\n" +
                 "Fixture cap: " + profile.fixture_state.equipped_fixture_instance_ids.Count + "/" + profile.account.fixture_cap;
             fixtureActionText.text = guide + "\nLast action: " + profileService.LastActionStatus;
             fixtureCraftText.text =
@@ -662,16 +670,15 @@ namespace GnomeGame.UI
                 "Equipped ordered list: " + BuildEquippedFixtureList(profile) + "\n" +
                 profileService.BuildPowerSummary();
             fixtureHatText.text =
-                "Hat Collection shell\n" +
                 "Loamwake Dirt Cap: " + (FixtureStateHelper.HasHat(profile, FixtureStateHelper.FirstHatId) ? "Unlocked" : "Locked until The Mudgrip is defeated") + "\n" +
                 "Visible Hat: " + (string.IsNullOrEmpty(profile.hat_state.visible_hat_id) ? "None" : FixtureStateHelper.FirstHatDisplayName) + "\n" +
                 profile.hat_state.passive_summary;
             fixtureDebugText.text =
-                "Auth state: " + snapshot.auth_state + "\n" +
-                "Save state: " + snapshot.save_state + "\n" +
-                "Fixture recipe IDs: " + profile.fixture_state.crafted_recipe_ids.Count + "\n" +
-                "Fixture cap model: ordered list, no rigid slots\n" +
-                "Save path: " + snapshot.save_file_path;
+                "Auth: " + snapshot.auth_state +
+                "   Save: " + snapshot.save_state +
+                "   Recipe IDs: " + profile.fixture_state.crafted_recipe_ids.Count +
+                "   Model: ordered list, no rigid slots\n" +
+                "Path: " + snapshot.save_file_path;
 
             vaultStatusText.text =
                 "Vault state: " + (profile.vault_state.visible ? "Visible shell" : "Locked shell") + "\n" +
@@ -679,49 +686,48 @@ namespace GnomeGame.UI
                 "Treasures not implemented in Sprint 3.\n" +
                 "Set / Polish / Strengthen / Attune are intentionally absent.";
             vaultDebugText.text =
-                "Auth state: " + snapshot.auth_state + "\n" +
-                "Save state: " + snapshot.save_state + "\n" +
-                "Treasure progression enabled: " + profile.vault_state.treasure_progression_enabled + "\n" +
-                "Owned treasure count: " + profile.vault_state.owned_treasure_count + "\n" +
-                "Save path: " + snapshot.save_file_path;
+                "Auth: " + snapshot.auth_state +
+                "   Save: " + snapshot.save_state +
+                "   Treasure progression: " + profile.vault_state.treasure_progression_enabled +
+                "   Owned: " + profile.vault_state.owned_treasure_count + "\n" +
+                "Path: " + snapshot.save_file_path;
 
             burrowPostsStatusText.text = BuildBurrowPostsStatus(profile);
             burrowPostsDebugText.text =
-                "Auth state: " + snapshot.auth_state + "\n" +
-                "Save state: " + snapshot.save_state + "\n" +
-                "Latest social result: " + profile.social_progress.latest_result_summary + "\n" +
-                "Greta first follow-up: " + profile.social_progress.greta.first_followup_completed + "\n" +
-                "Save path: " + snapshot.save_file_path;
+                "Auth: " + snapshot.auth_state +
+                "   Save: " + snapshot.save_state +
+                "   Latest social: " + profile.social_progress.latest_result_summary + "\n" +
+                "Greta follow-up: " + profile.social_progress.greta.first_followup_completed +
+                "   Path: " + snapshot.save_file_path;
 
             dailyDutiesStatusText.text = BuildDailyDutiesStatus(profile);
             dailyDutiesDebugText.text =
-                "Auth state: " + snapshot.auth_state + "\n" +
-                "Save state: " + snapshot.save_state + "\n" +
-                "Daily Duty count: " + profile.social_progress.daily_duties.Count + "\n" +
-                "Latest social result: " + profile.social_progress.latest_result_summary + "\n" +
-                "Save path: " + snapshot.save_file_path;
+                "Auth: " + snapshot.auth_state +
+                "   Save: " + snapshot.save_state +
+                "   Duty count: " + profile.social_progress.daily_duties.Count +
+                "   Latest social: " + profile.social_progress.latest_result_summary + "\n" +
+                "Path: " + snapshot.save_file_path;
 
             rootrailStatusText.text =
                 "Rootrail Terminal - Loamwake Station\n" +
-                "Reveal state: " + (profile.social_progress.rootrail.revealed ? "Revealed" : "Hidden") + "\n" +
-                "Station shell: " + (profile.social_progress.rootrail.station_visible ? "Visible" : "Locked") + "\n" +
-                "Repair progression: " + (profile.social_progress.rootrail.repair_progression_enabled ? "Enabled" : "Not implemented in Sprint 4") + "\n" +
+                "Reveal: " + (profile.social_progress.rootrail.revealed ? "Revealed" : "Hidden") +
+                "   Station: " + (profile.social_progress.rootrail.station_visible ? "Visible" : "Locked") + "\n" +
+                "Repair: " + (profile.social_progress.rootrail.repair_progression_enabled ? "Enabled" : "Not implemented") + "\n" +
                 "Forgotten Manual: Loamwake Terminal Routing Manual - Not in Codex\n" +
                 profile.social_progress.rootrail.status_note;
             rootrailDebugText.text =
-                "Auth state: " + snapshot.auth_state + "\n" +
-                "Save state: " + snapshot.save_state + "\n" +
-                "Repair timer started: " + profile.social_progress.rootrail.repair_timer_started + "\n" +
-                "Current repair step: " + (string.IsNullOrEmpty(profile.social_progress.rootrail.current_step_id) ? "none" : profile.social_progress.rootrail.current_step_id) + "\n" +
-                "Rootrail Parts: " + profile.wallet.rootrail_parts;
+                "Auth: " + snapshot.auth_state +
+                "   Save: " + snapshot.save_state +
+                "   Timer started: " + profile.social_progress.rootrail.repair_timer_started + "\n" +
+                "Step: " + (string.IsNullOrEmpty(profile.social_progress.rootrail.current_step_id) ? "none" : profile.social_progress.rootrail.current_step_id) +
+                "   Parts: " + profile.wallet.rootrail_parts;
 
             luckyDrawStatusText.text =
-                "Lucky Draw Week: Loose Lots\n" +
-                "State: " + (luckyDraw.active ? "Active" : (luckyDraw.unlocked ? "Unlocked" : "Locked/hidden")) + "\n" +
-                "Gate: " + luckyDraw.unlock_gate_note + " - " + (luckyDraw.unlock_gate_met ? "met" : "not met") + "\n" +
-                "Lucky Draw tickets: " + profile.wallet.lucky_draws + "   Pulls: " + luckyDraw.pull_count + "\n" +
-                "Weekly claim: " + (luckyDraw.weekly_claimed ? "claimed" : "ready") +
-                "   Activity source: " + (luckyDraw.activity_ticket_claimed ? "claimed" : luckyDraw.activity_progress + "/3") + "\n" +
+                "State: " + (luckyDraw.active ? "Active" : (luckyDraw.unlocked ? "Unlocked" : "Locked")) +
+                "   Gate: " + luckyDraw.unlock_gate_note + " - " + (luckyDraw.unlock_gate_met ? "met" : "not met") + "\n" +
+                "Tickets: " + profile.wallet.lucky_draws + "   Pulls: " + luckyDraw.pull_count + "\n" +
+                "Weekly: " + (luckyDraw.weekly_claimed ? "claimed" : "ready") +
+                "   Activity: " + (luckyDraw.activity_ticket_claimed ? "claimed" : luckyDraw.activity_progress + "/3") + "\n" +
                 "Latest pull: " + luckyDraw.latest_pull_result;
             luckyDrawLedgerText.text = LuckyDrawEventService.BuildLedgerSummary(profile);
             luckyDrawStallText.text =
@@ -730,43 +736,45 @@ namespace GnomeGame.UI
                 "   Festival Marks: " + profile.wallet.festival_marks +
                 "   Polishes: " + profile.wallet.polishes;
             luckyDrawDebugText.text =
-                "Auth state: " + snapshot.auth_state + "\n" +
-                "Save state: " + snapshot.save_state + "\n" +
-                "Week marker: " + luckyDraw.week_marker + "\n" +
-                "Paid path active: " + luckyDraw.paid_path_active + "   IAP enabled: " + luckyDraw.iap_enabled + "\n" +
-                "Latest event result: " + luckyDraw.latest_result_summary;
+                "Auth: " + snapshot.auth_state +
+                "   Save: " + snapshot.save_state +
+                "   Week: " + luckyDraw.week_marker + "\n" +
+                "Paid: " + luckyDraw.paid_path_active +
+                "   IAP: " + luckyDraw.iap_enabled +
+                "   Latest: " + luckyDraw.latest_result_summary;
 
             crackStatusText.text =
-                "Endless descent prototype shell\n" +
-                "State: " + (crack.unlocked ? "Unlocked" : (crack.visible ? "Visible shell" : "Locked/hidden")) + "\n" +
-                "Gate: " + crack.unlock_gate_note + " - " + (crack.unlock_gate_met ? "met" : "not met") + "\n" +
-                "Current depth: " + crack.current_depth + "   Best depth: " + crack.best_depth + "\n" +
-                "Probe count: " + crack.probe_count + "   Crack Coins: " + profile.wallet.crack_coins + "\n" +
-                "Reward summary: " + crack.reward_claim_summary + "\n" +
-                "Latest result: " + crack.latest_result_summary + "\n" +
+                "State: " + (crack.unlocked ? "Unlocked" : (crack.visible ? "Visible" : "Locked")) +
+                "   Gate: " + crack.unlock_gate_note + " - " + (crack.unlock_gate_met ? "met" : "not met") + "\n" +
+                "Depth: " + crack.current_depth + "   Best: " + crack.best_depth +
+                "   Probes: " + crack.probe_count + "   Coins: " + profile.wallet.crack_coins + "\n" +
+                "Rewards: " + crack.reward_claim_summary + "\n" +
+                "Latest: " + crack.latest_result_summary + "\n" +
                 "Only Probe the Crack is implemented in this sprint.";
             crackDebugText.text =
-                "Auth state: " + snapshot.auth_state + "\n" +
-                "Save state: " + snapshot.save_state + "\n" +
-                "Visible: " + crack.visible + "   Unlocked: " + crack.unlocked + "\n" +
-                "Latest Crack result: " + crack.latest_result_summary + "\n" +
-                "Save path: " + snapshot.save_file_path;
+                "Auth: " + snapshot.auth_state +
+                "   Save: " + snapshot.save_state +
+                "   Visible: " + crack.visible +
+                "   Unlocked: " + crack.unlocked + "\n" +
+                "Latest: " + crack.latest_result_summary +
+                "   Path: " + snapshot.save_file_path;
 
             cliqueStatusText.text =
-                "Local social shell\n" +
-                "State: " + (clique.unlocked ? "Unlocked" : (clique.visible ? "Visible shell" : "Locked/hidden")) + "\n" +
-                "Gate: " + clique.unlock_gate_note + " - " + (clique.unlock_gate_met ? "met" : "not met") + "\n" +
-                "Clique name: " + clique.clique_name + "\n" +
-                "Your role: " + clique.player_role + "   Favor Marks: " + profile.wallet.favor_marks + "\n" +
+                "State: " + (clique.unlocked ? "Unlocked" : (clique.visible ? "Visible" : "Locked")) +
+                "   Gate: " + clique.unlock_gate_note + " - " + (clique.unlock_gate_met ? "met" : "not met") + "\n" +
+                "Name: " + clique.clique_name +
+                "   Role: " + clique.player_role +
+                "   Favor: " + profile.wallet.favor_marks + "\n" +
                 "Clique Rolls:\n" + BuildCliqueRosterSummary(clique) +
-                "Great Dispute: stub notice only; no gameplay is implemented.\n" +
-                "Latest result: " + clique.latest_result_summary;
+                "Great Dispute: stub notice only; no gameplay implemented.\n" +
+                "Latest: " + clique.latest_result_summary;
             cliqueDebugText.text =
-                "Auth state: " + snapshot.auth_state + "\n" +
-                "Save state: " + snapshot.save_state + "\n" +
-                "Networking enabled: " + clique.networking_enabled + "\n" +
-                "Multiplayer enabled: " + clique.multiplayer_enabled + "   Shared state enabled: " + clique.shared_state_enabled + "\n" +
-                "Great Dispute stub only: " + clique.great_dispute_stub_only;
+                "Auth: " + snapshot.auth_state +
+                "   Save: " + snapshot.save_state +
+                "   Networking: " + clique.networking_enabled + "\n" +
+                "Multiplayer: " + clique.multiplayer_enabled +
+                "   Shared: " + clique.shared_state_enabled +
+                "   Dispute stub: " + clique.great_dispute_stub_only;
 
             dewpondGatherButton.interactable = burrow.dewpond.stored_output > 0;
             mushpatchGatherButton.interactable = burrow.mushpatch.stored_output > 0;
@@ -852,6 +860,8 @@ namespace GnomeGame.UI
             probeCrackLabel.text = crack.unlocked ? "Probe the Crack" : "Crack Locked";
             claimCliqueStipendButton.interactable = clique.unlocked && !clique.local_stipend_claimed;
             claimCliqueStipendLabel.text = clique.local_stipend_claimed ? "Local Stipend Claimed" : "Claim Local Clique Stipend";
+
+            UpdateDebugPanelVisibility();
         }
 
         private void UpdateZoneCard(
@@ -870,9 +880,8 @@ namespace GnomeGame.UI
             var firstClear = zone != null && zone.first_clear;
 
             zoneText.text =
-                displayName + "\n" +
-                "Status: " + (unlocked ? "Unlocked" : "Locked") + "\n" +
-                "Difficulty: " + difficulty + "\n" +
+                "Status: " + (unlocked ? "Unlocked" : "Locked") +
+                "   Difficulty: " + difficulty + "\n" +
                 "First clear: " + firstClear + "   Clears: " + clearCount;
 
             safeButton.interactable = unlocked && currentMushcaps >= 1;
@@ -1103,6 +1112,35 @@ namespace GnomeGame.UI
             profileService.ReloadSave();
         }
 
+        private void OnToggleDebugPressed()
+        {
+            debugExpanded = !debugExpanded;
+            UpdateDebugPanelVisibility();
+        }
+
+        private void UpdateDebugPanelVisibility()
+        {
+            debugToggleBurrowLabel.text = debugExpanded ? "Debug: Hide" : "Debug: Show";
+            SetDebugPanelActive(burrowDebugPanel);
+            SetDebugPanelActive(loamwakeDebugPanel);
+            SetDebugPanelActive(fixtureDebugPanel);
+            SetDebugPanelActive(vaultDebugPanel);
+            SetDebugPanelActive(burrowPostsDebugPanel);
+            SetDebugPanelActive(dailyDutiesDebugPanel);
+            SetDebugPanelActive(rootrailDebugPanel);
+            SetDebugPanelActive(luckyDrawDebugPanel);
+            SetDebugPanelActive(crackDebugPanel);
+            SetDebugPanelActive(cliqueDebugPanel);
+        }
+
+        private void SetDebugPanelActive(GameObject panel)
+        {
+            if (panel != null)
+            {
+                panel.SetActive(debugExpanded);
+            }
+        }
+
         private void UpdatePageVisibility()
         {
             burrowPage.SetActive(currentScreen == ScreenPage.Burrow);
@@ -1243,11 +1281,10 @@ namespace GnomeGame.UI
         {
             if (result == null || string.IsNullOrEmpty(result.last_zone_id))
             {
-                return "Field Returns\nNo Loamwake runs recorded yet.";
+                return "No Loamwake runs recorded yet.";
             }
 
-            return "Field Returns\n" +
-                result.last_zone_id + " via " + result.route_id + "\n" +
+            return result.last_zone_id + " via " + result.route_id + "\n" +
                 "Result: " + result.result + "   Mooncaps: +" + result.mooncaps + "   Mushcaps: +" + result.mushcaps;
         }
 
@@ -1255,7 +1292,7 @@ namespace GnomeGame.UI
         {
             if (result == null || string.IsNullOrEmpty(result.last_zone_id))
             {
-                return "Latest result\nNo Loamwake exploration recorded yet.";
+                return "No Loamwake exploration recorded yet.";
             }
 
             var materialLine = "Materials: none";
@@ -1274,11 +1311,22 @@ namespace GnomeGame.UI
                 }
             }
 
-            return "Latest result\n" +
-                "Zone: " + result.last_zone_id + "\n" +
+            return "Zone: " + result.last_zone_id + "\n" +
                 "Route: " + result.route_id + "   Result: " + result.result + "\n" +
                 "Mooncaps: +" + result.mooncaps + "   Mushcaps: +" + result.mushcaps + "\n" +
                 materialLine;
+        }
+
+        private void CreateNavHeader(Transform parent, Font font, string pageTitle, out Button backButton)
+        {
+            var navCard = CreateCard(parent, pageTitle + "NavHeader", 96f);
+            backButton = AddButton(navCard.transform, font, "Back to Burrow", OnBackToBurrowPressed, out var _);
+            AddText(navCard.transform, font, pageTitle, 32, FontStyle.Bold, TextAnchor.MiddleLeft, 40f);
+        }
+
+        private static void AddSectionTitle(Transform parent, Font font, string title)
+        {
+            AddText(parent, font, title, 20, FontStyle.Bold, TextAnchor.MiddleLeft, 30f);
         }
 
         private static GameObject CreatePage(Transform parent, string name)
@@ -1293,11 +1341,11 @@ namespace GnomeGame.UI
             rect.offsetMax = Vector2.zero;
 
             var image = page.AddComponent<Image>();
-            image.color = new Color(0.08f, 0.1f, 0.09f, 0.96f);
+            image.color = new Color(0.06f, 0.08f, 0.07f, 0.98f);
 
             var layout = page.AddComponent<VerticalLayoutGroup>();
-            layout.padding = new RectOffset(18, 18, 18, 18);
-            layout.spacing = 8;
+            layout.padding = new RectOffset(14, 14, 14, 14);
+            layout.spacing = 10;
             layout.childControlWidth = true;
             layout.childControlHeight = true;
             layout.childForceExpandWidth = true;
@@ -1308,7 +1356,7 @@ namespace GnomeGame.UI
 
         private static GameObject CreateCard(Transform parent, string name, float height)
         {
-            var card = CreatePanel(parent, name, new Color(0.14f, 0.18f, 0.16f, 1f));
+            var card = CreatePanel(parent, name, new Color(0.12f, 0.16f, 0.14f, 1f));
             var rect = card.GetComponent<RectTransform>();
             rect.sizeDelta = new Vector2(0f, height);
 
@@ -1316,7 +1364,7 @@ namespace GnomeGame.UI
             layoutElement.preferredHeight = height;
 
             var layout = card.AddComponent<VerticalLayoutGroup>();
-            layout.padding = new RectOffset(12, 12, 12, 12);
+            layout.padding = new RectOffset(14, 14, 10, 10);
             layout.spacing = 6;
             layout.childControlWidth = true;
             layout.childControlHeight = false;
@@ -1326,16 +1374,16 @@ namespace GnomeGame.UI
             return card;
         }
 
-        private static GameObject CreateButtonRow(Transform parent, string name)
+        private static GameObject CreateButtonRow(Transform parent, string name, float height)
         {
             var row = new GameObject(name, typeof(RectTransform));
             row.transform.SetParent(parent, false);
 
             var rect = row.GetComponent<RectTransform>();
-            rect.sizeDelta = new Vector2(0f, 48f);
+            rect.sizeDelta = new Vector2(0f, height);
 
             var layoutElement = row.AddComponent<LayoutElement>();
-            layoutElement.preferredHeight = 48f;
+            layoutElement.preferredHeight = height;
 
             var layout = row.AddComponent<HorizontalLayoutGroup>();
             layout.spacing = 8;
@@ -1349,7 +1397,7 @@ namespace GnomeGame.UI
 
         private static Transform CreateScrollBody(Transform parent, string name)
         {
-            var scrollObject = CreatePanel(parent, name, new Color(0.1f, 0.12f, 0.11f, 0.35f));
+            var scrollObject = CreatePanel(parent, name, new Color(0.08f, 0.1f, 0.09f, 0.3f));
             var scrollRectTransform = scrollObject.GetComponent<RectTransform>();
 
             var layoutElement = scrollObject.AddComponent<LayoutElement>();
@@ -1381,7 +1429,7 @@ namespace GnomeGame.UI
 
             var layout = contentObject.AddComponent<VerticalLayoutGroup>();
             layout.padding = new RectOffset(0, 0, 0, 0);
-            layout.spacing = 8;
+            layout.spacing = 10;
             layout.childControlWidth = true;
             layout.childControlHeight = false;
             layout.childForceExpandWidth = true;
@@ -1435,7 +1483,7 @@ namespace GnomeGame.UI
 
         private static Button AddButton(Transform parent, Font font, string label, UnityEngine.Events.UnityAction onClick, out Text labelText)
         {
-            var buttonObject = CreatePanel(parent, label, new Color(0.18f, 0.23f, 0.2f, 1f));
+            var buttonObject = CreatePanel(parent, label, new Color(0.16f, 0.22f, 0.18f, 1f));
             var button = buttonObject.AddComponent<Button>();
             if (onClick != null)
             {
@@ -1443,18 +1491,18 @@ namespace GnomeGame.UI
             }
 
             var colors = button.colors;
-            colors.highlightedColor = new Color(0.24f, 0.32f, 0.27f, 1f);
-            colors.pressedColor = new Color(0.12f, 0.16f, 0.14f, 1f);
-            colors.disabledColor = new Color(0.14f, 0.16f, 0.15f, 0.8f);
+            colors.highlightedColor = new Color(0.22f, 0.3f, 0.25f, 1f);
+            colors.pressedColor = new Color(0.1f, 0.14f, 0.12f, 1f);
+            colors.disabledColor = new Color(0.12f, 0.14f, 0.13f, 0.7f);
             button.colors = colors;
 
             var rect = buttonObject.GetComponent<RectTransform>();
-            rect.sizeDelta = new Vector2(0f, 48f);
+            rect.sizeDelta = new Vector2(0f, 44f);
 
             var layout = buttonObject.AddComponent<LayoutElement>();
-            layout.preferredHeight = 48f;
+            layout.preferredHeight = 44f;
 
-            labelText = AddText(buttonObject.transform, font, label, 20, FontStyle.Bold, TextAnchor.MiddleCenter, 48f);
+            labelText = AddText(buttonObject.transform, font, label, 18, FontStyle.Bold, TextAnchor.MiddleCenter, 44f);
             var labelRect = labelText.GetComponent<RectTransform>();
             labelRect.anchorMin = Vector2.zero;
             labelRect.anchorMax = Vector2.one;
